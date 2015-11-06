@@ -1,3 +1,10 @@
+#Welcome to the Carnegie Museum of Art’s Collection Dataset. 
+In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on over 30,000 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center. 
+
+In this repository, you will find the files containing all of the records, as well as a description of the data, the data structure, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below. 
+
+Your feedback and input is always welcome. If you’ve got questions or suggestions, please [send them our way](mailto:"webmaster@cmoa.org") with “GitHub Dataset” in the subject header. 
+
 ## Data Structure
 
 This data release includes nearly all accessioned works in our database. It contains basic data for each work.   
@@ -41,7 +48,7 @@ image_rights           | Array of Strings |  Optional  | The rights text associa
 
 ### Artist Information
 
-Note that there may be more than one creator associated with an artwork.  In the CSV, each column for the creator *may* contain a pipe-separated list of values.  For the JSON, there will be a ``creator`` key containing a nested array of objects—one for each creator.
+Note that there may be more than one creator associated with an artwork.  In the CSV, each column for the creator *may* contain a pipe-separated list of values. For the JSON, there will be a ``creator`` key containing a nested array of objects—one for each creator.
 
 Header/JSON object Key | Type           | Required?    | Description  | Example
 -----------------------|----------------|--------------|--------------|------------
@@ -59,7 +66,7 @@ death_place            |  String        | Optional     | Name of place of death,
 
 <a name="acq_note">1: Accession Number Details:</a> It is in two or more parts, each part separated by a period. The first number indicates the year it was acquired (yy or yyyyy), the middle part generally identifies the lot in which it was given, and the third number identifies the specific item within the lot. Letters are also used to identify removable parts of a specific item, such as a coffee pot(A) and the lid to the coffee pot(B). Items acquired before 1996 begin with a 2 digit year identifier, so 96.1 refers to 1896. After 1996, four digit numbers were used.
 
-<a name="prov_note">2 Provenance Text Details:</a> The provenance is listed in chronological order, beginning with the earliest known owner. Life dates of owners, if known, are enclosed in brackets. Uncertain information is indicated by the terms "possibly" or "probably" and explained in footnotes. Dealers, auction houses, or agents are enclosed in parentheses to distinguish them from private owners. Relationships between owners and methods of transactions are indicated by punctuation: a semicolon is used to indicate that the work passed directly between two owners (including dealers, auction houses, or agents), and a period is used to separate two owners (including dealers, auction houses, or agents) if a direct transfer did not occur or is not known to have occurred. Footnotes are used to document or clarify information.
+<a name="prov_note">2: Provenance Text Details:</a> The provenance is listed in chronological order, beginning with the earliest known owner. Life dates of owners, if known, are enclosed in brackets. Uncertain information is indicated by the terms “possibly” or “probably” and explained in footnotes. Dealers, auction houses, or agents are enclosed in parentheses to distinguish them from private owners. Relationships between owners and methods of transactions are indicated by punctuation: a semicolon is used to indicate that the work passed directly between two owners (including dealers, auction houses, or agents), and a period is used to separate two owners (including dealers, auction houses, or agents) if a direct transfer did not occur or is not known to have occurred. Footnotes are used to document or clarify information.
 
 
 ---
@@ -68,15 +75,15 @@ death_place            |  String        | Optional     | Name of place of death,
 ##Usage Guidelines 
 The dataset contains data and metadata about over 30k objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
 
-Please [contact us](mailto:info@cmoa.org) if you have any questions. 
+Please [contact us](mailto:webmaster@cmoa.org) if you have any questions. 
 
 
 ###Image usage
-The dataset provides links to collections images on CMOA's [collections search page](http://www.cmoa.org/collection/), but does not provide the images themselves. 
+The dataset provides links to collections images on CMOA’s [collections search page](http://www.cmoa.org/collection/), but does not provide the images themselves. 
 
 __Images are not covered under the same license as the dataset.__
 
-If you would like to license images of artworks in CMOA's collection, please contact the [Rights and Reproduction Department](http://www.cmoa.org/Collection.aspx?id=17514). 
+If you would like to license images of artworks in CMOA’s collection, please contact the [Rights and Reproduction Department](http://www.cmoa.org/Collection.aspx?id=17514). 
 
 
 ###Dataset Integrity
@@ -87,7 +94,7 @@ Please be aware that the dataset contains incomplete data and/or errors. CMOA st
 
 At CMOA, research is always ongoing, and so our understanding of these objects and their metadata are subject to change. This dataset will be updated on a regular basis to reflect our current best understanding of the object. You are advised to use, or update to, the most current version of the dataset for best accuracy. 
 
-If you have identified errors in the dataset, or have additional information to add, we welcome your feedback! Please contact us at <mailto:collections@cmoa.org>. 
+If you have identified errors in the dataset, or have additional information to add, we welcome your feedback! Please contact us at <mailto:webmaster@cmoa.org>. 
 
 Thanks! 
 
@@ -95,11 +102,11 @@ Thanks!
 ###Attribution
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-We respectfully ask that you acknowledge CMOA as a source wherever possible, in order to preserve a link to the dataset. If this data is to be cited in a publication, please cite it using the DOI listed above.  By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data. And it's just nice. 
+We respectfully ask that you acknowledge CMOA as a source wherever possible, in order to preserve a link to the dataset. If this data is to be cited in a publication, please cite it using the DOI listed above.  By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data. And it’s just nice. 
 
 ###No Endorsement/Representation
 
-Use of this dataset __does not__ grant or imply CMOA's approval, commission, or support of your work.  CMOA retains the rights to all of its trademarks, and they are not part of the dataset.  If you transform or modify to the dataset, you must clearly distinguish the resulting work as having been modified from the CMOA dataset.   If you create a derivative dataset from the CMOA dataset, we ask that you consider releasing the derivative under a CC0 license, which mirrors the licensing of the CMOA dataset.
+Use of this dataset __does not__ grant or imply CMOA’s approval, commission, or support of your work.  CMOA retains the rights to all of its trademarks, and they are not part of the dataset. If you transform or modify to the dataset, you must clearly distinguish the resulting work as having been modified from the CMOA dataset. If you create a derivative dataset from the CMOA dataset, we ask that you consider releasing the derivative under a CC0 license, which mirrors the licensing of the CMOA dataset.
 
 ###Acknowledgement
 The writers owe a debt to [MoMA](http://www.moma.org), [Tate](http://www.tate.org.uk/), and [Cooper Hewitt](http:www.cooperhewitt.org) for their help in shaping these guidelines, and their leadership in this area. Cheers! 
