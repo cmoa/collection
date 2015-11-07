@@ -9,7 +9,7 @@ Your feedback and input is always welcome. If you’ve got questions or suggesti
 
 This data release includes nearly all accessioned works in our database. It contains basic data for each work.   
 
-The data is released in two forms, as a CSV dump (``cmoa.csv``) and as a JSON dump (``cmoa.json``).   The data contained in both releases are identical—you may choose the form that makes most sense to you.
+The data is released in two forms, as a CSV dump (``cmoa.csv``) and as a JSON dump (``cmoa.json``).   The data contained in both releases are identical—you may choose the form that makes most sense to you.  Please note that both the CSV and the JSON may contain newlines (``\n``) within any text field, and they often appear within the ``provenance``, `medium`` and ``credit_line`` fields.  
 
 
 ### Artwork Information
