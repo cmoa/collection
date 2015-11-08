@@ -1,5 +1,5 @@
 #Welcome to the Carnegie Museum of Art’s Collection Dataset. 
-In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on over 30,000 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center. 
+In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on approximately 27371 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center. 
 
 In this repository, you will find the files containing all of the records, as well as a description of the data, the data structure, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below. 
 
