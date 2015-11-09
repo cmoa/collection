@@ -72,7 +72,7 @@ death_place            |  String        | Optional     | Name of place of death,
 
 
 ##Usage Guidelines 
-The dataset contains data and metadata about over 30k objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
+The dataset contains the data and metadata of approximately 27371 objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
 
 Please [contact us](mailto:webmaster@cmoa.org) if you have any questions. 
 
