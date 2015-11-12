@@ -43,7 +43,7 @@ provenance_text        | String         |  Optional    | The ownership history o
 
 There may be more than one image associated with an artwork.  In the CSV, each column for the images *may* contain a pipe-separated list of values.  For the JSON, there will be a ``images`` key containing a nested array of objects—one for each image.
 
-*Note that the image linked from this URL is **NOT** released under CCO at this time.*
+*Note that the image linked from this URL is __NOT__ released under CCO at this time.*
 
 Header/JSON object Key | Type           | Required?    | Description  | Example
 -----------------------|----------------|--------------|--------------|------------
