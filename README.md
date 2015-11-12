@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/9060/cmoa/collection.svg)](https://zenodo.org/badge/latestdoi/9060/cmoa/collection)
+
 #Welcome to the Carnegie Museum of Art’s Collection Dataset. 
 In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on approximately 27365 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center.  
 
@@ -107,7 +109,7 @@ Please note that we will *not* accept pull requests for the **data** in this rep
 ###Attribution
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
-We respectfully ask that you acknowledge CMOA as a source wherever possible, in order to preserve a link to the dataset. If this data is to be cited in a publication, please cite it using the DOI listed above.  By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data. And it’s just nice. 
+We respectfully ask that you acknowledge CMOA as a source wherever possible, in order to preserve a link to the dataset. If this data is to be cited in a publication, please cite it using this DOI: [![DOI](https://zenodo.org/badge/9060/cmoa/collection.svg)](https://zenodo.org/badge/latestdoi/9060/cmoa/collection).  By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data. And it’s just nice. 
 
 ###No Endorsement/Representation
 
