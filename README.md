@@ -1,5 +1,7 @@
 #Welcome to the Carnegie Museum of Art’s Collection Dataset. 
-In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on approximately 27371 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center. 
+In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on approximately 27365 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center.  
+
+Additionally, the metadata for the Teenie Harris Archive has been included.  For ease of use, they are contained within their own files, but it includes approximately 58753 records using the same structure and format.
 
 In this repository, you will find the files containing all of the records, as well as a description of the data, the data structure, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below. 
 
@@ -9,7 +11,8 @@ Your feedback and input is always welcome. If you’ve got questions or suggesti
 
 This data release includes nearly all accessioned works in our database. It contains basic data for each work.   
 
-The data is released in two forms, as a CSV dump (``cmoa.csv``) and as a JSON dump (``cmoa.json``).   The data contained in both releases are identical—you may choose the form that makes most sense to you.  Please note that both the CSV and the JSON may contain newlines (``\n``) within any text field, and they often appear within the ``provenance``, `medium`` and ``credit_line`` fields.  
+The data is released in two forms, as a CSV dump (``cmoa.csv`` & ``teenie.csv``) and as a JSON dump (``cmoa.json`` & ``teenie.json``).   The data contained in both formats are identical—you may choose the form that makes most sense to you.  Please note that both the CSV and the JSON may contain newlines (``\n``) within any text field, and they often appear within the ``provenance``, `medium`` and ``credit_line`` fields.  
+
 
 
 ### Artwork Information
@@ -72,7 +75,7 @@ death_place            |  String        | Optional     | Name of place of death,
 
 
 ##Usage Guidelines 
-The dataset contains the data and metadata of approximately 27371 objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
+The dataset contains the data and metadata of approximately 27365 objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) and another approximately 58753 records from the Teenie Harris Archive in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
 
 Please [contact us](mailto:webmaster@cmoa.org) if you have any questions. 
 
@@ -85,7 +88,7 @@ __Images are not covered under the same license as the dataset.__
 If you would like to license images of artworks in CMOA’s collection, please contact the [Rights and Reproduction Department](http://www.cmoa.org/Collection.aspx?id=17514). 
 
 
-###Dataset Integrity
+### Dataset Integrity
 
 Collections data is provided for the purposes of exploration, education, experimentation, and fun, but it is to be used at your own risk.
 
@@ -97,6 +100,9 @@ If you have identified errors in the dataset, or have additional information to 
 
 Thanks! 
 
+### Pull Requests
+
+Please note that we will *not* accept pull requests for the **data** in this repository.  If you have corrections, please email them to us at <mailto:webmaster@cmoa.org> and we will forward them to the appropriate department for correction and inclusion in a future release.  We will, however, review issues and pull requests for **documentation** or other non-data content here, as well as issues or suggestions of how we could improve these releases. 
 
 ###Attribution
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). 
