@@ -27,7 +27,7 @@ creation_date_earliest | ISO_8601 date  |  Optional    | This is the earliest da
 creation_date_latest   | ISO_8601 date  |  Optional    | This is the latest date the object could have been created. May be null if no date known. *May be the same as creation_date_earlier, which indicates an exact date known.*  | 1990-10-17
 medium                 | String         |  Optional    | Material of which this is this object/artwork is made. | Oil on canvas **OR** Acrylic on board **OR** Plastic, glass, and rubber
 accession_number       | String         |  Mandatory   | This is a number assigned by the museum when it takes official ownership of an object. <sup>[1](#acq_note)</sup>  | 2001.45.3 **OR** 2013.29.1A-B **OR** 96.1
-id                     | String (GUID)  |  Mandatory   | A unique string that identifies the record of the object in the collections database.  | "692a68c5-af1e-4124-80f1-cbf38be51abe"
+id                     | String (GUID)  |  Mandatory   | A unique string that identifies the record of the object in the collections database.  | 692a68c5-af1e-4124-80f1-cbf38be51abe
 credit_line            | String         |  Mandatory   | Identifies and gives credit to the person, foundation, or method by which the object was acquired. | Gift of John Doe **OR**  Museum Purchase, by Exchange. 
 date_acquired          | ISO_8601 date  |  Mandatory   | The date the object became the legal property of the museum. |  1990-10-17
 department             | String         |  Optional    | The department within the museum that is responsible for the item. | Fine Arts *OR* Decorative Arts *OR* Photography *OR* Contemporary Art
