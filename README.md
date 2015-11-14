@@ -38,6 +38,7 @@ item_depth             | Number         |  Optional    | The maximum depth of th
 item_diameter          | Number         |  Optional    | The maximum diameter of the artwork/object in inches. | 180.53
 web_url                | String         |  Optional    | The URL of the collection page for this item.  
 provenance_text        | String         |  Optional    | The ownership history of an object/artwork.  <sup>[2](#prov_note)</sup>  | Mary Cassatt [1844-1926], France; Galeries Durand-Ruel, Paris, France, by August 1892 [1]; Durand-Ruel Galleries, New York, NY, 1895; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, October 1922.  NOTES: [1] Recorded in stock book in August 1892.
+category               | String         |  Optional    | The name of a group to which the work belongs within the museum's classification scheme, based on similar characteristics.| Prints OR Photographs
 
 ### Image Information
 
