@@ -57,6 +57,7 @@ Note that there may be more than one creator associated with an artwork.  In the
 Header/JSON object Key | Type           | Required?    | Description  | Example
 -----------------------|----------------|--------------|--------------|------------
 artist_id              |  String        | Mandatory    | This is a unique identifier for the artist. | 123456
+party_type             |  String        | Mandatory    | This is the type of entity represented.  Possible values are: | Organization OR Person OR Collaboration
 full_name              |  String        | Mandatory    | The full name of the artist, creator, or creators, who made the object. |  John Singer Sargent.
 cited_name             |  String        | Mandatory    | The name of the artist as used in a standard citation, with surname first, and forename last. | Cassatt, Mary.
 role                   |  String        | Optional     | Describes a person’s involvement with this object.  | designer, manufacturer, artist.
