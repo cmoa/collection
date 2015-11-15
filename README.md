@@ -24,7 +24,7 @@ Header/JSON object Key | Type           | Required?    | Description  | Example
 title                  | String         |  Mandatory   | The main title that identifies the object or artwork. No multiples. | Portrait of A Boy **OR** Wheatfields After the Rain.
 creation_date          | String         |  Optional    | The human readable date of creation for the object.  Note that this is a string and may not be a valid date. | c. 1950” **OR** date unknown
 creation_date_earliest | ISO_8601 date  |  Optional    | This is the earliest date the object could have been created. May be null if no date known. *May be the same as creation_date_latest, which indicates an exact date known.* | 1990-10-17 
-creation_date_latest   | ISO_8601 date  |  Optional    | This is the latest date the object could have been created. May be null if no date known. *May be the same as creation_date_earlier, which indicates an exact date known.*  | 1990-10-17
+creation_date_latest   | ISO_8601 date  |  Optional    | This is the latest date the object could have been created. May be null if no date known. *May be the same as creation_date_earliest, which indicates an exact date known.*  | 1990-10-17
 medium                 | String         |  Optional    | Material of which this is this object/artwork is made. | Oil on canvas **OR** Acrylic on board **OR** Plastic, glass, and rubber
 accession_number       | String         |  Mandatory   | This is a number assigned by the museum when it takes official ownership of an object. <sup>[1](#acq_note)</sup>  | 2001.45.3 **OR** 2013.29.1A-B **OR** 96.1
 id                     | String (GUID)  |  Mandatory   | A unique string that identifies the record of the object in the collections database.  | 692a68c5-af1e-4124-80f1-cbf38be51abe
