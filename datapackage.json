@@ -112,25 +112,25 @@
       },
       {
        "name" : "item_width",
-       "type": "Number",
+       "type": "number",
        "required": false,
        "description": "The maximum width of the artwork/object in inches."
       },
       {
        "name" : "item_height",
-       "type": "Number",
+       "type": "number",
        "required": false,
        "description": "The maximum height of the artwork/object in inches."
       },
       {
        "name" : "item_depth",
-       "type": "Number",
+       "type": "number",
        "required": false,
        "description": "The maximum depth of the artwork/object in inches."
       },
       {
        "name" : "item_diameter",
-       "type": "Number",
+       "type": "number",
        "required": false,
        "description": "The maximum diameter of the artwork/object in inches."
       },
@@ -152,6 +152,80 @@
        "type": "string",
        "required": false,
        "description": "The name of a group to which the work belongs within the museum's classification scheme, based on similar characteristics."
+      },
+      { 
+        "name": "image_url",
+        "type": "string", 
+        "format": "uri",
+        "required": false,    
+        "description": "The URL of a thumbnail image of the artwork."
+      },
+      { 
+        "name": "image_rights",
+        "type": "string", 
+        "required": false,    
+        "description": "The rights text associated with the linked image."
+      },
+      { 
+        "name": "artist_id",
+        "type": "string", 
+        "required": true,      
+        "description": "This is a unique identifier for the artist."
+      },
+      { 
+        "name": "party_type",
+        "type": "string", 
+        "required": true,      
+        "description": "This is the type of entity represented.", 
+        "enum": ["Organization","Person"," Collaboration"]
+      },
+      { 
+        "name": "full_name",
+        "type": "string", 
+        "required": true,      
+        "description": "The full name of the artist, creator, or creators, who made the object."
+      },
+      { 
+        "name": "cited_name",
+        "type": "string", 
+        "required": true,      
+        "description": "The name of the artist as used in a standard citation, with surname first, and forename last."
+      },
+      { 
+        "name": "roleƒ",
+        "type": "string", 
+        "required": false,     
+        "description": "Describes a person’s involvement with this object."
+      },
+      { 
+        "name": "nationality",
+        "type": "string", 
+        "required": false,     
+        "description": "The nationality of the artist/creator."
+      },
+      { 
+        "name": "birth_date",
+        "type": "date"  , 
+        "required": false,     
+        "description": "The birthdate of the artist/creator. Precision may vary based on how much is known about the artist"
+      },
+      { 
+        "name": "death_date",
+        "type": "date"  , 
+        "required": false,     
+        "description": "The death date of the artist/creator. Precision may vary based on how much is known about the artist"
+      },
+      { 
+        "name": "birth_place",
+        "type": "string", 
+        "required": false,     
+        "description": "Name of place of birth, with as much specificity as possible, preference is for City, Country if known. If city is unknown, then list only country."
+      },
+      { 
+        "name": "death_place",
+        "type": "string", 
+        "required": false,     
+        "description": "Name of place of death, with as much specificity as possible, preference is for City, Country if known. If city is unknown, then list only country."
       }
       ]
     }
