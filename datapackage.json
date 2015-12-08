@@ -55,13 +55,13 @@
       },
       {
        "name" : "creation_date_earliest",
-       "type": "string",
+       "type": "date",
        "required": false,
        "description": "This is the earliest date the object could have been created. May be null if no date known. May be the same as creation_date_latest, which indicates an exact date known."
       },
       {
        "name" : "creation_date_latest",
-       "type": "string",
+       "type": "date",
        "required": false,
        "description": "This is the latest date the object could have been created. May be null if no date known. May be the same as creation_date_earlier, which indicates an exact date known."
       },
@@ -93,7 +93,7 @@
       },
       {
        "name" : "date_acquired",
-       "type": "string",
+       "type": "date",
        "required": true,
        "description": "The date the object became the legal property of the museum."
       },
@@ -145,10 +145,7 @@
        "name" : "provenance_text",
        "type": "string",
        "required": false,
-       "description": "The ownership history of an object/artwork.",
-       "mira": {
-         "index": false
-       }
+       "description": "The ownership history of an object/artwork."
       },
       {
        "name" : "classification",
@@ -161,10 +158,7 @@
         "type": "string",
         "format": "uri",
         "required": false,
-        "description": "The URL of a thumbnail image of the artwork.",
-        "mira": {
-          "index": false
-        }
+        "description": "The URL of a thumbnail image of the artwork."
       },
       {
         "name": "artist_id",
