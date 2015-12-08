@@ -1,0 +1,39 @@
+{
+  "title": "Homesteading",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2014.11.178",
+  "id": "cmoa:things/895b62ff-d16f-49d4-8a87-82fc9edfc475",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2014-02-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104601",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=131109&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fb9921d-b0d1-4932-8a8c-924a0da65c9b",
+      "party_type": "Person",
+      "full_name": "Zoe Strauss",
+      "cited_name": "Strauss, Zoe",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1970-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia, Pennsylvania, United States of America",
+      "death_place": null
+    }
+  ]
+}

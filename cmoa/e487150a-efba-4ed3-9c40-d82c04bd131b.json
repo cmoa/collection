@@ -1,0 +1,39 @@
+{
+  "title": "Spanish Delight",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "Pen and ink, colored pencil, metallic enamel, and collage on paper",
+  "accession_number": "2009.43",
+  "id": "cmoa:things/e487150a-efba-4ed3-9c40-d82c04bd131b",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 99th Annual Exhibition of the Associated Artists of Pittsburgh through Second Century Acquisition Fund",
+  "date_acquired": "2009-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.125,
+  "item_height": 17.125,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88523",
+  "provenance_text": null,
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99380&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2b785ff-f7d9-4960-ae9f-e686b5bb4737",
+      "party_type": "Person",
+      "full_name": "Elaine Morris",
+      "cited_name": "Morris, Elaine",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

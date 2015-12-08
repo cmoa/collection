@@ -1,0 +1,39 @@
+{
+  "title": "Mask",
+  "creation_date": "early 20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "wood, bamboo, paint, and antelope skin",
+  "accession_number": "76.53.9",
+  "id": "cmoa:things/4d13dae2-75cb-4c9c-bdb3-cd5373c63708",
+  "credit_line": "Gift of Daniel Solomon, M.D.",
+  "date_acquired": "1976-12-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "African Art Gallery",
+  "item_width": 10.5,
+  "item_height": 23.5,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018170",
+  "provenance_text": "Daniel M.D. Solomon, Los Angeles, CA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/77127647-4100-4765-9cc4-807e5ffbcf03",
+      "party_type": "Person",
+      "full_name": "unknown Ejagham",
+      "cited_name": "unknown Ejagham",
+      "role": null,
+      "nationality": "Ejagham",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

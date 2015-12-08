@@ -1,0 +1,54 @@
+{
+  "title": "Caviar server",
+  "creation_date": "c. 1925-1929",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "silver with ivory finial",
+  "accession_number": "89.13.1.A-C",
+  "id": "cmoa:things/ef16bd88-86af-48f6-bccb-775504b90d4c",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1989-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 8.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026592",
+  "provenance_text": "Historical Design Collection, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12329&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4366&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/81ca244d-af5b-4fdb-ac7f-8a021761a3f5",
+      "party_type": "Person",
+      "full_name": "Erik Magnussen",
+      "cited_name": "Magnussen, Erik",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1864-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

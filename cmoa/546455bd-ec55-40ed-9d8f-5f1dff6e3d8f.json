@@ -1,0 +1,42 @@
+{
+  "title": "Electric tea kettle",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "silver plated metal",
+  "accession_number": "2013.15.A-.C",
+  "id": "cmoa:things/546455bd-ec55-40ed-9d8f-5f1dff6e3d8f",
+  "credit_line": "Women’s Committee Acquisition Fund",
+  "date_acquired": "2013-05-23",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 8.5,
+  "item_height": 9.5,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101535",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127660&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fe8dc389-706a-400f-a7d7-f4fc11637353",
+      "party_type": "Person",
+      "full_name": "Pavel Janák",
+      "cited_name": "Janák, Pavel",
+      "role": null,
+      "nationality": "Czech",
+      "birth_date": "1882-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

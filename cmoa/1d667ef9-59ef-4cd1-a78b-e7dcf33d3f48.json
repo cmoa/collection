@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Les Portes du Musee) [The Doors of the Museum]",
+  "creation_date": "1968-1969",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "paint on vacuum-formed plastic",
+  "accession_number": "90.24.A-B",
+  "id": "cmoa:things/1d667ef9-59ef-4cd1-a78b-e7dcf33d3f48",
+  "credit_line": "Purchase: A. W. Mellon Acquisition Endowment Fund, Bequest of Roy O. Mitchell, Founder-Patrons Day Acquisition Fund, and Patrons Art Fund",
+  "date_acquired": "1990-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 70.875,
+  "item_height": 74.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029372",
+  "provenance_text": "Diego Cortez, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ead8e207-adfd-456f-9ae3-6cc9269ee495",
+      "party_type": "Person",
+      "full_name": "Marcel Broodthaers",
+      "cited_name": "Broodthaers, Marcel",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1924-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": " Saint-Gilles (Bruxelles region, Belgium)",
+      "death_place": " Cologne (Köln district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

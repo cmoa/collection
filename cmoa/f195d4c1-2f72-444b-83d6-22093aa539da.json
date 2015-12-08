@@ -1,0 +1,39 @@
+{
+  "title": "Soul Tracing",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "glass, pastel, pencil",
+  "accession_number": "72.16.3",
+  "id": "cmoa:things/f195d4c1-2f72-444b-83d6-22093aa539da",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 62nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1972-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.375,
+  "item_height": 25.375,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016380",
+  "provenance_text": "The Artist via 62nd Annual Associated Artists of Pittsburgh Exhibition Purchase Prize, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114756&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bc0dad05-eafa-4ba8-af6e-f3e8227f7bb0",
+      "party_type": "Person",
+      "full_name": "Troy West",
+      "cited_name": "West, Troy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Rent Day",
+  "creation_date": "late 16th-early 17th century",
+  "creation_date_earliest": "1584-01-01",
+  "creation_date_latest": "1638-01-01",
+  "medium": "oil on panel",
+  "accession_number": "27.9.2",
+  "id": "cmoa:things/7f8ff161-e0a1-4b53-8872-eaad29b74e14",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.0,
+  "item_height": 33.25,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006100",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA, by 1927; gift to Museum, 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149579&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8d55268-b952-4f35-8eee-59fbcb560bd3",
+      "party_type": "Person",
+      "full_name": "Pieter Brueghel The Younger",
+      "cited_name": "Brueghel The Younger, Pieter",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1564-01-01",
+      "death_date": "1638-01-01",
+      "birth_place": " Brussels (Bruxelles region, Belgium)",
+      "death_place": " Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

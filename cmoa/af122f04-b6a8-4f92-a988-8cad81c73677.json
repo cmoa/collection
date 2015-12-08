@@ -1,0 +1,42 @@
+{
+  "title": "Sand Nest",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1054",
+  "id": "cmoa:things/af122f04-b6a8-4f92-a988-8cad81c73677",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.5,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026773",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83555&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32674&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d138629-8505-4eb6-b4d6-e57801f8c5ee",
+      "party_type": "Person",
+      "full_name": "Munakata Shikô",
+      "cited_name": "Munakata Shikô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

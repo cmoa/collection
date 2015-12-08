@@ -1,0 +1,49 @@
+{
+  "title": "Desk and Bookcase",
+  "creation_date": "1837",
+  "creation_date_earliest": "1837-01-01",
+  "creation_date_latest": "1837-01-01",
+  "medium": "pine and poplar with mahogany veneer, glass, brass, and modern fabric",
+  "accession_number": "90.12.A-B",
+  "id": "cmoa:things/4b6ef5ed-508f-49cf-a4ef-6f4c04e4da0e",
+  "credit_line": "Purchase: gift of Gillian and Michael Malley in memory of Elizabeth Liggett Drain",
+  "date_acquired": "1990-09-27",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 56.75,
+  "item_height": 98.0,
+  "item_depth": 24.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029334",
+  "provenance_text": "David's Gallery, PA, Pittsburgh",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b110942b-a538-4dc6-add3-736da9d90fe2",
+      "party_type": "Person",
+      "full_name": "George Rine",
+      "cited_name": "Rine, George",
+      "role": "maker",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d3a85673-06d6-4fd4-a606-ae4e7a262356",
+      "party_type": "Organization",
+      "full_name": "J. & J. W. Woodwell",
+      "cited_name": "J. & J. W. Woodwell",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1842-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

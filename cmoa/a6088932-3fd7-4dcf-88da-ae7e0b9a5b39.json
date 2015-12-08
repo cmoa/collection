@@ -1,0 +1,42 @@
+{
+  "title": "Pink Cup",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "1997.22",
+  "id": "cmoa:things/a6088932-3fd7-4dcf-88da-ae7e0b9a5b39",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "1997-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.187,
+  "item_height": 4.75,
+  "item_depth": 1.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003044",
+  "provenance_text": "Franklin Parrasch Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27806&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1241&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ef48bc5-ab27-452e-abc7-a9006d285dfe",
+      "party_type": "Person",
+      "full_name": "Ron Nagle",
+      "cited_name": "Nagle, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "San Francisco, California",
+      "death_place": null
+    }
+  ]
+}

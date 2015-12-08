@@ -1,0 +1,51 @@
+{
+  "title": "Loving cup",
+  "creation_date": "1709-1710",
+  "creation_date_earliest": "1709-01-01",
+  "creation_date_latest": "1710-01-01",
+  "medium": "silver, britannia standard",
+  "accession_number": "78.36.9",
+  "id": "cmoa:things/b1a9f0e9-caf9-4a8c-bb9e-0633cbb74038",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.062,
+  "item_height": 3.125,
+  "item_depth": 3.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020039",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c51082ff-312a-4a38-a1a7-0312a4457195",
+      "party_type": "Person",
+      "full_name": "John Martin Stockar",
+      "cited_name": "Stockar, John M.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5c6b7db8-0846-42fa-910b-c7cb597c91cc",
+      "party_type": "Person",
+      "full_name": "Edward Peacock",
+      "cited_name": "Peacock, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

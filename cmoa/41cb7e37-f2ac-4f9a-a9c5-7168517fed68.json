@@ -1,0 +1,39 @@
+{
+  "title": "The Cylinder, the Sphere, the Cone",
+  "creation_date": "1978-1984",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "oil on board",
+  "accession_number": "84.25",
+  "id": "cmoa:things/41cb7e37-f2ac-4f9a-a9c5-7168517fed68",
+  "credit_line": "Gene Baro Memorial Fund and Carnegie International Acquisition Fund",
+  "date_acquired": "1984-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 46.25,
+  "item_height": 36.375,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024650",
+  "provenance_text": "M. Knoedler and Co., NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=428&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab0b2813-e9d3-4936-a2b6-1e104842f608",
+      "party_type": "Person",
+      "full_name": "Howard Hodgkin",
+      "cited_name": "Hodgkin, Howard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

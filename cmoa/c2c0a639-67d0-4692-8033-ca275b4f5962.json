@@ -1,0 +1,39 @@
+{
+  "title": "The Seasons, Autumn",
+  "creation_date": "1617",
+  "creation_date_earliest": "1617-01-01",
+  "creation_date_latest": "1617-01-01",
+  "medium": "etchings on paper",
+  "accession_number": "1996.10.3",
+  "id": "cmoa:things/c2c0a639-67d0-4692-8033-ca275b4f5962",
+  "credit_line": "Purchase: gift of Frederic Schaefer, by exchange",
+  "date_acquired": "1996-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.875,
+  "item_height": 11.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002083",
+  "provenance_text": "James D. Bergquist, Newton, MA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101920&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4c1a01e-5957-4c1a-bc48-d3b5702bffa0",
+      "party_type": "Person",
+      "full_name": "Jan van de Velde II",
+      "cited_name": "Velde, Jan van de",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1593-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Rotterdam or Delft",
+      "death_place": "Enkhuizen (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bench",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "maple, walnut, and rosewood",
+  "accession_number": "2014.63",
+  "id": "cmoa:things/75c0dfcb-34a1-47bb-a54a-52cd0abc8415",
+  "credit_line": "Gift of the estate of Jane Haskell",
+  "date_acquired": "2014-10-30",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery One",
+  "item_width": 42.625,
+  "item_height": 13.75,
+  "item_depth": 18.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104006",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9b36479-9a2f-4c7f-9685-5386dd142b62",
+      "party_type": "Person",
+      "full_name": "Orin Raphael",
+      "cited_name": "Raphael, Orin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

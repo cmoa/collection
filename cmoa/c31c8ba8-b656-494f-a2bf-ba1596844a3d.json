@@ -1,0 +1,45 @@
+{
+  "title": "Strata, No. 10",
+  "creation_date": "1964-1965",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "wood",
+  "accession_number": "68.6",
+  "id": "cmoa:things/c31c8ba8-b656-494f-a2bf-ba1596844a3d",
+  "credit_line": "Ketchum, MacLeod and Grove Purchase Award",
+  "date_acquired": "1968-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 56.0,
+  "item_height": 56.0,
+  "item_depth": 20.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012513",
+  "provenance_text": "The Artist via 1967 Pittsburgh International Exhibition",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146995&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147003&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24281c83-6fb5-4413-bd54-1e43c6ebc211",
+      "party_type": "Person",
+      "full_name": "Kaspar Thomas Lenk",
+      "cited_name": "Lenk, Kaspar Thomas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1933-01-01",
+      "death_date": null,
+      "birth_place": "Berlin (Berlin state, Germany)",
+      "death_place": null
+    }
+  ]
+}

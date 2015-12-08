@@ -1,0 +1,51 @@
+{
+  "title": "Wine glass",
+  "creation_date": "c. 1898",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "glass with pulled green threads, prunts and gold inclusions",
+  "accession_number": "1999.49.2",
+  "id": "cmoa:things/f83fc3f6-b201-4eb8-a2a3-71c4c7e513d4",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1999-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.812,
+  "item_height": 7.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003919",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11982&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66d7cccc-4d0d-4ff8-8a69-fe4a0e0e47f5",
+      "party_type": "Person",
+      "full_name": "Harry Powell",
+      "cited_name": "Powell, Harry",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1853-01-01",
+      "death_date": "1922-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5b6ee04d-84e2-4b60-a53f-696daac31ea5",
+      "party_type": "Organization",
+      "full_name": "James Powell & Sons, Whitefriars Glassworks",
+      "cited_name": "James Powell & Sons, Whitefriars Glassworks",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

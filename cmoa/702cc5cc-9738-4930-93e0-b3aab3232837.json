@@ -1,0 +1,54 @@
+{
+  "title": "Marcello Giovanetti",
+  "creation_date": "c. 1624-1636",
+  "creation_date_earliest": "1624-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.51",
+  "id": "cmoa:things/702cc5cc-9738-4930-93e0-b3aab3232837",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.062,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005408",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102549&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102548&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/bad7b7e5-507c-4451-8d9f-e8fb2b004132",
+      "party_type": "Person",
+      "full_name": "Simon Vouet",
+      "cited_name": "Vouet, Simon",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1590-01-01",
+      "death_date": "1649-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

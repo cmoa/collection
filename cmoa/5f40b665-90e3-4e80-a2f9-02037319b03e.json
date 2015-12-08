@@ -1,0 +1,39 @@
+{
+  "title": "Yoyo, Montana State Fair, Kalispell MT",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2006.62",
+  "id": "cmoa:things/5f40b665-90e3-4e80-a2f9-02037319b03e",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2006-10-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 78.0,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=30183",
+  "provenance_text": "Terry deRoy Gruber, New York City",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37501&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4a694f7-4eec-4faf-925f-5ba4439747d9",
+      "party_type": "Person",
+      "full_name": "Terry deRoy Gruber",
+      "cited_name": "Gruber, Terry deRoy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pa.",
+      "death_place": null
+    }
+  ]
+}

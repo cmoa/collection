@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of Mrs. Schenley",
+  "creation_date": "1842",
+  "creation_date_earliest": "1842-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "31.6",
+  "id": "cmoa:things/c4987de1-0aaf-4019-be86-1711a6c4f5dc",
+  "credit_line": "Gift of the heirs of the Mary E. Schenley Estate",
+  "date_acquired": "1931-11-23",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 58.0,
+  "item_height": 90.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006666",
+  "provenance_text": "Mary E. Schenley [1826-1903], Pittsburgh, until 1903. Trustees of Mary E. Schenley Estate, until 1931. Gift to Museum, 1931.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135779&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126405&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9cf5ee86-535f-4b87-87eb-5d9cdb9fe5fb",
+      "party_type": "Person",
+      "full_name": "Thomas Lewis",
+      "cited_name": "Lewis, Thomas",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1852-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

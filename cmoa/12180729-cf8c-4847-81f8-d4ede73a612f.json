@@ -1,0 +1,47 @@
+{
+  "title": "Window pull",
+  "creation_date": null,
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "cast iron",
+  "accession_number": "94.27.2",
+  "id": "cmoa:things/12180729-cf8c-4847-81f8-d4ede73a612f",
+  "credit_line": "Gift of Kenneth and Dianna Kuligowski",
+  "date_acquired": "1994-02-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 2.75,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035164",
+  "provenance_text": "Kenneth And Dianna Kuligowski, Pittsburgh, PA",
+  "classification": "architectural elements",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/feaf627a-3476-4088-a277-953556029c06",
+      "party_type": "Organization",
+      "full_name": "Adler & Sullivan Co.",
+      "cited_name": "Adler & Sullivan Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c9c2a89e-596e-40f0-881c-cf2651ec86a2",
+      "party_type": "Organization",
+      "full_name": "Yale and Towne Manufacturing Company",
+      "cited_name": "Yale and Towne Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1868-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

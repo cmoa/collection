@@ -1,0 +1,39 @@
+{
+  "title": "Study for a Mascaron",
+  "creation_date": null,
+  "creation_date_earliest": "1655-01-01",
+  "creation_date_latest": "1709-01-01",
+  "medium": "pencil",
+  "accession_number": "75.47.24",
+  "id": "cmoa:things/c939851d-c16c-425b-b6df-ed35dddd36d7",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.438,
+  "item_height": 14.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017787",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149733&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a5235c21-e7ec-4e17-99e9-2bf52b05de02",
+      "party_type": "Person",
+      "full_name": "Jean Leblond",
+      "cited_name": "Leblond, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1635-01-01",
+      "death_date": "1709-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

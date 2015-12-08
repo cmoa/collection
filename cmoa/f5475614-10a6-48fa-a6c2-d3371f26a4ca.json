@@ -1,0 +1,39 @@
+{
+  "title": "Black Gate",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.850",
+  "id": "cmoa:things/f5475614-10a6-48fa-a6c2-d3371f26a4ca",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 20.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029024",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34303&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6cfd4c3-f00a-42d0-8a51-bde3c7d6f557",
+      "party_type": "Person",
+      "full_name": "Kosaka Gajin",
+      "cited_name": "Kosaka Gajin",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1877-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Japan, Kyoto",
+      "death_place": null
+    }
+  ]
+}

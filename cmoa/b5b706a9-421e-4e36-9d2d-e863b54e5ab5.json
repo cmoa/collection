@@ -1,0 +1,39 @@
+{
+  "title": "Kopf Mit Rotem Aufsatz",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.36",
+  "id": "cmoa:things/b5b706a9-421e-4e36-9d2d-e863b54e5ab5",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.875,
+  "item_height": 41.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011422",
+  "provenance_text": "Galerie Der Spiegel, Cologne, Germany",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/296ae87c-e59c-4ad3-a01c-c40887c3b257",
+      "party_type": "Person",
+      "full_name": "Josef Mikl",
+      "cited_name": "Mikl, Josef",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1929-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Vienna Austria"
+    }
+  ]
+}

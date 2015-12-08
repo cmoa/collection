@@ -1,0 +1,42 @@
+{
+  "title": "Le Chenal",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "53.18",
+  "id": "cmoa:things/7d558382-01fc-4e1b-830d-2ccda7c59d65",
+  "credit_line": "Gift of the Galerie De France",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.438,
+  "item_height": 9.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009142",
+  "provenance_text": "Gift of the Galerie De France",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99825&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c8676cb-d29c-4c7b-a2c8-6147bab324d8",
+      "party_type": "Person",
+      "full_name": "Gustave Singier",
+      "cited_name": "Singier, Gustave",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1909-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Belgium",
+      "death_place": null
+    }
+  ]
+}

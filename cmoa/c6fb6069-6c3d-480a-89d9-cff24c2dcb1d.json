@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Lady Lucy Montagu, Countess of Guilford",
+  "creation_date": "c. 1730",
+  "creation_date_earliest": "1720-01-01",
+  "creation_date_latest": "1740-01-01",
+  "medium": "enamel on metal; gilt metal frame",
+  "accession_number": "27.10.25",
+  "id": "cmoa:things/c6fb6069-6c3d-480a-89d9-cff24c2dcb1d",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.5,
+  "item_height": 2.375,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005689",
+  "provenance_text": "Earl of Sheffield, Sheffield Park, Sussex. Thomas Sutton, New York, NY; (sold at American Art Association, New York, NY, November 9, 1917); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, November 9, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73418&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73419&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04b98424-e2fe-42c1-96bd-7dab4758b81a",
+      "party_type": "Person",
+      "full_name": "Christian Friederich Zincke",
+      "cited_name": "Zincke, Christian F.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1685-01-01",
+      "death_date": "1767-01-01",
+      "birth_place": "Dresden (Dresden district, Saxony, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Stratford compote",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "aluminum and plastic",
+  "accession_number": "92.192",
+  "id": "cmoa:things/639757d5-8606-484b-9b0c-a6e95333752d",
+  "credit_line": "Gift of Christopher Monkhouse and Sarah Nichols",
+  "date_acquired": "1993-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 13.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031480",
+  "provenance_text": "Christopher Monkhouse And Sarah Nichols, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1145&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e265b491-9954-4ceb-a35b-6b165f4d2cc9",
+      "party_type": "Person",
+      "full_name": "Lurelle Guild",
+      "cited_name": "Guild, Lurelle",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ae543269-6936-49a2-bc94-b956a5bcb37b",
+      "party_type": "Organization",
+      "full_name": "Kensington Inc.",
+      "cited_name": "Kensington Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

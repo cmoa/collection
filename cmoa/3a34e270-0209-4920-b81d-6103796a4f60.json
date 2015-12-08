@@ -1,0 +1,39 @@
+{
+  "title": "Soup Bowl",
+  "creation_date": "c. 1861-1863",
+  "creation_date_earliest": "1856-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.332",
+  "id": "cmoa:things/3a34e270-0209-4920-b81d-6103796a4f60",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 8.688,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015027",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1719&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03928114-791a-4d8f-bb6c-7f5403c8af28",
+      "party_type": "Organization",
+      "full_name": "Royal Danish Porcelain Factory",
+      "cited_name": "Royal Danish Porcelain Factory",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

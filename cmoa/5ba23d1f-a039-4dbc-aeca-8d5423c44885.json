@@ -1,0 +1,51 @@
+{
+  "title": "Kubus storage container",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "glass",
+  "accession_number": "1998.24.14.O",
+  "id": "cmoa:things/5ba23d1f-a039-4dbc-aeca-8d5423c44885",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13775",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1119&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8fad3984-a169-4195-aa41-18ad9298ffc5",
+      "party_type": "Person",
+      "full_name": "Wilhelm Wagenfeld",
+      "cited_name": "Wagenfeld, Wilhelm",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Bremen (Bremen state, Germany)",
+      "death_place": "Stuttgart (Stuttgart district, Baden-Württemberg, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/85cdcb0c-7049-482b-80bc-e89b37fd6200",
+      "party_type": "Organization",
+      "full_name": "Vereinigte Lausitzer Glaswerke, AG",
+      "cited_name": "Vereinigte Lausitzer Glaswerke, AG",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": "1946-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

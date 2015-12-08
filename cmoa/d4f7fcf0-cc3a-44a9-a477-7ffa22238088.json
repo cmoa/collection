@@ -1,0 +1,39 @@
+{
+  "title": "June, 1974",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "casein and Rhoplex on canvas",
+  "accession_number": "77.57",
+  "id": "cmoa:things/d4f7fcf0-cc3a-44a9-a477-7ffa22238088",
+  "credit_line": "Gift of Murry P. Berger",
+  "date_acquired": "1977-12-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 100.25,
+  "item_height": 94.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018940",
+  "provenance_text": "Murray P. Berger",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20188&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f895cd24-3916-41e0-8995-e18a3a29c4bc",
+      "party_type": "Person",
+      "full_name": "Leo Bates",
+      "cited_name": "Bates, Leo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

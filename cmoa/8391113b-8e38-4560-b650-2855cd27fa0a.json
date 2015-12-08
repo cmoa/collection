@@ -1,0 +1,51 @@
+{
+  "title": "The Actors Nakayama Tomisaburô and Ichikawa Komazô II as Yûshide and Takakage",
+  "creation_date": "c. 1798",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.1406",
+  "id": "cmoa:things/8391113b-8e38-4560-b650-2855cd27fa0a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027294",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from Nagatani, Inc., Chicago, 1/16/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20499&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ea1c2c5-f4a5-469d-b531-42dcdd8f156e",
+      "party_type": "Person",
+      "full_name": "Toyokuni Utagawa",
+      "cited_name": "Toyokuni Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1769-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/35914000-f2e8-47c5-9894-204373c359b1",
+      "party_type": "Person",
+      "full_name": "Nishimuraya Yohachi",
+      "cited_name": "Nishimuraya Yohachi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

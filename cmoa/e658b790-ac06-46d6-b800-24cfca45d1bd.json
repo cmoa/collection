@@ -1,0 +1,39 @@
+{
+  "title": "San Sebastian, New Mexico",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "Gelatin silver print",
+  "accession_number": "2007.51.19",
+  "id": "cmoa:things/e658b790-ac06-46d6-b800-24cfca45d1bd",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 21.5,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48852",
+  "provenance_text": "Acquired by Mr. George Ebbs from Andrew Smith Gallery on 07/28/1987 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/65ae4577-d2c2-4ef1-a4fe-73613988d037",
+      "party_type": "Person",
+      "full_name": "Paul Caponigro",
+      "cited_name": "Caponigro, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Boston, Massachusetts, USA",
+      "death_place": null
+    }
+  ]
+}

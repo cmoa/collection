@@ -1,0 +1,39 @@
+{
+  "title": "(Neighborhood: North Side, View from Fineview Hill)",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.31",
+  "id": "cmoa:things/6686f335-ddc3-4a07-ba14-1caef2c0e26c",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025929",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8673&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fda7931-f3f0-420c-b738-9b9b3c76cb9f",
+      "party_type": "Person",
+      "full_name": "Harold Corsini",
+      "cited_name": "Corsini, Harold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "New York City, New York",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

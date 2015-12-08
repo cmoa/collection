@@ -1,0 +1,51 @@
+{
+  "title": "Commode",
+  "creation_date": "c. 1778",
+  "creation_date_earliest": "1773-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "mahogany with satinwood and fruitwood veneers",
+  "accession_number": "93.32",
+  "id": "cmoa:things/0f54224b-64bc-4f81-a0b3-e5e5c74efe6f",
+  "credit_line": "Ailsa Mellon Bruce Fund and John Berdan Memorial Fund",
+  "date_acquired": "1993-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 51.5,
+  "item_height": 33.0,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033587",
+  "provenance_text": "Hyde Park Antiques, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96881&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96889&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96888&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96887&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8717&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bb1d3a11-2d26-4161-90ed-6fdaebecbc0b",
+      "party_type": "Person",
+      "full_name": "Thomas Chippendale",
+      "cited_name": "Chippendale, Thomas",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": "1718-01-01",
+      "death_date": "1779-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

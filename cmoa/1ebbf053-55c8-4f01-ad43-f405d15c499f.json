@@ -1,0 +1,39 @@
+{
+  "title": "Environs of Pittsburgh",
+  "creation_date": "1836",
+  "creation_date_earliest": "1836-01-01",
+  "creation_date_latest": "1836-01-01",
+  "medium": "ink and graphite on paper",
+  "accession_number": "13.1.2",
+  "id": "cmoa:things/1ebbf053-55c8-4f01-ad43-f405d15c499f",
+  "credit_line": "Gift of Guy R. Bolton",
+  "date_acquired": "1913-01-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000891",
+  "provenance_text": "Gift of Guy R. Bolton, 1913.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99645&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e897a6cb-2767-427d-b5a0-199d290aa5d1",
+      "party_type": "Person",
+      "full_name": "Joshua Shaw",
+      "cited_name": "Shaw, Joshua",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1776-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": "Billingborough (Lincolnshire, England, United Kingdom)",
+      "death_place": "Bordentown (Burlington county, New Jersey, United States)"
+    }
+  ]
+}

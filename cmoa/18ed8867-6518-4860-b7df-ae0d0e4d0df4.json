@@ -1,0 +1,39 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1939",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "wood and leather",
+  "accession_number": "94.2",
+  "id": "cmoa:things/18ed8867-6518-4860-b7df-ae0d0e4d0df4",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1994-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.25,
+  "item_height": 40.0,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035170",
+  "provenance_text": "Christie's, New York City, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32255&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc24979-287f-4187-836c-285f182fae69",
+      "party_type": "Person",
+      "full_name": "Wharton Esherick",
+      "cited_name": "Esherick, Wharton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": " Paoli (Chester county, Pennsylvania, United States)"
+    }
+  ]
+}

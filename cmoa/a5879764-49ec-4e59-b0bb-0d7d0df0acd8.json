@@ -1,0 +1,39 @@
+{
+  "title": "Games in the Snow",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "52.19",
+  "id": "cmoa:things/a5879764-49ec-4e59-b0bb-0d7d0df0acd8",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1952-12-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.125,
+  "item_height": 32.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009077",
+  "provenance_text": "Galerie de France, Paris, through the 1952 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23533&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/870f99a6-044c-4c23-973f-2bb8960012b5",
+      "party_type": "Person",
+      "full_name": "Alfred Manessier",
+      "cited_name": "Manessier, Alfred",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1911-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Sait-Ouen near Amiens",
+      "death_place": "Orléans-La Source"
+    }
+  ]
+}

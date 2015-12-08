@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1959",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "aluminum",
+  "accession_number": "2014.83",
+  "id": "cmoa:things/9a0f9bff-0a65-44f8-84ed-f1cfa1373896",
+  "credit_line": "Gift of the Tracy Family",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Charity Randall Gallery",
+  "item_width": 0.0,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 3.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106740",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148508&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148510&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/273dc3d6-751e-42e8-8b92-83a8bfbe820f",
+      "party_type": "Organization",
+      "full_name": "Aluminum Company of America",
+      "cited_name": "Aluminum Company of America",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

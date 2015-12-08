@@ -1,0 +1,39 @@
+{
+  "title": "I Like Pussy",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "toned gelatin silver print with hand applied text",
+  "accession_number": "2002.33.11",
+  "id": "cmoa:things/6151dc35-35bf-4836-ab0b-0f5b837273dd",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.875,
+  "item_height": 12.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=323",
+  "provenance_text": "Pace/MacGill Gallery, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11907&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "pen and colored inks",
+  "accession_number": "71.53",
+  "id": "cmoa:things/53d789ef-07ec-45af-b086-d804a89f328d",
+  "credit_line": "Gift of Mr. and Mrs. Donald S. Steinfirst",
+  "date_acquired": "1971-12-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 18.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016256",
+  "provenance_text": "Gift of Mr. and Mrs. Donald S. Steinfirst, Pittsburgh, PA, 1971.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69d9e7bd-b6be-408a-bc7e-993de323f412",
+      "party_type": "Person",
+      "full_name": "Conrad Marca-Relli",
+      "cited_name": "Marca-Relli, Conrad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Parma, Italy"
+    }
+  ]
+}

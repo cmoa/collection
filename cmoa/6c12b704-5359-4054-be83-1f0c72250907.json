@@ -1,0 +1,51 @@
+{
+  "title": "First Chair",
+  "creation_date": "1983 (manufactured c. 1995)",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "painted wood and powder-coated steel",
+  "accession_number": "1997.13",
+  "id": "cmoa:things/6c12b704-5359-4054-be83-1f0c72250907",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1997-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 23.25,
+  "item_height": 35.5,
+  "item_depth": 19.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002975",
+  "provenance_text": "Urban Architecture, Pontiac, MI",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8720&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f3783c7f-acf3-44e3-a1af-dc5e40080b02",
+      "party_type": "Person",
+      "full_name": "Michele de Lucchi",
+      "cited_name": "de Lucchi, Michele",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/322574cc-dad0-4dca-b925-f5e1fa5d8cbb",
+      "party_type": "Organization",
+      "full_name": "Memphis",
+      "cited_name": "Memphis",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1980-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

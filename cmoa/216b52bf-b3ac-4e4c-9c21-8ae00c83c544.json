@@ -1,0 +1,39 @@
+{
+  "title": "Covered cup",
+  "creation_date": "1681",
+  "creation_date_earliest": "1681-01-01",
+  "creation_date_latest": "1681-01-01",
+  "medium": "silver",
+  "accession_number": "70.7.160.A-B",
+  "id": "cmoa:things/216b52bf-b3ac-4e4c-9c21-8ae00c83c544",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015969",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2170&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c10388b0-87bc-4aea-b20c-ea5504892eb2",
+      "party_type": "Person",
+      "full_name": "John Duck",
+      "cited_name": "Duck, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1653-01-01",
+      "death_date": "1745-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

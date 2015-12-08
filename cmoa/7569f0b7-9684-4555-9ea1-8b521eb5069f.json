@@ -1,0 +1,45 @@
+{
+  "title": "Man and Beast",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.11.4",
+  "id": "cmoa:things/7569f0b7-9684-4555-9ea1-8b521eb5069f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008456",
+  "provenance_text": "Associated American Artists, Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103675&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103672&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76895&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19536565-67c6-40b4-bded-8b5a00598950",
+      "party_type": "Person",
+      "full_name": "Joseph Hirsch",
+      "cited_name": "Hirsch, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "New York, NY"
+    }
+  ]
+}

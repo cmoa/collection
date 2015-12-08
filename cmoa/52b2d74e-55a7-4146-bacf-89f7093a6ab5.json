@@ -1,0 +1,39 @@
+{
+  "title": "Nude Model, Reclining",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "transfer lithograph on laid paper",
+  "accession_number": "18.13.5",
+  "id": "cmoa:things/52b2d74e-55a7-4146-bacf-89f7093a6ab5",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001675",
+  "provenance_text": "Henry Harper Benedict; M. Knoedler & Company (purchase)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56827&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

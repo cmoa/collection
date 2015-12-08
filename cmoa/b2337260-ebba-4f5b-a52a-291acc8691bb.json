@@ -1,0 +1,78 @@
+{
+  "title": "Untitled",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "wood",
+  "accession_number": "85.12",
+  "id": "cmoa:things/b2337260-ebba-4f5b-a52a-291acc8691bb",
+  "credit_line": "Gift of John Hudson",
+  "date_acquired": "1985-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 32.875,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025436",
+  "provenance_text": "John Hudson, Irwin, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127013&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127014&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127015&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127016&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127017&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127018&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127019&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127020&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127021&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127022&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127023&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127024&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127025&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127026&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b3c7c46-7796-4f84-b1ce-aa5ec550507e",
+      "party_type": "Person",
+      "full_name": "Martin Puryear",
+      "cited_name": "Puryear, Martin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Washington (DC, United States)",
+      "death_place": null
+    }
+  ]
+}

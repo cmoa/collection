@@ -1,0 +1,48 @@
+{
+  "title": "Table",
+  "creation_date": "c. 1875",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "gilded beech, gouache on parchment and paper, and glass",
+  "accession_number": "86.26",
+  "id": "cmoa:things/7603e6bb-9b89-4192-8375-53c333958e60",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "1986-06-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 27.75,
+  "item_depth": 0.0,
+  "item_diameter": 15.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026038",
+  "provenance_text": "G. Randall, VA, Alexandria",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96819&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96822&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96825&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8751&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a034c486-1152-4029-bf1c-d231b5205229",
+      "party_type": "Organization",
+      "full_name": "Wright & Mansfield",
+      "cited_name": "Wright & Mansfield",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": "1860-01-01",
+      "death_date": "1884-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

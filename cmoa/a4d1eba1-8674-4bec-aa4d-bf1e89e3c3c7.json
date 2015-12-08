@@ -1,0 +1,54 @@
+{
+  "title": "James Paine, architect, and James Paine, Jr.",
+  "creation_date": "1764",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1764-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.85",
+  "id": "cmoa:things/a4d1eba1-8674-4bec-aa4d-bf1e89e3c3c7",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34557",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94606&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53585&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2502da4-0653-4daf-87a7-aa8217e9027a",
+      "party_type": "Person",
+      "full_name": "James Watson",
+      "cited_name": "Watson, James",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1740-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

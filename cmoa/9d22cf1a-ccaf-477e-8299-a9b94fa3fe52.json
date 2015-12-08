@@ -1,0 +1,51 @@
+{
+  "title": "A View on the Orwell - Near Ipswich",
+  "creation_date": "c. 1830",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "color mezzotint on paper",
+  "accession_number": "2009.73.8",
+  "id": "cmoa:things/9d22cf1a-ccaf-477e-8299-a9b94fa3fe52",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88795",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112790&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fd52346-5b21-4c2e-aa07-a2d7c99e4954",
+      "party_type": "Person",
+      "full_name": "David Lucas",
+      "cited_name": "Lucas, David",
+      "role": "engraver",
+      "nationality": "British",
+      "birth_date": "1802-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7b5884a6-e061-4a27-9e87-b2ff41d8b288",
+      "party_type": "Person",
+      "full_name": "John Constable",
+      "cited_name": "Constable, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1776-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": "East Bergholt (Suffolk, England, United Kingdom)",
+      "death_place": "Hampstead (Greater London, England, United Kingdom)"
+    }
+  ]
+}

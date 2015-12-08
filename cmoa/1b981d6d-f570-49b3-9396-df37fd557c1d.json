@@ -1,0 +1,39 @@
+{
+  "title": "Mini Print B (Minipurinto)",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "collotype on paper",
+  "accession_number": "89.28.1035.1",
+  "id": "cmoa:things/1b981d6d-f570-49b3-9396-df37fd557c1d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.062,
+  "item_height": 6.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026740",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da5f9f5f-d170-40ba-aa01-0fc3085efc3e",
+      "party_type": "Person",
+      "full_name": "Miyashita Tokio",
+      "cited_name": "Miyashita Tokio",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

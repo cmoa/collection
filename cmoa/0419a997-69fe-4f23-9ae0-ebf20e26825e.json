@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "silver gilt inlaid with cloisonne enamel",
+  "accession_number": "77.43.34",
+  "id": "cmoa:things/0419a997-69fe-4f23-9ae0-ebf20e26825e",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.25,
+  "item_depth": 0.0,
+  "item_diameter": 3.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018667",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5209&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/83a6ee8f-cf1c-4b81-95ef-91dca0706901",
+      "party_type": "Person",
+      "full_name": "unknown Russian",
+      "cited_name": "unknown Russian",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

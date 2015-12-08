@@ -1,0 +1,39 @@
+{
+  "title": "Cleopatra",
+  "creation_date": "c.1750-1780",
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "sanguine drawing of oval design on cream paper",
+  "accession_number": "23.12.12",
+  "id": "cmoa:things/5731ceb3-6311-4f57-883e-18560e8e4b44",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004819",
+  "provenance_text": "Herbert Dupuy, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99112&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/26e502e0-cbe1-41a1-9779-49880fa8efa5",
+      "party_type": "Person",
+      "full_name": "Giovanni Battista Cipriani",
+      "cited_name": "Cipriani",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1785-01-01",
+      "birth_place": " Florence (Firenze province, Tuscany, Italy)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

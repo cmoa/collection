@@ -1,0 +1,39 @@
+{
+  "title": "Covered compote",
+  "creation_date": "1810-1840",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "glass",
+  "accession_number": "50.4.6.A-B",
+  "id": "cmoa:things/1853a8c7-8ea2-452c-b3ed-6ac85181a0ef",
+  "credit_line": "Gift of the Pittsburgh Early American Glass Club",
+  "date_acquired": "1950-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.625,
+  "item_height": 7.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008878",
+  "provenance_text": "Pittsburgh Early American Glass Club, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=986&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

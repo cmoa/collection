@@ -1,0 +1,39 @@
+{
+  "title": "A Cardinal",
+  "creation_date": "c. 1860-1880",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "pencil and watercolor on paper",
+  "accession_number": "75.47.17",
+  "id": "cmoa:things/5f33d4de-8513-4e38-82ed-1b56ba9b18b0",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017779",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94783&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d5cac92-d4af-4ce3-bcd3-5c1e77e637d5",
+      "party_type": "Person",
+      "full_name": "Jean-Léon Gérôme",
+      "cited_name": "Gérôme, Jean-Léon",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": " Vesoul (Haute-Saône, Franche-Comté, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

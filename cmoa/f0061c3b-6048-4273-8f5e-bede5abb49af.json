@@ -1,0 +1,51 @@
+{
+  "title": "Fortitudo (Fortitude)",
+  "creation_date": "1559-1560",
+  "creation_date_earliest": "1558-12-22",
+  "creation_date_latest": "1559-12-22",
+  "medium": "engraving on paper",
+  "accession_number": "59.20.7",
+  "id": "cmoa:things/f0061c3b-6048-4273-8f5e-bede5abb49af",
+  "credit_line": "Kenneth Seaver Fund",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010971",
+  "provenance_text": "William H. Schab, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94675&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a33c6519-ce05-422a-a0a3-28a4c1f20bda",
+      "party_type": "Person",
+      "full_name": "Pieter Bruegel I",
+      "cited_name": "Bruegel, Pieter, I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1520-01-01",
+      "death_date": "1569-01-01",
+      "birth_place": "Breda (North Brabant, Netherlands)",
+      "death_place": "Brussels (Bruxelles region, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/be680c35-fc6b-42fb-9628-eedea84932d7",
+      "party_type": "Person",
+      "full_name": "Philip Galle",
+      "cited_name": "Galle, Philip",
+      "role": "engraver",
+      "nationality": "Flemish",
+      "birth_date": "1537-01-01",
+      "death_date": "1612-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

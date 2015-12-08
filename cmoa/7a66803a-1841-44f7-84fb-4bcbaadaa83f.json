@@ -1,0 +1,39 @@
+{
+  "title": "Chair",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "aluminum, steel, and original leather upholstery",
+  "accession_number": "2015.14",
+  "id": "cmoa:things/7a66803a-1841-44f7-84fb-4bcbaadaa83f",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2015-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.75,
+  "item_height": 38.75,
+  "item_depth": 34.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107276",
+  "provenance_text": "Liz O’Brien Gallery, New York, NY, until Feb. 4, 2015; purchased by the Museum, Feb. 4, 2015.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146907&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e223ba1-c15d-4335-85bb-d36ce6d6dba6",
+      "party_type": "Person",
+      "full_name": "John Vesey",
+      "cited_name": "Vesey, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

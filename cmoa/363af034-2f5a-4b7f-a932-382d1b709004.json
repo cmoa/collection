@@ -1,0 +1,39 @@
+{
+  "title": "Three Wristwatches",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "79.51.40",
+  "id": "cmoa:things/363af034-2f5a-4b7f-a932-382d1b709004",
+  "credit_line": "Gift of Eddie Green",
+  "date_acquired": "1979-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.125,
+  "item_height": 22.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020443",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119322&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/124d5df9-180f-4ae7-a17d-e7a61e5c39c6",
+      "party_type": "Person",
+      "full_name": "Joe Tilson",
+      "cited_name": "Tilson, Joe",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

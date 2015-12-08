@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1922",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "ink on brown paper",
+  "accession_number": "92.58",
+  "id": "cmoa:things/7c1276f2-d4d7-4d7c-98fe-7a9b554dfefd",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "1992-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 22.688,
+  "item_height": 28.688,
+  "item_depth": 1.312,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032519",
+  "provenance_text": "La Boetie, NY, New York;   Carl Laszlo, Basel;   Galerie Seroussi, Paris;   Private collection, Scarsdale, NY;   Helen Serger/Le Boetie, Inc. , NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148830&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c1feb3e-3974-42a7-9ab7-b8a7e821eafc",
+      "party_type": "Person",
+      "full_name": "Lajos Kassák",
+      "cited_name": "Kassák, Lajos",
+      "role": null,
+      "nationality": "Hungarian",
+      "birth_date": "1887-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Nove Zamky, Czechoslovakia",
+      "death_place": " Budapest (Budapest county, Hungary)"
+    }
+  ]
+}

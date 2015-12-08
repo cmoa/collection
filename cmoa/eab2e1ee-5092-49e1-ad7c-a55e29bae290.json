@@ -1,0 +1,42 @@
+{
+  "title": "Matthew",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.52.1",
+  "id": "cmoa:things/eab2e1ee-5092-49e1-ad7c-a55e29bae290",
+  "credit_line": "The William T. Hillman Fund for Photography",
+  "date_acquired": "2014-10-30",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104970",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132219&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132220&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9be30174-3679-42b4-a5d6-af3a8141def1",
+      "party_type": "Person",
+      "full_name": "Kenneth Josephson",
+      "cited_name": "Josephson, Kenneth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Detroit, Michigan, United States",
+      "death_place": null
+    }
+  ]
+}

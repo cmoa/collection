@@ -1,0 +1,57 @@
+{
+  "title": "Basket",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "94.114",
+  "id": "cmoa:things/aaa43cf4-0076-4dd9-aa8d-be9dfd321b22",
+  "credit_line": "Purchase: gift of Mrs. John Berdan and Mrs. William C. Robinson, Stanley and Charlotte Bernstein, Jr., Mr. and Mrs. Charles Denby, Mr. and Mrs. Sidney Feldman, Mary E. B. Gordon, Mr. and Mrs. Henry Oliver Rea in memory of Edith Oliver Rea, Eleanore E. Storey and Mary L. Edwards, Mrs. Philip Wiggin, and Robert S. Waters by exchange",
+  "date_acquired": "1994-09-22",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 9.625,
+  "item_height": 6.125,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033858",
+  "provenance_text": "Historical Design Collection, Inc., New York, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17736&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4371&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129352&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/277802d6-f45b-42ce-b7f6-a5a9a996d3fb",
+      "party_type": "Person",
+      "full_name": "Josef Hoffmann",
+      "cited_name": "Hoffmann, Josef",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1870-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Moravia (Czech Republic)",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/a540ab1f-d16e-4717-b921-7f452387ce69",
+      "party_type": "Organization",
+      "full_name": "Wiener Werkstätte",
+      "cited_name": "Wiener Werkstätte",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1903-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

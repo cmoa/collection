@@ -1,0 +1,51 @@
+{
+  "title": "Amakusa District (Amakusa no bu)",
+  "creation_date": "12/25/1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1422.1",
+  "id": "cmoa:things/7f8e1e90-2fe0-45c8-b9f2-4565eea975e6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 5.687,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027317",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 7/20/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34689&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8be7b16-45e7-43d6-adba-bce0fb0ba78c",
+      "party_type": "Person",
+      "full_name": "Morita Tsunetomo",
+      "cited_name": "Morita Tsunetomo",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1881-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9736e158-c9b3-4bf1-b4f8-8f0917068d02",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô",
+      "cited_name": "Nakajima Jûtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

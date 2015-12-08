@@ -1,0 +1,39 @@
+{
+  "title": "Doily",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "Cotton",
+  "accession_number": "78.48.5",
+  "id": "cmoa:things/f53f548c-fe47-4a14-828d-723a65cab9ac",
+  "credit_line": "Gift of Mary L. Dodds in memory of her mother, Anna Belle Campbell Dodds",
+  "date_acquired": "1978-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 11.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020078",
+  "provenance_text": "Mary L. Dodds",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9576&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36b80b9f-9020-48f7-a8b7-a3ee3c01c5b1",
+      "party_type": "Person",
+      "full_name": "unknown Near Eastern",
+      "cited_name": "unknown Near Eastern",
+      "role": null,
+      "nationality": "Near Eastern",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

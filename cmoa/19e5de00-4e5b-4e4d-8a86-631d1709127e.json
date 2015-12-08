@@ -1,0 +1,39 @@
+{
+  "title": "That Was Then",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "2013.12",
+  "id": "cmoa:things/19e5de00-4e5b-4e4d-8a86-631d1709127e",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2013-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 75.0,
+  "item_height": 95.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101437",
+  "provenance_text": "(Blum & Poe Gallery), Los Angeles, 2013; Museum purchase, 2013.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119496&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/564e23d6-e093-45c0-8774-304d4d713438",
+      "party_type": "Person",
+      "full_name": "Henry Taylor",
+      "cited_name": "Taylor, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Oxnard, California, United States of America",
+      "death_place": null
+    }
+  ]
+}

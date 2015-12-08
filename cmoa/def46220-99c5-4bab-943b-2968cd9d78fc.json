@@ -1,0 +1,39 @@
+{
+  "title": "Faith, Hope, and Charity",
+  "creation_date": "1799",
+  "creation_date_earliest": "1799-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "ink and tempera on paper mounted on canvas",
+  "accession_number": "74.7.3",
+  "id": "cmoa:things/def46220-99c5-4bab-943b-2968cd9d78fc",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 14.875,
+  "item_height": 10.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017515",
+  "provenance_text": "Thomas Butts. Max Rothschild, by 1929; possibly James Macdonald; sold to Anton G. Hardy, Englewood, NJ, in 1929 [1]; Mrs. Anton G. Hardy, Englewood, NJ, in 1940 [2]; sold at Parke-Bernet, New York, NY, on January 14, 1942, no. 19 [3]; purchased by Charles Sessler, Philadelphia, PA [4]; Charles J. Rosenbloom [1898-1973], Pittsburgh, PA, until April 1, 1973; his bequest to Museum, February 1974. \n\nNotes:\n[1]. For early provenance see \"The Paintings and Drawings of William Blake\" by Martin Butlin, Yale University Press, 1981; this work is cat. no. 428, illustrated in plate no. 494. \n[2]. Label on frame reads \"Lent by Mrs. Anton G. Hardy, 1940\" \n[3]. \"The Splendid Library of Mr. and Mrs. Anton G. Hardy\", illustrated on frontispiece. \n[4]. Purchased for $2100 by Sessler for Charles J. Rosenbloom, as per Butlin reference; see also New York Times article on the sale.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115370&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e5a35ff-65da-47e0-9356-f2ff6644ffc9",
+      "party_type": "Person",
+      "full_name": "William Blake",
+      "cited_name": "Blake, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1757-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "London",
+      "death_place": "London"
+    }
+  ]
+}

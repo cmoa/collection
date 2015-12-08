@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1789-1810",
+  "creation_date_earliest": "1784-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "sterling silver and wood",
+  "accession_number": "70.32.2416",
+  "id": "cmoa:things/531f6e25-abe0-43fc-8a37-a4522d1a579b",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 6.25,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014627",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5874&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

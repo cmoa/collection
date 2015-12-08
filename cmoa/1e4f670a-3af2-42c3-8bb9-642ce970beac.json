@@ -1,0 +1,39 @@
+{
+  "title": "Hunting Scene",
+  "creation_date": "1857",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1857-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.14.3",
+  "id": "cmoa:things/1e4f670a-3af2-42c3-8bb9-642ce970beac",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.875,
+  "item_height": 16.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016360",
+  "provenance_text": "Newman Galleries, Philadelphia; Robert S. Waters, Johnstown, Pennsylvania; bequest to Museum, May 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=348&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1267467b-aade-4baf-9105-a244c361670f",
+      "party_type": "Person",
+      "full_name": "John Frederick Herring, Sr.",
+      "cited_name": "Herring, John Frederick",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1795-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Surrey (England, United Kingdom)",
+      "death_place": "Meopham (Kent, England, United Kingdom)"
+    }
+  ]
+}

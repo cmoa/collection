@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "18th-19th century",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "hard paste porcelain",
+  "accession_number": "78.36.43.A-B",
+  "id": "cmoa:things/1323409f-ae52-4704-b395-0c309d3b0de5",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.438,
+  "item_height": 3.438,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020028",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1466&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

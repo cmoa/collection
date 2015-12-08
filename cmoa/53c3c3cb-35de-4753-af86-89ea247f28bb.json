@@ -1,0 +1,39 @@
+{
+  "title": "Rolling Armchair",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "chromium-plated tubular steel and Lucite",
+  "accession_number": "2003.48",
+  "id": "cmoa:things/53c3c3cb-35de-4753-af86-89ea247f28bb",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2003-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 28.25,
+  "item_height": 29.75,
+  "item_depth": 23.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5922",
+  "provenance_text": "Wright Auction House, Chicago, IL",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11931&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3728ed7d-6ffb-4542-97ae-34a96e0065e6",
+      "party_type": "Person",
+      "full_name": "Paul Rudolph",
+      "cited_name": "Rudolph, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Kentucky",
+      "death_place": "New York City, New York"
+    }
+  ]
+}

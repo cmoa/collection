@@ -1,0 +1,39 @@
+{
+  "title": "Rocking chair",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "iron with leather upholstery",
+  "accession_number": "2012.29",
+  "id": "cmoa:things/7179a957-ef35-4507-9cdd-b3b1f3be83b5",
+  "credit_line": "Women's Committee Acquisitions Fund",
+  "date_acquired": "2012-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 26.5,
+  "item_height": 43.0,
+  "item_depth": 37.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98676",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114671&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d662836a-4e09-428c-81ae-11c7bf2ba203",
+      "party_type": "Organization",
+      "full_name": "R.W. Winfield",
+      "cited_name": "R.W. Winfield",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1829-01-01",
+      "death_date": "1864-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

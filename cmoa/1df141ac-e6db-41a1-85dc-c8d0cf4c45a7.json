@@ -1,0 +1,39 @@
+{
+  "title": "The Captives",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.38",
+  "id": "cmoa:things/1df141ac-e6db-41a1-85dc-c8d0cf4c45a7",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1972-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 86.0,
+  "item_height": 68.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016422",
+  "provenance_text": "Joseph Woodwell, Pittsburgh; his son, Joseph R. Woodwell, Pittsburgh, by 1898; his daughter, Joanna K.W. Hailman, Pittsburgh, by 1911, until c. 1940; By appropriation, 1972",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9705&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90410dbc-e519-448a-ad1c-b98ad9d3fb39",
+      "party_type": "Person",
+      "full_name": "Isaac Eugene Craig",
+      "cited_name": "Craig, Isaac E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

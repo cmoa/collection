@@ -1,0 +1,51 @@
+{
+  "title": "The Temptation of Saint Anthony-- the Forms",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "blood, alcohol, acrylic, paper, linen on wood panels",
+  "accession_number": "91.27.A-PP",
+  "id": "cmoa:things/cfda48a0-487a-4fa5-8c0b-9ea53298fae2",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "1991-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 228.0,
+  "item_height": 25.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029679",
+  "provenance_text": "Mary Boone Gallery, NY, New York, through the 51st Carnegie International",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11751&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1a0b8d8-2cad-49db-a5ba-09d4dee79483",
+      "party_type": "Person",
+      "full_name": "Tim Rollins",
+      "cited_name": "Rollins, Tim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "Maine, USA",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e97457ad-ae64-4f4f-86db-9eb5aa24574f",
+      "party_type": "Organization",
+      "full_name": "K. O. S.",
+      "cited_name": "K. O. S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1982-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

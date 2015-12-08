@@ -1,0 +1,39 @@
+{
+  "title": "Terra Cotta on Fifth",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "Inkjet print",
+  "accession_number": "2013.8.12",
+  "id": "cmoa:things/88e4b465-ad74-43a1-a9d8-dc738d5c7fc6",
+  "credit_line": "Gift of The Heinz Endowments",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93618",
+  "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106813&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/62a0763a-4caf-4e6a-b29c-bea9415d1ab6",
+      "party_type": "Person",
+      "full_name": "Mark Perrott",
+      "cited_name": "Perrott, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Rochester, PA",
+      "death_place": null
+    }
+  ]
+}

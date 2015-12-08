@@ -1,0 +1,51 @@
+{
+  "title": "Heron on a Snow-Covered Pine Branch",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1109",
+  "id": "cmoa:things/8d38c7b2-49d7-4bdb-a5d5-9b5bb96c2509",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.438,
+  "item_height": 13.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026867",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32627&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6fbc28b0-bc86-47c4-8331-7e704cf341fb",
+      "party_type": "Person",
+      "full_name": "Ohara Koson",
+      "cited_name": "Ohara Koson",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1877-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e69b59b3-fadf-4ad5-9c15-931b97e146d5",
+      "party_type": "Person",
+      "full_name": "Matsuki Heikichi",
+      "cited_name": "Matsuki Heikichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1890-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

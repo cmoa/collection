@@ -1,0 +1,39 @@
+{
+  "title": "Red and Right",
+  "creation_date": "1981-1983",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "bamboo, canvas, string, acrylic on canvas",
+  "accession_number": "84.105",
+  "id": "cmoa:things/a29b9ced-a35d-446a-b5fe-85d843c9b759",
+  "credit_line": "Gift of Dr. Howard Cooperman",
+  "date_acquired": "1985-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 43.0,
+  "item_height": 57.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024475",
+  "provenance_text": "Foster Goldstrom, Dallas, Texas",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100243&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0e5d5c0-d2c3-45c6-829c-c19aa3220943",
+      "party_type": "Person",
+      "full_name": "David Maxim",
+      "cited_name": "Maxim, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "Los Angeles, CA",
+      "death_place": null
+    }
+  ]
+}

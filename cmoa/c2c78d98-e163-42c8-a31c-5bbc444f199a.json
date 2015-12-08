@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.35",
+  "id": "cmoa:things/c2c78d98-e163-42c8-a31c-5bbc444f199a",
+  "credit_line": "Richard Mace Feldman Memorial Fund",
+  "date_acquired": "1959-05-28",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.25,
+  "item_height": 63.25,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010995",
+  "provenance_text": "Nelson and Schauer Enterprises, San Francisco",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149575&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/584244ff-b77f-4a67-b647-efbc58c79727",
+      "party_type": "Person",
+      "full_name": "Ernest Briggs",
+      "cited_name": "Briggs, Ernest",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "California",
+      "death_place": "Brooklyn, New York"
+    }
+  ]
+}

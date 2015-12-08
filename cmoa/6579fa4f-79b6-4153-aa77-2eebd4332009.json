@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Lady",
+  "creation_date": "1784",
+  "creation_date_earliest": "1784-01-01",
+  "creation_date_latest": "1784-01-01",
+  "medium": "watercolor on ivory; gilt metal frame",
+  "accession_number": "27.10.201",
+  "id": "cmoa:things/6579fa4f-79b6-4153-aa77-2eebd4332009",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 3.125,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005654",
+  "provenance_text": "Harper Collection. L. Voron, New York, NY; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 22, 1914; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73661&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c3d7be5-ddac-438d-be74-f6dc65f76753",
+      "party_type": "Person",
+      "full_name": "François Elie Vincent",
+      "cited_name": "Vincent, François E.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1708-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": "Geneva (Geneva canton, Switzerland)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Conservatory II",
+  "creation_date": "1962 block/ 2007 print",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "2007.92",
+  "id": "cmoa:things/de4cf823-ee12-4d11-acb9-46738eddd323",
+  "credit_line": "Gift of Lila Penchansky in memory of Vera Levin de Penchansky",
+  "date_acquired": "2008-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=52825",
+  "provenance_text": "given to donor by artist; gift of Lila Penchansky",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=59750&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9285b51-f897-4cc8-b8bc-778421478961",
+      "party_type": "Person",
+      "full_name": "Matsubara Naoko",
+      "cited_name": "Matsubara Naoko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

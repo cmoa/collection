@@ -1,0 +1,39 @@
+{
+  "title": "Rue de l'Abreuvoir",
+  "creation_date": "1911",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "oil on cardboard mounted to panel",
+  "accession_number": "85.48",
+  "id": "cmoa:things/b76dce2c-f292-43b4-91fc-e5258d633d98",
+  "credit_line": "Gift of Richard M. Scaife",
+  "date_acquired": "1985-10-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.5,
+  "item_height": 30.75,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025639",
+  "provenance_text": "Sarah Mellon Scaife [1903-1965], Pittsburgh, PA by October 1963 until December 28, 1965 [1]; her son, Richard M. Scaife [1932-2014], Pittsburgh, PA [2]; his gift to Museum of Art, Carnegie Institute, October 1985.\n\nNotes:\n[1]. Mrs. Scaife lent the painting to the Utrillo exhibition at the Museum of Art, Carnegie Institute in October 1963.\n[2]. The painting was no. 43 in \"Celebration: Inaugural Scaife Gallery Exhibition\" in October 1974, lent by Mr. and Mrs. Richard M. Scaife.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa5af330-e668-43de-bce4-07c23f9baed6",
+      "party_type": "Person",
+      "full_name": "Maurice Utrillo",
+      "cited_name": "Utrillo, Maurice",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1883-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dax (Landes, Aquitaine, France)"
+    }
+  ]
+}

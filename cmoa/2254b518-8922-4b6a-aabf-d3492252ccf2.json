@@ -1,0 +1,51 @@
+{
+  "title": "Beggar",
+  "creation_date": "1727",
+  "creation_date_earliest": "1727-01-01",
+  "creation_date_latest": "1727-01-01",
+  "medium": "porcelain with silver gilt",
+  "accession_number": "59.47.2",
+  "id": "cmoa:things/2254b518-8922-4b6a-aabf-d3492252ccf2",
+  "credit_line": "Purchase: gift of Sarah Mellon Scaife Foundation",
+  "date_acquired": "1959-10-26",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 8.75,
+  "item_depth": 2.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011032",
+  "provenance_text": "The Antique Porcelain Co., NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2309&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2927ae1-fde7-47ff-b7a8-75c6914977c1",
+      "party_type": "Person",
+      "full_name": "Johann Christophe Ludwig Lucke",
+      "cited_name": "Lucke, Johann C.",
+      "role": "attributed modeller",
+      "nationality": "German",
+      "birth_date": "1703-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": "Dresden, Germany",
+      "death_place": "Danzig, present-day Gdansk, Poland"
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

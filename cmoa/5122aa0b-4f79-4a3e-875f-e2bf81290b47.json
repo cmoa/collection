@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1826",
+  "creation_date_earliest": "1826-01-01",
+  "creation_date_latest": "1826-01-01",
+  "medium": "porcelain",
+  "accession_number": "86.14",
+  "id": "cmoa:things/5122aa0b-4f79-4a3e-875f-e2bf81290b47",
+  "credit_line": "Mary Murtland Wurts Fund of the Pittsburgh Foundation",
+  "date_acquired": "1986-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025835",
+  "provenance_text": "W. M. Schwind, Jr. Antiques, ME, Yarmouth",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4292&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8e4acc50-34d6-4f1d-b7ca-bbb86268d3bf",
+      "party_type": "Organization",
+      "full_name": "Prince Iusupov Porcelain Factory, Arkhangel'Skoe",
+      "cited_name": "Prince Iusupov Porcelain Factory, Arkhangel'Skoe",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": null,
+      "death_date": "1831-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

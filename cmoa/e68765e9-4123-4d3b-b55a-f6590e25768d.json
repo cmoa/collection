@@ -1,0 +1,51 @@
+{
+  "title": "Teco vase",
+  "creation_date": "1900-1904",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "2006.43",
+  "id": "cmoa:things/e68765e9-4123-4d3b-b55a-f6590e25768d",
+  "credit_line": "Gift of American Decorative Art 1900 Foundation in honor of Sarah Nichols",
+  "date_acquired": "2006-06-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 4.0,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=25742",
+  "provenance_text": "Collection of Bruce Barnes and Joe Cunningham, NYC",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37436&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0780aa87-0099-4eef-b581-240bba6cf235",
+      "party_type": "Person",
+      "full_name": "Harald Hals",
+      "cited_name": "Hals, Harald",
+      "role": "designer",
+      "nationality": "Norwegian",
+      "birth_date": "1876-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Oslo (Oslo county, Norway)",
+      "death_place": "Oslo (Oslo county, Norway)"
+    },
+    {
+      "artist_id": "cmoa:parties/6395fc13-5690-45d6-a28a-805fea4bb0dc",
+      "party_type": "Organization",
+      "full_name": "Gates Potteries",
+      "cited_name": "Gates Potteries",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

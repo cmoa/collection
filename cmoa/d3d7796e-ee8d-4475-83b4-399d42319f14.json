@@ -1,0 +1,42 @@
+{
+  "title": "Goyu",
+  "creation_date": "c. 1833-1834",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "78.43.7",
+  "id": "cmoa:things/d3d7796e-ee8d-4475-83b4-399d42319f14",
+  "credit_line": "Gift of Dr. and Mrs. James B. Austin",
+  "date_acquired": "1978-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020059",
+  "provenance_text": "Donor, Pittsburgh, PA; Acquired by Dr. Austin from William Comerford, New York, 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=74232&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21467&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Portrait of a Child",
+  "creation_date": null,
+  "creation_date_earliest": "1605-01-01",
+  "creation_date_latest": "1651-01-01",
+  "medium": "oil on panel",
+  "accession_number": "29.2.26",
+  "id": "cmoa:things/181b42d0-1bec-461d-a3a0-a89aeaf3d17a",
+  "credit_line": "Gift of Mrs. J. Willis Dalzell",
+  "date_acquired": "1929-02-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.625,
+  "item_height": 20.625,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006190",
+  "provenance_text": "Mrs. J. Willis Dalzell (Mary Beer Dalzell) [c.1849-1929], Pittsburgh, PA, until February 13, 1929; her gift to Museum, February 1929.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7cdb1f05-5375-4606-bff9-543113052742",
+      "party_type": "Person",
+      "full_name": "Cornelis de Vos",
+      "cited_name": "Vos, Cornelis de",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1585-01-01",
+      "death_date": "1651-01-01",
+      "birth_place": "Hulst (Zeeland, Netherlands)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

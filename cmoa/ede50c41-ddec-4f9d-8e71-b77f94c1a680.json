@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "84.30",
+  "id": "cmoa:things/ede50c41-ddec-4f9d-8e71-b77f94c1a680",
+  "credit_line": "Gift of Mrs. George L. Craig, Jr., in memory of her husband",
+  "date_acquired": "1984-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.188,
+  "item_height": 32.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024668",
+  "provenance_text": "Blum Helman Gallery, Inc., New York; Gift of Mrs. George L. Craig, Jr.,1984.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25057&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4dee97a2-0764-4074-aab5-6e9f228ed165",
+      "party_type": "Person",
+      "full_name": "Frank Stella",
+      "cited_name": "Stella, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Malden, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

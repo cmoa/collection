@@ -1,0 +1,37 @@
+{
+  "title": "The Philosopher",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.2.2",
+  "id": "cmoa:things/588acca0-1593-4237-8beb-c91e7b655062",
+  "credit_line": "Gift of Leland Hazard",
+  "date_acquired": "1961-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 45.0,
+  "item_height": 58.25,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011397",
+  "provenance_text": "Gift of Leland Hazard, Pittsburgh, PA, 1961.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/611dbce9-b53e-4ef1-af61-b3e7b152eb33",
+      "party_type": "Person",
+      "full_name": "Milton Goldring",
+      "cited_name": "Goldring, Milton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Pears and Pink",
+  "creation_date": null,
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.40",
+  "id": "cmoa:things/0ec61334-4a67-4c0a-a4bd-3d6cfab9cebb",
+  "credit_line": "Gift of Shilling Fund",
+  "date_acquired": "1956-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 15.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009756",
+  "provenance_text": "Walter Pach",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114989&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56e0553f-819b-40a2-a3e7-8e1bf9a18b51",
+      "party_type": "Person",
+      "full_name": "Anthony Riportella",
+      "cited_name": "Riportella, Anthony",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-04-09",
+      "death_date": "1969-01-01",
+      "birth_place": "Menfi (Agrigento province, Sicily, Italy)",
+      "death_place": "Old Tappan (Bergen county, New Jersey, United States)"
+    }
+  ]
+}

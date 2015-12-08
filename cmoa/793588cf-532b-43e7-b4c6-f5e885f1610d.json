@@ -1,0 +1,42 @@
+{
+  "title": "Architecture du Moyen Age",
+  "creation_date": "1824",
+  "creation_date_earliest": "1824-01-01",
+  "creation_date_latest": "1824-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "24.4.3",
+  "id": "cmoa:things/793588cf-532b-43e7-b4c6-f5e885f1610d",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1924-03-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005127",
+  "provenance_text": "Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110592&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110591&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c75faeb9-ad8b-4010-b49c-ee13d027397e",
+      "party_type": "Person",
+      "full_name": "Richard  Parkes Bonington",
+      "cited_name": "Bonington, Richard  Parkes",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1801-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": " Arnold (Nottinghamshire, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

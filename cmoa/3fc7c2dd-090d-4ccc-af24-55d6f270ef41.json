@@ -1,0 +1,39 @@
+{
+  "title": "Yes",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "oil and canvas collage",
+  "accession_number": "62.24.3",
+  "id": "cmoa:things/3fc7c2dd-090d-4ccc-af24-55d6f270ef41",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 52nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1962-07-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 63.75,
+  "item_height": 67.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011530",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149766&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68d76139-e878-426b-8db1-784c5a9600a2",
+      "party_type": "Person",
+      "full_name": "Jack Massey",
+      "cited_name": "Massey, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

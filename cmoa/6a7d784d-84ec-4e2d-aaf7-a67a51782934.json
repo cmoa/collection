@@ -1,0 +1,51 @@
+{
+  "title": "Large serving plate",
+  "creation_date": "1903-1904",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "porcelain",
+  "accession_number": "2003.4.2",
+  "id": "cmoa:things/6a7d784d-84ec-4e2d-aaf7-a67a51782934",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2003-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 13.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=551",
+  "provenance_text": "Udo Schroder, Hamburg, Germany",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06e293bb-c04e-4778-bb8b-c42bb094bff8",
+      "party_type": "Person",
+      "full_name": "Henry van de Velde",
+      "cited_name": "Velde, Henry van de",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1863-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": "Antwerp, Belgium",
+      "death_place": "Zurich, Switzerland"
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

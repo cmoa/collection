@@ -1,0 +1,39 @@
+{
+  "title": "Man with a Red Nose",
+  "creation_date": "c. 1916-1917",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.17",
+  "id": "cmoa:things/8b91f6a5-8e59-4b15-bca4-8a9ff4c7ec8a",
+  "credit_line": "Gift of Dr. Murray Z. Rosenberg",
+  "date_acquired": "1977-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.875,
+  "item_height": 30.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018348",
+  "provenance_text": "Dr. Murray Z. Rosenberg, Storrs, CT\nThe artist, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=324&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73cd58f4-8b2d-46a7-96ed-0b3ec54cabb8",
+      "party_type": "Person",
+      "full_name": "Samuel Rosenberg",
+      "cited_name": "Rosenberg, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

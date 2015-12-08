@@ -1,0 +1,39 @@
+{
+  "title": "Large Torso",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "bronze",
+  "accession_number": "80.20",
+  "id": "cmoa:things/7fc23bf5-717b-4ca2-ada3-89345e0a11fd",
+  "credit_line": "Tillie Speyer Memorial Sculpture Fund",
+  "date_acquired": "1980-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 34.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021099",
+  "provenance_text": "Xavier Fourcade, Inc. NYC",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117054&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/884a8664-6d0c-4c40-9773-369df32c7f0c",
+      "party_type": "Person",
+      "full_name": "Willem de Kooning",
+      "cited_name": "De Kooning, Willem",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Netherlands, Rotterdam",
+      "death_place": "New York, East Hampton"
+    }
+  ]
+}

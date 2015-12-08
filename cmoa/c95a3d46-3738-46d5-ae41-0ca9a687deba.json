@@ -1,0 +1,39 @@
+{
+  "title": "Yo Yo Ride",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "carborundum etching in black",
+  "accession_number": "87.2.1",
+  "id": "cmoa:things/c95a3d46-3738-46d5-ae41-0ca9a687deba",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1987-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.0,
+  "item_height": 33.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026294",
+  "provenance_text": "Curt Marcus Gallery, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149827&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/49c0cd4a-8baf-432b-a648-f134f1bcd116",
+      "party_type": "Person",
+      "full_name": "Jane Leone Dickson",
+      "cited_name": "Dickson, Jane L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": "Chicago, IL",
+      "death_place": null
+    }
+  ]
+}

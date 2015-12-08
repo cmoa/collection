@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "glass",
+  "accession_number": "70.32.2265",
+  "id": "cmoa:things/48f84fae-b255-4d4d-9575-aa01cf4a23e5",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 5.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014469",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=778&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Book-form case",
+  "creation_date": "early 19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "gold enameled and jeweled with diamonds and seed pearls",
+  "accession_number": "1999.24.3",
+  "id": "cmoa:things/b608dcc0-b8d3-48d7-a235-56e2dbfda8ad",
+  "credit_line": "Bequest of Margaret Seifert Magee",
+  "date_acquired": "1999-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.312,
+  "item_height": 3.438,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003864",
+  "provenance_text": "Estate of the Donor, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3126&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac654c5c-8453-4b8a-ab5b-9817583e2fdc",
+      "party_type": "Person",
+      "full_name": "unknown Swiss",
+      "cited_name": "unknown Swiss",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Two Goats and a Rooster",
+  "creation_date": null,
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "42.11.4",
+  "id": "cmoa:things/4fcb0ed1-661c-40b6-a9e0-9fae96b2c979",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007312",
+  "provenance_text": "The Weyhe Gallery, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100617&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8d13a3d-114c-4b3d-ad36-b5086592613b",
+      "party_type": "Person",
+      "full_name": "George Biddle",
+      "cited_name": "Biddle, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

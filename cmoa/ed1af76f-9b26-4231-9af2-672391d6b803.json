@@ -1,0 +1,39 @@
+{
+  "title": "Rembrandt's Mother in a Cloth Headdress, Looking Down, Head Only",
+  "creation_date": "1633",
+  "creation_date_earliest": "1633-01-01",
+  "creation_date_latest": "1633-01-01",
+  "medium": "etching",
+  "accession_number": "18.39.15",
+  "id": "cmoa:things/ed1af76f-9b26-4231-9af2-672391d6b803",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001824",
+  "provenance_text": "W. Esdaile (d. 1837) (Lugt 2617); G. Hibbert (d. 1837) (Lugt 2849); J.P.F. Kalle (d. 1875) (Lugt 1021); E. Smith Jr. (late 19th century) (Lugt 2897); T. Irwin (d. 1902) (Lugt 1540); M. Knoedler & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29987&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

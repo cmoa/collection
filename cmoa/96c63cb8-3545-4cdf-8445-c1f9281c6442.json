@@ -1,0 +1,42 @@
+{
+  "title": "Egyptian House",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "plaster of paris and paint",
+  "accession_number": "94.243.10",
+  "id": "cmoa:things/96c63cb8-3545-4cdf-8445-c1f9281c6442",
+  "credit_line": "Gift of the Carnegie Museum of Natural History",
+  "date_acquired": "1994-12-01",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 5.875,
+  "item_height": 2.75,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035085",
+  "provenance_text": "Gift of The Carnegie Museum of Natural History from an Anonymous Donor, Pittsburgh, PA, 1994.",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127970&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e3d6d817-8591-489a-8e44-d9a1f2d63c68",
+      "party_type": "Organization",
+      "full_name": "Works Progress Administration, Pennsylvania Museum Extension Project",
+      "cited_name": "Works Progress Administration, Pennsylvania Museum Extension Project",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

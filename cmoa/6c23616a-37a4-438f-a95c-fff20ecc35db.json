@@ -1,0 +1,51 @@
+{
+  "title": "Edward, Lord Thurlow",
+  "creation_date": "May 25, 1782",
+  "creation_date_earliest": "1782-05-25",
+  "creation_date_latest": "1782-05-25",
+  "medium": "engraving",
+  "accession_number": "17.7.7",
+  "id": "cmoa:things/6c23616a-37a4-438f-a95c-fff20ecc35db",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001647",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110552&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a202fc52-b50a-4e91-8787-31f247dd46a4",
+      "party_type": "Person",
+      "full_name": "Francesco Bartolozzi",
+      "cited_name": "Bartolozzi, Francesco",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Lisbon (Distrito de Lisboa, Portugal)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

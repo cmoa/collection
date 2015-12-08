@@ -1,0 +1,51 @@
+{
+  "title": "Ceres rescuing Triptolemus by turning King Lyncus into a lynx (Ovid, Metamorphoses, V, 800-810)",
+  "creation_date": "c. 1680-1710",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1720-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.56",
+  "id": "cmoa:things/15bfcb98-6c89-487e-93f2-141ce5d31ca0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34483",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101916&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ee1859-a7e9-4652-9b99-4d60eb2c86c5",
+      "party_type": "Person",
+      "full_name": "Jacob Gole",
+      "cited_name": "Gole, Jacob",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1660-01-01",
+      "death_date": "1732-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bc00e60f-429e-4f7a-9ca1-a61b1d361fbb",
+      "party_type": "Person",
+      "full_name": "Gerard de Lairesse",
+      "cited_name": "Lairesse, Gerard de",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1640-01-01",
+      "death_date": "1711-01-01",
+      "birth_place": " Liège (Liège province, Wallonia, Belgium)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

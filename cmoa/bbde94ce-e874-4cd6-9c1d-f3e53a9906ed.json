@@ -1,0 +1,39 @@
+{
+  "title": "Chamberstick",
+  "creation_date": "18th-early 19th century",
+  "creation_date_earliest": "1771-01-01",
+  "creation_date_latest": "1833-01-01",
+  "medium": "Porcelain",
+  "accession_number": "70.32.1949",
+  "id": "cmoa:things/bbde94ce-e874-4cd6-9c1d-f3e53a9906ed",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.062,
+  "item_height": 1.812,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014117",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2340&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ec9c7503-a772-449d-8f9f-96ce87776e54",
+      "party_type": "Organization",
+      "full_name": "Spode Pottery and Porcelain Factory",
+      "cited_name": "Spode Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1776-01-01",
+      "death_date": "1833-01-01",
+      "birth_place": "England, Stoke-on-Trent, Staffordshire",
+      "death_place": null
+    }
+  ]
+}

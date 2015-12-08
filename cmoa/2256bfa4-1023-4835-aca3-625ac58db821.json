@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of an Irish Officer",
+  "creation_date": "1788",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.63",
+  "id": "cmoa:things/2256bfa4-1023-4835-aca3-625ac58db821",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.812,
+  "item_height": 2.0,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005905",
+  "provenance_text": "Unnamed Irish family; (sold to Clara Millard, Teddington, England); gift to Herbert DuPuy [1856-1930], Pittsburgh, PA, May 10, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73466&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73467&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7d507c5b-0811-4933-976e-da4e2fa2dad5",
+      "party_type": "Person",
+      "full_name": "George Lawrence",
+      "cited_name": "Lawrence, George",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1758-01-01",
+      "death_date": "1802-01-01",
+      "birth_place": " Republic of Ireland (Europe)",
+      "death_place": null
+    }
+  ]
+}

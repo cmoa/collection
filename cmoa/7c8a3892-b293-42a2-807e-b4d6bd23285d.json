@@ -1,0 +1,39 @@
+{
+  "title": "Permutation II",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "Plexiglas drawing",
+  "accession_number": "72.16.2",
+  "id": "cmoa:things/7c8a3892-b293-42a2-807e-b4d6bd23285d",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 62nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1972-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.25,
+  "item_height": 24.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016379",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115083&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c9549c4-60a0-480a-bdff-74e5602c1c89",
+      "party_type": "Person",
+      "full_name": "Jane Haskell",
+      "cited_name": "Haskell, Jane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Cedarhurst, NY",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

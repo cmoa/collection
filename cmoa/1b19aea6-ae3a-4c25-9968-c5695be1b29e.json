@@ -1,0 +1,51 @@
+{
+  "title": "Jean de Saint Bonnet de Toiras",
+  "creation_date": "1630-1636",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.137",
+  "id": "cmoa:things/1b19aea6-ae3a-4c25-9968-c5695be1b29e",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005359",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102671&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8848c797-b87f-4aab-95fa-3a64c3662e46",
+      "party_type": "Person",
+      "full_name": "Pierre Daret",
+      "cited_name": "Daret, Pierre",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1604-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Landes (Aquitaine, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

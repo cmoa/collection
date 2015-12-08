@@ -1,0 +1,39 @@
+{
+  "title": "Intimate Concert",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.46.1",
+  "id": "cmoa:things/cf3ed7e9-33b8-4a2a-8db6-0d76374e437b",
+  "credit_line": "Gift of Mr. and Mrs. Harold J. Ruttenberg in memory of Milton Ruttenberg",
+  "date_acquired": "1978-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.125,
+  "item_height": 48.125,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020067",
+  "provenance_text": "Donor, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=302&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/114a18f6-4cd7-4269-aac3-0f800fcdd7db",
+      "party_type": "Person",
+      "full_name": "Moses Soyer",
+      "cited_name": "Soyer, Moses",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": "Borisoglebsk (Voronezhskaya Oblast', Rossiya republic, Russia)",
+      "death_place": null
+    }
+  ]
+}

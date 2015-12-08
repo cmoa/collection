@@ -1,0 +1,51 @@
+{
+  "title": "Asakusa",
+  "creation_date": "5/5/1930",
+  "creation_date_earliest": "1930-05-05",
+  "creation_date_latest": "1930-05-05",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.732.6",
+  "id": "cmoa:things/a175dc5f-fcb1-46b8-a65e-981990e87a77",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028868",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29667&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d058d98b-378a-4f71-a1da-4781c148078c",
+      "party_type": "Person",
+      "full_name": "Suwa Kanenori",
+      "cited_name": "Suwa Kanenori",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1897-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

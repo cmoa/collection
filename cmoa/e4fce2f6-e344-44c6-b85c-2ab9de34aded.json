@@ -1,0 +1,37 @@
+{
+  "title": "Landscape",
+  "creation_date": "c.1925-1930",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "oil on panel",
+  "accession_number": "85.24.1",
+  "id": "cmoa:things/e4fce2f6-e344-44c6-b85c-2ab9de34aded",
+  "credit_line": "Gift of Eugene Canade",
+  "date_acquired": "1985-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 4.875,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025464",
+  "provenance_text": "The artist's son, Mr. Eugene Canadé, Paris, by 1961; gift to museum, June 1985",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f698131-6a61-48a8-a293-085d94ab5c19",
+      "party_type": "Person",
+      "full_name": "Vincent Canadé",
+      "cited_name": "Canadé, Vincent",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Italy",
+      "death_place": "New York City"
+    }
+  ]
+}

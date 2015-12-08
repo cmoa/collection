@@ -1,0 +1,39 @@
+{
+  "title": "Perseus Freeing Andromeda",
+  "creation_date": "c. 1624-1636",
+  "creation_date_earliest": "1624-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.98",
+  "id": "cmoa:things/0b1d7423-4b14-4ef5-a70f-89ccec99f23b",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005463",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

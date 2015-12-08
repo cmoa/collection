@@ -1,0 +1,39 @@
+{
+  "title": "The Lone Eagle and the Waning Moon",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.23",
+  "id": "cmoa:things/93ba0630-0280-4419-82e7-d2faab387abc",
+  "credit_line": "Gift of George R. Hann",
+  "date_acquired": "1955-09-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.25,
+  "item_height": 40.125,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009410",
+  "provenance_text": "George R. Hann",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f193b7a-f400-42e7-a063-949333bfd102",
+      "party_type": "Person",
+      "full_name": "Jean Jacques Pfister",
+      "cited_name": "Pfister, Jean J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Basel (Basel-Stadt, Switzerland)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

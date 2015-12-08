@@ -1,0 +1,39 @@
+{
+  "title": "Mestre",
+  "creation_date": "c. 1744",
+  "creation_date_earliest": "1734-01-01",
+  "creation_date_latest": "1754-01-01",
+  "medium": "etching",
+  "accession_number": "18.12.2",
+  "id": "cmoa:things/37937ea6-84e0-4a92-8342-fa5f0fb63559",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001667",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa37fb76-18b6-4910-a45a-a5fd41022aa5",
+      "party_type": "Person",
+      "full_name": "Giovanni Antonio Canal",
+      "cited_name": "Canal, Giovanni Antonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1697-01-01",
+      "death_date": "1768-01-01",
+      "birth_place": " Venice (Venezia province, Veneto, Italy)",
+      "death_place": " Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

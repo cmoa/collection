@@ -1,0 +1,39 @@
+{
+  "title": "Carl Sander",
+  "creation_date": null,
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "76.16.2",
+  "id": "cmoa:things/31f56fec-7444-4ba8-9434-954342e049b6",
+  "credit_line": "Gift of Guenther Sander",
+  "date_acquired": "1976-05-13",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 3.312,
+  "item_height": 5.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018007",
+  "provenance_text": "Guenther Sander, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111961&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/002c5a3b-d73b-42e5-8816-f016be370d71",
+      "party_type": "Person",
+      "full_name": "August Sander",
+      "cited_name": "Sander, August",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1876-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Herdorf (Koblenz district, Rhineland Palatinate, Germany)",
+      "death_place": "Cologne (Köln district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

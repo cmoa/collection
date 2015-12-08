@@ -1,0 +1,39 @@
+{
+  "title": "Arcadia",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "28.10.12",
+  "id": "cmoa:things/4d8b79e1-184a-4115-97a3-672d03ee2f7f",
+  "credit_line": "Gift of Mrs. Herbert L. May",
+  "date_acquired": "1928-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 3.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006108",
+  "provenance_text": "Charles T. Nightingale [1878-1927?]. Mrs. Herbert L. May; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1928.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100464&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cdfe7952-cfb5-4316-9898-326dea34dae5",
+      "party_type": "Person",
+      "full_name": "Charles Thrupp Nightingale",
+      "cited_name": "Nightingale, Charles T.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1878-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

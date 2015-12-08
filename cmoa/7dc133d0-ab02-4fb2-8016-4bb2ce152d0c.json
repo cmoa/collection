@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "high fired glazed earthenware",
+  "accession_number": "16.1.14",
+  "id": "cmoa:things/7dc133d0-ab02-4fb2-8016-4bb2ce152d0c",
+  "credit_line": "Transferred from Carnegie Museum of Natural History",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.75,
+  "item_depth": 0.0,
+  "item_diameter": 8.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001038",
+  "provenance_text": "Tiffany & Co., New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68204&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0d44f3c-87d9-44e4-ade3-06c088031c09",
+      "party_type": "Organization",
+      "full_name": "Ruskin Pottery",
+      "cited_name": "Ruskin Pottery",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1898-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "England, Smethwick",
+      "death_place": null
+    }
+  ]
+}

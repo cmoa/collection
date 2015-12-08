@@ -1,0 +1,39 @@
+{
+  "title": "Ship B (Fune B)",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.82.3",
+  "id": "cmoa:things/c535d00b-abff-4f55-920c-efb694464af1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.75,
+  "item_height": 18.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028989",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e983eaab-6f4b-41c3-a891-48102ee5fc54",
+      "party_type": "Person",
+      "full_name": "Fukushima Ichirô",
+      "cited_name": "Fukushima Ichirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1920-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Off the Main Line",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "52.4",
+  "id": "cmoa:things/c34659ce-2b5c-4931-8c5b-76f9ae520640",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1952-02-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009105",
+  "provenance_text": "William Charles Libby",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103750&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04a80a11-bbf3-450e-8d7f-7d40c31ceee6",
+      "party_type": "Person",
+      "full_name": "William Charles Libby",
+      "cited_name": "Libby, William C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Monroeville (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

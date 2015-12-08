@@ -1,0 +1,39 @@
+{
+  "title": "The Museum of Childhood, Bethnal Green",
+  "creation_date": "2002-2006",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "Architectural Model",
+  "accession_number": "2007.33",
+  "id": "cmoa:things/57480a9d-bfc4-42e8-829c-3bff15f74a49",
+  "credit_line": "Purchase",
+  "date_acquired": "2007-06-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 40.75,
+  "item_height": 15.5,
+  "item_depth": 26.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=23481",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/86a8c206-7d76-4b3b-a640-4b35770c6adb",
+      "party_type": "Organization",
+      "full_name": "Caruso St John",
+      "cited_name": "Caruso St John",
+      "role": "architects",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

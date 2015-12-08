@@ -1,0 +1,39 @@
+{
+  "title": "Henry Nicols",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "14.1",
+  "id": "cmoa:things/7d2879af-5674-4714-9e88-60cc839ded46",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-03-16",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 24.5,
+  "item_height": 29.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000934",
+  "provenance_text": "Henry Nicols, the sitter, until 1831; John Irvine Troup, his nephew, Baltimore, MD, by 1831; by descent to Col. Thomas R. Rhett, Baltimore, MD; Ernestine H. Stevens, his daughter, Philadelphia, PA; Robert M. Lindsay Fine Arts as agent, Philadelphia, PA, 1907; George H. Story, New York, NY, 1907; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1914.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107635&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c78e6af-3cb1-4aef-98fc-10513501df6d",
+      "party_type": "Person",
+      "full_name": "Gilbert Stuart",
+      "cited_name": "Stuart, Gilbert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1755-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": "North Kingstown (Washington county, Rhode Island, United States)",
+      "death_place": "Boston (Suffolk county, Massachusetts, United States)"
+    }
+  ]
+}

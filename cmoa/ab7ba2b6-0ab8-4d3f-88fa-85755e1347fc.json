@@ -1,0 +1,39 @@
+{
+  "title": "Ivy League",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "silkscreen, printed by tiber press",
+  "accession_number": "79.71.1",
+  "id": "cmoa:things/ab7ba2b6-0ab8-4d3f-88fa-85755e1347fc",
+  "credit_line": "Gift of Senator and Mrs. H. John Heinz III",
+  "date_acquired": "1980-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020894",
+  "provenance_text": "Gift of Senator and Mrs. H. John Heinz III, Pittsburgh, PA, 1980.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100335&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bab43991-a1bb-43ec-ab60-2981c06c87a6",
+      "party_type": "Person",
+      "full_name": "Stuart Davis",
+      "cited_name": "Davis, Stuart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

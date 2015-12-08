@@ -1,0 +1,39 @@
+{
+  "title": "Liberty '76",
+  "creation_date": null,
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "serigraph on paper",
+  "accession_number": "76.37.6",
+  "id": "cmoa:things/503b8bb4-e537-486f-bfba-0d753c2876c9",
+  "credit_line": "Gift of Lorillard, a Division of Loews Theatres, Inc.",
+  "date_acquired": "1976-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.938,
+  "item_height": 42.875,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018084",
+  "provenance_text": "Lorillard, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115679&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/482f9f71-3a9d-4b17-bc4b-0197b30728a8",
+      "party_type": "Person",
+      "full_name": "Robert Indiana",
+      "cited_name": "Indiana, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "New Castle (Henry county, Indiana, United States)",
+      "death_place": null
+    }
+  ]
+}

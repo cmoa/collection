@@ -1,0 +1,39 @@
+{
+  "title": "Portrait - Head of a Woman",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "81.71",
+  "id": "cmoa:things/44cdf218-7f37-41d4-b89c-6e689fb697d4",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022036",
+  "provenance_text": "Frank K. M. Rehn Galleries, New York; Martin Diamond Gallery, New York; Patrons Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89448&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40b466ea-c112-4ca3-9ed8-28f46b14dd39",
+      "party_type": "Person",
+      "full_name": "Eugene Speicher",
+      "cited_name": "Speicher, Eugene",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Buffalo (Erie county, New York state, United States)",
+      "death_place": "Woodstock (Greene county, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Titled in Japanese (Scene from Sino-Japanese War)",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.803",
+  "id": "cmoa:things/a882b775-1b8b-4346-b707-1d4f10a4500e",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028964",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35370&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/971d665d-57e0-454a-93fc-ee811b781ee2",
+      "party_type": "Person",
+      "full_name": "Kobayashi Kiyochika",
+      "cited_name": "Kobayashi Kiyochika",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1847-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Japan, Edo",
+      "death_place": null
+    }
+  ]
+}

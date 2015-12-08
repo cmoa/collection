@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1750-1760",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "pewter",
+  "accession_number": "71.14.1",
+  "id": "cmoa:things/a520bd24-c548-4198-a3af-357d118a9dd4",
+  "credit_line": "Gift of Mrs. Thomas Childs Wurts",
+  "date_acquired": "1971-05-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.688,
+  "item_depth": 0.0,
+  "item_diameter": 9.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016111",
+  "provenance_text": "Mrs. Thomas Childs Wurts",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

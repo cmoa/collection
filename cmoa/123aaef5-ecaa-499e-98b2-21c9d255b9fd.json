@@ -1,0 +1,39 @@
+{
+  "title": "Orpheus and Euridice",
+  "creation_date": "c. 1780-1785",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "Black chalk, graphite, gouache, and wash on paper",
+  "accession_number": "2011.60",
+  "id": "cmoa:things/123aaef5-ecaa-499e-98b2-21c9d255b9fd",
+  "credit_line": "Major Paintings Acquisition Fund, Charles J. Rosenbloom Fund, Alan G. and Jane A. Lehman Fund, Patrons Art Fund, Mary Louise and Henry J. Gailliot Fund for Acquisitions, Robert S. Waters Charitable Trust Fund, Mr. and Mrs. William A. Meyer Acquisition Fund, Frances G. Scaife Fund, and Joseph E. and Sally M. Imbriglia Fund",
+  "date_acquired": "2011-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 23.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=97860",
+  "provenance_text": "Earl of Warwick (Lugt 2600); Private collection, New Jersey; Shepherd & Derom Galleries, New York\n\nUnder review by CGK",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111219&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4466e2e-b373-49a1-bb3a-cf9a442a5d9b",
+      "party_type": "Person",
+      "full_name": "Henry Fuseli",
+      "cited_name": "Fuseli, Henry",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1741-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": "Zurich (Zürich canton, Switzerland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

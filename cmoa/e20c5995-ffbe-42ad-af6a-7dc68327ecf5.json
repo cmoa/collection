@@ -1,0 +1,51 @@
+{
+  "title": "Nell Gwyn",
+  "creation_date": "c. 1740-1760",
+  "creation_date_earliest": "1730-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "mezzotint",
+  "accession_number": "18.36.2",
+  "id": "cmoa:things/e20c5995-ffbe-42ad-af6a-7dc68327ecf5",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001803",
+  "provenance_text": "George Busse",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b444d53-ef2a-4823-9658-2ce2e4b46bba",
+      "party_type": "Person",
+      "full_name": "James McArdell",
+      "cited_name": "McArdell, James",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1719-01-01",
+      "death_date": "1765-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/6ebbd55d-87d8-4118-ac97-666af0fca3b4",
+      "party_type": "Person",
+      "full_name": "Sir Peter Lely",
+      "cited_name": "Lely, Peter",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1618-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Portrait of Three Children",
+  "creation_date": "1738",
+  "creation_date_earliest": "1738-01-01",
+  "creation_date_latest": "1738-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "80.25",
+  "id": "cmoa:things/38726b8e-b4ab-4727-aad8-42e16a55b6ec",
+  "credit_line": "Gift of Helene S. Thompson",
+  "date_acquired": "1980-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021111",
+  "provenance_text": "Mrs. Helene S. Thompson, Pittsburgh; gift to Museum, May 1980.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b80c88aa-bd41-43b4-bf58-24d8a96460a4",
+      "party_type": "Person",
+      "full_name": "Jeremiah Barrett",
+      "cited_name": "Barrett, Jeremiah",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1723-01-01",
+      "death_date": "1770-01-01",
+      "birth_place": null,
+      "death_place": "Dublin (County Dublin, Leinster, Republic of Ireland)"
+    }
+  ]
+}

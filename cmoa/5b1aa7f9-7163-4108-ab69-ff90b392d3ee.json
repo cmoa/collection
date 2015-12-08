@@ -1,0 +1,39 @@
+{
+  "title": "Strange Parameters. B",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.744",
+  "id": "cmoa:things/5b1aa7f9-7163-4108-ab69-ff90b392d3ee",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.5,
+  "item_height": 26.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028884",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Red Lantern Shop (Sentaro Kondo), Kyoto, Japan, 3/19/1968.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35800&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25112ea8-2922-4ed6-abe7-00aadc9325c8",
+      "party_type": "Person",
+      "full_name": "Katatani Mika",
+      "cited_name": "Katatani Mika",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1918-01-01",
+      "death_date": null,
+      "birth_place": "Kanagawa prefecture",
+      "death_place": null
+    }
+  ]
+}

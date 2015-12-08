@@ -1,0 +1,42 @@
+{
+  "title": "Backstage Props",
+  "creation_date": null,
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "47.5",
+  "id": "cmoa:things/92362880-8a2c-48de-9540-3ea390f153e2",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1947-01-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 10.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008096",
+  "provenance_text": "Robert Miller",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100454&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100453&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3b7db72f-7fc3-4faf-ade3-fef980f9b088",
+      "party_type": "Person",
+      "full_name": "Robert Miller",
+      "cited_name": "Miller, Robert",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

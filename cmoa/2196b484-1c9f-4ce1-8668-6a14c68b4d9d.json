@@ -1,0 +1,39 @@
+{
+  "title": "Study for an Altarpiece",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "xerox and colored ink on paper",
+  "accession_number": "85.13",
+  "id": "cmoa:things/2196b484-1c9f-4ce1-8668-6a14c68b4d9d",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1985-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025437",
+  "provenance_text": "Henry Koerner, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89441&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/314e0e00-47ef-4910-a9ca-af8356302318",
+      "party_type": "Person",
+      "full_name": "Henry Koerner",
+      "cited_name": "Koerner, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": null
+    }
+  ]
+}

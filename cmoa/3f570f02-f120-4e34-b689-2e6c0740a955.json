@@ -1,0 +1,39 @@
+{
+  "title": "Pour Jorn",
+  "creation_date": "1976",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "79.6.14",
+  "id": "cmoa:things/3f570f02-f120-4e34-b689-2e6c0740a955",
+  "credit_line": "Gift of the Asger Jorn Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020595",
+  "provenance_text": "Galerie van de Loo, Munich, Germany",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121749&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f5df6a4-60f8-4175-9d6d-d635dfdef210",
+      "party_type": "Person",
+      "full_name": "Maurice Wyckaert",
+      "cited_name": "Wyckaert, Maurice",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1923-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Bruxelles, Belgium",
+      "death_place": null
+    }
+  ]
+}

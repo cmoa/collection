@@ -1,0 +1,39 @@
+{
+  "title": "Cubist pot",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "bronze",
+  "accession_number": "89.29",
+  "id": "cmoa:things/9bbd98e7-1194-41a7-b6e8-cbaf3f92ad17",
+  "credit_line": "Gift of Garth Clark and Mark Del Vecchio",
+  "date_acquired": "1990-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 7.438,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029283",
+  "provenance_text": "Garth Clark And Mark Del Vecchio",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5985&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2a464f0e-2aff-460a-bedd-2b17c2993cca",
+      "party_type": "Person",
+      "full_name": "William Underhill",
+      "cited_name": "Underhill, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": null,
+      "birth_place": "Berkeley, California",
+      "death_place": null
+    }
+  ]
+}

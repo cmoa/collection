@@ -1,0 +1,39 @@
+{
+  "title": "Interior",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "color lithograph",
+  "accession_number": "74.39.2",
+  "id": "cmoa:things/0904308c-0764-4cf1-af06-faf3fbe4df40",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.938,
+  "item_height": 35.5,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016991",
+  "provenance_text": "Bill and Deborah Struve, East Haddam, CT.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125677&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

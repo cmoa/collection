@@ -1,0 +1,39 @@
+{
+  "title": "Snyder's Hollow",
+  "creation_date": "1870",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.12",
+  "id": "cmoa:things/0e660d30-42b0-4a98-99be-d093dfbcafcb",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1956-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 75.625,
+  "item_height": 44.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009614",
+  "provenance_text": "Harry O. Eichleay, Pittsburgh, by 1956; Patrons Art Fund, 1956",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=460&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8f4d585-b31a-4b38-8ed2-fa0f2715d75e",
+      "party_type": "Person",
+      "full_name": "Jasper Holman Lawman",
+      "cited_name": "Lawman, Jasper H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": " Ohio (United States)",
+      "death_place": " Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

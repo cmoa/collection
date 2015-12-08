@@ -1,0 +1,39 @@
+{
+  "title": "Fennel",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "81.15.1",
+  "id": "cmoa:things/36d2b16e-9d71-4560-99fe-a66f71d09225",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.75,
+  "item_height": 40.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021708",
+  "provenance_text": " Akira Arita, Providence; Leisser Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48051&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c7b95bb-a1a7-4fc6-8391-6d6c8ca93ddb",
+      "party_type": "Person",
+      "full_name": "Akira Arita",
+      "cited_name": "Arita, Akira",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Landscape)",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "82.72.13",
+  "id": "cmoa:things/2aa85a46-24b3-4307-9a64-1c81a4f9215e",
+  "credit_line": "Gift of Richard S. Ackerman",
+  "date_acquired": "1982-12-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023078",
+  "provenance_text": "Richard S. Ackerman, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/86553097-ca82-4c55-8bb5-5117d3e5dd5f",
+      "party_type": "Person",
+      "full_name": "Leopold Hugo",
+      "cited_name": "Hugo, Leopold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Breslau, Prussia, present-day Poland",
+      "death_place": "Belton, TX"
+    }
+  ]
+}

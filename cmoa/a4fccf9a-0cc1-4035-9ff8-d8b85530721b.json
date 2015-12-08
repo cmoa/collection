@@ -1,0 +1,39 @@
+{
+  "title": "Spoon",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "cherry burl",
+  "accession_number": "2008.24.3",
+  "id": "cmoa:things/a4fccf9a-0cc1-4035-9ff8-d8b85530721b",
+  "credit_line": "Gift of P. McCauley",
+  "date_acquired": "2008-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 1.375,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57198",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61822&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32725e5d-b251-4381-9852-b948387f40d2",
+      "party_type": "Person",
+      "full_name": "Norm Sartorius",
+      "cited_name": "Sartorius, Norm",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Salisbury, Maryland",
+      "death_place": null
+    }
+  ]
+}

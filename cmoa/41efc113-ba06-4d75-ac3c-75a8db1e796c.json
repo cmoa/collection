@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.16",
+  "id": "cmoa:things/41efc113-ba06-4d75-ac3c-75a8db1e796c",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018231",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b280a1a2-edf6-4d81-b8ed-fc8cbae0fc46",
+      "party_type": "Person",
+      "full_name": "Robert Morris",
+      "cited_name": "Morris, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Kansas City (Jackson county, Missouri, United States)",
+      "death_place": null
+    }
+  ]
+}

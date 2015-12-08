@@ -1,0 +1,51 @@
+{
+  "title": "Shizaki Seashore (Shizaki kaigan)",
+  "creation_date": "October 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.3",
+  "id": "cmoa:things/b70ba76f-9027-489d-9fac-e13f96a24bf7",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.125,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028763",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 4/23/1971.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37637&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd2c6c23-5eb9-40b6-a153-c75c0f6980e2",
+      "party_type": "Person",
+      "full_name": "Ôiwa Chûichi",
+      "cited_name": "Ôiwa Chûichi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": null,
+      "birth_place": "Aichi prefecture",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

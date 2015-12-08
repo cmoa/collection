@@ -1,0 +1,39 @@
+{
+  "title": "The Courtesan Hanazuma of Hyôgoya",
+  "creation_date": "c. 1795",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1441",
+  "id": "cmoa:things/3a5a5db3-d430-4c67-844f-65f2cc2344b7",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027351",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104503&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/701baf6b-252c-4cc7-8739-75a3ef9dda6d",
+      "party_type": "Person",
+      "full_name": "Utamaro Kitagawa",
+      "cited_name": "Utamaro Kitagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1754-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

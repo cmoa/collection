@@ -1,0 +1,51 @@
+{
+  "title": "Steak Knife",
+  "creation_date": "1953 (designed) c. 1977 (manufactured)",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "stainless steel, 18/8 alloy containing chromium, nickel and steel",
+  "accession_number": "77.64.13",
+  "id": "cmoa:things/2924162a-eba8-46b0-b244-12c0f8487558",
+  "credit_line": "Gift of H. E. Lauffer Company, Inc.",
+  "date_acquired": "1977-12-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018966",
+  "provenance_text": "H.E. Lauffer Company, Inc., Somerset, NJ",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2275&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bb47c4e-ee54-427b-b004-c317f72c121e",
+      "party_type": "Person",
+      "full_name": "Don Wallance",
+      "cited_name": "Wallance, Don",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Queens, New York",
+      "death_place": "Tarrytown, New York"
+    },
+    {
+      "artist_id": "cmoa:parties/4aaa6235-98cf-4b31-91bf-ab523faf76f5",
+      "party_type": "Organization",
+      "full_name": "H. E. Lauffer Company, Inc.",
+      "cited_name": "Lauffer, H. E. Company, Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

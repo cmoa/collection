@@ -1,0 +1,51 @@
+{
+  "title": "January from \"The Twelve Months\"",
+  "creation_date": "1762-1766",
+  "creation_date_earliest": "1762-01-01",
+  "creation_date_latest": "1766-01-01",
+  "medium": "porcelain",
+  "accession_number": "59.47.1",
+  "id": "cmoa:things/9557f1cc-914d-457d-8194-ca9ac9faf140",
+  "credit_line": "Purchase: gift of Sarah Mellon Scaife Foundation",
+  "date_acquired": "1959-10-26",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 6.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011031",
+  "provenance_text": "Antique Porcelain Company, New York City, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4191&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6d7789e-fcb2-4915-934f-ddf353d5a44e",
+      "party_type": "Person",
+      "full_name": "Konrad Link",
+      "cited_name": "Link, Konrad",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1732-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6019d8cb-14c3-4448-9151-0e65c88a2174",
+      "party_type": "Organization",
+      "full_name": "Frankenthal Porcelain Factory",
+      "cited_name": "Frankenthal Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1755-01-01",
+      "death_date": "1799-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

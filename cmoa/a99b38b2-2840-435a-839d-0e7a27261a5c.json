@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "lithograph",
+  "accession_number": "2006.81.24",
+  "id": "cmoa:things/a99b38b2-2840-435a-839d-0e7a27261a5c",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.75,
+  "item_height": 18.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=38033",
+  "provenance_text": "The donor, Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135846&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5c51001-bd7a-46bf-9fdb-1dd46af5822a",
+      "party_type": "Person",
+      "full_name": "Saul Steinberg",
+      "cited_name": "Steinberg, Saul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Bucharest (Bucuresti municipality, Romania)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Tokyo",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.474",
+  "id": "cmoa:things/eaf0503f-857f-42aa-beb9-d6900086f4a9",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.313,
+  "item_height": 14.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028294",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=46030&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17fa7435-7641-4ce7-9c76-39b3e0ff2850",
+      "party_type": "Person",
+      "full_name": "Nöel Nouet",
+      "cited_name": "Nouet, Nöel",
+      "role": "publisher",
+      "nationality": "French",
+      "birth_date": "1885-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "France",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3601dea5-021d-4a95-9c42-d2c60241dcbf",
+      "party_type": "Person",
+      "full_name": "Doi",
+      "cited_name": "Doi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

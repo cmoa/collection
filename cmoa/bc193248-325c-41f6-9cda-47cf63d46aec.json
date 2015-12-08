@@ -1,0 +1,35 @@
+{
+  "title": "The New Carpenter's Guide",
+  "creation_date": "1845",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "Paper",
+  "accession_number": "95.51.4",
+  "id": "cmoa:things/bc193248-325c-41f6-9cda-47cf63d46aec",
+  "credit_line": "Gift of Christopher Monkhouse",
+  "date_acquired": "1995-03-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 11.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035738",
+  "provenance_text": "Christopher Monkhouse, Pittsburgh, PA",
+  "classification": "books",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ef294310-7e4a-472b-aafb-7faf09f89ddd",
+      "party_type": "Person",
+      "full_name": "Peter Nicholson",
+      "cited_name": "Nicholson, Peter",
+      "role": "author",
+      "nationality": "English",
+      "birth_date": "1765-01-01",
+      "death_date": "1844-01-01",
+      "birth_place": "Lothian (Scotland, United Kingdom)",
+      "death_place": "Carlisle (Cumbria, England, United Kingdom)"
+    }
+  ]
+}

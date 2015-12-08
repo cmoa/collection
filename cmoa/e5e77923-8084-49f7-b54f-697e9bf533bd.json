@@ -1,0 +1,42 @@
+{
+  "title": "The Little Boat-House",
+  "creation_date": "1877",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1877-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "16.13",
+  "id": "cmoa:things/e5e77923-8084-49f7-b54f-697e9bf533bd",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-10-31",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001042",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105218&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105219&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

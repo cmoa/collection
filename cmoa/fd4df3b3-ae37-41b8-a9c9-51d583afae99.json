@@ -1,0 +1,39 @@
+{
+  "title": "The Silk Spinner",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "albumen print (hand-applied color)",
+  "accession_number": "2013.56",
+  "id": "cmoa:things/fd4df3b3-ae37-41b8-a9c9-51d583afae99",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2013-12-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 7.687,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102036",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ad8971f-8d5a-4e75-8370-4a97b7b88e7c",
+      "party_type": "Person",
+      "full_name": "Baron Raimond von Stillfried-Rathenitz",
+      "cited_name": "Stillfried-Rathenitz, Raimond von",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1839-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Chomutov (Severocesky Kraj, Czech Republic)",
+      "death_place": "Vienna (Wien state, Austria)"
+    }
+  ]
+}

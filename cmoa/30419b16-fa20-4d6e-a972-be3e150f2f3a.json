@@ -1,0 +1,39 @@
+{
+  "title": "Prehistoric Man",
+  "creation_date": "c. 1932",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "graphite, pen and india ink on bristol board",
+  "accession_number": "2009.36.3",
+  "id": "cmoa:things/30419b16-fa20-4d6e-a972-be3e150f2f3a",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.938,
+  "item_height": 4.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82088",
+  "provenance_text": "The artist; Elizabeth Shoumatoff; Antonia Shoumatoff Foster, Wassaic, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88665&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/484afb32-067e-4cd5-89f3-8167376f0ac9",
+      "party_type": "Person",
+      "full_name": "Andrey Avinoff",
+      "cited_name": "Avinoff, Andrey",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Tulchin (Vinnica oblast, Ukraine)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

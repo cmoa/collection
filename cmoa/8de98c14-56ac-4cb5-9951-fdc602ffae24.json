@@ -1,0 +1,51 @@
+{
+  "title": "Lord Ligonier",
+  "creation_date": "1760",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "mezzotint",
+  "accession_number": "56.11",
+  "id": "cmoa:things/8de98c14-56ac-4cb5-9951-fdc602ffae24",
+  "credit_line": "Howard N. Eavenson Memorial Fund",
+  "date_acquired": "1956-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009612",
+  "provenance_text": "M. Knoedler & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94603&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3c79161-39b7-4024-b0e0-6d41c33b5eec",
+      "party_type": "Person",
+      "full_name": "Edward Fisher",
+      "cited_name": "Fisher, Edward",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1730-01-01",
+      "death_date": "1785-01-01",
+      "birth_place": " Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Graduation at the University of Pittsburgh",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "88.22.8",
+  "id": "cmoa:things/aa7d56dc-fbc7-43f2-ab7b-c0e3d6485426",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1988-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 15.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026467",
+  "provenance_text": "The Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113377&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93ddc4ce-721e-410a-912f-1362637135ca",
+      "party_type": "Person",
+      "full_name": "Clyde Hare",
+      "cited_name": "Hare, Clyde",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Bloomington, Indiana",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

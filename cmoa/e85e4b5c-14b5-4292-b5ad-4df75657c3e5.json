@@ -1,0 +1,42 @@
+{
+  "title": "Pygmalion",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "74.57.2",
+  "id": "cmoa:things/e85e4b5c-14b5-4292-b5ad-4df75657c3e5",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017083",
+  "provenance_text": "Donald Corcoran, Vienna, Austria",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107540&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107541&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44d04c59-9011-45b6-b1c8-0767f6a61eda",
+      "party_type": "Person",
+      "full_name": "Wilhelm Lehmbruck",
+      "cited_name": "Lehmbruck, Wilhelm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1881-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "Duisburg (Düsseldorf district, North Rhine-Westphalia, Germany)",
+      "death_place": "Berlin (Berlin state, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Rubens with his wife and child",
+  "creation_date": "c. 1750-1760",
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.77",
+  "id": "cmoa:things/ae8be207-7aa8-4d41-97e9-e8672af663ac",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34546",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111099&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39659&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b444d53-ef2a-4823-9658-2ce2e4b46bba",
+      "party_type": "Person",
+      "full_name": "James McArdell",
+      "cited_name": "McArdell, James",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1719-01-01",
+      "death_date": "1765-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

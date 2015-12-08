@@ -1,0 +1,39 @@
+{
+  "title": "Salver",
+  "creation_date": "1701-1702",
+  "creation_date_earliest": "1701-01-01",
+  "creation_date_latest": "1702-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2424",
+  "id": "cmoa:things/02a903be-4a2b-4ce4-a6ae-7b4f75f1a2cf",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.062,
+  "item_depth": 0.0,
+  "item_diameter": 1.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014638",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5937&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28733d6e-e515-441f-b55b-34e83b6d9280",
+      "party_type": "Person",
+      "full_name": "Robert Cooper",
+      "cited_name": "Cooper, Robert",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1697-01-01",
+      "death_date": "1717-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

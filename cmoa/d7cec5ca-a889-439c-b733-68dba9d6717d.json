@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "glass",
+  "accession_number": "94.251.4",
+  "id": "cmoa:things/d7cec5ca-a889-439c-b733-68dba9d6717d",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1995-01-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 7.562,
+  "item_depth": 0.0,
+  "item_diameter": 6.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035142",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=486&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/277802d6-f45b-42ce-b7f6-a5a9a996d3fb",
+      "party_type": "Person",
+      "full_name": "Josef Hoffmann",
+      "cited_name": "Hoffmann, Josef",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1870-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Moravia (Czech Republic)",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

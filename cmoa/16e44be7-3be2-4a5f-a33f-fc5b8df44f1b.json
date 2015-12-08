@@ -1,0 +1,45 @@
+{
+  "title": "Horse and Rider",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "polychrome plaster",
+  "accession_number": "55.54.1",
+  "id": "cmoa:things/16e44be7-3be2-4a5f-a33f-fc5b8df44f1b",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.0,
+  "item_height": 38.0,
+  "item_depth": 20.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009507",
+  "provenance_text": "G. David Thompson",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147294&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147302&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2985558-11c4-4de3-bfb5-dee1f27a9c8d",
+      "party_type": "Person",
+      "full_name": "Marino Marini",
+      "cited_name": "Marini, Marino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1901-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pistoia (Pistoia province, Tuscany, Italy)",
+      "death_place": "Viareggio (Lucca province, Tuscany, Italy)"
+    }
+  ]
+}

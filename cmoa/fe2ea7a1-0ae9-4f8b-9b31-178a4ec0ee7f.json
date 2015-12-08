@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of William Sanderson",
+  "creation_date": "1658",
+  "creation_date_earliest": "1658-01-01",
+  "creation_date_latest": "1658-01-01",
+  "medium": "engraving",
+  "accession_number": "18.17.4",
+  "id": "cmoa:things/fe2ea7a1-0ae9-4f8b-9b31-178a4ec0ee7f",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001698",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101799&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6eb67f4a-7863-4b16-a674-70b590dd85c8",
+      "party_type": "Person",
+      "full_name": "William Faithorne the Elder",
+      "cited_name": "Faithorne, William, the elder",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1611-01-01",
+      "death_date": "1691-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/c414d3f9-f291-4206-b281-22454f430083",
+      "party_type": "Person",
+      "full_name": "Gerard Soest",
+      "cited_name": "Soest, Gerard",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1590-01-01",
+      "death_date": "1681-01-01",
+      "birth_place": null,
+      "death_place": "London"
+    }
+  ]
+}

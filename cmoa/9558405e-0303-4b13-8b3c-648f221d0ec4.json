@@ -1,0 +1,39 @@
+{
+  "title": "Helmet mask",
+  "creation_date": "19th-20th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "Wood",
+  "accession_number": "74.19.1",
+  "id": "cmoa:things/9558405e-0303-4b13-8b3c-648f221d0ec4",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1974-05-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 70.5,
+  "item_height": 15.875,
+  "item_depth": 3.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016937",
+  "provenance_text": "J.J. Klejman, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf184b31-6765-4b0e-a82f-ee545da98add",
+      "party_type": "Person",
+      "full_name": "unknown Cameroonian, Bakum",
+      "cited_name": "unknown Cameroonian, Bakum",
+      "role": null,
+      "nationality": "Cameroonian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "New Year's Morning in Hongo",
+  "creation_date": "1835",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.240",
+  "id": "cmoa:things/85b83149-3ea8-483f-96ea-f79d452fe132",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.75,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027777",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 7/12/1971.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

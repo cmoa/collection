@@ -1,0 +1,42 @@
+{
+  "title": "PPG",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "hand-colored gelatin silver print",
+  "accession_number": "2009.40.2",
+  "id": "cmoa:things/e65a253d-5843-45f5-ba09-2e5f1a1f6592",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2009-06-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82346",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124736&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124735&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b587e66c-fb36-4a9a-bd91-1fa9096b5449",
+      "party_type": "Person",
+      "full_name": "Sue Abramson",
+      "cited_name": "Abramson, Sue",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

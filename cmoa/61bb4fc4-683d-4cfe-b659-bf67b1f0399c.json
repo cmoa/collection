@@ -1,0 +1,39 @@
+{
+  "title": "Alcoa Building",
+  "creation_date": null,
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2001.47.7",
+  "id": "cmoa:things/61bb4fc4-683d-4cfe-b659-bf67b1f0399c",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "2001-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004365",
+  "provenance_text": "Butterfield & Butterfield, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107357&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f600bd5-deb1-4ea8-a97d-6ccdc67d27a4",
+      "party_type": "Organization",
+      "full_name": "Jack D. Mahony Photo Assoc. Photographers, Pittsburgh",
+      "cited_name": "Mahony, Jack D., Photo Assoc. Photographers, Pgh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

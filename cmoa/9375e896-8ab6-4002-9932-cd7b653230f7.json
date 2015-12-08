@@ -1,0 +1,39 @@
+{
+  "title": "Dish (Butterfly)",
+  "creation_date": "c. 1765-1775",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "76.38",
+  "id": "cmoa:things/9375e896-8ab6-4002-9932-cd7b653230f7",
+  "credit_line": "Gift of Mr. and Mrs. George H. Love",
+  "date_acquired": "1976-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 8.563,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018088",
+  "provenance_text": "Mr. And Mrs. George H. Love, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3320&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "November Evening",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.231",
+  "id": "cmoa:things/6097c9cd-63b0-4985-b614-eb038a3a7a59",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012816",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107993&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3bba4937-f481-4229-8e83-853d39fc04fb",
+      "party_type": "Person",
+      "full_name": "Jackson Lee Nesbitt",
+      "cited_name": "Nesbitt, Jackson L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": "Tucker, GA"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Essex Wilderness",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "61.30",
+  "id": "cmoa:things/eb41d86a-17f5-44c3-9d7c-b7a7410f51f4",
+  "credit_line": "Patrons Art Fund: gift of Mrs. James H. Beal",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.125,
+  "item_height": 60.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011414",
+  "provenance_text": "Drian Galleries, London; purchased for Museum by Mrs. James H. Beal, October 1961.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39664&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/109ebc58-8e38-4c00-a4ea-93eabfab24f1",
+      "party_type": "Person",
+      "full_name": "William Crozier",
+      "cited_name": "Crozier, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1933-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Glasgow, Scotland",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "Porcelain",
+  "accession_number": "70.32.745.A-B",
+  "id": "cmoa:things/9d8a817c-56cc-49d9-b707-8d538b74d537",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 10.75,
+  "item_depth": 8.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015471",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2395&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d47a3b2-6657-4fcc-8240-7dbcba35cdba",
+      "party_type": "Organization",
+      "full_name": "Cozzi Porcelain Factory",
+      "cited_name": "Cozzi Porcelain Factory",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1764-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

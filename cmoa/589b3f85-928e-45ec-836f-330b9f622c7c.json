@@ -1,0 +1,51 @@
+{
+  "title": "Kuwana",
+  "creation_date": "1855",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.28",
+  "id": "cmoa:things/589b3f85-928e-45ec-836f-330b9f622c7c",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 13.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001205",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107920&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/d4327114-c6a3-4af9-917a-1ef68d637db9",
+      "party_type": "Person",
+      "full_name": "Kichizo Tsutaya",
+      "cited_name": "Kichizo Tsutaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

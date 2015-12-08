@@ -1,0 +1,42 @@
+{
+  "title": "Synonymity",
+  "creation_date": null,
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "58.13",
+  "id": "cmoa:things/c4d30af4-9953-4f78-a1c2-53a944e83379",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 48th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1958-04-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010675",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100417&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100416&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c696ed2-368f-4b4a-be9c-f13cf648747f",
+      "party_type": "Person",
+      "full_name": "Joann Maier",
+      "cited_name": "Maier, Joann",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

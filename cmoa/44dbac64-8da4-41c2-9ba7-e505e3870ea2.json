@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of Meryon",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "18.7",
+  "id": "cmoa:things/44dbac64-8da4-41c2-9ba7-e505e3870ea2",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001849",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107808&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107809&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71c11861-c8b7-4a76-bc5b-5ab2cb287869",
+      "party_type": "Person",
+      "full_name": "Léopold Flameng",
+      "cited_name": "Flameng, Léopold",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1831-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": " Courgent (Yvelines, Île-de-France, France)"
+    }
+  ]
+}

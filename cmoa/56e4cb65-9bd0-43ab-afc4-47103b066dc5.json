@@ -1,0 +1,39 @@
+{
+  "title": "Les Perles, from the Series \"Mandchoukuo\"",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.462.1",
+  "id": "cmoa:things/56e4cb65-9bd0-43ab-afc4-47103b066dc5",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.938,
+  "item_height": 18.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028263",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83545&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/293dae41-2d27-4e6f-8ae7-d7b8e6e713c5",
+      "party_type": "Person",
+      "full_name": "Paul Jacoulet",
+      "cited_name": "Jacoulet, Paul",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1902-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Paris",
+      "death_place": "Tokyo"
+    }
+  ]
+}

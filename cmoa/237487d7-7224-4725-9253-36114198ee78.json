@@ -1,0 +1,39 @@
+{
+  "title": "Reduction of Pilgrim Monument",
+  "creation_date": null,
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "cast bronze",
+  "accession_number": "94.121",
+  "id": "cmoa:things/237487d7-7224-4725-9253-36114198ee78",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1994-09-22",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 22.25,
+  "item_depth": 12.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033867",
+  "provenance_text": "Trifles, Bath, ME",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118710&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68217a87-84c9-49d2-b8e3-b8df8e9df781",
+      "party_type": "Person",
+      "full_name": "H. Billings",
+      "cited_name": "Billings, H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1818-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

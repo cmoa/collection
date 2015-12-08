@@ -1,0 +1,39 @@
+{
+  "title": "Flowers in a Blue Vase No. 1",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on panel",
+  "accession_number": "78.26.6",
+  "id": "cmoa:things/dbd9a0d1-ca09-45f2-9ac5-2b513220649a",
+  "credit_line": "Gift of David T. Owsley",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.625,
+  "item_height": 28.875,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019297",
+  "provenance_text": "The artist's daughter, Anna F. Brinker, 1952; G. David Thompson, Pittsburgh, by 1954; Westmoreland County Museum of Art, 1954 (deaccessioned by auction, 1974); David T. Owsley, Pittsburgh, 1974; gift to museum, October 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150068&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b92dfcfd-79f1-4f44-9079-b74bd38ec76b",
+      "party_type": "Person",
+      "full_name": "Alex Fletcher",
+      "cited_name": "Fletcher, Alex",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1866-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

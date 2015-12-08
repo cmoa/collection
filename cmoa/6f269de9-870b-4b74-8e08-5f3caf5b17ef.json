@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "porcelain",
+  "accession_number": "2009.16",
+  "id": "cmoa:things/6f269de9-870b-4b74-8e08-5f3caf5b17ef",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.625,
+  "item_depth": 0.0,
+  "item_diameter": 6.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80007",
+  "provenance_text": "Frank Lloyd Gallery, Santa Monica, California. \nEx-collection, Richard DeVore.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105702&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6cef2286-b142-4e2f-8a78-9022fe27c8f3",
+      "party_type": "Person",
+      "full_name": "Maija Grotell",
+      "cited_name": "Grotell, Maija",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Finland",
+      "death_place": null
+    }
+  ]
+}

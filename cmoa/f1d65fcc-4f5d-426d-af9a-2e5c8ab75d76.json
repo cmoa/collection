@@ -1,0 +1,51 @@
+{
+  "title": "Teapot",
+  "creation_date": "1722",
+  "creation_date_earliest": "1722-01-01",
+  "creation_date_latest": "1722-01-01",
+  "medium": "porcelain",
+  "accession_number": "58.23.A-B",
+  "id": "cmoa:things/f1d65fcc-4f5d-426d-af9a-2e5c8ab75d76",
+  "credit_line": "Gift of Mrs. Thomas Childs Wurts",
+  "date_acquired": "1958-04-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.562,
+  "item_height": 4.438,
+  "item_depth": 4.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010692",
+  "provenance_text": "J.J. Klejman, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2495&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9a72251a-b8a1-4693-a6c8-979ecd54eb69",
+      "party_type": "Person",
+      "full_name": "Bartholomaus Seuter",
+      "cited_name": "Seuter, Bartholomaus",
+      "role": "decorator",
+      "nationality": "German",
+      "birth_date": "1678-01-01",
+      "death_date": "1754-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

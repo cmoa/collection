@@ -1,0 +1,61 @@
+{
+  "title": "Armchair",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "beech and webbing",
+  "accession_number": "84.112.7",
+  "id": "cmoa:things/506470ad-2ad7-4ec3-9623-e9dec2b11de0",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.75,
+  "item_height": 29.25,
+  "item_depth": 26.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024515",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/53c717f3-c0db-4977-b962-24cade7f220f",
+      "party_type": "Person",
+      "full_name": "Jens Risom",
+      "cited_name": "Risom, Jens",
+      "role": "possibly by",
+      "nationality": "Danish",
+      "birth_date": "1916-01-01",
+      "death_date": null,
+      "birth_place": "Denmark",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a17d0d71-3ca0-44ba-920f-11ef75f5a4ea",
+      "party_type": "Person",
+      "full_name": "Walter Knoll",
+      "cited_name": "Knoll, Walter",
+      "role": "possibly by",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f47ee54e-b518-4df0-8280-43fefde4f583",
+      "party_type": "Organization",
+      "full_name": "Knoll Associates, Inc.",
+      "cited_name": "Knoll Associates, Inc.",
+      "role": "Manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

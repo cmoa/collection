@@ -1,0 +1,49 @@
+{
+  "title": "\"Air-Lift\" steam iron",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "chromed metal, plastic, and electrical cord",
+  "accession_number": "2015.5.5.1",
+  "id": "cmoa:things/59c65380-2a28-4423-b2fb-1e43e86d5ac2",
+  "credit_line": "Gift of Jewel Stern",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 11.125,
+  "item_height": 0.0,
+  "item_depth": 4.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107422",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2bc5434-d4f8-4608-8733-cbdfdf01b477",
+      "party_type": "Person",
+      "full_name": "Peter Muller-Munk",
+      "cited_name": "Muller-Munk, Peter",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "Pittsburgh, PA, USA"
+    },
+    {
+      "artist_id": "cmoa:parties/46ee77bb-3cd8-493e-b8f0-83e8ec1b8603",
+      "party_type": "Organization",
+      "full_name": "Silex Company",
+      "cited_name": "Silex Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

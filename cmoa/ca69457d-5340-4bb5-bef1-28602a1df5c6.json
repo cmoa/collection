@@ -1,0 +1,51 @@
+{
+  "title": "Richard Thompson [Richard Tompson]",
+  "creation_date": "c. 1693",
+  "creation_date_earliest": "1678-01-01",
+  "creation_date_latest": "1708-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.28",
+  "id": "cmoa:things/ca69457d-5340-4bb5-bef1-28602a1df5c6",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34369",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39429&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5956d44b-f727-4332-8ea5-12d6b9d637f8",
+      "party_type": "Person",
+      "full_name": "Francis Place",
+      "cited_name": "Place, Francis",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1647-01-01",
+      "death_date": "1724-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c414d3f9-f291-4206-b281-22454f430083",
+      "party_type": "Person",
+      "full_name": "Gerard Soest",
+      "cited_name": "Soest, Gerard",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1590-01-01",
+      "death_date": "1681-01-01",
+      "birth_place": null,
+      "death_place": "London"
+    }
+  ]
+}

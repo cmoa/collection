@@ -1,0 +1,39 @@
+{
+  "title": "Grand Jete II",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "84.65.2",
+  "id": "cmoa:things/021dca79-34fc-4cb4-a64f-a66438c38815",
+  "credit_line": "Gift of Dr. Jacob Goldblum",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025072",
+  "provenance_text": "Dr. Jacob Goldblum, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90898&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2afb8810-8852-407d-94b2-e7c2410f7a6e",
+      "party_type": "Person",
+      "full_name": "Bernice Lehman",
+      "cited_name": "Lehman, Bernice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "3 Bent Inuyarai",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "steel, fabric",
+  "accession_number": "2014.8.2.A-.C",
+  "id": "cmoa:things/3a0d07cb-7e0e-492e-b8d0-ac43104fb4f9",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund\nCommissioned by Carnegie Museum of Art for the 2013 Carnegie International",
+  "date_acquired": "2014-02-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 61.024,
+  "item_height": 43.307,
+  "item_depth": 21.654,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103998",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cfb92ade-5ffe-44b3-9ba3-a9725f679ae6",
+      "party_type": "Person",
+      "full_name": "Ei Arakawa",
+      "cited_name": "Arakawa, Ei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1977-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ceafcc8f-e49c-47cb-b22b-200b6371b25c",
+      "party_type": "Person",
+      "full_name": "Henning Bohl",
+      "cited_name": "Bohl, Henning",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1975-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

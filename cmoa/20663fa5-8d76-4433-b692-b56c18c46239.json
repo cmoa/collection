@@ -1,0 +1,51 @@
+{
+  "title": "Reinanzaka",
+  "creation_date": "4/2/1930",
+  "creation_date_earliest": "1930-04-02",
+  "creation_date_latest": "1930-04-02",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.189.5",
+  "id": "cmoa:things/20663fa5-8d76-4433-b692-b56c18c46239",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027678",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27931&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e54be372-1eff-4100-93a2-fd63ee45222c",
+      "party_type": "Person",
+      "full_name": "Henmi Takashi",
+      "cited_name": "Henmi Takashi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Japan, Yakayama",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

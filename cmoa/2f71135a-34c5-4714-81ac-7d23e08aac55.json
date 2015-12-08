@@ -1,0 +1,39 @@
+{
+  "title": "Serbia",
+  "creation_date": "1916",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "17.34.3",
+  "id": "cmoa:things/2f71135a-34c5-4714-81ac-7d23e08aac55",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-02-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001573",
+  "provenance_text": "Scott and Fowles, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99815&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b6b39d7-6b1e-4cd4-ac0c-02f6b4c90c35",
+      "party_type": "Person",
+      "full_name": "Alexandre Theophile Steinlen",
+      "cited_name": "Steinlen, Alexandre T.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1859-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "Lausanne (Vaud, Switzerland)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

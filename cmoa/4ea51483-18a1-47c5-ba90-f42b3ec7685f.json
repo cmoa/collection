@@ -1,0 +1,39 @@
+{
+  "title": "Saint Catherine",
+  "creation_date": "late 18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "Wood",
+  "accession_number": "66.11.3",
+  "id": "cmoa:things/4ea51483-18a1-47c5-ba90-f42b3ec7685f",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1966-09-20",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 14.0,
+  "item_depth": 4.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012196",
+  "provenance_text": "Estate of Howard A. Noble\n\nUnder review by CGK",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4214&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43e25ea5-cb8b-4a3d-a5e5-d0362d4bd031",
+      "party_type": "Person",
+      "full_name": "unknown Austrian",
+      "cited_name": "unknown Austrian",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

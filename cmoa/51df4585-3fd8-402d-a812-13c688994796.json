@@ -1,0 +1,66 @@
+{
+  "title": "Candlestick",
+  "creation_date": "c. 1807",
+  "creation_date_earliest": "1802-01-01",
+  "creation_date_latest": "1812-01-01",
+  "medium": "gilded bronze",
+  "accession_number": "95.111.2.A-C",
+  "id": "cmoa:things/51df4585-3fd8-402d-a812-13c688994796",
+  "credit_line": "Purchase: gift of Ailsa Mellon Bruce, by exchange, and Ailsa Mellon Bruce Fund",
+  "date_acquired": "1995-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 4.875,
+  "item_height": 12.188,
+  "item_depth": 4.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035490",
+  "provenance_text": "Partridge, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97808&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3970&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96892&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96894&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96896&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96895&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38f5df50-dc59-45b3-8cde-52e2bb0aa8c4",
+      "party_type": "Person",
+      "full_name": "Thomas Hope",
+      "cited_name": "Hope, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1769-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d55ae36e-34db-487c-be18-7035ff23f9fc",
+      "party_type": "Person",
+      "full_name": "Alexis Decaix",
+      "cited_name": "Decaix, Alexis",
+      "role": "attributed manufacturer",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": "1811-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

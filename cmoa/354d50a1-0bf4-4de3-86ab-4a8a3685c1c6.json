@@ -1,0 +1,54 @@
+{
+  "title": "The Furniture Court (No. 2)",
+  "creation_date": "September 1, 1851",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2009.73.13",
+  "id": "cmoa:things/354d50a1-0bf4-4de3-86ab-4a8a3685c1c6",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88989",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108235&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108234&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd5e8f19-734d-493c-b57f-a7e973632b0b",
+      "party_type": "Person",
+      "full_name": "Edwin Thomas Dolby",
+      "cited_name": "Dolby, Edwin Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1870-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fd15c362-7edd-4e09-b508-e835b2b8d9c8",
+      "party_type": "Organization",
+      "full_name": "Day & Son",
+      "cited_name": "Day & Son",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1845-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

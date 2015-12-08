@@ -1,0 +1,39 @@
+{
+  "title": "St. Andrew and St. Thomas",
+  "creation_date": "1520",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1519-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.12",
+  "id": "cmoa:things/9b3c234b-77f5-43a7-82b2-afc917fadc96",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000986",
+  "provenance_text": "Frederick Keppel & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101668&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b698dca-215c-40e3-97c7-d9a589db4a0b",
+      "party_type": "Person",
+      "full_name": "Hans Sebald Beham",
+      "cited_name": "Beham, Hans Sebald",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1500-01-01",
+      "death_date": "1550-01-01",
+      "birth_place": " Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": " Frankfurt am Main (Darmstadt district, Hessen state, Germany)"
+    }
+  ]
+}

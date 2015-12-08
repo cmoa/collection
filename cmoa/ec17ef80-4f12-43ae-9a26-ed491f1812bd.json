@@ -1,0 +1,37 @@
+{
+  "title": "Madame Butterfly",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "woodcut",
+  "accession_number": "2000.55.A-C",
+  "id": "cmoa:things/ec17ef80-4f12-43ae-9a26-ed491f1812bd",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "2000-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 79.5,
+  "item_height": 41.75,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004096",
+  "provenance_text": "Knoedler Gallery, New York, New York",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d128b64-b1f3-4f59-8a1e-6cb8ca9aa8dc",
+      "party_type": "Person",
+      "full_name": "Helen Frankenthaler",
+      "cited_name": "Frankenthaler, Helen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

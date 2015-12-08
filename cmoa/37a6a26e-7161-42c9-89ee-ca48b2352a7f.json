@@ -1,0 +1,39 @@
+{
+  "title": "A Joyful Moment (Yorokobi no toki)",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1428",
+  "id": "cmoa:things/37a6a26e-7161-42c9-89ee-ca48b2352a7f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.938,
+  "item_height": 15.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027334",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34697&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24c9a6c5-afe1-45b0-9d90-6173e733a38e",
+      "party_type": "Person",
+      "full_name": "Uchima Ansei",
+      "cited_name": "Uchima Ansei",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": "Stockton, California",
+      "death_place": null
+    }
+  ]
+}

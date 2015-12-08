@@ -1,0 +1,42 @@
+{
+  "title": "Fishing boats on the beach",
+  "creation_date": "c. 1830",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "24.1.8",
+  "id": "cmoa:things/5de1f2f7-015d-452f-8da2-6c19ce7c8978",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1924-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005036",
+  "provenance_text": "A. Beurdeley, Paris (Lugt 421); Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105236&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105235&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9dbb9af-b134-41de-8cb0-9f652fc449b3",
+      "party_type": "Person",
+      "full_name": "Eugène Louis Gabriel Isabey",
+      "cited_name": "Isabey, Eugène L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1803-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Lagny (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

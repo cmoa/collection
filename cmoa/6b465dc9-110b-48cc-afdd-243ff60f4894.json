@@ -1,0 +1,39 @@
+{
+  "title": "Gibbs Temple III",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.6.2",
+  "id": "cmoa:things/6b465dc9-110b-48cc-afdd-243ff60f4894",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-06-27",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 5.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030085",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102339&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

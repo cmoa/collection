@@ -1,0 +1,39 @@
+{
+  "title": "Caricature",
+  "creation_date": "c. 1600",
+  "creation_date_earliest": "1595-01-01",
+  "creation_date_latest": "1605-01-01",
+  "medium": "pen and bister ink on white paper",
+  "accession_number": "23.12.19.1",
+  "id": "cmoa:things/623be5f8-0e71-4256-9fcf-c5f73cffb194",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92053",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99110&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

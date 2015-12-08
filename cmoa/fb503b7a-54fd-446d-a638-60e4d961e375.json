@@ -1,0 +1,39 @@
+{
+  "title": "Still Life",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.446",
+  "id": "cmoa:things/fb503b7a-54fd-446d-a638-60e4d961e375",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028227",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34261&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19cdc552-a303-4235-ab64-97b620db4993",
+      "party_type": "Person",
+      "full_name": "Inagaki Tomoo",
+      "cited_name": "Inagaki Tomoo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

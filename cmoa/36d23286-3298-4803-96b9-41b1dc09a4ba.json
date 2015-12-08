@@ -1,0 +1,42 @@
+{
+  "title": "Theme and Variations",
+  "creation_date": null,
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "etching",
+  "accession_number": "51.22",
+  "id": "cmoa:things/36d23286-3298-4803-96b9-41b1dc09a4ba",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008926",
+  "provenance_text": "Effim H. Sherman",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100446&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e44e1dd-6263-4f27-8899-048762b6b120",
+      "party_type": "Person",
+      "full_name": "Effim H. Sherman",
+      "cited_name": "Sherman, Effim H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Romania",
+      "death_place": "New York City, New York"
+    }
+  ]
+}

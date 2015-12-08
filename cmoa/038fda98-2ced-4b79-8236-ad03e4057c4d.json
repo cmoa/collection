@@ -1,0 +1,37 @@
+{
+  "title": "Cat of the Night",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "81.114.4",
+  "id": "cmoa:things/038fda98-2ced-4b79-8236-ad03e4057c4d",
+  "credit_line": "Gift of R. Kevin McIntyre",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.0,
+  "item_height": 21.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021565",
+  "provenance_text": "R. Kevin Mcintyre, Monroe, MI",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d3284ee-c81c-4a63-8ae3-93fe584ce66b",
+      "party_type": "Person",
+      "full_name": "Karel Appel",
+      "cited_name": "Appel, Karel",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1921-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Zurich (Zürich canton, Switzerland)"
+    }
+  ]
+}

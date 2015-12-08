@@ -1,0 +1,51 @@
+{
+  "title": "The Courtesan Hinazuru of Choji-Ya in front of her make-up mirror",
+  "creation_date": "c. 1798",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "color woodblock print (hashira-e)",
+  "accession_number": "16.29.15",
+  "id": "cmoa:things/deb31209-f35a-466b-a739-c4a7c4260904",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.875,
+  "item_height": 26.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001190",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107504&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bba6c18-43d9-4fa1-845e-951f2ff63c25",
+      "party_type": "Person",
+      "full_name": "Toyohiro Utagawa",
+      "cited_name": "Toyohiro Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1773-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c66fc366-360c-4b8a-94a2-340e8e0c3978",
+      "party_type": "Person",
+      "full_name": "Han Takasu",
+      "cited_name": "Han Takasu",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

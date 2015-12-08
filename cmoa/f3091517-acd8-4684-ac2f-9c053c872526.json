@@ -1,0 +1,39 @@
+{
+  "title": "Feb. 18--54 (Azure)",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.8",
+  "id": "cmoa:things/f3091517-acd8-4684-ac2f-9c053c872526",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "1977-05-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.5,
+  "item_height": 42.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019193",
+  "provenance_text": "Mr. And Mrs. William Block, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=379&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4783e052-5b90-46ec-91e4-693e0d0b0f8c",
+      "party_type": "Person",
+      "full_name": "Ben Nicholson",
+      "cited_name": "Nicholson, Ben",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1894-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Denham (Buckinghamshire, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

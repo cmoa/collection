@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Huey Long)",
+  "creation_date": "1948-1949",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "pen and ink on paper",
+  "accession_number": "68.25.1",
+  "id": "cmoa:things/90842e97-fd26-41ab-8495-9337414d45bf",
+  "credit_line": "Gift of Russell G. Twiggs",
+  "date_acquired": "1968-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.062,
+  "item_height": 29.062,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012422",
+  "provenance_text": "Gift of Russell G. Twiggs, Pittsburgh, PA, 1968.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19593&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c527ff39-c938-45c8-b4ca-a5091527295a",
+      "party_type": "Person",
+      "full_name": "Andy Warhol",
+      "cited_name": "Warhol, Andy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

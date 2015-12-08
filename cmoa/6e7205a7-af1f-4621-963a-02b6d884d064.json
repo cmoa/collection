@@ -1,0 +1,39 @@
+{
+  "title": "Sketch in iron",
+  "creation_date": "1933-1934",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "wrought iron",
+  "accession_number": "2007.37",
+  "id": "cmoa:things/6e7205a7-af1f-4621-963a-02b6d884d064",
+  "credit_line": "Gift of American Decorative Art 1900 Foundation in honor of Marcia and Stanley Gumberg",
+  "date_acquired": "2007-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 13.25,
+  "item_height": 16.25,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=40910",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54316&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ca8af87-d1bb-4cc8-bdd5-04760310c316",
+      "party_type": "Person",
+      "full_name": "Samuel Yellin",
+      "cited_name": "Yellin, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

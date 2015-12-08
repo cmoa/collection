@@ -1,0 +1,39 @@
+{
+  "title": "St. George and the Dragon",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": "1494-12-23",
+  "creation_date_latest": "1504-12-22",
+  "medium": "oil on panel",
+  "accession_number": "74.29",
+  "id": "cmoa:things/4fecab2c-f81c-45a4-8b8a-ad8dbdd0ece6",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.25,
+  "item_height": 40.25,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016953",
+  "provenance_text": "Dr. Walter Read Hovey, Pennsylvania; gift to Museum, October 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24551&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/49d6974f-8a1b-48e3-9474-c87d6fdeed28",
+      "party_type": "Person",
+      "full_name": "Yugoslavian",
+      "cited_name": "Yugoslavian",
+      "role": null,
+      "nationality": "Yugoslavian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

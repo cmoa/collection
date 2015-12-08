@@ -1,0 +1,39 @@
+{
+  "title": "Henry Clay",
+  "creation_date": "1832",
+  "creation_date_earliest": "1832-01-01",
+  "creation_date_latest": "1832-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.1.3",
+  "id": "cmoa:things/8e306abe-6020-4ab3-8aea-d9a46445f5d9",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 27.75,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009132",
+  "provenance_text": "G. David Thompson, Pittsburgh, 1952; gift to Museum, 1952",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a768298-38f3-49d6-a450-89696ed1d659",
+      "party_type": "Person",
+      "full_name": "James Reid Lambdin",
+      "cited_name": "Lambdin, James Reid",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1807-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

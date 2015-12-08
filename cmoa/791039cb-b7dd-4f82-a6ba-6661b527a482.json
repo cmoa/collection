@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Boy",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "97.6",
+  "id": "cmoa:things/791039cb-b7dd-4f82-a6ba-6661b527a482",
+  "credit_line": "Purchase",
+  "date_acquired": "1897-11-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.625,
+  "item_height": 37.375,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035931",
+  "provenance_text": "Frank Weston Benson [1862-1951], until 1897 [1]; purchased by Museum, November 1897 [2]. \nNOTES:1. Shown in Carnegie Institute Annual Exhibition of 1897. 2. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26521&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17759d99-ea58-4bd2-87f6-72dcef02a2c4",
+      "party_type": "Person",
+      "full_name": "Frank Weston Benson",
+      "cited_name": "Benson, Frank Weston",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Salem (Essex county, Massachusetts, United States)",
+      "death_place": "Salem (Essex county, Massachusetts, United States)"
+    }
+  ]
+}

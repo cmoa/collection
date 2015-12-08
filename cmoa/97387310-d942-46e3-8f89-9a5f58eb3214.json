@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "ink on paper",
+  "accession_number": "25.6.1",
+  "id": "cmoa:things/97387310-d942-46e3-8f89-9a5f58eb3214",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1925-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005294",
+  "provenance_text": "Gift of Kenneth Seaver, Pittsburgh, PA, 1925.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94629&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/937f9bd1-9b94-4e61-89ba-f937a0a1cada",
+      "party_type": "Person",
+      "full_name": "Max Weber",
+      "cited_name": "Weber, Max",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Bialystok (Podlaskie voivodship, Poland)",
+      "death_place": "Great Neck (Nassau county, New York state, United States)"
+    }
+  ]
+}

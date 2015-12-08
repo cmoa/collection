@@ -1,0 +1,39 @@
+{
+  "title": "St. Gregory",
+  "creation_date": "1681",
+  "creation_date_earliest": "1681-01-01",
+  "creation_date_latest": "1681-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.54",
+  "id": "cmoa:things/dbb2e309-52bd-445f-a07b-66aba6eea422",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.375,
+  "item_height": 17.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005411",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105579&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

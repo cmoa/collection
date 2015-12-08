@@ -1,0 +1,54 @@
+{
+  "title": "Vase",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "earthenware with underglaze decoration",
+  "accession_number": "84.58",
+  "id": "cmoa:things/4db4180e-568f-43aa-bc9e-cdcec67c2208",
+  "credit_line": "Mr. and Mrs. George R. Gibbons, Jr. Fund",
+  "date_acquired": "1984-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 13.5,
+  "item_height": 25.875,
+  "item_depth": 0.0,
+  "item_diameter": 13.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024941",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97552&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11648&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d75e71c7-fd07-496d-b1ca-ea8bd96186ac",
+      "party_type": "Person",
+      "full_name": "John Bennett",
+      "cited_name": "Bennett, John",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "England",
+      "death_place": "West Orange, New Jersey"
+    },
+    {
+      "artist_id": "cmoa:parties/e4b8b852-b1b5-4c9d-b161-dbcfc35dab47",
+      "party_type": "Organization",
+      "full_name": "John Bennett Pottery",
+      "cited_name": "Bennett, John Pottery",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

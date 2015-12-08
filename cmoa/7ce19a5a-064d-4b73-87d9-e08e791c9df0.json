@@ -1,0 +1,51 @@
+{
+  "title": "Pittsburgh in 1790",
+  "creation_date": "c.1852",
+  "creation_date_earliest": "1847-01-01",
+  "creation_date_latest": "1857-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.33.2",
+  "id": "cmoa:things/7ce19a5a-064d-4b73-87d9-e08e791c9df0",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.563,
+  "item_height": 6.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001236",
+  "provenance_text": "D. L. Passavant, Zelienople, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72408&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c015421-4057-4606-8258-9ad82c07c486",
+      "party_type": "Person",
+      "full_name": "John C. McRae",
+      "cited_name": "McRae, John C.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1870-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bb1e7f7e-e679-4d7e-81c0-71ed347cf2f4",
+      "party_type": "Person",
+      "full_name": "Lewis Brantz",
+      "cited_name": "Brantz, Lewis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1758-01-01",
+      "death_date": "1838-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

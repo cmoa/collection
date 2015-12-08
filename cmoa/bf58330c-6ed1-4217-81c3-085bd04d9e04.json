@@ -1,0 +1,39 @@
+{
+  "title": "Mary Mourning the Dead Christ",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain and gilded bronze",
+  "accession_number": "63.17.3",
+  "id": "cmoa:things/bf58330c-6ed1-4217-81c3-085bd04d9e04",
+  "credit_line": "Mary Junkin Cowley Fund",
+  "date_acquired": "1963-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 13.375,
+  "item_height": 28.0,
+  "item_depth": 9.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011646",
+  "provenance_text": "Newman and Newman (Antiques) Ltd., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa8823d9-a96b-4f57-94f3-d1680c434a78",
+      "party_type": "Organization",
+      "full_name": "Tournai Porcelain Factory",
+      "cited_name": "Tournai Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "Belgian",
+      "birth_date": "1751-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

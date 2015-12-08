@@ -1,0 +1,39 @@
+{
+  "title": "Table Setting",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2003.57",
+  "id": "cmoa:things/4d26adcc-65e4-46ef-b06d-d0d56ff0e0f9",
+  "credit_line": "Gift of Dr. and Mrs. Karl Salatka",
+  "date_acquired": "2004-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 26.0,
+  "item_depth": 1.437,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7408",
+  "provenance_text": "Karl W. and Jennifer L. Salatka, Lower Burrell, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119280&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eecca848-e9df-4c36-83a0-fe823180cd22",
+      "party_type": "Person",
+      "full_name": "Wayne Thiebaud",
+      "cited_name": "Thiebaud, Wayne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": "Mesa (Maricopa county, Arizona, United States)",
+      "death_place": null
+    }
+  ]
+}

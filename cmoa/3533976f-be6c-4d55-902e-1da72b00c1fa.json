@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Alphonse Daudet",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "Lithograph on wove paper",
+  "accession_number": "47.11.6",
+  "id": "cmoa:things/3533976f-be6c-4d55-902e-1da72b00c1fa",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1947-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008053",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until June 4, 1947; his gift to Museum, June 1947.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0843ecc-be29-4b6f-aaf0-581e62f97c91",
+      "party_type": "Person",
+      "full_name": "Eugène Carrière",
+      "cited_name": "Carrière, Eugène",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": null,
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

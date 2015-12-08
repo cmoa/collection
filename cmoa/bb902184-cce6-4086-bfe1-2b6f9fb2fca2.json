@@ -1,0 +1,51 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "basalt with silver lid",
+  "accession_number": "82.93.68.A-B",
+  "id": "cmoa:things/bb902184-cce6-4086-bfe1-2b6f9fb2fca2",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 9.125,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023514",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2747&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/efd0da86-a6c8-4401-9439-a4c8ef6dc4fc",
+      "party_type": "Person",
+      "full_name": "William Baddley",
+      "cited_name": "Baddley, William",
+      "role": "attributed designer",
+      "nationality": "English",
+      "birth_date": "1795-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": "England, Shelton",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/aa0fd7a2-ec32-4fc6-8a0e-71beec021c77",
+      "party_type": "Organization",
+      "full_name": "Eastwood Pottery",
+      "cited_name": "Eastwood Pottery",
+      "role": "attributed manufacturer",
+      "nationality": "English",
+      "birth_date": "1795-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Philatelists",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "57.3.50",
+  "id": "cmoa:things/90dea8eb-ac6f-4b09-a066-ca5fb650e54f",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.5,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010517",
+  "provenance_text": "Mrs. James H. Beal, Pittsburgh; gift to museum, April 1957",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104837&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a45438c-fc3b-4041-9e6a-77431ac1a66d",
+      "party_type": "Person",
+      "full_name": "Benton Murdoch Spruance",
+      "cited_name": "Spruance, Benton M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

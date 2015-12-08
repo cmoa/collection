@@ -1,0 +1,45 @@
+{
+  "title": "Fan",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "pearl with lithographs on paper",
+  "accession_number": "27.10.391",
+  "id": "cmoa:things/f507aed0-5e1c-409a-9677-48190ca8af77",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.0,
+  "item_height": 11.313,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005740",
+  "provenance_text": "Unknown, Havana, Cuba, by 1905; purchased by Herbert Dupuy [1856-1930], Pittsburgh, PA, 1905; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=74059&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97436&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4462&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Kuwana",
+  "creation_date": "c. 1833-1834",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.330.15",
+  "id": "cmoa:things/f2ea2152-60c5-4b7a-ad2e-651fccf64c10",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.938,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027950",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99153&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

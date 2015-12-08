@@ -1,0 +1,39 @@
+{
+  "title": "Oh Fearful Wonder of Man",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.68",
+  "id": "cmoa:things/57362c27-bbf5-4e8e-82f7-25654c6c4805",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 105.625,
+  "item_height": 90.75,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022024",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24957&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/314e0e00-47ef-4910-a9ca-af8356302318",
+      "party_type": "Person",
+      "full_name": "Henry Koerner",
+      "cited_name": "Koerner, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": null
+    }
+  ]
+}

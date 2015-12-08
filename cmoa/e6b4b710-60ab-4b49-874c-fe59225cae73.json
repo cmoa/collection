@@ -1,0 +1,39 @@
+{
+  "title": "Charles D. Warner",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "pencil",
+  "accession_number": "41.4.1",
+  "id": "cmoa:things/e6b4b710-60ab-4b49-874c-fe59225cae73",
+  "credit_line": "Gift of Charles Stanley Reinhart and Mrs. Harold L. Bennet, the Artist's son and daughter",
+  "date_acquired": "1941-11-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007256",
+  "provenance_text": "Gift of Charles Stanley Reinhart, Jr., and Liliane Reinhart Bennet, 1941.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da2fb055-1639-4ea5-a7a9-dd3d7738005e",
+      "party_type": "Person",
+      "full_name": "Charles Stanley Reinhart",
+      "cited_name": "Reinhart, Charles S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Deep Attachment",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1455",
+  "id": "cmoa:things/9b76b78f-ab3c-4f35-9e21-cac815b312b2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.812,
+  "item_height": 25.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027365",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34280&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4dff0d1f-d658-4ec0-ac9b-bfc22d2fa381",
+      "party_type": "Person",
+      "full_name": "Yamaguchi Gen",
+      "cited_name": "Yamaguchi Gen",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1896-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

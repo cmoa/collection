@@ -1,0 +1,39 @@
+{
+  "title": "Red teapot",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "earthenware and nails",
+  "accession_number": "95.82.1",
+  "id": "cmoa:things/60670eb5-50c5-4234-9b83-eec433d5b7ad",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1995-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 10.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035819",
+  "provenance_text": "Jerry Caplan, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101478&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f94d8e54-5d34-43c1-b596-a48eacb366a6",
+      "party_type": "Person",
+      "full_name": "Jerry Caplan",
+      "cited_name": "Caplan, Jerry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": null,
+      "death_place": "Pittsburgh"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Standing Balzac",
+  "creation_date": "1892",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "bronze",
+  "accession_number": "82.83.2",
+  "id": "cmoa:things/d7a1c0d8-8ab8-417d-b534-63f5d52fda80",
+  "credit_line": "Gift of Mr. and Mrs. Carl D. Lobell",
+  "date_acquired": "1982-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 15.0,
+  "item_height": 29.125,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023174",
+  "provenance_text": "Mr. And Mrs. Carl D. Lobell, New York, NY, until 1982. Gift to Museum of Art, Carnegie Institute, December 1982.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117310&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dec87be6-b8ac-434e-afcb-c0e7c3e742be",
+      "party_type": "Person",
+      "full_name": "Auguste Rodin",
+      "cited_name": "Rodin, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Meudon (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

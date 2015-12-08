@@ -1,0 +1,39 @@
+{
+  "title": "Hammer and Chain",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "bronze",
+  "accession_number": "93.79",
+  "id": "cmoa:things/244bdcc2-9c61-4aef-97d4-08b9b1e4c14c",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1993-05-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 9.0,
+  "item_depth": 137.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033702",
+  "provenance_text": "Brooke Alexander Gallery, NY, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26533&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5a2c56b-f7f1-46e3-b2fc-4b8057988e0e",
+      "party_type": "Person",
+      "full_name": "Tom Otterness",
+      "cited_name": "Otterness, Tom",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

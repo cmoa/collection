@@ -1,0 +1,42 @@
+{
+  "title": "Été de la St. Martin - \"La Noce Qui Passe.\"",
+  "creation_date": null,
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "etching",
+  "accession_number": "16.18.5",
+  "id": "cmoa:things/2a6f8fe6-a82e-4d91-b3aa-6881d16aa730",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-18",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001094",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110906&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110907&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12214363-c054-4bce-8883-26046f05323b",
+      "party_type": "Person",
+      "full_name": "Auguste Lepère",
+      "cited_name": "Lepère, Auguste L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Domme, France"
+    }
+  ]
+}

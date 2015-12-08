@@ -1,0 +1,49 @@
+{
+  "title": "Illustrated Biography of Lao-Tsu",
+  "creation_date": "1598",
+  "creation_date_earliest": "1598-01-01",
+  "creation_date_latest": "1598-01-01",
+  "medium": "bound woodcuts",
+  "accession_number": "89.28.648",
+  "id": "cmoa:things/00ff684f-912a-4c47-b408-26aa6fa31d83",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 10.5,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028594",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Chimyo Horioka, Boston, 1970's.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": "author",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e3acee03-cfc3-4210-97dc-619a0a33373a",
+      "party_type": "Person",
+      "full_name": "Roshi Zenden",
+      "cited_name": "Roshi Zenden",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

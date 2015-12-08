@@ -1,0 +1,51 @@
+{
+  "title": "Snuffbox",
+  "creation_date": "c. 1750",
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "rock crystal and gold with enamel",
+  "accession_number": "27.10.585",
+  "id": "cmoa:things/5c60a3a7-fb9c-4b79-83d3-09348a8c60aa",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.812,
+  "item_height": 1.625,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005866",
+  "provenance_text": "Brayton C. Ives [1840-1914], New York, NY, until October 22, 1914; Estate of Brayton C. Ives, October 22, 1914 until April 1915; (sold at American Art Association, New York, NY, April 9, 1915) [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 9, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] Lot 169.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5576&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "possibly by",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5170a130-7129-44d0-a4b9-a30bb224b3c2",
+      "party_type": "Person",
+      "full_name": "Jean Petitot, le jeune",
+      "cited_name": "Petitot, Jean, le jeune",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1653-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

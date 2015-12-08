@@ -1,0 +1,51 @@
+{
+  "title": "Morning at the Kannon Temple in Asakusa (Asakusa Kannondô no asa)",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1357.3",
+  "id": "cmoa:things/b1635df5-6982-4153-b180-41aafe7def6b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.438,
+  "item_height": 8.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027189",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18983&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56c394e6-7816-4da2-97b9-f91276e9cd56",
+      "party_type": "Person",
+      "full_name": "Tokuriki Tomikichirô",
+      "cited_name": "Tokuriki Tomikichirô",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Kyoto",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b04bddcc-afd8-431c-8b8a-db7186c4b89b",
+      "party_type": "Person",
+      "full_name": "Uchida",
+      "cited_name": "Uchida",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

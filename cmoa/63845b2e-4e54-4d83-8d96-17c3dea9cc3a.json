@@ -1,0 +1,37 @@
+{
+  "title": "Mr. Lincoln",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "87.25.3",
+  "id": "cmoa:things/63845b2e-4e54-4d83-8d96-17c3dea9cc3a",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1987-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026320",
+  "provenance_text": "Kenji Nakahashi, New York, NY",
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/add1f6df-4c14-4d31-8c3c-7c0383bec264",
+      "party_type": "Person",
+      "full_name": "Nakahashi, Kenji",
+      "cited_name": "Nakahashi, Kenji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

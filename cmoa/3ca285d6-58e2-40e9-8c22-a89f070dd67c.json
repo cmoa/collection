@@ -1,0 +1,51 @@
+{
+  "title": "Courtyard, St. Mary's Hall, Coventry, England; [exterior perspective]",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "ink on paper",
+  "accession_number": "93.39.2",
+  "id": "cmoa:things/3ca285d6-58e2-40e9-8c22-a89f070dd67c",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-04-01",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033613",
+  "provenance_text": "Kelmscott Gallery, Chicago, IL",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f0a95c27-760f-423d-8709-a2cff030326d",
+      "party_type": "Person",
+      "full_name": "T. Raffles Davison",
+      "cited_name": "Davison, T. R.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

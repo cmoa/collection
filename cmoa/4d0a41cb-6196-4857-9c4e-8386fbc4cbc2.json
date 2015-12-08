@@ -1,0 +1,42 @@
+{
+  "title": "Edwin Edwin",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "oil on aluminum cut out",
+  "accession_number": "2000.22.1.A-B",
+  "id": "cmoa:things/4d0a41cb-6196-4857-9c4e-8386fbc4cbc2",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2000-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 72.0,
+  "item_height": 69.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004008",
+  "provenance_text": "Alex Katz, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98928&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98929&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cc5bf0b-1297-42c2-93a1-cf2acfd9b5da",
+      "party_type": "Person",
+      "full_name": "Alex Katz",
+      "cited_name": "Katz, Alex",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn (New York City, New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Pittsburgh and Allegheny",
+  "creation_date": "c. 1849",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.33.9",
+  "id": "cmoa:things/d518c9f4-9b99-4bd1-baab-43441e76a073",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001243",
+  "provenance_text": "D. L. Passavant",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111250&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3af95714-f13b-4cc3-815f-38f6f0b97f40",
+      "party_type": "Person",
+      "full_name": "Benjamin Franklin Smith, Jr.",
+      "cited_name": "Smith, Benjamin Franklin, Jr.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0d085043-ff15-4269-9844-9f250d8eb1f6",
+      "party_type": "Person",
+      "full_name": "W. Wellstood",
+      "cited_name": "Wellstood, W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1819-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

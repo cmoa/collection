@@ -1,0 +1,47 @@
+{
+  "title": "MN-01, Extravaganza bicycle",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "superplastic aluminum and other materials",
+  "accession_number": "2003.50",
+  "id": "cmoa:things/70c4836e-8dea-4334-baae-2e3debf7b410",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2003-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.625,
+  "item_height": 39.375,
+  "item_depth": 66.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6716",
+  "provenance_text": "Biomega A/S, Denmark",
+  "classification": "Metals",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3b587b52-1c38-459d-ac06-8f918e9b6e32",
+      "party_type": "Person",
+      "full_name": "Marc Newson",
+      "cited_name": "Newson, Marc",
+      "role": "designer",
+      "nationality": "Australian",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Sydney, Australia",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/382e2ec3-246f-4294-83e7-422c2c61be39",
+      "party_type": "Organization",
+      "full_name": "Biomega",
+      "cited_name": "Biomega",
+      "role": "manufacturer",
+      "nationality": "Danish",
+      "birth_date": "1998-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

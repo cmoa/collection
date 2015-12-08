@@ -1,0 +1,39 @@
+{
+  "title": "That Is",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "gelatin silver print with acrylic, oil, and gouache",
+  "accession_number": "86.48.2.A-D",
+  "id": "cmoa:things/a71adfbe-058a-40d1-9d02-9b8e7919fd7e",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1986-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 77.125,
+  "item_height": 88.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026130",
+  "provenance_text": "Margo Leavin Gallery, Los Angeles, California; Carnegie Museum of Art, Pittsburgh; Patrons Art Fund",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c40e29c0-3b4b-40e4-a985-95127c5b841b",
+      "party_type": "Person",
+      "full_name": "John Baldessari",
+      "cited_name": "Baldessari, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "National City (San Diego county, California, United States)",
+      "death_place": null
+    }
+  ]
+}

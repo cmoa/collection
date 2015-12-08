@@ -1,0 +1,45 @@
+{
+  "title": "Fan",
+  "creation_date": "c. 1774-1789",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "bone and paper",
+  "accession_number": "27.10.424",
+  "id": "cmoa:things/4e0961e8-b215-42e5-9bee-28f5ce9b4be2",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.688,
+  "item_height": 10.375,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005772",
+  "provenance_text": "Unknown, Mantzanas, Cuba; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, February 1907; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75037&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75038&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4611&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

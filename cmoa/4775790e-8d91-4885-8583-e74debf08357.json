@@ -1,0 +1,39 @@
+{
+  "title": "Box of Visions",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "79.3.7",
+  "id": "cmoa:things/4775790e-8d91-4885-8583-e74debf08357",
+  "credit_line": "Gift of Mr. and Mrs. Eugene S. Cohen in memory of Sarah and David Weis",
+  "date_acquired": "1979-02-08",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020324",
+  "provenance_text": "Mr. And Mrs. Eugene S. Cohen, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96030&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3886f8fa-cd8c-4228-a36f-9af3b038d9d2",
+      "party_type": "Person",
+      "full_name": "Manuel Alvarez Bravo",
+      "cited_name": "Bravo, Manuel Alvarez",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1902-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Mexico City (Distrito Federal, Mexico)",
+      "death_place": "Mexico City (Distrito Federal, Mexico)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Christina of Sweden",
+  "creation_date": "1650",
+  "creation_date_earliest": "1650-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "16.34.6",
+  "id": "cmoa:things/e6d16896-017e-4022-b836-003c14926022",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-01-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001251",
+  "provenance_text": "F. Meder, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101909&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00582137-383c-459a-827b-a49c62e0d1fd",
+      "party_type": "Person",
+      "full_name": "Pieter Soutman",
+      "cited_name": "Soutman, Pieter",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1580-01-01",
+      "death_date": "1657-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Composition II",
+  "creation_date": null,
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "55.48.2",
+  "id": "cmoa:things/4882e1e8-d278-4d83-8df1-d86c25537862",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009488",
+  "provenance_text": "John Levee",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100548&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100549&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6ced69e-6cda-4fad-8a61-8e6307a9ee2c",
+      "party_type": "Person",
+      "full_name": "John Levee",
+      "cited_name": "Levee, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Los Angeles, CA",
+      "death_place": null
+    }
+  ]
+}

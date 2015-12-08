@@ -1,0 +1,51 @@
+{
+  "title": "Mr. Necker [Jacques Necker]",
+  "creation_date": "1788-1789",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1789-01-01",
+  "medium": "etching and aquatint printed in color",
+  "accession_number": "2006.83.49",
+  "id": "cmoa:things/2971a9b4-a749-497f-8114-ec755abeda96",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34431",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39632&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1787265e-6c26-41b8-8924-28371e46347d",
+      "party_type": "Person",
+      "full_name": "Antoine-Louis-Francois Sergent",
+      "cited_name": "Sergent, Antoine-Louis-Francois",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1751-01-01",
+      "death_date": "1847-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c9b6dec8-dcaf-48b6-ac4d-39d2062f733d",
+      "party_type": "Person",
+      "full_name": "Joseph-Siffred Duplessis",
+      "cited_name": "Duplessis, Joseph-Siffred",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1725-01-01",
+      "death_date": "1802-01-01",
+      "birth_place": "Carpentras, France",
+      "death_place": "Versailles, France"
+    }
+  ]
+}

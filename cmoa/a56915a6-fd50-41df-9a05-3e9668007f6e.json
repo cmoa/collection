@@ -1,0 +1,39 @@
+{
+  "title": "Southwark Fair",
+  "creation_date": "1733",
+  "creation_date_earliest": "1733-01-01",
+  "creation_date_latest": "1733-01-01",
+  "medium": "engraving and etching on paper",
+  "accession_number": "57.44.3",
+  "id": "cmoa:things/a56915a6-fd50-41df-9a05-3e9668007f6e",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1957-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010596",
+  "provenance_text": "P. & D. Colnaghi and Co., London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114689&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f38dd27-117c-4cb7-b786-3fbc71c6be07",
+      "party_type": "Person",
+      "full_name": "William Hogarth",
+      "cited_name": "Hogarth, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1697-01-01",
+      "death_date": "1764-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Fighting Elephants",
+  "creation_date": "c. 1911-1914",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "bronze",
+  "accession_number": "17.16",
+  "id": "cmoa:things/d4666724-c3de-4720-999a-31379cc53d4b",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.5,
+  "item_height": 13.75,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001425",
+  "provenance_text": "Anna Vaughn Hyatt Huntington [1876-1973], until 1917. Purchased by Museum, 1917 [1]. \nNOTES:1. via the Art Institute of Chicago.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126980&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126981&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126982&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126983&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107638&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd0c15a9-dd5a-40f0-9cea-0dac2b31f9fc",
+      "party_type": "Person",
+      "full_name": "Anna Vaughn Hyatt Huntington",
+      "cited_name": "Huntington, Anna V. H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Cambridge (Worcester county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

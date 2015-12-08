@@ -1,0 +1,39 @@
+{
+  "title": "Helios",
+  "creation_date": "c. 1590",
+  "creation_date_earliest": "1585-01-01",
+  "creation_date_latest": "1595-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "76.57.3",
+  "id": "cmoa:things/dd7ffb16-e794-4e67-80bd-60cb0ce85f2a",
+  "credit_line": "Bequest of Charles J. Rosenbloom, by exchange",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018186",
+  "provenance_text": "David Tunick, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97469&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

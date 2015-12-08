@@ -1,0 +1,39 @@
+{
+  "title": "Hail Storm, Guadalajara, Mexico",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.47.2",
+  "id": "cmoa:things/e6085a25-1d8c-48c0-b893-27dfb0b99eb3",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-10-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 19.938,
+  "item_height": 15.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92193",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103306&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/decd065c-48b5-4b5b-accc-68bcf2b189ed",
+      "party_type": "Person",
+      "full_name": "Philip Perkis",
+      "cited_name": "Perkis, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Boston, MA",
+      "death_place": null
+    }
+  ]
+}

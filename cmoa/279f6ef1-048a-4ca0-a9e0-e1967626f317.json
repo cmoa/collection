@@ -1,0 +1,39 @@
+{
+  "title": "Compostion  (Nature morte aux Verres)",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "etching",
+  "accession_number": "56.19.21",
+  "id": "cmoa:things/279f6ef1-048a-4ca0-a9e0-e1967626f317",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1956-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009652",
+  "provenance_text": "Curt Valentin Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63849&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f531c317-6a27-4144-9fcc-0fb8d0474f28",
+      "party_type": "Person",
+      "full_name": "Georges Braque",
+      "cited_name": "Braque, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1882-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": " Argenteuil (Val-d'Oise, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Hairdresser",
+  "creation_date": "c. 1798-1799",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.19",
+  "id": "cmoa:things/a22f9c79-db33-44b0-929e-995eaece4cc8",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001194",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Assoc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/701baf6b-252c-4cc7-8739-75a3ef9dda6d",
+      "party_type": "Person",
+      "full_name": "Utamaro Kitagawa",
+      "cited_name": "Utamaro Kitagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1754-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/4819d836-257f-4d31-aac0-0e096efb77d0",
+      "party_type": "Person",
+      "full_name": "Yoichi Wakasaya",
+      "cited_name": "Yoichi Wakasaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

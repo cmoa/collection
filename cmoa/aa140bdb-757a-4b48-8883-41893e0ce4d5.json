@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Actor)",
+  "creation_date": null,
+  "creation_date_earliest": "1763-01-01",
+  "creation_date_latest": "1812-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1267",
+  "id": "cmoa:things/aa140bdb-757a-4b48-8883-41893e0ce4d5",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027059",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr.Austin from Meltzer Gallery, New York, 9/14/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105977&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19fcb108-c34f-46b6-93fd-720a6e85f4f3",
+      "party_type": "Person",
+      "full_name": "Shunkô Katsukawa",
+      "cited_name": "Shunkô Katsukawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1743-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": "Tokyo (Tokyo metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

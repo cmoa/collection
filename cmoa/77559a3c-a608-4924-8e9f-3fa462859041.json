@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1960",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2000.65.2",
+  "id": "cmoa:things/77559a3c-a608-4924-8e9f-3fa462859041",
+  "credit_line": "Gift of Helen Moore, through the Women's Committee",
+  "date_acquired": "2000-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 26.0,
+  "item_height": 31.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004117",
+  "provenance_text": "The Donor, Pittsburgh",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148762&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73cd58f4-8b2d-46a7-96ed-0b3ec54cabb8",
+      "party_type": "Person",
+      "full_name": "Samuel Rosenberg",
+      "cited_name": "Rosenberg, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

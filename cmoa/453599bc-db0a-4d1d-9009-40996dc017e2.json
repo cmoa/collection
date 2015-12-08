@@ -1,0 +1,39 @@
+{
+  "title": "L'Abreuvoir (The Watering Place)",
+  "creation_date": null,
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "woodcut on chinese paper",
+  "accession_number": "18.17.6",
+  "id": "cmoa:things/453599bc-db0a-4d1d-9009-40996dc017e2",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001700",
+  "provenance_text": "M. Knoedler& Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12214363-c054-4bce-8883-26046f05323b",
+      "party_type": "Person",
+      "full_name": "Auguste Lepère",
+      "cited_name": "Lepère, Auguste L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Domme, France"
+    }
+  ]
+}

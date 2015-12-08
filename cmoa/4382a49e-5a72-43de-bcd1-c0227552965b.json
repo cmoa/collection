@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1988/1998",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "silver-dye bleach print",
+  "accession_number": "2009.51",
+  "id": "cmoa:things/4382a49e-5a72-43de-bcd1-c0227552965b",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-10-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82581",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97932&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ff9306c-7c24-4ecd-bd21-7f7f53be6e02",
+      "party_type": "Person",
+      "full_name": "David Levinthal",
+      "cited_name": "Levinthal, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "San Francisco, CA",
+      "death_place": null
+    }
+  ]
+}

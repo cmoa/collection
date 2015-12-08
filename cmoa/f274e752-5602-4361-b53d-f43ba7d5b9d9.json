@@ -1,0 +1,39 @@
+{
+  "title": "Layered Vessel #6",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.11",
+  "id": "cmoa:things/f274e752-5602-4361-b53d-f43ba7d5b9d9",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 10.5,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61765",
+  "provenance_text": "Purchased from the Marx-Saunders Gallery, Chicago 11/4/04",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68853&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e79e58db-b026-4f9d-b7f1-c31429b7408d",
+      "party_type": "Person",
+      "full_name": "Etsuko Nishi",
+      "cited_name": "Nishi, Etsuko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

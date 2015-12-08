@@ -1,0 +1,39 @@
+{
+  "title": "Box",
+  "creation_date": "c. 1830-1837",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2177.A-B",
+  "id": "cmoa:things/9d138566-0374-4c0c-b278-88bd4001b683",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.438,
+  "item_height": 4.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014371",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f07c5a34-a1ba-4536-a44a-3ccb7741704e",
+      "party_type": "Organization",
+      "full_name": "Rockingham Pottery and Porcelain Factory",
+      "cited_name": "Rockingham Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1745-01-01",
+      "death_date": "1842-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

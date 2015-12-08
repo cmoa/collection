@@ -1,0 +1,39 @@
+{
+  "title": "Sampler",
+  "creation_date": "1842",
+  "creation_date_earliest": "1842-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "wool, silk, and linen",
+  "accession_number": "60.27.2",
+  "id": "cmoa:things/874c54fc-167d-4224-8cc2-b6d5881a1108",
+  "credit_line": "Gift of Annie Myrtle Hoey Burns",
+  "date_acquired": "1960-02-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 16.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011183",
+  "provenance_text": " Annie Myrtle Hoey Burns, Murraysville, PA",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2312&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3466f785-df13-4929-9912-99dfcfe07ab5",
+      "party_type": "Person",
+      "full_name": "Elizabeth Witty",
+      "cited_name": "Witty, Elizabeth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

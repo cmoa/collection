@@ -1,0 +1,39 @@
+{
+  "title": "Goblet",
+  "creation_date": "c. 1913-1920",
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "blown iridescent glass",
+  "accession_number": "77.43.9",
+  "id": "cmoa:things/2c16cf00-a99a-4daa-8da5-995458c8d2f7",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.562,
+  "item_depth": 0.0,
+  "item_diameter": 4.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018682",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=700&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c35a3ab5-c758-4b6c-87d0-495031c73524",
+      "party_type": "Organization",
+      "full_name": "Tiffany Studios",
+      "cited_name": "Tiffany Studios",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

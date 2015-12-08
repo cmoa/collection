@@ -1,0 +1,54 @@
+{
+  "title": "Magazine rack",
+  "creation_date": "c. 1933",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "Chrome-plated and enameled steel",
+  "accession_number": "2015.26",
+  "id": "cmoa:things/da94e1a4-5206-4fef-aeea-2d8054550252",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Charity Randall Gallery",
+  "item_width": 22.0,
+  "item_height": 11.0,
+  "item_depth": 10.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108599",
+  "provenance_text": "Historical Design, Inc., New York to CMOA , June 2015",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148885&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6eb4f4da-145b-4e9f-8f23-59465e271320",
+      "party_type": "Person",
+      "full_name": "James Waring Carpenter",
+      "cited_name": "Carpenter, James Waring",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/71312d29-cac8-4150-b165-80664aa7d629",
+      "party_type": "Organization",
+      "full_name": "McKay Company",
+      "cited_name": "McKay Furniture Corp.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

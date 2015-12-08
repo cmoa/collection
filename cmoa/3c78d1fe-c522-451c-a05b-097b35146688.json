@@ -1,0 +1,54 @@
+{
+  "title": "Ruba Rombic tumbler",
+  "creation_date": "1928-1932",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "glass",
+  "accession_number": "94.223.2",
+  "id": "cmoa:things/3c78d1fe-c522-451c-a05b-097b35146688",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1994-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Charity Randall Gallery",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035010",
+  "provenance_text": "Kosloff & Meaders, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22895&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97632&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/21db405a-4c82-4fae-b26c-163e8741e539",
+      "party_type": "Person",
+      "full_name": "Reuben Haley",
+      "cited_name": "Haley, Reuben",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e598da3d-b549-454a-87ec-d4ae9f9421f7",
+      "party_type": "Organization",
+      "full_name": "Consolidated Lamp & Glass Co.",
+      "cited_name": "Consolidated Lamp & Glass Co.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": "Fostoria, Ohio",
+      "death_place": "Coraopolis, Pennsylvania"
+    }
+  ]
+}

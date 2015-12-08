@@ -1,0 +1,39 @@
+{
+  "title": "Rose of Sharon",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "water-based acrylic on canvas",
+  "accession_number": "94.248.2",
+  "id": "cmoa:things/57db5139-2693-4350-990f-0d71d6f43156",
+  "credit_line": "Gift of Charles H. Carpenter, Jr.",
+  "date_acquired": "1995-01-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.312,
+  "item_height": 62.375,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035130",
+  "provenance_text": "Gift of Charles H. Carpenter, Jr., New Canaan, CT, 1995.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4383&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/004c6895-5f71-43c0-9c4f-2b31e43c92c8",
+      "party_type": "Person",
+      "full_name": "Jules Olitski",
+      "cited_name": "Olitski, Jules",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Gomel (Homel province, Belarus)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Thames",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "lithotint with scraping on wove paper mounted on wove paper",
+  "accession_number": "19.20",
+  "id": "cmoa:things/ae68fc94-203a-4a42-848d-dd44435da6a6",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-09-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002044",
+  "provenance_text": "M. Knoedler & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72990&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

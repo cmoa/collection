@@ -1,0 +1,45 @@
+{
+  "title": "Sitting Siva Dance",
+  "creation_date": "c. 1894",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "gouache and graphite on card",
+  "accession_number": "17.8",
+  "id": "cmoa:things/377256a6-c1fb-4a7b-8a96-27723dd4c612",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001656",
+  "provenance_text": "Sale, AMerican Art Galleries, New York, [29-31 March] 1911, cat. no. 577 as South Sea Seated Dance at Night; Macbeth Gallery, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108431&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108432&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20967&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c359036-66e7-40c2-a178-5d188e9af469",
+      "party_type": "Person",
+      "full_name": "John La Farge",
+      "cited_name": "La Farge, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1835-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "New York City",
+      "death_place": "Newport, Rhode Island"
+    }
+  ]
+}

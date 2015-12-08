@@ -1,0 +1,51 @@
+{
+  "title": "Platter",
+  "creation_date": "1818-1834",
+  "creation_date_earliest": "1818-01-01",
+  "creation_date_latest": "1834-01-01",
+  "medium": "transfer printed glazed earthenware",
+  "accession_number": "20.5.1",
+  "id": "cmoa:things/ddbba07a-e31e-41c5-bf5e-2f2e554f450c",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.938,
+  "item_height": 1.25,
+  "item_depth": 1.563,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004594",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1171&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce90c42e-b673-4b1f-98fe-4b9c0e657af2",
+      "party_type": "Person",
+      "full_name": "James Clews",
+      "cited_name": "Clews, James",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1817-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c1318dd-fa52-4c79-9350-66b1c8339583",
+      "party_type": "Person",
+      "full_name": "Ralph Clews",
+      "cited_name": "Clews, Ralph",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1817-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

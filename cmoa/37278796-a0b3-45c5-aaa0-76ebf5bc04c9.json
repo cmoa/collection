@@ -1,0 +1,51 @@
+{
+  "title": "Creamer",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.11.15",
+  "id": "cmoa:things/37278796-a0b3-45c5-aaa0-76ebf5bc04c9",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.062,
+  "item_height": 2.75,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003629",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b3b66b5-66c0-43a6-bb5d-f12ac995cba7",
+      "party_type": "Person",
+      "full_name": "Otto Lindig",
+      "cited_name": "Lindig, Otto",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1895-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c196c019-1ac0-4bab-ba55-ea985cc0454b",
+      "party_type": "Organization",
+      "full_name": "Staatliche Majolika-Manufaktur",
+      "cited_name": "Staatliche Majolika-Manufaktur",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "La passagère du 54 (The Passenger from 54)",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "color lithograph on wove paper",
+  "accession_number": "55.36.1",
+  "id": "cmoa:things/cd424656-ee84-4537-9ad5-e5808c9fed6e",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009445",
+  "provenance_text": "Henri Marie Raymond de Toulouse-Lautrec [1864-1901]. Charles Sessler, Philadelphia, PA, until February 1951; Mr. and Mrs. James H. Beal, Pittsburgh, PA, February 3, 1951 until December 19, 1955 [1]; gift to Museum, December 1955. \n\nNotes:\n[1]. See original documentation from Mrs. Beal in curatorial file.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23143&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d74bc35d-9b45-4b13-8564-a5843e338de6",
+      "party_type": "Person",
+      "full_name": "Henri Marie Raymond de Toulouse-Lautrec",
+      "cited_name": "Toulouse-Lautrec, Henri de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1864-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": "Albi (Tarn, Midi-Pyrénées, France)",
+      "death_place": "Langon (Gironde, Aquitaine, France)"
+    }
+  ]
+}

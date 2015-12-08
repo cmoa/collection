@@ -1,0 +1,39 @@
+{
+  "title": "Semen",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "aquatint and softground etching on paper",
+  "accession_number": "2001.11",
+  "id": "cmoa:things/6e632b61-7d0e-4837-93f0-fa7b702e657e",
+  "credit_line": "Gift of Sande Deitch",
+  "date_acquired": "2001-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 94.75,
+  "item_height": 57.75,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004174",
+  "provenance_text": "Gift of Sande Deitch, Pittsburgh, PA, 2001.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8015&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fddaaa76-c2b5-44aa-bb10-812a9d9c55ad",
+      "party_type": "Person",
+      "full_name": "Francesco Clemente",
+      "cited_name": "Clemente, Francesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": "Naples (Napoli province, Campania, Italy)",
+      "death_place": null
+    }
+  ]
+}

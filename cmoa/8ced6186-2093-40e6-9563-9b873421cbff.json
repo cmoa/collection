@@ -1,0 +1,39 @@
+{
+  "title": "Box",
+  "creation_date": "13th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1298-12-25",
+  "medium": "enamel",
+  "accession_number": "54.7.1",
+  "id": "cmoa:things/8ced6186-2093-40e6-9563-9b873421cbff",
+  "credit_line": "Gift of Mrs. J. Frederic Byers",
+  "date_acquired": "1954-03-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.75,
+  "item_height": 4.812,
+  "item_depth": 4.687,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009345",
+  "provenance_text": "Gift of Mrs. J. Frederic Byers, 1954.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4417&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3a35879-c458-481a-bc0f-c971e3abb3c4",
+      "party_type": "Person",
+      "full_name": "unknown French, Limoges",
+      "cited_name": "unknown French, Limoges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

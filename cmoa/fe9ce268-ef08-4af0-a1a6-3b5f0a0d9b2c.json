@@ -1,0 +1,51 @@
+{
+  "title": "John Trenchard, Esq.",
+  "creation_date": "1794",
+  "creation_date_earliest": "1794-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "etching with aquatint",
+  "accession_number": "2006.83.10",
+  "id": "cmoa:things/fe9ce268-ef08-4af0-a1a6-3b5f0a0d9b2c",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34311",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39225&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bca9fc09-a0f9-416c-a422-73f18f0f093c",
+      "party_type": "Person",
+      "full_name": "Joseph Singleton",
+      "cited_name": "Singleton, Joseph",
+      "role": "printmaker",
+      "nationality": "undetermined",
+      "birth_date": "1785-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/88230b29-bc9a-4360-b418-2fe2f534e2e4",
+      "party_type": "Person",
+      "full_name": "Ozias Humphrey",
+      "cited_name": "Humphrey, Ozias",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1742-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " Honiton (Devon, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

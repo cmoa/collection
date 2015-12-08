@@ -1,0 +1,39 @@
+{
+  "title": "The Meuse",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "etching",
+  "accession_number": "17.21",
+  "id": "cmoa:things/40781e4a-2c6e-4da7-a943-f0765cb50124",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001431",
+  "provenance_text": "Kennedy & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110939&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6316effb-637c-4784-9883-fefe78a30747",
+      "party_type": "Person",
+      "full_name": "David Young Cameron",
+      "cited_name": "Cameron, David Young",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1865-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Glasgow (Glasgow, Scotland, United Kingdom)",
+      "death_place": " Perth (Perth and Kinross, Scotland, United Kingdom)"
+    }
+  ]
+}

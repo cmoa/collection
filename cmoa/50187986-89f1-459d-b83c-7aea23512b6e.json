@@ -1,0 +1,39 @@
+{
+  "title": "Head of the Virgin",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "black chalk, white on blue paper, faded green-gray",
+  "accession_number": "23.12.37",
+  "id": "cmoa:things/50187986-89f1-459d-b83c-7aea23512b6e",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004846",
+  "provenance_text": "Gift of Herbert DuPuy, 1923.\n\nTBF 10/29/14",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94665&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b057e5f-85a9-4bed-a396-47b5eaa81d6a",
+      "party_type": "Person",
+      "full_name": "Guido Reni",
+      "cited_name": "Reni, Guido",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1575-01-01",
+      "death_date": "1642-01-01",
+      "birth_place": " Bologna (Bologna province, Emilia-Romagna, Italy)",
+      "death_place": " Bologna (Bologna province, Emilia-Romagna, Italy)"
+    }
+  ]
+}

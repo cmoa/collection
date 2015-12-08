@@ -1,0 +1,42 @@
+{
+  "title": "Dish",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "tin-glazed earthenware with luster glaze (Hispano-Moresque ware)",
+  "accession_number": "73.48.98",
+  "id": "cmoa:things/b060e774-cd28-4363-a1b2-f5f6806760e1",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 17.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016844",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101728&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101727&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

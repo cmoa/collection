@@ -1,0 +1,39 @@
+{
+  "title": "Sideshow",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "74.14",
+  "id": "cmoa:things/45d45afd-8e7c-461c-969f-968a14a8f842",
+  "credit_line": "Gift of Marty Cornelius",
+  "date_acquired": "1974-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.5,
+  "item_height": 34.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016920",
+  "provenance_text": "Gift of Marty Cornelius (Martha C. Fitzpatrick), Ligonier, Pennsylvania",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19862&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba6f52a-093a-4c97-b05b-5cf31bdabfbe",
+      "party_type": "Person",
+      "full_name": "Reginald Marsh",
+      "cited_name": "Marsh, Reginald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dorset (Bennington county, Vermont, United States)"
+    }
+  ]
+}

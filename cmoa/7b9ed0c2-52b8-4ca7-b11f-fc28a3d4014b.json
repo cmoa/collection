@@ -1,0 +1,66 @@
+{
+  "title": "Trophies",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "glazed ceramic",
+  "accession_number": "1997.30.1.A-J",
+  "id": "cmoa:things/7b9ed0c2-52b8-4ca7-b11f-fc28a3d4014b",
+  "credit_line": "Gift of Lannan Foundation",
+  "date_acquired": "1997-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 4.5,
+  "item_height": 7.25,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003260",
+  "provenance_text": "Lannan Foundation, Los Angeles, CA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22748&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22770&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22784&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22787&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22749&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22792&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22796&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22798&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22799&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ad3f895-d110-43f9-a730-7f8793b40d56",
+      "party_type": "Person",
+      "full_name": "Robert Arneson",
+      "cited_name": "Arneson, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Benicia (Solano county, California, United States)",
+      "death_place": "Benicia (Solano county, California, United States)"
+    }
+  ]
+}

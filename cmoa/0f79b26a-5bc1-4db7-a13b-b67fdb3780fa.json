@@ -1,0 +1,39 @@
+{
+  "title": "Growing",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "black lead",
+  "accession_number": "58.47",
+  "id": "cmoa:things/0f79b26a-5bc1-4db7-a13b-b67fdb3780fa",
+  "credit_line": "Howard Heinz Endowment Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.25,
+  "item_height": 36.875,
+  "item_depth": 6.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010867",
+  "provenance_text": "The Artist, through 1958 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146974&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d391eb8d-99bb-4290-b780-3f606a456233",
+      "party_type": "Person",
+      "full_name": "Giò Pomodoro",
+      "cited_name": "Pomodoro, Giò",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1930-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Morciano di Romagna (Rimini province, Emilia-Romagna, Italy)",
+      "death_place": null
+    }
+  ]
+}

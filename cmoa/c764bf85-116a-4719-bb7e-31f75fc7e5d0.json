@@ -1,0 +1,39 @@
+{
+  "title": "Three Hands",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.17",
+  "id": "cmoa:things/c764bf85-116a-4719-bb7e-31f75fc7e5d0",
+  "credit_line": "Gift of Mrs. Patricia Neal Dahl",
+  "date_acquired": "1954-03-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 61.0,
+  "item_height": 38.75,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009237",
+  "provenance_text": "Patricia Neal Dahl",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126481&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9653a40-b907-482d-84e8-782cadc0b6d7",
+      "party_type": "Person",
+      "full_name": "Howard Warshaw",
+      "cited_name": "Warshaw, Howard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "New York City (New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Chess Set: Knight",
+  "creation_date": "c. 1845",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "Jasperware",
+  "accession_number": "82.93.253",
+  "id": "cmoa:things/5f60af4e-46e2-4bd9-b828-4f0dfced92e2",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 1.562,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023431",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2627&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cfa69c70-c764-4f98-bb8a-a53c09f46afe",
+      "party_type": "Person",
+      "full_name": "John Flaxman",
+      "cited_name": "Flaxman, John",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1755-01-01",
+      "death_date": "1826-01-01",
+      "birth_place": "York (York, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/cf711fb7-c969-434c-a698-99ba5ea75852",
+      "party_type": "Organization",
+      "full_name": "Josiah Wedgwood & Company",
+      "cited_name": "Wedgwood, Josiah & Company",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Spain",
+  "creation_date": "c. 1896",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "17.5.5",
+  "id": "cmoa:things/e10c676a-0d3b-468a-a907-48173c1c7352",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001631",
+  "provenance_text": "E. Weyhe, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48029&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ca436360-a40d-49fb-ae98-e1ff9531f74a",
+      "party_type": "Person",
+      "full_name": "Joseph Pennell",
+      "cited_name": "Pennell, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

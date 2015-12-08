@@ -1,0 +1,39 @@
+{
+  "title": "Street Corner Seen from Above (Coin de rue vu d'en haut)",
+  "creation_date": "1896-1899",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "color lithograph on wove paper",
+  "accession_number": "54.12.1",
+  "id": "cmoa:things/72a54f4b-d159-45fc-b778-9071cdb299b9",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009196",
+  "provenance_text": "Pierre Bonnard [1867-1947]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, March 1954.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3aedcb4-9d47-49ac-b1d8-10212d4818d5",
+      "party_type": "Person",
+      "full_name": "Pierre Bonnard",
+      "cited_name": "Bonnard, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-10-03",
+      "death_date": "1947-01-27",
+      "birth_place": "Fontenay-aux-Roses, France",
+      "death_place": "Cannet, France"
+    }
+  ]
+}

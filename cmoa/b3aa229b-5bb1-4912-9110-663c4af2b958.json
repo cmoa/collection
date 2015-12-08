@@ -1,0 +1,37 @@
+{
+  "title": "Westinghouse",
+  "creation_date": "block 1962/ impression 2008",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "2009.7",
+  "id": "cmoa:things/b3aa229b-5bb1-4912-9110-663c4af2b958",
+  "credit_line": "Charles J. Rosenbloom Fund and Japanese Prints Acquisition Fund",
+  "date_acquired": "2009-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.5,
+  "item_height": 54.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=77617",
+  "provenance_text": "Matsubara Naoko (artist), Oakville, Ontario, Canada\nsold directly to museum by artist",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9285b51-f897-4cc8-b8bc-778421478961",
+      "party_type": "Person",
+      "full_name": "Matsubara Naoko",
+      "cited_name": "Matsubara Naoko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

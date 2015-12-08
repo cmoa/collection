@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": null,
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching",
+  "accession_number": "50.23.6",
+  "id": "cmoa:things/9ed92e1d-48fc-4ce0-bc2b-880ca5866f60",
+  "credit_line": "Gift of Frederic N. Price",
+  "date_acquired": "1950-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.188,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008850",
+  "provenance_text": "Frederic N. Price, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114365&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0f3ed78-c1cf-41be-bfb2-2150d8c5e9d7",
+      "party_type": "Person",
+      "full_name": "Lauren Ford",
+      "cited_name": "Ford, Lauren",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1891-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

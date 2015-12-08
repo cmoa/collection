@@ -1,0 +1,49 @@
+{
+  "title": "Armchair",
+  "creation_date": "1928, designed 1927",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "nickel-plated steel and wool",
+  "accession_number": "2015.17",
+  "id": "cmoa:things/21b58099-9aa0-47ee-acee-39f4712cdb5e",
+  "credit_line": "Gift of Roberto Polo",
+  "date_acquired": "2015-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 20.5,
+  "item_height": 30.5,
+  "item_depth": 17.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98679",
+  "provenance_text": "Galerie Historismus, Brussels, Belgium, until May 7, 2015; gift to Carnegie Museum of Art, Pittsburgh, PA, May 7, 2015.",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/81997c99-1d76-4522-9ada-2b7ee2b2ac46",
+      "party_type": "Person",
+      "full_name": "Marcel-Louis Baugniet",
+      "cited_name": "Baugniet, Marcel-Louis",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1896-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0abf3dc0-5e92-41fe-9829-535edaf66adf",
+      "party_type": "Organization",
+      "full_name": "Les Anciennes Usines Annoye",
+      "cited_name": "Les Anciennes Usines Annoye",
+      "role": "manufacturer",
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

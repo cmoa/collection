@@ -1,0 +1,39 @@
+{
+  "title": "The Studio",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.26.1",
+  "id": "cmoa:things/546c91ed-c686-48a4-9bbe-85db409b7be4",
+  "credit_line": "Gift of Mr. and Mrs. Charles Zadok",
+  "date_acquired": "1957-10-24",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 25.0,
+  "item_height": 30.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010444",
+  "provenance_text": "Mr. And Mrs. Charles Zadok\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134739&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7bff4bc4-b904-4ac3-b188-647e92c300c6",
+      "party_type": "Person",
+      "full_name": "Alberto Giacometti",
+      "cited_name": "Giacometti, Alberto",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1901-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Borgonovo Val Tidone (Piacenza province, Emilia-Romagna, Italy)",
+      "death_place": "Chur (Graubünden, Switzerland)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Villefranche Sur Mer",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "43.7.6",
+  "id": "cmoa:things/94d33a46-2ad1-4e3b-ba6b-b02a87c999b1",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1943-11-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007480",
+  "provenance_text": "Gift of Charles J. Rosenbloom, Pittsburgh, PA, 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/86184769-05bd-4988-80ad-63c73851ad41",
+      "party_type": "Person",
+      "full_name": "Louis C. Rosenberg",
+      "cited_name": "Rosenberg, Louis C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Portland (Multnomah county, Oregon, United States)",
+      "death_place": null
+    }
+  ]
+}

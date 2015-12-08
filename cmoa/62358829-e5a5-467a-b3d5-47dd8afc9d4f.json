@@ -1,0 +1,39 @@
+{
+  "title": "Irises (Hanashôbu)",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.739",
+  "id": "cmoa:things/62358829-e5a5-467a-b3d5-47dd8afc9d4f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.063,
+  "item_height": 15.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028878",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35409&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283ce902-3cde-4277-8a2c-781ff8be6e1c",
+      "party_type": "Person",
+      "full_name": "Kasamatsu Shirô",
+      "cited_name": "Kasamatsu Shirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1898-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Tokyo",
+      "death_place": null
+    }
+  ]
+}

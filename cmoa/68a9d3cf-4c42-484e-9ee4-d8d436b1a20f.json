@@ -1,0 +1,39 @@
+{
+  "title": "Flowers",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.26",
+  "id": "cmoa:things/68a9d3cf-4c42-484e-9ee4-d8d436b1a20f",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.75,
+  "item_height": 29.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017494",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2eeb56f8-0360-4f20-9103-33827beebf9d",
+      "party_type": "Person",
+      "full_name": "Maurice de Vlaminck",
+      "cited_name": "Vlaminck, Maurice de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1876-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Rueil-la-Gadelière, Eure-et-Loir, France"
+    }
+  ]
+}

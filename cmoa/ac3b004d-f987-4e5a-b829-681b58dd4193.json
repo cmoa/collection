@@ -1,0 +1,39 @@
+{
+  "title": "Night in Auxerre, France",
+  "creation_date": null,
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "47.11.28",
+  "id": "cmoa:things/ac3b004d-f987-4e5a-b829-681b58dd4193",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1947-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008047",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until June 4, 1947; his gift to Museum, June 1947.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb7e13ea-3f6b-48dc-8897-145b87feaa3a",
+      "party_type": "Person",
+      "full_name": "Muirhead Bone",
+      "cited_name": "Bone, Muirhead",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1876-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Partick, Glasgow, Scotland",
+      "death_place": " Oxford (Oxfordshire, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.39",
+  "id": "cmoa:things/94c0012b-c33a-439a-8aa6-5d6b024c0ccb",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 65.125,
+  "item_height": 78.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011426",
+  "provenance_text": "Seligman Gallery, Seattle, Washington",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119769&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c277394f-e6cb-4a51-a6cf-5edf6bb4a274",
+      "party_type": "Person",
+      "full_name": "Mark Tobey",
+      "cited_name": "Tobey, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Centerville (Trempealeau county, Wisconsin, United States)",
+      "death_place": "Basel (Basel-Stadt, Switzerland)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mallards Away",
+  "creation_date": null,
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.142",
+  "id": "cmoa:things/899c7dd2-3297-4705-8b20-3df349061609",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012717",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107973&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72153cf3-5b28-4894-b700-9090393981c4",
+      "party_type": "Person",
+      "full_name": "J. D. Knap",
+      "cited_name": "Knap, J. D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1875-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

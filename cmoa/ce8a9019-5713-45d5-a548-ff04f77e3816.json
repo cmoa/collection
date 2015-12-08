@@ -1,0 +1,39 @@
+{
+  "title": "Break",
+  "creation_date": "c. 1979",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "acrylic, mixed media",
+  "accession_number": "80.3.1",
+  "id": "cmoa:things/ce8a9019-5713-45d5-a548-ff04f77e3816",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 70th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1980-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 26.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021138",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149750&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e4a42fc9-7702-4f8e-b0ec-77e0b528f025",
+      "party_type": "Person",
+      "full_name": "Michael G. Madigan",
+      "cited_name": "Madigan, Michael G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Ginza",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.709.5",
+  "id": "cmoa:things/ee40b09f-1a8c-4bb8-96ce-6c24523115fc",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028694",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from The Red Lantern Gallery, Kyoto, Japan, 2/29/1976.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b15e50-434a-40b5-8e7a-d6e8580acc48",
+      "party_type": "Person",
+      "full_name": "Kawakami Sumio",
+      "cited_name": "Kawakami Sumio",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Japan, Yokohama",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9f9ab97e-a4de-4a27-a483-a80194456f0d",
+      "party_type": "Person",
+      "full_name": "Uemura Masuo",
+      "cited_name": "Uemura Masuo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

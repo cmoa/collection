@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2193.A-B",
+  "id": "cmoa:things/b7556a7b-f98a-4c26-945a-348d0ac9b45a",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 5.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014389",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

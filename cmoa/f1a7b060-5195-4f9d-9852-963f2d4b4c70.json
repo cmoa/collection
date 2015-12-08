@@ -1,0 +1,39 @@
+{
+  "title": "Stretching Cat",
+  "creation_date": null,
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "linoleum cut on paper",
+  "accession_number": "46.3",
+  "id": "cmoa:things/f1a7b060-5195-4f9d-9852-963f2d4b4c70",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1946-01-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008003",
+  "provenance_text": "Julia Bloch",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76872&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8da82618-b1b6-476d-a1ef-97c321d8563e",
+      "party_type": "Person",
+      "full_name": "Julia Bloch",
+      "cited_name": "Bloch, Julia",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Willow Grove, PA"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Poussin's Birthday",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.29",
+  "id": "cmoa:things/a2eea531-07e6-4c7e-b6fe-946cf4d39dfe",
+  "credit_line": "Purchase: A. W. Mellon Acquistion Endowment Fund and gift of Thomas C. Harrell and Benjamin J. Dineen III",
+  "date_acquired": "1984-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 120.25,
+  "item_height": 85.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024665",
+  "provenance_text": "Patricia Hamilton, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29067&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bb40027b-7456-4aee-86c1-6fc9f9f2d0eb",
+      "party_type": "Person",
+      "full_name": "Richard Hennessy",
+      "cited_name": "Hennessy, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Rochester, NY",
+      "death_place": null
+    }
+  ]
+}

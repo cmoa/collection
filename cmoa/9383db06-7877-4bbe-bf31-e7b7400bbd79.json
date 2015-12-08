@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "graphite, pen and ink, and wash on paper",
+  "accession_number": "06.18.1",
+  "id": "cmoa:things/9383db06-7877-4bbe-bf31-e7b7400bbd79",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000167",
+  "provenance_text": "New York Cooperative Society; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84821&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10353&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b86e689-3081-41f3-ae8e-9ab7f367c621",
+      "party_type": "Person",
+      "full_name": "Ralph Albert Blakelock",
+      "cited_name": "Blakelock, Ralph Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1847-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "New York state",
+      "death_place": "Elizabethtown (Essex county, New York state, United States)"
+    }
+  ]
+}

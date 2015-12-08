@@ -1,0 +1,39 @@
+{
+  "title": "Model and Painter",
+  "creation_date": "c. 1916-1923",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.55",
+  "id": "cmoa:things/4de01bb8-2158-4961-907a-09276a1f6022",
+  "credit_line": "Gift of Mr. and Mrs. Charles C. Arensberg in memory of Charles F. C. Arensberg",
+  "date_acquired": "1986-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.5,
+  "item_height": 45.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026157",
+  "provenance_text": "The artist, until 1960; his nephew, Charles Covert Arensberg, Pittsburgh, 1961; Gift of Mr. and Mrs. Charles Covert Arensberg in memory of Charles F.C. Arensberg, 1986",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8064&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d06852e-fab7-4760-94ad-4467451d1ab1",
+      "party_type": "Person",
+      "full_name": "John Covert",
+      "cited_name": "Covert, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

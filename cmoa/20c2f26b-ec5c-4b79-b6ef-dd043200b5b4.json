@@ -1,0 +1,39 @@
+{
+  "title": "Shepherd with Staff",
+  "creation_date": "before 1875",
+  "creation_date_earliest": "1834-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "black chalk on lightly tinted holland paper.",
+  "accession_number": "61.8.1",
+  "id": "cmoa:things/20c2f26b-ec5c-4b79-b6ef-dd043200b5b4",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1961-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011481",
+  "provenance_text": "William  A. Schab Gallery, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99177&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29264da8-7fee-4ac1-8849-82ec39147f2e",
+      "party_type": "Person",
+      "full_name": "Jean François Millet",
+      "cited_name": "Millet, Jean F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1814-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Gruchy, nr Gréville, France",
+      "death_place": "Barbizon, France"
+    }
+  ]
+}

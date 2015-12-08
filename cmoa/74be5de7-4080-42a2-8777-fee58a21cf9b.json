@@ -1,0 +1,39 @@
+{
+  "title": "Drawing No. 7",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "63.13",
+  "id": "cmoa:things/74be5de7-4080-42a2-8777-fee58a21cf9b",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1963-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011621",
+  "provenance_text": "Allan Frumkin Galleries",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da609856-ab28-468f-b694-27e326e084f1",
+      "party_type": "Person",
+      "full_name": "Henri Matisse",
+      "cited_name": "Matisse, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1869-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Le Cateau-Cambrésis (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Nice (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

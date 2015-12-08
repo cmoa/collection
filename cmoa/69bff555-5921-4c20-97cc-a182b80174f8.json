@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "1758-1759",
+  "creation_date_earliest": "1758-01-01",
+  "creation_date_latest": "1759-01-01",
+  "medium": "sterling silver",
+  "accession_number": "78.36.11",
+  "id": "cmoa:things/69bff555-5921-4c20-97cc-a182b80174f8",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.125,
+  "item_height": 1.625,
+  "item_depth": 16.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019993",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4848&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcea473e-7300-4dd9-be6b-7a55a563f191",
+      "party_type": "Person",
+      "full_name": "Thomas Heming",
+      "cited_name": "Heming, Thomas",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1722-01-01",
+      "death_date": "1801-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Kiyomizu Temple in Moonlight",
+  "creation_date": "1928",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.449",
+  "id": "cmoa:things/4f44d579-b573-44d9-945d-e167319dd6bd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028230",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from W. H. Pinckard, Jr., Oakland, CA., 2/22/1984.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35900&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3bb322c-804e-4f5d-9b00-3ac44fdaf8c4",
+      "party_type": "Person",
+      "full_name": "Dômoto Inshô",
+      "cited_name": "Dômoto Inshô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Japan, Kyoto",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Amstel",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "etching on paper",
+  "accession_number": "18.39.1",
+  "id": "cmoa:things/d77ae2a0-07cb-40fc-8d84-997c89f0e908",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001827",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/70f6219c-37f0-4af0-b06c-b92c0bcaf94f",
+      "party_type": "Person",
+      "full_name": "James McBey",
+      "cited_name": "McBey, James",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1883-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Aberdeen (Aberdeen, Scotland, United Kingdom)",
+      "death_place": "Tanger (Tanger province, Al Maghrib)"
+    }
+  ]
+}

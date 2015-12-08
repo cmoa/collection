@@ -1,0 +1,51 @@
+{
+  "title": "Platter (the Signers Platter)",
+  "creation_date": "1875 (patented)",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.201",
+  "id": "cmoa:things/960b3c18-96e0-4043-8d6d-eb49c5ef977c",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.125,
+  "item_height": 1.5,
+  "item_depth": 9.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007826",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=950&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a30e2e27-0eae-4e69-bab8-c95e6a99f02d",
+      "party_type": "Person",
+      "full_name": "James C. Gill",
+      "cited_name": "Gill, James C.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f001c189-8e27-4ca6-a34a-639a4d78c063",
+      "party_type": "Organization",
+      "full_name": "Gillinder and Sons",
+      "cited_name": "Gillinder and Sons",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

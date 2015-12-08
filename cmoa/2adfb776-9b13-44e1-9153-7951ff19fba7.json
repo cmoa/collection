@@ -1,0 +1,39 @@
+{
+  "title": "Sunset, Coleman Hollow",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "76.55",
+  "id": "cmoa:things/2adfb776-9b13-44e1-9153-7951ff19fba7",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 23.75,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018178",
+  "provenance_text": "M. Knoedler and Co., London, 1936; Cecil Beaton, London, 1936; with M. Knoedler and Co., New York, as agent, 1963; Mr, and Mrs. James L. Winokur, Pittsburgh, 1964; gift to museum, 1976",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115369&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

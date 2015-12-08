@@ -1,0 +1,39 @@
+{
+  "title": "Untitled, 1969",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "india ink on paper",
+  "accession_number": "70.60",
+  "id": "cmoa:things/89b46289-49c9-4436-8d21-7d5b044e788b",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.25,
+  "item_height": 36.25,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015896",
+  "provenance_text": "Galerie Le Point Cardinal, Paris, France",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119473&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/48e285e1-ea80-4715-b6af-3c6c93fbbd37",
+      "party_type": "Person",
+      "full_name": "Henri Michaux",
+      "cited_name": "Michaux, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1899-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Namur (Namur province, Wallonia, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

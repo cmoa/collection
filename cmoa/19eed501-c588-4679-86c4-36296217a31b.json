@@ -1,0 +1,39 @@
+{
+  "title": "Monongahela Steel Mills",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.33.1",
+  "id": "cmoa:things/19eed501-c588-4679-86c4-36296217a31b",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 34.0,
+  "item_height": 29.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019949",
+  "provenance_text": "The artist, Rachel McClelland Sutton; gift to museum, October 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149769&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eb2ad323-8efb-4eae-ab00-84f248f3e507",
+      "party_type": "Person",
+      "full_name": "Rachel Sutton",
+      "cited_name": "Sutton, Rachel M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Civic Light Opera Crowd",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.6.24",
+  "id": "cmoa:things/90e3b16b-76e3-4ef7-9b8d-feaeecc36b1f",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023903",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7143&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fda7931-f3f0-420c-b738-9b9b3c76cb9f",
+      "party_type": "Person",
+      "full_name": "Harold Corsini",
+      "cited_name": "Corsini, Harold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "New York City, New York",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

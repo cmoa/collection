@@ -1,0 +1,39 @@
+{
+  "title": "Le Jeune Fille et la Mort (Death and the Maiden)",
+  "creation_date": "1854",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "cliché-verre",
+  "accession_number": "22.11.4",
+  "id": "cmoa:things/24a9aacf-94fa-488b-a898-1f313475d060",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-11-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004697",
+  "provenance_text": "Weyhe Gallery, 794 Lexington Avenue, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8252&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10546fd7-9bdd-4abe-894a-cd407fed41c9",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste-Camille Corot",
+      "cited_name": "Corot, Jean B.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1796-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Boy in backyard",
+  "creation_date": "c. 1993",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2009.29.2",
+  "id": "cmoa:things/a01af586-5363-4336-b8fb-1166bb680c3f",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2009-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 14.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80679",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94636&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4cd9dbf2-0dd8-42b1-90e9-e4047a226309",
+      "party_type": "Person",
+      "full_name": "Charlee Brodsky",
+      "cited_name": "Brodsky, Charlee",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

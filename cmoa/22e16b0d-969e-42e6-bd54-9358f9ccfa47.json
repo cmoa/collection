@@ -1,0 +1,39 @@
+{
+  "title": "Eliza, House Furnace, Skyline",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "89.5.2",
+  "id": "cmoa:things/22e16b0d-969e-42e6-bd54-9358f9ccfa47",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1989-04-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029309",
+  "provenance_text": " Mark Perrott, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/62a0763a-4caf-4e6a-b29c-bea9415d1ab6",
+      "party_type": "Person",
+      "full_name": "Mark Perrott",
+      "cited_name": "Perrott, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Rochester, PA",
+      "death_place": null
+    }
+  ]
+}

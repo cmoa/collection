@@ -1,0 +1,75 @@
+{
+  "title": "\"Warwick\" vase",
+  "creation_date": "1835",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "partially gilt silver",
+  "accession_number": "77.84.13",
+  "id": "cmoa:things/f4996d07-4229-4645-a0c9-ffd05082ce4c",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-02-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 11.25,
+  "item_depth": 12.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019120",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4640&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ba8a5b8a-2bdc-4edb-bafa-35e041699739",
+      "party_type": "Person",
+      "full_name": "William  Barnard",
+      "cited_name": "Barnard, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1910-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5eabe320-73f1-436d-b572-c0eea4d2c0d2",
+      "party_type": "Person",
+      "full_name": "Edward Barnard",
+      "cited_name": "Barnard, Edward",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1848-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/11c2aa48-083c-435a-9ce0-d01169148c3d",
+      "party_type": "Person",
+      "full_name": "Edward Barnard, Jr.",
+      "cited_name": "Barnard, Jr., Edward",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/612feacc-3515-4631-937b-422ee717f9b6",
+      "party_type": "Person",
+      "full_name": "John Barnard",
+      "cited_name": "Barnard, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

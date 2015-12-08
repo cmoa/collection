@@ -1,0 +1,51 @@
+{
+  "title": "Bank; First National Bank, Bridgeport, CT; [exterior perspective",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "92.1",
+  "id": "cmoa:things/f51e5880-d250-4b30-8903-339ef94cdc87",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031615",
+  "provenance_text": "Hillman-Gemini Antiques, NY, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13074&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c7d7f83-3c9b-4b16-b24b-82729bc6ed7c",
+      "party_type": "Person",
+      "full_name": "Joseph W. Northrop",
+      "cited_name": "Northrop, Joseph W.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/595580c2-4fb7-4019-8689-f9e3d33b5aa9",
+      "party_type": "Person",
+      "full_name": "Hughson Hawley",
+      "cited_name": "Hawley, Hughson",
+      "role": "perspectivist",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Brighton (England, United Kingdom)",
+      "death_place": "USA (probably)"
+    }
+  ]
+}

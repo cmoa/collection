@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "c. 1770",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "59.5.39",
+  "id": "cmoa:things/d333bf3d-1286-44b4-a760-8970e417520b",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 1.125,
+  "item_depth": 11.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011080",
+  "provenance_text": "Johanna K. W. Hailman",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4194&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/057fcca7-884a-4d14-b330-01736d92ce87",
+      "party_type": "Organization",
+      "full_name": "Ferniani Factory",
+      "cited_name": "Ferniani Factory",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1693-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

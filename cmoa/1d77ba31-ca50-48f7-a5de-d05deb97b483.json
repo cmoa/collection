@@ -1,0 +1,51 @@
+{
+  "title": "Fog chair",
+  "creation_date": "designed 1999, manufactured 2000",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "aluminum and stainless steel",
+  "accession_number": "2000.31",
+  "id": "cmoa:things/1d77ba31-ca50-48f7-a5de-d05deb97b483",
+  "credit_line": "Gift of Knoll, Inc.",
+  "date_acquired": "2000-06-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 31.75,
+  "item_depth": 24.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004033",
+  "provenance_text": "Knoll, Inc., New York, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=62113&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c1023d5-e381-411f-bc5a-4c1c90ab7448",
+      "party_type": "Person",
+      "full_name": "Frank Gehry",
+      "cited_name": "Gehry, Frank",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Toronto, Canada",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e1938164-a00e-4d3a-9232-d219b58dc211",
+      "party_type": "Organization",
+      "full_name": "Knoll Inc.",
+      "cited_name": "Knoll Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

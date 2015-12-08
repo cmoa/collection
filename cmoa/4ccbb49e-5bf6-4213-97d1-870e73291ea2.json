@@ -1,0 +1,51 @@
+{
+  "title": "Sir William Robinson",
+  "creation_date": "c. 1770-1790",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.25",
+  "id": "cmoa:things/4ccbb49e-5bf6-4213-97d1-870e73291ea2",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34363",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39297&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2502da4-0653-4daf-87a7-aa8217e9027a",
+      "party_type": "Person",
+      "full_name": "James Watson",
+      "cited_name": "Watson, James",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1740-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4779cf8c-b2c1-4167-a8d4-41aacd02f353",
+      "party_type": "Person",
+      "full_name": "Reverend Matthew William Peters",
+      "cited_name": "Peters, Reverend Matthew William",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1742-01-01",
+      "death_date": "1814-03-20",
+      "birth_place": "Freshwater, Isle of Wight",
+      "death_place": "Brasted Place, Kent, England"
+    }
+  ]
+}

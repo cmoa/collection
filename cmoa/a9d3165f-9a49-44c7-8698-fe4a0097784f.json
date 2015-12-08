@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "colored glass coated with chemicals                             t to reveal",
+  "accession_number": "81.17.2",
+  "id": "cmoa:things/a9d3165f-9a49-44c7-8698-fe4a0097784f",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1981-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 13.125,
+  "item_depth": 0.0,
+  "item_diameter": 6.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021717",
+  "provenance_text": "Heller Gallery, NY, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=667&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/63c76851-fbd2-4008-ab77-4142437750f0",
+      "party_type": "Person",
+      "full_name": "Jon Kuhn",
+      "cited_name": "Kuhn, Jon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "USA, Illinois, Chicago",
+      "death_place": null
+    }
+  ]
+}

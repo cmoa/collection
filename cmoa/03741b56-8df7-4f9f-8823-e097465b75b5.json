@@ -1,0 +1,51 @@
+{
+  "title": "Bottle",
+  "creation_date": "c. 1918",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "glass",
+  "accession_number": "94.251.5.A-B",
+  "id": "cmoa:things/03741b56-8df7-4f9f-8823-e097465b75b5",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1995-01-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.312,
+  "item_depth": 0.0,
+  "item_diameter": 3.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035143",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fddfa2c-86db-4f34-a60d-6555814808b1",
+      "party_type": "Person",
+      "full_name": "Otto Prutscher",
+      "cited_name": "Prutscher, Otto",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1880-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/068353ff-0c8a-4a50-9500-7c242a6f5913",
+      "party_type": "Organization",
+      "full_name": "Carl Schappel",
+      "cited_name": "Schappel, Carl",
+      "role": "manufacturer",
+      "nationality": "Czech",
+      "birth_date": "1857-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

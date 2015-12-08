@@ -1,0 +1,51 @@
+{
+  "title": "Bowl",
+  "creation_date": "1779",
+  "creation_date_earliest": "1779-01-01",
+  "creation_date_latest": "1779-01-01",
+  "medium": "soft paste porcelain, gilt",
+  "accession_number": "70.32.1363",
+  "id": "cmoa:things/ab049207-9bd2-4012-bb5a-3f0729d65d25",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.625,
+  "item_depth": 0.0,
+  "item_diameter": 9.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013466",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cf405e1a-f2e6-4dfc-bbcb-428f87ed3260",
+      "party_type": "Person",
+      "full_name": "Apprien-Julian de Choisy",
+      "cited_name": "Choisy, Apprien-Julian de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": "1812-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Street in Pontoise (Rue de Beaujour, Pontoise)",
+  "creation_date": "1872",
+  "creation_date_earliest": "1872-01-01",
+  "creation_date_latest": "1872-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.31",
+  "id": "cmoa:things/3bee590e-5830-45de-8201-023dd1f18433",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife and family",
+  "date_acquired": "1965-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 21.75,
+  "item_height": 18.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011949",
+  "provenance_text": "Camille Pissarro [1830-1903], France. Alfred Nunès, the artist's cousin, Paris, France, until sometime in or before 1894 [1]; estate of Alfred Nunès, Paris, France, until April 1894; sold at Hotel Drouot, Paris, France, on April 16, 1894, no. 39 [2]; Pierre Durand-Ruel, Paris, France [3]; Philippe Durand-Ruel, Paris, France [3]; sold to Wildenstein & Co., Inc., New York, NY on February 20, 1964; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, October 1965. \n\nNotes: \n[1]. Since the 1894 sale refers to \"Succession de M.A.N.\"(unes), Nunès died in or before 1894. \n[2]. Sold for 900 francs.  In Pissarro: \"Critical Catalogue of Paintings\" by Joachim Pissarro and Claire Durand-Ruel Snollaerts, vol. 2, 2005, (no. 245), the buyer at the Nunès sale is given as Durand-Ruel; however, neither of the individual Durand-Ruel collections are mentioned (see note below).  \n[3]. Provenance given by Wildenstein at the time of purchase; see curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19635&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1dd7099-a758-4e92-b2e1-2d9532369bcd",
+      "party_type": "Person",
+      "full_name": "Camille Pissarro",
+      "cited_name": "Pissarro, Camille",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1830-07-10",
+      "death_date": "1903-11-12",
+      "birth_place": "Charlotte Amalie, St. Thomas, Virgin Islands (Danish colony at the time)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

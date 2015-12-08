@@ -1,0 +1,39 @@
+{
+  "title": "Still Life with Oysters",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.11",
+  "id": "cmoa:things/794498d5-4219-4c16-9b7c-19f57b3c49c9",
+  "credit_line": "Gift of Erwin D. Swann",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.5,
+  "item_height": 49.375,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010343",
+  "provenance_text": "Fine Art Associates, New York, by 1956; Irwin D. Swann, New York, 1957; Gift of Irwin D. Swann, 1957",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17985&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/49c58b42-25e1-4ab8-9228-50595580d15f",
+      "party_type": "Person",
+      "full_name": "Arbit Blatas",
+      "cited_name": "Blatas, Arbit",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Kaunas (Kaunas special city, Lithuania)",
+      "death_place": "Manhattan (New York state, United States)"
+    }
+  ]
+}

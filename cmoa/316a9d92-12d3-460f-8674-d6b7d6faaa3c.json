@@ -1,0 +1,39 @@
+{
+  "title": "\"Make Haste\" platter",
+  "creation_date": "1878",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "earthenware",
+  "accession_number": "2005.59",
+  "id": "cmoa:things/316a9d92-12d3-460f-8674-d6b7d6faaa3c",
+  "credit_line": "Mary Murtland Wurts Fund",
+  "date_acquired": "2005-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 18.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16100",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37438&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d75e71c7-fd07-496d-b1ca-ea8bd96186ac",
+      "party_type": "Person",
+      "full_name": "John Bennett",
+      "cited_name": "Bennett, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "England",
+      "death_place": "West Orange, New Jersey"
+    }
+  ]
+}

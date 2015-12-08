@@ -1,0 +1,39 @@
+{
+  "title": "Cordelia Judd Penniman",
+  "creation_date": "1851-1854",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "marble",
+  "accession_number": "87.10.2",
+  "id": "cmoa:things/72aa0e4e-af06-4099-84aa-26525febb245",
+  "credit_line": "Purchase: gift of the Fellows of the Museum of Art",
+  "date_acquired": "1987-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 20.0,
+  "item_height": 29.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026268",
+  "provenance_text": "James T. Penniman [-1876], New York, after 1854. Richard Gilbert Auctioneer, Garrison, NY, 1979; Post Road Gallery, Larchmont, NY, 1979; Mimi d'Bloch as agent, New York, by 1986; purchased by Carnegie Museum of Art, Pittsburgh, PA, 1987.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116137&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e2ed704-3b8f-4f22-9de9-d5b0ee6a961e",
+      "party_type": "Person",
+      "full_name": "Hiram Powers",
+      "cited_name": "Powers, Hiram",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1805-01-01",
+      "death_date": "1873-01-01",
+      "birth_place": "Woodstock, VT",
+      "death_place": "Florence, Italy"
+    }
+  ]
+}

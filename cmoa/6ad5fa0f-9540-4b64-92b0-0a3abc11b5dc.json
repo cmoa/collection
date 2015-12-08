@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of a Gentleman",
+  "creation_date": "1775",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "watercolor on ivory",
+  "accession_number": "27.10.225",
+  "id": "cmoa:things/6ad5fa0f-9540-4b64-92b0-0a3abc11b5dc",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 1.5,
+  "item_depth": 0.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005665",
+  "provenance_text": "W. E. Hurcomb, London, England; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, August 28, 1923; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73676&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a20095f-7117-4873-8cd1-82d9b534bc36",
+      "party_type": "Person",
+      "full_name": "Penelope Carwardine",
+      "cited_name": "Carwardine, Penelope",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1730-01-01",
+      "death_date": "1801-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

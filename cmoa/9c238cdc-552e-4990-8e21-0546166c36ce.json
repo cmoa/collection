@@ -1,0 +1,57 @@
+{
+  "title": "Table",
+  "creation_date": "c. 1876",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "ebonized oak, pine, and beech",
+  "accession_number": "85.35",
+  "id": "cmoa:things/9c238cdc-552e-4990-8e21-0546166c36ce",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 39.0,
+  "item_height": 28.875,
+  "item_depth": 38.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025525",
+  "provenance_text": "Margot Johnson, Inc., NY, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96813&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96817&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eaaecb7e-82d7-4c06-a0de-5bcd2401e319",
+      "party_type": "Person",
+      "full_name": "Edward William Godwin",
+      "cited_name": "Godwin, Edward William",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1833-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Bristol (Bristol, England, United Kingdom)",
+      "death_place": "Westminster (London, Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/5eebeb2e-f8e0-4b51-a01c-c9885f068682",
+      "party_type": "Person",
+      "full_name": "William Watt",
+      "cited_name": "Watt, William",
+      "role": "maker",
+      "nationality": "British",
+      "birth_date": "1868-01-01",
+      "death_date": "1885-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

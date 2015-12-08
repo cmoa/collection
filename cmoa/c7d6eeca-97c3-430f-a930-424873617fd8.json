@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1960",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "84.45",
+  "id": "cmoa:things/c7d6eeca-97c3-430f-a930-424873617fd8",
+  "credit_line": "Gift of Mr. and Mrs. Harry P. Blum",
+  "date_acquired": "1984-06-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 7.687,
+  "item_depth": 0.0,
+  "item_diameter": 3.688,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024903",
+  "provenance_text": "Gift of Mr. and Mrs. Harry P. Blum, Pittsburgh, PA, 1984.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4281&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5ffb7ad2-2cfe-4901-905c-c05b043136c6",
+      "party_type": "Person",
+      "full_name": "Bernard Leach",
+      "cited_name": "Leach, Bernard",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1887-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Hong Kong",
+      "death_place": "St. Ives, Cornwall, England"
+    }
+  ]
+}

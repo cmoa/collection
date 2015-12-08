@@ -1,0 +1,51 @@
+{
+  "title": "Silver Goblet",
+  "creation_date": "c. 1774",
+  "creation_date_earliest": "1769-01-01",
+  "creation_date_latest": "1779-01-01",
+  "medium": "metalwork silver, sterling standard",
+  "accession_number": "22.1.14",
+  "id": "cmoa:things/710e4d2d-b01c-4cfc-8a91-4eac1057c0e6",
+  "credit_line": "Gift of Virginia Hays Osburn",
+  "date_acquired": "1922-02-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.25,
+  "item_depth": 0.0,
+  "item_diameter": 3.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=47",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5493&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e23614d5-9efb-4d40-aeac-ab3bda89e324",
+      "party_type": "Person",
+      "full_name": "Charles Aldridge",
+      "cited_name": "Aldridge, Charles",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d837065b-683c-41ba-b1dd-b32fec0f1f22",
+      "party_type": "Person",
+      "full_name": "Henry Green",
+      "cited_name": "Green, Henry",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

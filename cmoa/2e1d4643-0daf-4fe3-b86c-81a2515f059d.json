@@ -1,0 +1,39 @@
+{
+  "title": "Painting Relief January 1966",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "aluminum, perspex, oil on canvas",
+  "accession_number": "68.3",
+  "id": "cmoa:things/2e1d4643-0daf-4fe3-b86c-81a2515f059d",
+  "credit_line": "William Frew Memorial Purchase Prize",
+  "date_acquired": "1968-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 58.0,
+  "item_height": 62.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012453",
+  "provenance_text": "1967 Pittsburgh International Exhibition",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149746&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a26ca703-f813-459d-bfa9-0222d121ed02",
+      "party_type": "Person",
+      "full_name": "Richard Lin",
+      "cited_name": "Lin, Richard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1933-01-01",
+      "death_date": null,
+      "birth_place": "Formosa, present-day Taiwan",
+      "death_place": null
+    }
+  ]
+}

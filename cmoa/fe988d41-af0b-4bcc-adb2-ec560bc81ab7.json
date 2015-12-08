@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "Western Zhou Dynasty (1027-711 BCE), 10th century BCE",
+  "creation_date_earliest": "-0999-01-10",
+  "creation_date_latest": "-0900-01-10",
+  "medium": "earthenware",
+  "accession_number": "73.48.2",
+  "id": "cmoa:things/fe988d41-af0b-4bcc-adb2-ec560bc81ab7",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 0.0,
+  "item_height": 4.5,
+  "item_depth": 0.0,
+  "item_diameter": 6.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016769",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4074&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d8600d0-029b-4d27-941b-3d3b66d11138",
+      "party_type": "Person",
+      "full_name": "unknown Chinese, Henan province",
+      "cited_name": "unknown Chinese, Henan province",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

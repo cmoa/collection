@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh, Allegheny, and Birmingham, 1871",
+  "creation_date": "1871",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1871-01-01",
+  "medium": "color lithograph",
+  "accession_number": "69.6",
+  "id": "cmoa:things/4ac1270a-eb22-4837-b36d-468eb36d1d3e",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1969-04-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 44.5,
+  "item_height": 20.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012993",
+  "provenance_text": "Gift of Mr. and Mrs. Charles J. Rosenbloom, Pittsburgh, PA, 1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19571&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66d12a6a-a926-4a05-b6f3-5c0ba9a0a4d7",
+      "party_type": "Person",
+      "full_name": "Otto Krebs",
+      "cited_name": "Krebs, Otto",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1832-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

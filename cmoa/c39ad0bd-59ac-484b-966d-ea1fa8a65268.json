@@ -1,0 +1,42 @@
+{
+  "title": "Princess Amelia",
+  "creation_date": "1811",
+  "creation_date_earliest": "1811-01-01",
+  "creation_date_latest": "1811-01-01",
+  "medium": "line engraving with stipple",
+  "accession_number": "85.39",
+  "id": "cmoa:things/c39ad0bd-59ac-484b-966d-ea1fa8a65268",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1985-10-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025533",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105004&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105005&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c012debf-c849-419f-8d5a-485ecbacb353",
+      "party_type": "Person",
+      "full_name": "John Samuel Agar",
+      "cited_name": "Agar, John Samuel",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1858-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

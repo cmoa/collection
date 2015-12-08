@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Isabella de' Medici",
+  "creation_date": "c. 1570-1574",
+  "creation_date_earliest": "1569-12-22",
+  "creation_date_latest": "1573-12-22",
+  "medium": "oil on canvas (transferred from panel)",
+  "accession_number": "78.10.2",
+  "id": "cmoa:things/ecd53822-f165-46f4-9152-1b04cce344e2",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 23.5,
+  "item_height": 30.625,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019240",
+  "provenance_text": "Unknown Florentine. Unknown collector, England, 1800? until 1857? [1]; Possibly Miss Rogers, London, in 1857 [2]; Collis P. Huntington [1821-1900], New York, NY, until 1900; by descent to Arabella D. Huntington, his widow [1851-1924], New York, NY, 1900 until 1924 [3]; by descent to Archer Milton Huntington [1870-1955], New York, NY, 1924 until 1925 [4]; bequest to Metropolitan Museum of Art [1870-], New York, 1925 [5]; sold at American Art Galleries, New York, November 20, 1925, no. 106; Arthur E. Braun [-1976], Pittsburgh, until 1976. By descent to Mrs. Paul B. Ernst, his daughter, Pittsburgh, 1978 [6]; gift to Museum, in 1978. \nNOTES:1. In England by the mid 19th century when restored by F. Leedham who was active in London c.1830-1860. 2. Waagen II p. 269. \"Agnolo Bronzino. Portrait of Leonora di Toledo, wife of Cosimo I., Grand Duke of Tuscany; half the size of life. An admirable work, distinguished from most of the pictures by this master by the transparency and warmth of the flesh tones.\" 3. Collis P. Huntington passed life interest of this work to Arabella, his second wife, upon his death. Arabella  married Henry E. Huntington [1850-1927], who was the nephew of Collis P. Huntington, in 1913. She is referred to as \"Mrs. Henry E. Huntington\" in documents after 1913.  4. Although life interest in this work was transfered to Archer Huntington from Arabella Huntington after her death, he terminated his life interest in 1925.  5. This was the bequest of Collis P. Huntington, but he gave life interest to his wife and then subsequently her son, before Archer terminated his life interest and gave the work in the Metropolitan. Arabella was a prolific collector, and at her death, this work, along with many others, were given by her son to the Metropolitan Museum.  This was Metropolitan Museum  accession number 25.110.131.  6. Her full name is Elizabeth Braun Ernst.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=130174&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e6320f5-ad06-4ed1-b2a8-5d7b9adf0dcd",
+      "party_type": "Person",
+      "full_name": "unknown Florentine",
+      "cited_name": "unknown Florentine",
+      "role": "circle of",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/94521ab6-cbe3-432f-8097-01c20ec5f1cf",
+      "party_type": "Person",
+      "full_name": "Alessandro Allori",
+      "cited_name": "Allori, Alessandro",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1535-01-01",
+      "death_date": "1607-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Florence (Firenze province, Tuscany, Italy)"
+    }
+  ]
+}

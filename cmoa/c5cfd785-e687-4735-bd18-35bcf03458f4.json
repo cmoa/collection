@@ -1,0 +1,39 @@
+{
+  "title": "Hazelwood",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "mixed media",
+  "accession_number": "83.54",
+  "id": "cmoa:things/c5cfd785-e687-4735-bd18-35bcf03458f4",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 73rd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1983-10-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.688,
+  "item_height": 30.75,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023846",
+  "provenance_text": "The artist, Robert Qualters, via the 73rd Associated Artists of Pittsburgh Exhibition, Pittsburgh, October 1983",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e20869b2-8670-4c3f-88eb-96dc960c21b9",
+      "party_type": "Person",
+      "full_name": "Robert Qualters",
+      "cited_name": "Qualters, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

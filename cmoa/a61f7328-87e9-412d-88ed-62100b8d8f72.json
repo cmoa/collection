@@ -1,0 +1,39 @@
+{
+  "title": "Death of Mercury",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "bronze relief",
+  "accession_number": "61.32",
+  "id": "cmoa:things/a61f7328-87e9-412d-88ed-62100b8d8f72",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.375,
+  "item_height": 21.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011418",
+  "provenance_text": "Acquired from the artist Xavier Corbero, Barcelona, Spain",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149665&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f008ffc-c61c-4dbf-b50e-e8f10f9ca8ac",
+      "party_type": "Person",
+      "full_name": "Xavier Corberó",
+      "cited_name": "Corberó, Xavier",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Barcelona, Spain",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Musician",
+  "creation_date": "1763",
+  "creation_date_earliest": "1763-01-01",
+  "creation_date_latest": "1763-01-01",
+  "medium": "terracotta",
+  "accession_number": "68.33.2",
+  "id": "cmoa:things/1e59842e-db1f-456b-a229-ad3c32bddab3",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1968-10-16",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 7.25,
+  "item_height": 18.75,
+  "item_depth": 6.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012441",
+  "provenance_text": "Clodion [1738-1814]. Stroganoff Family, Saint Petersburg, Russia, until 1917 [1]; Union of Soviet Socialist Republics, Saint Petersburg, Russia, 1917 until 1931; (Rudolph Lepke's Auctions-House, Berlin, Germany, on May 13, 1931, lot 229) [2]; Thelma Chrysler Foy [1902-1957], until 1957; Estate of Thelma Chrysler Foy, 1957 until March 22, 1959; (Parke-Bernet Galleries, New York, NY, on March 22, 1959, lot 670, illustrated) [3]; (French & Company, Inc., May 22, 1959 until November 1968); (sold at Parke-Bernet Galleries, New York, NY, on November 14, 1968, lot 135, illustrated); purchased by Museum, 1968. \nNOTES: [1] The name of this family is recorded as \"Stroganoff\" in French and as \"Stroganov\" in Russian. The exact owner of this work is unclear, however we know the work was in the collection of the Stroganoff family from the catalog of the sale of the collection in 1931. Following the Russian Revolution in 1917, many private art collections, including that of the Stroganoff family, were nationalized. The Stroganoff Palace is now part of the State Russian Museum. [2] This sale entitled \"Sammlung Stroganoff\", with this work sold as one of a pair listed as \"Zwei Terrakottastatuetten\". The sale is being listed as \"Im auftrag der handelsvertretung der union der sozialistischen sowjet-republiken\". [3] Sale entitled \" French modern paintings & drawings, eighteenth century French furniture, marble and terra cotta sculptures, bronze doré objects of art ...Collected by the late Thelma Chrysler Foy\", this work listed as  \"Nymphe et Vestale\" on page 94.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2166&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d31e9a9-d345-479a-bf36-70f7dba3a0d2",
+      "party_type": "Person",
+      "full_name": "Clodion",
+      "cited_name": "Clodion",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1738-01-01",
+      "death_date": "1814-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

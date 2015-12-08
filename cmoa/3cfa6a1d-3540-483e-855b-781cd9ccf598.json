@@ -1,0 +1,39 @@
+{
+  "title": "Cafe",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.1",
+  "id": "cmoa:things/3cfa6a1d-3540-483e-855b-781cd9ccf598",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 14.0,
+  "item_depth": 16.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=71001",
+  "provenance_text": "Purchased from Habatat Gallery, Michigan 4/24/91",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70654&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/14323b0c-9aa0-432c-90c0-4afc1f491962",
+      "party_type": "Person",
+      "full_name": "Emily Brock",
+      "cited_name": "Brock, Emily",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

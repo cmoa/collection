@@ -1,0 +1,42 @@
+{
+  "title": "Crossan Country Home on the Allegheny River (near Verona)",
+  "creation_date": "1865",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1998.30",
+  "id": "cmoa:things/8b2f83c8-6b2d-48fc-9cc1-9074cb38a827",
+  "credit_line": "Gift of Mrs. Virginia Witherow Ahlbrandt",
+  "date_acquired": "1998-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 50.125,
+  "item_height": 28.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003731",
+  "provenance_text": "Dorothy Dilworth Witheroe, by 1998; by descent to Virginia Witheroe Ahlbrandt, Fox Chapel, PA, by 1998; gift to Carnegie Museum of Art, Pittsburgh, PA, April 1998.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37488&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=207&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f71ff300-d7c1-4a47-9eb3-d3b347e90bf5",
+      "party_type": "Person",
+      "full_name": "William C. Wall",
+      "cited_name": "Wall, William C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1810-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "England, Oxford",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Stole",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "linen and cotton",
+  "accession_number": "79.14.2",
+  "id": "cmoa:things/56f6e757-3f9b-468e-86c0-7a9e465cdb02",
+  "credit_line": "Gift of Mrs. Joel Spear, Jr. and Mrs. Alan G. Lehman in memory of their mother",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 113.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020200",
+  "provenance_text": "Mrs. Alan G. Lehman And Mrs. Joel Spear, Jr.",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10110&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8403e000-5013-4a76-9eee-b87cb971f09a",
+      "party_type": "Person",
+      "full_name": "unknown Flemish",
+      "cited_name": "unknown Flemish",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

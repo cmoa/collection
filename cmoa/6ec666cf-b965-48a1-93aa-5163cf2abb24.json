@@ -1,0 +1,54 @@
+{
+  "title": "Mexico Vase",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "glass",
+  "accession_number": "2009.54",
+  "id": "cmoa:things/6ec666cf-b965-48a1-93aa-5163cf2abb24",
+  "credit_line": "Gift of Sarah Nichols in honor of Richard Armstrong",
+  "date_acquired": "2009-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 0.0,
+  "item_height": 13.625,
+  "item_depth": 0.0,
+  "item_diameter": 5.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=87704",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99591&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99587&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad31827a-b14d-42ff-a923-a9928b1cebf7",
+      "party_type": "Person",
+      "full_name": "Toni Zuccheri",
+      "cited_name": "Zuccheri, Toni",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1937-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c5d08c0-e7dd-4e76-a08d-7f702956c789",
+      "party_type": "Organization",
+      "full_name": "Venini & C.",
+      "cited_name": "Venini & C.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1929-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Question and Answer",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "forged iron",
+  "accession_number": "55.10",
+  "id": "cmoa:things/9a844b32-0396-4eb6-9f9c-c41e784a4fc9",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 57.0,
+  "item_height": 28.0,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009365",
+  "provenance_text": "G. David Thompson",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126047&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a826d799-df37-41ba-8320-524028649d84",
+      "party_type": "Person",
+      "full_name": "David Smith",
+      "cited_name": "Smith, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Decatur (Adams county, Indiana, United States)",
+      "death_place": "Bennington (Bennington county, Vermont, United States)"
+    }
+  ]
+}

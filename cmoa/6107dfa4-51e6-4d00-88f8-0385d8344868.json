@@ -1,0 +1,39 @@
+{
+  "title": "The Grey Cloak",
+  "creation_date": null,
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.7.32",
+  "id": "cmoa:things/6107dfa4-51e6-4d00-88f8-0385d8344868",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-02-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 15.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025135",
+  "provenance_text": "Carnegie Library of Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96933&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d7cc2de-1c66-460f-a766-474f86538469",
+      "party_type": "Person",
+      "full_name": "Hew Charles Torrance",
+      "cited_name": "Torrance, Hew C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Scotland",
+      "death_place": null
+    }
+  ]
+}

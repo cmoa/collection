@@ -1,0 +1,39 @@
+{
+  "title": "Hugues de Lionne",
+  "creation_date": "1655",
+  "creation_date_earliest": "1655-01-01",
+  "creation_date_latest": "1655-01-01",
+  "medium": "engraving",
+  "accession_number": "24.14.4",
+  "id": "cmoa:things/4b5000e1-292a-4081-bd26-9703dbe81b34",
+  "credit_line": "Purchase",
+  "date_acquired": "1924-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.938,
+  "item_height": 6.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005031",
+  "provenance_text": "Ehrich Galleries, 707 Fifth Ave., New York City, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108348&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

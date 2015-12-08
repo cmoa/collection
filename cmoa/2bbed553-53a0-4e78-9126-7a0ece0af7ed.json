@@ -1,0 +1,39 @@
+{
+  "title": "Le General Rossignol",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "ink and wash on wove paper",
+  "accession_number": "54.34.12",
+  "id": "cmoa:things/2bbed553-53a0-4e78-9126-7a0ece0af7ed",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-10-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009316",
+  "provenance_text": "Edouard Vuillard [1868-1940]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, October 1954 [1]. \nNOTES:1. Updated by CGK August 2012.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99529&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbe8bcac-78aa-4681-8d9e-2bd63de3c8a8",
+      "party_type": "Person",
+      "full_name": "Edouard Vuillard",
+      "cited_name": "Vuillard, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1868-11-11",
+      "death_date": "1940-06-21",
+      "birth_place": "Cuiseaux (Saône-et-Loire, Burgundy region, France)",
+      "death_place": "Baule, la (Loire-Atlantique, Pays de la Loire, France)"
+    }
+  ]
+}

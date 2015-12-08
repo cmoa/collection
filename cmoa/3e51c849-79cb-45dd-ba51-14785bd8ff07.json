@@ -1,0 +1,51 @@
+{
+  "title": "Alexander Entering Babylon in Triumph",
+  "creation_date": "late 17th century",
+  "creation_date_earliest": "1099-12-26",
+  "creation_date_latest": "1198-12-25",
+  "medium": "wool",
+  "accession_number": "55.11",
+  "id": "cmoa:things/3e51c849-79cb-45dd-ba51-14785bd8ff07",
+  "credit_line": "Gift of David S. Goldhirsch",
+  "date_acquired": "1955-02-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 160.0,
+  "item_height": 288.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009366",
+  "provenance_text": "Agren, Lehman, and Company, NY, New York",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=44165&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de3a25f1-a693-4730-82bd-2be0fb4261d7",
+      "party_type": "Person",
+      "full_name": "Charles Le Brun",
+      "cited_name": "Le Brun, Charles",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1619-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/abcbc43d-e66b-48d6-83c2-0f88d28b3849",
+      "party_type": "Person",
+      "full_name": "Jan Frans van den Hecke",
+      "cited_name": "van den Hecke, Jan Frans",
+      "role": "workshop of",
+      "nationality": "Flemish",
+      "birth_date": null,
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

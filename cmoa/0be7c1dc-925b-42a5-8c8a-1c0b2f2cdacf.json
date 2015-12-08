@@ -1,0 +1,37 @@
+{
+  "title": "Mosaic",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "collage",
+  "accession_number": "60.22",
+  "id": "cmoa:things/0be7c1dc-925b-42a5-8c8a-1c0b2f2cdacf",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 50th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1960-03-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.188,
+  "item_height": 30.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011170",
+  "provenance_text": "The Artist via 50th Annual Associated Artists of Pittsburgh Exhibition Purchase Prize",
+  "classification": "collages",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e67b77af-65c6-45b1-a394-0daada718272",
+      "party_type": "Person",
+      "full_name": "Gertrude Temeles Half",
+      "cited_name": "Half, Gertrude T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

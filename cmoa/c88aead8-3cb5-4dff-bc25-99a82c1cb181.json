@@ -1,0 +1,39 @@
+{
+  "title": "A Capriccio of Rome with an Imaginary View of the Campidoglio",
+  "creation_date": "1769",
+  "creation_date_earliest": "1769-01-01",
+  "creation_date_latest": "1769-01-01",
+  "medium": "red chalk",
+  "accession_number": "79.38",
+  "id": "cmoa:things/c88aead8-3cb5-4dff-bc25-99a82c1cb181",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1979-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.5,
+  "item_height": 24.5,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020328",
+  "provenance_text": "Source: Jean-Pierre Selz, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3501&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd2e30c6-afd8-4985-aed5-9cdabda1c599",
+      "party_type": "Person",
+      "full_name": "Hubert Robert",
+      "cited_name": "Robert, Hubert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1733-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

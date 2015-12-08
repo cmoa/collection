@@ -1,0 +1,39 @@
+{
+  "title": "Well bucket",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "oribe ware",
+  "accession_number": "88.43.2.2",
+  "id": "cmoa:things/846e5bc3-634a-40f4-aa06-d557b2ec70d7",
+  "credit_line": "Gift of Roger Edwards",
+  "date_acquired": "1989-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.5,
+  "item_height": 5.75,
+  "item_depth": 4.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026554",
+  "provenance_text": "Roger Edwards, San Francisco, CA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2224&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

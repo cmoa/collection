@@ -1,0 +1,39 @@
+{
+  "title": "Great Triptych",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "79.22.2.A-.C",
+  "id": "cmoa:things/df11737b-9c3b-4892-b6e9-ccdd9090e2df",
+  "credit_line": "Gift of Dr. and Mrs. Raymond W. Goldblum to honor Leon A. Arkus",
+  "date_acquired": "1979-10-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 121.0,
+  "item_height": 60.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020265",
+  "provenance_text": "Dr. And Mrs. Raymond W. Goldblum, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100247&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0db928ea-925e-4a19-81e1-e84e5dc25e0c",
+      "party_type": "Person",
+      "full_name": "Jan Müller",
+      "cited_name": "Müller, Jan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Hamburg (Hamburg state, Germany)",
+      "death_place": "Provincetown (Barnstable county, Massachusetts, United States)"
+    }
+  ]
+}

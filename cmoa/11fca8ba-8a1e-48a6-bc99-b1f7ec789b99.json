@@ -1,0 +1,37 @@
+{
+  "title": "Goblet, Wine",
+  "creation_date": "1820-1840",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "glass",
+  "accession_number": "52.2.3",
+  "id": "cmoa:things/11fca8ba-8a1e-48a6-bc99-b1f7ec789b99",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1952-12-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.875,
+  "item_depth": 0.0,
+  "item_diameter": 2.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009087",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b591431-d364-4d0c-9bc1-0bf94e6b67ad",
+      "party_type": "Organization",
+      "full_name": "Bakewell",
+      "cited_name": "Bakewell",
+      "role": "attributed manufacturer",
+      "nationality": "American",
+      "birth_date": "1808-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Pen knife",
+  "creation_date": "designed 1987, manufactured 1997",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "steel, aluminum",
+  "accession_number": "1998.21.2",
+  "id": "cmoa:things/6cea1cad-a647-4a5e-9ee6-bb5ee0fa2558",
+  "credit_line": "Gift of Sarl Forge De Laguiole",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.75,
+  "item_height": 8.125,
+  "item_depth": 0.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003617",
+  "provenance_text": "Sarl Forge, Laguiole, France",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5509&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5508&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/77aafb69-bc00-4026-b627-30fa9c602fae",
+      "party_type": "Organization",
+      "full_name": "Forge De Laguiole",
+      "cited_name": "Forge De Laguiole",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1800-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Figure)",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on linen",
+  "accession_number": "87.13",
+  "id": "cmoa:things/47d77561-0e35-40c1-a5fb-6819d3149007",
+  "credit_line": "The Tillie and Alexander C. Speyer Fund for Contemporary Art",
+  "date_acquired": "1987-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 59.25,
+  "item_height": 78.875,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026275",
+  "provenance_text": "Greg Kwiatek, Hoboken, NJ",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5cd6f411-6ebb-42f2-8242-03f51ef752b1",
+      "party_type": "Person",
+      "full_name": "Greg Kwiatek",
+      "cited_name": "Kwiatek, Greg",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

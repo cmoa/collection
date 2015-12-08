@@ -1,0 +1,51 @@
+{
+  "title": "Lidded vase",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.7.45.A-B",
+  "id": "cmoa:things/2e1bfa86-855c-4781-a226-d6a7de33daeb",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.063,
+  "item_height": 13.25,
+  "item_depth": 9.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016038",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1391&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

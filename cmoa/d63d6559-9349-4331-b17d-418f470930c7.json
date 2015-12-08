@@ -1,0 +1,51 @@
+{
+  "title": "August, from the series \"Twelve Months\"",
+  "creation_date": "c. 1690-1700",
+  "creation_date_earliest": "1675-01-01",
+  "creation_date_latest": "1710-01-01",
+  "medium": "mezzotint engraving in brown ink",
+  "accession_number": "2006.83.2",
+  "id": "cmoa:things/d63d6559-9349-4331-b17d-418f470930c7",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34297",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39202&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ee1859-a7e9-4652-9b99-4d60eb2c86c5",
+      "party_type": "Person",
+      "full_name": "Jacob Gole",
+      "cited_name": "Gole, Jacob",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1660-01-01",
+      "death_date": "1732-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d8aab402-7e7f-4f02-8162-a4b1268dead3",
+      "party_type": "Person",
+      "full_name": "Cornelis Dusart",
+      "cited_name": "Dusart, Cornelis",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1660-01-01",
+      "death_date": "1704-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

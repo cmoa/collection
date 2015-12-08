@@ -1,0 +1,39 @@
+{
+  "title": "Frightened Horses",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.244",
+  "id": "cmoa:things/fd84ebf7-d82c-4833-ad5d-3049ecb54c5b",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012830",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107997&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b4e4d74-ece9-4ea7-ad5e-b70eec3f4da9",
+      "party_type": "Person",
+      "full_name": "Umberto Romano",
+      "cited_name": "Romano, Umberto",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Naples, Italy",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mars",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "oil on linen",
+  "accession_number": "1997.74",
+  "id": "cmoa:things/9482014a-164a-481c-8af7-710089334fc9",
+  "credit_line": "Gift of Robert and Sarah Wittenborn Miller",
+  "date_acquired": "1997-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 80.0,
+  "item_height": 110.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003468",
+  "provenance_text": "Robert And Sarah Wittenborn Miller, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10204&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/101159b6-1160-4c43-a038-4a0ffe16a495",
+      "party_type": "Person",
+      "full_name": "Louise Fishman",
+      "cited_name": "Fishman, Louise",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

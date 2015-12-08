@@ -1,0 +1,39 @@
+{
+  "title": "Self Portrait with Gertrude Stein",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.58.7",
+  "id": "cmoa:things/c6bbe270-c4c4-4244-9137-27a4aded7984",
+  "credit_line": "Gift of Duane Michals",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100719",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119034&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dadaab8f-f263-48e2-ab27-181707180995",
+      "party_type": "Person",
+      "full_name": "Horst P. Horst",
+      "cited_name": "Horst, Horst P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Weissenfels (Halle district, Saxony-Anhalt, Germany)",
+      "death_place": "Palm Beach (Palm Beach county, Florida, United States)"
+    }
+  ]
+}

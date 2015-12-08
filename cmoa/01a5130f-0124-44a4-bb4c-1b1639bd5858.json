@@ -1,0 +1,39 @@
+{
+  "title": "Actor (Haiyû)",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1250",
+  "id": "cmoa:things/01a5130f-0124-44a4-bb4c-1b1639bd5858",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027040",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 12/5/1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6351d90f-11d3-446f-8674-b14462a3c2ad",
+      "party_type": "Person",
+      "full_name": "Shinagawa Takumi",
+      "cited_name": "Shinagawa Takumi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1908-01-01",
+      "death_date": null,
+      "birth_place": "Kashiwazaki, Niigata prefecture",
+      "death_place": null
+    }
+  ]
+}

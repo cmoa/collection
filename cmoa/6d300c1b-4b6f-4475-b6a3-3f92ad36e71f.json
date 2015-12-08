@@ -1,0 +1,39 @@
+{
+  "title": "Lemon Man",
+  "creation_date": "c. 1992",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.2",
+  "id": "cmoa:things/6d300c1b-4b6f-4475-b6a3-3f92ad36e71f",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 19.0,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61610",
+  "provenance_text": "Purchased from Riley Hawk Gallery, Cleveland 10/24/96",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68810&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/254efcd0-dec2-4154-a7bd-53ba03c06ca4",
+      "party_type": "Person",
+      "full_name": "Dan Dailey",
+      "cited_name": "Dailey, Dan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia, PA",
+      "death_place": null
+    }
+  ]
+}

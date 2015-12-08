@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "85.24.5",
+  "id": "cmoa:things/607cc5d9-64cd-4d0d-9c1b-01d54d2faeec",
+  "credit_line": "Gift of Eugene Canade",
+  "date_acquired": "1985-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025470",
+  "provenance_text": "Mr. Eugene Canade, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89411&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f698131-6a61-48a8-a293-085d94ab5c19",
+      "party_type": "Person",
+      "full_name": "Vincent Canadé",
+      "cited_name": "Canadé, Vincent",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Italy",
+      "death_place": "New York City"
+    }
+  ]
+}

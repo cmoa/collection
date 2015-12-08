@@ -1,0 +1,39 @@
+{
+  "title": "Pine Tree",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.851",
+  "id": "cmoa:things/5d61acf4-fea1-4920-a5c0-db5372d8437b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.75,
+  "item_height": 24.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029025",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T. Z. Shiota, San Francisco, CA., 2/29/1972.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35776&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d73bd9ac-c745-477a-8a40-3a26a66d9962",
+      "party_type": "Person",
+      "full_name": "Kôsaka Ryûji",
+      "cited_name": "Kôsaka Ryûji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1912-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

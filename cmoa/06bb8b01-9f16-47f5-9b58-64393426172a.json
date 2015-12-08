@@ -1,0 +1,54 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1740",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1745-01-01",
+  "medium": "walnut with walnut veneer and period needlework upholstery",
+  "accession_number": "83.38",
+  "id": "cmoa:things/06bb8b01-9f16-47f5-9b58-64393426172a",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 21.0,
+  "item_height": 38.375,
+  "item_depth": 21.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023682",
+  "provenance_text": "Sotheby's, NY, New York: 4/23/83, lot #755",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96749&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96753&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96755&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96756&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=93505&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7012&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38765023-9db2-4fd4-911f-76437e0b89f8",
+      "party_type": "Person",
+      "full_name": "Giles Grendey",
+      "cited_name": "Grendey, Giles",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1693-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

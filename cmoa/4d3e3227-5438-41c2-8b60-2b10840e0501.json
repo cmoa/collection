@@ -1,0 +1,51 @@
+{
+  "title": "Child's cup",
+  "creation_date": "1791-1793",
+  "creation_date_earliest": "1791-01-01",
+  "creation_date_latest": "1793-01-01",
+  "medium": "silver",
+  "accession_number": "83.45.6",
+  "id": "cmoa:things/4d3e3227-5438-41c2-8b60-2b10840e0501",
+  "credit_line": "Gift of Sarah Van Voorhis Rogers in memory of Louise Jones Van Voorhis",
+  "date_acquired": "1983-06-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 4.5,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023829",
+  "provenance_text": "Sarah Van Voorhis Rogers",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6193&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23819f34-826c-4978-91e5-73c4fd05f406",
+      "party_type": "Person",
+      "full_name": "Daniel Van Voorhis",
+      "cited_name": "Van Voorhis, Daniel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1741-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9c7d6ee0-a91a-481a-ab50-639704fbfd0e",
+      "party_type": "Person",
+      "full_name": "Gerrit Schenk",
+      "cited_name": "Schenk, Gerrit",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1751-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

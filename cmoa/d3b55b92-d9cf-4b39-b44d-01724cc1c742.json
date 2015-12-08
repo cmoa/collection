@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.9",
+  "id": "cmoa:things/d3b55b92-d9cf-4b39-b44d-01724cc1c742",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018254",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106469&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/65fd836c-85e9-43a8-a677-6bbac1512db3",
+      "party_type": "Person",
+      "full_name": "Red Grooms",
+      "cited_name": "Grooms, Red",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Nashville-Davidson (Davidson county, Tennessee, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Bridge and Goats, plate 43 from the Liber Studiorum",
+  "creation_date": "1807-1812",
+  "creation_date_earliest": "1807-01-01",
+  "creation_date_latest": "1812-01-01",
+  "medium": "etching, aquatint and mezzotint engraving",
+  "accession_number": "19.8.1",
+  "id": "cmoa:things/261a72fc-a3d8-4760-a344-6d5b26ce665e",
+  "credit_line": "Purchase (F.A.C.)",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002079",
+  "provenance_text": "James Tregaskis",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110572&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110571&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54180&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ca7c730-6236-47f8-bde2-354a1797d155",
+      "party_type": "Person",
+      "full_name": "Joseph Mallord William Turner",
+      "cited_name": "Turner, Joseph M.",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1775-01-01",
+      "death_date": "1851-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/94d8702c-224e-479e-84d3-f7dcf999150f",
+      "party_type": "Person",
+      "full_name": "Frederick Christian Lewis",
+      "cited_name": "Lewis, Frederick Christian",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1779-01-01",
+      "death_date": "1856-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

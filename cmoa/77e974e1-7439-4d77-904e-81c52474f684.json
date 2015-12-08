@@ -1,0 +1,39 @@
+{
+  "title": "Growth of Spring",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "Lithograph",
+  "accession_number": "43.4.3",
+  "id": "cmoa:things/77e974e1-7439-4d77-904e-81c52474f684",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007429",
+  "provenance_text": "Arthur B. Davies [1862-1928]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101060&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

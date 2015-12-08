@@ -1,0 +1,51 @@
+{
+  "title": "View of Ochanomizu at Edo",
+  "creation_date": "1810",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.374",
+  "id": "cmoa:things/ec053660-f475-4284-b385-0a5bb6df1636",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.75,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028028",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Bill Comerford (no address),1961.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110932&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb0d8300-2e07-4829-9d4e-0bcb65385c3e",
+      "party_type": "Person",
+      "full_name": "Hokuju Shotei",
+      "cited_name": "Hokuju Shotei",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": "1818-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/35914000-f2e8-47c5-9894-204373c359b1",
+      "party_type": "Person",
+      "full_name": "Nishimuraya Yohachi",
+      "cited_name": "Nishimuraya Yohachi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

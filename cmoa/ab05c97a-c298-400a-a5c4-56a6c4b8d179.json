@@ -1,0 +1,51 @@
+{
+  "title": "Untitled (Checkerboard with Sumo Wrestler on Each Square; Probably a Game Board)",
+  "creation_date": null,
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.1293",
+  "id": "cmoa:things/ab05c97a-c298-400a-a5c4-56a6c4b8d179",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027098",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105975&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b3a0c86-2bf0-4462-984d-4411461f8737",
+      "party_type": "Person",
+      "full_name": "Shuntei Katsukawa",
+      "cited_name": "Shuntei Katsukawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1770-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/35914000-f2e8-47c5-9894-204373c359b1",
+      "party_type": "Person",
+      "full_name": "Nishimuraya Yohachi",
+      "cited_name": "Nishimuraya Yohachi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

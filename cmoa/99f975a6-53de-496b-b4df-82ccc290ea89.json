@@ -1,0 +1,39 @@
+{
+  "title": "Waxenstein",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "2009.35",
+  "id": "cmoa:things/99f975a6-53de-496b-b4df-82ccc290ea89",
+  "credit_line": "Foster Charitable Trust Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=81334",
+  "provenance_text": "Margo Pollins Schab, New York\nDavid S.W. Schab\nFrançoise and Harvey Rambach, New Jersey",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=87818&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6119bdab-2c33-4f8d-b343-489c96571872",
+      "party_type": "Person",
+      "full_name": "Marsden Hartley",
+      "cited_name": "Hartley, Marsden",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

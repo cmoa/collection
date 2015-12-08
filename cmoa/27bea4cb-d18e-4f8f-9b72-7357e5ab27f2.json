@@ -1,0 +1,42 @@
+{
+  "title": "Edge of the Pasture",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "48.9.7",
+  "id": "cmoa:things/27bea4cb-d18e-4f8f-9b72-7357e5ab27f2",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008441",
+  "provenance_text": "Arthur H. Harlow & Co., Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100474&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100473&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9142ad69-faa0-4fac-833a-fe8d6092acfc",
+      "party_type": "Person",
+      "full_name": "Thomas W. Nason",
+      "cited_name": "Nason, Thomas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Dracut (Middlesex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

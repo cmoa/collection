@@ -1,0 +1,54 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "1997.52.1",
+  "id": "cmoa:things/1cad7800-3593-4095-8bd5-bc499c94b207",
+  "credit_line": "Gift of Mrs. James P. Kinard",
+  "date_acquired": "1997-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.438,
+  "item_depth": 0.0,
+  "item_diameter": 7.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003412",
+  "provenance_text": "Mrs. James P. Kinard, Verona, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97652&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3117&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11d9e925-9736-4a71-a362-7fa266e00bb4",
+      "party_type": "Person",
+      "full_name": "Gertrud Natzler",
+      "cited_name": "Natzler, Gertrud",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Vienna",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/6926126f-1827-488c-bdf3-8243a4d6958c",
+      "party_type": "Person",
+      "full_name": "Otto Natzler",
+      "cited_name": "Natzler, Otto",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Vienna (Wien State, Austria)",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Candelabra",
+  "creation_date": "1750-1755",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "Porcelain",
+  "accession_number": "70.32.2708.A-.B",
+  "id": "cmoa:things/e0b7b4f0-aa85-4f5e-bc0e-9229e4946c2f",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.125,
+  "item_height": 12.5,
+  "item_depth": 7.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014947",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2503&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

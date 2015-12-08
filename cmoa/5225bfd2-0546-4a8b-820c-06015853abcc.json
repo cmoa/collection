@@ -1,0 +1,39 @@
+{
+  "title": "Painting",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.24.1",
+  "id": "cmoa:things/5225bfd2-0546-4a8b-820c-06015853abcc",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.5,
+  "item_height": 66.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009151",
+  "provenance_text": "G. David Thompson",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7574&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b7c5b7b-1200-4dcb-8d49-bfb22a5671be",
+      "party_type": "Person",
+      "full_name": "Georges Collignon",
+      "cited_name": "Collignon, Georges",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1923-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Liège, Belgium",
+      "death_place": null
+    }
+  ]
+}

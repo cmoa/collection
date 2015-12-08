@@ -1,0 +1,51 @@
+{
+  "title": "Gateway at Eastbury House, Dorsetshire, England",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "92.122.3",
+  "id": "cmoa:things/672eef17-86a8-4e7a-a65f-cee91c2a2a2c",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030188",
+  "provenance_text": "Hugh Colvin, Knighton, Powys, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102436&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/76019fcf-1e70-48e5-a9c0-1f4d7028b2a5",
+      "party_type": "Person",
+      "full_name": "Sir John Vanbrugh",
+      "cited_name": "Vanbrugh, John",
+      "role": "architect",
+      "nationality": "British",
+      "birth_date": "1649-01-01",
+      "death_date": "1726-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

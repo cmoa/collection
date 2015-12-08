@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Alfred Rose",
+  "creation_date": "1843",
+  "creation_date_earliest": "1843-01-01",
+  "creation_date_latest": "1843-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.21.13",
+  "id": "cmoa:things/24edbf3c-9186-4b9a-a90c-6141dc281c1c",
+  "credit_line": "Bequest of Edgar W. and Bernice Chrysler Garbisch",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 27.125,
+  "item_height": 32.875,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021752",
+  "provenance_text": "Originated from Penn Yan, NY; C. A. Carpenter, Jr., Elmira, NY, by 1963; Edgar W. and Bernice Chrysler Garbisch, Cambridge, MD, 1963; bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149752&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/88b994e8-b90a-4d7b-8207-d0b5a465bac6",
+      "party_type": "Person",
+      "full_name": "M. M. Manchester",
+      "cited_name": "Manchester, M. M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1840-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

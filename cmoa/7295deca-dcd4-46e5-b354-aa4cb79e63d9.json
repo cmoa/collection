@@ -1,0 +1,39 @@
+{
+  "title": "Cup (in Shape of Human)",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "wood",
+  "accession_number": "54.9.10",
+  "id": "cmoa:things/7295deca-dcd4-46e5-b354-aa4cb79e63d9",
+  "credit_line": "Gift of Allan Gerdau",
+  "date_acquired": "1954-03-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 12.0,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009351",
+  "provenance_text": "Allan Gerdau",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4680&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c86724a-2aad-47ae-9f9f-77fcb24bb3aa",
+      "party_type": "Person",
+      "full_name": "unknown Congolese",
+      "cited_name": "unknown Congolese",
+      "role": null,
+      "nationality": "Congolese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

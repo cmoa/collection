@@ -1,0 +1,37 @@
+{
+  "title": "Cat Analysis",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "TV, glass, aluminum, motor, LED lights, aluminum stand",
+  "accession_number": "2015.23.A-.H",
+  "id": "cmoa:things/11421f4f-5a04-43cf-88a4-985b0e16f501",
+  "credit_line": "Carnegie Mellon Art Gallery Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.75,
+  "item_height": 61.0,
+  "item_depth": 55.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108892",
+  "provenance_text": "47 Canal, New York to CMOA, July 2015.",
+  "classification": "Mixed Media",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/27170d93-dcc8-471a-bf4c-6aabb0d9c4dd",
+      "party_type": "Person",
+      "full_name": "Antoine Catala",
+      "cited_name": "Antoine Catala",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1975-01-01",
+      "death_date": null,
+      "birth_place": "Toulouse, France",
+      "death_place": null
+    }
+  ]
+}

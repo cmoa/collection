@@ -1,0 +1,42 @@
+{
+  "title": "Warrior's Arm",
+  "creation_date": "1966-1967",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "Wax, paint, leather, metal, wood, and resin in a Plexiglas case",
+  "accession_number": "2010.3",
+  "id": "cmoa:things/5f743e6e-041b-40b7-935c-14278e400285",
+  "credit_line": "The Henry L. Hillman Fund, Mr. and Mrs. James H. Rich Fund, Carnegie Mellon Art Gallery Fund, and A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2010-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 39.0,
+  "item_height": 9.5,
+  "item_depth": 9.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89065",
+  "provenance_text": "The work was with Thek until the early 1980s when it was sold to Robert Helmick of Des Moines by Michael Klein.  Mr. Helmick made it a promised gift to the Hirshhorn (this was during Jim Demetrion's tenure) but when Helmick died in 2003, the Hirshhorn decided against buying out his estate's interest and the work became available for sale.  At that point it was purchased by Alexander and Bonin, the gallery which represents the Thek estate, and has been in the gallery's holdings ever since. \n\nAccording to Ted Bonin, the fingers have been twice repaired: the first repair was done by the conservation department of the Des Moines Art Center, where the piece was stored for a period in the 1980s or 90s; and the second was performed in 2007 by Christian Scheidemann (a well known German conservator who wrote a major essay on conservation issues related to Thek's Fishman in 1996) at the request of Alexander and Bonin.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99834&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd569073-c2fe-410d-925a-b6ffc2c87e6b",
+      "party_type": "Person",
+      "full_name": "Paul Thek",
+      "cited_name": "Thek, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": "New York, New York"
+    }
+  ]
+}

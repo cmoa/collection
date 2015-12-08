@@ -1,0 +1,39 @@
+{
+  "title": "Boy and Duck",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "bronze",
+  "accession_number": "94.119",
+  "id": "cmoa:things/264fdc81-cee5-4383-ac2a-a2d4e3c382bb",
+  "credit_line": "Second Century Acquisition Fund and Patrons Art Fund",
+  "date_acquired": "1994-09-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 25.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033864",
+  "provenance_text": "Conner Rosenkranz, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26528&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c9b8aa51-8980-443f-891a-a6cd6ec9ea17",
+      "party_type": "Person",
+      "full_name": "Frederick William MacMonnies",
+      "cited_name": "MacMonnies, Frederick W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": "Brooklyn, NY",
+      "death_place": "New York"
+    }
+  ]
+}

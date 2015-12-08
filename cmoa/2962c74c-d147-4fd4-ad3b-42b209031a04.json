@@ -1,0 +1,39 @@
+{
+  "title": "Little Paint Creek",
+  "creation_date": "c. 1882",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "16.2",
+  "id": "cmoa:things/2962c74c-d147-4fd4-ad3b-42b209031a04",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-01-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 28.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001219",
+  "provenance_text": "Mrs. George Hetzel, Somerset, PA, until 1916; purchased by Museum, 1916.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113258&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

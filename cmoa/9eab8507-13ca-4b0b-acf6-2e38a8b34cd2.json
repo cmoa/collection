@@ -1,0 +1,39 @@
+{
+  "title": "Merry-Go-Round",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "engraving",
+  "accession_number": "41.6.11",
+  "id": "cmoa:things/9eab8507-13ca-4b0b-acf6-2e38a8b34cd2",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1941-12-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007262",
+  "provenance_text": "American National Committee of Engraving",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100419&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba6f52a-093a-4c97-b05b-5cf31bdabfbe",
+      "party_type": "Person",
+      "full_name": "Reginald Marsh",
+      "cited_name": "Marsh, Reginald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dorset (Bennington county, Vermont, United States)"
+    }
+  ]
+}

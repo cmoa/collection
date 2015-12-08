@@ -1,0 +1,39 @@
+{
+  "title": "Nagasaki Maruyama",
+  "creation_date": "1859-1864",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1864-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.350",
+  "id": "cmoa:things/53343e85-d617-4ea4-9e61-984cea6f7e60",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027994",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Edythe Polster, New York, 8/26/1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106053&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c6b28cf-c7bb-40f7-a610-9dd4fd9c3076",
+      "party_type": "Person",
+      "full_name": "Hiroshige II",
+      "cited_name": "Hiroshige II",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1826-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": "Japan",
+      "death_place": "Japan"
+    }
+  ]
+}

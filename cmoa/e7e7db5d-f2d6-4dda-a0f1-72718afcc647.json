@@ -1,0 +1,39 @@
+{
+  "title": "Tile in Frame",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "Earthenware",
+  "accession_number": "37.3.157",
+  "id": "cmoa:things/e7e7db5d-f2d6-4dda-a0f1-72718afcc647",
+  "credit_line": "In memory of Mary Junkin Cowley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.062,
+  "item_height": 5.0,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006936",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1867&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9201fc20-97f4-4488-a97c-0f768c5d4b60",
+      "party_type": "Person",
+      "full_name": "unknown Dutch, Delft",
+      "cited_name": "unknown Dutch, Delft",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

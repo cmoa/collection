@@ -1,0 +1,42 @@
+{
+  "title": "Gauguin",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "etching",
+  "accession_number": "95.46.2",
+  "id": "cmoa:things/c4e0bfc6-d4e8-48fb-b4d2-da64db60d4ff",
+  "credit_line": "Gift of Harry Schwalb",
+  "date_acquired": "1995-03-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035723",
+  "provenance_text": "Harry Schwalb, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113823&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c80902e5-e704-4bb8-96ac-b2f08d7791b2",
+      "party_type": "Person",
+      "full_name": "Leonard Leibowitz",
+      "cited_name": "Leibowitz, Leonard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

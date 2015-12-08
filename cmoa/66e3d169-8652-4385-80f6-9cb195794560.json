@@ -1,0 +1,39 @@
+{
+  "title": "The Stocking",
+  "creation_date": "c. 1889-1890",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "47.1.5",
+  "id": "cmoa:things/66e3d169-8652-4385-80f6-9cb195794560",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1947-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 7.375,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008069",
+  "provenance_text": "M. Knoedler & Co., Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72632&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25d883f-0641-4500-b258-37d6bafc568b",
+      "party_type": "Person",
+      "full_name": "Mary Cassatt",
+      "cited_name": "Cassatt, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-05-22",
+      "death_date": "1926-06-14",
+      "birth_place": "Pittsburgh (Allegheny City), PA",
+      "death_place": "Le Mesnil-Théribus, France"
+    }
+  ]
+}

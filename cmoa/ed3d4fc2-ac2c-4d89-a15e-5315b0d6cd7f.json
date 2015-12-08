@@ -1,0 +1,48 @@
+{
+  "title": "Trip",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "glazed porcelain and earthenware",
+  "accession_number": "2003.23.2",
+  "id": "cmoa:things/ed3d4fc2-ac2c-4d89-a15e-5315b0d6cd7f",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund and Martha Mack Lewis Fund",
+  "date_acquired": "2003-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 4.0,
+  "item_height": 7.375,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4388",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97732&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97733&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97731&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1330&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2eecb560-0d9c-4d0f-808f-ddfba9019f9c",
+      "party_type": "Person",
+      "full_name": "Kathy Butterly",
+      "cited_name": "Butterly, Kathy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Amityville, New York",
+      "death_place": null
+    }
+  ]
+}

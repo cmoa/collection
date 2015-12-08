@@ -1,0 +1,39 @@
+{
+  "title": "J. Becquet, Sculptor",
+  "creation_date": "1859",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "etching and drypoint on laid paper",
+  "accession_number": "13.6.8",
+  "id": "cmoa:things/baadf63d-3adc-4b94-84c8-bc500a231cf0",
+  "credit_line": "Purchase",
+  "date_acquired": "1913-10-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000923",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55394&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

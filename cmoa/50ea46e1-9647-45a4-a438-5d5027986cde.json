@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1755",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "porcelain with enamel decoration",
+  "accession_number": "70.32.1843",
+  "id": "cmoa:things/50ea46e1-9647-45a4-a438-5d5027986cde",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 2.562,
+  "item_depth": 8.813,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013994",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4242&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38e5b02d-043f-4256-b462-b8b639bf39e0",
+      "party_type": "Organization",
+      "full_name": "Chelsea Porcelain Factory",
+      "cited_name": "Chelsea Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1745-01-01",
+      "death_date": "1769-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

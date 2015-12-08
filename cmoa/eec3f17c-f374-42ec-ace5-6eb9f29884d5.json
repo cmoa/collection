@@ -1,0 +1,42 @@
+{
+  "title": "The Brook-A Land of Olive and Honey",
+  "creation_date": "1827-1828",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1828-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "48.17.9",
+  "id": "cmoa:things/eec3f17c-f374-42ec-ace5-6eb9f29884d5",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008249",
+  "provenance_text": "Edward Calvert [1799-1883], England. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1948.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110536&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110535&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40bf3941-93d6-472b-86f5-344dee26ada5",
+      "party_type": "Person",
+      "full_name": "Edward Calvert",
+      "cited_name": "Calvert, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1799-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": " Devon (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

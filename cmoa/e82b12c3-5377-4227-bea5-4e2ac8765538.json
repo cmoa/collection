@@ -1,0 +1,54 @@
+{
+  "title": " William Pitt, 1st Earl of Chatham",
+  "creation_date": "1766",
+  "creation_date_earliest": "1766-01-01",
+  "creation_date_latest": "1766-01-01",
+  "medium": "engraving and mezzotint",
+  "accession_number": "15.8",
+  "id": "cmoa:things/e82b12c3-5377-4227-bea5-4e2ac8765538",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-08-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.625,
+  "item_height": 24.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001007",
+  "provenance_text": "Charles Pitt-Taylor, Esq., London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39669&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94614&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/80e1fdac-4399-45b5-9463-ed47ef96316d",
+      "party_type": "Person",
+      "full_name": "Richard Houston",
+      "cited_name": "Houston, Richard",
+      "role": "Printmaker",
+      "nationality": "Irish",
+      "birth_date": "1721-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/159592c7-a0ee-41d7-a4df-7c8a799654d4",
+      "party_type": "Person",
+      "full_name": "William Hoare",
+      "cited_name": "Hoare, William",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1706-01-01",
+      "death_date": "1792-01-01",
+      "birth_place": " Eye (Suffolk, England, United Kingdom)",
+      "death_place": " Bath (Bath and Northeast Somerset, England, United Kingdom)"
+    }
+  ]
+}

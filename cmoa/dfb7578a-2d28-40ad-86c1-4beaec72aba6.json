@@ -1,0 +1,39 @@
+{
+  "title": "Jug",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "stoneware",
+  "accession_number": "54.26.2.2.A-B",
+  "id": "cmoa:things/dfb7578a-2d28-40ad-86c1-4beaec72aba6",
+  "credit_line": "Bequest of Mary M. J. Hilliard",
+  "date_acquired": "1954-10-20",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.875,
+  "item_height": 6.875,
+  "item_depth": 6.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009260",
+  "provenance_text": "The Estate Of Mary M. J. Hilliard",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4176&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

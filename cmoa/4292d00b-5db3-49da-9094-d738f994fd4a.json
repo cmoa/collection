@@ -1,0 +1,39 @@
+{
+  "title": "Auto construccion (Auto Construction), Caja de velocidades (Gear Box)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "44 cast concrete parts",
+  "accession_number": "2006.3.1.A-.VV",
+  "id": "cmoa:things/4292d00b-5db3-49da-9094-d738f994fd4a",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2006-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=20579",
+  "provenance_text": "Artist, Mexico City, Mexico\nKurimanzutto, Mexico City, Mexico",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108130&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ea3ac01-f1e5-4e31-aefb-cf78d83a5642",
+      "party_type": "Person",
+      "full_name": "Damián Ortega",
+      "cited_name": "Ortega, Damián",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": "Mexico City (Distrito Federal, Mexico)",
+      "death_place": null
+    }
+  ]
+}

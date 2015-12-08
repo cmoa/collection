@@ -1,0 +1,39 @@
+{
+  "title": "Sweetmeat stand",
+  "creation_date": "1760-1765",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "porcelain with underglaze decoration",
+  "accession_number": "71.51.7.1.A-B",
+  "id": "cmoa:things/c20c2f42-11be-40cf-9021-8411e2d2913d",
+  "credit_line": "Gift of Mr. and Mrs. Henry Oliver Rea in memory of Edith Oliver Rea",
+  "date_acquired": "1971-12-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 9.25,
+  "item_height": 15.0,
+  "item_depth": 8.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016248",
+  "provenance_text": "Gift of Mr. and Mrs. Henry Oliver Rea, 1971.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112950&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba75338-b76d-41c8-ae91-ecb12c225931",
+      "party_type": "Organization",
+      "full_name": "Derby Porcelain Factory",
+      "cited_name": "Derby Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

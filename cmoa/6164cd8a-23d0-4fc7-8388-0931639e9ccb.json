@@ -1,0 +1,39 @@
+{
+  "title": "Miss Minny Ashley",
+  "creation_date": "1905",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "photogravure",
+  "accession_number": "2007.51.44",
+  "id": "cmoa:things/6164cd8a-23d0-4fc7-8388-0931639e9ccb",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 16.875,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48938",
+  "provenance_text": "Acquired by Mr. George Ebbs from Ursula Gropper Associates on 09/20/1985 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112863&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5e75023-efb3-4fb1-bc6d-5dbe8103a08c",
+      "party_type": "Person",
+      "full_name": "Gertrude Kasebier",
+      "cited_name": "Kasebier, Gertrude",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "Des Moines, Iowa, USA",
+      "death_place": "New York, New York, USA"
+    }
+  ]
+}

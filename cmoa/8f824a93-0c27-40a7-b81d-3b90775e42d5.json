@@ -1,0 +1,45 @@
+{
+  "title": "Vase",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "earthenware with crystalline glaze",
+  "accession_number": "2007.87",
+  "id": "cmoa:things/8f824a93-0c27-40a7-b81d-3b90775e42d5",
+  "credit_line": "Gift of Jane and Arthur Mason",
+  "date_acquired": "2008-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 6.375,
+  "item_height": 10.375,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=53557",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=59944&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65744&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=59945&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6926126f-1827-488c-bdf3-8243a4d6958c",
+      "party_type": "Person",
+      "full_name": "Otto Natzler",
+      "cited_name": "Natzler, Otto",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Vienna (Wien State, Austria)",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Constellation",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "57.17.1",
+  "id": "cmoa:things/097c2106-4f5e-44dc-92e3-70f1e20ca9c5",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010380",
+  "provenance_text": "Gutekunst & Klipstein, Bern, Switzerland",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71678606-2447-459d-addb-1e2975aa9664",
+      "party_type": "Person",
+      "full_name": "Jean Arp",
+      "cited_name": "Arp, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": " Basel (Basel-Stadt, Switzerland)"
+    }
+  ]
+}

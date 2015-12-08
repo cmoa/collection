@@ -1,0 +1,39 @@
+{
+  "title": "Zapata",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "45.35",
+  "id": "cmoa:things/a174597b-acd5-4fbc-8358-9a3aa8ca7f36",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007592",
+  "provenance_text": "The Weyhe Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0951cd80-eaed-4899-9f65-bd146b8af2c6",
+      "party_type": "Person",
+      "full_name": "David Alfaro Siqueiros",
+      "cited_name": "Siqueiros, David A.",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1898-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": "Santa Rosalía de Camargo, Mexico",
+      "death_place": "Cuernavaca, Mexico"
+    }
+  ]
+}

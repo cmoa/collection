@@ -1,0 +1,42 @@
+{
+  "title": "Swinging in the Square",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "etching",
+  "accession_number": "16.32.1",
+  "id": "cmoa:things/5f931300-d614-4a7a-8c19-99e290fee7e9",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001227",
+  "provenance_text": "C. W. Kraushaar Art Galleries, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101273&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101274&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aaf3191-56f4-4bed-bbcc-a9e68b02c6a6",
+      "party_type": "Person",
+      "full_name": "John Sloan",
+      "cited_name": "Sloan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Lock Haven, Pennsylvania",
+      "death_place": "Hanover, New Hampshire"
+    }
+  ]
+}

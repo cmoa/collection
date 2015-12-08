@@ -1,0 +1,39 @@
+{
+  "title": "flower",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2008.3",
+  "id": "cmoa:things/e51d7cf7-1190-4cff-bc18-f3f4fd60b9b6",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 57.0,
+  "item_height": 83.875,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=53506",
+  "provenance_text": "The artist through Andrea Rosen Gallery, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64204&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/adbf8942-3e9c-415d-aaa9-0ee8e3aceed8",
+      "party_type": "Person",
+      "full_name": "Wolfgang Tillmans",
+      "cited_name": "Tillmans, Wolfgang",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1968-01-01",
+      "death_date": null,
+      "birth_place": "Remscheid, Germany",
+      "death_place": null
+    }
+  ]
+}

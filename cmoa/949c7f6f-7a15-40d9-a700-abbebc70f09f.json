@@ -1,0 +1,39 @@
+{
+  "title": "Pearl Vision",
+  "creation_date": "2012",
+  "creation_date_earliest": "2012-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "video; color, sound; 3:10 min",
+  "accession_number": "2014.7.A-.D",
+  "id": "cmoa:things/949c7f6f-7a15-40d9-a700-abbebc70f09f",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2014-02-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102191",
+  "provenance_text": null,
+  "classification": "Video installations",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128733&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0021d16b-6a00-4b27-a419-57a7d74adf87",
+      "party_type": "Person",
+      "full_name": "Mark Leckey",
+      "cited_name": "Leckey, Mark",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Birkenhead, England",
+      "death_place": null
+    }
+  ]
+}

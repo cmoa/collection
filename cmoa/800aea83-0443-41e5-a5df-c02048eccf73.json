@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1500-12-22",
+  "creation_date_latest": "1600-01-01",
+  "medium": "oil on panel",
+  "accession_number": "64.11.2",
+  "id": "cmoa:things/800aea83-0443-41e5-a5df-c02048eccf73",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 9.0,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011726",
+  "provenance_text": "Howard A. Noble, Pittsburgh\n\nNotes: In 1944, in a bedroom of Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "Silex vase",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "glass and brass",
+  "accession_number": "2003.14.A-.B",
+  "id": "cmoa:things/bf4d9af5-696a-40fb-a302-5e1ce88c8aa4",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2003-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 6.0,
+  "item_height": 16.0,
+  "item_depth": 5.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3001",
+  "provenance_text": "Historical Design, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97645&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97646&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97647&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97649&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97650&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12077&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d62b0559-89bb-498d-a578-31e2edad1c8a",
+      "party_type": "Person",
+      "full_name": "Gustave Serrurier-Bovy",
+      "cited_name": "Serrurier-Bovy, Gustave",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1858-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "Liège, Belgium",
+      "death_place": "Liège, Belgium"
+    },
+    {
+      "artist_id": "cmoa:parties/84638ce5-fab8-4d20-b54b-a88180707806",
+      "party_type": "Organization",
+      "full_name": "Val Saint Lambert",
+      "cited_name": "Val Saint Lambert",
+      "role": "manufacturer",
+      "nationality": "Belgian",
+      "birth_date": "1825-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Pin",
+  "creation_date": "c. 699-500 BCE",
+  "creation_date_earliest": "-0704-01-09",
+  "creation_date_latest": "-0495-01-06",
+  "medium": "bronze",
+  "accession_number": "70.28",
+  "id": "cmoa:things/e01ced9f-5189-4794-b7fa-0ac825a596f9",
+  "credit_line": "Greta S. Heckett Fund",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.062,
+  "item_height": 6.687,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013048",
+  "provenance_text": "J.J. Klejman, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4238&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/48705471-faae-43a9-9f5a-e9a2748d51ee",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Achaemenid period",
+      "cited_name": "unknown Persian, Achaemenid period",
+      "role": null,
+      "nationality": "Achaemenid",
+      "birth_date": "0699-01-01",
+      "death_date": "0599-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

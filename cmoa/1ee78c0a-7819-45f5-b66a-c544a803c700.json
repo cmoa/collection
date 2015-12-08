@@ -1,0 +1,39 @@
+{
+  "title": "Little Girl",
+  "creation_date": "no date",
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "crayon on laid paper",
+  "accession_number": "06.16.1",
+  "id": "cmoa:things/1ee78c0a-7819-45f5-b66a-c544a803c700",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000161",
+  "provenance_text": "William MacBeth Gallery, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84831&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af6b4927-85ca-4275-a872-6424d83acb37",
+      "party_type": "Person",
+      "full_name": "Wyatt Eaton",
+      "cited_name": "Eaton, Wyatt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1849-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

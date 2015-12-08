@@ -1,0 +1,51 @@
+{
+  "title": "Flowerpot",
+  "creation_date": "c. 1929",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.12.1",
+  "id": "cmoa:things/0a9d504b-7d45-49d3-8ddb-3ce9fdf748c4",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.375,
+  "item_depth": 0.0,
+  "item_diameter": 6.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003640",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1128&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/675b28b8-10e2-4cab-89fe-381684251c2f",
+      "party_type": "Person",
+      "full_name": "Margarete Marks",
+      "cited_name": "Marks, Margarete",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1899-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/76a347a6-eeff-432c-8a42-013ed6bea78a",
+      "party_type": "Organization",
+      "full_name": "Hael-Werkstatten",
+      "cited_name": "Hael-Werkstatten",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1923-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

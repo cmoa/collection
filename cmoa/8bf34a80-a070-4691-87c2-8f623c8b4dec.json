@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "c. 1690",
+  "creation_date_earliest": "1675-01-01",
+  "creation_date_latest": "1705-01-01",
+  "medium": "bronze",
+  "accession_number": "2000.71.111",
+  "id": "cmoa:things/8bf34a80-a070-4691-87c2-8f623c8b4dec",
+  "credit_line": "Gift of C. Talbott Hiteshew, Jr.",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 5.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6853",
+  "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12945&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Shopping Center; [bird's-eye perspective]",
+  "creation_date": null,
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "pencil and watercolor on paper",
+  "accession_number": "92.124",
+  "id": "cmoa:things/457acc66-a7f7-4b0c-b986-882bbc22d191",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 29.125,
+  "item_height": 20.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030199",
+  "provenance_text": "Diamant Gallery, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13045&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3b1950e-f958-4e6f-8206-13bcfa8d6a48",
+      "party_type": "Person",
+      "full_name": "John Wenrich",
+      "cited_name": "Wenrich, John",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/71abf001-511c-40a4-99fa-0086fa5e9d75",
+      "party_type": "Organization",
+      "full_name": "Corgan and Balestiere, Architects-Engineers",
+      "cited_name": "Corgan and Balestiere, Architects-Engineers",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Plane Spotter",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "45.34",
+  "id": "cmoa:things/6d77bd61-09ea-4333-93cd-cd40de90b65f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007591",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78887&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a85e3246-7f5c-4927-9fec-e875bd03111e",
+      "party_type": "Person",
+      "full_name": "Harry Shokler",
+      "cited_name": "Shokler, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Cincinnati, OH",
+      "death_place": "Hanover, NH"
+    }
+  ]
+}

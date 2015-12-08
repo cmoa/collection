@@ -1,0 +1,39 @@
+{
+  "title": "Great Lake",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "graphite, pen/ink, gouache on paper, mounted on paper",
+  "accession_number": "63.1.3",
+  "id": "cmoa:things/04b6e614-9ccc-48c3-b94d-4e395dabf9b1",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1963-03-28",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 15.5,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011622",
+  "provenance_text": "With Peter H. Dietsch, NY, until 1963; Gift of Mr. and Mrs. James H. Beal",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48047&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e63429bf-34e2-4f10-8e10-e0a1096167fb",
+      "party_type": "Person",
+      "full_name": "Will Barnet",
+      "cited_name": "Barnet, Will",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": null,
+      "birth_place": "Beverly (Essex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

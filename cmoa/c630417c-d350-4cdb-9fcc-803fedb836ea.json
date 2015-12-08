@@ -1,0 +1,57 @@
+{
+  "title": "Vase",
+  "creation_date": "1903-1904",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "earthenware",
+  "accession_number": "2008.82",
+  "id": "cmoa:things/c630417c-d350-4cdb-9fcc-803fedb836ea",
+  "credit_line": "Harlan E. Youel Bequest Fund",
+  "date_acquired": "2008-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 5.375,
+  "item_height": 11.25,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=75880",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96356&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96357&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96358&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06e293bb-c04e-4778-bb8b-c42bb094bff8",
+      "party_type": "Person",
+      "full_name": "Henry van de Velde",
+      "cited_name": "Velde, Henry van de",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1863-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": "Antwerp, Belgium",
+      "death_place": "Zurich, Switzerland"
+    },
+    {
+      "artist_id": "cmoa:parties/2d3b348c-294f-4ef8-add6-ce554a5f32cd",
+      "party_type": "Person",
+      "full_name": "Franz Eberstein",
+      "cited_name": "Eberstein, Franz",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

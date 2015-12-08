@@ -1,0 +1,37 @@
+{
+  "title": "Blue Family",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "79.22.1",
+  "id": "cmoa:things/247b27b0-9cbd-4329-9db4-0ee5091ab8f5",
+  "credit_line": "Gift of Dr. and Mrs. Raymond W. Goldblum in memory of Dr. Albert Goldblum",
+  "date_acquired": "1979-10-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.0,
+  "item_height": 51.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020264",
+  "provenance_text": "Dr. And Mrs. Raymond W. Goldblum, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a8048d6-95de-44b8-a9bf-9489086ead0e",
+      "party_type": "Person",
+      "full_name": "Carl-Henning Pedersen",
+      "cited_name": "Pedersen, Carl-Henning",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1913-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Copenhagen, Denmark",
+      "death_place": null
+    }
+  ]
+}

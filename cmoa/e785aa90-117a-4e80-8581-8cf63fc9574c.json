@@ -1,0 +1,39 @@
+{
+  "title": "Jug",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "1997.12",
+  "id": "cmoa:things/e785aa90-117a-4e80-8581-8cf63fc9574c",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 8.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002973",
+  "provenance_text": "Barry Friedman Ltd., New York City, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5492&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e760580a-a226-4056-95bb-0cb057533dff",
+      "party_type": "Person",
+      "full_name": "Charles Boyton",
+      "cited_name": "Boyton, Charles",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1885-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

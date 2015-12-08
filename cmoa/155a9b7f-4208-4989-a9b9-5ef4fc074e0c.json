@@ -1,0 +1,42 @@
+{
+  "title": "Fontaine de la Crosse, Rouen",
+  "creation_date": "1827",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "24.4.10",
+  "id": "cmoa:things/155a9b7f-4208-4989-a9b9-5ef4fc074e0c",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1924-03-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005100",
+  "provenance_text": "Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110598&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110597&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c75faeb9-ad8b-4010-b49c-ee13d027397e",
+      "party_type": "Person",
+      "full_name": "Richard  Parkes Bonington",
+      "cited_name": "Bonington, Richard  Parkes",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1801-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": " Arnold (Nottinghamshire, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

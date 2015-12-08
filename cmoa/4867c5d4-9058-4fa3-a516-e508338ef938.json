@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "bromoil print",
+  "accession_number": "2007.89.14",
+  "id": "cmoa:things/4867c5d4-9058-4fa3-a516-e508338ef938",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2008-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 23.812,
+  "item_height": 20.75,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49127",
+  "provenance_text": "Ursula Gropper Associates (10/24/87)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112883&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d398afda-c98b-40ef-b616-99ad26e3bc0b",
+      "party_type": "Person",
+      "full_name": "George Swaine",
+      "cited_name": "Swaine, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

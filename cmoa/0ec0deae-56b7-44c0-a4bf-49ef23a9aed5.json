@@ -1,0 +1,39 @@
+{
+  "title": "Edwards Baby",
+  "creation_date": null,
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "albumen print (carte de visite)",
+  "accession_number": "1997.42.3.58",
+  "id": "cmoa:things/0ec0deae-56b7-44c0-a4bf-49ef23a9aed5",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.438,
+  "item_height": 4.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003373",
+  "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106314&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47fc0f3c-3531-4d17-a900-5db511b48810",
+      "party_type": "Person",
+      "full_name": "William H. Whitehead",
+      "cited_name": "Whitehead, William H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1880-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Blue Bird (Aoi tori)",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.420",
+  "id": "cmoa:things/b666b694-b26f-4d1d-a28d-c57324009656",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.312,
+  "item_height": 18.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028189",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34213&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3a2ad495-60b1-4d40-b2e1-0ed852243188",
+      "party_type": "Person",
+      "full_name": "Hoshi Jôichi",
+      "cited_name": "Hoshi Jôichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

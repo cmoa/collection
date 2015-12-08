@@ -1,0 +1,39 @@
+{
+  "title": "Youngster with Toy Elephants",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.78",
+  "id": "cmoa:things/8cc12406-1e6e-4c9c-8ee5-5ab1532c164d",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 9.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49092",
+  "provenance_text": "Christie's (5/4/87)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aadf200-ac41-4054-8043-0c030a7e2f9d",
+      "party_type": "Person",
+      "full_name": "Harry C. Rubincam",
+      "cited_name": "Rubincam, Harry C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

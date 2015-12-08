@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "Earthenware",
+  "accession_number": "79.67.2",
+  "id": "cmoa:things/93c3f287-ba0c-4ede-b00e-45c41beb84dd",
+  "credit_line": "Gift of Professor Robert A. McConnell",
+  "date_acquired": "1979-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.312,
+  "item_depth": 0.0,
+  "item_diameter": 3.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020869",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3468&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

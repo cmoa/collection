@@ -1,0 +1,69 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1912",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "earthenware with painted decoration",
+  "accession_number": "89.13.2",
+  "id": "cmoa:things/92080fde-ed8a-48d7-8d95-fa6befa4dfb8",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1989-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 5.375,
+  "item_height": 17.75,
+  "item_depth": 5.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026593",
+  "provenance_text": "Historical Design Collection, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97626&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97627&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97628&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a26f4032-9d78-4201-8388-bbcbf3e3eab2",
+      "party_type": "Person",
+      "full_name": "Koloman Moser",
+      "cited_name": "Moser, Koloman",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1868-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "Vienna (Wien state, Austria)"
+    },
+    {
+      "artist_id": "cmoa:parties/e8c4a61a-2bd9-4f26-bbfc-d27e891c3c92",
+      "party_type": "Person",
+      "full_name": "Karl Klaus",
+      "cited_name": "Klaus, Karl",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1899-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f0782b5a-324a-4672-bce8-fff761877ab5",
+      "party_type": "Organization",
+      "full_name": "Ernst Wahliss",
+      "cited_name": "Wahliss, Ernst",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1863-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

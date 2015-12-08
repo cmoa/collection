@@ -1,0 +1,39 @@
+{
+  "title": "Jan Uytenbogaert, Remonstrant Preacher",
+  "creation_date": "1635",
+  "creation_date_earliest": "1635-01-01",
+  "creation_date_latest": "1635-01-01",
+  "medium": "etching and burin",
+  "accession_number": "24.14.2",
+  "id": "cmoa:things/fb93cec3-6f73-40d4-a55c-9a6ea49e4705",
+  "credit_line": "Purchase",
+  "date_acquired": "1924-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005029",
+  "provenance_text": "Rembrandt Harmensz van Rijn [1606-1669]. Kupferstichkabinett der Staatlichen Museen [1831-], Berlin, Germany, (L.1606) (L.2398) [1]; A. G. Thiermann [-1860?], (L.2434) [2]; Rudolf Philip Goldschmidt [1840-1914], Berlin, Germany, (L.2926); (Ehrich Galleries [1900?-1936], New York, NY, by 1924); purchased by Museum, November 1924. \nNOTES:1. Museum of Prints and Drawings. 2. The year of death is recorded in the Lugt database as either 1860 or 1861.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24959&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

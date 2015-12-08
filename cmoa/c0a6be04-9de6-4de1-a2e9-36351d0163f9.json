@@ -1,0 +1,39 @@
+{
+  "title": "Erise II",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.11",
+  "id": "cmoa:things/c0a6be04-9de6-4de1-a2e9-36351d0163f9",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 15.0,
+  "item_height": 16.875,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=381",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11356&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24ae3ff5-dcd4-49b2-8cdc-b72c80b90580",
+      "party_type": "Person",
+      "full_name": "Pavel Hlava",
+      "cited_name": "Hlava, Pavel",
+      "role": null,
+      "nationality": "Czech",
+      "birth_date": "1924-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

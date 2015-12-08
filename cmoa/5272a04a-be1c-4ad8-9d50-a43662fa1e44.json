@@ -1,0 +1,37 @@
+{
+  "title": "Alcoa Salesman's Sample Case",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "Wood, aluminum",
+  "accession_number": "2005.9",
+  "id": "cmoa:things/5272a04a-be1c-4ad8-9d50-a43662fa1e44",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2005-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 2.25,
+  "item_depth": 11.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13363",
+  "provenance_text": "Dargate Auction House (Sale of Kensington Aluminum Ware, November 6th, 2004) from collection of Marilyn Bonetti.",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cde88b2c-5937-41b1-b70d-6720cd7a836b",
+      "party_type": "Organization",
+      "full_name": "Alcoa",
+      "cited_name": "Alcoa",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

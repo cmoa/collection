@@ -1,0 +1,39 @@
+{
+  "title": "The Actress, Maria Orska",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "58.65.2",
+  "id": "cmoa:things/ad8d9620-a766-479c-855f-ae4b7688f6e4",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.75,
+  "item_height": 30.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010904",
+  "provenance_text": "Galerie Valentien, N. Konigsbau, Stuttgart",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126399&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b77f88e1-e411-4eba-a021-d1118afe6a42",
+      "party_type": "Person",
+      "full_name": "Oskar Kokoschka",
+      "cited_name": "Kokoschka, Oskar",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1886-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pöchlarn (Niederösterreich, Austria)",
+      "death_place": "Montreux (Vaud, Switzerland)"
+    }
+  ]
+}

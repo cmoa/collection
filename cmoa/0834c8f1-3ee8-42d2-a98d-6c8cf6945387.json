@@ -1,0 +1,54 @@
+{
+  "title": "Miniature painting in imitation of Greuze",
+  "creation_date": "c. 1860-1900",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "watercolor on celluloid",
+  "accession_number": "64.13.8",
+  "id": "cmoa:things/0834c8f1-3ee8-42d2-a98d-6c8cf6945387",
+  "credit_line": "Gift of Miss Thompson, Mesdames Reed, Van Cleef, and Eddy in memory of Mrs. William Reed Thompson",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.25,
+  "item_height": 4.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011772",
+  "provenance_text": "Gift of Miss Thompson, Mesdames Reed, Van Cleff and Eddy, 1964.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73919&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73920&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/51e8d80d-e1c7-4f7d-8d11-2c2764604683",
+      "party_type": "Person",
+      "full_name": "Étienne Durand",
+      "cited_name": "Durand, Étienne",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1800-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2ca5646d-edb9-430c-b68a-988af0a5780a",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Greuze",
+      "cited_name": "Greuze, Jean B.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1725-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": " Tournus (Saône-et-Loire, Burgundy region, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

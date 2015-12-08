@@ -1,0 +1,39 @@
+{
+  "title": "A Rocky Coast",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "conte crayon",
+  "accession_number": "18.25.7",
+  "id": "cmoa:things/d1a6649f-2ac5-48a7-97cd-a387621fd33f",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001777",
+  "provenance_text": "American Artists' War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89472&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a828402-1432-46e3-bef2-b95627cedbd8",
+      "party_type": "Person",
+      "full_name": "Paul Dougherty",
+      "cited_name": "Dougherty, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": null
+    }
+  ]
+}

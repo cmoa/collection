@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Tomas Garrigue Masaryk",
+  "creation_date": "1935-1936",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.46",
+  "id": "cmoa:things/8291314f-4a0c-4330-8ada-221250b0bf26",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1956-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 51.5,
+  "item_height": 38.375,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009882",
+  "provenance_text": "Mr. and Mrs. Paul V. Eisner, New York; Feigle Gallery, New York; purchased by Museum, October 1956.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b77f88e1-e411-4eba-a021-d1118afe6a42",
+      "party_type": "Person",
+      "full_name": "Oskar Kokoschka",
+      "cited_name": "Kokoschka, Oskar",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1886-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pöchlarn (Niederösterreich, Austria)",
+      "death_place": "Montreux (Vaud, Switzerland)"
+    }
+  ]
+}

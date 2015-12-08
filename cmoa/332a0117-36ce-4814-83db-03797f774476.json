@@ -1,0 +1,39 @@
+{
+  "title": "The South's Breath",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "37.2",
+  "id": "cmoa:things/332a0117-36ce-4814-83db-03797f774476",
+  "credit_line": "Gift of Stephen C. Clark",
+  "date_acquired": "1937-06-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.875,
+  "item_height": 31.75,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006930",
+  "provenance_text": "Ferargil Galleries, New York, until 1924, as Two Nudes, Stephen C. Clark, New York (after 1925 on indefinite loan to Carnegie Institute); Gift of Stephen C. Clark, 1937",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8021&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

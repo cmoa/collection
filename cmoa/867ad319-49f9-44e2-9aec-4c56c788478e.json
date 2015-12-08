@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "welded iron",
+  "accession_number": "68.19",
+  "id": "cmoa:things/867ad319-49f9-44e2-9aec-4c56c788478e",
+  "credit_line": "Gift of Ira Spanierman",
+  "date_acquired": "1968-10-16",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.25,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012405",
+  "provenance_text": "Ira Spanierman, NYC",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127502&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/134dc90b-e2ac-45a4-93fc-81f398c09458",
+      "party_type": "Person",
+      "full_name": "Richard Peter Stankiewicz",
+      "cited_name": "Stankiewicz, Richard P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Worthington, MA"
+    }
+  ]
+}

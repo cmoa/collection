@@ -1,0 +1,39 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.69.A-B",
+  "id": "cmoa:things/744edff7-3f41-46f9-9d9c-b23402f75100",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.75,
+  "item_height": 6.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023515",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4753&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa0fd7a2-ec32-4fc6-8a0e-71beec021c77",
+      "party_type": "Organization",
+      "full_name": "Eastwood Pottery",
+      "cited_name": "Eastwood Pottery",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1795-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

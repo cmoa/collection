@@ -1,0 +1,39 @@
+{
+  "title": "Snow (Yuki)",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.75",
+  "id": "cmoa:things/7d1bb843-be74-46a2-829d-2e9a402807c8",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.375,
+  "item_height": 24.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028912",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34167&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/526a682c-b4b5-4ac4-8653-d191ed7f4a05",
+      "party_type": "Person",
+      "full_name": "Fukita Fumiaki",
+      "cited_name": "Fukita Fumiaki",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

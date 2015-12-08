@@ -1,0 +1,39 @@
+{
+  "title": "McConnell's Cove from Cove Mountain",
+  "creation_date": "1848",
+  "creation_date_earliest": "1848-01-01",
+  "creation_date_latest": "1848-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.33",
+  "id": "cmoa:things/59e2bf4f-aea0-4824-b4ab-dd5fb4de19ef",
+  "credit_line": "Gift of the Richard King Mellon Foundation",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 50.25,
+  "item_height": 32.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018582",
+  "provenance_text": "The Old Print Shop, New York, by 1951; Richard King Mellon Foundation, 1951; gift to Museum, 1977.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c586573-c1d9-4b99-bb76-4b9d863b0977",
+      "party_type": "Person",
+      "full_name": "Russell Smith",
+      "cited_name": "Smith, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1812-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

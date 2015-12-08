@@ -1,0 +1,51 @@
+{
+  "title": "One View at Unzen (Unzen ikkei)",
+  "creation_date": "November 1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1125",
+  "id": "cmoa:things/64d0c9b8-654f-4251-b9fa-869737d3a46d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026888",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 8/3/1971.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35066&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfd0d5c4-1cbd-4f25-8de2-1b62297fd4c7",
+      "party_type": "Person",
+      "full_name": "Onchi Kôshirô",
+      "cited_name": "Onchi Kôshirô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

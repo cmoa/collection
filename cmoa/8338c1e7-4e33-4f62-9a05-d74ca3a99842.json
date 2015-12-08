@@ -1,0 +1,42 @@
+{
+  "title": "The Punt",
+  "creation_date": null,
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "drypoint and etching",
+  "accession_number": "43.4.73",
+  "id": "cmoa:things/8338c1e7-4e33-4f62-9a05-d74ca3a99842",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007466",
+  "provenance_text": "William Palmer Robins [1882-1959], England. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100530&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100529&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0c5b326-a549-42bc-b55a-a983c0cfedbe",
+      "party_type": "Person",
+      "full_name": "William Palmer Robins",
+      "cited_name": "Robins, William P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Southwark (London, Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

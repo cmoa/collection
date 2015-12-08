@@ -1,0 +1,39 @@
+{
+  "title": "Geese",
+  "creation_date": null,
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "copper plate (for etching)",
+  "accession_number": "18.21.2",
+  "id": "cmoa:things/a62f5f05-8258-45c0-9e0a-6d5bf19abd15",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-08-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001710",
+  "provenance_text": "Kennedy & Company, 613 Fifth Avenue, NY",
+  "classification": "printing plates",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115677&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17759d99-ea58-4bd2-87f6-72dcef02a2c4",
+      "party_type": "Person",
+      "full_name": "Frank Weston Benson",
+      "cited_name": "Benson, Frank Weston",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Salem (Essex county, Massachusetts, United States)",
+      "death_place": "Salem (Essex county, Massachusetts, United States)"
+    }
+  ]
+}

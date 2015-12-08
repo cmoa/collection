@@ -1,0 +1,39 @@
+{
+  "title": "Andrey Avinoff",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "48.21",
+  "id": "cmoa:things/b27aa3a7-9bd0-429c-8d1e-ddb38abf7618",
+  "credit_line": "Transfer from Museum Department of Carnegie Institute",
+  "date_acquired": "1948-11-15",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 30.0,
+  "item_height": 38.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008270",
+  "provenance_text": "Carnegie Museum of Natural History, by 1948 [1]. Transferred to Museum, 1948. \nNOTES:1. Andrey Avinoff [1884-1949] was the director of the Carnegie Institute from 1926-1946",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/876d7d14-5036-4e94-8879-7250d85a91c0",
+      "party_type": "Person",
+      "full_name": "Elizabeth Shoumatoff",
+      "cited_name": "Shoumatoff, Elizabeth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

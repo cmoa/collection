@@ -1,0 +1,39 @@
+{
+  "title": "Acrobats and Horse",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.24.5",
+  "id": "cmoa:things/addce0ac-7e1d-4105-a753-86d0e0c585ab",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-10-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 46.125,
+  "item_height": 65.875,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009155",
+  "provenance_text": "Curt Valentin Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=406&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2985558-11c4-4de3-bfb5-dee1f27a9c8d",
+      "party_type": "Person",
+      "full_name": "Marino Marini",
+      "cited_name": "Marini, Marino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1901-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pistoia (Pistoia province, Tuscany, Italy)",
+      "death_place": "Viareggio (Lucca province, Tuscany, Italy)"
+    }
+  ]
+}

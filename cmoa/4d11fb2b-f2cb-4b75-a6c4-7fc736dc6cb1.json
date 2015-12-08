@@ -1,0 +1,51 @@
+{
+  "title": "Bubble vase",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "glass",
+  "accession_number": "2002.40.4",
+  "id": "cmoa:things/4d11fb2b-f2cb-4b75-a6c4-7fc736dc6cb1",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=443",
+  "provenance_text": "Decorative Arts Purchase Fund",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8441&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/628bf302-553c-4f7e-b20f-2857ece29111",
+      "party_type": "Person",
+      "full_name": "Charles Graffart",
+      "cited_name": "Graffart, Charles",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1873-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/84638ce5-fab8-4d20-b54b-a88180707806",
+      "party_type": "Organization",
+      "full_name": "Val Saint Lambert",
+      "cited_name": "Val Saint Lambert",
+      "role": "manufacturer",
+      "nationality": "Belgian",
+      "birth_date": "1825-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

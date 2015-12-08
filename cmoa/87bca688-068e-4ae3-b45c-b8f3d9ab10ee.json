@@ -1,0 +1,42 @@
+{
+  "title": "Autumn Suite",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "paper and burlap collage",
+  "accession_number": "79.51.2.3",
+  "id": "cmoa:things/87bca688-068e-4ae3-b45c-b8f3d9ab10ee",
+  "credit_line": "Gift of Eddie Green",
+  "date_acquired": "1979-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.875,
+  "item_height": 19.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=41049",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102917&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99876&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69d9e7bd-b6be-408a-bc7e-993de323f412",
+      "party_type": "Person",
+      "full_name": "Conrad Marca-Relli",
+      "cited_name": "Marca-Relli, Conrad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Parma, Italy"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "earthenware",
+  "accession_number": "1999.65",
+  "id": "cmoa:things/d80c9733-5ba9-4746-acda-73b03d0c7d28",
+  "credit_line": "Gift of Garth Clark and Mark Del Vecchio",
+  "date_acquired": "2000-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 2.375,
+  "item_depth": 0.0,
+  "item_diameter": 1.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003958",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3138&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3355457e-d0b8-4d0f-844e-a9b1dbdc98d3",
+      "party_type": "Person",
+      "full_name": "Edward W. Bingham",
+      "cited_name": "Bingham, Edward W.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1829-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "England",
+      "death_place": null
+    }
+  ]
+}

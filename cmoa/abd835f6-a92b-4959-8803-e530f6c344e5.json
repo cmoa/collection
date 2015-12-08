@@ -1,0 +1,39 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "c. 1814",
+  "creation_date_earliest": "1809-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "silver",
+  "accession_number": "14.2.2.A-B",
+  "id": "cmoa:things/abd835f6-a92b-4959-8803-e530f6c344e5",
+  "credit_line": "Gift of Estate of Mary Semple",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.313,
+  "item_height": 7.75,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000937",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36cf7d6f-acd3-4046-a2fd-a37d50610f7e",
+      "party_type": "Person",
+      "full_name": "William Thomson",
+      "cited_name": "Thomson, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1804-01-01",
+      "death_date": "1845-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

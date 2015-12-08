@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "13th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1298-12-25",
+  "medium": "earthenware with iridized glaze",
+  "accession_number": "72.61.15",
+  "id": "cmoa:things/7357b3e3-8ff3-452e-874b-1102089b3a8b",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.312,
+  "item_depth": 0.0,
+  "item_diameter": 5.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016525",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3288&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcae5cec-2eca-4824-8f40-03e9bb9f7f8d",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Sultanabad",
+      "cited_name": "unknown Persian, Sultanabad",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

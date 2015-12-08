@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of His Son, Eugene Isabey",
+  "creation_date": "1821",
+  "creation_date_earliest": "1821-01-01",
+  "creation_date_latest": "1821-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "24.1.24",
+  "id": "cmoa:things/578d67eb-2eae-45e6-bf92-3c1ea85b027d",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1924-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005023",
+  "provenance_text": "Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105243&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105244&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06ad785b-efd0-4912-9a86-9fa1835cbf32",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Isabey",
+      "cited_name": "Isabey, Jean-Baptiste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1767-01-01",
+      "death_date": "1855-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

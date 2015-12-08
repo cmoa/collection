@@ -1,0 +1,39 @@
+{
+  "title": "B.F. [Benjamin Franklin]",
+  "creation_date": "1795",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.23",
+  "id": "cmoa:things/f8d0319a-5803-45e9-972a-64e13679d3af",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34360",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39293&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b6c9152-e7d2-4dba-8f0b-b3a642b8ddc5",
+      "party_type": "Person",
+      "full_name": "Jean-Louis Darcis",
+      "cited_name": "Darcis, Jean-Louis",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": "1801-01-01",
+      "birth_place": null,
+      "death_place": "Paris"
+    }
+  ]
+}

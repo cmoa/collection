@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of William Wycherley",
+  "creation_date": "1703",
+  "creation_date_earliest": "1703-01-01",
+  "creation_date_latest": "1703-01-01",
+  "medium": "mezzotint",
+  "accession_number": "18.17.3",
+  "id": "cmoa:things/0c7f6e61-7fe8-4dba-8f35-ea11845a1316",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001697",
+  "provenance_text": "M. Knoedler & Co. Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104040&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90fd7879-b9f9-44f2-85f4-345809e2baec",
+      "party_type": "Person",
+      "full_name": "John Smith",
+      "cited_name": "Smith, John",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1652-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6ebbd55d-87d8-4118-ac97-666af0fca3b4",
+      "party_type": "Person",
+      "full_name": "Sir Peter Lely",
+      "cited_name": "Lely, Peter",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1618-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

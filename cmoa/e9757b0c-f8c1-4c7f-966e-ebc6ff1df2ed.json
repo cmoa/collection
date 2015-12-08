@@ -1,0 +1,39 @@
+{
+  "title": "\"Slice\" chair",
+  "creation_date": "designed 1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "aluminum",
+  "accession_number": "2010.55",
+  "id": "cmoa:things/e9757b0c-f8c1-4c7f-966e-ebc6ff1df2ed",
+  "credit_line": "Helen Johnston Acquisition Fund and Richard L. Simmons Acquisition Fund",
+  "date_acquired": "2010-12-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 35.0,
+  "item_height": 29.5,
+  "item_depth": 29.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92310",
+  "provenance_text": "Acquired directly from the artist at the request of the dealer, Industry Gallery.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/be21673d-0986-40a0-a006-e95226aae578",
+      "party_type": "Person",
+      "full_name": "Mathias Bengtsson",
+      "cited_name": "Bengtsson, Mathias",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1971-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen",
+      "death_place": null
+    }
+  ]
+}

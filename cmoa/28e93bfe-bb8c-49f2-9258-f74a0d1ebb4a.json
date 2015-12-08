@@ -1,0 +1,39 @@
+{
+  "title": "Invocation",
+  "creation_date": "c. 1959",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.118",
+  "id": "cmoa:things/28e93bfe-bb8c-49f2-9258-f74a0d1ebb4a",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012690",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108276&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66844a1a-28cf-4584-a927-42b57373b7ce",
+      "party_type": "Person",
+      "full_name": "Marion Greenwood",
+      "cited_name": "Greenwood, Marion",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

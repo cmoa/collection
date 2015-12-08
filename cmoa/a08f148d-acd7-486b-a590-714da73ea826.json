@@ -1,0 +1,39 @@
+{
+  "title": "Alom",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "68.7",
+  "id": "cmoa:things/a08f148d-acd7-486b-a590-714da73ea826",
+  "credit_line": "Gift of the Howard Heinz Endowment",
+  "date_acquired": "1968-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 68.25,
+  "item_height": 68.25,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012516",
+  "provenance_text": "1967 Pittsburgh International Exhibition",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19700&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/645b75b3-9f9b-4af2-a91d-7099f0674781",
+      "party_type": "Person",
+      "full_name": "Victor Vasarely",
+      "cited_name": "Vasarely, Victor",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1908-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Pécs (Baranya, Hungary)",
+      "death_place": "Paris (Ville de Paris department, Ile-de-France, France)"
+    }
+  ]
+}

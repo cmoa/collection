@@ -1,0 +1,42 @@
+{
+  "title": "Broadway and 186th Street",
+  "creation_date": "before 1920",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "crayon and wash on paper",
+  "accession_number": "20.20",
+  "id": "cmoa:things/b0b93370-da4e-433b-9de1-87a29931d956",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004559",
+  "provenance_text": "Frederick Keppel & Company, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89431&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47735&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1afb80ce-ad08-4770-920e-7d15287dc164",
+      "party_type": "Person",
+      "full_name": "Earl Horter",
+      "cited_name": "Horter, Earl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

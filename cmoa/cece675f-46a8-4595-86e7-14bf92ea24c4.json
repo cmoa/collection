@@ -1,0 +1,39 @@
+{
+  "title": "A Man Dreaming in the City",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2001.44.9",
+  "id": "cmoa:things/cece675f-46a8-4595-86e7-14bf92ea24c4",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2001-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004342",
+  "provenance_text": "Pace/MacGill Gallery, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7973&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "A Lady Standing",
+  "creation_date": "1881",
+  "creation_date_earliest": "1881-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "pastel on brown paper",
+  "accession_number": "06.14",
+  "id": "cmoa:things/c8ed7a98-70ce-41f9-90e9-6d195cd23c2a",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000157",
+  "provenance_text": "M. L. Knoedler  & Co., New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84934&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36137&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

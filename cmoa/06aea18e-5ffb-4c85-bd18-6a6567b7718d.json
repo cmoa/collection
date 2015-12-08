@@ -1,0 +1,39 @@
+{
+  "title": "Goblet",
+  "creation_date": "1912-1960",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "acid-etched and copper-wheel-engraved glass",
+  "accession_number": "81.65.8",
+  "id": "cmoa:things/06aea18e-5ffb-4c85-bd18-6a6567b7718d",
+  "credit_line": "Gift of Eugene Gross",
+  "date_acquired": "1981-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 3.438,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022004",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=649&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c01c944-cf3f-41b8-8f27-a21b6c018f58",
+      "party_type": "Person",
+      "full_name": "Joseph W. Racinger",
+      "cited_name": "Racinger, Joseph W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Austria",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1750",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "salt-glazed stoneware",
+  "accession_number": "92.105.2.A-B",
+  "id": "cmoa:things/49f83005-9453-4fde-877c-d23d2c84af1d",
+  "credit_line": "Mary Murtland Wurts Fund of the Pittsburgh Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 5.25,
+  "item_depth": 6.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030113",
+  "provenance_text": "Ex Nancy Gunson Collection \nGina Antiques, Hatfield, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=181&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e476995b-ef16-4afd-bd2a-b2f28e197c94",
+      "party_type": "Person",
+      "full_name": "unknown British, Staffordshire",
+      "cited_name": "unknown British, Staffordshire",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

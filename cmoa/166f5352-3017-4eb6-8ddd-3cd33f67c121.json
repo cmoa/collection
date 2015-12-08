@@ -1,0 +1,39 @@
+{
+  "title": "Plate, Scalloped",
+  "creation_date": "1750s",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2000",
+  "id": "cmoa:things/166f5352-3017-4eb6-8ddd-3cd33f67c121",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.75,
+  "item_height": 0.688,
+  "item_depth": 4.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014175",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2530ac6a-17b4-4a1c-a70f-429eab8021d8",
+      "party_type": "Organization",
+      "full_name": "Longton Hall Porcelain Factory",
+      "cited_name": "Longton Hall Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1750-01-01",
+      "death_date": "1760-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

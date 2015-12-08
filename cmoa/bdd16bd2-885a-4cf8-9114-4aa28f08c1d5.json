@@ -1,0 +1,39 @@
+{
+  "title": "Ann Forrest",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.57.1",
+  "id": "cmoa:things/bdd16bd2-885a-4cf8-9114-4aa28f08c1d5",
+  "credit_line": "Gift of John and Susan Edwards Harvith",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.625,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100809",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c31dc69c-5ea1-413f-8d3a-3201b72ba1c0",
+      "party_type": "Person",
+      "full_name": "Karl Struss",
+      "cited_name": "Struss, Karl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "New York, New York",
+      "death_place": "Santa Monica, California"
+    }
+  ]
+}

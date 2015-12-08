@@ -1,0 +1,39 @@
+{
+  "title": "Sculpture Classique",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "bronze",
+  "accession_number": "65.4",
+  "id": "cmoa:things/8bfcaf8c-8e29-49a8-9e16-5c8e83e31257",
+  "credit_line": "Patrons Art Fund and John Henry Craner Fund",
+  "date_acquired": "1965-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 77.0,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011960",
+  "provenance_text": "The Artist via International, 1964",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18864&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71678606-2447-459d-addb-1e2975aa9664",
+      "party_type": "Person",
+      "full_name": "Jean Arp",
+      "cited_name": "Arp, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": " Basel (Basel-Stadt, Switzerland)"
+    }
+  ]
+}

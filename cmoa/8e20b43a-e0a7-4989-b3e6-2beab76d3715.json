@@ -1,0 +1,39 @@
+{
+  "title": "Abyss",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2006.46",
+  "id": "cmoa:things/8e20b43a-e0a7-4989-b3e6-2beab76d3715",
+  "credit_line": "Alan D. and Marsha W. Bramowitz Contemporary Print Acquisition Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.0,
+  "item_height": 25.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=29574",
+  "provenance_text": "Alexander and Bonin, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37500&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0c782ba-22ef-4770-a446-a038f93144f5",
+      "party_type": "Person",
+      "full_name": "Doris Salcedo",
+      "cited_name": "Salcedo, Doris",
+      "role": null,
+      "nationality": "Colombian",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Bogotá, Colombia",
+      "death_place": null
+    }
+  ]
+}

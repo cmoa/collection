@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "glazed earthenware and silver",
+  "accession_number": "93.149.A-B",
+  "id": "cmoa:things/6dd9ade7-941d-4560-87cc-cbe6e9342b2f",
+  "credit_line": "Mary Murtland Wurts Fund of the Pittsburgh Foundation",
+  "date_acquired": "1993-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 5.25,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032983",
+  "provenance_text": "Jonathan Horne, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1112&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e476995b-ef16-4afd-bd2a-b2f28e197c94",
+      "party_type": "Person",
+      "full_name": "unknown British, Staffordshire",
+      "cited_name": "unknown British, Staffordshire",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

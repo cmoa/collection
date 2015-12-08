@@ -1,0 +1,42 @@
+{
+  "title": "Panama-Pacific Exposition",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "Hand-tinted silver print",
+  "accession_number": "2007.51.15",
+  "id": "cmoa:things/712c6445-fa87-44c2-b88d-54835bf63b6b",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.375,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48828",
+  "provenance_text": "Acquired by Mr. George Ebbs from Sotheby's on 04/26/90 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99964&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56006&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750bde60-630e-4ee1-aa40-009ac2e7b6d6",
+      "party_type": "Person",
+      "full_name": "Francis Bruguiere",
+      "cited_name": "Bruguiere, Francis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

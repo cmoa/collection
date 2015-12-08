@@ -1,0 +1,51 @@
+{
+  "title": "Entrance to Hamacho Park",
+  "creation_date": "11/8/1929",
+  "creation_date_earliest": "1929-11-08",
+  "creation_date_latest": "1929-11-08",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.72.4",
+  "id": "cmoa:things/e04db6cb-8c49-41a2-8952-52f6a20ff2ca",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028829",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=456&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/26923d90-8215-4d3d-bbae-2de50fdad003",
+      "party_type": "Person",
+      "full_name": "Fukazawa Sakuichi",
+      "cited_name": "Fukazawa Sakuichi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1896-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

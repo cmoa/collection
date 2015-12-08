@@ -1,0 +1,39 @@
+{
+  "title": "Divine",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "82.67",
+  "id": "cmoa:things/9b32d3cb-aa06-4cfc-a4d5-fb521e1feca0",
+  "credit_line": "Purchase: gift of Richard M. Scaife",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 59.25,
+  "item_height": 59.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023063",
+  "provenance_text": "Andre Emmerich Gallery, NYC via the Carnegie International 1982",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10326&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7e26cbc3-d591-4f0f-af60-49397a5751ab",
+      "party_type": "Person",
+      "full_name": "David Hockney",
+      "cited_name": "Hockney, David",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Bedford (Bedfordshire, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

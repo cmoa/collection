@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "tempera on linen",
+  "accession_number": "2007.1",
+  "id": "cmoa:things/b94e2d31-96e3-4f7a-b624-2299a3be1599",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.625,
+  "item_height": 49.375,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=35857",
+  "provenance_text": "Anton Kern Gallery, New York City",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/acb7bd16-4af9-4b8c-a33a-6f6b57f698eb",
+      "party_type": "Person",
+      "full_name": "Sergej Jensen",
+      "cited_name": "Jensen, Sergej",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1973-01-01",
+      "death_date": null,
+      "birth_place": "Maglegaard, Denmark",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Adit",
+  "creation_date": null,
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "43.4.4",
+  "id": "cmoa:things/301427a4-4f33-491b-ab70-126742d2901d",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007440",
+  "provenance_text": "Stuart Davis [1892-1964]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bab43991-a1bb-43ec-ab60-2981c06c87a6",
+      "party_type": "Person",
+      "full_name": "Stuart Davis",
+      "cited_name": "Davis, Stuart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

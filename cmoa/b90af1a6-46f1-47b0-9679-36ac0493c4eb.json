@@ -1,0 +1,39 @@
+{
+  "title": "Landscape with Figures",
+  "creation_date": "1840s",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "pencil",
+  "accession_number": "79.71.3",
+  "id": "cmoa:things/b90af1a6-46f1-47b0-9679-36ac0493c4eb",
+  "credit_line": "Gift of Senator and Mrs. H. John Heinz III",
+  "date_acquired": "1980-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020896",
+  "provenance_text": "Gift of Senator and Mrs. H. John Heinz III, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85933&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5de2da29-da09-4a18-a246-bd4713b6661f",
+      "party_type": "Person",
+      "full_name": "William Sydney Mount",
+      "cited_name": "Mount, William S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1807-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Setauket (Suffolk county, New York state, United States)",
+      "death_place": "Setauket (Suffolk county, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Flame",
+  "creation_date": null,
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "color lithograph",
+  "accession_number": "55.67",
+  "id": "cmoa:things/4cb561b3-af7b-42d1-a43a-b8c073baf816",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009577",
+  "provenance_text": "William Charles Libby",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04a80a11-bbf3-450e-8d7f-7d40c31ceee6",
+      "party_type": "Person",
+      "full_name": "William Charles Libby",
+      "cited_name": "Libby, William C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Monroeville (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

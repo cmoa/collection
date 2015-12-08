@@ -1,0 +1,39 @@
+{
+  "title": "Box, Bowl and Whisk",
+  "creation_date": "1818",
+  "creation_date_earliest": "1818-01-01",
+  "creation_date_latest": "1818-01-01",
+  "medium": "woodcut; surimono",
+  "accession_number": "89.28.53",
+  "id": "cmoa:things/7cb0bad5-9624-44f0-8692-c653c9834f77",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028472",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25944&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eac5e5a2-b821-468b-8d41-1bf22db03f0c",
+      "party_type": "Person",
+      "full_name": "Hidenobu Hôrai",
+      "cited_name": "Hidenobu Hôrai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": "1820-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

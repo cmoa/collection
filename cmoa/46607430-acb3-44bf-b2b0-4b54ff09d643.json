@@ -1,0 +1,51 @@
+{
+  "title": "Nansô Kushihama (Nansô Kushihama)",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.221.1",
+  "id": "cmoa:things/46607430-acb3-44bf-b2b0-4b54ff09d643",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027738",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T. Z. Shiota, San Francisco, CA., 3/11/1977.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18959&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dbcfa569-8109-4b1f-8b44-24c61886fcf3",
+      "party_type": "Person",
+      "full_name": "Oda Hironobu",
+      "cited_name": "Oda Hironobu",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1888-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3a68950a-70d8-4d5d-8bae-c021e6241aeb",
+      "party_type": "Person",
+      "full_name": "Maeba Han",
+      "cited_name": "Maeba Han",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

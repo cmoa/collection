@@ -1,0 +1,51 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1853",
+  "creation_date_earliest": "1848-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "oak and beech with modern upholstery and brass",
+  "accession_number": "95.113",
+  "id": "cmoa:things/b41397e4-9bd9-4e78-943d-542a87c4a227",
+  "credit_line": "Purchase: gift of Baroness Cassel Van Doorn, by exchange",
+  "date_acquired": "1995-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 15.0,
+  "item_height": 35.5,
+  "item_depth": 16.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035494",
+  "provenance_text": "H. Blairman & Sons, London, England",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d212f14-4e5f-4cee-aff8-4cdc6c737a1c",
+      "party_type": "Person",
+      "full_name": "Augustus Welby Northmore Pugin",
+      "cited_name": "Pugin, Augustus Welby Northmore",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1812-01-01",
+      "death_date": "1852-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Ramsgate (Kent, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/7f97d988-5dba-439d-b590-54d1fa46aa08",
+      "party_type": "Person",
+      "full_name": "Henry George Thompson",
+      "cited_name": "Thompson, Henry George",
+      "role": "maker",
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1871-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

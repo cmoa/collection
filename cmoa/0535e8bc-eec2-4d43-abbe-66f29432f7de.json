@@ -1,0 +1,39 @@
+{
+  "title": "Teaspoon",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "silver",
+  "accession_number": "79.68.9",
+  "id": "cmoa:things/0535e8bc-eec2-4d43-abbe-66f29432f7de",
+  "credit_line": "Gift of Mr. and Mrs. Edward O'Neil II",
+  "date_acquired": "1979-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.375,
+  "item_height": 6.0,
+  "item_depth": 0.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020887",
+  "provenance_text": "John Stevenson (Retailer), PA, Pittsburgh",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5791&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

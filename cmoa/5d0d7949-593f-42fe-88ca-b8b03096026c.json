@@ -1,0 +1,39 @@
+{
+  "title": "Conversation Piece",
+  "creation_date": null,
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "etching",
+  "accession_number": "42.11.5",
+  "id": "cmoa:things/5d0d7949-593f-42fe-88ca-b8b03096026c",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007313",
+  "provenance_text": "The Weyhe Gallery, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100341&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/57556352-efd1-4dfc-a91d-fae95ce4026e",
+      "party_type": "Person",
+      "full_name": "Federico Castellon",
+      "cited_name": "Castellon, Federico",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Almería (Almería province, Andalusia, Spain)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

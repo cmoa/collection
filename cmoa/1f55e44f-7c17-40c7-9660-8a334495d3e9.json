@@ -1,0 +1,39 @@
+{
+  "title": "Boyhood Meltdown",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "acrylic and Rhoplex on chromogenic color print",
+  "accession_number": "87.36.1",
+  "id": "cmoa:things/1f55e44f-7c17-40c7-9660-8a334495d3e9",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1987-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.375,
+  "item_height": 32.375,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026352",
+  "provenance_text": "Dennis Farber, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10375&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f0da920-02df-4903-9695-485fb6e82060",
+      "party_type": "Person",
+      "full_name": "Dennis Farber",
+      "cited_name": "Farber, Dennis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

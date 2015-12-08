@@ -1,0 +1,39 @@
+{
+  "title": "Nagasaki",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "five-color lithograph on paper",
+  "accession_number": "57.18.3",
+  "id": "cmoa:things/84bf519c-0d9a-43a0-946b-08ec82bd9143",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010385",
+  "provenance_text": "L'Oeuvre Gravee, Zurich, Switzerland",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35273&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32412931-218e-435b-ad56-c3c9db2debb8",
+      "party_type": "Person",
+      "full_name": "Sugaï Kumi",
+      "cited_name": "Sugaï Kumi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1919-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Kobe (Hyogo prefecture, Kinki, Japan)",
+      "death_place": "Paris"
+    }
+  ]
+}

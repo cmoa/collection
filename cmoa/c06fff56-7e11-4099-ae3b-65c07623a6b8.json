@@ -1,0 +1,39 @@
+{
+  "title": "Neue Weinsteige",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.12.4",
+  "id": "cmoa:things/c06fff56-7e11-4099-ae3b-65c07623a6b8",
+  "credit_line": "Gift through the Museum Donor Program of the American Federation of the Arts",
+  "date_acquired": "1961-09-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 48.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011367",
+  "provenance_text": "Robert S. Neuman {1926-]. Allan Stone Gallery, New York, NY; purchased by American Federation of the Arts, New York, NY; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1961.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32741&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ebd723a-5d0c-4181-8d67-f0175ac4c104",
+      "party_type": "Person",
+      "full_name": "Robert S. Neuman",
+      "cited_name": "Neuman, Robert S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Kellogg, ID",
+      "death_place": null
+    }
+  ]
+}

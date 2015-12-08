@@ -1,0 +1,51 @@
+{
+  "title": "Jug",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "salt-glazed stoneware",
+  "accession_number": "2002.21.1.2",
+  "id": "cmoa:things/c9b44e71-67fe-46c2-af67-6f2712ca57ff",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 3.688,
+  "item_height": 6.625,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=39",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1585&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bd1c6390-bb5e-44b1-ae28-348ca2f18c4b",
+      "party_type": "Organization",
+      "full_name": "W. Brownfield & Sons",
+      "cited_name": "Brownfield, W. & Sons",
+      "role": "manufacturer",
+      "nationality": null,
+      "birth_date": "1871-01-01",
+      "death_date": "1891-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

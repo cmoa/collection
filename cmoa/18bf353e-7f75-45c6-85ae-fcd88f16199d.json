@@ -1,0 +1,45 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1893",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "glass",
+  "accession_number": "2007.41",
+  "id": "cmoa:things/18bf353e-7f75-45c6-85ae-fcd88f16199d",
+  "credit_line": "Purchase: gift of Audrey Hillman Fisher Foundation",
+  "date_acquired": "2007-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.5,
+  "item_height": 5.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=45504",
+  "provenance_text": "Lillian Nassau, LTD\nChristie's Magnificant Tiffany, December 18, 2006\nVito D'Agostino",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97614&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97618&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97620&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/126d884e-e980-44af-814b-ccbf4f61f697",
+      "party_type": "Organization",
+      "full_name": "Tiffany Glass and Decorating Company",
+      "cited_name": "Tiffany Glass and Decorating Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

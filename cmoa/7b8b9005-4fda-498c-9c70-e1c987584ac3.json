@@ -1,0 +1,39 @@
+{
+  "title": "Alicia chair",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "European birch plywood",
+  "accession_number": "2011.24",
+  "id": "cmoa:things/7b8b9005-4fda-498c-9c70-e1c987584ac3",
+  "credit_line": "Gift of Deena and Jerome Kaplan",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 23.0,
+  "item_height": 34.0,
+  "item_depth": 25.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92030",
+  "provenance_text": "Collection of Deena and Jerome Kaplan, Bethesda, MD",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7375ff28-b57b-445c-bd74-33d0262603d1",
+      "party_type": "Person",
+      "full_name": "Gregg Fleishman",
+      "cited_name": "Fleishman, Gregg",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

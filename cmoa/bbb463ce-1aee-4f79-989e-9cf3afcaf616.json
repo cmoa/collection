@@ -1,0 +1,39 @@
+{
+  "title": "Stone Fences",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "40.3.26",
+  "id": "cmoa:things/bbb463ce-1aee-4f79-989e-9cf3afcaf616",
+  "credit_line": "Gift of Mrs. Childe Hassam",
+  "date_acquired": "1940-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 8.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007188",
+  "provenance_text": "Kleemann Galleries",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0b8eec0-35c0-4301-a789-0e8f6c0c1bf3",
+      "party_type": "Person",
+      "full_name": "Childe Hassam",
+      "cited_name": "Hassam, Childe",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-10-17",
+      "death_date": "1935-08-27",
+      "birth_place": "Dorchester (Suffolk county, Massachusetts, United States)",
+      "death_place": "East Hampton (Suffolk county, New York state, United States)"
+    }
+  ]
+}

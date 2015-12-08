@@ -1,0 +1,51 @@
+{
+  "title": "Rushton Lodge, Northants, England",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.6.18",
+  "id": "cmoa:things/ba7603f3-7279-45c0-98b9-bed8a89cf0b0",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-06-27",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 6.438,
+  "item_height": 9.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030082",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102399&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9a344de1-a91d-4c9f-a5d7-3cb86bf74ebd",
+      "party_type": "Person",
+      "full_name": "Sir Thomas Tresham",
+      "cited_name": "Tresham, Thomas",
+      "role": "architect",
+      "nationality": "English",
+      "birth_date": "1543-01-01",
+      "death_date": "1605-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

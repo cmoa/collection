@@ -1,0 +1,39 @@
+{
+  "title": "Mount Fuji Seen from a Pine Tree",
+  "creation_date": "1830",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.318",
+  "id": "cmoa:things/422f59da-38d2-4c9a-8947-a4c2a754fe13",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027931",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, 3/31/1964.  From the Metzgar Coll.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100017&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

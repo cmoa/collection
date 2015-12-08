@@ -1,0 +1,42 @@
+{
+  "title": "Eau dormante (Sleeping Water)",
+  "creation_date": "1903",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "16.20.5",
+  "id": "cmoa:things/6487ae9a-f3e0-4972-b6b5-764d2785ed37",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001111",
+  "provenance_text": "George Busse",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107811&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107812&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bc7d3870-6522-42a7-90e3-94dd2cbcc656",
+      "party_type": "Person",
+      "full_name": "Henri Fantin-Latour",
+      "cited_name": "Fantin-Latour, H.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1836-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Grenoble (Isère, Rhône-Alpes, France)",
+      "death_place": "Basse-Normandie (France)"
+    }
+  ]
+}

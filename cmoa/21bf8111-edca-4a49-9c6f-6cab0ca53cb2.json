@@ -1,0 +1,39 @@
+{
+  "title": "Yaddo",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.20",
+  "id": "cmoa:things/21bf8111-edca-4a49-9c6f-6cab0ca53cb2",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 55th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1965-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 50.75,
+  "item_height": 31.5,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011906",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148760&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c9549c4-60a0-480a-bdff-74e5602c1c89",
+      "party_type": "Person",
+      "full_name": "Jane Haskell",
+      "cited_name": "Haskell, Jane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Cedarhurst, NY",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

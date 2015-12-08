@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "tin",
+  "accession_number": "67.9.11",
+  "id": "cmoa:things/7d12bd7b-e74c-4873-8104-6769c0eef846",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1967-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.625,
+  "item_height": 11.25,
+  "item_depth": 6.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012364",
+  "provenance_text": "Robert Carlen, PA, Philadelphia",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/317fcf4f-9846-4058-8b3d-e81b97818b1c",
+      "party_type": "Person",
+      "full_name": "J. Ketterer",
+      "cited_name": "Ketterer, J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

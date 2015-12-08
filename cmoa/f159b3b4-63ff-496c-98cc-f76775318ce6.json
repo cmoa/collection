@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "porcelain",
+  "accession_number": "2008.68",
+  "id": "cmoa:things/f159b3b4-63ff-496c-98cc-f76775318ce6",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61177",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105705&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ab08a1d-c906-43d6-a390-8b04581c8a02",
+      "party_type": "Person",
+      "full_name": "Hideaki Miyamura",
+      "cited_name": "Miyamura, Hideaki",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

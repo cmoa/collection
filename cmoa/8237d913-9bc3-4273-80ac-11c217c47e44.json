@@ -1,0 +1,39 @@
+{
+  "title": "Cluster of Buildings in Mountains",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.97.2",
+  "id": "cmoa:things/8237d913-9bc3-4273-80ac-11c217c47e44",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 7.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029231",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18992&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce260326-fd4f-49cb-b67a-32e2af4d29cf",
+      "party_type": "Person",
+      "full_name": "Okuyama Gihachirô",
+      "cited_name": "Okuyama Gihachirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1907-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

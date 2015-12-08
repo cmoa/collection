@@ -1,0 +1,48 @@
+{
+  "title": "Thunder Beings",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "painted and stained tulip poplar",
+  "accession_number": "2008.83",
+  "id": "cmoa:things/e58387a7-1f53-40f7-8c08-acbecafa64a1",
+  "credit_line": "Purchase: anonymous gift",
+  "date_acquired": "2008-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 8.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=67109",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97749&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97751&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97754&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97746&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd56a5b0-4f1b-4b32-997b-546b98614ae9",
+      "party_type": "Person",
+      "full_name": "Ron Layport",
+      "cited_name": "Layport, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": "Elyria, OH",
+      "death_place": null
+    }
+  ]
+}

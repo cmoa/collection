@@ -1,0 +1,51 @@
+{
+  "title": "The Thatcher",
+  "creation_date": "c. 1790-1820",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "mezzotint engraving printed in colors",
+  "accession_number": "2006.83.80",
+  "id": "cmoa:things/b6821f3d-fcd2-4ff5-9255-1ebdd98936ce",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.125,
+  "item_height": 19.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34551",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5475f80e-264f-4e95-ae71-8e516700f0b0",
+      "party_type": "Person",
+      "full_name": "William Ward",
+      "cited_name": "Ward, William",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1766-01-01",
+      "death_date": "1826-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

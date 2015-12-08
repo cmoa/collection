@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "1745-1755",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1687.A-B",
+  "id": "cmoa:things/a107d65e-197a-411e-9a8f-b61e134fe1de",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 6.375,
+  "item_depth": 8.813,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013830",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121242&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

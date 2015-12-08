@@ -1,0 +1,45 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.11.6",
+  "id": "cmoa:things/a1aeb45b-f70b-40af-9220-97216eb6d723",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008458",
+  "provenance_text": "Associated American Artist, Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103680&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103678&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76454&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7d16cf05-c72f-4b5d-b644-2e64956b7721",
+      "party_type": "Person",
+      "full_name": "Ivan Le Lorraine Albright",
+      "cited_name": "Albright, Ivan Le Lorraine",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Chicago",
+      "death_place": "Woodstock, Vermont"
+    }
+  ]
+}

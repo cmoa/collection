@@ -1,0 +1,39 @@
+{
+  "title": "Studies for Watchers",
+  "creation_date": null,
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "shell bronze casts",
+  "accession_number": "56.35",
+  "id": "cmoa:things/b442f066-5008-4bcd-aa9b-139e1a47e1a1",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1956-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 4.25,
+  "item_height": 9.25,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009741",
+  "provenance_text": "Reg Butler",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127748&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/308ba94f-4066-457d-afee-18340f371426",
+      "party_type": "Person",
+      "full_name": "Reg Butler",
+      "cited_name": "Butler, Reg",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1913-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": " Buntingford (Hertfordshire, England, United Kingdom)",
+      "death_place": " Berkhamsted (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

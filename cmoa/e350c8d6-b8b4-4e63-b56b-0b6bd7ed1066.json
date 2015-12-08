@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.15",
+  "id": "cmoa:things/e350c8d6-b8b4-4e63-b56b-0b6bd7ed1066",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018230",
+  "provenance_text": "Robert Rauschenberg, Inc., Captiva, FL",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106475&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/243f1d2c-9e04-4d8b-9fc9-0d148e8d5260",
+      "party_type": "Person",
+      "full_name": "Roy Lichtenstein",
+      "cited_name": "Lichtenstein, Roy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

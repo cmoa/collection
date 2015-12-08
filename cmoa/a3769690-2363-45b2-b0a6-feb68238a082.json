@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "wood",
+  "accession_number": "72.57",
+  "id": "cmoa:things/a3769690-2363-45b2-b0a6-feb68238a082",
+  "credit_line": "Mrs. John Berdan Decorative Arts Purchase Fund",
+  "date_acquired": "1972-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 17.75,
+  "item_height": 5.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016491",
+  "provenance_text": "Charles H. Gershenson sale held by H.O. McNierney, MI, Detroit, lot 101, 10/23/72",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3285&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

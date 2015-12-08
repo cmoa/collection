@@ -1,0 +1,39 @@
+{
+  "title": "Flask",
+  "creation_date": "c. 1-200 CE",
+  "creation_date_earliest": "-0050-01-03",
+  "creation_date_latest": "0250-01-01",
+  "medium": "blown glass",
+  "accession_number": "76.62.1",
+  "id": "cmoa:things/987fd509-a31e-49e3-985d-122e73e085a6",
+  "credit_line": "Gift of Mrs. Paul Block",
+  "date_acquired": "1977-02-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.75,
+  "item_height": 5.25,
+  "item_depth": 4.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018212",
+  "provenance_text": "Mrs. Paul Block, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cc21a8-4939-4c01-a3ca-27c9d46ab896",
+      "party_type": "Person",
+      "full_name": "unknown Roman",
+      "cited_name": "unknown Roman",
+      "role": null,
+      "nationality": "Ancient Roman",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Figure Before a Field",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.78",
+  "id": "cmoa:things/abce7355-9a23-4f5c-adc5-f37f043c2b5e",
+  "credit_line": "Living Arts Foundation Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Off-site",
+  "item_width": 72.0,
+  "item_height": 96.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010925",
+  "provenance_text": "1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149689&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfa30bce-a4c6-4f2f-90b3-0c3e46df1af5",
+      "party_type": "Person",
+      "full_name": "Jerrold Davis",
+      "cited_name": "Davis, Jerrold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Chico (Butte county, California, United States)",
+      "death_place": null
+    }
+  ]
+}

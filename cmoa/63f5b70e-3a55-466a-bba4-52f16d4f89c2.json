@@ -1,0 +1,39 @@
+{
+  "title": "Funerary",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "painted wood",
+  "accession_number": "89.26",
+  "id": "cmoa:things/63f5b70e-3a55-466a-bba4-52f16d4f89c2",
+  "credit_line": "Gift of Mr. and Mrs. Harry P. Blum",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 26.75,
+  "item_depth": 11.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026647",
+  "provenance_text": "Gift of Mr. and Mrs. Harry P. Blum, 1989.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127803&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d084294d-b74b-4722-be1f-c3ec1e0a8bfd",
+      "party_type": "Person",
+      "full_name": "unknown Congolese Zairean",
+      "cited_name": "unknown Congolese Zairean",
+      "role": null,
+      "nationality": "Congolese (Republic of Congo)",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

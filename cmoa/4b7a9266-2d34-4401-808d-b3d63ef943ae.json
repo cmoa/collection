@@ -1,0 +1,42 @@
+{
+  "title": "Entrance to the Terrace of Windsor Castle",
+  "creation_date": "1795-1805",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "graphite and pastel on paper mounted on board",
+  "accession_number": "58.35.1",
+  "id": "cmoa:things/4b7a9266-2d34-4401-808d-b3d63ef943ae",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1958-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010830",
+  "provenance_text": "Mr. and Mrs. Charles J. Rosenbloom, Pittsburgh; gift to museum, December 1958",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85441&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18129&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/801e9971-7294-4036-84fe-b55ef81cef43",
+      "party_type": "Person",
+      "full_name": "Benjamin West",
+      "cited_name": "West, Benjamin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1738-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": "Swarthmore, Pennsylvania",
+      "death_place": "London, England"
+    }
+  ]
+}

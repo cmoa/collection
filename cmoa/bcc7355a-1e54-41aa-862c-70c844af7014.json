@@ -1,0 +1,39 @@
+{
+  "title": "Mother and Children",
+  "creation_date": "c. 1904-1906",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.81",
+  "id": "cmoa:things/bcc7355a-1e54-41aa-862c-70c844af7014",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49096",
+  "provenance_text": "Ursula Gropper Associates (10/25/86)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55946&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/830bb9df-a309-43aa-9e29-beb54263ed69",
+      "party_type": "Person",
+      "full_name": "George H. Seeley",
+      "cited_name": "Seeley, George H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

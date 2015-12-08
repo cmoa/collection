@@ -1,0 +1,39 @@
+{
+  "title": "St. Paul Writing",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "pen and ink",
+  "accession_number": "76.49.14",
+  "id": "cmoa:things/c9dc605f-f231-432f-8732-ff01af43802f",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018143",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99101&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/803d2e3d-a72d-4442-819a-204d6e68c3b8",
+      "party_type": "Person",
+      "full_name": "Claude Vignon",
+      "cited_name": "Vignon, Claude",
+      "role": "copy after",
+      "nationality": "French",
+      "birth_date": "1593-01-01",
+      "death_date": "1670-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

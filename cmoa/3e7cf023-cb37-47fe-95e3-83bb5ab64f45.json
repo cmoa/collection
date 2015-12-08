@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "lead crystal glass, cast, sandblsated, ground and polished",
+  "accession_number": "2002.51.32",
+  "id": "cmoa:things/3e7cf023-cb37-47fe-95e3-83bb5ab64f45",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 9.25,
+  "item_depth": 8.813,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=406",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/467c8821-5d1a-4f7c-b50d-14c8b33a4731",
+      "party_type": "Person",
+      "full_name": "Steven Weinberg",
+      "cited_name": "Weinberg, Steven",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1881",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1886-01-01",
+  "medium": "glass with cut and engraved decoration",
+  "accession_number": "77.11.14",
+  "id": "cmoa:things/c7f5a3f4-b3a7-4b2a-9882-2f91f0eef135",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-05-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.188,
+  "item_depth": 0.0,
+  "item_diameter": 5.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018321",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=50&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

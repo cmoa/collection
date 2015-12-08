@@ -1,0 +1,42 @@
+{
+  "title": "Platter",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "earthenware with slip decoration",
+  "accession_number": "2001.32.2",
+  "id": "cmoa:things/e533a7d1-07c7-47d8-91e2-8f473076cbc1",
+  "credit_line": "Mary Murtland Wurts Fund",
+  "date_acquired": "2001-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 15.813,
+  "item_height": 2.25,
+  "item_depth": 12.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004237",
+  "provenance_text": "Paul Reeves, London",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12043&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4050&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c6cffa0-6755-4a53-a0c6-2ecde0efbeed",
+      "party_type": "Person",
+      "full_name": "Sonia Delaunay",
+      "cited_name": "Delaunay, Sonia",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1885-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": " Gradizhsk (Poltava oblast, Ukraine)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

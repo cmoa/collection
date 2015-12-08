@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Robert, 2nd Lord Brooke (Robert Greville Brooke, 1607-1643)",
+  "creation_date": "c. 1650",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1655-01-01",
+  "medium": "oil on copper; gold frame",
+  "accession_number": "27.10.7",
+  "id": "cmoa:things/00880137-8aaf-4e03-8059-f7a1672ca419",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 3.0,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005969",
+  "provenance_text": "E. M. Hodgkins, New York, NY; purchased by Herbert Dupuy [1856-1930], Pittsburgh, PA, May 7, 1918; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73233&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73239&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a942df2-7ebc-46c3-807a-38b985279275",
+      "party_type": "Person",
+      "full_name": "Francis Smiadecki",
+      "cited_name": "Smiadecki, Francis",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1650-01-01",
+      "death_date": null,
+      "birth_place": "Poland or Russia",
+      "death_place": null
+    }
+  ]
+}

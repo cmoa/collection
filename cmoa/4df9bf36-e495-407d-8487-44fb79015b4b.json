@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "2012",
+  "creation_date_earliest": "2012-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "papier-mâché, acrylic paint",
+  "accession_number": "2013.1",
+  "id": "cmoa:things/4df9bf36-e495-407d-8487-44fb79015b4b",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2013-02-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 46.75,
+  "item_height": 20.472,
+  "item_depth": 39.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100058",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119552&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129342&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0524b212-06ee-4bb5-84e0-2970f0efffe5",
+      "party_type": "Person",
+      "full_name": "Vincent Fecteau",
+      "cited_name": "Fecteau, Vincent",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": "Islip, New York, United States of America",
+      "death_place": null
+    }
+  ]
+}

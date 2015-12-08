@@ -1,0 +1,39 @@
+{
+  "title": "Still Life",
+  "creation_date": "1928",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "28.8",
+  "id": "cmoa:things/bfe3ce36-3db4-4311-a218-d89222f0f699",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1928-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 77.625,
+  "item_height": 52.063,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006154",
+  "provenance_text": "Paul Guillaume, Paris",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114675&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a487079e-b008-4eec-bdb6-f8f66619f032",
+      "party_type": "Person",
+      "full_name": "André Derain",
+      "cited_name": "Derain, André",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1880-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": " Chatou (Yvelines, Île-de-France, France)",
+      "death_place": "Garches (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

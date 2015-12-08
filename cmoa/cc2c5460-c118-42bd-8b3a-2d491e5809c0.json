@@ -1,0 +1,39 @@
+{
+  "title": "Burning Through",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "80.73.4",
+  "id": "cmoa:things/cc2c5460-c118-42bd-8b3a-2d491e5809c0",
+  "credit_line": "Gift of Mr. and Mrs. William A. Nitze",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.625,
+  "item_height": 47.625,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021302",
+  "provenance_text": "Mr. And Mrs. William A. Nitze, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29456&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db5a6578-f000-4406-b5ee-fceb8c68bffa",
+      "party_type": "Person",
+      "full_name": "Julian Stanczak",
+      "cited_name": "Stanczak, Julian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Poland (Europe)",
+      "death_place": null
+    }
+  ]
+}

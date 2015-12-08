@@ -1,0 +1,39 @@
+{
+  "title": "Tablespoon",
+  "creation_date": "1723-1724",
+  "creation_date_earliest": "1723-01-01",
+  "creation_date_latest": "1724-01-01",
+  "medium": "silver, sterling standard",
+  "accession_number": "48.1.52.4",
+  "id": "cmoa:things/5a3f9892-901e-40d7-8394-554aa62d1429",
+  "credit_line": "Bequest of Eleanore E. Stoney and Mary L. Edwards Collection of Georgian Silver",
+  "date_acquired": "1948-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.688,
+  "item_height": 8.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008184",
+  "provenance_text": "Estate of Mary L. Edwards, c/o Mellon Bank, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4767&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ad3a782-e7b3-4d44-b667-052b3124d745",
+      "party_type": "Person",
+      "full_name": "William Street",
+      "cited_name": "Street, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1720-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

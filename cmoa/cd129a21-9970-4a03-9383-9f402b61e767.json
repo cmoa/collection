@@ -1,0 +1,39 @@
+{
+  "title": "Christmas Greens",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "etching",
+  "accession_number": "82.5.3",
+  "id": "cmoa:things/cd129a21-9970-4a03-9383-9f402b61e767",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023009",
+  "provenance_text": "Hirschl and Adler Galleries, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72722&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebb74905-bbc9-4333-96ef-dd6e113dece6",
+      "party_type": "Person",
+      "full_name": "Julian Alden Weir",
+      "cited_name": "Weir, Julian A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "West Point (Orange county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Pastoral Landscape",
+  "creation_date": "c. 1854-1861",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1866-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2007.45",
+  "id": "cmoa:things/d4367e3e-cdff-46e7-8faa-987513337f3e",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "2007-10-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 43.5,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=46905",
+  "provenance_text": "Edward Henry Perkins, Jr. and William Perkins, his half brother, New York; The Spalding Library [1897-], Athens, PA, until at least 1899; Cameron Knight, Washington, by 1999 until 2007; sold at Christies, New York, on May 24, 2007, lot 62 [1]; purchased by Museum, 2007. \nNOTES:1. Bought in",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113420&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52625&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/96d3578f-80ff-4a1f-a537-948e05890a30",
+      "party_type": "Person",
+      "full_name": "Asher Brown Durand",
+      "cited_name": "Durand, Asher Brown",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1796-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Jefferson (Monmouth county, New Jersey, United States)",
+      "death_place": "Maplewood (Essex county, New Jersey, United States)"
+    }
+  ]
+}

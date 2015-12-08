@@ -1,0 +1,37 @@
+{
+  "title": "Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.120",
+  "id": "cmoa:things/e64401dd-48be-4a69-a7b8-9a115c8a78d2",
+  "credit_line": "Gift of Mr. and Mrs. J. C. Taylor",
+  "date_acquired": "1982-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 43.875,
+  "item_height": 37.25,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021579",
+  "provenance_text": "Mr. And Mrs. J. C. Taylor",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de15745b-3cbc-44c7-ae24-28c8e33ce619",
+      "party_type": "Person",
+      "full_name": "John Ross Key",
+      "cited_name": "Key, John R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": " Hagerstown (Washington county, Maryland, United States)",
+      "death_place": " Baltimore (Baltimore Independent City, Maryland, United States)"
+    }
+  ]
+}

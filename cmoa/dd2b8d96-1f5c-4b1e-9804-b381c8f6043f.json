@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "1815-1840",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "blown and cut glass",
+  "accession_number": "39.6.8",
+  "id": "cmoa:things/dd2b8d96-1f5c-4b1e-9804-b381c8f6043f",
+  "credit_line": "Gift of Mrs. Paul C. Wolff",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.75,
+  "item_height": 8.25,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007137",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=913&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b591431-d364-4d0c-9bc1-0bf94e6b67ad",
+      "party_type": "Organization",
+      "full_name": "Bakewell",
+      "cited_name": "Bakewell",
+      "role": "attributed manufacturer",
+      "nationality": "American",
+      "birth_date": "1808-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

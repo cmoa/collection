@@ -1,0 +1,39 @@
+{
+  "title": "A Portuguese Gentleman",
+  "creation_date": "c. 1927",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "28.5",
+  "id": "cmoa:things/ae31fbca-fb12-4386-aac8-e488e0020bc8",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1928-02-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 60.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006141",
+  "provenance_text": "Charles Webster Hawthorne [1872-1930], until 1928; purchased by Museum, 1928.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107654&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d89a6068-8a59-4d01-8c04-46cfb5b91837",
+      "party_type": "Person",
+      "full_name": "Charles Webster  Hawthorne",
+      "cited_name": "Hawthorne, Charles Webster",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": "Maine (United States)",
+      "death_place": null
+    }
+  ]
+}

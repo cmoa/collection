@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "silver",
+  "accession_number": "80.14.1",
+  "id": "cmoa:things/d5c45e08-a4c0-4b38-ac25-3e424b2de0ed",
+  "credit_line": "Gift of Mr. and Mrs. James H. Heroy, Jr.",
+  "date_acquired": "1980-05-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 7.125,
+  "item_depth": 4.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021082",
+  "provenance_text": "Gift of Mr. and Mrs. James H. Heroy, Jr., Trappe, MD, 1980.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5855&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23ffadd8-3659-4a9d-832e-27237c8ad4dc",
+      "party_type": "Organization",
+      "full_name": "Hyde and Goodrich",
+      "cited_name": "Hyde and Goodrich",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1866-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dorothy Heseltine",
+  "creation_date": "1874",
+  "creation_date_earliest": "1874-01-01",
+  "creation_date_latest": "1874-01-01",
+  "medium": "terracotta",
+  "accession_number": "2000.51.2",
+  "id": "cmoa:things/a76ef9aa-3ca6-4be7-ac82-35f61ee8dd31",
+  "credit_line": "Purchase with funds from an anonymous donor in honor of the late Adolph W. Schmidt",
+  "date_acquired": "2000-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 13.0,
+  "item_height": 16.5,
+  "item_depth": 8.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004083",
+  "provenance_text": "Anonymous Gift",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1c1009c-b34f-4042-8433-a18ac22203bb",
+      "party_type": "Person",
+      "full_name": "Aimé-Jules Dalou",
+      "cited_name": "Dalou, Aimé-Jules",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1838-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

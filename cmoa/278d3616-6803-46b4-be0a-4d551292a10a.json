@@ -1,0 +1,39 @@
+{
+  "title": "Prevalence of Ritual: Tidings",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "photostatic print",
+  "accession_number": "87.43.2",
+  "id": "cmoa:things/278d3616-6803-46b4-be0a-4d551292a10a",
+  "credit_line": "Gift of Frances and Harry Blum",
+  "date_acquired": "1988-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.625,
+  "item_height": 29.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026375",
+  "provenance_text": "Gift of Frances and Harry Blum, Pittsburgh, PA, 1988.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8065&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6d3e40-b16c-41f2-9833-9b8dc4928194",
+      "party_type": "Person",
+      "full_name": "Romare Howard Bearden",
+      "cited_name": "Bearden, Romare Howard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Charlotte (Mecklenburg county, North Carolina, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

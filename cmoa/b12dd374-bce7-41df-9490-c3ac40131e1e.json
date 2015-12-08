@@ -1,0 +1,51 @@
+{
+  "title": "Shoe buckle",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "slipped blue, white, and black jasperware",
+  "accession_number": "82.93.53",
+  "id": "cmoa:things/b12dd374-bce7-41df-9490-c3ac40131e1e",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 2.062,
+  "item_depth": 0.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023498",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3738&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a60bbead-0a57-47c0-92a8-14522a503d03",
+      "party_type": "Organization",
+      "full_name": "John and William Turner",
+      "cited_name": "Turner, John and William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1762-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/898197f4-ee85-4fd8-91d8-c89d7b828dfc",
+      "party_type": "Organization",
+      "full_name": "Lane End Works",
+      "cited_name": "Lane End Works",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1762-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

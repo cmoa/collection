@@ -1,0 +1,39 @@
+{
+  "title": "Aizu Winter",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1175.2",
+  "id": "cmoa:things/a9acdd47-ee4b-4f4c-bfb7-863d7e2965a2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 11.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026951",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35848&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa82574b-420c-4d3a-a80a-ed3d955bed14",
+      "party_type": "Person",
+      "full_name": "Saitô Kiyoshi",
+      "cited_name": "Saitô Kiyoshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1907-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Dixon Square, Westerly, Rhode Island",
+  "creation_date": null,
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "linoleum cut on paper",
+  "accession_number": "47.6",
+  "id": "cmoa:things/531d216f-9679-4f0e-ba35-439c1b500214",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1947-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.125,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008098",
+  "provenance_text": "Louis Novak",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100461&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100460&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bd6ea9a-3042-44d2-8c8f-2daaabf19ee0",
+      "party_type": "Person",
+      "full_name": "Louis Novak",
+      "cited_name": "Novak, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "ilina, Czechoslovakia, present-day Slovakia",
+      "death_place": "Cambridge, MA"
+    }
+  ]
+}

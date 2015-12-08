@@ -1,0 +1,39 @@
+{
+  "title": "The Lucky Ones",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2003.12.1",
+  "id": "cmoa:things/1f503af9-fd6b-45dd-bd71-d0a8c13b8de2",
+  "credit_line": "Purchase, with funds from The Buddy Taub Foundation, Dennis A. Roach and Jill Roach, Directors",
+  "date_acquired": "2003-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 39.375,
+  "item_height": 31.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2998",
+  "provenance_text": "David Zwirner, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21188&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08888b9f-9f88-4b45-b254-b8a4d54be6ab",
+      "party_type": "Person",
+      "full_name": "Michaël Borremans",
+      "cited_name": "Borremans, Michaël",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Geraardsbergen, Belgium",
+      "death_place": null
+    }
+  ]
+}

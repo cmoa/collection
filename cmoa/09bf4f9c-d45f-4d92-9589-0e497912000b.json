@@ -1,0 +1,39 @@
+{
+  "title": "Bud vase",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "painted glass",
+  "accession_number": "70.32.2614",
+  "id": "cmoa:things/09bf4f9c-d45f-4d92-9589-0e497912000b",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.188,
+  "item_depth": 0.0,
+  "item_diameter": 3.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014847",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=774&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72e7a257-413a-44b7-8dc0-dd06c91b55cc",
+      "party_type": "Person",
+      "full_name": "unknown Bohemian",
+      "cited_name": "unknown Bohemian",
+      "role": null,
+      "nationality": "Bohemian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

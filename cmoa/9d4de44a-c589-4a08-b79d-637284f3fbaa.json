@@ -1,0 +1,45 @@
+{
+  "title": "ABN AMRO Bank Head Office Building",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "plastic and flocking",
+  "accession_number": "2013.65.2",
+  "id": "cmoa:things/9d4de44a-c589-4a08-b79d-637284f3fbaa",
+  "credit_line": "Gift of Harry Wolf, FAIA",
+  "date_acquired": "2013-12-12",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 18.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103159",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127708&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127702&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127706&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08921b19-64a1-4d36-b5c9-3d52559f8eed",
+      "party_type": "Organization",
+      "full_name": "Wolf Architecture",
+      "cited_name": "Wolf Architecture",
+      "role": "architect and designer",
+      "nationality": "American",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

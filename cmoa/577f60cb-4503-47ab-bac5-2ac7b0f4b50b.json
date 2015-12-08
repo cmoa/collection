@@ -1,0 +1,42 @@
+{
+  "title": "Loading",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "45.21",
+  "id": "cmoa:things/577f60cb-4503-47ab-bac5-2ac7b0f4b50b",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.75,
+  "item_height": 10.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007572",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100550&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100551&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52aa1ef3-ac5f-461c-99a1-58498e72051f",
+      "party_type": "Person",
+      "full_name": "Clare Leighton",
+      "cited_name": "Leighton, Clare",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "London, England",
+      "death_place": " Woodbury (Litchfield county, Connecticut, United States)"
+    }
+  ]
+}

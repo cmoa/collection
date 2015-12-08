@@ -1,0 +1,39 @@
+{
+  "title": "Virgin and Child",
+  "creation_date": null,
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "44.8",
+  "id": "cmoa:things/923a2ddc-a09d-469b-9c0f-3bed86744893",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1944-11-29",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007548",
+  "provenance_text": "Rockwell Kent [1882-1971]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1944.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c93b85a2-9f1f-4e02-bf54-090918fe7976",
+      "party_type": "Person",
+      "full_name": "Rockwell Kent",
+      "cited_name": "Kent, Rockwell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " Tarrytown (Albany county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

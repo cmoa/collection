@@ -1,0 +1,51 @@
+{
+  "title": "Black and Yellow Warbler",
+  "creation_date": "1838",
+  "creation_date_earliest": "1838-01-01",
+  "creation_date_latest": "1838-01-01",
+  "medium": "engraving",
+  "accession_number": "59.41.1",
+  "id": "cmoa:things/1d656c6b-e9f3-46d9-ba98-5cf266f26ee4",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1959-10-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 21.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011009",
+  "provenance_text": "James L. & Sara M. Winokur, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72699&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5733eaab-fc49-47c5-97b6-a1def352d1f7",
+      "party_type": "Person",
+      "full_name": "Robert Havell Jr.",
+      "cited_name": "Havell, Robert, Jr.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1793-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": " Reading (England, United Kingdom)",
+      "death_place": " Tarrytown (Albany county, New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/955e5aa9-86d5-4a4e-9c24-482c1c45507d",
+      "party_type": "Person",
+      "full_name": "John J. Audubon",
+      "cited_name": "Audubon, John J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1785-01-01",
+      "death_date": "1851-01-01",
+      "birth_place": "Les Cayes (Sud, Haiti)",
+      "death_place": "New York"
+    }
+  ]
+}

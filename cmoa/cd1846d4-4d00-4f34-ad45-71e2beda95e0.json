@@ -1,0 +1,42 @@
+{
+  "title": "Book (Du Devoir des Filles)",
+  "creation_date": "1597",
+  "creation_date_earliest": "1597-01-01",
+  "creation_date_latest": "1597-01-01",
+  "medium": "Paper",
+  "accession_number": "72.28",
+  "id": "cmoa:things/cd1846d4-4d00-4f34-ad45-71e2beda95e0",
+  "credit_line": "Gift of Mrs. Lyall Dean and Mrs. Borden Helmer in memory of Mary Thaw Thompson",
+  "date_acquired": "1972-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 5.687,
+  "item_depth": 0.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016402",
+  "provenance_text": "Mrs. Lyall Dean And Mrs. Borden Helmer",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10115&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10116&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b25d6f66-2b2e-4ee9-af5f-6301d97f1876",
+      "party_type": "Person",
+      "full_name": "Jean de Glen",
+      "cited_name": "Glen, Jean de",
+      "role": "publisher",
+      "nationality": "Belgian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Liege, Belgium",
+      "death_place": null
+    }
+  ]
+}

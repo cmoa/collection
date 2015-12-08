@@ -1,0 +1,39 @@
+{
+  "title": "Balance",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "gouache and printed plastic on card",
+  "accession_number": "72.16.1",
+  "id": "cmoa:things/ad9e2fbe-e7f2-433f-bb2b-46cd9758a5af",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 62nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1972-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.5,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016378",
+  "provenance_text": "The Artist via 62nd Annual Associated Artists of Pittsburgh Exhibition Purchase Prize",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75054&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f8b4fcb-fd5f-4b6b-ac5c-4f98c822f70b",
+      "party_type": "Person",
+      "full_name": "Roland Gentilcore",
+      "cited_name": "Gentilcore, Roland",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

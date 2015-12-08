@@ -1,0 +1,39 @@
+{
+  "title": "Pierre Alechinsky",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "75.8.2",
+  "id": "cmoa:things/4610dff0-b807-4974-8945-e6c080cc2ec1",
+  "credit_line": "Gift of John Lefebre",
+  "date_acquired": "1975-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017928",
+  "provenance_text": "Gift of John Lefebre, New York, NY, 1975.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=14260&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/662be2ad-6fca-49db-9cc2-9612b66d3ba4",
+      "party_type": "Person",
+      "full_name": "John Lefebre",
+      "cited_name": "Lefebre, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "New York"
+    }
+  ]
+}

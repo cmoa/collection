@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of the Artist",
+  "creation_date": "1827",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "watercolor on ivory; gilt metal-mounted wood frame",
+  "accession_number": "27.10.195",
+  "id": "cmoa:things/6e1af625-5b01-4758-9bd3-ff05d0c33c7a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.938,
+  "item_height": 6.375,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005650",
+  "provenance_text": "Unknown source, Paris, France; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, 1905; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73658&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/089db579-981d-4001-a9e6-627180f9d650",
+      "party_type": "Person",
+      "full_name": "Jean Pierre Feulard",
+      "cited_name": "Feulard, Jean P.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1790-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

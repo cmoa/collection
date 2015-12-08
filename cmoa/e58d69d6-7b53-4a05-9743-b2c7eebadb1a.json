@@ -1,0 +1,39 @@
+{
+  "title": "An East River Idyll",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "00.5",
+  "id": "cmoa:things/e58d69d6-7b53-4a05-9743-b2c7eebadb1a",
+  "credit_line": "Purchase",
+  "date_acquired": "1900-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 46.0,
+  "item_height": 38.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000007",
+  "provenance_text": "Henry Ward Ranger [1858-1916]. William T. Evans, New York, by 1900. (American Art Association, New York, by January 31, 1900 until February 2, 1900) [1]; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1900. \nNOTES: [1] Auction of William T. Evans collection.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43e0a84b-6879-4598-a7fc-ea84c5a82d9b",
+      "party_type": "Person",
+      "full_name": "Henry Ward Ranger",
+      "cited_name": "Ranger, Henry W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": "Syracuse (Onondaga county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

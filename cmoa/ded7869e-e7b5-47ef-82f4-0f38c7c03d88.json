@@ -1,0 +1,57 @@
+{
+  "title": "Alice's Mirror",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "seven gelatin silver prints with hand-applied text",
+  "accession_number": "2003.20.3.A-.G",
+  "id": "cmoa:things/ded7869e-e7b5-47ef-82f4-0f38c7c03d88",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2003-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4213",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12358&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12352&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12353&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12354&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12355&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12356&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12357&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

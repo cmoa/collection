@@ -1,0 +1,39 @@
+{
+  "title": "A Long Island Landscape",
+  "creation_date": "1898",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "73.38.2",
+  "id": "cmoa:things/56b4385a-3834-4f58-9fe5-212464eaf48d",
+  "credit_line": "Howard N. Eavenson Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1973-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016725",
+  "provenance_text": "Ira Spanierman Galleries, New York, by 1973; Howard N. Eavenson Fund for the Howard N. Eavenson Americana Collection, 1973",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/758eeff1-9995-43c5-8524-ca1b8a8c257c",
+      "party_type": "Person",
+      "full_name": "Thomas Moran",
+      "cited_name": "Moran, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Bolton (Bolton, England, United Kingdom)",
+      "death_place": "Santa Barbara (Santa Barbara county, California, United States)"
+    }
+  ]
+}

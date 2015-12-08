@@ -1,0 +1,37 @@
+{
+  "title": "Counterpoint #1",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "86.68.3",
+  "id": "cmoa:things/142a6ed3-16c9-4b9b-9836-722fa178ac23",
+  "credit_line": "Gift of Johanna Zimmerman",
+  "date_acquired": "1987-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026243",
+  "provenance_text": "Johanna Zimmerman, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7830b832-9a2b-4e8f-b943-f4acb93b4b9e",
+      "party_type": "Person",
+      "full_name": "Gertrude Quastler",
+      "cited_name": "Quastler, Gertrude",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Brookhaven, NY"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Knud W. Jensen, Director of Louisiana Museum",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "76.50.4",
+  "id": "cmoa:things/ef9d031f-844c-4a32-bec5-7380d809605b",
+  "credit_line": "Gift of John Lefebre",
+  "date_acquired": "1976-12-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018158",
+  "provenance_text": "Gift of John Lefebre, New York, NY, 1976.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111948&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/662be2ad-6fca-49db-9cc2-9612b66d3ba4",
+      "party_type": "Person",
+      "full_name": "John Lefebre",
+      "cited_name": "Lefebre, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "New York"
+    }
+  ]
+}

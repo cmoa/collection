@@ -1,0 +1,39 @@
+{
+  "title": "Taos Mountain",
+  "creation_date": "1934-1935",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "59.13.1",
+  "id": "cmoa:things/d59aaffe-36da-4c78-9692-19220cb01376",
+  "credit_line": "Gift of Mason Wells",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 37.25,
+  "item_height": 28.75,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010953",
+  "provenance_text": "Gift of Mason Wells, Belvedere, California, 1959.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29693&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7178ccea-71ae-4369-b692-f5028c26e0bb",
+      "party_type": "Person",
+      "full_name": "Cady Wells",
+      "cited_name": "Wells, Cady",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

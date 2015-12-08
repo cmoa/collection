@@ -1,0 +1,51 @@
+{
+  "title": "Isaac Mytens",
+  "creation_date": "1630-1645",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1645-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.4",
+  "id": "cmoa:things/661866ae-2230-44b5-9a9d-0dd4627a0763",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005177",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102175&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bc0b6810-8348-4cdc-9327-7c0ba4ab799e",
+      "party_type": "Person",
+      "full_name": "Paul Du Pont",
+      "cited_name": "Du Pont, Paul",
+      "role": "after",
+      "nationality": "Belgian",
+      "birth_date": "1603-01-01",
+      "death_date": "1658-01-01",
+      "birth_place": " Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": " Antwerp (Antwerpen province, Flanders, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

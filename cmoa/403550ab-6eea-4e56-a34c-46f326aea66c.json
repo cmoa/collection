@@ -1,0 +1,45 @@
+{
+  "title": "Covered cup",
+  "creation_date": "1683",
+  "creation_date_earliest": "1683-01-01",
+  "creation_date_latest": "1683-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2433.A-B",
+  "id": "cmoa:things/403550ab-6eea-4e56-a34c-46f326aea66c",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 7.062,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014648",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5939&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5940&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5938&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.9.1",
+  "id": "cmoa:things/0e3bfed3-4e60-44b1-ac3d-61d18df5a908",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.875,
+  "item_depth": 0.0,
+  "item_diameter": 7.687,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003693",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1928&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12079f6e-e8bb-4ea7-b112-29a7c74b8d36",
+      "party_type": "Person",
+      "full_name": "Ludwig Konig",
+      "cited_name": "Konig, Ludwig",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c196c019-1ac0-4bab-ba55-ea985cc0454b",
+      "party_type": "Organization",
+      "full_name": "Staatliche Majolika-Manufaktur",
+      "cited_name": "Staatliche Majolika-Manufaktur",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

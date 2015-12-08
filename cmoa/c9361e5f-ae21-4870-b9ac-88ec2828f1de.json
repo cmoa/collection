@@ -1,0 +1,51 @@
+{
+  "title": "Thomas Howard (proof)",
+  "creation_date": "1697-1713",
+  "creation_date_earliest": "1697-01-01",
+  "creation_date_latest": "1713-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.138",
+  "id": "cmoa:things/c9361e5f-ae21-4870-b9ac-88ec2828f1de",
+  "credit_line": "Presented by Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005360",
+  "provenance_text": "F. Meder",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ddc9865-5583-473b-8dee-bee975959612",
+      "party_type": "Person",
+      "full_name": "Pieter Van Gunst",
+      "cited_name": "Van Gunst, Pieter",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1667-01-01",
+      "death_date": "1724-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e0ddf858-7784-4ca8-ab03-c2784bf05a8c",
+      "party_type": "Person",
+      "full_name": "Adriaen van der Werff",
+      "cited_name": "Werff, Adriaen van der",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1659-01-01",
+      "death_date": "1722-01-01",
+      "birth_place": "South Holland, Netherlands",
+      "death_place": "Rotterdam, Netherlands"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Chinatown, San Francisco",
+  "creation_date": null,
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "etching",
+  "accession_number": "49.5.8",
+  "id": "cmoa:things/490e7c85-3b8a-4a6c-8f70-08af5ba48b73",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008756",
+  "provenance_text": "John W. Winkler [1890-1979]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100649&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9a9fcc4-926c-4451-b3c9-8deb6740c738",
+      "party_type": "Person",
+      "full_name": "John W. Winkler,",
+      "cited_name": "Winkler,, John W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "California (United States)"
+    }
+  ]
+}

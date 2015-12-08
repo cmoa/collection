@@ -1,0 +1,39 @@
+{
+  "title": "Ecstasy",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "marble",
+  "accession_number": "70.46.2",
+  "id": "cmoa:things/b97be4b8-2521-4dfc-a836-1762adfa1804",
+  "credit_line": "Gift of the Hillman Foundation",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Off-site",
+  "item_width": 16.0,
+  "item_height": 24.25,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015818",
+  "provenance_text": "Emile Gilioli",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47086&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a417316-3b4e-4727-8a06-f7be2621db86",
+      "party_type": "Person",
+      "full_name": "Emile Gilioli",
+      "cited_name": "Gilioli, Emile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1911-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

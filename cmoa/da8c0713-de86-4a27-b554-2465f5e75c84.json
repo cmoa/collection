@@ -1,0 +1,39 @@
+{
+  "title": "Willie Stargell",
+  "creation_date": null,
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "serigraph on paper",
+  "accession_number": "81.113",
+  "id": "cmoa:things/da8c0713-de86-4a27-b554-2465f5e75c84",
+  "credit_line": "Gift of Maury Leibovitz",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.563,
+  "item_height": 46.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021560",
+  "provenance_text": "Maury Leibovitz, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e91094a-5100-488a-b0b6-913f95d02bd7",
+      "party_type": "Person",
+      "full_name": "LeRoy Neiman",
+      "cited_name": "Neiman, LeRoy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Saint Paul (Ramsey County, Minnesota, United States)",
+      "death_place": null
+    }
+  ]
+}

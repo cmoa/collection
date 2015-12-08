@@ -1,0 +1,39 @@
+{
+  "title": "Mount Jungfrau",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "2002.13.2",
+  "id": "cmoa:things/24ab8b14-7e27-456d-93b0-d50797a9b3b6",
+  "credit_line": "Mr. and Mrs. William A. Meyer Fund",
+  "date_acquired": "2002-04-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.312,
+  "item_height": 10.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004437",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, 4/2002; Mr. and Mrs. William A. Meyer Fund",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35437&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17eb67da-ba1a-468e-bbde-a229aa800c75",
+      "party_type": "Person",
+      "full_name": "Yoshida Hiroshi",
+      "cited_name": "Yoshida Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1876-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Kurume, Kyushu",
+      "death_place": null
+    }
+  ]
+}

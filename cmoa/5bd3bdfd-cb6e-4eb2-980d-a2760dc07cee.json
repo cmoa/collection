@@ -1,0 +1,39 @@
+{
+  "title": "Standing Figure",
+  "creation_date": "no date",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "pencil",
+  "accession_number": "16.27.13",
+  "id": "cmoa:things/5bd3bdfd-cb6e-4eb2-980d-a2760dc07cee",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001173",
+  "provenance_text": "Martin Birnbaum, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89419&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f798234-74d1-420a-9a4f-0fb9b82bb1bc",
+      "party_type": "Person",
+      "full_name": "Maurice Sterne",
+      "cited_name": "Sterne, Maurice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": "Libau, Russia, present-day Latvia",
+      "death_place": "Mount Kisco, NY"
+    }
+  ]
+}

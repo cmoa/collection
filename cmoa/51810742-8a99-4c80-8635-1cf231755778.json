@@ -1,0 +1,39 @@
+{
+  "title": "Shade Furnace",
+  "creation_date": "1879",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "oil on card mounted on Masonite",
+  "accession_number": "2004.31",
+  "id": "cmoa:things/51810742-8a99-4c80-8635-1cf231755778",
+  "credit_line": "Gift of Agnes C. Way, by transfer from the Music and Art Department, Carnegie Library of Pittsburgh",
+  "date_acquired": "2004-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 13.375,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8432",
+  "provenance_text": "Agnes C. Way [1842-1943]; gift to Carnegie Library of Pittsburgh, Music and Art Department; transferred to Carnegie Museum of Art, 2004.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114752&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a0f9efd-209f-42c7-bcdb-ec2b9edc1cc4",
+      "party_type": "Person",
+      "full_name": "Hugh Newell",
+      "cited_name": "Newell, Hugh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Belfast (Belfast, Northern Ireland, United Kingdom)",
+      "death_place": "Bloomfield (Essex county, New Jersey, United States)"
+    }
+  ]
+}

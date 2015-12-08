@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2000.24.2",
+  "id": "cmoa:things/acc97301-43b9-4fe2-89e6-96fe77295835",
+  "credit_line": "Alan D. and Marsha W. Bramowitz Contemporary Print Acquisition Fund",
+  "date_acquired": "2000-06-01",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 49.0,
+  "item_height": 36.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004016",
+  "provenance_text": "Gemini G.E.L., Los Angeles, California",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118184&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1c5b1d7-8ca3-4e2e-a1b0-1417992d81d2",
+      "party_type": "Person",
+      "full_name": "Robert Gober",
+      "cited_name": "Gober, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Wallingford (New Haven county, Connecticut, United States)",
+      "death_place": null
+    }
+  ]
+}

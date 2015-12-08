@@ -1,0 +1,54 @@
+{
+  "title": "The Honorable Robert Boyle, Esq.",
+  "creation_date": "c. 1732-1750",
+  "creation_date_earliest": "1722-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.26",
+  "id": "cmoa:things/69d8c048-4e23-49d4-aacc-87c0f28a31ec",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34365",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100082&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39299&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c27b2d4-f8a0-4c0b-8646-8db18f537320",
+      "party_type": "Person",
+      "full_name": "John Faber Jr.",
+      "cited_name": "Faber, John Jr.",
+      "role": "artist",
+      "nationality": "British",
+      "birth_date": "1684-01-01",
+      "death_date": "1756-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2b40b407-80ac-446b-b8e9-1ecee97ed739",
+      "party_type": "Person",
+      "full_name": "Giovanni Battista Guelfi",
+      "cited_name": "Guelfi, Giovanni Battista",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1690-01-01",
+      "death_date": "1736-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

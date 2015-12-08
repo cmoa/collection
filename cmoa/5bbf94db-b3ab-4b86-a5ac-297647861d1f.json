@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 3000 BCE-2000 BCE",
+  "creation_date_earliest": "-3005-01-26",
+  "creation_date_latest": "-1995-01-18",
+  "medium": "painted earthenware",
+  "accession_number": "75.27.2",
+  "id": "cmoa:things/5bbf94db-b3ab-4b86-a5ac-297647861d1f",
+  "credit_line": "Walter Read Hovey Collection",
+  "date_acquired": "1975-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.688,
+  "item_height": 4.0,
+  "item_depth": 3.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017729",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4698&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d50f6c0f-7b78-48e0-8057-7dc53a7d0244",
+      "party_type": "Person",
+      "full_name": "unknown Mesopotamian, Susa",
+      "cited_name": "unknown Mesopotamian, Susa",
+      "role": null,
+      "nationality": "Mesopotamian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

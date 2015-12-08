@@ -1,0 +1,49 @@
+{
+  "title": "DCM (Dining chair metal)",
+  "creation_date": null,
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "chromium-plated steel rods, walnut veneered plywood seat and back",
+  "accession_number": "81.100.1",
+  "id": "cmoa:things/0cde1a3c-c6b2-4a5c-9850-3489dcb13df1",
+  "credit_line": "Gift of Herman Miller, Inc.",
+  "date_acquired": "1981-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.5,
+  "item_height": 29.875,
+  "item_depth": 19.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021482",
+  "provenance_text": "Herman Miller, Zeeland, Michigan",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Open Window",
+  "creation_date": "c. 1914",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "Woodcut on wove paper",
+  "accession_number": "2005.49",
+  "id": "cmoa:things/af6664c0-c97c-4a1d-894f-f9aa07b10005",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2005-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=17133",
+  "provenance_text": "Colnaghi's, London\nLondon art market\nFine Art Society, London",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31771&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b28c1463-48b6-4469-97ea-8e84a33974e8",
+      "party_type": "Person",
+      "full_name": "Edward Alexander Wadsworth",
+      "cited_name": "Wadsworth, Edward Alexander",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1889-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Cleckheaton (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

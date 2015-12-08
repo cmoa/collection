@@ -1,0 +1,39 @@
+{
+  "title": "Kooster Birds",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "Iron",
+  "accession_number": "60.20",
+  "id": "cmoa:things/0b0b3140-6b55-4972-9801-4989a8d29012",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 50th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1960-03-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 82.5,
+  "item_depth": 0.0,
+  "item_diameter": 13.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011168",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147304&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c7bdee82-6b93-4252-954f-816cf139c54a",
+      "party_type": "Person",
+      "full_name": "Virgil Cantini",
+      "cited_name": "Cantini, Virgil",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Italy",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

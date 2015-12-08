@@ -1,0 +1,51 @@
+{
+  "title": "William Godwin",
+  "creation_date": "1802",
+  "creation_date_earliest": "1802-01-01",
+  "creation_date_latest": "1802-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.54",
+  "id": "cmoa:things/f52154ff-a9b8-4c75-ab98-8f29bbdb3fce",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34478",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39636&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e833faeb-f9f2-45a8-8fe5-570d34c2366e",
+      "party_type": "Person",
+      "full_name": "George Dawe",
+      "cited_name": "Dawe, George",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1781-01-01",
+      "death_date": "1829-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db956ad9-50b4-44fb-ae32-c693fa028e51",
+      "party_type": "Person",
+      "full_name": "James Northcote",
+      "cited_name": "Northcote, James",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1746-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": "Plymouth (City of Plymouth, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

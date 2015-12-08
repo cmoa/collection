@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of an Unknown Man",
+  "creation_date": "1717",
+  "creation_date_earliest": "1717-01-01",
+  "creation_date_latest": "1717-01-01",
+  "medium": "enamel on metal; gilt metal and pearl frame",
+  "accession_number": "27.10.27",
+  "id": "cmoa:things/71bf08e1-a290-4510-981f-e02d91d37ac6",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.75,
+  "item_height": 2.375,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005702",
+  "provenance_text": "Sold at Duveen Brothers, Inc., New York; purchased by Herbert Dupuy [1856-1930], Pittsburgh, PA, October 11, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73422&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04b98424-e2fe-42c1-96bd-7dab4758b81a",
+      "party_type": "Person",
+      "full_name": "Christian Friederich Zincke",
+      "cited_name": "Zincke, Christian F.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1685-01-01",
+      "death_date": "1767-01-01",
+      "birth_place": "Dresden (Dresden district, Saxony, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

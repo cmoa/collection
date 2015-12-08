@@ -1,0 +1,51 @@
+{
+  "title": "New Year's Day on Niju Bridge (Shôgatsu no Nijubashi)",
+  "creation_date": "January 1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.838.3",
+  "id": "cmoa:things/78dd9a73-1ccb-4fef-8c23-1d48cdca0138",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 15.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029008",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from the T.Z. Shiota Gallery, San Francisco, CA. nd",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35781&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b9e6569-4d28-49a4-8966-022a3561b6cf",
+      "party_type": "Person",
+      "full_name": "Koizumi Kishio",
+      "cited_name": "Koizumi Kishio",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1893-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Japan, Shizuoka",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bd6c65fc-7749-4fc3-8e6d-8b9c70c9423e",
+      "party_type": "Organization",
+      "full_name": "Asahi Press",
+      "cited_name": "Asahi Press",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

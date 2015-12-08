@@ -1,0 +1,51 @@
+{
+  "title": "Maiko (Apprentice Geisha in Kyoto)",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1420",
+  "id": "cmoa:things/79229f7a-aa2f-4177-8d54-7a3c589f25f6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 20.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027310",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan 1984.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2bdac059-a5cd-4898-9d57-080ba6f047e6",
+      "party_type": "Person",
+      "full_name": "Kitano Tsunetomi",
+      "cited_name": "Kitano Tsunetomi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1880-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": "Japan, Kanazawa",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/34999ca4-54e8-4787-a9e4-3d7d55b156a7",
+      "party_type": "Organization",
+      "full_name": "Nezu Seitarô",
+      "cited_name": "Nezu Seitarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

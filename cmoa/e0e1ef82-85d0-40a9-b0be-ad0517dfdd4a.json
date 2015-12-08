@@ -1,0 +1,39 @@
+{
+  "title": "The Artist's Father (and Nude Figures)",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": "1917-01-01",
+  "medium": "crayon, red on paper",
+  "accession_number": "17.34.2",
+  "id": "cmoa:things/e0e1ef82-85d0-40a9-b0be-ad0517dfdd4a",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-02-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001572",
+  "provenance_text": "Scott and Fowles, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8626802a-805b-45d6-a2de-12f30d44bc2b",
+      "party_type": "Person",
+      "full_name": "Ernest Cole",
+      "cited_name": "Cole, Ernest",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

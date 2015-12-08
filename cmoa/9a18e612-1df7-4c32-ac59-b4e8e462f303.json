@@ -1,0 +1,39 @@
+{
+  "title": "Frontispiece: a London Garland",
+  "creation_date": "c. 1895",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "drawing in black and white ink",
+  "accession_number": "20.17.2",
+  "id": "cmoa:things/9a18e612-1df7-4c32-ac59-b4e8e462f303",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-08-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004543",
+  "provenance_text": "Clement Parsons, Broadway, Worcestershire, England",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99174&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/082e97f0-30c3-4c04-ac4a-60442ab779fa",
+      "party_type": "Person",
+      "full_name": "Alfred William Parsons",
+      "cited_name": "Parsons, Alfred W.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1847-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Beckington (Somerset, England, United Kingdom)",
+      "death_place": "Broadway (England, United Kingdom)"
+    }
+  ]
+}

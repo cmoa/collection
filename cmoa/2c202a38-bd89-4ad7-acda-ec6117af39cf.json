@@ -1,0 +1,39 @@
+{
+  "title": "Yorktown",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "wood",
+  "accession_number": "61.46",
+  "id": "cmoa:things/2c202a38-bd89-4ad7-acda-ec6117af39cf",
+  "credit_line": "Gift of Allan Stone Gallery",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 50.0,
+  "item_height": 65.5,
+  "item_depth": 52.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011447",
+  "provenance_text": "Stone Gallery for 1961 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147311&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b344b69-5f70-4586-bfab-1a9ab4401a6e",
+      "party_type": "Person",
+      "full_name": "Thomas J. Doyle",
+      "cited_name": "Doyle, Thomas J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Jerry City (Wood County, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

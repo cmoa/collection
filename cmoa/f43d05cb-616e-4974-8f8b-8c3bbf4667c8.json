@@ -1,0 +1,54 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "earthenware",
+  "accession_number": "91.10",
+  "id": "cmoa:things/f43d05cb-616e-4974-8f8b-8c3bbf4667c8",
+  "credit_line": "Gift of Mr. and Mrs. James M. Walton",
+  "date_acquired": "1991-06-27",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 14.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029406",
+  "provenance_text": "Mr. and Mrs. James M. Walton, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5290&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3777&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04731a63-d986-47c8-b8d0-2e76ec93dc62",
+      "party_type": "Person",
+      "full_name": "Edwin Scheier",
+      "cited_name": "Scheier, Edwin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c9eedf7-280e-437d-8e10-d4d4fe95e7e9",
+      "party_type": "Person",
+      "full_name": "Mary Scheier",
+      "cited_name": "Scheier, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Salem (Culpeper county, Virginia, United States)",
+      "death_place": "Green Valley (Pima county, Arizona, United States)"
+    }
+  ]
+}

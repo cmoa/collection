@@ -1,0 +1,39 @@
+{
+  "title": "The Melon",
+  "creation_date": "1859",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "lithograph on newspaper",
+  "accession_number": "69.48.71",
+  "id": "cmoa:things/6eafa0ac-2f88-4406-bff6-04674544a467",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012941",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=77281&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b104a29c-7e1c-42a3-8e02-68919c92b99a",
+      "party_type": "Person",
+      "full_name": "Honoré Daumier",
+      "cited_name": "Daumier, Honoré",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1808-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

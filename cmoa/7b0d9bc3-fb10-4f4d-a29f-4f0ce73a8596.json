@@ -1,0 +1,39 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.173.A-B",
+  "id": "cmoa:things/7b0d9bc3-fb10-4f4d-a29f-4f0ce73a8596",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007793",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=944&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

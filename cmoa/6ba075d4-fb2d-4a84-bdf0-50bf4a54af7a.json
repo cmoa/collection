@@ -1,0 +1,39 @@
+{
+  "title": "On the Monongahela",
+  "creation_date": "c. 1912",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.29",
+  "id": "cmoa:things/6ba075d4-fb2d-4a84-bdf0-50bf4a54af7a",
+  "credit_line": "Gift of Irene G. Rawley in memory of Wayne Rawley",
+  "date_acquired": "1956-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.625,
+  "item_height": 12.875,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009693",
+  "provenance_text": "Aaron Henry Gorson [1872-1933]. Irene G. Rawley, Aspinwall, PA, until 1956; gift to Museum, June 1956 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a0585ba0-b64e-4f32-be54-74b8e1d36531",
+      "party_type": "Person",
+      "full_name": "Aaron Henry Gorson",
+      "cited_name": "Gorson, Aaron H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Russia",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

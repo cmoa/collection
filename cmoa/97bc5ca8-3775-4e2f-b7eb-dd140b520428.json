@@ -1,0 +1,54 @@
+{
+  "title": "Weed holder",
+  "creation_date": "1893-1902",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "copper",
+  "accession_number": "83.19",
+  "id": "cmoa:things/97bc5ca8-3775-4e2f-b7eb-dd140b520428",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1983-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 4.0,
+  "item_height": 29.25,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023607",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96731&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5056&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5847991-4552-4fe3-9c4f-498d28b68667",
+      "party_type": "Person",
+      "full_name": "Frank Lloyd Wright",
+      "cited_name": "Wright, Frank L.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Richland Center, Wisconsin",
+      "death_place": "Phoenix, Arizona"
+    },
+    {
+      "artist_id": "cmoa:parties/3e33f3b4-46f1-46f3-8025-3d49d828635b",
+      "party_type": "Organization",
+      "full_name": "James A. Miller and Brother",
+      "cited_name": "Miller, James A. and Brother",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

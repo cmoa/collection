@@ -1,0 +1,39 @@
+{
+  "title": "Maracaibo",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "acrylic, Rhoplex, tobacco cloth, graphite on canvas.",
+  "accession_number": "82.60",
+  "id": "cmoa:things/b2483fc8-ff8b-49af-a358-797a313fff6f",
+  "credit_line": "Carnegie International Acquisition Fund and the Vira I. Heinz Fund",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 84.0,
+  "item_height": 97.0,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023033",
+  "provenance_text": "Nancy Hoffman Gallery, NYC via the Carnegie International 1982",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce74fe31-c962-479f-a26f-7705985732a0",
+      "party_type": "Person",
+      "full_name": "Terence David La Noue",
+      "cited_name": "La Noue, Terence David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Hammond (Lake county, Indiana, United States)",
+      "death_place": null
+    }
+  ]
+}

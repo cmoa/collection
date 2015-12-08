@@ -1,0 +1,39 @@
+{
+  "title": "Untitled 2",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on linen",
+  "accession_number": "87.8",
+  "id": "cmoa:things/5cf4e618-90db-4f57-a8a6-e5666a9f937e",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1987-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 58.125,
+  "item_height": 72.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026415",
+  "provenance_text": "Mary Boone Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh; Edith H. Fisher Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3593&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fe0ab85b-c1e5-4729-afbe-d0de68a24ddf",
+      "party_type": "Person",
+      "full_name": "Brice Marden",
+      "cited_name": "Marden, Brice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Bronxville (Westchester county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

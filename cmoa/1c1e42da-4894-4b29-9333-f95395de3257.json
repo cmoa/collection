@@ -1,0 +1,39 @@
+{
+  "title": "Rigamarole",
+  "creation_date": "2012",
+  "creation_date_earliest": "2012-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "tintype with hand-applied oil paint",
+  "accession_number": "2013.61",
+  "id": "cmoa:things/1c1e42da-4894-4b29-9333-f95395de3257",
+  "credit_line": "The William T. Hillman Fund for Photography",
+  "date_acquired": "2013-12-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101679",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

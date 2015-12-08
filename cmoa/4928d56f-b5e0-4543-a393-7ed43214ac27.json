@@ -1,0 +1,39 @@
+{
+  "title": "The Last Load",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.34",
+  "id": "cmoa:things/4928d56f-b5e0-4543-a393-7ed43214ac27",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012900",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108052&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c90a3a80-b264-450e-bf55-2d7987d38062",
+      "party_type": "Person",
+      "full_name": "Alice Standish Buell",
+      "cited_name": "Buell, Alice Standish",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Oak Park, IL",
+      "death_place": null
+    }
+  ]
+}

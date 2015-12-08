@@ -1,0 +1,39 @@
+{
+  "title": "Universe (Agnes)/Positive",
+  "creation_date": "2000-2002",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "fiberglass",
+  "accession_number": "2002.36",
+  "id": "cmoa:things/5704ce44-d33e-4ade-8aa8-14f9732e1c77",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 17.0,
+  "item_depth": 30.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=336",
+  "provenance_text": "Andrew Kreps Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37606&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0bf90c49-78e0-4b59-a8e6-0e01e5c4e20c",
+      "party_type": "Person",
+      "full_name": "Ricci Albenda",
+      "cited_name": "Albenda, Ricci",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn (New York City, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

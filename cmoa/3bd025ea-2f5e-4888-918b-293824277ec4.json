@@ -1,0 +1,39 @@
+{
+  "title": "(Venus and two Putti)",
+  "creation_date": "1811",
+  "creation_date_earliest": "1811-01-01",
+  "creation_date_latest": "1811-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "2000.70",
+  "id": "cmoa:things/3bd025ea-2f5e-4888-918b-293824277ec4",
+  "credit_line": "Gift of David and Constance Yates in honor of Herbert and Carol Diamond",
+  "date_acquired": "2000-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004138",
+  "provenance_text": "Gift of David And Constance Yates, in honor of Herbert and Carol Diamond, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99176&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/07742c20-f70e-479d-bf65-f1e0d5a57638",
+      "party_type": "Person",
+      "full_name": "Bartolomeo Pinelli",
+      "cited_name": "Pinelli, Bartolomeo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1781-01-01",
+      "death_date": "1835-01-01",
+      "birth_place": "Rome, Italy",
+      "death_place": "Rome, Italy"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "You Can't Lay Down Your Memories",
+  "creation_date": "designed 1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "maple, recycled drawers, and jute strap",
+  "accession_number": "2005.17",
+  "id": "cmoa:things/c218423b-a63a-4980-8823-cda561a9bf38",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2005-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 51.0,
+  "item_height": 56.0,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14156",
+  "provenance_text": "Barry Friedman Ltd., New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96176&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129339&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caae065e-e825-45a1-9486-37cf1119d056",
+      "party_type": "Person",
+      "full_name": "Tejo Remy",
+      "cited_name": "Remy, Tejo",
+      "role": "designer",
+      "nationality": "Dutch",
+      "birth_date": "1960-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/91374de8-c084-468f-bd80-f28b4ef391b9",
+      "party_type": "Organization",
+      "full_name": "Droog Design",
+      "cited_name": "Droog Design",
+      "role": "design collaborative",
+      "nationality": "Dutch",
+      "birth_date": "1993-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

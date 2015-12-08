@@ -1,0 +1,42 @@
+{
+  "title": "Yumedono at Hôryûji",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1059",
+  "id": "cmoa:things/7a397230-fe56-4f17-89ac-f3e898ae63c3",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 20.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026778",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, ILL.,1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83556&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32679&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d138629-8505-4eb6-b4d6-e57801f8c5ee",
+      "party_type": "Person",
+      "full_name": "Munakata Shikô",
+      "cited_name": "Munakata Shikô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

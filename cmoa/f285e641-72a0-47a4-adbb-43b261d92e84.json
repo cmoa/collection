@@ -1,0 +1,42 @@
+{
+  "title": "Anna Pearson Hall",
+  "creation_date": "1903",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "bronze",
+  "accession_number": "76.34.2",
+  "id": "cmoa:things/f285e641-72a0-47a4-adbb-43b261d92e84",
+  "credit_line": "Bequest of Anna Pearson Hatch",
+  "date_acquired": "1976-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.375,
+  "item_height": 11.125,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018073",
+  "provenance_text": "Robert Calvin Hall, Pittsburgh, c. 1903; Anna Pearson Hall, his daughter, by descent; bequest to museum, October 1976",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146513&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107712&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10738ecf-8ba8-4f26-abab-d10c37d11eaf",
+      "party_type": "Person",
+      "full_name": "Frank D. Millet",
+      "cited_name": "Millet, Frank D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Mattapoisett (Plymouth County, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

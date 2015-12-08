@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "oil on paper",
+  "accession_number": "83.8",
+  "id": "cmoa:things/9ad7703c-a606-4f75-a2eb-3304023de091",
+  "credit_line": "Fine Arts Discretionary Fund",
+  "date_acquired": "1983-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 32.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024382",
+  "provenance_text": "Delahunty, Dallas",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25022&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f97acb92-c59d-4de5-a136-ac24c34a9b42",
+      "party_type": "Person",
+      "full_name": "Danny Williams",
+      "cited_name": "Williams, Danny",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tabernas",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2007.51.47.4",
+  "id": "cmoa:things/091bcec3-b684-455f-b20e-2f921b2bbe00",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.75,
+  "item_height": 9.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92318",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107464&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a260d531-f88b-475b-9195-26ec98c55bf6",
+      "party_type": "Person",
+      "full_name": "Douglas Keats",
+      "cited_name": "Keats, Douglas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Massachusetts",
+      "death_place": null
+    }
+  ]
+}

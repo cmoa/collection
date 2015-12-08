@@ -1,0 +1,39 @@
+{
+  "title": "Soliloquy",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "black and white lithograph",
+  "accession_number": "57.3.60",
+  "id": "cmoa:things/ee524e50-2884-4fed-9de8-875659578dd7",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1957-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 21.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010529",
+  "provenance_text": "Mrs. James H. Beal, Pittsburgh; gift to museum, April 1957",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100838&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a45438c-fc3b-4041-9e6a-77431ac1a66d",
+      "party_type": "Person",
+      "full_name": "Benton Murdoch Spruance",
+      "cited_name": "Spruance, Benton M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Diskfield",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "CD-ROM",
+  "accession_number": "2008.62",
+  "id": "cmoa:things/66f0ff36-f049-455a-901c-f438b8e9cb78",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 98th Annual Exhibition of the Associated Artists of Pittsburgh through the Second Century Acquisition Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=67642",
+  "provenance_text": "The artist, Meadville, PA",
+  "classification": "computer art",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76438&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76440&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76439&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0abdac67-64a6-4d77-98d3-e4b26ae5f7db",
+      "party_type": "Person",
+      "full_name": "George Roland",
+      "cited_name": "Roland, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

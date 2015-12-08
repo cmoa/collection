@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.49.2",
+  "id": "cmoa:things/843105bd-ce75-49e1-8263-74aa95db8fc0",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104992",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132216&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0636bef7-82db-4fa9-bc27-607f5a961241",
+      "party_type": "Person",
+      "full_name": "Hamidou Maiga",
+      "cited_name": "Maiga, Hamidou",
+      "role": null,
+      "nationality": "Malian",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Bobo-Dioulasso, Burkina Faso",
+      "death_place": null
+    }
+  ]
+}

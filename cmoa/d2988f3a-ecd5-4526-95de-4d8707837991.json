@@ -1,0 +1,42 @@
+{
+  "title": "[Untitled]",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "2014.74",
+  "id": "cmoa:things/d2988f3a-ecd5-4526-95de-4d8707837991",
+  "credit_line": "Gift in Memory of the Artist’s Friend, Samuel Rosenberg",
+  "date_acquired": "2014-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 13.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=105928",
+  "provenance_text": "Alfredo Zalce [1908-2003]; gift to Samuel Rosenberg [1896-1972], Pittsburgh, PA; gift to Murray Zale Rosenberg, his son [1925-1996]; Joel Rosenberg and Dorothy Ruley Rosenberg, Ashville, NC; gift to Carnegie Museum of Art, Pittsburgh, PA, December 2014.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134073&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134072&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/011a5b62-e499-483b-afac-31bfd4d97e54",
+      "party_type": "Person",
+      "full_name": "Alfredo Zalce",
+      "cited_name": "Zalce, Alfredo",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1908-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Pátzcuaro (Michoacán de Ocampo, Mexico)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Woman Dressing)",
+  "creation_date": "1868",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.921",
+  "id": "cmoa:things/2e96800d-240c-497f-a89e-5460e664a04b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029168",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107392&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17fd2777-8aca-4caa-90fe-4a8cc39adf33",
+      "party_type": "Person",
+      "full_name": "Kunisada II (Toyokuni IV)",
+      "cited_name": "Kunisada II (Toyokuni IV)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1823-01-01",
+      "death_date": "1880-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Serving plate with handles",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.13",
+  "id": "cmoa:things/42327b51-c9c5-454c-a5c2-e5b92f4a1fc5",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 12.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003644",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68202&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1d5943a-25ba-425f-8477-a8f10b0431c6",
+      "party_type": "Person",
+      "full_name": "Theodor Paetsch",
+      "cited_name": "Paetsch, Theodor",
+      "role": "Manufacturer",
+      "nationality": "German",
+      "birth_date": "1840-01-01",
+      "death_date": "1890-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a6c8b8c5-f711-4293-9843-96725063b2ca",
+      "party_type": "Organization",
+      "full_name": "Steingutfabrik",
+      "cited_name": "Steingutfabrik",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

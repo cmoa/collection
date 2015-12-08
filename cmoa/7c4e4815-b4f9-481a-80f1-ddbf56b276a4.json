@@ -1,0 +1,39 @@
+{
+  "title": "Teaspoon",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "silver",
+  "accession_number": "27.10.1013.4",
+  "id": "cmoa:things/7c4e4815-b4f9-481a-80f1-ddbf56b276a4",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005520",
+  "provenance_text": "By descent to Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4725&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e3d011bd-2755-40a6-8389-a021b34fe01a",
+      "party_type": "Person",
+      "full_name": "C. Asmann",
+      "cited_name": "Asmann, C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

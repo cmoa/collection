@@ -1,0 +1,39 @@
+{
+  "title": "Ice cream server",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "silver with gilded decoration",
+  "accession_number": "2007.81",
+  "id": "cmoa:things/3516ca6a-eb21-4951-b76c-3894164f3824",
+  "credit_line": "Gift of Mrs. John F. Lockhart",
+  "date_acquired": "2008-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 2.75,
+  "item_height": 1.125,
+  "item_depth": 10.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=46180",
+  "provenance_text": "Mrs. Paula Lockhart",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56114&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

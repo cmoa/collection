@@ -1,0 +1,39 @@
+{
+  "title": "The Sloop \"Kulinda\"",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "93.189.35",
+  "id": "cmoa:things/97db81a6-4c87-4eab-abec-e47f20040997",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033318",
+  "provenance_text": "Winslow Homer [1836-1910]. George J. Marsh, Annisquam, MA; Cape Ann Savings Bank [1846-], Gloucester, MA; Morris H. Pancoast [1877-1963], Rockport, MA; Frank K.M. Rehn, Inc. [1918?-1981?], New York, NY, 1930?; Mr. and Mrs. James H. Beal, Pittsburgh, PA, 1951; bequest to Museum.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89449&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d25df2d-ee53-407b-9727-3c77d390735f",
+      "party_type": "Person",
+      "full_name": "Winslow Homer",
+      "cited_name": "Homer, Winslow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-02-24",
+      "death_date": "1910-09-29",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "Prouts Neck (Cumberland county, Maine, United States)"
+    }
+  ]
+}

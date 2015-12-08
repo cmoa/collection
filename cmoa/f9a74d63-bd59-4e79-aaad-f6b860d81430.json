@@ -1,0 +1,54 @@
+{
+  "title": "Oriente vase",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "glass",
+  "accession_number": "2006.36",
+  "id": "cmoa:things/f9a74d63-bd59-4e79-aaad-f6b860d81430",
+  "credit_line": "The Women's Committee Acquisition Fund",
+  "date_acquired": "2006-06-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 7.0,
+  "item_height": 15.5,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26188",
+  "provenance_text": "Private Collection, Zurich; Barry Friedman Gallery, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35329&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39666&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7a5e8e7-54e1-4f84-ba18-e78f1b996690",
+      "party_type": "Person",
+      "full_name": "Dino Martens",
+      "cited_name": "Martens, Dino",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1894-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1a05062f-bd95-4c57-be96-e0e7f2de5580",
+      "party_type": "Organization",
+      "full_name": "Vetri Decorativi Rag. Aureliano Toso",
+      "cited_name": "Vetri Decorativi Rag. Aureliano Toso",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1938-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

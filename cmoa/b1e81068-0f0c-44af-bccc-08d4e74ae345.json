@@ -1,0 +1,45 @@
+{
+  "title": "Bouddha (Buddha)",
+  "creation_date": "1898-1899",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "woodcut on thin Japanese paper",
+  "accession_number": "1998.63",
+  "id": "cmoa:things/b1e81068-0f0c-44af-bccc-08d4e74ae345",
+  "credit_line": "Leisser Art Fund and Charles J. Rosenbloom Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003801",
+  "provenance_text": "Paul Gauguin [1848-1903]. Marcel Guérin [1873-1948]; H.M. Petiet, Paris, France; Susan Schulman, New York, NY, by 1998; purchased by Museum, December 1998 [1]. \nNOTES:1. Updated by CGK August 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101664&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101665&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19017&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5ac9e69b-e22a-4373-8618-f9cf2700ac02",
+      "party_type": "Person",
+      "full_name": "Paul Gauguin",
+      "cited_name": "Gauguin, Paul",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1848-01-01",
+      "death_date": "1903-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Atuona (Hiva Oa, French Polynesia)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Platter, Aztec",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "Aluminum",
+  "accession_number": "87.5.1",
+  "id": "cmoa:things/873002a6-a9be-4dd0-9c01-cdc97e77ac86",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1990-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 16.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026400",
+  "provenance_text": "East End Galleries, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e265b491-9954-4ceb-a35b-6b165f4d2cc9",
+      "party_type": "Person",
+      "full_name": "Lurelle Guild",
+      "cited_name": "Guild, Lurelle",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ae543269-6936-49a2-bc94-b956a5bcb37b",
+      "party_type": "Organization",
+      "full_name": "Kensington Inc.",
+      "cited_name": "Kensington Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

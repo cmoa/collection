@@ -1,0 +1,39 @@
+{
+  "title": "Christmas 1960, The Peaceable Kingdom...",
+  "creation_date": null,
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "77.30.2",
+  "id": "cmoa:things/132b39d3-55ac-48d7-80bb-bbc6ed99865f",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1977-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018556",
+  "provenance_text": "Gift of Mr. and Mrs. Leon A. Arkus, Pittsburgh, PA, 1977.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100400&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/982036c4-7f58-42da-b22d-82041b02a149",
+      "party_type": "Person",
+      "full_name": "Fritz Eichenberg",
+      "cited_name": "Eichenberg, Fritz",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Cologne (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Peace Dale (Washington county, Rhode Island, United States)"
+    }
+  ]
+}

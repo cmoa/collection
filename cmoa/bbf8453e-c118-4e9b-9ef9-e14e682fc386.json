@@ -1,0 +1,35 @@
+{
+  "title": "Astronauta",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "drypoint",
+  "accession_number": "1998.69.4",
+  "id": "cmoa:things/bbf8453e-c118-4e9b-9ef9-e14e682fc386",
+  "credit_line": "Gift of Mellon Bank",
+  "date_acquired": "1998-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003817",
+  "provenance_text": "Mellon Bank, Pittsburgh, PA",
+  "classification": "prints",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74caf312-347e-406f-8c47-b1531903a831",
+      "party_type": "Person",
+      "full_name": "Julio Zachrisson",
+      "cited_name": "Zachrisson, Julio",
+      "role": null,
+      "nationality": "Panamanian",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": "Panamá (Panamá province, Panama)",
+      "death_place": null
+    }
+  ]
+}

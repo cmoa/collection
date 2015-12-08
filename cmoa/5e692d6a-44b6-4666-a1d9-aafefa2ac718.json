@@ -1,0 +1,51 @@
+{
+  "title": "David Fighting the Lion",
+  "creation_date": "1631",
+  "creation_date_earliest": "1631-01-01",
+  "creation_date_latest": "1631-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.40",
+  "id": "cmoa:things/5e692d6a-44b6-4666-a1d9-aafefa2ac718",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005395",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97485&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/48eab22b-861e-4320-8cb1-b39790c61ca0",
+      "party_type": "Person",
+      "full_name": "Gian Lorenzo Bernini",
+      "cited_name": "Bernini, Gian Lorenzo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1598-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Naples (Napoli province, Campania, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

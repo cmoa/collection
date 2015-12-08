@@ -1,0 +1,51 @@
+{
+  "title": "Hanaōgi of the Afukiya, with her attendants Yoshino and Tatsuta (Afukiya Hanaōgi Yoshino Tatsuta)",
+  "creation_date": "c.1783",
+  "creation_date_earliest": "1773-01-01",
+  "creation_date_latest": "1793-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "48.17.3",
+  "id": "cmoa:things/6d41cc47-2e47-4e74-b0b8-cd0508657b30",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008243",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17d7135e-bf6f-4f30-b07f-b44839d97245",
+      "party_type": "Person",
+      "full_name": "Kiyonaga Torii",
+      "cited_name": "Kiyonaga Torii",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1752-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/c0db8dca-4094-4239-b160-e155781c3572",
+      "party_type": "Person",
+      "full_name": "Yohachi Nishimuraya",
+      "cited_name": "Yohachi Nishimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Charlotte Marie de Gasville",
+  "creation_date": "1785",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "44.7",
+  "id": "cmoa:things/79ef1370-95ec-4354-98fc-a9dc576d3b88",
+  "credit_line": "Bequest of Mrs. Alexander Glass",
+  "date_acquired": "1944-11-29",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 22.625,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007546",
+  "provenance_text": "Edward R. Bacon, London, by 1919; Edouard Jonas, Paris, after 1919; Francois Beaverey, Lyons, France; Edouard Jonas, Paris, until 1930; Mrs. Alexander Glass, Wheeling, West Virginia, by 1930 until 1944; bequeathed to Museum, November 1944.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9166cb29-7450-4ac5-8c89-da9b12681b85",
+      "party_type": "Person",
+      "full_name": "Antoine Vestier",
+      "cited_name": "Vestier, Antoine",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1740-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": "Avallon, Yonne, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

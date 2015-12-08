@@ -1,0 +1,39 @@
+{
+  "title": "Seated Man",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "drawing",
+  "accession_number": "59.5.34",
+  "id": "cmoa:things/2d94141e-f4ed-4554-9b42-45d1524c042e",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011076",
+  "provenance_text": "Estate of Johanna K. W. Hailman, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99180&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/074ed85e-852b-41b0-880a-37166455a24e",
+      "party_type": "Person",
+      "full_name": "Thomas Couture",
+      "cited_name": "Couture, Thomas",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1815-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": " Senlis (Oise, Picardy, France)",
+      "death_place": " Villiers-le-Bel (Val-d'Oise, Île-de-France, France)"
+    }
+  ]
+}

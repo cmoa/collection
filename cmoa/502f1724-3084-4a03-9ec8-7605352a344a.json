@@ -1,0 +1,63 @@
+{
+  "title": "MR20 armchair",
+  "creation_date": "c. 1928",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "chromed tubular steel with original painted cane",
+  "accession_number": "82.30.2",
+  "id": "cmoa:things/502f1724-3084-4a03-9ec8-7605352a344a",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1982-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 20.0,
+  "item_height": 29.75,
+  "item_depth": 34.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022315",
+  "provenance_text": "Dr. William Greenspon, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11663&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c3fb4ed-50eb-4b27-815d-df6bf75bebfd",
+      "party_type": "Person",
+      "full_name": "Ludwig Mies van der Rohe",
+      "cited_name": "Mies van der Rohe, Ludwig",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1886-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Aachen (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Chicago, Illinois"
+    },
+    {
+      "artist_id": "cmoa:parties/5949eaf7-95f0-418c-81ec-edceed29bc10",
+      "party_type": "Person",
+      "full_name": "Lilly Reich",
+      "cited_name": "Reich, Lilly",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1885-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e336035e-137a-458e-94dc-fa217db83ca5",
+      "party_type": "Organization",
+      "full_name": "Berliner Metallgewerbe Josef Müller",
+      "cited_name": "Berliner Metallgewerbe Josef Müller",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

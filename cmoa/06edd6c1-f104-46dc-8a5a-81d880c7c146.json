@@ -1,0 +1,39 @@
+{
+  "title": "Tray",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "aluminum and ink",
+  "accession_number": "1997.32",
+  "id": "cmoa:things/06edd6c1-f104-46dc-8a5a-81d880c7c146",
+  "credit_line": "Gift of East End Galleries",
+  "date_acquired": "1997-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 0.375,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003281",
+  "provenance_text": "Michael Malley, Pittsburgh, PA; Gift of East End Galleries",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11416&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0b8c215-2ddf-4d69-8fde-ad8c6cd3cca8",
+      "party_type": "Organization",
+      "full_name": "New Method Company",
+      "cited_name": "New Method Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

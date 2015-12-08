@@ -1,0 +1,39 @@
+{
+  "title": "Warrior",
+  "creation_date": "c. 1960",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "91.12",
+  "id": "cmoa:things/0407873b-307d-440f-9f42-edbed9908e20",
+  "credit_line": "Gift of Mr. and Mrs. Alexander C. Speyer III",
+  "date_acquired": "1991-06-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.875,
+  "item_height": 33.875,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029411",
+  "provenance_text": "Gift of Mr. and Mrs. Alexander C. Speyer III, Pittsburgh, PA, 1991.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26674&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/293cc2ae-ba93-4eb1-a38a-c9b288df45e8",
+      "party_type": "Person",
+      "full_name": "Leon Albert Golub",
+      "cited_name": "Golub, Leon A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": "Chicago (Cook county, Illinois, United States)",
+      "death_place": "New York"
+    }
+  ]
+}

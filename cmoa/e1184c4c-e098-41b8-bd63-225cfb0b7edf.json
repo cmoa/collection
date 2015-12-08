@@ -1,0 +1,42 @@
+{
+  "title": "Temple; [exterior elevation]",
+  "creation_date": "1753",
+  "creation_date_earliest": "1753-01-01",
+  "creation_date_latest": "1753-01-01",
+  "medium": "pen and ink",
+  "accession_number": "95.13",
+  "id": "cmoa:things/e1184c4c-e098-41b8-bd63-225cfb0b7edf",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1995-01-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035610",
+  "provenance_text": "Bates Lowry, Boston, MA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117108&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de649306-d29e-4917-b73c-fa9d54d5ad81",
+      "party_type": "Person",
+      "full_name": "Julien David Leroy",
+      "cited_name": "Leroy, Julien D.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1724-01-01",
+      "death_date": "1803-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

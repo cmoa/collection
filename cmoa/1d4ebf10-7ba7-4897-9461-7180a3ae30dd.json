@@ -1,0 +1,39 @@
+{
+  "title": "Mary Magdalen",
+  "creation_date": "c. 1680",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1695-01-01",
+  "medium": "terracotta and white clay",
+  "accession_number": "69.58",
+  "id": "cmoa:things/1d4ebf10-7ba7-4897-9461-7180a3ae30dd",
+  "credit_line": "Decorative Arts Discretionary Fund: gift of Mrs. Thomas Childs Wurts in memory of her husband",
+  "date_acquired": "1969-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 5.25,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012990",
+  "provenance_text": "Heim Gallery, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79fc1093-d7b2-4937-808e-9616d5f9b66f",
+      "party_type": "Person",
+      "full_name": "François Chauvel de Cantepie",
+      "cited_name": "Chauvel de Cantepie, François",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1655-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Estacade",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "etching",
+  "accession_number": "77.29.25",
+  "id": "cmoa:things/25f13916-58ef-4da1-b21e-b2b1b79ee81d",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1977-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.75,
+  "item_height": 24.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018506",
+  "provenance_text": "Alechinsky, Pierre",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a3e6c66-6f37-4022-8e73-89fc3a171a05",
+      "party_type": "Person",
+      "full_name": "Pierre Alechinsky",
+      "cited_name": "Alechinsky, Pierre",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brussels, Belgium",
+      "death_place": null
+    }
+  ]
+}

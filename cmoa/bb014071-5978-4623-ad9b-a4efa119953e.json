@@ -1,0 +1,42 @@
+{
+  "title": "Interior II",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "drypoint etching",
+  "accession_number": "81.69.7",
+  "id": "cmoa:things/bb014071-5978-4623-ad9b-a4efa119953e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 23.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022031",
+  "provenance_text": "Multiples Inc., Marian Goodman Gallery, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125684&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80245&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Amber)",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "glass, blown and sanded",
+  "accession_number": "2002.51.28",
+  "id": "cmoa:things/2ac5f433-41d6-4811-8742-08df45809caf",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 14.0,
+  "item_height": 13.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=401",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27150&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d81f42e-76ef-4398-9864-e7b427377135",
+      "party_type": "Person",
+      "full_name": "Laura de Santillana",
+      "cited_name": "de Santillana, Laura",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

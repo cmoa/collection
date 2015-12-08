@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1910-1920",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "Agateware",
+  "accession_number": "81.63",
+  "id": "cmoa:things/e233afad-f934-4f85-a19e-25ac8ee9e0c0",
+  "credit_line": "Gift of Todd Volpe",
+  "date_acquired": "1981-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 3.938,
+  "item_depth": 7.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021987",
+  "provenance_text": "Todd Volpe, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1512&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97aed4dc-f00d-4d70-be02-d1666ee62d95",
+      "party_type": "Organization",
+      "full_name": "Niloak Pottery",
+      "cited_name": "Niloak Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

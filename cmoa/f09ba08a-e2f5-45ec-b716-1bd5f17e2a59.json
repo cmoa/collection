@@ -1,0 +1,54 @@
+{
+  "title": "Jug",
+  "creation_date": "c. 1879-1882",
+  "creation_date_earliest": "1874-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "92.102",
+  "id": "cmoa:things/f09ba08a-e2f5-45ec-b716-1bd5f17e2a59",
+  "credit_line": "Decorative Arts Purchase Fund and Vivian W. Lehman Bequest",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 7.187,
+  "item_height": 6.312,
+  "item_depth": 6.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030106",
+  "provenance_text": "The Fine Art Society, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97574&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2118de53-b234-4c47-8312-2c7c88402950",
+      "party_type": "Organization",
+      "full_name": "Linthorpe Pottery",
+      "cited_name": "Linthorpe Pottery",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1879-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

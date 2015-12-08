@@ -1,0 +1,39 @@
+{
+  "title": "Across the Street",
+  "creation_date": "c. 1938",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.33.2",
+  "id": "cmoa:things/1a903db7-99cf-46d8-b0e0-6386577725f7",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 35.125,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019950",
+  "provenance_text": "The artist, Rachel McClelland Sutton; gift to museum, October 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149770&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eb2ad323-8efb-4eae-ab00-84f248f3e507",
+      "party_type": "Person",
+      "full_name": "Rachel Sutton",
+      "cited_name": "Sutton, Rachel M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

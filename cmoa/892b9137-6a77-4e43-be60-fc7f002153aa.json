@@ -1,0 +1,39 @@
+{
+  "title": "La mère malade (The Sick Mother)",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "etching",
+  "accession_number": "25.8",
+  "id": "cmoa:things/892b9137-6a77-4e43-be60-fc7f002153aa",
+  "credit_line": "Purchase",
+  "date_acquired": "1925-05-18",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 11.688,
+  "item_height": 7.687,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005306",
+  "provenance_text": "Arthur Harlow and Company, 712 Fifth Avenue, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110889&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcb2ae63-f379-47ef-b693-609d0620a209",
+      "party_type": "Person",
+      "full_name": "Paul Albert Besnard",
+      "cited_name": "Besnard, Paul Albert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

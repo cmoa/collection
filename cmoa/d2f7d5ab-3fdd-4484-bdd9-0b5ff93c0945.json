@@ -1,0 +1,39 @@
+{
+  "title": "Medallion, Flagpole (\"Language\")",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "Plaster",
+  "accession_number": "91.34.3",
+  "id": "cmoa:things/d2f7d5ab-3fdd-4484-bdd9-0b5ff93c0945",
+  "credit_line": "Gift of Carnegie-Mellon University",
+  "date_acquired": "1991-12-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 15.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029726",
+  "provenance_text": "Carnegie-Mellon University, Pittsburgh, PA",
+  "classification": "casts",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102539&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24b206e9-27db-4cf9-b735-6e1f4c5a872b",
+      "party_type": "Person",
+      "full_name": "Sylvain Salieres",
+      "cited_name": "Salieres, Sylvain",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1865-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Auch Gers, France",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Musiciens Ambulans (Strolling Musicians)",
+  "creation_date": "1764",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1764-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "60.45.30",
+  "id": "cmoa:things/88908ed6-4a4a-423e-8a99-28a4962ae4dd",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011275",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114703&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10ee7459-f0e5-43b7-805d-0006bb2be574",
+      "party_type": "Person",
+      "full_name": "Johann Georg Wille",
+      "cited_name": "Wille, Johann G.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1715-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "Königsberg in Bayern (Unterfranken, Bavaria, Germany)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/27cdc084-57e1-4037-974f-e50dd6faf724",
+      "party_type": "Person",
+      "full_name": "Christian Wilhelm Ernst Dietrich",
+      "cited_name": "Dietrich, Christian Wilhelm Ernst",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1712-01-01",
+      "death_date": "1774-01-01",
+      "birth_place": "Weimar, Germany",
+      "death_place": "Dresden, Germany"
+    }
+  ]
+}

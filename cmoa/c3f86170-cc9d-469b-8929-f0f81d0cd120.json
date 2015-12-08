@@ -1,0 +1,42 @@
+{
+  "title": "Camille Roqueplan",
+  "creation_date": "1829",
+  "creation_date_earliest": "1829-01-01",
+  "creation_date_latest": "1829-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.2.9",
+  "id": "cmoa:things/c3f86170-cc9d-469b-8929-f0f81d0cd120",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008725",
+  "provenance_text": "Collection Amadee Faure and A. Maroni; M. Knoedler & Co., New York, NY; purchased by Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, on March 2, 1925 until January 24, 1949; his gift to Museum, January 1949.\n\nNotes:\n[1]. Purchased for $18; see invoice dated March 2, 1925 (for purchases made on February 3, 1925) in curatorial file. The invoice also includes the early provenance information.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110937&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110938&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60b0fb0c-ef30-4301-8cf5-4710396aa0e4",
+      "party_type": "Person",
+      "full_name": "Achille Devéria",
+      "cited_name": "Devéria, Achille",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1800-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

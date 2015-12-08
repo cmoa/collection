@@ -1,0 +1,39 @@
+{
+  "title": "Ôsaka Acrobats",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1416",
+  "id": "cmoa:things/b9208477-11c8-489e-bde8-20588693ee24",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027305",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 2/5/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106558&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b67edc3d-b73b-4ce3-8941-fa583f3ac698",
+      "party_type": "Person",
+      "full_name": "Toyonobu Utagawa",
+      "cited_name": "Toyonobu Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1770-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": "1780"
+    }
+  ]
+}

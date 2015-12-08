@@ -1,0 +1,49 @@
+{
+  "title": "Chair",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "Beech",
+  "accession_number": "84.112.8",
+  "id": "cmoa:things/2045d76b-57be-47c7-aaad-c26137bf5c43",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 27.5,
+  "item_depth": 27.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024516",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbc92f88-ef46-415f-b1de-80ac1c704883",
+      "party_type": "Person",
+      "full_name": "Pierre Jeanneret",
+      "cited_name": "Jeanneret, Pierre",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1896-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Geneva, Switzerland",
+      "death_place": "Geneva, Switzerland"
+    },
+    {
+      "artist_id": "cmoa:parties/f47ee54e-b518-4df0-8280-43fefde4f583",
+      "party_type": "Organization",
+      "full_name": "Knoll Associates, Inc.",
+      "cited_name": "Knoll Associates, Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

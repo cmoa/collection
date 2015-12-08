@@ -1,0 +1,37 @@
+{
+  "title": "Paysage Urbain",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.22",
+  "id": "cmoa:things/6b4f46a8-328d-491f-bcbf-c86ffe8e5d86",
+  "credit_line": "Gift of Count Guy de Bragelongne",
+  "date_acquired": "1975-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.5,
+  "item_height": 32.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017685",
+  "provenance_text": "Les Laky Gallery, Carmel, CA",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf81b5e1-d4b4-4da9-a0a4-5facae5aefe2",
+      "party_type": "Person",
+      "full_name": "Emile Lahner",
+      "cited_name": "Lahner, Emile",
+      "role": null,
+      "nationality": "Hungarian",
+      "birth_date": "1893-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Hungary",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

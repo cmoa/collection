@@ -1,0 +1,39 @@
+{
+  "title": "Peg Taking a Drag",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "serigraph on paper",
+  "accession_number": "2005.5",
+  "id": "cmoa:things/798dd23e-828c-481a-adf1-fdda6bfc5438",
+  "credit_line": "Joseph E. and Sally M. Imbriglia Fund",
+  "date_acquired": "2005-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14040",
+  "provenance_text": "David J. Findlay, Jr. Gallery, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65735&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36f782db-dc90-480f-b44f-7cd544861cbd",
+      "party_type": "Person",
+      "full_name": "Steve Wheeler",
+      "cited_name": "Wheeler, Steve",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Czechoslovakia",
+      "death_place": null
+    }
+  ]
+}

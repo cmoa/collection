@@ -1,0 +1,51 @@
+{
+  "title": "Vessel",
+  "creation_date": "1903-1907",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "earthenware with luster glaze decoration",
+  "accession_number": "2007.65.1",
+  "id": "cmoa:things/2518c1d6-8705-4cc6-b0a6-0bd885dd756e",
+  "credit_line": "Gift of Mr. and Mrs. Alexander C. Speyer, III",
+  "date_acquired": "2007-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 7.5,
+  "item_height": 5.625,
+  "item_depth": 6.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=50574",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61030&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6291e406-7516-44a1-bba9-fa4311450d02",
+      "party_type": "Person",
+      "full_name": "Jacques Sicard",
+      "cited_name": "Sicard, Jacques",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1865-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/47cd4e4c-f2bb-42a8-82b6-2923582a0efb",
+      "party_type": "Organization",
+      "full_name": "Weller Pottery",
+      "cited_name": "Weller Pottery",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

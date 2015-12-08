@@ -1,0 +1,51 @@
+{
+  "title": "Terrace cup and saucer",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "glass",
+  "accession_number": "86.5.9.A-B",
+  "id": "cmoa:things/2efe0cdd-55ae-4ffd-b664-4ab0ec158911",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1986-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 2.75,
+  "item_depth": 0.625,
+  "item_diameter": 2.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026217",
+  "provenance_text": "East End Galleries, PA, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68108&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89a885db-ea97-45b3-8e29-bfd658b1dc57",
+      "party_type": "Person",
+      "full_name": "Robert A. May",
+      "cited_name": "May, Robert A.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1942-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/07fb780d-e0ae-4703-88fb-b37814bb1ab1",
+      "party_type": "Organization",
+      "full_name": "Duncan and Miller Glass Co.",
+      "cited_name": "Duncan and Miller Glass Co.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

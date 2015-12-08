@@ -1,0 +1,39 @@
+{
+  "title": "Ecce Homo",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1650-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "pen and brown ink",
+  "accession_number": "36.3",
+  "id": "cmoa:things/abc510a7-d3fb-4207-bec2-d43db9d9353f",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1936-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006885",
+  "provenance_text": "J. D. Böhm (1794-1865), Vienna (Lugt 1442 and  Lugt 271); A. Artaria (1807-1893), Vienna (Lugt 33); Paul Sachs (b. 1873), Munich (Lugt 2925a);  Gift of Kenneth Seaver",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99104&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": "school of",
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

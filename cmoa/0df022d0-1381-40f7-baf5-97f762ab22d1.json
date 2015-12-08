@@ -1,0 +1,42 @@
+{
+  "title": "Figure 1964 (Opus 357)",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "bronze",
+  "accession_number": "76.63",
+  "id": "cmoa:things/0df022d0-1381-40f7-baf5-97f762ab22d1",
+  "credit_line": "Gift of Mr. and Mrs. Edward N. Haskell",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 17.75,
+  "item_height": 69.875,
+  "item_depth": 15.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018216",
+  "provenance_text": "Barbara Hepworth [1903-1975], St. Ives, Cornwall, England. Gimpel Fils Ltd, London, England, until October 1968 [1]; purchased by Mr. [1920-1988] and Mrs. [1923-2013] Edward Haskell, Pittsburgh, PA, October 1968 until February 1977 [2]; their gift to Museum, February 1977.\n\nNotes:\n[1]. A reference in the corrspondence from Gimpel Fils to Edward Haskell, dated September 16, 1968, suggests that this cast (5/6) was shown at the sculpture exhibition at Syon Park, London in the summer of 1968. The same letter indicates that the Haskells received a 5% discount from the asking price of £6,500.\n[2]. The sculpture was lent to the museum on the occasion of the opening of the Scaife Galleries in October 1974, where it was displayed in the new sculpture court. It remained at the Museum until it was gifted by the Haskells in 1977.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147604&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147605&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/351fd489-918b-4c0b-b1bc-05fd9ad6aaa0",
+      "party_type": "Person",
+      "full_name": "Barbara Hepworth",
+      "cited_name": "Hepworth, Barbara",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Wakefield district (England, United Kingdom)",
+      "death_place": " Saint Ives (Cornwall, England, United Kingdom)"
+    }
+  ]
+}

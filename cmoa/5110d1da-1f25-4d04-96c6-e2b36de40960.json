@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "slip-painted pottery",
+  "accession_number": "79.18.2",
+  "id": "cmoa:things/5110d1da-1f25-4d04-96c6-e2b36de40960",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.312,
+  "item_height": 8.5,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020242",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3466&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90579fe5-2ae6-4e75-9e7a-70d302aea131",
+      "party_type": "Organization",
+      "full_name": "Roseville Pottery Company",
+      "cited_name": "Roseville Pottery Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

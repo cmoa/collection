@@ -1,0 +1,39 @@
+{
+  "title": "Titus Gracchus",
+  "creation_date": "1528",
+  "creation_date_earliest": "1527-12-22",
+  "creation_date_latest": "1527-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.6",
+  "id": "cmoa:things/ca7eb558-966e-4c17-aab5-7e187f8bad34",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001001",
+  "provenance_text": "Paul Gellatly (1831-1912), London (L.1185) ; Frederick Keppel (1845-1912), New York (L.1023)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101690&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5cf2a524-154c-45e3-ba19-718ee0a0ed30",
+      "party_type": "Person",
+      "full_name": "Barthel Beham",
+      "cited_name": "Beham, Barthel",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1502-01-01",
+      "death_date": "1540-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Footed Bowl",
+  "creation_date": "13th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1298-12-25",
+  "medium": "earthenware",
+  "accession_number": "72.61.28",
+  "id": "cmoa:things/b38334aa-8066-481f-ab6c-3ce098d27b13",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 6.687,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016539",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3293&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1a07359-1917-403d-b5c3-a3a3f29934ee",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Kashan",
+      "cited_name": "unknown Persian, Kashan",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

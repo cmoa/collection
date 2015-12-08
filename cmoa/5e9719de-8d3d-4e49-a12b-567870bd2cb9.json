@@ -1,0 +1,39 @@
+{
+  "title": "The Concert",
+  "creation_date": "c. 1875-1880",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on panel",
+  "accession_number": "56.54.2",
+  "id": "cmoa:things/5e9719de-8d3d-4e49-a12b-567870bd2cb9",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1956-12-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 37.0,
+  "item_height": 26.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009930",
+  "provenance_text": "Adolphe Monticelli [1824-1886]. Catholina Lambert [1834-1923], until February 1916; (American Art Association sale, New York, February 21, 1916 until February 24, 1916, no. 161) [1]; purchased by Robert C. Vose, Boston, 1916 until 1918 [2]; sold to R. Cudney, Chicago, on May 16, 1918 [3]; Cudney Estate; (Babcock Gallieries, New York); (Vose Galleries, Boston); G. David Thompson, Pittsburgh, by 1956; gift to Museum, December 1956. \nNOTES:1. Catholina Lambert sale.  2. See correspondence from Passaic County Historical Society in curatorial file. 3. Sold under the title of \"Un Concert Sylvestre\", see correspondence from Passaic County Historical Society in curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17867&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5ca3ff6-2b4f-4314-8510-3352953ee3d2",
+      "party_type": "Person",
+      "full_name": "Adolphe Monticelli",
+      "cited_name": "Monticelli, Adolphe",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Marseilles (Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France)",
+      "death_place": "Marseilles (Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

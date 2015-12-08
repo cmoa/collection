@@ -1,0 +1,39 @@
+{
+  "title": "Town and Country",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "mixed media",
+  "accession_number": "93.80",
+  "id": "cmoa:things/2584a390-08f4-4667-a90f-d3ea73e98e4a",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1993-05-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 38.0,
+  "item_depth": 87.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033707",
+  "provenance_text": "Metro Pictures, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/94358f74-4f12-4c3c-bbd5-5b101a8af946",
+      "party_type": "Person",
+      "full_name": "John Miller",
+      "cited_name": "Miller, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Cleveland, OH",
+      "death_place": null
+    }
+  ]
+}

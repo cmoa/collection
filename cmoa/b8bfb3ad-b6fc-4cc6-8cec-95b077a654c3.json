@@ -1,0 +1,39 @@
+{
+  "title": "Snuff bottle",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glass",
+  "accession_number": "113.H",
+  "id": "cmoa:things/b8bfb3ad-b6fc-4cc6-8cec-95b077a654c3",
+  "credit_line": "Gift of Howard Heinz",
+  "date_acquired": "1938-12-28",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.75,
+  "item_height": 2.875,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=264",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1021&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

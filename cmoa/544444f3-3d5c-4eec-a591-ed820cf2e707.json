@@ -1,0 +1,39 @@
+{
+  "title": "The Poet, Roy Campbell",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "27.1",
+  "id": "cmoa:things/544444f3-3d5c-4eec-a591-ed820cf2e707",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1927-01-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 34.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006046",
+  "provenance_text": "John Augustus [1878-1961], 1927; (Dicksee and Company as agent, London, by 1927); Purchased by Museum, 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1fd5da1d-1799-48fa-9d12-9585e520e7a5",
+      "party_type": "Person",
+      "full_name": "Augustus John",
+      "cited_name": "John, Augustus E.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": " Tenby (Pembrokeshire, Wales, United Kingdom)",
+      "death_place": " Fordingbridge (Hampshire, England, United Kingdom)"
+    }
+  ]
+}

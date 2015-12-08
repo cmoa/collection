@@ -1,0 +1,39 @@
+{
+  "title": "Table spoon",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "silver",
+  "accession_number": "82.37",
+  "id": "cmoa:things/9912d258-3c07-4e4f-a03b-a2adb50d823e",
+  "credit_line": "Gift of Mr. and Mrs. J. Judson Brooks",
+  "date_acquired": "1982-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022946",
+  "provenance_text": "Mr. and Mrs. J. Judson Brooks",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4969&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c72318cc-f8f5-4a47-81ec-f7a188a43c05",
+      "party_type": "Person",
+      "full_name": "John McMullin",
+      "cited_name": "McMullin, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1765-01-01",
+      "death_date": "1843-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

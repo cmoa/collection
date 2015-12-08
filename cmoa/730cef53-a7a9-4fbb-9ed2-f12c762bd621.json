@@ -1,0 +1,39 @@
+{
+  "title": "untitled 1992 (cure)",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "cloth tent, table, stools, teakettles, hot plate, ceramic teapots and cups, metal shelf, loose tea, and water",
+  "accession_number": "2001.12",
+  "id": "cmoa:things/730cef53-a7a9-4fbb-9ed2-f12c762bd621",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2001-04-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 137.75,
+  "item_height": 137.75,
+  "item_depth": 137.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004175",
+  "provenance_text": "Christie's, London; Carnegie Museum of Art, Pittsburgh; A. W. Mellon Acquisition Fund",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28250&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7b59035d-77fa-4dba-a877-69faf49a54e7",
+      "party_type": "Person",
+      "full_name": "Rirkrit Tiravanija",
+      "cited_name": "Tiravanija, Rirkrit",
+      "role": null,
+      "nationality": "Thai",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": "Buenos Aires, Argentina",
+      "death_place": null
+    }
+  ]
+}

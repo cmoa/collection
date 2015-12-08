@@ -1,0 +1,39 @@
+{
+  "title": "Floral Painted Plaque",
+  "creation_date": "1850-1860",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "ceramic",
+  "accession_number": "70.32.1997",
+  "id": "cmoa:things/1d6e3b61-1570-4980-bb06-9055e2b28495",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.187,
+  "item_height": 7.187,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014169",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1342&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fc308ea5-df93-4266-9335-371bb7508304",
+      "party_type": "Person",
+      "full_name": "Robert J. Charleston",
+      "cited_name": "Charleston, Robert J.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1916-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

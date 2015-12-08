@@ -1,0 +1,42 @@
+{
+  "title": "Tea service and Camellia",
+  "creation_date": null,
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1851-01-01",
+  "medium": "Woodcut",
+  "accession_number": "89.28.372",
+  "id": "cmoa:things/04d47a6f-fa0a-42b4-aaec-5fb3537f1fe3",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.312,
+  "item_height": 8.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028025",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110929&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9556645-e4b1-4ac7-8878-ffa0bbcc955e",
+      "party_type": "Person",
+      "full_name": "Totoya Hokkei",
+      "cited_name": "Totoya Hokkei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1780-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

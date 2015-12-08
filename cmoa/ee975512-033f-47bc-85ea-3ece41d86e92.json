@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Brick Wall)",
+  "creation_date": "c. 1982",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "acrylic on newspaper",
+  "accession_number": "2007.21.2",
+  "id": "cmoa:things/ee975512-033f-47bc-85ea-3ece41d86e92",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.125,
+  "item_height": 26.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=44415",
+  "provenance_text": "The Estate of Paul Thek through Alexander and Bonin, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51654&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd569073-c2fe-410d-925a-b6ffc2c87e6b",
+      "party_type": "Person",
+      "full_name": "Paul Thek",
+      "cited_name": "Thek, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": "New York, New York"
+    }
+  ]
+}

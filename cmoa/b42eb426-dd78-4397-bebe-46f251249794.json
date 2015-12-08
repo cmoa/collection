@@ -1,0 +1,39 @@
+{
+  "title": "Landscape with Cows",
+  "creation_date": null,
+  "creation_date_earliest": "1816-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "Oil on canvas",
+  "accession_number": "78.10.9",
+  "id": "cmoa:things/b42eb426-dd78-4397-bebe-46f251249794",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.25,
+  "item_height": 23.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019261",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh; gift to Museum, May 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149669&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10546fd7-9bdd-4abe-894a-cd407fed41c9",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste-Camille Corot",
+      "cited_name": "Corot, Jean B.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1796-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Hot Spring Inn (Onsen yado)",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.130",
+  "id": "cmoa:things/af5fbeef-a5a7-4541-87f1-c4a575575e80",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027118",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33843&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d2f65bd9-8f16-4d18-a3dd-59a8269711a0",
+      "party_type": "Person",
+      "full_name": "Hashiguchi Goyô",
+      "cited_name": "Hashiguchi Goyô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1880-01-01",
+      "death_date": "1921-01-01",
+      "birth_place": "Japan, Kagoshima",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1717-1718",
+  "creation_date_earliest": "1717-01-01",
+  "creation_date_latest": "1718-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2432",
+  "id": "cmoa:things/605e4d4d-b75f-4eb9-8e7b-67abd232be7d",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 10.313,
+  "item_depth": 6.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014647",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9088&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6f299df-58fd-4b4a-bea9-b73a64b9f6dc",
+      "party_type": "Person",
+      "full_name": "Anthony Nelme",
+      "cited_name": "Nelme, Anthony",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1697-01-01",
+      "death_date": "1720-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

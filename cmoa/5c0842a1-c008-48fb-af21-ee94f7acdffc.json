@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Boy",
+  "creation_date": "1920s",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1998.17.4",
+  "id": "cmoa:things/5c0842a1-c008-48fb-af21-ee94f7acdffc",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1998-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 4.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003611",
+  "provenance_text": "Michael Chikiris, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113563&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/86edfec3-bd7e-4001-9f05-e99728a3ce28",
+      "party_type": "Person",
+      "full_name": "Abraham Sissman",
+      "cited_name": "Sissman, Abraham",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

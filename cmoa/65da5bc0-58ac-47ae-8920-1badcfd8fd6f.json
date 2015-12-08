@@ -1,0 +1,39 @@
+{
+  "title": "Four Corners",
+  "creation_date": "1977-1978",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "84.93",
+  "id": "cmoa:things/65da5bc0-58ac-47ae-8920-1badcfd8fd6f",
+  "credit_line": "Gift of Mr. and Mrs. Edward N. Haskell",
+  "date_acquired": "1984-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 72.0,
+  "item_height": 72.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025378",
+  "provenance_text": "Bernard Cohen [1933-], London, England. Waddington Galleries Ltd, London, England, by November 1981 until January 1982; Mr. [1920-1988] and Mrs. [1923-2013] Edward N. Haskell, Pittsburgh, PA, January 1982 until December 6, 1984; gift to Museum, December 1984.\n\nNotes:\n[1]. Purchased by the Haskells through the intermediary of the museum’s then director John R. Lane. The invoice from the gallery, which was forwarded to the Haskells, shows a price of £3,600 (£4,000 less 10% discount).  The work was loaned to the museum in September 1982 to be exhibited in conjunction with the 1982 Carnegie International.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148836&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bbd38406-448f-490e-ba83-305d4769e936",
+      "party_type": "Person",
+      "full_name": "Bernard Cohen",
+      "cited_name": "Cohen, Bernard",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1933-01-01",
+      "death_date": null,
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

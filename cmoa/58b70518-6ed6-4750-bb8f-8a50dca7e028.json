@@ -1,0 +1,39 @@
+{
+  "title": "La ville enroulee",
+  "creation_date": "1967-1999",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "2000.43",
+  "id": "cmoa:things/58b70518-6ed6-4750-bb8f-8a50dca7e028",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "2000-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 21.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004063",
+  "provenance_text": "Henry Urbach Architecture, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28247&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c0722ea-956d-494b-a0c7-fa8ad8c140be",
+      "party_type": "Person",
+      "full_name": "Claude Parent",
+      "cited_name": "Parent, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": "Neuilly-sur-Seine",
+      "death_place": null
+    }
+  ]
+}

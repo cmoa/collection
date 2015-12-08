@@ -1,0 +1,39 @@
+{
+  "title": "St. John's Chapel, New York",
+  "creation_date": "1911",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "wood block",
+  "accession_number": "16.44",
+  "id": "cmoa:things/1259c5f4-d2fc-4f33-a677-1899d7b793f9",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-03-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001286",
+  "provenance_text": "Rudolph Ruzicka, New York, NY",
+  "classification": "printing blocks",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115692&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87abf60e-4faf-4eb0-97c6-a749d6462d00",
+      "party_type": "Person",
+      "full_name": "Rudolph Ruzicka",
+      "cited_name": "Ruzicka, Rudolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Bohemia (Czech Republic)",
+      "death_place": "Hanover (Grafton county, New Hampshire, United States)"
+    }
+  ]
+}

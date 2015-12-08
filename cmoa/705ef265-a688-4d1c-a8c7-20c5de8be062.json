@@ -1,0 +1,51 @@
+{
+  "title": "The Corselet Bearers, from the Triumphs of Caesar",
+  "creation_date": "c. 1495",
+  "creation_date_earliest": "1489-12-23",
+  "creation_date_latest": "1499-12-23",
+  "medium": "engraving",
+  "accession_number": "49.2.22",
+  "id": "cmoa:things/705ef265-a688-4d1c-a8c7-20c5de8be062",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008520",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8032efd1-9407-4368-9de4-8541c096ad39",
+      "party_type": "Person",
+      "full_name": "Andrea Mantegna",
+      "cited_name": "Mantegna, Andrea",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1430-01-01",
+      "death_date": "1506-01-01",
+      "birth_place": "Padova province (Veneto, Italy)",
+      "death_place": "Mantua (Mantova province, Lombardy, Italy)"
+    },
+    {
+      "artist_id": "cmoa:parties/c0299104-4c4f-4e8e-beb4-5b690caa6451",
+      "party_type": "Organization",
+      "full_name": "Premier Engraver",
+      "cited_name": "Premier Engraver",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": "1460-01-01",
+      "death_date": "1505-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

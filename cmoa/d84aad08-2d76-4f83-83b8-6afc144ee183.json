@@ -1,0 +1,51 @@
+{
+  "title": "In Front of the British Embassy",
+  "creation_date": "10/6/1929",
+  "creation_date_earliest": "1929-10-06",
+  "creation_date_latest": "1929-10-06",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.853.3",
+  "id": "cmoa:things/d84aad08-2d76-4f83-83b8-6afc144ee183",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029033",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17738&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfd0d5c4-1cbd-4f25-8de2-1b62297fd4c7",
+      "party_type": "Person",
+      "full_name": "Onchi Kôshirô",
+      "cited_name": "Onchi Kôshirô",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

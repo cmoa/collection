@@ -1,0 +1,39 @@
+{
+  "title": "Medallion Ball",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2009.8.4",
+  "id": "cmoa:things/0f32ded6-b0d8-46ec-b23e-90b8d0e1a49e",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-02-05",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 95.75,
+  "item_height": 15.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=79177",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82734&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d5aef02-150e-4326-95d2-c60abe1ee5ba",
+      "party_type": "Person",
+      "full_name": "Dylan Vitone",
+      "cited_name": "Vitone, Dylan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1978-01-01",
+      "death_date": null,
+      "birth_place": "Portland, Maine",
+      "death_place": null
+    }
+  ]
+}

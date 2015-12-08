@@ -1,0 +1,42 @@
+{
+  "title": "North Peak",
+  "creation_date": "c. 1873",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "graphite, pen and ink, brush and ink, and gouache on paper",
+  "accession_number": "06.3.14",
+  "id": "cmoa:things/fe3552f3-db01-414b-b347-c00d49365d98",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-11-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000226",
+  "provenance_text": "The Century Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108427&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48016&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/758eeff1-9995-43c5-8524-ca1b8a8c257c",
+      "party_type": "Person",
+      "full_name": "Thomas Moran",
+      "cited_name": "Moran, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Bolton (Bolton, England, United Kingdom)",
+      "death_place": "Santa Barbara (Santa Barbara county, California, United States)"
+    }
+  ]
+}

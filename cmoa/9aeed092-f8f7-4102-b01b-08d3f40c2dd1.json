@@ -1,0 +1,39 @@
+{
+  "title": "Toys no.3",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.186",
+  "id": "cmoa:things/9aeed092-f8f7-4102-b01b-08d3f40c2dd1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.375,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027667",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34164&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/362d051b-59e9-4650-a803-70768cc75992",
+      "party_type": "Person",
+      "full_name": "Hatsuyama Shigeru",
+      "cited_name": "Hatsuyama Shigeru",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1897-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

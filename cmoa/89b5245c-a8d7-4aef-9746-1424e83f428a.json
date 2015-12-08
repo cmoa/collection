@@ -1,0 +1,39 @@
+{
+  "title": "Footed Bowl",
+  "creation_date": "11th century",
+  "creation_date_earliest": "0999-12-27",
+  "creation_date_latest": "1098-12-26",
+  "medium": "Earthenware",
+  "accession_number": "72.61.22",
+  "id": "cmoa:things/89b5245c-a8d7-4aef-9746-1424e83f428a",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 2.75,
+  "item_depth": 6.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016533",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3290&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ec96db7-683e-44c4-a6fb-1f1c32ef61ec",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Carrus Dishier",
+      "cited_name": "unknown Persian, Carrus Dishier",
+      "role": "probably by",
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

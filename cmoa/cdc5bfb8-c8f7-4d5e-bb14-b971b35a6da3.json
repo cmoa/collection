@@ -1,0 +1,39 @@
+{
+  "title": "Baum Boulevard facing East Liberty",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "2007.24",
+  "id": "cmoa:things/cdc5bfb8-c8f7-4d5e-bb14-b971b35a6da3",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.625,
+  "item_height": 20.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=41168",
+  "provenance_text": "The artist through Mendelson Gallery, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52227&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ba0f68ef-e0d0-46f3-a2af-fd7d5c64fcde",
+      "party_type": "Person",
+      "full_name": "Robert L. Bowden",
+      "cited_name": "Bowden, Robert L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pa.",
+      "death_place": null
+    }
+  ]
+}

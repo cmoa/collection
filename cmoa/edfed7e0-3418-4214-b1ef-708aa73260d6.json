@@ -1,0 +1,51 @@
+{
+  "title": "Bust of Minerva",
+  "creation_date": "c. 1795",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.1",
+  "id": "cmoa:things/edfed7e0-3418-4214-b1ef-708aa73260d6",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 18.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023372",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2568&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3bab291b-abf7-403b-b199-2b3f9d9300d0",
+      "party_type": "Person",
+      "full_name": "William Hackwood",
+      "cited_name": "Hackwood, William",
+      "role": "modeler",
+      "nationality": "English",
+      "birth_date": "1757-01-01",
+      "death_date": "1839-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7cbcb444-2d0d-4b08-970b-6da7cef2d811",
+      "party_type": "Organization",
+      "full_name": "Wedgwood and Bentley",
+      "cited_name": "Wedgwood and Bentley",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1769-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

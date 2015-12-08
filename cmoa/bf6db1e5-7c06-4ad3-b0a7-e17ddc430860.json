@@ -1,0 +1,51 @@
+{
+  "title": "Long chair",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "bent plywood, laminated wood and solid wood",
+  "accession_number": "90.19",
+  "id": "cmoa:things/bf6db1e5-7c06-4ad3-b0a7-e17ddc430860",
+  "credit_line": "DuPuy Fund and Decorative Arts Purchase Fund",
+  "date_acquired": "1990-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 24.25,
+  "item_height": 30.75,
+  "item_depth": 51.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029353",
+  "provenance_text": "Kurland-Zabar, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21579&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a5d09bae-4e22-481f-9008-35dcf205466c",
+      "party_type": "Person",
+      "full_name": "Marcel Breuer",
+      "cited_name": "Breuer, Marcel",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Pécs (Baranya, Hungary)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/01832cfd-b22b-4829-bc87-00886b41c456",
+      "party_type": "Organization",
+      "full_name": "The Isokon Furniture Co.",
+      "cited_name": "Isokon Furniture Co., The",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1929-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

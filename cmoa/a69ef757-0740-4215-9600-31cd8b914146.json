@@ -1,0 +1,51 @@
+{
+  "title": "Cruet set, with Frame, Cruets, and Labels",
+  "creation_date": "1784-1789",
+  "creation_date_earliest": "1784-01-01",
+  "creation_date_latest": "1789-01-01",
+  "medium": "silver, sterling standard, and cut glass",
+  "accession_number": "48.1.18.A-E",
+  "id": "cmoa:things/a69ef757-0740-4215-9600-31cd8b914146",
+  "credit_line": "Bequest of Eleanore E. Stoney and Mary L. Edwards Collection of Georgian Silver",
+  "date_acquired": "1948-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 5.0,
+  "item_depth": 3.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008130",
+  "provenance_text": "Estate of Mary L. Edwards, c/o Mellon Bank, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/247af344-7b9c-44d8-9ef8-6c810eeb272c",
+      "party_type": "Person",
+      "full_name": "John Scofield",
+      "cited_name": "Scofield, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1778-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a38eb865-a15f-4d3c-a976-202f140a5f71",
+      "party_type": "Person",
+      "full_name": "Susanna Barker",
+      "cited_name": "Barker, Susanna",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1784-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

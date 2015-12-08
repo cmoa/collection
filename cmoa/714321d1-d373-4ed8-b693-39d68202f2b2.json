@@ -1,0 +1,39 @@
+{
+  "title": "Aphaea",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "bronze",
+  "accession_number": "55.19",
+  "id": "cmoa:things/714321d1-d373-4ed8-b693-39d68202f2b2",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1955-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.25,
+  "item_height": 43.0,
+  "item_depth": 19.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009385",
+  "provenance_text": "Samuel M. Kootz Gallery, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=46806&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a72e586-f845-4f84-aca6-e69c520d11e3",
+      "party_type": "Person",
+      "full_name": "Ibram Lassaw",
+      "cited_name": "Lassaw, Ibram",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Egypt, Alexandria",
+      "death_place": "East Hampton, New York"
+    }
+  ]
+}

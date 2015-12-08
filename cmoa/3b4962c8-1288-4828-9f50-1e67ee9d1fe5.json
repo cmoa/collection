@@ -1,0 +1,39 @@
+{
+  "title": "Smoke Stacks",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "83.4",
+  "id": "cmoa:things/3b4962c8-1288-4828-9f50-1e67ee9d1fe5",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1983-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023832",
+  "provenance_text": "Patrons Art Fund; Provenance: Vanderwoude Tananbaum Gallery, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115080&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c50a5f9-35ec-4389-b606-72d78e6090a4",
+      "party_type": "Person",
+      "full_name": "George Copeland  Ault",
+      "cited_name": "Ault, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1891-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": " Cleveland (Cuyahoga county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

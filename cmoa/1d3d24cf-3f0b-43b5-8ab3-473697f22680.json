@@ -1,0 +1,35 @@
+{
+  "title": "Bookplate",
+  "creation_date": "no date",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "2002.31",
+  "id": "cmoa:things/1d3d24cf-3f0b-43b5-8ab3-473697f22680",
+  "credit_line": "Museum Appropriation: Gift of John W. Beatty",
+  "date_acquired": "2002-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.188,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=221",
+  "provenance_text": "Museum Appropriation",
+  "classification": "prints",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fcba34b-2619-4432-ad80-fa326e7d443d",
+      "party_type": "Person",
+      "full_name": "Elihu Vedder",
+      "cited_name": "Vedder, Elihu",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

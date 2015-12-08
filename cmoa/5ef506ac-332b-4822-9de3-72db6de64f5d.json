@@ -1,0 +1,48 @@
+{
+  "title": "Portrait of Meryon",
+  "creation_date": "1853",
+  "creation_date_earliest": "1853-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "Heliogravure on laid paper",
+  "accession_number": "17.33",
+  "id": "cmoa:things/5ef506ac-332b-4822-9de3-72db6de64f5d",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-04-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001569",
+  "provenance_text": "George Busse",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110890&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110891&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23081&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99484&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4813ace9-3b49-4838-afb1-cf33f059d054",
+      "party_type": "Person",
+      "full_name": "Félix Bracquemond",
+      "cited_name": "Bracquemond, Félix",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1833-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

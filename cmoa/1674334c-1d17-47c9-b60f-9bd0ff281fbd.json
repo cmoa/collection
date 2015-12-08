@@ -1,0 +1,39 @@
+{
+  "title": "Salver",
+  "creation_date": "1782-1783",
+  "creation_date_earliest": "1782-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "sterling silver",
+  "accession_number": "70.7.158",
+  "id": "cmoa:things/1674334c-1d17-47c9-b60f-9bd0ff281fbd",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.25,
+  "item_height": 1.375,
+  "item_depth": 15.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015966",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5943&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/94edfd16-776f-4996-ae03-10703b1d0172",
+      "party_type": "Organization",
+      "full_name": "John Langlands and John Robertson",
+      "cited_name": "John Langlands and John Robertson",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1778-01-01",
+      "death_date": "1795-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

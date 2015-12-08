@@ -1,0 +1,39 @@
+{
+  "title": "Teapot stand",
+  "creation_date": "c. 1800-1810",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "black basaltes",
+  "accession_number": "88.27.2",
+  "id": "cmoa:things/65052a15-822c-4c69-b320-25594b5e15b5",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1988-09-29",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 0.875,
+  "item_depth": 7.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026493",
+  "provenance_text": "The Golden Calf, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2221&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e54ad353-6204-4d84-9f20-cea1bfd0db23",
+      "party_type": "Organization",
+      "full_name": "Locketts and Company",
+      "cited_name": "Locketts and Company",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

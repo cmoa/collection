@@ -1,0 +1,39 @@
+{
+  "title": "The Dance",
+  "creation_date": "1913-1914",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "27.6",
+  "id": "cmoa:things/46038d0d-d4ad-4e01-8336-cf75737b6b75",
+  "credit_line": "Gift from Miss Helen Clay Frick",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 59.0,
+  "item_height": 59.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006059",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA, by 1927; gift to Museum, 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6569&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/62b40b76-9fbf-4b1c-ba6f-03b0849ea0ad",
+      "party_type": "Person",
+      "full_name": "Jean Julien Lemordant",
+      "cited_name": "Lemordant, Jean J.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1882-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "France, St. Malo",
+      "death_place": null
+    }
+  ]
+}

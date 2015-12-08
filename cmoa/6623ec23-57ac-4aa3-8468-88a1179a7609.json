@@ -1,0 +1,42 @@
+{
+  "title": "Concert Impression of Rudolf Serkin",
+  "creation_date": "c. 1946",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.14",
+  "id": "cmoa:things/6623ec23-57ac-4aa3-8468-88a1179a7609",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008176",
+  "provenance_text": "Eugene Spiro",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100429&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100428&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a82e2cc-1bb3-42c6-85be-b207ad060f62",
+      "party_type": "Person",
+      "full_name": "Eugene Spiro",
+      "cited_name": "Spiro, Eugene",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Breslau, Poland",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Paperweight",
+  "creation_date": "c. 1878",
+  "creation_date_earliest": "1873-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.285",
+  "id": "cmoa:things/2df6f9fc-1b0f-46dc-8779-838cb46c2e42",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 4.25,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007921",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f001c189-8e27-4ca6-a34a-639a4d78c063",
+      "party_type": "Organization",
+      "full_name": "Gillinder and Sons",
+      "cited_name": "Gillinder and Sons",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

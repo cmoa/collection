@@ -1,0 +1,39 @@
+{
+  "title": "Kura in Tomonoura",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "2002.13.8",
+  "id": "cmoa:things/7e034e84-6377-4161-835e-49c1b38f3c91",
+  "credit_line": "Mr. and Mrs. William A. Meyer Fund",
+  "date_acquired": "2002-04-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.875,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004443",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, 4/2002; Mr. and Mrs. William A. Meyer Fund",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35444&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17eb67da-ba1a-468e-bbde-a229aa800c75",
+      "party_type": "Person",
+      "full_name": "Yoshida Hiroshi",
+      "cited_name": "Yoshida Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1876-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Kurume, Kyushu",
+      "death_place": null
+    }
+  ]
+}

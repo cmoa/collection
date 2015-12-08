@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man in Greco-Turkish Costume",
+  "creation_date": "1827",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "pencil on translucent paper",
+  "accession_number": "75.47.14",
+  "id": "cmoa:things/3fd8e5f4-df49-4dc3-b49e-8edb5d7ffe9a",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017776",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94782&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60b0fb0c-ef30-4301-8cf5-4710396aa0e4",
+      "party_type": "Person",
+      "full_name": "Achille Devéria",
+      "cited_name": "Devéria, Achille",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1800-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

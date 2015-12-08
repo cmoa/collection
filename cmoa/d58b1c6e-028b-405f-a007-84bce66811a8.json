@@ -1,0 +1,39 @@
+{
+  "title": "Alu-Falttisch",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "aluminum",
+  "accession_number": "1999.5.2",
+  "id": "cmoa:things/d58b1c6e-028b-405f-a007-84bce66811a8",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "1999-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 29.0,
+  "item_depth": 0.0,
+  "item_diameter": 25.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003927",
+  "provenance_text": "Historical Design Inc., New York, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54627&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a32c988a-7144-4850-9e10-b0e13b19d0be",
+      "party_type": "Person",
+      "full_name": "Werner Schmidt",
+      "cited_name": "Schmidt, Werner",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Teaspoon",
+  "creation_date": "c. 1795-1800",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "silver",
+  "accession_number": "27.10.1012.2",
+  "id": "cmoa:things/43fb5c72-1789-463d-b9ae-be1bb4284601",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.812,
+  "item_height": 9.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005519",
+  "provenance_text": "By descent to Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/086a2013-c35a-483f-8e18-a1549abd4fa7",
+      "party_type": "Person",
+      "full_name": "Samuel Williamson",
+      "cited_name": "Williamson, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1794-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

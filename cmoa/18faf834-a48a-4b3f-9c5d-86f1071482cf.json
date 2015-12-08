@@ -1,0 +1,39 @@
+{
+  "title": "Mountain Brook in Autumn",
+  "creation_date": "c. 1875-1880",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "16.12",
+  "id": "cmoa:things/18faf834-a48a-4b3f-9c5d-86f1071482cf",
+  "credit_line": "Gift of the Executors of the Estate of Elizabeth Verner Long",
+  "date_acquired": "1916-10-09",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 46.5,
+  "item_height": 27.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001040",
+  "provenance_text": "Elizabeth Verner Long, until 1916; Executors of the estate of Elizabeth Verner Long, until 1916; gift to Museum, October 9, 1916.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114812&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c9c1258-7c82-4bff-8c2a-9f8c08dde3ba",
+      "party_type": "Person",
+      "full_name": "Alfred S. Wall",
+      "cited_name": "Wall, Alfred S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "USA, Pennsylvania, Mt. Pleasant",
+      "death_place": null
+    }
+  ]
+}

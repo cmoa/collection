@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1882",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "porcelain",
+  "accession_number": "2004.41.A-B",
+  "id": "cmoa:things/5ac9c20f-6db4-4a76-b6a5-b7797bad29e7",
+  "credit_line": "Mary Murtland Wurts Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8191",
+  "provenance_text": "Paul Reeves, London",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10519&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d3b641b-5ded-4a58-b7ed-d1441e038311",
+      "party_type": "Organization",
+      "full_name": "Royal Worcester Porcelain Company",
+      "cited_name": "Royal Worcester Porcelain Company",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

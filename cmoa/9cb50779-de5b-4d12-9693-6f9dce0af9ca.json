@@ -1,0 +1,39 @@
+{
+  "title": "My First Day at School",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.3",
+  "id": "cmoa:things/9cb50779-de5b-4d12-9693-6f9dce0af9ca",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012906",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107836&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4aa98e34-0da6-4c1c-b114-5002e18ba986",
+      "party_type": "Person",
+      "full_name": "Howard Baer",
+      "cited_name": "Baer, Howard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Finleyville PA",
+      "death_place": "New York City"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "porcelain",
+  "accession_number": "2014.70.5.A-.B",
+  "id": "cmoa:things/fa16d0a4-e489-4259-afc9-6b484b83c2c4",
+  "credit_line": "Gift of Dr. David Werner and Susan Werner",
+  "date_acquired": "2014-12-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111118",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134336&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134346&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134347&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134348&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134349&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134354&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134355&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134356&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c235cc6-80d3-4143-860c-a3b615484f5a",
+      "party_type": "Person",
+      "full_name": "Alf Wallander",
+      "cited_name": "Wallander, Alf",
+      "role": "designer",
+      "nationality": "Swedish",
+      "birth_date": "1862-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/13503aa7-637e-4e4d-8dea-673f850220a0",
+      "party_type": "Organization",
+      "full_name": "Rörstrand Porcelain Manufactory",
+      "cited_name": "Rörstrand Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "Swedish",
+      "birth_date": "1726-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

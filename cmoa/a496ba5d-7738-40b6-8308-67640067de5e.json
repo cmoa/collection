@@ -1,0 +1,39 @@
+{
+  "title": "St. Augustine in His Study",
+  "creation_date": "c. 15th century",
+  "creation_date_earliest": "1449-12-23",
+  "creation_date_latest": "1502-12-22",
+  "medium": "opaque water-based paint with gilt on parchment",
+  "accession_number": "58.45.1",
+  "id": "cmoa:things/a496ba5d-7738-40b6-8308-67640067de5e",
+  "credit_line": "Sarah Mellon Scaife Foundation Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010860",
+  "provenance_text": "H. P. Kraus, New York City",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99437&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/153744ec-ca1c-47d7-9f9e-00bcb82ce5bc",
+      "party_type": "Person",
+      "full_name": "Pedro de Berruguete",
+      "cited_name": "Berruguete, Pedro de",
+      "role": "attributed to",
+      "nationality": "Spanish",
+      "birth_date": "1435-01-01",
+      "death_date": "1488-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

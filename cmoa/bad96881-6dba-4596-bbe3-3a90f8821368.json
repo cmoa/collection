@@ -1,0 +1,51 @@
+{
+  "title": "Casserole",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "earthenware",
+  "accession_number": "1997.8.2",
+  "id": "cmoa:things/bad96881-6dba-4596-bbe3-3a90f8821368",
+  "credit_line": "Gift in memory of George R. Thomas by Mrs. George R. Thomas, Ann Thomas Wilkins and David G. Wilkins",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.687,
+  "item_height": 2.0,
+  "item_depth": 4.312,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003493",
+  "provenance_text": "Mrs. George R. Thomas, Ann Thomas Wilkins, David G. Wilkins, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1106&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04731a63-d986-47c8-b8d0-2e76ec93dc62",
+      "party_type": "Person",
+      "full_name": "Edwin Scheier",
+      "cited_name": "Scheier, Edwin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c9eedf7-280e-437d-8e10-d4d4fe95e7e9",
+      "party_type": "Person",
+      "full_name": "Mary Scheier",
+      "cited_name": "Scheier, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Salem (Culpeper county, Virginia, United States)",
+      "death_place": "Green Valley (Pima county, Arizona, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Covered vase",
+  "creation_date": "c. 1875",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "glass",
+  "accession_number": "20.5.17.A-B",
+  "id": "cmoa:things/fe669dae-5171-44d7-96ea-bb706b6ed6c1",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 4.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004592",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=892&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72e7a257-413a-44b7-8dc0-dd06c91b55cc",
+      "party_type": "Person",
+      "full_name": "unknown Bohemian",
+      "cited_name": "unknown Bohemian",
+      "role": null,
+      "nationality": "Bohemian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

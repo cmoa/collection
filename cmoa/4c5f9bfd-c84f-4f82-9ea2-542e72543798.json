@@ -1,0 +1,54 @@
+{
+  "title": "Plate",
+  "creation_date": "1897",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "92.166",
+  "id": "cmoa:things/4c5f9bfd-c84f-4f82-9ea2-542e72543798",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1992-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 2.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031370",
+  "provenance_text": "New Century, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103101&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101744&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fe74c5d4-a0f2-4835-9646-6901013f8dc4",
+      "party_type": "Person",
+      "full_name": "Arthur Bamkin",
+      "cited_name": "Bamkin, Arthur",
+      "role": "decorator",
+      "nationality": "English",
+      "birth_date": "1881-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/583ce7ef-18c3-4507-a3a8-afcd78d8673e",
+      "party_type": "Person",
+      "full_name": "Charles Hubert Brannam",
+      "cited_name": "Brannam, Charles Hubert",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1855-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

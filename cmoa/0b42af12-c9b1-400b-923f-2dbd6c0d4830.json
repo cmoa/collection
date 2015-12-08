@@ -1,0 +1,42 @@
+{
+  "title": "Midgard",
+  "creation_date": "1980-1985",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "oil and emulsion on canvas",
+  "accession_number": "85.62.A-.C",
+  "id": "cmoa:things/0b42af12-c9b1-400b-923f-2dbd6c0d4830",
+  "credit_line": "Purchase: gift of Kaufmann's Department Store, Women's Committee, and Fellows of Carnegie Museum of Art",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 237.75,
+  "item_height": 142.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025714",
+  "provenance_text": "Anselm Kiefer, Hornbach, Odenwald, Federal Republic of West Germany",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=260&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57286&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e17249b3-7cb6-444b-9c5d-69c807840384",
+      "party_type": "Person",
+      "full_name": "Anselm Kiefer",
+      "cited_name": "Kiefer, Anselm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "Donauschingen, Germany",
+      "death_place": null
+    }
+  ]
+}

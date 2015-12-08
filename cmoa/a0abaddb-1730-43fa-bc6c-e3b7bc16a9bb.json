@@ -1,0 +1,42 @@
+{
+  "title": "Woman with Ringlets",
+  "creation_date": "c. 1851",
+  "creation_date_earliest": "1846-01-01",
+  "creation_date_latest": "1856-01-01",
+  "medium": "daguerreotype",
+  "accession_number": "2009.20",
+  "id": "cmoa:things/a0abaddb-1730-43fa-bc6c-e3b7bc16a9bb",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 1.625,
+  "item_height": 2.188,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80666",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118714&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82118&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c2f8e13-0e39-418f-bdef-bf7ebe2f272d",
+      "party_type": "Organization",
+      "full_name": "Hough & Anthony",
+      "cited_name": "Hough & Anthony",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1855-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

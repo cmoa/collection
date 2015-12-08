@@ -1,0 +1,48 @@
+{
+  "title": "Le Printemps (Springtime)",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "Drypoint on paper",
+  "accession_number": "54.34.6",
+  "id": "cmoa:things/fe8155f3-ca3a-45c2-a5aa-eb3dd52e350a",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-10-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009327",
+  "provenance_text": "Peter H. Deitsch",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110576&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110575&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23140&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99487&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dec87be6-b8ac-434e-afcb-c0e7c3e742be",
+      "party_type": "Person",
+      "full_name": "Auguste Rodin",
+      "cited_name": "Rodin, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Meudon (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bust of George Gordon, Lord Byron",
+  "creation_date": "c. 1822",
+  "creation_date_earliest": "1817-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "marble",
+  "accession_number": "69.41",
+  "id": "cmoa:things/01adca41-17f1-4a6f-87d4-d9d225a7b877",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1969-09-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.938,
+  "item_height": 24.25,
+  "item_depth": 9.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012577",
+  "provenance_text": "Parke-Bernet Galleries, New York, NY",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100329&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0a8e56b-12f1-4e41-8035-b9c71c60e1ba",
+      "party_type": "Person",
+      "full_name": "Lorenzo Bartolini",
+      "cited_name": "Bartolini, Lorenzo",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1777-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": " Prato (Prato province, Tuscany, Italy)",
+      "death_place": "Florence (Firenze province, Tuscany, Italy)"
+    }
+  ]
+}

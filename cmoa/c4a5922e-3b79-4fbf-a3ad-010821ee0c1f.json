@@ -1,0 +1,39 @@
+{
+  "title": "Tree",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1008.2",
+  "id": "cmoa:things/c4a5922e-3b79-4fbf-a3ad-010821ee0c1f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 8.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026701",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35061&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9285b51-f897-4cc8-b8bc-778421478961",
+      "party_type": "Person",
+      "full_name": "Matsubara Naoko",
+      "cited_name": "Matsubara Naoko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

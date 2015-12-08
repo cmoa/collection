@@ -1,0 +1,42 @@
+{
+  "title": "Escaped Bull",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.66",
+  "id": "cmoa:things/a85210fb-aa58-48c0-80af-8e8a51afd6f4",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012935",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103589&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75069&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf8baa8f-3246-4ce0-90e2-d9ae0ebe5fd3",
+      "party_type": "Person",
+      "full_name": "Jon Corbino",
+      "cited_name": "Corbino, Jon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": " Vittoria (Ragusa province, Sicily, Italy)",
+      "death_place": " Sarasota (Sarasota county, Florida, United States)"
+    }
+  ]
+}

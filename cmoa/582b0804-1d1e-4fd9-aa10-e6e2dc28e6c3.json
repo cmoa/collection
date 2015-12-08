@@ -1,0 +1,39 @@
+{
+  "title": "Nassau Hall from Chancellor Green",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "drypoint",
+  "accession_number": "48.8",
+  "id": "cmoa:things/582b0804-1d1e-4fd9-aa10-e6e2dc28e6c3",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008394",
+  "provenance_text": "Princeton Print Club",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100331&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/94efbbdf-1be5-44c2-9346-ad4d1b24af10",
+      "party_type": "Person",
+      "full_name": "Samuel Chamberlain",
+      "cited_name": "Chamberlain, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

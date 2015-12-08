@@ -1,0 +1,39 @@
+{
+  "title": "Head of a Man",
+  "creation_date": "15th-16th century",
+  "creation_date_earliest": "1474-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "black chalk with white heightening on white paper",
+  "accession_number": "23.12.28",
+  "id": "cmoa:things/ac506f81-ad1b-4676-9140-fde2f8b3fcbf",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004836",
+  "provenance_text": "Jonathan Richardson, Sr., London (partial collector's mark, Lugt 2183, lower right edge); Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99439&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b35c3f4-73d0-499b-a069-6aa4393d8960",
+      "party_type": "Person",
+      "full_name": "Leonardo Da Vinci",
+      "cited_name": "Da Vinci, Leonardo",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1452-01-01",
+      "death_date": "1519-01-01",
+      "birth_place": " Vinci (Firenze province, Tuscany, Italy)",
+      "death_place": " Amboise (Indre-et-Loire, Centre region, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Unsafe Tenement",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "etching on laid paper",
+  "accession_number": "74.7.255",
+  "id": "cmoa:things/0b207d77-13f2-4488-98db-090fbf43565b",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017468",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66738&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

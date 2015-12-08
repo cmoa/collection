@@ -1,0 +1,39 @@
+{
+  "title": "The Last Edition",
+  "creation_date": "c. 1896",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.6.2",
+  "id": "cmoa:things/e293502f-2671-48c5-a0af-e496e72d6f41",
+  "credit_line": "Gift of Mr. and Mrs. Henry J. Heinz II",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.0,
+  "item_height": 44.0,
+  "item_depth": 5.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010612",
+  "provenance_text": "Sale of the artist's estate, American Art Galleries, New York, 1914; Mr. and Mrs. Henry J. Heinz II, Pittsburgh, by 1957; Gift of Mr. and Mrs. Henry J. Heinz II, 1957",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20627&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40219971-8b5f-4b07-9501-e3c296c4701f",
+      "party_type": "Person",
+      "full_name": "John George Brown",
+      "cited_name": "Brown, John George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": "1913-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

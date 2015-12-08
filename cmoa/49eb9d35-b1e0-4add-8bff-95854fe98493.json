@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1870s",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "drawing on woodblock",
+  "accession_number": "18.41.3",
+  "id": "cmoa:things/49eb9d35-b1e0-4add-8bff-95854fe98493",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-03-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.125,
+  "item_height": 20.062,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001844",
+  "provenance_text": "George H. Whittle, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16977&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/758eeff1-9995-43c5-8524-ca1b8a8c257c",
+      "party_type": "Person",
+      "full_name": "Thomas Moran",
+      "cited_name": "Moran, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Bolton (Bolton, England, United Kingdom)",
+      "death_place": "Santa Barbara (Santa Barbara county, California, United States)"
+    }
+  ]
+}

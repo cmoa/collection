@@ -1,0 +1,54 @@
+{
+  "title": "Power Play Ottoman",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "maple",
+  "accession_number": "94.112.2",
+  "id": "cmoa:things/98fca464-28ab-4ae5-b2d3-7e39d2945873",
+  "credit_line": "Purchase: gift of Mellon Bank, by exchange",
+  "date_acquired": "1994-09-22",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 8.5,
+  "item_depth": 25.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033856",
+  "provenance_text": "The Knoll Group, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6542&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6546&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c1023d5-e381-411f-bc5a-4c1c90ab7448",
+      "party_type": "Person",
+      "full_name": "Frank Gehry",
+      "cited_name": "Gehry, Frank",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Toronto, Canada",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3535edaa-aef1-47a2-926f-75058d50c210",
+      "party_type": "Organization",
+      "full_name": "Knoll International",
+      "cited_name": "Knoll International",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

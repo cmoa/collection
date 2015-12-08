@@ -1,0 +1,39 @@
+{
+  "title": "Head of Christ",
+  "creation_date": "c. 1480-1520",
+  "creation_date_earliest": "1479-12-23",
+  "creation_date_latest": "1519-12-22",
+  "medium": "oil on panel",
+  "accession_number": "64.11.12",
+  "id": "cmoa:things/ce0800bf-4fb9-4663-acb1-549609b7efae",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.75,
+  "item_height": 13.375,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011702",
+  "provenance_text": "C. Vallin, Barcelona; Howard A. Noble, Pittsburgh; gift to Museum, May 1964.\n\nNotes: In 1944, the painting hung in the living room of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126313&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ae47ef2-25ea-4a00-a957-b01c190a3a11",
+      "party_type": "Person",
+      "full_name": "Gerard David",
+      "cited_name": "David, Gerard",
+      "role": "workshop of",
+      "nationality": "Netherlandish",
+      "birth_date": "1460-01-01",
+      "death_date": "1523-01-01",
+      "birth_place": " Oudewater (Utrecht province, Netherlands)",
+      "death_place": " Bruges (West-Vlaanderen, Flanders, Belgium)"
+    }
+  ]
+}

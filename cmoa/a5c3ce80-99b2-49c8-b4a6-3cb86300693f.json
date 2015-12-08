@@ -1,0 +1,63 @@
+{
+  "title": "Table",
+  "creation_date": "c. 1959",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "walnut, East Indian rosewood, and aluminum",
+  "accession_number": "2014.23",
+  "id": "cmoa:things/a5c3ce80-99b2-49c8-b4a6-3cb86300693f",
+  "credit_line": "Richard L. Simmons Acquisition Fund, Second Century Acquisition Fund, and Decorative Arts Purchase Fund",
+  "date_acquired": "2014-06-26",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 19.5,
+  "item_depth": 29.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103904",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132153&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/95d1930c-8226-4da5-aa3d-80e8e6f7a42b",
+      "party_type": "Person",
+      "full_name": "George Nakashima",
+      "cited_name": "Nakashima, George",
+      "role": "designer and maker",
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Spokane, Washington",
+      "death_place": "New Hope, PA"
+    },
+    {
+      "artist_id": "cmoa:parties/fbb00bac-70bf-4b72-93e3-6de640f588f5",
+      "party_type": "Person",
+      "full_name": "Florence Schust Knoll",
+      "cited_name": "Knoll, Florence S.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1917-01-01",
+      "death_date": null,
+      "birth_place": "Saginaw, MI",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f47ee54e-b518-4df0-8280-43fefde4f583",
+      "party_type": "Organization",
+      "full_name": "Knoll Associates, Inc.",
+      "cited_name": "Knoll Associates, Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

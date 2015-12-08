@@ -1,0 +1,39 @@
+{
+  "title": "Shere Mill Pond",
+  "creation_date": "1869",
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "etching",
+  "accession_number": "18.3",
+  "id": "cmoa:things/fb8b7671-b85b-496a-b735-0631b1eb7b44",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-01-29",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001836",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105221&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

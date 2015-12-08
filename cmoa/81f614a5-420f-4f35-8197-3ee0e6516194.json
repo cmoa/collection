@@ -1,0 +1,51 @@
+{
+  "title": "Tray",
+  "creation_date": "designed 1936-1939, manufactured 1983",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "glass",
+  "accession_number": "86.18",
+  "id": "cmoa:things/81f614a5-420f-4f35-8197-3ee0e6516194",
+  "credit_line": "Gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1986-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 1.312,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026008",
+  "provenance_text": "Gift of John Baird Hudson, NY, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2573&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fa52deb-8316-479d-8000-1cad223a31f0",
+      "party_type": "Person",
+      "full_name": "Alvar Aalto",
+      "cited_name": "Aalto, Alvar",
+      "role": null,
+      "nationality": "Finnish",
+      "birth_date": "1898-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": " Kuortane (Länsi-Suomen Lääni, Finland)",
+      "death_place": " Helsinki (Etelä-Suomen Lääni, Finland)"
+    },
+    {
+      "artist_id": "cmoa:parties/73b938b3-b13a-4710-b473-7eb048c41b7b",
+      "party_type": "Organization",
+      "full_name": "Ahlstrom, Iittala Glassworks",
+      "cited_name": "Ahlstrom, Iittala Glassworks",
+      "role": null,
+      "nationality": "Finnish",
+      "birth_date": "1881-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Ewer",
+  "creation_date": "1868",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "silver and silver gilt",
+  "accession_number": "2002.20.2.2",
+  "id": "cmoa:things/09c8537c-47ab-4895-9ded-b446b3a29d03",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 11.938,
+  "item_depth": 3.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=35",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=15884&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04f2c765-1fc4-4444-8fdd-9bfa295fa2e9",
+      "party_type": "Person",
+      "full_name": "Alfred Ivory",
+      "cited_name": "Ivory, Alfred",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1856-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

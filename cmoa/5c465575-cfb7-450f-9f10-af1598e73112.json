@@ -1,0 +1,39 @@
+{
+  "title": "Bamboo",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.6",
+  "id": "cmoa:things/5c465575-cfb7-450f-9f10-af1598e73112",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 16.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028673",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0b64988-e4a9-4720-882b-da7a46ccc990",
+      "party_type": "Person",
+      "full_name": "Aoyama Seiji",
+      "cited_name": "Aoyama Seiji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1893-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Japan",
+      "death_place": "Japan"
+    }
+  ]
+}

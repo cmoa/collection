@@ -1,0 +1,39 @@
+{
+  "title": "Collection",
+  "creation_date": "c. 1980",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "80.3.2",
+  "id": "cmoa:things/79b11503-bbef-451f-ae81-68c480c66471",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 70th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1980-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 50.625,
+  "item_height": 40.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021141",
+  "provenance_text": "The Artist via 71st Annual Associated Artists of Pittsburgh Exhibition, February 1980",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/76985762-ca3c-4f88-8eec-16824aa0e13e",
+      "party_type": "Person",
+      "full_name": "Herbert Olds",
+      "cited_name": "Olds, Herbert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

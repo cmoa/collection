@@ -1,0 +1,39 @@
+{
+  "title": "Portable altar",
+  "creation_date": "14th century",
+  "creation_date_earliest": "1299-12-25",
+  "creation_date_latest": "1398-12-24",
+  "medium": "ivory",
+  "accession_number": "56.3.1",
+  "id": "cmoa:things/958f324c-4e92-4006-ab6f-2236824b70a8",
+  "credit_line": "Gift of Jeannine Byers",
+  "date_acquired": "1956-03-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 6.25,
+  "item_height": 8.375,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009721",
+  "provenance_text": "Gift of Jeannine Byers, 1956.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11761&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

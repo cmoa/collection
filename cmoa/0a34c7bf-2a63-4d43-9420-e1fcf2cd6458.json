@@ -1,0 +1,39 @@
+{
+  "title": "Enamel Plaque of Jupiter and Antiope",
+  "creation_date": null,
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1774-01-01",
+  "medium": "enamel on metal",
+  "accession_number": "27.10.153",
+  "id": "cmoa:things/0a34c7bf-2a63-4d43-9420-e1fcf2cd6458",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.812,
+  "item_height": 2.25,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005623",
+  "provenance_text": "J. W. von Quistgaard, New York, NY; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, March 25, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73608&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/781bcd99-b0c5-4f66-abcc-9eb6a57e3a8b",
+      "party_type": "Person",
+      "full_name": "Jacques Charlier",
+      "cited_name": "Charlier, Jacques",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1720-01-01",
+      "death_date": "1774-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Artist on the Beach at Provincetown",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "93.189.23",
+  "id": "cmoa:things/8d15fd5d-c360-4e2c-a9bd-18ee9eeb917d",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033283",
+  "provenance_text": "Robert Locher, Lancaster, Pa., by descent, 1935; Mr. Savage, 1935; Richard Weyland, Lancaster, Pa., by 1956; Maynard Walker Gallery, New York; Mr. and Mrs. James H. Beal, Pittsburgh, 1960; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89461&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8218&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06aff35c-4cfd-48f3-a21c-c1b9e06a7aaa",
+      "party_type": "Person",
+      "full_name": "Charles Demuth",
+      "cited_name": "Demuth, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Lancaster, Pennsylvania",
+      "death_place": "Lancaster, Pennsylvania"
+    }
+  ]
+}

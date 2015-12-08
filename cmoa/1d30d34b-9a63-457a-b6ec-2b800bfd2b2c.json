@@ -1,0 +1,39 @@
+{
+  "title": "The Old Mill",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.150",
+  "id": "cmoa:things/1d30d34b-9a63-457a-b6ec-2b800bfd2b2c",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012726",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108173&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a5a3a1dd-a03c-4646-a731-8a273e22e566",
+      "party_type": "Person",
+      "full_name": "Walter R. Locke",
+      "cited_name": "Locke, Walter R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": null,
+      "birth_place": "Winchester, MA",
+      "death_place": null
+    }
+  ]
+}

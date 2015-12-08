@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "1718-1719",
+  "creation_date_earliest": "1718-01-01",
+  "creation_date_latest": "1719-01-01",
+  "medium": "silver, britannia standard",
+  "accession_number": "70.32.2426",
+  "id": "cmoa:things/513d0ea0-3d09-4c82-afc5-a67c6fb27cb1",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 5.875,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014640",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4948&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cda407cb-a46c-4d85-8d2b-36bc0b07785f",
+      "party_type": "Person",
+      "full_name": "Richard Bayley",
+      "cited_name": "Bayley, Richard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1748-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

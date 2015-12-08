@@ -1,0 +1,54 @@
+{
+  "title": "Cabinet",
+  "creation_date": "c. 1969",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "painted polyurethane and acrylic",
+  "accession_number": "1997.54",
+  "id": "cmoa:things/cfb26573-5152-4ca3-971a-6aab7709fa16",
+  "credit_line": "Gift of Dirk Visser",
+  "date_acquired": "1997-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 24.0,
+  "item_height": 73.25,
+  "item_depth": 19.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003415",
+  "provenance_text": "Dirk Visser, McMurray, PA",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96502&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96501&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab73977f-bfaf-4bb8-b30e-f785cff4789f",
+      "party_type": "Organization",
+      "full_name": "Peter Muller-Munk Associates",
+      "cited_name": "Peter Muller-Munk Associates",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/951c9950-d45f-40b8-bf38-bb020e4237a1",
+      "party_type": "Organization",
+      "full_name": "Mobay Chemical Company",
+      "cited_name": "Mobay Chemical Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

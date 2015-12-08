@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Lady",
+  "creation_date": "1675",
+  "creation_date_earliest": "1675-01-01",
+  "creation_date_latest": "1675-01-01",
+  "medium": "opaque water-base paint mounted on vellum mounted on cardboard",
+  "accession_number": "64.11.16",
+  "id": "cmoa:things/7de85a83-262d-4166-ae11-665f859a6c1e",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011711",
+  "provenance_text": "Nicolaes Maes [1632-1693]. Sold at Gallery of P. Jackson Higgs, New York, NY, by November 1929 [1]; purchased by Howard A. Noble [1874-1964], Pittsburgh, PA, 1929 until 1964 [2]; bequest to Museum of Art, Carnegie Institute, 1964. \n\nNotes: \n[1]. See correspondence from Gallery of P. Jackson Higgs in curatorial file.\n[2]. Llikely the one of the two Maes works in the Noble collection that in 1944 hung in a bedroom of their residence at 1245 Shady Avenue, Pittsburgh, PA.\n\n\nUnder review by CGK",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19099&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c83ce317-39ad-4bab-b2d6-20bd2adc77e1",
+      "party_type": "Person",
+      "full_name": "Nicolaes Maes",
+      "cited_name": "Maes, Nicolaes",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1632-01-01",
+      "death_date": "1693-01-01",
+      "birth_place": "Dordrecht (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

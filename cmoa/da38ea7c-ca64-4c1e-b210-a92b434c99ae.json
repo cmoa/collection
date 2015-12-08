@@ -1,0 +1,42 @@
+{
+  "title": "Victory",
+  "creation_date": "1892-1903",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "gilded bronze",
+  "accession_number": "19.5.2",
+  "id": "cmoa:things/da38ea7c-ca64-4c1e-b210-a92b434c99ae",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 23.0,
+  "item_height": 41.875,
+  "item_depth": 35.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002068",
+  "provenance_text": "Tiffany and Co., New York, by 1919; purchased by Museum, 1919.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10218&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56877&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

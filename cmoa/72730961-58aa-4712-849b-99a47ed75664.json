@@ -1,0 +1,39 @@
+{
+  "title": "Plaque (Paul Wayland Bartlett)",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "bronze",
+  "accession_number": "78.34.23",
+  "id": "cmoa:things/72730961-58aa-4712-849b-99a47ed75664",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.25,
+  "item_depth": 0.0,
+  "item_diameter": 4.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019966",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5222&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/805d6a26-e527-456d-9ff8-c04f4a77f6e8",
+      "party_type": "Person",
+      "full_name": "John Bernard  Flannagan",
+      "cited_name": "Flannagan, John B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": " Fargo (Cass county, North Dakota, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

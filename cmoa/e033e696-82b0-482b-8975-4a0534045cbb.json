@@ -1,0 +1,42 @@
+{
+  "title": "Writing table",
+  "creation_date": "c. 1750-1760",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "wood",
+  "accession_number": "70.32.22",
+  "id": "cmoa:things/e033e696-82b0-482b-8975-4a0534045cbb",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 28.25,
+  "item_depth": 15.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014492",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54449&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101866&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcf5eeae-8fa0-4abc-b75c-2dcf7b610339",
+      "party_type": "Person",
+      "full_name": "Pierre Migeon II",
+      "cited_name": "Migeon, Pierre",
+      "role": "possibly by",
+      "nationality": "French",
+      "birth_date": "1701-01-01",
+      "death_date": "1758-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

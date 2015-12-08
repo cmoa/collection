@@ -1,0 +1,51 @@
+{
+  "title": "George Howard, 6th Earl of Carlisle",
+  "creation_date": "1787",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "engraving",
+  "accession_number": "2006.83.21",
+  "id": "cmoa:things/a9d1fb6c-5363-4278-8be1-50a1350b78cc",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34356",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39286&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ccf3cdb6-d67e-42da-9808-06b52fa61424",
+      "party_type": "Person",
+      "full_name": "Thomas Trotter",
+      "cited_name": "Trotter, Thomas",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1803-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Tiny Pool",
+  "creation_date": "c. 1879",
+  "creation_date_earliest": "1874-01-01",
+  "creation_date_latest": "1884-01-01",
+  "medium": "etching on wove paper",
+  "accession_number": "2000.33.1",
+  "id": "cmoa:things/ae774c5a-8277-4951-a0af-5d3375fc7c05",
+  "credit_line": "Gift of Ruth and Leonard Perfido From the Collection of her father, Dr. Jess Spirer",
+  "date_acquired": "2000-06-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004041",
+  "provenance_text": "Ruth And Leonard Perfido, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55401&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

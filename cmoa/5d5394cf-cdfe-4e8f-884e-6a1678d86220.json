@@ -1,0 +1,39 @@
+{
+  "title": "A Deserted House",
+  "creation_date": "no date",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "graphite, charcoal, and white gouache on light grey-blue laid paper",
+  "accession_number": "06.3.18",
+  "id": "cmoa:things/5d5394cf-cdfe-4e8f-884e-6a1678d86220",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000230",
+  "provenance_text": "The Century Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48338&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/92e88f7d-8a25-4485-aced-5e141d8f4cf0",
+      "party_type": "Person",
+      "full_name": "F. Hopkinson Smith",
+      "cited_name": "Smith, F. H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1838-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Baltimore (Baltimore Independent City, Maryland, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

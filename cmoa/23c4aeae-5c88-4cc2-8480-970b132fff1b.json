@@ -1,0 +1,37 @@
+{
+  "title": "The Nativity",
+  "creation_date": null,
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "43.4.51",
+  "id": "cmoa:things/23c4aeae-5c88-4cc2-8480-970b132fff1b",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007442",
+  "provenance_text": "Alice D. Laughlin [1895-1952]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d63c0ed7-f8e6-41c6-8fca-aa7565e83185",
+      "party_type": "Person",
+      "full_name": "Alice D. Laughlin",
+      "cited_name": "Laughlin, Alice D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "New York City, New York"
+    }
+  ]
+}

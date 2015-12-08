@@ -1,0 +1,54 @@
+{
+  "title": "Rag chair",
+  "creation_date": "1991 designed",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "textile, wood, and steel",
+  "accession_number": "2005.20",
+  "id": "cmoa:things/1246fd41-d125-40f2-b849-8e8be74be35c",
+  "credit_line": "Gift of Barry Friedman Ltd., New York",
+  "date_acquired": "2005-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 43.0,
+  "item_depth": 32.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8219",
+  "provenance_text": "Barry Friedman Ltd., New York",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=81419&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31762&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caae065e-e825-45a1-9486-37cf1119d056",
+      "party_type": "Person",
+      "full_name": "Tejo Remy",
+      "cited_name": "Remy, Tejo",
+      "role": "designer",
+      "nationality": "Dutch",
+      "birth_date": "1960-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/91374de8-c084-468f-bd80-f28b4ef391b9",
+      "party_type": "Organization",
+      "full_name": "Droog Design",
+      "cited_name": "Droog Design",
+      "role": "design collaborative",
+      "nationality": "Dutch",
+      "birth_date": "1993-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

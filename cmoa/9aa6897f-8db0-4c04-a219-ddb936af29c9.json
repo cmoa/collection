@@ -1,0 +1,51 @@
+{
+  "title": "Caviar pail or bottle cooler",
+  "creation_date": "1841",
+  "creation_date_earliest": "1841-01-01",
+  "creation_date_latest": "1841-01-01",
+  "medium": "silver",
+  "accession_number": "94.24.A-B",
+  "id": "cmoa:things/9aa6897f-8db0-4c04-a219-ddb936af29c9",
+  "credit_line": "Bequest of Joan B. Lappe-Bowman",
+  "date_acquired": "1994-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 14.5,
+  "item_depth": 0.0,
+  "item_diameter": 11.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035136",
+  "provenance_text": "Joan B. Lappe-Bowman, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/214d1ab7-daa3-4180-9326-fc2e50897500",
+      "party_type": "Person",
+      "full_name": "Edward Hodges Baily",
+      "cited_name": "Baily, Edward Hodges",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1788-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": " Bristol (Bristol, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/1f14fdd1-d738-4a54-9d74-a9c3b2da6a24",
+      "party_type": "Organization",
+      "full_name": "John Mortimer and John Samuel Hunt, partners",
+      "cited_name": "Mortimer, John and John Samuel Hunt, partners",
+      "role": "silversmiths",
+      "nationality": "British",
+      "birth_date": "1839-01-01",
+      "death_date": "1842-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

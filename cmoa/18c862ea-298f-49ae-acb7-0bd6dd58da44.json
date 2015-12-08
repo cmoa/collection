@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Marin, Cureau de la Chambre, Physician to the King",
+  "creation_date": "1665",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1665-01-01",
+  "medium": "engraving",
+  "accession_number": "16.17.3",
+  "id": "cmoa:things/18c862ea-298f-49ae-acb7-0bd6dd58da44",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001085",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102715&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5fd8a40b-d4bd-491b-9ac1-0bff22851c44",
+      "party_type": "Person",
+      "full_name": "Antoine Masson",
+      "cited_name": "Masson, Antoine",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1636-01-01",
+      "death_date": "1700-01-01",
+      "birth_place": "Loury (Loiret, Centre region, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/8457a9d0-8369-4a98-acce-ca3bd9fde837",
+      "party_type": "Person",
+      "full_name": "Pierre Mignard I",
+      "cited_name": "Mignard, Pierre, I",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1612-01-01",
+      "death_date": "1695-01-01",
+      "birth_place": "Troyes (Aube, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Ile-de-France, France)"
+    }
+  ]
+}

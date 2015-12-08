@@ -1,0 +1,39 @@
+{
+  "title": "Andy Warhol",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2002.33.1",
+  "id": "cmoa:things/116efc04-5a56-46fc-9c2b-add3cf09ee59",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=316",
+  "provenance_text": "Pace/MacGill Gallery, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127460&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

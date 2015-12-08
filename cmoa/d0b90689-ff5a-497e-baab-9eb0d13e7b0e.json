@@ -1,0 +1,39 @@
+{
+  "title": "Anthracite",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "carborundum tint",
+  "accession_number": "85.66.1",
+  "id": "cmoa:things/d0b90689-ff5a-497e-baab-9eb0d13e7b0e",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1985-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025721",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100357&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/227a8320-3ab1-439c-a3b2-af1076409d3a",
+      "party_type": "Person",
+      "full_name": "Michael J. Gallagher",
+      "cited_name": "Gallagher, Michael J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Scranton, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

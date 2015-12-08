@@ -1,0 +1,39 @@
+{
+  "title": "Fenster (Window)",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "1999.1",
+  "id": "cmoa:things/bdb55fae-12ba-4c86-94d0-2dd214e58a7e",
+  "credit_line": "Milton Fine Fund and Mr. and Mrs. James H. Rich Fund",
+  "date_acquired": "1999-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 113.0,
+  "item_height": 72.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003853",
+  "provenance_text": "Lisa Spellman, 303 Gallery, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8012&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4bc3b3e6-5449-44b6-9603-59c10223bf62",
+      "party_type": "Person",
+      "full_name": "Thomas Demand",
+      "cited_name": "Demand, Thomas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Munich (Oberbayern, Bavaria, Germany)",
+      "death_place": null
+    }
+  ]
+}

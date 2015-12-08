@@ -1,0 +1,39 @@
+{
+  "title": "Study for \"Dark Window\"",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "oil pastel on canvas",
+  "accession_number": "84.97",
+  "id": "cmoa:things/f1b6d4ac-9880-4603-8ef8-bd4beb47045a",
+  "credit_line": "Gift of Mr. and Mrs. Jerome Lieber",
+  "date_acquired": "1984-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 13.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025391",
+  "provenance_text": "Gift of Mr. and Mrs. Jerome Lieber, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90176&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c9549c4-60a0-480a-bdff-74e5602c1c89",
+      "party_type": "Person",
+      "full_name": "Jane Haskell",
+      "cited_name": "Haskell, Jane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Cedarhurst, NY",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

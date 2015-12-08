@@ -1,0 +1,42 @@
+{
+  "title": "Spring in Full Bloom",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "57.32.2",
+  "id": "cmoa:things/cacda7bd-5dc3-44f1-b39e-89ed5fdc9076",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1957-10-24",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010479",
+  "provenance_text": "Yoshinobu Masuda, Tokyo",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83566&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33783&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d138629-8505-4eb6-b4d6-e57801f8c5ee",
+      "party_type": "Person",
+      "full_name": "Munakata Shikô",
+      "cited_name": "Munakata Shikô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

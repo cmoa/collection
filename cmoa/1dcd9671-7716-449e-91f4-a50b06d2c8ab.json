@@ -1,0 +1,39 @@
+{
+  "title": "Cypress/Two Movements",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "plate glass, paint, and glass shards",
+  "accession_number": "1999.32",
+  "id": "cmoa:things/1dcd9671-7716-449e-91f4-a50b06d2c8ab",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1999-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 28.0,
+  "item_depth": 16.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003881",
+  "provenance_text": "Morgan Contemporary Glass Gallery, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=15921&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0903a571-e099-440d-9680-7e02fa49aab5",
+      "party_type": "Person",
+      "full_name": "Therman Statom",
+      "cited_name": "Statom, Therman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

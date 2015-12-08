@@ -1,0 +1,51 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "earthenware",
+  "accession_number": "2003.58.1.6.2",
+  "id": "cmoa:things/76a9fbfa-9f33-47ec-9452-4889c81e2569",
+  "credit_line": "Gift of Sam and Debbie Berkovitz",
+  "date_acquired": "2004-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.938,
+  "item_height": 2.0,
+  "item_depth": 5.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7254",
+  "provenance_text": "Sam and Deborah Berkovitz, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9644&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c772fac4-aa34-4f4f-b776-988f32f832a4",
+      "party_type": "Organization",
+      "full_name": "Sharon Merrill Design",
+      "cited_name": "Merrill, Sharon Design",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "active in Los Angeles, California",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c99b82d-feb2-4231-9009-3bf008d95a13",
+      "party_type": "Organization",
+      "full_name": "Vernon Kilns",
+      "cited_name": "Vernon Kilns",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

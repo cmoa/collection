@@ -1,0 +1,39 @@
+{
+  "title": "Encounter V",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "iron and cement",
+  "accession_number": "59.57",
+  "id": "cmoa:things/8b9504b1-1271-49df-9156-05604b27eca9",
+  "credit_line": "Gift of the A. W. Mellon Educational and Charitable Trust",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 54.0,
+  "item_height": 79.5,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011095",
+  "provenance_text": "Saindenberg Gallery, NYC, via 1958 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8035&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c156b62e-5028-4bbf-9698-4c0dd442eeca",
+      "party_type": "Person",
+      "full_name": "Lynn Russell Chadwick",
+      "cited_name": "Chadwick, Lynn R.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1914-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Barnes (Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Centerpiece",
+  "creation_date": "c. 1952",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "silver",
+  "accession_number": "2004.22",
+  "id": "cmoa:things/66a66193-221a-4472-a524-48b296bf74d5",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2004-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.5,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9003",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10957&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47fe4bc7-7bfe-4e91-8f44-11aba2204b14",
+      "party_type": "Person",
+      "full_name": "Oscar Riedener",
+      "cited_name": "Riedener, Oscar",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/74d4ee3e-b18f-46e9-822b-85e081a81cb5",
+      "party_type": "Organization",
+      "full_name": "Tiffany & Co.",
+      "cited_name": "Tiffany & Co.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

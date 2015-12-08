@@ -1,0 +1,39 @@
+{
+  "title": "Herbstmeer",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.37",
+  "id": "cmoa:things/961558c5-b993-45ef-9b57-617ee176eae2",
+  "credit_line": "Gift of Morton D. May",
+  "date_acquired": "1956-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 47.0,
+  "item_height": 37.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009743",
+  "provenance_text": "Morton D. May, St. Louis, Missouri; gift to Museum, October 1956.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56762&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06225ec9-2766-4d3d-8b05-303392134ae3",
+      "party_type": "Person",
+      "full_name": "H. Max Pechstein",
+      "cited_name": "Pechstein, H. M.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1881-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Zwickau (Chemnitz district, Saxony, Germany)",
+      "death_place": "Berlin (Berlin state, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Race Track, Deauville",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "49.4",
+  "id": "cmoa:things/7ac07026-5140-4ecb-9f34-bfa1cde1a5ea",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.375,
+  "item_height": 28.875,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008744",
+  "provenance_text": "Kraushaar Galleries, New York, NY, 1927; Pittsburgh Athletic Association, Pittsburgh, PA, 1928-1949 [1]; Patrons Art Fund, January 1949 [2].\n\nNotes: \n[1].  Purchased from the 1928 Carnegie International Exhibition.\n[2].  The painting was exchanged in early February 1949 with \"The Light in the Mirror\" by the same artist, which was purchased through the Patrons Arts Fuind for this purpose from the exhibition \"Painting in the United States\" (1948).  See the 1949 Carnegie Institute Annual Report for details.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119998&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d789c2b1-8f3f-43f8-9ad8-c105a5c2b772",
+      "party_type": "Person",
+      "full_name": "Guy Pène Du Bois",
+      "cited_name": "Du Bois, Guy P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

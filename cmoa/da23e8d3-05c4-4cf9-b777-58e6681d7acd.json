@@ -1,0 +1,39 @@
+{
+  "title": "Frauenbrustbild",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "crayon",
+  "accession_number": "60.13",
+  "id": "cmoa:things/da23e8d3-05c4-4cf9-b777-58e6681d7acd",
+  "credit_line": "Lillian Claster Memorial Fund",
+  "date_acquired": "1960-02-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011157",
+  "provenance_text": "Peter H. Deitsch, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99805&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28c49d5c-f42a-4d74-8506-5e8dc47a2b9a",
+      "party_type": "Person",
+      "full_name": "Gustav Klimt",
+      "cited_name": "Klimt, Gustav",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1862-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": " Wien state (Austria)",
+      "death_place": " Vienna (Wien state, Austria)"
+    }
+  ]
+}

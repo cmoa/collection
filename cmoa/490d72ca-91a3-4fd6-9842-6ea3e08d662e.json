@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1930-1948",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "Earthenware",
+  "accession_number": "82.106.1",
+  "id": "cmoa:things/490d72ca-91a3-4fd6-9842-6ea3e08d662e",
+  "credit_line": "Gift of Dr. and Mrs. Robert E. Fulton",
+  "date_acquired": "1983-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 4.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022250",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=648&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47cd4e4c-f2bb-42a8-82b6-2923582a0efb",
+      "party_type": "Organization",
+      "full_name": "Weller Pottery",
+      "cited_name": "Weller Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

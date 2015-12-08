@@ -1,0 +1,42 @@
+{
+  "title": "Artist at Work (for Nesa Paripovic)",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "8 black-and-white photographs",
+  "accession_number": "2013.42.A-.H",
+  "id": "cmoa:things/9a76c8f1-29ef-4519-b42c-7f5c08ba5eea",
+  "credit_line": "The Henry L. Hillman Fund and A.W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2013-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 14, Scaife Galleries",
+  "item_width": 15.669,
+  "item_height": 11.811,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102918",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129718&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f2c87f3-1a69-4dce-93f9-a56673490f2a",
+      "party_type": "Person",
+      "full_name": "Mladen Stilinović",
+      "cited_name": "Stilinović, Mladen",
+      "role": null,
+      "nationality": "Serbian",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Belgrade, Serbia",
+      "death_place": null
+    }
+  ]
+}

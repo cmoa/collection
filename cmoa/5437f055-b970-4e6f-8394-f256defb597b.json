@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "paper collage",
+  "accession_number": "79.41.3",
+  "id": "cmoa:things/5437f055-b970-4e6f-8394-f256defb597b",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1979-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.5,
+  "item_height": 30.0,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020340",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Anthony Arkus, Pittsburgh, PA, 1979.",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121499&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/776b73c9-3c3f-4713-afdf-72cee5683158",
+      "party_type": "Person",
+      "full_name": "Asger Jorn",
+      "cited_name": "Jorn, Asger",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1914-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Århus county (Denmark)",
+      "death_place": null
+    }
+  ]
+}

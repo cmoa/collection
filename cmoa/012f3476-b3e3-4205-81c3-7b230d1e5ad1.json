@@ -1,0 +1,42 @@
+{
+  "title": "Idling",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2007.22",
+  "id": "cmoa:things/012f3476-b3e3-4205-81c3-7b230d1e5ad1",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund and Edith H. Fisher Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 70.5,
+  "item_height": 80.375,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=44941",
+  "provenance_text": "Mitchell-Innes & Nash, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119766&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51656&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c54f11fd-fd38-4c58-b614-ce82bff222a0",
+      "party_type": "Person",
+      "full_name": "Jack Tworkov",
+      "cited_name": "Tworkov, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Biala, Poland",
+      "death_place": "Provincetown, Massachusetts"
+    }
+  ]
+}

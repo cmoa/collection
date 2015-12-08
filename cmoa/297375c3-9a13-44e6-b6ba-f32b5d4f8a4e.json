@@ -1,0 +1,37 @@
+{
+  "title": "Equilibrist",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "Iron",
+  "accession_number": "81.56.9",
+  "id": "cmoa:things/297375c3-9a13-44e6-b6ba-f32b5d4f8a4e",
+  "credit_line": "Bequest of Mary Callery",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 87.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021956",
+  "provenance_text": "Bequest of Mary Callery, New York, NY, 1981.",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac04dc38-6e87-4ec5-9a5f-a6a6b4d04845",
+      "party_type": "Person",
+      "full_name": "Mary Callery",
+      "cited_name": "Callery, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

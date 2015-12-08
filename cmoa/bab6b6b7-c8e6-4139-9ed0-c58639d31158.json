@@ -1,0 +1,37 @@
+{
+  "title": "View on the Allegheny River",
+  "creation_date": "1898",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "95.118",
+  "id": "cmoa:things/bab6b6b7-c8e6-4139-9ed0-c58639d31158",
+  "credit_line": "Paintings Acquisition Fund",
+  "date_acquired": "1995-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035501",
+  "provenance_text": "(sale, Sotheby's, New York, 1 November 1995, lot. 214); purchased by Museum, November 1995.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fbd8e43b-24e2-42aa-8352-4ea37f38bd3f",
+      "party_type": "Person",
+      "full_name": "Fritz Thaulow",
+      "cited_name": "Thaulow, Fritz",
+      "role": null,
+      "nationality": "Norwegian",
+      "birth_date": "1847-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": "Oslo (Oslo county, Norway)",
+      "death_place": "Volendam (North Holland, Netherlands)"
+    }
+  ]
+}

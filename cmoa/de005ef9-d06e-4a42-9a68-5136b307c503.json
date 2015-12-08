@@ -1,0 +1,51 @@
+{
+  "title": "Bread-and-butter plate",
+  "creation_date": "c. 1931",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "77.44.25",
+  "id": "cmoa:things/de005ef9-d06e-4a42-9a68-5136b307c503",
+  "credit_line": "Gift of Mr. and Mrs. Sidney M. Feldman",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.688,
+  "item_depth": 0.0,
+  "item_diameter": 5.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018824",
+  "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3382&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a33d5da-97fb-4b59-99ec-1fd150106f2a",
+      "party_type": "Person",
+      "full_name": "Hermann Gretsch",
+      "cited_name": "Gretsch, Hermann",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1895-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9d936a44-0425-4233-a543-c46bf67ce5c5",
+      "party_type": "Organization",
+      "full_name": "Arzberg Porzellanfabrik",
+      "cited_name": "Arzberg Porzellanfabrik",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1879-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

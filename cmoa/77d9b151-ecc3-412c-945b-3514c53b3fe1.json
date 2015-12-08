@@ -1,0 +1,39 @@
+{
+  "title": "Normandie",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "lithographic poster",
+  "accession_number": "1997.68",
+  "id": "cmoa:things/77d9b151-ecc3-412c-945b-3514c53b3fe1",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1997-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.188,
+  "item_height": 45.375,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003449",
+  "provenance_text": "Mr. and Mrs. Robert Winter, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3e3dc34-36c6-4c83-97e0-a59dcea20647",
+      "party_type": "Person",
+      "full_name": "A. Cassandre",
+      "cited_name": "Cassandre, A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Kharkov, Ukraine",
+      "death_place": "Paris"
+    }
+  ]
+}

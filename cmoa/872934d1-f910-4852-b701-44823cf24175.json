@@ -1,0 +1,39 @@
+{
+  "title": "Han-Shan",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "terracotta",
+  "accession_number": "61.38",
+  "id": "cmoa:things/872934d1-f910-4852-b701-44823cf24175",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.188,
+  "item_height": 31.0,
+  "item_depth": 15.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011424",
+  "provenance_text": "Artist",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134897&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1131bb6-2e4b-4f65-a69e-c7e7eea5563a",
+      "party_type": "Person",
+      "full_name": "Tsuji Shindo",
+      "cited_name": "Tsuji Shindo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1910-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

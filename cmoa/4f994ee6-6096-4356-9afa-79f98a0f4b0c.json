@@ -1,0 +1,51 @@
+{
+  "title": "Apple Advancing (Variety: Northern Spy)",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "76.8",
+  "id": "cmoa:things/4f994ee6-6096-4356-9afa-79f98a0f4b0c",
+  "credit_line": "Tasso G. Katselas Photograph Purchase Fund",
+  "date_acquired": "1976-02-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.438,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018258",
+  "provenance_text": "Visual Studies Workshop, Rochester, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111955&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cba36fbc-24a0-4511-9cb2-ada5a21c47b2",
+      "party_type": "Person",
+      "full_name": "Hollis Frampton",
+      "cited_name": "Frampton, Hollis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Wooster, Ohio",
+      "death_place": "Buffalo, New York"
+    },
+    {
+      "artist_id": "cmoa:parties/2d717101-807e-4322-8dfe-b8527370d54a",
+      "party_type": "Person",
+      "full_name": "Marion Faller",
+      "cited_name": "Faller, Marion",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

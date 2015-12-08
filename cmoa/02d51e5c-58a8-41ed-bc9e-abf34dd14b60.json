@@ -1,0 +1,39 @@
+{
+  "title": "Underdeveloped Ferocity",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.55",
+  "id": "cmoa:things/02d51e5c-58a8-41ed-bc9e-abf34dd14b60",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1977-12-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.875,
+  "item_height": 26.375,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018932",
+  "provenance_text": "Gift of Mr. and Mrs. Leon A. Arkus,  Pittsburgh, PA, 1977.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125529&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/776b73c9-3c3f-4713-afdf-72cee5683158",
+      "party_type": "Person",
+      "full_name": "Asger Jorn",
+      "cited_name": "Jorn, Asger",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1914-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Århus county (Denmark)",
+      "death_place": null
+    }
+  ]
+}

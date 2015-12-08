@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "c. 1859",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1864-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "1999.42.1",
+  "id": "cmoa:things/9d820ad9-21a1-4c8f-aabb-bfc8c5354ec7",
+  "credit_line": "Gift of Mr. and Mrs. Alexander C. Speyer III",
+  "date_acquired": "1999-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 10.25,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003899",
+  "provenance_text": "Gift of Mr. and Mrs. Alexander C. Speyer III, Pittsburgh, PA, 1999.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8506&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

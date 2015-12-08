@@ -1,0 +1,39 @@
+{
+  "title": "Hercules Fighting Fury and Discord",
+  "creation_date": "1633-1634",
+  "creation_date_earliest": "1633-01-01",
+  "creation_date_latest": "1634-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "16.15.9",
+  "id": "cmoa:things/2f0694bd-9f0c-4e68-a22e-439dad1bf1a8",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 23.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001069",
+  "provenance_text": "American Art Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107956&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9f8f1836-edf8-41c3-bf05-239af2141c2d",
+      "party_type": "Person",
+      "full_name": "Christoffel Jegher",
+      "cited_name": "Jegher, Christoffel",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1578-01-01",
+      "death_date": "1652-01-01",
+      "birth_place": " Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": " Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

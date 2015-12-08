@@ -1,0 +1,39 @@
+{
+  "title": "Jungle, Brazil",
+  "creation_date": null,
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "color engraving on paper",
+  "accession_number": "48.7",
+  "id": "cmoa:things/cdf21c23-9e3e-456c-b6d0-da3798501129",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008388",
+  "provenance_text": "Bernard Brussel-Smith",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100309&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/158a80f9-a1b0-40ac-9e58-0a6658edd903",
+      "party_type": "Person",
+      "full_name": "Bernard Brussel-Smith",
+      "cited_name": "Brussel-Smith, Bernard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "New York City, NY",
+      "death_place": "Bedford Hills, NY"
+    }
+  ]
+}

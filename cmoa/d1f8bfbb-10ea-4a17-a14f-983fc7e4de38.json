@@ -1,0 +1,39 @@
+{
+  "title": "Havana Tobacco Barn",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "watercolor and acrylic on paper",
+  "accession_number": "85.28",
+  "id": "cmoa:things/d1f8bfbb-10ea-4a17-a14f-983fc7e4de38",
+  "credit_line": "Copperweld Acquisition Fund",
+  "date_acquired": "1985-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.375,
+  "item_height": 32.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025508",
+  "provenance_text": "George Dombek, Tallahassee, Fla",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115451&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7cf2273e-a28a-4270-8106-d9f05b18f8ea",
+      "party_type": "Person",
+      "full_name": "George Dombek",
+      "cited_name": "Dombek, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Arkansas",
+      "death_place": null
+    }
+  ]
+}

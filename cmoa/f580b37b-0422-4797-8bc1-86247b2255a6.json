@@ -1,0 +1,39 @@
+{
+  "title": "The Port of Trouville (Le Port de Trouville)",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "05.5",
+  "id": "cmoa:things/f580b37b-0422-4797-8bc1-86247b2255a6",
+  "credit_line": "Purchase",
+  "date_acquired": "1905-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 26.0,
+  "item_height": 18.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000128",
+  "provenance_text": "Eugène Louis Boudin [1824-1898]. Durand-Ruel & Sons, New York, NY, by 1905; acquired by Museum, February 1905.\n \nNotes:\n[1].Museum by exchange \n\nUnder review by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113224&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/63c0c63b-3876-4410-abcf-cb11eca54e2d",
+      "party_type": "Person",
+      "full_name": "Eugène Louis Boudin",
+      "cited_name": "Boudin, Eugène Louis",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-07-12",
+      "death_date": "1898-08-08",
+      "birth_place": "Honfleur (Calvados, Basse-Normandie, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

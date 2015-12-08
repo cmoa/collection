@@ -1,0 +1,60 @@
+{
+  "title": "Artisans (Shokunin)",
+  "creation_date": "1857",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1857-01-01",
+  "medium": "color woodblock prints; vertical oban, triptych",
+  "accession_number": "19.22",
+  "id": "cmoa:things/178a446a-3a92-4b77-bbda-02f8e13a45c4",
+  "credit_line": "Purchase",
+  "date_acquired": "2012-10-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.5,
+  "item_height": 14.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98633",
+  "provenance_text": "Yamanaka Trading Company, in 1919; acquired by Museum [1]. \nNOTES:1. Acquired from Yamanaka Trading company in 1919 as \"How Japanese Prints Are Made,\" by Toyokuni (See Carnegie Institute annual report for 1918-1919, p. 58). In mat with accession number 69.32.14 corresponding to no known records. Believed to be one of 14 artworks appropriated at the December 17, 1969 board meeting, under number 69.43.14.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118368&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118369&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118370&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118371&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ceb3bd03-2fc1-46dc-98e1-77eaa203b1d5",
+      "party_type": "Person",
+      "full_name": "Kunisada (Toyokuni III)",
+      "cited_name": "Kunisada (Toyokuni III)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/32de9c73-d467-45f4-94c1-6fba8dac8fed",
+      "party_type": "Person",
+      "full_name": "Eikichi Uoya",
+      "cited_name": "Eikichi Uoya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

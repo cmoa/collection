@@ -1,0 +1,39 @@
+{
+  "title": "A Watermill Near St. Denis",
+  "creation_date": "c. 1650",
+  "creation_date_earliest": "1635-01-01",
+  "creation_date_latest": "1665-01-01",
+  "medium": "etching",
+  "accession_number": "16.45.3",
+  "id": "cmoa:things/ac105f5c-2490-43ea-9bc3-ce37e832612a",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-03-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001289",
+  "provenance_text": "Albert Roullier, Chicago",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101798&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/54a2cc70-0420-45cc-a69c-d07e977daa4a",
+      "party_type": "Person",
+      "full_name": "Reynier Nooms (called Zeeman)",
+      "cited_name": "Zeeman, Renier",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1623-01-01",
+      "death_date": "1648-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

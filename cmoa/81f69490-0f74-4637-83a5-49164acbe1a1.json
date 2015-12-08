@@ -1,0 +1,39 @@
+{
+  "title": "Tri",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "fractured glass",
+  "accession_number": "77.36",
+  "id": "cmoa:things/81f69490-0f74-4637-83a5-49164acbe1a1",
+  "credit_line": "Gift of Joaquin Torres Esteban",
+  "date_acquired": "1977-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 10.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018613",
+  "provenance_text": "Joaquin Torres Esteban",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126933&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69a09c5a-f0d9-438e-9faf-99ef96eea7d7",
+      "party_type": "Person",
+      "full_name": "Joaquin Torres Esteban",
+      "cited_name": "Esteban, Joaquin T.",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1919-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Santa María la Real de Nieva (Segovia)",
+      "death_place": null
+    }
+  ]
+}

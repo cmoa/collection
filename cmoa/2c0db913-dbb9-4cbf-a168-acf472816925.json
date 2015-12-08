@@ -1,0 +1,39 @@
+{
+  "title": "Standish",
+  "creation_date": "c. 1792-1803",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1850.A-G",
+  "id": "cmoa:things/2c0db913-dbb9-4cbf-a168-acf472816925",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 4.625,
+  "item_depth": 4.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014002",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1693&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

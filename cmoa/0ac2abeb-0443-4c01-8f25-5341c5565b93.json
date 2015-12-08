@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "c. 1730",
+  "creation_date_earliest": "1720-01-01",
+  "creation_date_latest": "1740-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "70.32.257",
+  "id": "cmoa:things/0ac2abeb-0443-4c01-8f25-5341c5565b93",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.313,
+  "item_depth": 0.0,
+  "item_diameter": 6.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014817",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1360&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Willem De Kooning",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "81.109.2",
+  "id": "cmoa:things/9c647bb5-f960-4882-8d49-347bb8b4ec8c",
+  "credit_line": "Gift of Lee and Rosita Benson",
+  "date_acquired": "1982-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.563,
+  "item_height": 10.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021546",
+  "provenance_text": "Arthur Mones",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12854&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6832a582-19bb-470f-8f1d-d7ba0bcf41b4",
+      "party_type": "Person",
+      "full_name": "Arthur Mones",
+      "cited_name": "Mones, Arthur",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

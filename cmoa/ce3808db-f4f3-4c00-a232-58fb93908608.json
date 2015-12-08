@@ -1,0 +1,51 @@
+{
+  "title": "Dining Room, Inglenook, Knockholt, England; [interior perspective]",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "ink on board",
+  "accession_number": "93.39.3",
+  "id": "cmoa:things/ce3808db-f4f3-4c00-a232-58fb93908608",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-04-01",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 18.25,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033614",
+  "provenance_text": "Kelmscott Gallery, Chicago, IL",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124499&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b30320b2-460b-460f-ad57-60d9e324c576",
+      "party_type": "Person",
+      "full_name": "W. Rupert Davison",
+      "cited_name": "Davison, W. R.",
+      "role": "architect",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f0a95c27-760f-423d-8709-a2cff030326d",
+      "party_type": "Person",
+      "full_name": "T. Raffles Davison",
+      "cited_name": "Davison, T. R.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

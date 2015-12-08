@@ -1,0 +1,39 @@
+{
+  "title": "Summer Evening",
+  "creation_date": "1940-1941",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "45.4",
+  "id": "cmoa:things/3750ba0b-6285-409e-b32f-7c05dd4145f7",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.75,
+  "item_height": 29.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007600",
+  "provenance_text": "Milch Galleries, New York, as agent, 1944; Patrons Art Fund, 1945",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107663&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/573b4339-dde4-46ee-a49e-14bc417e6d19",
+      "party_type": "Person",
+      "full_name": "Hobson Pittman",
+      "cited_name": "Pittman, Hobson",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "North Carolina (United States)",
+      "death_place": "Bryn Mawr (Delaware county, Pennsylvania, United States)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Maya Bowl",
+  "creation_date": "1976 (designed) 1984 (manufactured)",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "stainless steel",
+  "accession_number": "85.53.4",
+  "id": "cmoa:things/dcc530d5-6671-40d4-9671-700622647821",
+  "credit_line": "Purchase: gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.875,
+  "item_depth": 0.0,
+  "item_diameter": 9.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025691",
+  "provenance_text": "D. F. Sanders and Company, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2901&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e724a68b-af40-47e1-9e9b-89fca9b64a2e",
+      "party_type": "Person",
+      "full_name": "Giulio Confalonieri",
+      "cited_name": "Confalonieri, Giulio",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7370a757-5466-4e84-9072-11c9c19b35d4",
+      "party_type": "Organization",
+      "full_name": "Alessi",
+      "cited_name": "Alessi",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

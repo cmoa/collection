@@ -1,0 +1,49 @@
+{
+  "title": "Chaise lounge (Aluminum Group)",
+  "creation_date": "1958 (designed) 1975 (manufactured)",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "aluminum with hopsack synthetic woven upholstery",
+  "accession_number": "77.47.3",
+  "id": "cmoa:things/7feac471-c649-4ada-a7ee-18bec0b159ad",
+  "credit_line": "Roy A. Hunt Foundation Fund",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 24.5,
+  "item_height": 34.25,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018913",
+  "provenance_text": "Herman Miller, Zeeland, MI",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Grandma's Visitors",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.13.2",
+  "id": "cmoa:things/93a82c64-6f7f-4a96-b31f-da21f675dbe2",
+  "credit_line": "Mrs. Paul B. Ernst Purchase Fund",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 24.0,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021696",
+  "provenance_text": "Beverly Dakan, Los Gatos, Calif., c.1930; Mrs. Paul B. Ernst Purchase Fund, 1981",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6d81cbe-8701-49c9-b190-0d1a92c92de7",
+      "party_type": "Person",
+      "full_name": "De Scott Evans",
+      "cited_name": "Evans, De Scott",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1847-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": "Boston (Wayne county, Indiana, United States)",
+      "death_place": null
+    }
+  ]
+}

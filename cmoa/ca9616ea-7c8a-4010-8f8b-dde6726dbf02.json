@@ -1,0 +1,42 @@
+{
+  "title": "Dans Les Champs de Cenon",
+  "creation_date": "1876",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "etching",
+  "accession_number": "81.20.13",
+  "id": "cmoa:things/ca9616ea-7c8a-4010-8f8b-dde6726dbf02",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021727",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105000&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105001&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c7deb594-6742-4906-855d-cc7db604ea4d",
+      "party_type": "Person",
+      "full_name": "Maxime Lalanne",
+      "cited_name": "Lalanne, Maxime",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1827-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": " Bordeaux (Gironde, Aquitaine, France)",
+      "death_place": " Nogent-sur-Marne (Val-de-Marne, Île-de-France, France)"
+    }
+  ]
+}

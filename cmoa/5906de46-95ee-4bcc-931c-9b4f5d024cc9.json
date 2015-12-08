@@ -1,0 +1,51 @@
+{
+  "title": "Untitled (Woman Looking at Boats on a River in a Roundel Surrounded by Calligraphy)",
+  "creation_date": "1790s",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.40",
+  "id": "cmoa:things/5906de46-95ee-4bcc-931c-9b4f5d024cc9",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 9.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028176",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110885&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/21509fe8-f01e-4080-908d-49861177c515",
+      "party_type": "Person",
+      "full_name": "Eiri Rekisentei",
+      "cited_name": "Eiri Rekisentei",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1785-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b23eddb3-5b94-42d8-8eb7-71849291b63d",
+      "party_type": "Person",
+      "full_name": "Chusuke Yamaguchiya",
+      "cited_name": "Chusuke Yamaguchiya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Coast of Irozaki, Izu",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.205",
+  "id": "cmoa:things/d714854a-be8a-457e-af86-2bc6d5e44222",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.5,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027708",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from the artist, 8/13/1968.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34178&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68f804dc-682d-4642-94a4-7e363866b7bc",
+      "party_type": "Person",
+      "full_name": "Hiratsuka Un'ichi",
+      "cited_name": "Hiratsuka Un'ichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Japan, Matsue",
+      "death_place": null
+    }
+  ]
+}

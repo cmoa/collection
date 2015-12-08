@@ -1,0 +1,39 @@
+{
+  "title": "The Steps, Luxembourg Gardens",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "transfer lithograph with stumping on paper",
+  "accession_number": "18.22.13",
+  "id": "cmoa:things/c92011a1-15ad-4f6b-b92e-5a1dd280aadd",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-11-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001724",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66735&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

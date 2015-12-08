@@ -1,0 +1,39 @@
+{
+  "title": "Self Portrait: Horizontal Elliptical Motion, Medium",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "92.95.6",
+  "id": "cmoa:things/d037e37a-dec4-4274-8216-8d2ca033d3b4",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1992-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032730",
+  "provenance_text": "Mr. Blythe Bohnen, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113369&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c9b4399-19bd-4376-8cd6-70346ade9b42",
+      "party_type": "Person",
+      "full_name": "Blythe Bohnen",
+      "cited_name": "Bohnen, Blythe",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Evanston, Illinois",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Loetitia",
+  "creation_date": "1892",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "engraving",
+  "accession_number": "81.20.20",
+  "id": "cmoa:things/6131fbb8-6efe-4f0d-9eac-cc0dd3534f8e",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021735",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110570&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110569&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5fccd1b-0284-4e20-a424-afd87a00ac23",
+      "party_type": "Person",
+      "full_name": "Edward Stodart",
+      "cited_name": "Stodart, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1879-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

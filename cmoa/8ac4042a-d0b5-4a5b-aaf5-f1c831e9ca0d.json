@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Buddha)",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1350",
+  "id": "cmoa:things/8ac4042a-d0b5-4a5b-aaf5-f1c831e9ca0d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.625,
+  "item_height": 18.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027180",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35885&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56c394e6-7816-4da2-97b9-f91276e9cd56",
+      "party_type": "Person",
+      "full_name": "Tokuriki Tomikichirô",
+      "cited_name": "Tokuriki Tomikichirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Kyoto",
+      "death_place": null
+    }
+  ]
+}

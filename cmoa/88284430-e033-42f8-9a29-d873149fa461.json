@@ -1,0 +1,39 @@
+{
+  "title": "Still Life with Grapes",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "79.71.7",
+  "id": "cmoa:things/88284430-e033-42f8-9a29-d873149fa461",
+  "credit_line": "Gift of Senator and Mrs. H. John Heinz III",
+  "date_acquired": "1980-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.25,
+  "item_height": 18.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020900",
+  "provenance_text": "Senator and Mrs. H. John Heinz III, Pittsburgh; gift to musuem, 1980",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107725&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff09c623-64b0-4192-b730-1392f0937d8f",
+      "party_type": "Person",
+      "full_name": "Andrew J. H. Way",
+      "cited_name": "Way, Andrew J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": "Washington, DC",
+      "death_place": "Baltimore, MD"
+    }
+  ]
+}

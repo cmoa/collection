@@ -1,0 +1,42 @@
+{
+  "title": "Gilles de Beauvau, Bishop of Nantes",
+  "creation_date": null,
+  "creation_date_earliest": "1646-01-01",
+  "creation_date_latest": "1690-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.3",
+  "id": "cmoa:things/dddec8a8-2e43-4cf6-82bd-b7617faa482d",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 13.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005175",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101936&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101937&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d05b618-5759-4b8f-8776-e5cbe07d39ae",
+      "party_type": "Person",
+      "full_name": "Nicolas de Poilly",
+      "cited_name": "de Poilly, Nicolas",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1626-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": "Abbeville (Somme, Picardy, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

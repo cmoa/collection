@@ -1,0 +1,39 @@
+{
+  "title": "Isabella (de Nassau) Countess of Arlington",
+  "creation_date": "c. 1684",
+  "creation_date_earliest": "1680-01-01",
+  "creation_date_latest": "1689-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.9.1",
+  "id": "cmoa:things/870d6bb4-d0fc-4d97-bcfb-e4d331cd16c1",
+  "credit_line": "Gift of Mrs. George Leary",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.5,
+  "item_height": 48.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011144",
+  "provenance_text": "Mr. and Mrs. George Leary, Wilton, Conneticut, 1946; gift to Museum, March 1959.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119889&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ebbd55d-87d8-4118-ac97-666af0fca3b4",
+      "party_type": "Person",
+      "full_name": "Sir Peter Lely",
+      "cited_name": "Lely, Peter",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1618-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

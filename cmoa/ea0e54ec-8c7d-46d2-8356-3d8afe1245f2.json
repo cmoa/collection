@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (2 People in Boat)",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "89.28.785.2",
+  "id": "cmoa:things/ea0e54ec-8c7d-46d2-8356-3d8afe1245f2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028943",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35414&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a4e5b4d2-af09-410f-af23-4885b4aae0fb",
+      "party_type": "Person",
+      "full_name": "Kitaoka Fumio",
+      "cited_name": "Kitaoka Fumio",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1918-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Tokyo",
+      "death_place": null
+    }
+  ]
+}

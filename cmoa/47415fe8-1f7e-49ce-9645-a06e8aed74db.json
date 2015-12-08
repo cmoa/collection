@@ -1,0 +1,39 @@
+{
+  "title": "Company for Supper",
+  "creation_date": "c. 1948",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.232",
+  "id": "cmoa:things/47415fe8-1f7e-49ce-9645-a06e8aed74db",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012817",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108010&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23bf158d-4b42-4bc1-bae8-d466c5df6c32",
+      "party_type": "Person",
+      "full_name": "Dale William Nichols",
+      "cited_name": "Nichols, Dale W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": "David City (Butler county, Nebraska, United States)",
+      "death_place": "Sedona (Coconino county, Arizona, United States)"
+    }
+  ]
+}

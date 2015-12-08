@@ -1,0 +1,39 @@
+{
+  "title": "The Flagellation of Christ (copy of Borgherini Chapel, S. Petro in Montorio, Rome)",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1509-12-22",
+  "creation_date_latest": "1599-01-01",
+  "medium": "red chalk on white paper",
+  "accession_number": "23.12.4",
+  "id": "cmoa:things/ebb5a246-6310-418f-8ad7-08e768cbe2d2",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004859",
+  "provenance_text": "Robert Udney (1722-1802), Teddington, Middlesex (collector's mark, Lugt 2248, lower right corner); possibly J. F. Gigoux (1806-1894), Paris (collector's mark, Lugt 1164 lower left); Dupuy, Herbert",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99469&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab4fb1af-0e72-4338-8a20-b5f58b36bc28",
+      "party_type": "Person",
+      "full_name": "Sebastiano del Piombo",
+      "cited_name": "del Piombo, Sebastiano",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1470-01-01",
+      "death_date": "1547-01-01",
+      "birth_place": "Venice (Venezia province, Veneto, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy) (inhabited place)"
+    }
+  ]
+}

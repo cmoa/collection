@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh (No. 2)",
+  "creation_date": "1911",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "black and red crayon",
+  "accession_number": "37.4.5",
+  "id": "cmoa:things/b947561c-663a-4373-a203-de280d2f3a1f",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1937-06-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007028",
+  "provenance_text": "Anonymous gift",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94619&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87abf60e-4faf-4eb0-97c6-a749d6462d00",
+      "party_type": "Person",
+      "full_name": "Rudolph Ruzicka",
+      "cited_name": "Ruzicka, Rudolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Bohemia (Czech Republic)",
+      "death_place": "Hanover (Grafton county, New Hampshire, United States)"
+    }
+  ]
+}

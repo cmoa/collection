@@ -1,0 +1,42 @@
+{
+  "title": "Saucer",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "porcelain with transfer-printed decoration",
+  "accession_number": "75.26.2.20",
+  "id": "cmoa:things/e0e135aa-c5e1-45d7-97e0-5d34622825db",
+  "credit_line": "Gift of Mr. and Mrs. H. E. Hoelscher",
+  "date_acquired": "1975-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 4.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017718",
+  "provenance_text": "Mr. And Mrs. H.E. Hoelscher",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2471&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97870&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

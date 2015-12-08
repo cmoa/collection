@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1820",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2058",
+  "id": "cmoa:things/c2ca9a40-44aa-4d10-84db-eefa546ae3f4",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014240",
+  "provenance_text": "Ailsa Mellon Bruce, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2839&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f197e545-e9b8-4e11-91e3-eb85c3e438d0",
+      "party_type": "Organization",
+      "full_name": "Coalport and Coalbrookdale Porcelain Factory",
+      "cited_name": "Coalport and Coalbrookdale Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1780-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

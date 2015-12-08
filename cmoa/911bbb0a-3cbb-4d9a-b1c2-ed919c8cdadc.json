@@ -1,0 +1,39 @@
+{
+  "title": "Still Life (Mug and Bowl of Cherries)",
+  "creation_date": "c. 1900-1940",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "92.90",
+  "id": "cmoa:things/911bbb0a-3cbb-4d9a-b1c2-ed919c8cdadc",
+  "credit_line": "Gift of Albert B. Craig, Jr.",
+  "date_acquired": "1992-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032718",
+  "provenance_text": "Gift of Albert B. Craig, Jr., Rochester, NY, 1992.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=450&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10b6ba5c-5937-44d1-810a-6f036a7999be",
+      "party_type": "Person",
+      "full_name": "Albert Francis King",
+      "cited_name": "King, Albert F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1854-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

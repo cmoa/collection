@@ -1,0 +1,42 @@
+{
+  "title": "The Fitting",
+  "creation_date": "1890-1891",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "drypoint, soft ground etching and color aquatint on laid paper",
+  "accession_number": "19.17.2",
+  "id": "cmoa:things/64a4ed24-37f8-43b9-b2fd-69bd2af50524",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-09-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002005",
+  "provenance_text": "Mary Cassatt [1844-1926]. Frederick Keppel & Company [1916-1923], New York, NY, by 1919; purchased by Museum, September 1919 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73015&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21140&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25d883f-0641-4500-b258-37d6bafc568b",
+      "party_type": "Person",
+      "full_name": "Mary Cassatt",
+      "cited_name": "Cassatt, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-05-22",
+      "death_date": "1926-06-14",
+      "birth_place": "Pittsburgh (Allegheny City), PA",
+      "death_place": "Le Mesnil-Théribus, France"
+    }
+  ]
+}

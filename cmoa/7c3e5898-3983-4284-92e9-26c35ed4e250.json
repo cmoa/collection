@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1755",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "porcelain",
+  "accession_number": "69.35.2.A-B",
+  "id": "cmoa:things/7c3e5898-3983-4284-92e9-26c35ed4e250",
+  "credit_line": "Decorative Arts Discretionary Fund",
+  "date_acquired": "1969-09-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.812,
+  "item_height": 3.688,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012565",
+  "provenance_text": "Parke-Bernet Galleries, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4231&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c5850c4-35d6-4e96-88b7-fb1940478fa9",
+      "party_type": "Organization",
+      "full_name": "Furstenberg Factory",
+      "cited_name": "Furstenberg Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1747-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

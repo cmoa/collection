@@ -1,0 +1,39 @@
+{
+  "title": "Saucer",
+  "creation_date": "c. 19th century",
+  "creation_date_earliest": "1793-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "57.12.13",
+  "id": "cmoa:things/61a70a99-ca6b-4205-a6b5-1d88684b6316",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.625,
+  "item_depth": 0.0,
+  "item_diameter": 5.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010346",
+  "provenance_text": "G. David Thompson",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1280&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5054454a-0769-4519-8208-4679a90db983",
+      "party_type": "Organization",
+      "full_name": "Davenport Pottery and Porcelain Factory",
+      "cited_name": "Davenport Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1794-01-01",
+      "death_date": "1887-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Writing table",
+  "creation_date": "c. 1765-1775",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "wood",
+  "accession_number": "70.32.7",
+  "id": "cmoa:things/e6630f51-5740-4e5b-847c-bc43f78eddc5",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.5,
+  "item_height": 42.75,
+  "item_depth": 15.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015531",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54450&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101867&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64aa9274-e675-40d8-ad25-a76c7a8f57dc",
+      "party_type": "Person",
+      "full_name": "Charles Topino",
+      "cited_name": "Topino, Charles",
+      "role": "manner of",
+      "nationality": "French",
+      "birth_date": "1742-01-01",
+      "death_date": "1803-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

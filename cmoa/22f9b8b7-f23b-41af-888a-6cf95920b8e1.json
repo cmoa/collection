@@ -1,0 +1,51 @@
+{
+  "title": "Hall chair",
+  "creation_date": "c. 1845",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "oak",
+  "accession_number": "87.5.3",
+  "id": "cmoa:things/22f9b8b7-f23b-41af-888a-6cf95920b8e1",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1987-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 20.625,
+  "item_height": 69.25,
+  "item_depth": 21.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026402",
+  "provenance_text": "Peter Hill, Inc., NH,East Lempster",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96838&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96843&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96842&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96840&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7012ae8f-d7e4-4487-8b0e-9e61cad5091b",
+      "party_type": "Person",
+      "full_name": "unknown American, NY, New York",
+      "cited_name": "unknown American, NY, New York",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

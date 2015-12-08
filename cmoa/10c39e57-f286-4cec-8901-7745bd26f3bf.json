@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. John Dunlap",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "ambrotype",
+  "accession_number": "2010.52",
+  "id": "cmoa:things/10c39e57-f286-4cec-8901-7745bd26f3bf",
+  "credit_line": "Gift of William Dunlap Pettit",
+  "date_acquired": "2010-10-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.125,
+  "item_height": 2.625,
+  "item_depth": 0.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91975",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

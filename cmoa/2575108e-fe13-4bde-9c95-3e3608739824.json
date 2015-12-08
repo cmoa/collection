@@ -1,0 +1,39 @@
+{
+  "title": "Village",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1310",
+  "id": "cmoa:things/2575108e-fe13-4bde-9c95-3e3608739824",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.875,
+  "item_height": 11.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027119",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35877&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b15e50-434a-40b5-8e7a-d6e8580acc48",
+      "party_type": "Person",
+      "full_name": "Kawakami Sumio",
+      "cited_name": "Kawakami Sumio",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Japan, Yokohama",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Sugar bowl, \"TAC I\"",
+  "creation_date": "c. 1967 (designed) 1968 (manufactured)",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "porcelain",
+  "accession_number": "78.50.2.A-B",
+  "id": "cmoa:things/21dbdd03-2a48-41ba-976b-799fbd3b5221",
+  "credit_line": "Gift of Rosenthal USA, Ltd.",
+  "date_acquired": "1978-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.5,
+  "item_depth": 0.0,
+  "item_diameter": 3.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020090",
+  "provenance_text": "Rosenthal Usa, Ltd., New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2543&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af064fdd-b2ab-4238-a9fc-5f8bc92fc02f",
+      "party_type": "Person",
+      "full_name": "Walter Gropius",
+      "cited_name": "Gropius, Walter",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Berlin (Berlin state, Germany)",
+      "death_place": "Boston (Suffolk county, Massachusetts, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/5197539d-5334-4bd3-beed-0222cbfe0a33",
+      "party_type": "Organization",
+      "full_name": "Rosenthal Porcelain Factory",
+      "cited_name": "Rosenthal Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1874-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

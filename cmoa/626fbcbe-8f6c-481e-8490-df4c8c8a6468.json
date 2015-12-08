@@ -1,0 +1,42 @@
+{
+  "title": "Teacup",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "porcelain with transfer-printed decoration",
+  "accession_number": "75.26.2.21",
+  "id": "cmoa:things/626fbcbe-8f6c-481e-8490-df4c8c8a6468",
+  "credit_line": "Gift of Mr. and Mrs. H. E. Hoelscher",
+  "date_acquired": "1975-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 2.562,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017719",
+  "provenance_text": "Mr. And Mrs. H.E. Hoelscher",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2472&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97870&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

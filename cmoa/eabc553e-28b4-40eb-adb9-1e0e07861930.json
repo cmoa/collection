@@ -1,0 +1,39 @@
+{
+  "title": "Pastoral Scene",
+  "creation_date": "c. mid- to late-19th century",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on panel",
+  "accession_number": "52.21.4",
+  "id": "cmoa:things/eabc553e-28b4-40eb-adb9-1e0e07861930",
+  "credit_line": "Bequest of Henry Lee Mason, Jr.",
+  "date_acquired": "1952-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.562,
+  "item_height": 17.125,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009082",
+  "provenance_text": "Henry Lee Mason, Jr., Pittsburgh; bequest to Museum, February 1952.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114580&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed9365a5-3358-47b4-8e8d-417cfbf9ba08",
+      "party_type": "Person",
+      "full_name": "Constant Troyon",
+      "cited_name": "Troyon, Constant",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1810-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "Sèvres (Hauts-de-Seine department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

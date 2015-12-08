@@ -1,0 +1,39 @@
+{
+  "title": "Bust of John Wesley",
+  "creation_date": "c. 1791",
+  "creation_date_earliest": "1786-01-01",
+  "creation_date_latest": "1796-01-01",
+  "medium": "earthenware",
+  "accession_number": "66.16.2",
+  "id": "cmoa:things/062e59ab-8a51-477b-8f1d-bda237602434",
+  "credit_line": "Gift of Mabel Lindsay Gillespie",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.312,
+  "item_height": 12.25,
+  "item_depth": 4.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012213",
+  "provenance_text": "Mabel Lindsay Gillespie, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/31fee09e-829a-4106-86aa-81666d3fa7e0",
+      "party_type": "Person",
+      "full_name": "Enoch Wood",
+      "cited_name": "Wood, Enoch",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": "1759-01-01",
+      "death_date": "1840-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Personal Family Photograph - Swank Childhood Home)",
+  "creation_date": "no date",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.76.8",
+  "id": "cmoa:things/ff2d9f15-626b-4c81-987c-7b8e7f331723",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-10-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 5.187,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024190",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a88f1d40-72cb-4454-927d-56417a2e9e56",
+      "party_type": "Person",
+      "full_name": "Baldwin",
+      "cited_name": "Baldwin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

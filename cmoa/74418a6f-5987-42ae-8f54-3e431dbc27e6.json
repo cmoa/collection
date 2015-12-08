@@ -1,0 +1,39 @@
+{
+  "title": "The Passing Snow",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.91",
+  "id": "cmoa:things/74418a6f-5987-42ae-8f54-3e431dbc27e6",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012963",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108297&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23718c3c-4733-4135-95d3-620e8324864e",
+      "party_type": "Person",
+      "full_name": "Don Freeman",
+      "cited_name": "Freeman, Don",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "San Diego, CA",
+      "death_place": "New York City"
+    }
+  ]
+}

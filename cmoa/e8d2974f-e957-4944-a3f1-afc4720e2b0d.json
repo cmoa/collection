@@ -1,0 +1,39 @@
+{
+  "title": "Two Boys by a Boat",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "watercolor and graphite",
+  "accession_number": "82.100",
+  "id": "cmoa:things/e8d2974f-e957-4944-a3f1-afc4720e2b0d",
+  "credit_line": "Gift of Mrs. Carl Selden",
+  "date_acquired": "1983-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022239",
+  "provenance_text": "Gift of Mrs. Carl Selden, New York, 1983.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/332e7ada-6841-4fec-9ce4-6832af63b67f",
+      "party_type": "Person",
+      "full_name": "Thomas Pollock Anshutz",
+      "cited_name": "Anshutz, Thomas Pollock",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1851-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Newport (Campbell county, Kentucky, United States)",
+      "death_place": "Pennsylvania"
+    }
+  ]
+}

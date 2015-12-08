@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.3.1.25",
+  "id": "cmoa:things/053b4c0d-cfdb-475d-891e-23182dcd0f30",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 12.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022334",
+  "provenance_text": "Martin Diamond Fine Arts, Inc., NY, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113002&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8aec64b7-318d-4709-af94-b584469df991",
+      "party_type": "Person",
+      "full_name": "Esphyr Slobodkina",
+      "cited_name": "Slobodkina, Esphyr",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Russia, Siberia",
+      "death_place": null
+    }
+  ]
+}

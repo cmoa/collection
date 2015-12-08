@@ -1,0 +1,51 @@
+{
+  "title": "Viola (from Twelfth Night)",
+  "creation_date": "1790",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.14",
+  "id": "cmoa:things/3a5a3eaa-e592-4d9d-ae87-495515a75aeb",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34331",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39244&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ee8e49-4fa5-48b2-89d8-840a009162ab",
+      "party_type": "Person",
+      "full_name": "Caroline Watson",
+      "cited_name": "Watson, Caroline",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1761-01-01",
+      "death_date": "1814-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/49533408-385b-4652-a76e-62c9b95cc0c9",
+      "party_type": "Person",
+      "full_name": "Samuel Shelley",
+      "cited_name": "Shelley, Samuel",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1750-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

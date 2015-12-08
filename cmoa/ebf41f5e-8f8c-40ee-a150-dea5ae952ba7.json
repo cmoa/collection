@@ -1,0 +1,39 @@
+{
+  "title": "Hakuhô-butsu",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1485",
+  "id": "cmoa:things/ebf41f5e-8f8c-40ee-a150-dea5ae952ba7",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027409",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d84cfb12-d648-4e0f-91bf-ac91b45e87f0",
+      "party_type": "Person",
+      "full_name": "Yoshida Hodaka",
+      "cited_name": "Yoshida Hodaka",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1926-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

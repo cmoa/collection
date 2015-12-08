@@ -1,0 +1,39 @@
+{
+  "title": "Chocolate pot",
+  "creation_date": "1787",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "silver and ebony",
+  "accession_number": "93.182",
+  "id": "cmoa:things/1229a6df-a427-4678-8d20-a8e1e9581ecc",
+  "credit_line": "Gift of Dr. Frances L. Drew",
+  "date_acquired": "1994-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 8.0,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033201",
+  "provenance_text": "Dr. Frances L. Drew, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8372&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32ca86fc-2c58-4916-9487-d205d95d4ea5",
+      "party_type": "Person",
+      "full_name": "Jean-Louis-Dieudonne Outrebon",
+      "cited_name": "Outrebon, Jean-Louis-Dieudonne",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1772-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

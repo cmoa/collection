@@ -1,0 +1,39 @@
+{
+  "title": "Morning on the Cape",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "36.1",
+  "id": "cmoa:things/634e21fd-830a-4477-aee3-826b59d40813",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1936-01-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 58.0,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006878",
+  "provenance_text": "Leon Kroll [1884-1974], until 1935. Purchased by Museum, 1936 [1]. \nNOTES:1. Purchased via the 1935 Carnegie International.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16803&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b16229c-b1b0-4ebb-8ac3-0780ae6859ea",
+      "party_type": "Person",
+      "full_name": "Leon Kroll",
+      "cited_name": "Kroll, Leon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

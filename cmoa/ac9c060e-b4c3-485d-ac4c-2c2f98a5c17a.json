@@ -1,0 +1,45 @@
+{
+  "title": "Roses on a Tray",
+  "creation_date": "1861",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": "oil on japanese lacquer panel",
+  "accession_number": "83.51",
+  "id": "cmoa:things/ac9c060e-b4c3-485d-ac4c-2c2f98a5c17a",
+  "credit_line": "Katherine M. McKenna Fund",
+  "date_acquired": "1983-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 19.875,
+  "item_depth": 0.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023837",
+  "provenance_text": "John Bancroft, Newport, R. I., after 1863; by descent to Pauline Blackie, Sleaford, England, until 1983; Katherine M. McKenna Fund, 1983",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148604&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114570&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10328&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c359036-66e7-40c2-a178-5d188e9af469",
+      "party_type": "Person",
+      "full_name": "John La Farge",
+      "cited_name": "La Farge, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1835-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "New York City",
+      "death_place": "Newport, Rhode Island"
+    }
+  ]
+}

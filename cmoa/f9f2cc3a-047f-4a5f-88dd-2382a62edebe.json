@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "13th-15th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1498-12-23",
+  "medium": "glazed porcelain",
+  "accession_number": "70.1.1.A-B",
+  "id": "cmoa:things/f9f2cc3a-047f-4a5f-88dd-2382a62edebe",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.187,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013013",
+  "provenance_text": "Mrs. Fred C. Foy, Rector, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4235&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ae9cbe86-7144-417a-a65c-254d4eda4fdf",
+      "party_type": "Person",
+      "full_name": "unknown Thai, Svargaloka",
+      "cited_name": "unknown Thai, Svargaloka",
+      "role": null,
+      "nationality": "Thai",
+      "birth_date": "1200-01-01",
+      "death_date": "1499-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

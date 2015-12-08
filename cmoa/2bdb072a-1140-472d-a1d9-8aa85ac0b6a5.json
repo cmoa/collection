@@ -1,0 +1,39 @@
+{
+  "title": "Cupid's Tower",
+  "creation_date": "1776",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1776-01-01",
+  "medium": "engraving, colored",
+  "accession_number": "57.14.2",
+  "id": "cmoa:things/2bdb072a-1140-472d-a1d9-8aa85ac0b6a5",
+  "credit_line": "Howard N. Eavenson Memorial Fund",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010377",
+  "provenance_text": "The Old Print Shop, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98433&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44588b91-a4d4-4115-8b44-da875f1d8906",
+      "party_type": "Person",
+      "full_name": "Matthew  Darly",
+      "cited_name": "Darly, Matthew",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1710-01-01",
+      "death_date": "1771-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

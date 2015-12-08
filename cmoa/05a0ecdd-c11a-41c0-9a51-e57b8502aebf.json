@@ -1,0 +1,39 @@
+{
+  "title": "Ironing",
+  "creation_date": null,
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "42.11.21",
+  "id": "cmoa:things/05a0ecdd-c11a-41c0-9a51-e57b8502aebf",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007308",
+  "provenance_text": "The Weyhe Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100432&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06bef880-9671-496c-a6b2-5b943741b707",
+      "party_type": "Person",
+      "full_name": "Joseph P. Vorst",
+      "cited_name": "Vorst, Joseph P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": "Essen, Germany",
+      "death_place": "Overland, MO?"
+    }
+  ]
+}

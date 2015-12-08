@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1662-1722",
+  "creation_date_earliest": "1662-01-01",
+  "creation_date_latest": "1722-01-01",
+  "medium": "ceramic",
+  "accession_number": "25.1.22",
+  "id": "cmoa:things/e13cbdbc-c1c0-4580-9703-47aca5b1f05d",
+  "credit_line": "Gift of Charles D. Armstrong",
+  "date_acquired": "1925-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.688,
+  "item_depth": 0.0,
+  "item_diameter": 3.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005190",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3181&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/454f1a10-0715-4477-b739-0bbca0a86ffe",
+      "party_type": "Person",
+      "full_name": "unknown Chinese, Kangxi period",
+      "cited_name": "unknown Chinese, Kangxi period",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": "1662-01-01",
+      "death_date": "1722-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

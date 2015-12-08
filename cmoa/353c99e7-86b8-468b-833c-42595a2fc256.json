@@ -1,0 +1,63 @@
+{
+  "title": "Tales of Ise (Ise monogatari)",
+  "creation_date": "1715",
+  "creation_date_earliest": "1715-01-01",
+  "creation_date_latest": "1715-01-01",
+  "medium": "2 Volumes from the set\n16 full page prints; 16 small prints",
+  "accession_number": "89.28.488.1-.2",
+  "id": "cmoa:things/353c99e7-86b8-468b-833c-42595a2fc256",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4017",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from  Book Land, Glendale, CA., 7/6/1962.",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124858&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7841b4d6-f2b4-449d-8e04-a00c455625d2",
+      "party_type": "Person",
+      "full_name": "Shibukawa (Seiemon)",
+      "cited_name": "Shibukawa (Seiemon)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0922e835-4854-4800-a70d-83434f23cb0c",
+      "party_type": "Person",
+      "full_name": "Yasui (Kahei)",
+      "cited_name": "Yasui (Kahei)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

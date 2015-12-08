@@ -1,0 +1,42 @@
+{
+  "title": "L'Homme a la Guitare (Man with the Guitar)",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "engraving with scraper printed on \"old japan\"",
+  "accession_number": "1998.62",
+  "id": "cmoa:things/f70d03e3-0fe7-4f6a-a430-ddced6d09d82",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003800",
+  "provenance_text": "Marc Rosen Fine Art, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32252&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32253&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

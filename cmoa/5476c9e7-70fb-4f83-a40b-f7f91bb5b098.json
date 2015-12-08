@@ -1,0 +1,39 @@
+{
+  "title": "Composition",
+  "creation_date": "1936-1937",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "wood, oil paint, and metal on Masonite",
+  "accession_number": "84.24",
+  "id": "cmoa:things/5476c9e7-70fb-4f83-a40b-f7f91bb5b098",
+  "credit_line": "Abstract Painting and Sculpture Fund",
+  "date_acquired": "1984-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 40.75,
+  "item_height": 24.75,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024648",
+  "provenance_text": "The artist, until 1956; Balcomb Greene, Montauk, NY, 1956; Joel Tanguy, New York, c. 1975-84; Zabriskie Gallery, New York, 1984; Abstract Painting and Sculpture Fund, 1984",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120669&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4fdc5a33-0a83-4632-a964-8265525f12e4",
+      "party_type": "Person",
+      "full_name": "Gertrude Glass Greene",
+      "cited_name": "Greene, Gertrude Glass",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Brooklyn (New York City, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Country Girl of Tuscany",
+  "creation_date": "1794",
+  "creation_date_earliest": "1794-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "color engraving on paper",
+  "accession_number": "27.8.26",
+  "id": "cmoa:things/7da70a05-0711-412c-aa35-92c9031fd90b",
+  "credit_line": "Bequest of Henry Buhl, Jr.",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006081",
+  "provenance_text": "Estate of Henry Buhl, Jr",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100077&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ec7d782-a844-4919-8fa2-8f49b3d97bf3",
+      "party_type": "Person",
+      "full_name": "Thomas Gaugain",
+      "cited_name": "Gaugain, Thomas",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1748-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": "Abbeville, Somme",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db956ad9-50b4-44fb-ae32-c693fa028e51",
+      "party_type": "Person",
+      "full_name": "James Northcote",
+      "cited_name": "Northcote, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1746-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": "Plymouth (City of Plymouth, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

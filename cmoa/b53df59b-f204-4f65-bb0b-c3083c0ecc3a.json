@@ -1,0 +1,39 @@
+{
+  "title": "Main Street (Mein.sutoriito)",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1330",
+  "id": "cmoa:things/b53df59b-f204-4f65-bb0b-c3083c0ecc3a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.5,
+  "item_height": 24.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027154",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, Ill., 12/1/1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35884&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e413300f-6ede-4ad3-a159-044c28db5531",
+      "party_type": "Person",
+      "full_name": "Takahashi Shin'Ichi",
+      "cited_name": "Takahashi Shin'Ichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1917-01-01",
+      "death_date": null,
+      "birth_place": "Sado Island, Niigata prefecture",
+      "death_place": null
+    }
+  ]
+}

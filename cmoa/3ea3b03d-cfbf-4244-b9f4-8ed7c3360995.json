@@ -1,0 +1,39 @@
+{
+  "title": "Face mask, in form of human face",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "wood",
+  "accession_number": "76.53.8",
+  "id": "cmoa:things/3ea3b03d-cfbf-4244-b9f4-8ed7c3360995",
+  "credit_line": "Gift of Daniel Solomon, M.D.",
+  "date_acquired": "1976-12-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 12.5,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018169",
+  "provenance_text": "Daniel M.D. Solomon, Los Angeles, CA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2482&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0cf3ccd-09ba-448a-a638-8e8f4ac6685d",
+      "party_type": "Person",
+      "full_name": "unknown Congolese, Ababua",
+      "cited_name": "unknown Congolese, Ababua",
+      "role": "possibly by",
+      "nationality": "Congolese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

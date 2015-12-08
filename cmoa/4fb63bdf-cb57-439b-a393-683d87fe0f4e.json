@@ -1,0 +1,51 @@
+{
+  "title": "Base for \"Vase\" Lamp",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "gilded, silvered and enameled blown cased glass",
+  "accession_number": "86.37.3",
+  "id": "cmoa:things/4fb63bdf-cb57-439b-a393-683d87fe0f4e",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1986-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.688,
+  "item_depth": 0.0,
+  "item_diameter": 6.312,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026072",
+  "provenance_text": "W. M. Schwind, Jr. Antiques, ME, Yarmouth",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=626&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcbe80d6-0972-4145-b0d9-961e08d3fafa",
+      "party_type": "Organization",
+      "full_name": "Whitehouse Glass Works",
+      "cited_name": "Whitehouse Glass Works",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1825-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1d1bfed2-806c-4ba1-a36a-18e809925fb7",
+      "party_type": "Person",
+      "full_name": "Jules Barbe",
+      "cited_name": "Barbe, Jules",
+      "role": "decorator",
+      "nationality": "French",
+      "birth_date": "1870-01-01",
+      "death_date": "1890-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

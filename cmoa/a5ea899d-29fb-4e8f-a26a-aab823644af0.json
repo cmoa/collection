@@ -1,0 +1,39 @@
+{
+  "title": "La Coupe de Fruits",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "five-color lithograph on paper",
+  "accession_number": "54.13.21",
+  "id": "cmoa:things/a5ea899d-29fb-4e8f-a26a-aab823644af0",
+  "credit_line": "Edward Duff Balken Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009217",
+  "provenance_text": "Raymond & Raymond",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115896&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2fe287b-6a3f-45c2-be93-5888334ed53a",
+      "party_type": "Person",
+      "full_name": "Maria San Marti",
+      "cited_name": "San Marti, Maria",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": "1886-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

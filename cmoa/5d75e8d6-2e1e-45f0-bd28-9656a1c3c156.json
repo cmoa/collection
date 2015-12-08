@@ -1,0 +1,39 @@
+{
+  "title": "\"Eyes\" spoon",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "cocus",
+  "accession_number": "2008.24.4",
+  "id": "cmoa:things/5d75e8d6-2e1e-45f0-bd28-9656a1c3c156",
+  "credit_line": "Gift of P. McCauley",
+  "date_acquired": "2008-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 0.75,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57199",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61823&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32725e5d-b251-4381-9852-b948387f40d2",
+      "party_type": "Person",
+      "full_name": "Norm Sartorius",
+      "cited_name": "Sartorius, Norm",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Salisbury, Maryland",
+      "death_place": null
+    }
+  ]
+}

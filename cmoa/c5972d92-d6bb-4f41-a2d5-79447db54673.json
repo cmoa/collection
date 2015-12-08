@@ -1,0 +1,39 @@
+{
+  "title": "Covered vase",
+  "creation_date": "1662-1722",
+  "creation_date_earliest": "1662-01-01",
+  "creation_date_latest": "1722-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2513.A-B",
+  "id": "cmoa:things/c5972d92-d6bb-4f41-a2d5-79447db54673",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 18.875,
+  "item_depth": 0.0,
+  "item_diameter": 6.562,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014741",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2364&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

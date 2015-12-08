@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.35",
+  "id": "cmoa:things/854cd8a7-f980-4125-9aa9-8a59723f93c7",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.125,
+  "item_depth": 0.0,
+  "item_diameter": 2.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023478",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa73cf21-ad85-4e79-9fc3-bfa787b75771",
+      "party_type": "Organization",
+      "full_name": "Josiah Wedgwood & Sons Ltd.",
+      "cited_name": "Wedgwood, Josiah & Sons Ltd.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

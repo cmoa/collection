@@ -1,0 +1,39 @@
+{
+  "title": "Five Paintbrushes",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "etching",
+  "accession_number": "77.23.6",
+  "id": "cmoa:things/a189ed37-910e-4eea-8813-5ea309ba78b2",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1977-05-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 42.375,
+  "item_height": 33.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018378",
+  "provenance_text": "William and Deborah Struve, East Haddam, CT.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c189819-cbf6-421f-8f12-d3a7ae75d51a",
+      "party_type": "Person",
+      "full_name": "Jim Dine",
+      "cited_name": "Dine, Jim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Pietro Aretino",
+  "creation_date": "1647",
+  "creation_date_earliest": "1647-01-01",
+  "creation_date_latest": "1647-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.17.2",
+  "id": "cmoa:things/2c3bc8f1-c38f-4b06-bb15-20d08fd7c192",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001084",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb29656-17d8-406e-848c-ad093b3f8c2e",
+      "party_type": "Person",
+      "full_name": "Wenceslaus Von Prachna Hollar",
+      "cited_name": "Hollar, Wenceslaus V.",
+      "role": "after",
+      "nationality": "Bohemian",
+      "birth_date": "1607-01-01",
+      "death_date": "1677-01-01",
+      "birth_place": " Prague (Středočeský, Czech Republic)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/e93d521c-d443-4b0c-86fe-12e7df38b03b",
+      "party_type": "Person",
+      "full_name": "Titian",
+      "cited_name": "Titian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1488-01-01",
+      "death_date": "1576-01-01",
+      "birth_place": "Pieve di Cadore, Belluno province, Veneto, Italy",
+      "death_place": "Venice"
+    }
+  ]
+}

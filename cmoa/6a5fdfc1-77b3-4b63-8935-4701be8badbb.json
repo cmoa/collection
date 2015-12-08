@@ -1,0 +1,69 @@
+{
+  "title": "Sideboard dish",
+  "creation_date": "1811-1812",
+  "creation_date_earliest": "1811-01-01",
+  "creation_date_latest": "1812-01-01",
+  "medium": "silver gilt",
+  "accession_number": "94.221",
+  "id": "cmoa:things/6a5fdfc1-77b3-4b63-8935-4701be8badbb",
+  "credit_line": "Ailsa Mellon Bruce Fund and Ailsa Mellon Bruce Collection, by exchange",
+  "date_acquired": "1994-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 22.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035007",
+  "provenance_text": "Wynyard Wilkinson, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97585&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97591&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97592&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97595&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97596&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97597&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/762c850a-9af1-4a44-bf66-c9765b71f09d",
+      "party_type": "Person",
+      "full_name": "William Pitts II",
+      "cited_name": "Pitts, William",
+      "role": "maker",
+      "nationality": "English",
+      "birth_date": "1790-01-01",
+      "death_date": "1840-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f12fd5ce-7201-457a-8d22-c920b8287866",
+      "party_type": "Person",
+      "full_name": "Thomas Holland II",
+      "cited_name": "Holland, Thomas",
+      "role": "retailer",
+      "nationality": "English",
+      "birth_date": "1789-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Frederick the Wise, Elector of Saxony",
+  "creation_date": "1532",
+  "creation_date_earliest": "1531-12-22",
+  "creation_date_latest": "1531-12-22",
+  "medium": "oil on panel",
+  "accession_number": "64.11.11",
+  "id": "cmoa:things/8135577d-e3c7-4a82-be27-97e677e67434",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 14.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011700",
+  "provenance_text": "Thomas Harris, Ltd., London, 1930. Howard A. Noble, Pittsburgh, 1930? until 1964; bequest to Museum, May 1964.\n\nNotes: In 1944, the painting hung in the hall of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149682&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd2d8381-e736-49d1-8c19-e8ad55fbcb6f",
+      "party_type": "Person",
+      "full_name": "Lucas Cranach the Elder",
+      "cited_name": "Cranach, Lucas, the elder",
+      "role": "workshop of",
+      "nationality": "German",
+      "birth_date": "1472-01-01",
+      "death_date": "1553-01-01",
+      "birth_place": "Kronach (Oberfranken, Bavaria, Germany)",
+      "death_place": "Weimar (Erfurt district, Thuringia, Germany)"
+    }
+  ]
+}

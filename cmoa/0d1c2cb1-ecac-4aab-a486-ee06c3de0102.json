@@ -1,0 +1,42 @@
+{
+  "title": "Une Jetée en Angleterre (A Pier in England)",
+  "creation_date": "1879",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "drypoint and roulette",
+  "accession_number": "81.59.2",
+  "id": "cmoa:things/0d1c2cb1-ecac-4aab-a486-ee06c3de0102",
+  "credit_line": "Gift of Edith and Milton Lowenthal",
+  "date_acquired": "1981-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021961",
+  "provenance_text": "Gift of Edith and Milton Lowenthal, New York, NY, 1981.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110895&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110896&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c7e9677-4b76-4c1b-9139-9f5e68420be3",
+      "party_type": "Person",
+      "full_name": "Félix Hilaire Buhot",
+      "cited_name": "Buhot, Félix Hilaire",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1847-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": " Valognes (Manche, Basse-Normandie, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

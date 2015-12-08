@@ -1,0 +1,39 @@
+{
+  "title": "Concetto Spaziale (Attesa)",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "copper",
+  "accession_number": "2000.35",
+  "id": "cmoa:things/ef73722a-843d-4997-92a4-0b08ecb6357c",
+  "credit_line": "Purchase: Heinz Family Fund and gift of Mr. and Mrs. H. J. Heinz II, by exchange",
+  "date_acquired": "2000-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 22.438,
+  "item_height": 46.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004048",
+  "provenance_text": "Sperone Westwater Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10329&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d11fe52c-b77e-4165-aee3-8ff55f99b0ce",
+      "party_type": "Person",
+      "full_name": "Lucio Fontana",
+      "cited_name": "Fontana, Lucio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1899-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Rosario (Santa Fe province, Argentina)",
+      "death_place": null
+    }
+  ]
+}

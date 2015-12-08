@@ -1,0 +1,54 @@
+{
+  "title": "Centerpiece",
+  "creation_date": "1858-1859",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "aluminum with painted and gilded decoration",
+  "accession_number": "2007.12",
+  "id": "cmoa:things/11c4ad80-6558-4297-b73c-4f11526cb84f",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2007-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 16.0,
+  "item_height": 12.75,
+  "item_depth": 12.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=37776",
+  "provenance_text": "Christofle, France. Isaac Pereire [1806-1880], Paris, France, 1858? until 1880. Purchased by Jean Nicollier, Paris, France around, 2007? [1]; (sold at Galerie Elseneur, 2007); purchased by Carnegie Museum of Art, 2007. \nNOTES: [1] The curatorial file notes that this was purchased in a shop in Clignancourt (Flea Market).  Jean Nicollier is an antique dealer for Galerie Elseneur, it is unclear this purchase was made on a personal level or on behalf of the gallery.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47748&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47749&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0ef01fb-11eb-4dcd-bb43-3ffb05c5b044",
+      "party_type": "Person",
+      "full_name": "Charles Christofle",
+      "cited_name": "Christofle, Charles",
+      "role": "attributed designer",
+      "nationality": "French",
+      "birth_date": "1805-01-01",
+      "death_date": "1863-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5c687a44-85e3-4586-931d-de1b634d7591",
+      "party_type": "Organization",
+      "full_name": "Orfèvrerie Christofle",
+      "cited_name": "Christofle, Orfèverie",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Fan",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "tortoise shell (?), ribbon and metal",
+  "accession_number": "84.111",
+  "id": "cmoa:things/64bfeb16-cb52-4fde-bade-6c064b787233",
+  "credit_line": "Gift of Mrs. Robert G. Einstein in memory of Mrs. Morris Einstein",
+  "date_acquired": "1984-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.625,
+  "item_height": 9.813,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024498",
+  "provenance_text": "Mrs. Robert G. Einstein",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75872&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75874&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5057&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/42845212-bd75-41b4-b14f-35bddcdeca69",
+      "party_type": "Person",
+      "full_name": "unknown European",
+      "cited_name": "unknown European",
+      "role": null,
+      "nationality": "European",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

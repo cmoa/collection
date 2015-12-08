@@ -1,0 +1,39 @@
+{
+  "title": "Wheatfield",
+  "creation_date": "c. 1885-1900",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "Pastel on paper",
+  "accession_number": "2006.26",
+  "id": "cmoa:things/ab2e820b-699f-4271-b193-165fc6168581",
+  "credit_line": "Robert S. Waters Charitable Trust Fund and Frances G. Scaife Fund",
+  "date_acquired": "2006-04-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 20.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=23275",
+  "provenance_text": "Private collection, South America [1]; sale, Sotheby's New York, NY, \"19th Century European Art\", October 25, 2005, no. 32; C.G. Boerner, LLC, New York, NY; purchased by Museum, April 2006.\n\n[1].  Correspondence with Sotheby's in curatorial file did not provide further information on this private collection other than to offer speculation that the work \"must have been in the South American collection since the late nineteenth century...\"",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30035&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9614ae8c-74e0-4236-908a-11ccecab99ca",
+      "party_type": "Person",
+      "full_name": "Léon-Augustin Lhermitte",
+      "cited_name": "Lhermitte, Léon-Augustin",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1844-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Mont Saint-Père, Aisne",
+      "death_place": "Paris"
+    }
+  ]
+}

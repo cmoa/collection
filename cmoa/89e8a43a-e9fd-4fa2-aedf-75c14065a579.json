@@ -1,0 +1,39 @@
+{
+  "title": "Titmouse and Cage",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.984",
+  "id": "cmoa:things/89e8a43a-e9fd-4fa2-aedf-75c14065a579",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.75,
+  "item_height": 19.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029262",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S.H.Mori (Mary Diamond), Chicago, ILL., 8/11/1961.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34254&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b15cb7cd-f6cf-4527-b94c-36a099d38611",
+      "party_type": "Person",
+      "full_name": "Maekawa Senpan",
+      "cited_name": "Maekawa Senpan",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1889-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Japan, Kyoto",
+      "death_place": null
+    }
+  ]
+}

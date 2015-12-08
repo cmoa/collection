@@ -1,0 +1,47 @@
+{
+  "title": "Bridge for The New York Central and Great Western Railways, U.S.A. and Canada; [exterior perspective]",
+  "creation_date": "1859",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "ink on paper",
+  "accession_number": "94.123",
+  "id": "cmoa:things/9e8b2c3f-68ce-42d2-8676-5ed028a1d46b",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1994-09-22",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 37.0,
+  "item_height": 28.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033869",
+  "provenance_text": "James E. Arsenault, Arrowsic, ME",
+  "classification": "prints",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9de3348c-e5c2-4054-a5b6-1a47ec413a4c",
+      "party_type": "Person",
+      "full_name": "D. L. Glover",
+      "cited_name": "Glover, D. L.",
+      "role": "engraver",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d19f9ac3-41a4-4ce7-9380-0bb9da2b202f",
+      "party_type": "Person",
+      "full_name": "John A. Roebling",
+      "cited_name": "Roebling, John A.",
+      "role": "engineer",
+      "nationality": "American",
+      "birth_date": "1806-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": "Muhlhausen, Germany",
+      "death_place": "Brooklyn?"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tile",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "49.4.1",
+  "id": "cmoa:things/5461b112-624b-4593-bb90-3a45b80b4ffc",
+  "credit_line": "Gift of John Barry",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.125,
+  "item_height": 5.125,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008735",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2702&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

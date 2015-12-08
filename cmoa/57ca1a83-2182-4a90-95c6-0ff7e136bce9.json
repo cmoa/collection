@@ -1,0 +1,39 @@
+{
+  "title": "St. Joseph Sleeping",
+  "creation_date": "c. 1700",
+  "creation_date_earliest": "1695-01-01",
+  "creation_date_latest": "1705-01-01",
+  "medium": "terracotta",
+  "accession_number": "69.34.1",
+  "id": "cmoa:things/57ca1a83-2182-4a90-95c6-0ff7e136bce9",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1969-09-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 11.75,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012559",
+  "provenance_text": "Collection of George Swarzenski\nParke-Bernet Galleries, New York, NY. Sale #2855 on May 8, 1969, lot 135",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b4b19c5-65a0-4103-a2eb-752d111e584f",
+      "party_type": "Person",
+      "full_name": "Domenico Guidi",
+      "cited_name": "Guidi, Domenico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1625-01-01",
+      "death_date": "1701-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

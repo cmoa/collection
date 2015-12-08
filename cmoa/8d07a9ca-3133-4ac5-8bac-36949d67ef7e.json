@@ -1,0 +1,39 @@
+{
+  "title": "Box, with Portrait of Napoléon Bonaparte",
+  "creation_date": "1805",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "watercolor on ivory and gold",
+  "accession_number": "27.10.638",
+  "id": "cmoa:things/8d07a9ca-3133-4ac5-8bac-36949d67ef7e",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.313,
+  "item_diameter": 1.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005903",
+  "provenance_text": "Edmund F. Bonaventure [-1918], New York, NY, until September 10, 1918; Estate of Edmund F. Bonaventure; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, July 9, 1919; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cd674723-dd32-4708-a109-50c36d73898f",
+      "party_type": "Person",
+      "full_name": "Jean Baptiste Jacques Augustin",
+      "cited_name": "Augustin, Jean Baptiste Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1759-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": "Saint-Dié (Vosges, Lorraine, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

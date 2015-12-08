@@ -1,0 +1,39 @@
+{
+  "title": "Inward Hymn",
+  "creation_date": "c. 1908-1909",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "bronze",
+  "accession_number": "47.12.2",
+  "id": "cmoa:things/5d4071a9-f0dc-4caa-9ab8-e64c87660ffb",
+  "credit_line": "Gift of Mrs. Lambert G. Oppenheim",
+  "date_acquired": "1947-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 13.0,
+  "item_height": 29.0,
+  "item_depth": 15.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008058",
+  "provenance_text": "Albert Lehman [-1935], Pittsburgh, 1908? until 1935 [1]; by descent to his widow, Adele Gluckenheimer Herzog Lehman [1891-1982], Pittsburgh, 1935 until 1947 [2]; gift to Museum, 1947. \nNOTES:1. This work was cast for Albert Lehman c.1908-1909 2. Adele Lehman later remarried (Mrs. Lambert G. Oppenheim) and moved to Cuyahoga, Ohio",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c53fccd7-12c4-4c7f-b655-03ed3f96550b",
+      "party_type": "Person",
+      "full_name": "Emile Antoine Bourdelle",
+      "cited_name": "Bourdelle, Emile Antoine",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1861-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "France",
+      "death_place": null
+    }
+  ]
+}

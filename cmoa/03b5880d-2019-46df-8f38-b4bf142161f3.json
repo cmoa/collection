@@ -1,0 +1,60 @@
+{
+  "title": "Toast rack",
+  "creation_date": "1881",
+  "creation_date_earliest": "1881-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "silver plate",
+  "accession_number": "1997.39.2",
+  "id": "cmoa:things/03b5880d-2019-46df-8f38-b4bf142161f3",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 4.938,
+  "item_depth": 4.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003314",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97497&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97498&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97496&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2129&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/64fe5c1f-3d48-450a-a10b-f56b6b9701ff",
+      "party_type": "Organization",
+      "full_name": "Hukin & Heath",
+      "cited_name": "Hukin & Heath",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1855-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

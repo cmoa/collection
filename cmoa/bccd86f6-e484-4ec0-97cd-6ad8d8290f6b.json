@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1947",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "glazed pottery",
+  "accession_number": "86.45",
+  "id": "cmoa:things/bccd86f6-e484-4ec0-97cd-6ad8d8290f6b",
+  "credit_line": "Gift of Dr. and Mrs. John R. Lane",
+  "date_acquired": "1986-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 1.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026115",
+  "provenance_text": "Dr. And Mrs. John R. Lane, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132876&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": "manufacturer",
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    },
+    {
+      "artist_id": "cmoa:parties/2d99cad1-8b8f-421d-8106-10c0c694370e",
+      "party_type": "Organization",
+      "full_name": "Madoura Pottery",
+      "cited_name": "Madoura Pottery",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1940-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

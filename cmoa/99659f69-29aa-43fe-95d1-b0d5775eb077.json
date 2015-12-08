@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "06.23",
+  "id": "cmoa:things/99659f69-29aa-43fe-95d1-b0d5775eb077",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000213",
+  "provenance_text": "Andrew Carnegie Fund; Provenance: H. Wunderlich and Co., NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36136&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/328e78c4-940c-435d-996e-ee4808dddab3",
+      "party_type": "Person",
+      "full_name": "Albert F. Bellows",
+      "cited_name": "Bellows, Albert F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

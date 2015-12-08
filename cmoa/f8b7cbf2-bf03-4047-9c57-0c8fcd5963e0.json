@@ -1,0 +1,39 @@
+{
+  "title": "Sequence",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "pate de verre glass with red copper foil",
+  "accession_number": "2002.69.1",
+  "id": "cmoa:things/f8b7cbf2-bf03-4047-9c57-0c8fcd5963e0",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2002-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.688,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=521",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6459&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d6ca822-0020-4480-bf38-3ebf429917e1",
+      "party_type": "Person",
+      "full_name": "Galia Amsel",
+      "cited_name": "Amsel, Galia",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

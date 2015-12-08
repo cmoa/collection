@@ -1,0 +1,39 @@
+{
+  "title": "The Lawyer's Dream",
+  "creation_date": "1859",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.46",
+  "id": "cmoa:things/e301cca7-20f5-4c45-8636-a8ddafc74ebc",
+  "credit_line": "Purchase: gift of S. B. Casey, Howard Heinz Endowment Fund, and an anonymous gift",
+  "date_acquired": "1959-10-26",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 20.25,
+  "item_height": 24.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011030",
+  "provenance_text": "George Finley, Pittsburgh, by 1859; by descent to Charles A. Finley, Pittsburgh, by 1932 until 1959?; Estate of Charles A. Finley, until 1959; purchased by Museum, October 26, 1959.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10343&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

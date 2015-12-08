@@ -1,0 +1,66 @@
+{
+  "title": "Man with a horse and two washerwomen",
+  "creation_date": "1772",
+  "creation_date_earliest": "1772-01-01",
+  "creation_date_latest": "1772-01-01",
+  "medium": "etching in crayon manner with roulette",
+  "accession_number": "49.2.33",
+  "id": "cmoa:things/1f62023f-3b92-4664-b1a6-51552f66a2d2",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 12.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008578",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104002&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104003&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/612e864b-6031-418d-bb29-d8d2a02344c9",
+      "party_type": "Person",
+      "full_name": "Johannes Körnlein",
+      "cited_name": "Körnlein, Johannes",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1720-01-01",
+      "death_date": "1772-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/268fd6da-27ec-4965-bfa7-a542bffc7352",
+      "party_type": "Person",
+      "full_name": "Philips Wouwerman",
+      "cited_name": "Wouwerman, Philips",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1619-01-01",
+      "death_date": "1668-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

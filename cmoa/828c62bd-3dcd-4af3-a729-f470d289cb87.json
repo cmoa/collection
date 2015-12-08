@@ -1,0 +1,48 @@
+{
+  "title": "Jestem",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "4 confetti cubes",
+  "accession_number": "2014.18.A-.D",
+  "id": "cmoa:things/828c62bd-3dcd-4af3-a729-f470d289cb87",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2014-06-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.433,
+  "item_height": 35.433,
+  "item_depth": 35.433,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102892",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128495&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128494&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128496&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c3aa5ed-90da-4a19-8b15-afd614d469b5",
+      "party_type": "Person",
+      "full_name": "Lara Favaretto",
+      "cited_name": "Favaretto, Lara",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Treviso, Italy",
+      "death_place": null
+    }
+  ]
+}

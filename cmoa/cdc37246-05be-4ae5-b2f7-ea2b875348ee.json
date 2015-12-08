@@ -1,0 +1,39 @@
+{
+  "title": "Mr. Alfred Stieglitz",
+  "creation_date": null,
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "photogravure",
+  "accession_number": "74.42.7",
+  "id": "cmoa:things/cdc37246-05be-4ae5-b2f7-ea2b875348ee",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 4.625,
+  "item_height": 6.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017038",
+  "provenance_text": "The 831 Gallery, Birmingham, Mich",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111835&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/abfb22ac-79c4-4135-8a9a-0981baf685fa",
+      "party_type": "Person",
+      "full_name": "Frank Eugene",
+      "cited_name": "Eugene, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Munich (Oberbayern, Bavaria, Germany)"
+    }
+  ]
+}

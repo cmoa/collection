@@ -1,0 +1,39 @@
+{
+  "title": "Six panel screen",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "ink and watercolor on paper",
+  "accession_number": "2008.93",
+  "id": "cmoa:things/e9200374-2012-426c-b4b9-854c255fc6c1",
+  "credit_line": "Gift of Barbara Lantzsch Roche and Geoffrey C. Lantzsch",
+  "date_acquired": "2009-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 153.0,
+  "item_height": 69.0,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=74211",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96057&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6dff52db-182e-4811-a931-324368d33c98",
+      "party_type": "Person",
+      "full_name": "Tan'yu Kano",
+      "cited_name": "Tan'yu Kano",
+      "role": "school of",
+      "nationality": "Japanese",
+      "birth_date": "1602-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Kyoto (Kyoto prefecture, Kinki, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

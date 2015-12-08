@@ -1,0 +1,66 @@
+{
+  "title": "Diana of the Tower",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "bronze",
+  "accession_number": "59.5.30",
+  "id": "cmoa:things/31d14626-0af2-4f3b-aa60-705884693014",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 7.25,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011072",
+  "provenance_text": "Johanna K. W. Hailman, Pittsburgh, by 1959; bequest to museum, 1959",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126989&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126990&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126991&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126992&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126993&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126994&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126995&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126996&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126997&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

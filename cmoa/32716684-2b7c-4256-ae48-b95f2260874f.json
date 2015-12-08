@@ -1,0 +1,39 @@
+{
+  "title": "Sea Maidens",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "20.4",
+  "id": "cmoa:things/32716684-2b7c-4256-ae48-b95f2260874f",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004583",
+  "provenance_text": "M. de Zayas, New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101068&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

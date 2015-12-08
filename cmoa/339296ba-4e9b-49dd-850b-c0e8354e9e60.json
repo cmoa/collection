@@ -1,0 +1,39 @@
+{
+  "title": "Dear Art Collector Greek",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "offset laser or inkjet print poster",
+  "accession_number": "2013.3.77",
+  "id": "cmoa:things/339296ba-4e9b-49dd-850b-c0e8354e9e60",
+  "credit_line": "Alan D. and Marsha W. Bramowitz Contemporary Print Acquisition Fund",
+  "date_acquired": "2013-02-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101356",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120441&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0312fc7-29a9-4400-9cda-20688fae1806",
+      "party_type": "Organization",
+      "full_name": "Guerrilla Girls",
+      "cited_name": "Guerrilla Girls",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1985-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

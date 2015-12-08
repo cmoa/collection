@@ -1,0 +1,42 @@
+{
+  "title": "Sword Blade",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "steel gilded metal with wooden handle and sheath",
+  "accession_number": "89.27.3",
+  "id": "cmoa:things/ed462a4d-d341-47c7-8a35-648919ee1d28",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.938,
+  "item_height": 30.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026681",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3765&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

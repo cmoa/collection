@@ -1,0 +1,39 @@
+{
+  "title": "Initio Silenzio",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "pâte de verre",
+  "accession_number": "2002.69.8",
+  "id": "cmoa:things/2b8e79df-39de-4b4f-9379-a270e64ce694",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2002-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.25,
+  "item_height": 7.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=535",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5565&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bb890813-4681-4bf9-aa9e-8b25458fbe40",
+      "party_type": "Person",
+      "full_name": "Carl van Hees",
+      "cited_name": "Hees, Carl van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

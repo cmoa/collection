@@ -1,0 +1,39 @@
+{
+  "title": "Chauffeur",
+  "creation_date": "c. 1938-1939",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.97",
+  "id": "cmoa:things/402c425d-8941-4ba0-92b4-85417940ba24",
+  "credit_line": "Gift of Milton Weiss",
+  "date_acquired": "1984-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.5,
+  "item_height": 24.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024406",
+  "provenance_text": "The artist, until 1941; Milton Weiss, Pittsburgh, 1941; gift to museum, 1984",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21507&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fc4de7d-bbd2-4b7f-bba9-a90280a018c3",
+      "party_type": "Person",
+      "full_name": "Robert Gwathmey",
+      "cited_name": "Gwathmey, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Richmond (Richmond Indep. City, Virginia, United States)",
+      "death_place": "Southhampton, NY"
+    }
+  ]
+}

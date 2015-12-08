@@ -1,0 +1,39 @@
+{
+  "title": "Near the Coast",
+  "creation_date": "1885-1886",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1886-01-01",
+  "medium": "etching",
+  "accession_number": "94.6",
+  "id": "cmoa:things/07b197f4-a179-4ccf-944b-2993431f0b60",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.625,
+  "item_height": 11.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035238",
+  "provenance_text": "Rona Schneider, Brooklyn Heights, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72955&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/850fdb39-e04e-4672-898f-290b4aca1b18",
+      "party_type": "Person",
+      "full_name": "Robert Swain Gifford",
+      "cited_name": "Gifford, Robert S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

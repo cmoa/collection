@@ -1,0 +1,39 @@
+{
+  "title": "(Gravestones and House Scene)",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.7.28",
+  "id": "cmoa:things/944da7f4-8948-4433-b0dc-0f6efef3a686",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-02-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 14.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025128",
+  "provenance_text": "Carnegie Library of Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96932&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d7cc2de-1c66-460f-a766-474f86538469",
+      "party_type": "Person",
+      "full_name": "Hew Charles Torrance",
+      "cited_name": "Torrance, Hew C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Scotland",
+      "death_place": null
+    }
+  ]
+}

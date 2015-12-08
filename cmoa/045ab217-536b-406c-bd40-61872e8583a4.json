@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Cleveland",
+  "creation_date": "1870",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "marble",
+  "accession_number": "95.62",
+  "id": "cmoa:things/045ab217-536b-406c-bd40-61872e8583a4",
+  "credit_line": "Margaret M. Vance Fund",
+  "date_acquired": "1995-05-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 25.5,
+  "item_height": 29.25,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035765",
+  "provenance_text": "Royal York Auction Gallery, Pittsburgh, PA, until 1995; Purchased by Museum, May 25, 1995.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117160&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19393c1f-8f51-4532-8428-3441da76b7d9",
+      "party_type": "Person",
+      "full_name": "Margaret Foley",
+      "cited_name": "Foley, Margaret",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1820-01-01",
+      "death_date": "1877-01-01",
+      "birth_place": "Vermont",
+      "death_place": "Merano, Italy"
+    }
+  ]
+}

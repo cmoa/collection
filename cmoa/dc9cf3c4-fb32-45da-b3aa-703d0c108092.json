@@ -1,0 +1,51 @@
+{
+  "title": "Sir Edward Littleton",
+  "creation_date": "c. 1680-1700",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1710-01-01",
+  "medium": "mezzotint",
+  "accession_number": "19.1.126",
+  "id": "cmoa:things/dc9cf3c4-fb32-45da-b3aa-703d0c108092",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001891",
+  "provenance_text": "Mrs. Heasley, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101939&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb80c814-278a-4846-87e4-1378fba94a30",
+      "party_type": "Person",
+      "full_name": "Robert Williams",
+      "cited_name": "Williams, Robert",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1680-01-01",
+      "death_date": "1704-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

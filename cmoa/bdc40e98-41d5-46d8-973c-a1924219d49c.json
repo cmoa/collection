@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Girl at Piano)",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "chalk on buff paper",
+  "accession_number": "07.12.2",
+  "id": "cmoa:things/bdc40e98-41d5-46d8-973c-a1924219d49c",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-01-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000265",
+  "provenance_text": "Albert E. Sterner",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85945&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48039&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1baeddc-f9cc-43d3-aaff-a9bc5397f112",
+      "party_type": "Person",
+      "full_name": "Albert E. Sterner",
+      "cited_name": "Sterner, Albert E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

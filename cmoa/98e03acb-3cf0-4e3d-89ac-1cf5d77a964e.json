@@ -1,0 +1,51 @@
+{
+  "title": "Box for powder and rouge",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "stamped aluminum and lacquer",
+  "accession_number": "1998.14.5.A-B",
+  "id": "cmoa:things/98e03acb-3cf0-4e3d-89ac-1cf5d77a964e",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.125,
+  "item_height": 0.625,
+  "item_depth": 0.0,
+  "item_diameter": 3.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003605",
+  "provenance_text": "Galerie Moderne, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11415&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb2c9ab-3c4d-4ad6-ac1b-f34ac7b0b228",
+      "party_type": "Person",
+      "full_name": "René Lalique",
+      "cited_name": "Lalique, René",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1860-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e7aaf7a2-9032-47e6-bf13-02b6391c1968",
+      "party_type": "Organization",
+      "full_name": "Roger & Gallet",
+      "cited_name": "Roger & Gallet",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1862-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

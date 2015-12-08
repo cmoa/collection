@@ -1,0 +1,48 @@
+{
+  "title": "Monkey teapot",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "tin-glazed earthenware (majolica)",
+  "accession_number": "2003.24.A-B",
+  "id": "cmoa:things/f65179e1-f6e8-41bc-84f3-4d38daee335d",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2003-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 7.0,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4389",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12079&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=576&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=885&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=602&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eff7a010-f38d-4a7d-bd64-285a87d83522",
+      "party_type": "Organization",
+      "full_name": "Minton & Co.",
+      "cited_name": "Minton & Co.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

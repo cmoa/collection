@@ -1,0 +1,39 @@
+{
+  "title": "Mexican Kitchen",
+  "creation_date": null,
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.41",
+  "id": "cmoa:things/e3de5d57-d071-42c8-9edf-1161e393f9f6",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012908",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108270&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ef32d8c2-1080-4abe-8f89-ad0704ea623b",
+      "party_type": "Person",
+      "full_name": "Jean Charlot",
+      "cited_name": "Charlot, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1898-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Honolulu (Honolulu county, Hawaii, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Francis Davis Millet",
+  "creation_date": "1879",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "bronze relief",
+  "accession_number": "79.8",
+  "id": "cmoa:things/6b565f51-c2c7-468e-a9ed-f75b341602d3",
+  "credit_line": "Gift of Mrs. Charles J. Rosenbloom in honor of Leon A. Arkus",
+  "date_acquired": "1979-05-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 11.0,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020988",
+  "provenance_text": "Mrs. Charles J. Rosenbloom, Pittsburgh, before 1979; gift to museum in honor of Leon A. Arkus, 1979",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107722&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

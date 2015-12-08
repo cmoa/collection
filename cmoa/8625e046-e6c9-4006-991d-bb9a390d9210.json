@@ -1,0 +1,39 @@
+{
+  "title": "Commerzbank 3",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "painted particleboard",
+  "accession_number": "2007.20",
+  "id": "cmoa:things/8625e046-e6c9-4006-991d-bb9a390d9210",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 107.0,
+  "item_height": 23.0,
+  "item_depth": 36.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=44410",
+  "provenance_text": "The artist through Anton Kern Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f3db2b06-056c-4247-8302-901b71752da2",
+      "party_type": "Person",
+      "full_name": "Manfred Pernice",
+      "cited_name": "Pernice, Manfred",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Hildesheim, Germany",
+      "death_place": null
+    }
+  ]
+}

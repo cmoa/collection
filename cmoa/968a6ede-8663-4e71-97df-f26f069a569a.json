@@ -1,0 +1,51 @@
+{
+  "title": "Tile (Mosaic Design)",
+  "creation_date": "c. 1845",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "Ceramic",
+  "accession_number": "19.1.46",
+  "id": "cmoa:things/968a6ede-8663-4e71-97df-f26f069a569a",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 6.0,
+  "item_depth": 0.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001952",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1628&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eff7a010-f38d-4a7d-bd64-285a87d83522",
+      "party_type": "Organization",
+      "full_name": "Minton & Co.",
+      "cited_name": "Minton & Co.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

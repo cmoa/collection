@@ -1,0 +1,39 @@
+{
+  "title": "Madame Bouthillier",
+  "creation_date": "1656",
+  "creation_date_earliest": "1656-01-01",
+  "creation_date_latest": "1656-01-01",
+  "medium": "engraving",
+  "accession_number": "19.11.4",
+  "id": "cmoa:things/99c7c324-f7bf-4919-854c-a819c1d44586",
+  "credit_line": "Purchase (F.A.C.)",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 15.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001897",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108340&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

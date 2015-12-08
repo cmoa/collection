@@ -1,0 +1,39 @@
+{
+  "title": "The Standard Bearer",
+  "creation_date": "1526",
+  "creation_date_earliest": "1525-12-22",
+  "creation_date_latest": "1525-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.9",
+  "id": "cmoa:things/6f892395-7345-4dc1-935c-65353841bd4a",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001004",
+  "provenance_text": "Inscribed (verso): \"Endris 829\" (Johann Christoph Endris? mid 19th century, Vienna), see Lugt 812; Adalbert Frieherr von Lanna (Prague 1836 - 1909), Lugt 2773 ; Frederick Keppel & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b698dca-215c-40e3-97c7-d9a589db4a0b",
+      "party_type": "Person",
+      "full_name": "Hans Sebald Beham",
+      "cited_name": "Beham, Hans Sebald",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1500-01-01",
+      "death_date": "1550-01-01",
+      "birth_place": " Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": " Frankfurt am Main (Darmstadt district, Hessen state, Germany)"
+    }
+  ]
+}

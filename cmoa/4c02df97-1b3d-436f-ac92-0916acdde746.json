@@ -1,0 +1,39 @@
+{
+  "title": "The Plebian",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.227",
+  "id": "cmoa:things/4c02df97-1b3d-436f-ac92-0916acdde746",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012811",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107982&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a35e6267-8744-44ad-8682-164575318a14",
+      "party_type": "Person",
+      "full_name": "George Ford Morris",
+      "cited_name": "Morris, George F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

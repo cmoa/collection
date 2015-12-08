@@ -1,0 +1,39 @@
+{
+  "title": "Accent",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "collage on paper",
+  "accession_number": "62.24.1",
+  "id": "cmoa:things/c684ba48-6661-491c-ac63-914a4f0da342",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 52nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1962-07-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.625,
+  "item_height": 28.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011528",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114800&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1da52d75-1af7-4263-9cca-2e021b2dc87d",
+      "party_type": "Person",
+      "full_name": "Anne Temeles Golomb",
+      "cited_name": "Golomb, Anne T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

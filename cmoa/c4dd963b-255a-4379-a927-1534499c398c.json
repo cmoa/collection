@@ -1,0 +1,39 @@
+{
+  "title": "Cup",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "porcelain",
+  "accession_number": "57.8.31",
+  "id": "cmoa:things/c4dd963b-255a-4379-a927-1534499c398c",
+  "credit_line": "Gift of Mildred Taber Keally",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.688,
+  "item_depth": 0.0,
+  "item_diameter": 3.688,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010657",
+  "provenance_text": "Gift of Mildred Taber Keally, 1957.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Family",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on panel",
+  "accession_number": "56.2",
+  "id": "cmoa:things/9be41f7f-0c76-4eba-a6ff-105d221f7be5",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1956-03-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.5,
+  "item_height": 18.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009694",
+  "provenance_text": "Eugene Brands",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121724&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/266cebc2-a044-4591-b7e8-4f8fcd8f5249",
+      "party_type": "Person",
+      "full_name": "Eugène Brands",
+      "cited_name": "Brands, Eugène",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1913-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

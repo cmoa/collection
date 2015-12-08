@@ -1,0 +1,39 @@
+{
+  "title": "Manuscript Page, Illuminated (Feast of the Transfiguration)",
+  "creation_date": "c. 1480",
+  "creation_date_earliest": "1474-12-23",
+  "creation_date_latest": "1484-12-23",
+  "medium": "tempera and gold leaf on vellum (miniature)",
+  "accession_number": "80.29",
+  "id": "cmoa:things/6322ff3d-c98f-4113-a57e-8d688a67d922",
+  "credit_line": "Purchase: gift of the friends of Elizabeth Wren Houston in her memory",
+  "date_acquired": "1980-10-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 15.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021128",
+  "provenance_text": "H. P. Kraus, New York City.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102159&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ca6a54b-3c90-4909-8d34-2d5465b98b1c",
+      "party_type": "Person",
+      "full_name": "Jean Colombe",
+      "cited_name": "Colombe, Jean",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1415-01-01",
+      "death_date": "1478-01-01",
+      "birth_place": null,
+      "death_place": "Bourges"
+    }
+  ]
+}

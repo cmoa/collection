@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.3",
+  "id": "cmoa:things/2d2841f5-ca75-45a5-a997-cab216b836eb",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018248",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ea7a7d8d-63a8-47a7-923f-b370a0a86afa",
+      "party_type": "Person",
+      "full_name": "John Chamberlain",
+      "cited_name": "Chamberlain, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Rochester (Fulton county, Indiana, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Foxgloves, France",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.33",
+  "id": "cmoa:things/2542335c-26d3-486b-8ecc-684c5faa3e2c",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.438,
+  "item_height": 13.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91918",
+  "provenance_text": "Purchased from Silver Eye Center for Photography 2010 Auction (donated by Eric Mendelson)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100660&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/308c7982-838a-417e-bc26-8e69e8305c87",
+      "party_type": "Person",
+      "full_name": "Edward J. Steichen",
+      "cited_name": "Steichen, Edward J.",
+      "role": "photographer",
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Luxembourg (Europe)",
+      "death_place": "Connecticut, West Redding"
+    },
+    {
+      "artist_id": "cmoa:parties/31bcd69e-3dfe-4338-93e1-6dab643ffef0",
+      "party_type": "Person",
+      "full_name": "George A. Tice",
+      "cited_name": "Tice, George A.",
+      "role": "printer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Newark (Essex county, New Jersey, United States)",
+      "death_place": null
+    }
+  ]
+}

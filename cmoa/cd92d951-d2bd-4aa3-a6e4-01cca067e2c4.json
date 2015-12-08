@@ -1,0 +1,39 @@
+{
+  "title": "Tankard",
+  "creation_date": "1765-1766",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1766-01-01",
+  "medium": "sterling silver",
+  "accession_number": "77.43.35",
+  "id": "cmoa:things/cd92d951-d2bd-4aa3-a6e4-01cca067e2c4",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 8.063,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018668",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e6ba383-d317-4781-a2b8-a6ee0b06661c",
+      "party_type": "Person",
+      "full_name": "James Baker",
+      "cited_name": "Baker, James",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

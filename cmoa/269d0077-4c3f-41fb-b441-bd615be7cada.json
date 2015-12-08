@@ -1,0 +1,39 @@
+{
+  "title": "Le pétit Berger (First Plate)",
+  "creation_date": "1855",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "cliché-verre",
+  "accession_number": "22.11.6",
+  "id": "cmoa:things/269d0077-4c3f-41fb-b441-bd615be7cada",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-11-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004701",
+  "provenance_text": "Weyhe Gallery, 794 Lexington Avenue, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105187&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10546fd7-9bdd-4abe-894a-cd407fed41c9",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste-Camille Corot",
+      "cited_name": "Corot, Jean B.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1796-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

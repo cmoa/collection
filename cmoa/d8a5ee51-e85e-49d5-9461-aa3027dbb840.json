@@ -1,0 +1,48 @@
+{
+  "title": "Mirror Box",
+  "creation_date": "c. 1978-1980",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "aluminum, glass and leather",
+  "accession_number": "1999.39.2.A-B",
+  "id": "cmoa:things/d8a5ee51-e85e-49d5-9461-aa3027dbb840",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1999-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.5,
+  "item_height": 6.687,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003893",
+  "provenance_text": "Marcia Lewis, Long Beach, CA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5542&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5511&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5510&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5541&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1502623d-296d-4869-910f-36cc5e02c419",
+      "party_type": "Person",
+      "full_name": "Marcia Lewis",
+      "cited_name": "Lewis, Marcia",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Washington, DC",
+      "death_place": null
+    }
+  ]
+}

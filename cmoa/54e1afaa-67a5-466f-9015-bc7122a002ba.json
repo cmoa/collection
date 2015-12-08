@@ -1,0 +1,39 @@
+{
+  "title": "Ansager (Radio Announcer)",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "lithograph printed in colors",
+  "accession_number": "1997.6",
+  "id": "cmoa:things/54e1afaa-67a5-466f-9015-bc7122a002ba",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "1997-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 28.0,
+  "item_height": 36.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003452",
+  "provenance_text": "Frederick Mulder, London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31509&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a19e147f-ee83-4253-95bd-56ad2751920d",
+      "party_type": "Person",
+      "full_name": "El Lissitzky",
+      "cited_name": "Lissitzky, El",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1890-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": "Pochinok (Smolensk oblast, Rossiya republic, Russia)",
+      "death_place": " Moscow (Moskva autonomous city, Rossiya republic, Russia)"
+    }
+  ]
+}

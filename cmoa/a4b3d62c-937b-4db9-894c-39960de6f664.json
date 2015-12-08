@@ -1,0 +1,54 @@
+{
+  "title": "Jug",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "transfer-printed earthenware",
+  "accession_number": "2002.21.1.3.1",
+  "id": "cmoa:things/a4b3d62c-937b-4db9-894c-39960de6f664",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.062,
+  "item_height": 7.75,
+  "item_depth": 7.062,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=40",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9434&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20352&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/99ed2f03-37e2-4bed-a34b-f621fe8274c7",
+      "party_type": "Organization",
+      "full_name": "Old Hall Earthenware Company Limited",
+      "cited_name": "Old Hall Earthenware Company Limited",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1861-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

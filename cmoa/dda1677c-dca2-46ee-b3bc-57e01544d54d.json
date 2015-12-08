@@ -1,0 +1,63 @@
+{
+  "title": "The Four Elegant Accomplishments - Koto, Go, Caligraphy, Painting (Kin ki sho ga)",
+  "creation_date": "c. 1788-1790",
+  "creation_date_earliest": "1778-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "color woodblock print (oban, triptych)",
+  "accession_number": "18.14.15",
+  "id": "cmoa:things/dda1677c-dca2-46ee-b3bc-57e01544d54d",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001683",
+  "provenance_text": "Yamanaka & Company, New York, 1918",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118365&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118364&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118366&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118367&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24319&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/701baf6b-252c-4cc7-8739-75a3ef9dda6d",
+      "party_type": "Person",
+      "full_name": "Utamaro Kitagawa",
+      "cited_name": "Utamaro Kitagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1754-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/577fb631-ad5e-46a9-9c59-4d77763d2111",
+      "party_type": "Person",
+      "full_name": "Juzaburo Tsutaya",
+      "cited_name": "Juzaburo Tsutaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

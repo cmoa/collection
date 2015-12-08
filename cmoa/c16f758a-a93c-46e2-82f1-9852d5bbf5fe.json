@@ -1,0 +1,39 @@
+{
+  "title": "New York at Night",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "74.42.2",
+  "id": "cmoa:things/c16f758a-a93c-46e2-82f1-9852d5bbf5fe",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017029",
+  "provenance_text": "The 831 Gallery, Birmingham, Mich",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111839&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c54cb3c-a68c-447f-a6ab-4e6c8aea5f51",
+      "party_type": "Person",
+      "full_name": "Berenice Abbott",
+      "cited_name": "Abbott, Berenice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Springfield (Clark county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

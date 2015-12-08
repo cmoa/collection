@@ -1,0 +1,51 @@
+{
+  "title": "Chair, Model No. 1725A",
+  "creation_date": "c. 1968",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "nickel-plated steel with original polyester upholstery",
+  "accession_number": "94.63.1",
+  "id": "cmoa:things/2e4ae74c-ebcc-45f8-a671-4bb7249094c1",
+  "credit_line": "Gift of the Gumberg Family",
+  "date_acquired": "1994-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 26.0,
+  "item_height": 28.75,
+  "item_depth": 19.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035227",
+  "provenance_text": "Gift of the Gumberg Family, Pittsburgh, PA, 1994.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6727&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0706e147-6239-4525-96bf-58c872f3dce7",
+      "party_type": "Person",
+      "full_name": "Warren Platner",
+      "cited_name": "Platner, Warren",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Baltimore, MD",
+      "death_place": "New Haven, CT"
+    },
+    {
+      "artist_id": "cmoa:parties/3535edaa-aef1-47a2-926f-75058d50c210",
+      "party_type": "Organization",
+      "full_name": "Knoll International",
+      "cited_name": "Knoll International",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

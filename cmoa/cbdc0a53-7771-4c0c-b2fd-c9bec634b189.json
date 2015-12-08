@@ -1,0 +1,39 @@
+{
+  "title": "The Continuous Miner",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.23.5",
+  "id": "cmoa:things/cbdc0a53-7771-4c0c-b2fd-c9bec634b189",
+  "credit_line": "Gift of Joy Manufacturing Company",
+  "date_acquired": "1954-05-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.0,
+  "item_height": 47.0,
+  "item_depth": 2.25,
+  "item_diameter": 4.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009253",
+  "provenance_text": "Fortune",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126470&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a807dc8-66a8-4f7d-b5e1-c63137972b13",
+      "party_type": "Person",
+      "full_name": "Hedda Sterne",
+      "cited_name": "Sterne, Hedda",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Bucharest (Bucuresti municipality, Romania)",
+      "death_place": null
+    }
+  ]
+}

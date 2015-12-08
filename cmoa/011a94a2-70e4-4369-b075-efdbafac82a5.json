@@ -1,0 +1,39 @@
+{
+  "title": "Picture frame (in original box)",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "aluminum, wood, velvet",
+  "accession_number": "1998.72.2",
+  "id": "cmoa:things/011a94a2-70e4-4369-b075-efdbafac82a5",
+  "credit_line": "Gift of East End Galleries",
+  "date_acquired": "1998-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003827",
+  "provenance_text": "East End Galleries, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5065&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/518ee777-6c00-4ca3-9f4b-dbf1315f9136",
+      "party_type": "Organization",
+      "full_name": "Kensington Ware",
+      "cited_name": "Kensington Ware",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Birches",
+  "creation_date": "c. 1904",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "oil on cardboard mounted on Masonite",
+  "accession_number": "65.2.2",
+  "id": "cmoa:things/ceae8269-0ef1-4114-9941-048a38bb05c9",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 14.5,
+  "item_height": 19.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011910",
+  "provenance_text": "Allan Frumkin Gallery [1959-1995], New York; Mr. and Mrs. James L. Winokur, Pittsburgh; gift to Museum, May 1965.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=392&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b889619e-3756-467e-839c-712e767ce973",
+      "party_type": "Person",
+      "full_name": "Paula Modersohn-Becker",
+      "cited_name": "Modersohn-Becker, Paula",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1878-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dresden, Germany",
+      "death_place": "Worpswede, Germany"
+    }
+  ]
+}

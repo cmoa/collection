@@ -1,0 +1,39 @@
+{
+  "title": "The Continuous Miner",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "tempera on cardboard",
+  "accession_number": "54.23.6",
+  "id": "cmoa:things/9fbad5ad-dc7d-4ef8-aadb-fbb8e54a1145",
+  "credit_line": "Gift of Joy Manufacturing Company",
+  "date_acquired": "1954-05-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.5,
+  "item_height": 22.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009254",
+  "provenance_text": "Fortune",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=130029&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79b2df7b-6f03-41a2-b702-2d1c4888fc65",
+      "party_type": "Person",
+      "full_name": "Rufino Tamayo",
+      "cited_name": "Tamayo, Rufino",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1899-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Oaxaca state (Mexico)",
+      "death_place": null
+    }
+  ]
+}

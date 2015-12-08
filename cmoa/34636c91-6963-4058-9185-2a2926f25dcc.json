@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "c. 1740",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1745-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.148",
+  "id": "cmoa:things/34636c91-6963-4058-9185-2a2926f25dcc",
+  "credit_line": "Bequest of Ailsa Mellon Bruce",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.125,
+  "item_depth": 0.0,
+  "item_diameter": 18.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013609",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121205&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

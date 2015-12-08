@@ -1,0 +1,39 @@
+{
+  "title": "Carnegie Series I",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "etching",
+  "accession_number": "79.45.1",
+  "id": "cmoa:things/bcdda8de-bd0c-4788-be98-6e5da5f563ce",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1979-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020365",
+  "provenance_text": "Eduardo Chillida, San Sabastian, Spain",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99312&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d29bd341-1fd0-48bf-8fcb-027a4ebf94a4",
+      "party_type": "Person",
+      "full_name": "Eduardo Chillida",
+      "cited_name": "Chillida, Eduardo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1924-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "San Sebastián (Guipúzcoa, Basque Provinces, Spain)",
+      "death_place": "San Sebastián (Guipúzcoa, Basque Provinces, Spain)"
+    }
+  ]
+}

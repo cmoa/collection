@@ -1,0 +1,39 @@
+{
+  "title": "Woman Sitting",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "2011.71.14",
+  "id": "cmoa:things/e4a09937-3117-4f48-9c05-c9677ab21a91",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 16.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98246",
+  "provenance_text": "Gift of Carol and Herbert Diamond, 2012. \n\nTBF 10/30/14",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113856&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40b466ea-c112-4ca3-9ed8-28f46b14dd39",
+      "party_type": "Person",
+      "full_name": "Eugene Speicher",
+      "cited_name": "Speicher, Eugene",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Buffalo (Erie county, New York state, United States)",
+      "death_place": "Woodstock (Greene county, New York state, United States)"
+    }
+  ]
+}

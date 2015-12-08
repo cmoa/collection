@@ -1,0 +1,42 @@
+{
+  "title": "Tightrope Walkers",
+  "creation_date": "c.1927",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1345",
+  "id": "cmoa:things/1c43df0b-4fc4-4afc-869c-71c171b33d82",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027173",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from R. E. Lewis, Inc., San Rafael, CA., 3/2/1976.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32905&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af3bd037-8209-4c73-afc0-a33c8d8fdf96",
+      "party_type": "Person",
+      "full_name": "Tobari Kogan",
+      "cited_name": "Tobari Kogan",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1882-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

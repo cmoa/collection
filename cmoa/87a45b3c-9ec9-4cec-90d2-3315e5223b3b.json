@@ -1,0 +1,39 @@
+{
+  "title": "Hoosiers Nest",
+  "creation_date": "c. 1845",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.21.17",
+  "id": "cmoa:things/87a45b3c-9ec9-4cec-90d2-3315e5223b3b",
+  "credit_line": "Bequest of Edgar W. and Bernice Chrysler Garbisch",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 74.875,
+  "item_height": 54.5,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021756",
+  "provenance_text": "Indiana State Legislature for the State Library, 1849; the artist, 1850; the artist's husband, Dr. Samuel S. Boyd, 1862; Dublin, Ind., High School, 1865; unidentified descendant of the artist. c. 1929; Minnie E. Bunnell, Hagerstown, IN, before 1954, until 1956; Edward Eberstadt and Sons, New York, 1957; Edgar W. and Bernice Chrysler Garbisch, New York, 1957-80; bequest to Carnegie Museum of Art, Pittsburgh, PA, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3db4c67-6054-4b88-90f8-e838832c0bcd",
+      "party_type": "Person",
+      "full_name": "Monimia Bunnell Boyd",
+      "cited_name": "Boyd, Monimia Bunnell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1822-01-01",
+      "death_date": "1862-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

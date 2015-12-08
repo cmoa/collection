@@ -1,0 +1,45 @@
+{
+  "title": "Okitimanaia Ogu",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "clove, turmeric, annatto, nylon",
+  "accession_number": "2001.1",
+  "id": "cmoa:things/7c791787-95d1-4b68-8a3b-a15f7ee7aaf7",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2001-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 300.0,
+  "item_height": 240.0,
+  "item_depth": 54.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004185",
+  "provenance_text": "Bonakdar Jancou Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=213&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=156&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31144&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee17336e-4146-4ade-abdc-46cd97f1ab27",
+      "party_type": "Person",
+      "full_name": "Ernesto Neto",
+      "cited_name": "Neto, Ernesto",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Rio de Janeiro (Rio de Janeiro state, Sudeste region, Brazil)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Commemorative plaque (John Paul Jones)",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "bronze",
+  "accession_number": "78.34.27",
+  "id": "cmoa:things/e74cfa2c-9046-4342-acc9-b2d55f00f575",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.188,
+  "item_height": 2.375,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019970",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5248&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5247&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/303fd281-ccfa-4524-8651-790117c65af7",
+      "party_type": "Person",
+      "full_name": "Victor David Brenner",
+      "cited_name": "Brenner, Victor David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": " Kaunas (Kaunas special city, Lithuania)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

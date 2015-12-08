@@ -1,0 +1,39 @@
+{
+  "title": "All Month Rain",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "70.52.4",
+  "id": "cmoa:things/3dfff612-0962-429e-b425-5d3f2d0d1a21",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 82.0,
+  "item_height": 88.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015864",
+  "provenance_text": "Walasse Ting [1929-]. (Lefebre Gallery, New York, NY, by 1970); purchased by Museum, December 1970.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16376&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db62eec6-c405-4a7a-9ac4-a92f88d37788",
+      "party_type": "Person",
+      "full_name": "Walasse Ting",
+      "cited_name": "Ting, Walasse",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": "1929-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Shanghai (Shanghai Shi, China)",
+      "death_place": "New York"
+    }
+  ]
+}

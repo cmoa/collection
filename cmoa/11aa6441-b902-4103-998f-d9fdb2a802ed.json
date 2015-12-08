@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Divine",
+  "creation_date": "c. 1650",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1655-01-01",
+  "medium": "oil on copper and gold frame",
+  "accession_number": "27.10.3",
+  "id": "cmoa:things/11aa6441-b902-4103-998f-d9fdb2a802ed",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 3.25,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005748",
+  "provenance_text": "Henry Symons [1871-1921], London, England; (American Art Association sale, New York, NY, March 18, 1915) [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, March 18, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1927. \nNOTES: [1] Lot 1361, illustrated.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103593&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73229&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

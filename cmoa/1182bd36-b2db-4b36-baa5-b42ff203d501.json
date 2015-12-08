@@ -1,0 +1,45 @@
+{
+  "title": "Box",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "painted enamel",
+  "accession_number": "17.8.6.A-B",
+  "id": "cmoa:things/1182bd36-b2db-4b36-baa5-b42ff203d501",
+  "credit_line": "Gift of Mrs. Albert C. Lehman",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.375,
+  "item_depth": 0.0,
+  "item_diameter": 1.688,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001655",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8395&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8394&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8396&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

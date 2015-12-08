@@ -1,0 +1,54 @@
+{
+  "title": "Actor Nakamura Gunjirô I as Kamiya Jihei",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1505",
+  "id": "cmoa:things/36f975c8-280f-4edb-972d-55236bdde1e9",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.75,
+  "item_height": 16.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027468",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by  Dr. Austin from Perkins Oriental Books, Kyoto, Japan, 1961.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34275&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34276&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b752615-a0b8-4a85-9c62-42b4fc4b93e0",
+      "party_type": "Person",
+      "full_name": "Yoshikawa Kanpo",
+      "cited_name": "Yoshikawa Kanpo",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1894-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Kyoto, Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/82564cf2-913d-42fd-9df6-5a85f218d9ea",
+      "party_type": "Person",
+      "full_name": "Satô Shôtarô",
+      "cited_name": "Satô Shôtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

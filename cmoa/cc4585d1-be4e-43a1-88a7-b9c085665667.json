@@ -1,0 +1,42 @@
+{
+  "title": "On the Trave",
+  "creation_date": "no date",
+  "creation_date_earliest": "1873-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "06.4",
+  "id": "cmoa:things/cc4585d1-be4e-43a1-88a7-b9c085665667",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000245",
+  "provenance_text": "Mrs. Harry Chase, Bayonne, NJ; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84833&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36139&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ad57d42-6898-47f1-acaf-b49ceba873ff",
+      "party_type": "Person",
+      "full_name": "Harry Chase",
+      "cited_name": "Chase, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": " Woodstock (Windsor county, Vermont, United States)",
+      "death_place": " Sewanee (Franklin county, Tennessee, United States)"
+    }
+  ]
+}

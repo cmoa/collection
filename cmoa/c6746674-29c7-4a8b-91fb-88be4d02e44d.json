@@ -1,0 +1,39 @@
+{
+  "title": "House on the Outskirts of Paris",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "69.10",
+  "id": "cmoa:things/c6746674-29c7-4a8b-91fb-88be4d02e44d",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1969-04-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 27.5,
+  "item_height": 22.625,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012525",
+  "provenance_text": "Max Weber, Great Neck, Long Island, NY, purchased from the artist in 1908, until 1961; Mrs. Max Weber, Great Neck, Long Island, NY; Richard L. Feigen & Company, Inc., New York, NY; purchased by Museum, April 1969.\n\nUpdated by CGK\nSeptember 2014",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18860&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/345badf9-5f0e-45a8-a33f-89da10c9f5db",
+      "party_type": "Person",
+      "full_name": "Henri Julien Rousseau",
+      "cited_name": "Rousseau, Henri J.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1844-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "Laval (Mayenne, Pays de la Loire, France)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

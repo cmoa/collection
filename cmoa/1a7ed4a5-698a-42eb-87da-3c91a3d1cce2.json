@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of a Man Holding a Book",
+  "creation_date": "c. 1530",
+  "creation_date_earliest": "1524-12-22",
+  "creation_date_latest": "1534-12-22",
+  "medium": "oil on panel",
+  "accession_number": "64.11.7",
+  "id": "cmoa:things/1a7ed4a5-698a-42eb-87da-3c91a3d1cce2",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 14.25,
+  "item_height": 18.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011733",
+  "provenance_text": "Ralph Bernal [1784-1854], England; his estate sale, Christie & Manson, London, March 13, 1855, no. 933 [1]. Morant, in March 1855 [2]. Sir John Ramsden, Bart., Bulstrode, Gerrards Cross, Bucks. until July 11, 1930 [3]; Christie, Manson & Woods sale, London, July 11, 1930, no. 16 [4]; Tomas Harris, London, England, July 11, 1930 until at least 1933 [4]. Baron Heinrich Thyssen-Bornemisza [1875-1947], Lugano, Switzerland [5]. Howard A. Noble, Pittsburgh, PA by November 1939 until April 30, 1964 [6]; his bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1964. \n\nNotes:\n[1.] Bernal's collection was sold in a series of auctions beginning on March 5, 1855.  This lot was part of the eighth sale on March 13, 1855, as \"School of Georgione\", \"The Chevalier Bayard\";\n[2]. The Frick Photoarchive record for this work states that at the Bernal sale it was \"bought by Morant, for £22.11.6\".\n[3]. It is unclear whether the ownership of the painting involved one or two generations of the Ramsden family, that is Sir John William Ramsden, 5th Baronet [1831-1914] and/or Sir John Frecheville Ramsden, 6th Baronet [1877-1958].  The heading of the relevant section of the 1930 sale reads \"The following are the Property of Sir John Ramsden, Bart., and have been removed from Bulstrode, Gerrards Cross, Bucks.\", suggesting that the owner was living at the time of the sale.\n[4]. \"Pictures by Old Masters\"; illustrated in catalogue, as \"Portrait of a Gentleman\" by Ambrosius Benson. Sold to T. Harris for £462 (see annotated copy of the sale from the Frick Library in curatorial file). The Frick Photoarchive record for this work states that it was with Tomas Harris in 1933.\n[5]. See curatorial file for copy of Frick Photoarchive record for this work. See also catalogue entry no. 16 in \"Exhibition of Paintings from the Collection of Howard A. Noble,\" Department of Fine Arts, Carnegie Institute, 1944.\n[6]. Negative 32932 FARL was made from Bachrach photograph lent by Mr. Noble to the Frick Art Reference Library in 1939. In 1944, the painting hung in the living room of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147227&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147228&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9277ca4a-5895-4b2f-8004-ae57814a13a9",
+      "party_type": "Person",
+      "full_name": "Ambrosius Benson",
+      "cited_name": "Benson, Ambrosius",
+      "role": null,
+      "nationality": "Netherlandish",
+      "birth_date": null,
+      "death_date": "1550-01-01",
+      "birth_place": "Lombardy",
+      "death_place": "Bruges (West-Vlaanderen, Flanders, Belgium)"
+    }
+  ]
+}

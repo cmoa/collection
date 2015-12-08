@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "no date",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "gouache on paper mounted on board",
+  "accession_number": "75.21.1",
+  "id": "cmoa:things/06c7e7b7-29a9-4bc1-b932-c4168a79804c",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1975-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.5,
+  "item_height": 23.875,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017682",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Anthony Arkus, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125048&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd4e28a7-00b2-4a2a-bb99-b7d4322959bc",
+      "party_type": "Person",
+      "full_name": "Sam Francis",
+      "cited_name": "Francis, Sam",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": " San Mateo (San Mateo county, California, United States)",
+      "death_place": " Santa Monica (Los Angeles county, California, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Coat of Arms with a Skull",
+  "creation_date": "1503",
+  "creation_date_earliest": "1502-12-22",
+  "creation_date_latest": "1502-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.117",
+  "id": "cmoa:things/f12f789d-3e6f-49f2-ae4c-a2795d25add6",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 8.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017261",
+  "provenance_text": "Harrach (in pencil verso, J.N.E. Graf Harrach, Vienna 1756-1829).\nCharles J. Rosenbloom (Lugt Suppl. 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51179&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

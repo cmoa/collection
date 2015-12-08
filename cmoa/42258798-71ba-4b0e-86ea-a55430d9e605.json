@@ -1,0 +1,63 @@
+{
+  "title": "Screen",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "recycled aluminum television antennas and aluminum wire",
+  "accession_number": "2004.5.1",
+  "id": "cmoa:things/42258798-71ba-4b0e-86ea-a55430d9e605",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2004-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 112.0,
+  "item_height": 77.0,
+  "item_depth": 33.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3862",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10935&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b043b8-0092-4d39-9edb-5ebd57c3bdca",
+      "party_type": "Person",
+      "full_name": "Fernando Campana",
+      "cited_name": "Campana, Fernando",
+      "role": "designer",
+      "nationality": "Brazilian",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/24f9c8f6-e7d0-4405-ac49-09ec9abfe5a2",
+      "party_type": "Person",
+      "full_name": "Humberto Campana",
+      "cited_name": "Campana, Humberto",
+      "role": "designer",
+      "nationality": "Brazilian",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a122c392-fbb8-44f6-bbee-75728c542b71",
+      "party_type": "Organization",
+      "full_name": "Campana Objetos Itda-ME",
+      "cited_name": "Campana Objetos Itda-ME",
+      "role": "manufacturer",
+      "nationality": "Brazilian",
+      "birth_date": "1984-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

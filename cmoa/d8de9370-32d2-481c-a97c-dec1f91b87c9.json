@@ -1,0 +1,39 @@
+{
+  "title": "Barnyard",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "81.72.1",
+  "id": "cmoa:things/d8de9370-32d2-481c-a97c-dec1f91b87c9",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022037",
+  "provenance_text": "Kennedy Galleries, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100261&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/285d1164-d8fe-492e-99a0-a2f8908efd25",
+      "party_type": "Person",
+      "full_name": "Grace Arnold Albee",
+      "cited_name": "Albee, Grace Arnold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Scituate, RI",
+      "death_place": null
+    }
+  ]
+}

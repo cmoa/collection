@@ -1,0 +1,39 @@
+{
+  "title": "The Honorable Thomas Williams",
+  "creation_date": "1868-1870",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "marble",
+  "accession_number": "31.3",
+  "id": "cmoa:things/e46feae2-afb3-4860-9cb4-50920240fad2",
+  "credit_line": "Bequest of Miss Sarah D. Williams",
+  "date_acquired": "1931-07-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 27.5,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006657",
+  "provenance_text": "Girard Trust Co., Philadelphia",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126419&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e70d859d-445a-467a-b828-913c8594a034",
+      "party_type": "Person",
+      "full_name": "Clark Mills",
+      "cited_name": "Mills, Clark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

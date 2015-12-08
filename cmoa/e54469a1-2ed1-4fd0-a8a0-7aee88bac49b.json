@@ -1,0 +1,39 @@
+{
+  "title": "Commemorative spoon",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "Silver",
+  "accession_number": "74.2",
+  "id": "cmoa:things/e54469a1-2ed1-4fd0-a8a0-7aee88bac49b",
+  "credit_line": "Gift of James M. Bovard",
+  "date_acquired": "1974-02-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016954",
+  "provenance_text": "James M. Bovard,  Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4275&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/840f0c90-1062-4efd-9ea2-fbba160b7008",
+      "party_type": "Organization",
+      "full_name": "Heeren Bros. & Company",
+      "cited_name": "Heeren Bros. & Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

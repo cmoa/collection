@@ -1,0 +1,39 @@
+{
+  "title": "Vancouver Boats I",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "pen/brush and colored ink on paper",
+  "accession_number": "82.53.5",
+  "id": "cmoa:things/dc7738fc-2a5e-4f4a-801a-be8818ab1e1f",
+  "credit_line": "Gift of Mrs. Alfred Bendiner",
+  "date_acquired": "1982-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023008",
+  "provenance_text": "Mrs. Alfred Bendiner, Philadelphia; gift to museum, October 1982",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47105&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f570adcf-6d6d-463a-91a4-1663c637f0e7",
+      "party_type": "Person",
+      "full_name": "Alfred Bendiner",
+      "cited_name": "Bendiner, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Philadelphia, Pennsylvania"
+    }
+  ]
+}

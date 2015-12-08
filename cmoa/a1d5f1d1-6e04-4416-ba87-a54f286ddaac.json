@@ -1,0 +1,42 @@
+{
+  "title": "Fannie Leyland",
+  "creation_date": "c. 1872-1874",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "73.37",
+  "id": "cmoa:things/a1d5f1d1-6e04-4416-ba87-a54f286ddaac",
+  "credit_line": "Gift of George W. Wyckoff in memory of Elizabeth McKay Wyckoff",
+  "date_acquired": "1973-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 19.875,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016723",
+  "provenance_text": "Gift of George W. Wyckoff, 1973.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126482&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

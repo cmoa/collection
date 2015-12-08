@@ -1,0 +1,39 @@
+{
+  "title": "Tropic Skies",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "etching and aquatint on paper",
+  "accession_number": "69.48.127",
+  "id": "cmoa:things/fe0e938c-ea5a-4563-9139-b5ac82a01c16",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012700",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107974&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2bbc6c8-7bcd-45e5-b588-500756468bf4",
+      "party_type": "Person",
+      "full_name": "George Hausdorf",
+      "cited_name": "Hausdorf, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

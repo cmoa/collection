@@ -1,0 +1,49 @@
+{
+  "title": "Armchair",
+  "creation_date": "c. 1928",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "wood, plywood, deal, and tubular steel",
+  "accession_number": "95.58",
+  "id": "cmoa:things/a20dbf2d-0e52-4234-9146-4a704deb8ffc",
+  "credit_line": "Purchase: gift of Baroness Cassel van Doorn, L. Gerald Firth, William Walker II, Mr. S. N. Hlopoff, Roy A. Hunt Foundation, and Edward Stieren, by exchange",
+  "date_acquired": "1995-05-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 24.25,
+  "item_height": 36.0,
+  "item_depth": 23.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035756",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03ac6519-6681-48a1-803b-62f6862d668a",
+      "party_type": "Person",
+      "full_name": "Gerrit Thomas Rietveld",
+      "cited_name": "Rietveld, Gerrit Thomas",
+      "role": "designer",
+      "nationality": "Dutch",
+      "birth_date": "1888-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Utrecht",
+      "death_place": "Utrecht"
+    },
+    {
+      "artist_id": "cmoa:parties/fbf59ee3-21ac-4c86-899f-bd70601c8d67",
+      "party_type": "Person",
+      "full_name": "Gerard van de Groenekan",
+      "cited_name": "Groenekan, Gerard van de",
+      "role": "possible designer",
+      "nationality": "Netherlandish",
+      "birth_date": "1904-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

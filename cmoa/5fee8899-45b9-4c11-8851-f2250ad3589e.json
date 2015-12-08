@@ -1,0 +1,39 @@
+{
+  "title": "Rainy Day (Ame no hi B)",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "woodblock print",
+  "accession_number": "2003.44.1.3",
+  "id": "cmoa:things/5fee8899-45b9-4c11-8851-f2250ad3589e",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5259",
+  "provenance_text": "Mr. and Mrs. William Block",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34002&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6237a4a7-7d61-4aa8-9f7e-b3398a003603",
+      "party_type": "Person",
+      "full_name": "Asano Takeji",
+      "cited_name": "Asano Takeji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1900-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Kyoto",
+      "death_place": null
+    }
+  ]
+}

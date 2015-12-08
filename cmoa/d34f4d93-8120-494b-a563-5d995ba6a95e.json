@@ -1,0 +1,66 @@
+{
+  "title": "The Winter King on the Ice",
+  "creation_date": "1766",
+  "creation_date_earliest": "1766-01-01",
+  "creation_date_latest": "1766-01-01",
+  "medium": "etching in crayon manner and roulette with hand coloring",
+  "accession_number": "49.2.32",
+  "id": "cmoa:things/d34f4d93-8120-494b-a563-5d995ba6a95e",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008565",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104008&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104009&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f31a0d42-0ce1-4935-9cbc-74113e9c9ab0",
+      "party_type": "Person",
+      "full_name": "Hendrick Avercamp",
+      "cited_name": "Avercamp, Hendrick",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1585-01-01",
+      "death_date": "1634-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Kampen (Overijssel, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

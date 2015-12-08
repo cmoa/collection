@@ -1,0 +1,39 @@
+{
+  "title": "Head",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "oil on board",
+  "accession_number": "57.42.6",
+  "id": "cmoa:things/a1bd6008-33ba-4359-bd6b-4046d9690918",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 21.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010584",
+  "provenance_text": "Bernice Abbott, New York; J.B. Neumann, New York; G. David Thompson, Pittsburgh; gift to museum, 1957",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149768&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a6ad224-2132-402d-9cd6-4b511f3fa23d",
+      "party_type": "Person",
+      "full_name": "Alfred Maurer",
+      "cited_name": "Maurer, Alfred H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1868-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

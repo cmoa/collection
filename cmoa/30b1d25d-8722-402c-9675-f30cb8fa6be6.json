@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "optical glass, cut, sandblasted and polished, with paint",
+  "accession_number": "2002.51.34",
+  "id": "cmoa:things/30b1d25d-8722-402c-9675-f30cb8fa6be6",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 16.438,
+  "item_depth": 6.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=407",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26139&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c680690-53a0-4a75-8985-51b32672dba8",
+      "party_type": "Person",
+      "full_name": "Czeslaw Zuber",
+      "cited_name": "Zuber, Czeslaw",
+      "role": null,
+      "nationality": "Polish",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Przybylowice, Poland",
+      "death_place": null
+    }
+  ]
+}

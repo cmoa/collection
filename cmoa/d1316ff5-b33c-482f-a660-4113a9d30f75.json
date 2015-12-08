@@ -1,0 +1,37 @@
+{
+  "title": "Friends",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "61.22",
+  "id": "cmoa:things/d1316ff5-b33c-482f-a660-4113a9d30f75",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1961-09-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011398",
+  "provenance_text": "Galerie Wurthle, Vienna, Austria",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/967448d4-0ac0-40eb-87d7-19abe4c9dced",
+      "party_type": "Person",
+      "full_name": "Egon Schiele",
+      "cited_name": "Schiele, Egon",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1890-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Vienna state, Austria",
+      "death_place": "Vienna, Austria"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Joe with David Harte",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "83.94",
+  "id": "cmoa:things/b8e0fd96-102f-4120-b48c-b7efc916d43b",
+  "credit_line": "Gift of Andre Emmerich Gallery, New York, in memory of Gene Baro",
+  "date_acquired": "1984-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.75,
+  "item_height": 49.375,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024397",
+  "provenance_text": "Andre Emmerich Gallery, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7e26cbc3-d591-4f0f-af60-49397a5751ab",
+      "party_type": "Person",
+      "full_name": "David Hockney",
+      "cited_name": "Hockney, David",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Bedford (Bedfordshire, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

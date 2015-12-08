@@ -1,0 +1,51 @@
+{
+  "title": "Evrard (Philippe) Avocat Au Parlement de Paris",
+  "creation_date": null,
+  "creation_date_earliest": "1660-01-01",
+  "creation_date_latest": "1707-01-01",
+  "medium": "engraving",
+  "accession_number": "49.2.11",
+  "id": "cmoa:things/2434bfe4-82c5-4dc3-8b38-cf5a2560581d",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008495",
+  "provenance_text": "The F. H. Bresler Co.,  Milwaukee, WI; purchased by Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, on October 6, 1924 until January 24, 1949 [1]; his gift to Museum, January 1949.\n\nNotes:\n[1]. Purchased for $60; see copy of invoice in curatorial file.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30fba4e0-6855-40e6-b5cb-4ebe28c54090",
+      "party_type": "Person",
+      "full_name": "Gérard Edelinck",
+      "cited_name": "Edelinck, Gérard",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1640-01-01",
+      "death_date": "1707-01-01",
+      "birth_place": " Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/2f5cdcd7-e6dd-4784-8817-a47d6259a158",
+      "party_type": "Person",
+      "full_name": "Francois Tortebat",
+      "cited_name": "Tortebat, Francois",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1616-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Paris (Île-de-France, France)"
+    }
+  ]
+}

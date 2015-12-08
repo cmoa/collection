@@ -1,0 +1,39 @@
+{
+  "title": "Odalisque Coiffure Verte [Odalisque with Green Headdress]",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.19.2",
+  "id": "cmoa:things/a8e1158a-e24e-4dfa-9f11-191f6b18fdc3",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife",
+  "date_acquired": "1962-07-05",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 23.75,
+  "item_height": 31.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011516",
+  "provenance_text": "Henri Matisse [1869-1954]. M. Paul Guillaume, Paris, France; (M. Knoedler & Comapny, Inc. [1848-2011], New York, NY); purchased by Museum, July 1962 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48846&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da609856-ab28-468f-b694-27e326e084f1",
+      "party_type": "Person",
+      "full_name": "Henri Matisse",
+      "cited_name": "Matisse, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1869-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Le Cateau-Cambrésis (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Nice (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

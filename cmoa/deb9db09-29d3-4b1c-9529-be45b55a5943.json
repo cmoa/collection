@@ -1,0 +1,39 @@
+{
+  "title": "Aluminum-Lead Plain",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "aluminum and lead",
+  "accession_number": "76.56",
+  "id": "cmoa:things/deb9db09-29d3-4b1c-9529-be45b55a5943",
+  "credit_line": "William G. Bechman Charitable Trust in memory of William G. and Beatrice M. Bechman",
+  "date_acquired": "1976-12-09",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 72.0,
+  "item_height": 0.375,
+  "item_depth": 72.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018183",
+  "provenance_text": "Sperone Westwater Fischer, Inc., NYC; Carnegie Museum of Art, Pittsburgh; William G. Bechman Charitable Trust in Memory of William G. and Beatrice M. Bechman",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8047&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29f3ce09-5287-4477-a9ca-86ede3957d5f",
+      "party_type": "Person",
+      "full_name": "Carl Andre",
+      "cited_name": "Andre, Carl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Quincy (Norfolk county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Landscape with Rocky Riverbank",
+  "creation_date": "c. 1653",
+  "creation_date_earliest": "1638-01-01",
+  "creation_date_latest": "1668-01-01",
+  "medium": "etching",
+  "accession_number": "16.21.1",
+  "id": "cmoa:things/9c0463dc-53ac-4911-b947-efa613e35b12",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001115",
+  "provenance_text": "Kennedy & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101797&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/396ba2aa-a5e0-4462-9bde-75a8b5af6ec5",
+      "party_type": "Person",
+      "full_name": "Jan Hackaert",
+      "cited_name": "Hackaert, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1629-01-01",
+      "death_date": "1699-01-01",
+      "birth_place": " Amsterdam (North Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cordes Roses",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2004.24",
+  "id": "cmoa:things/9d62e0dc-f7bd-47c4-b7ef-a91bab492ce6",
+  "credit_line": "Donald and Sylvia Robinson Fund",
+  "date_acquired": "2004-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=10190",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113477&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f1e9631a-cd33-4f33-87fc-fccc7b4727f6",
+      "party_type": "Person",
+      "full_name": "Keith Carter",
+      "cited_name": "Carter, Keith",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

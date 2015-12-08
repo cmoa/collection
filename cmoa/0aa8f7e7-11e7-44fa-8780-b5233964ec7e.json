@@ -1,0 +1,39 @@
+{
+  "title": "Philip IV of Spain",
+  "creation_date": "c. 17th century",
+  "creation_date_earliest": "1597-01-01",
+  "creation_date_latest": "1640-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.11.23",
+  "id": "cmoa:things/0aa8f7e7-11e7-44fa-8780-b5233964ec7e",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 34.0,
+  "item_height": 38.75,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011721",
+  "provenance_text": "possibly W. Stirling Collection; Tomas Harris Ltd., London, 1937; Howard A. Noble, Pittsburgh, PA, by September 17, 1937 until April 30, 1964 [1] [2]; gift to Museum, May 1964.\n\nNotes:\n[1]. See letter from London dealer Tomas Harris, dated Septmber 17, 1937 in curatorial file.\n[2]. In 1944, the painting hung in the dining room of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19014&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": "attributed to",
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

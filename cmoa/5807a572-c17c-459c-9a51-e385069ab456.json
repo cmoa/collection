@@ -1,0 +1,39 @@
+{
+  "title": "Lightbulbs One",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "Acrylic on paper",
+  "accession_number": "2011.67.6",
+  "id": "cmoa:things/5807a572-c17c-459c-9a51-e385069ab456",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 12.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98266",
+  "provenance_text": "Puchased from Mendelson Gallery, 1991",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113840&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3bf25b1-c22b-4753-a67c-d75cad9c1b6a",
+      "party_type": "Person",
+      "full_name": "Lisa Milroy",
+      "cited_name": "Milroy, Lisa",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "Vancouver, Canada",
+      "death_place": null
+    }
+  ]
+}

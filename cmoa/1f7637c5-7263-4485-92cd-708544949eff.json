@@ -1,0 +1,39 @@
+{
+  "title": "Plaque",
+  "creation_date": "1843-1848",
+  "creation_date_earliest": "1843-01-01",
+  "creation_date_latest": "1848-01-01",
+  "medium": "earthenware with transfer-printed decoration",
+  "accession_number": "2009.17",
+  "id": "cmoa:things/1f7637c5-7263-4485-92cd-708544949eff",
+  "credit_line": "Martin Walsh Antiques Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 11.063,
+  "item_height": 12.625,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80014",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80993&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f914d95-2a08-43c7-9474-efbbe619b297",
+      "party_type": "Organization",
+      "full_name": "William Davenport & Company",
+      "cited_name": "William Davenport & Company",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1835-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Silver Streak iron",
+  "creation_date": "c. 1942",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "Pyrex glass, nickeled steel, phenolic plastic resin, and original synthetic fabric cord",
+  "accession_number": "2011.53",
+  "id": "cmoa:things/99788ee9-c42f-4a6d-bb9a-aeb21fbbb486",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2011-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 3.75,
+  "item_height": 8.5,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93730",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1eddf4b-4ba1-45f2-8813-0f730314432c",
+      "party_type": "Organization",
+      "full_name": "Saunders Corporation",
+      "cited_name": "Saunders Corporation",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8eb224e7-dea3-4345-a45e-d490d5a73996",
+      "party_type": "Organization",
+      "full_name": "Corning Glass Works",
+      "cited_name": "Corning Glass Works",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1851-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

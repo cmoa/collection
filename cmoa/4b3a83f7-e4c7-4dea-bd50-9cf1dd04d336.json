@@ -1,0 +1,39 @@
+{
+  "title": "View of Wateringe",
+  "creation_date": "no date",
+  "creation_date_earliest": "1647-01-01",
+  "creation_date_latest": "1692-01-01",
+  "medium": "etching",
+  "accession_number": "16.21.4",
+  "id": "cmoa:things/4b3a83f7-e4c7-4dea-bd50-9cf1dd04d336",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001118",
+  "provenance_text": "Kennedy & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101804&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0eda2e09-637b-4d91-837b-06a3fde0feb5",
+      "party_type": "Person",
+      "full_name": "Roelant Roghman",
+      "cited_name": "Roghman, Roelant",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1627-01-01",
+      "death_date": "1692-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

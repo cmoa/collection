@@ -1,0 +1,39 @@
+{
+  "title": "Untitled.",
+  "creation_date": null,
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "color lithograph",
+  "accession_number": "62.6.1",
+  "id": "cmoa:things/6167f169-4bfe-470d-b77d-6ffc3963a4c8",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1962-02-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011589",
+  "provenance_text": "Henry Moore [1898-1986]. Anonymous donor, Pittsburgh, PA, by February 1962; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, February 1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107941&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28ee2a86-08e3-4812-bdec-abdc7441e068",
+      "party_type": "Person",
+      "full_name": "Henry Moore",
+      "cited_name": "Moore, Henry",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1898-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Castleford (England, United Kingdom)",
+      "death_place": "Much Hadham (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Etaples",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "pencil",
+  "accession_number": "18.24",
+  "id": "cmoa:things/96c43e2c-1a98-4e1f-a751-763d5bf0e54c",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-11-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001760",
+  "provenance_text": "The artist, Charles J. Taylor; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94630&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d2717a4-b166-44e8-8545-7e58c2edacb8",
+      "party_type": "Person",
+      "full_name": "Charles J. Taylor",
+      "cited_name": "Taylor, Charles J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1855-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "New York City (New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

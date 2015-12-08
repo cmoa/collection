@@ -1,0 +1,39 @@
+{
+  "title": "Hall Seat",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "pine and oak",
+  "accession_number": "58.25.120",
+  "id": "cmoa:things/5c50c05d-b38f-4417-8d29-31ed8f7c0d2b",
+  "credit_line": "Gift of Baroness Cassel Van Doorn",
+  "date_acquired": "1958-11-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6713",
+  "provenance_text": "Baroness Cassel Van Doorn",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54455&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

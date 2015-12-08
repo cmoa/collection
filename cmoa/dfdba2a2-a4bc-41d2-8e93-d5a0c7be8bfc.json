@@ -1,0 +1,42 @@
+{
+  "title": "Timber Truck",
+  "creation_date": "c.1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "11.6",
+  "id": "cmoa:things/dfdba2a2-a4bc-41d2-8e93-d5a0c7be8bfc",
+  "credit_line": "Purchase",
+  "date_acquired": "1911-03-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 42.0,
+  "item_height": 57.75,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000593",
+  "provenance_text": "M. Knoedler and Company [1848-2011], New York, by 1911; purchased by Museum, 1911.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126415&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126416&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5729e58-ee59-4abf-8655-c1eac5d4d388",
+      "party_type": "Person",
+      "full_name": "Anton Mauve",
+      "cited_name": "Mauve, Anton",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1838-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": "Zaandam, North Holland, Netherlands",
+      "death_place": "Arnhem, Netherlands"
+    }
+  ]
+}

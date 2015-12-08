@@ -1,0 +1,39 @@
+{
+  "title": "Nail Piece",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "pine board with nails",
+  "accession_number": "94.248.3",
+  "id": "cmoa:things/160ad9f3-d121-407f-aec3-8f8a154dd8a5",
+  "credit_line": "Gift of Charles H. Carpenter, Jr.",
+  "date_acquired": "1995-01-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 82.0,
+  "item_height": 7.0,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035132",
+  "provenance_text": "Gift of Charles H, Carpenter, Jr., New Canaan, CT, 1995.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24548&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/012e9ae2-5e8f-4777-909e-2856c287566e",
+      "party_type": "Person",
+      "full_name": "Jackie Winsor",
+      "cited_name": "Winsor, Jackie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Canada",
+      "death_place": null
+    }
+  ]
+}

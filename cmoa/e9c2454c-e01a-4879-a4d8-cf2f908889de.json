@@ -1,0 +1,42 @@
+{
+  "title": "Abstract Composition",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "color lithograph",
+  "accession_number": "85.80.15",
+  "id": "cmoa:things/e9c2454c-e01a-4879-a4d8-cf2f908889de",
+  "credit_line": "Gift of Irene Pasinski",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025793",
+  "provenance_text": "Irene Pasinski, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103232&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63855&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00a3a4a1-f2f3-48b6-adc6-e36267d39752",
+      "party_type": "Person",
+      "full_name": "Joan Miró",
+      "cited_name": "Miró, Joan",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1893-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Barcelona (Barcelona province, Catalonia, Spain)",
+      "death_place": "Palma de Mallorca (Illes Balears province, Comunidad Autónoma de las Islas Baleares, Spain)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Farallon Island",
+  "creation_date": "1887",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "73.13",
+  "id": "cmoa:things/11e4cb25-0960-4ca8-b9f6-bd1fbf192a59",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1973-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 52.375,
+  "item_height": 34.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016627",
+  "provenance_text": "Brainard H. Warner [1847-1916], Washington, DC, 1888?; Mary Warner Cooke, his daughter, Washington, DC, 1916; Virginia Parker Cooke Woodward and Mary Warner Cooke Jones, her daughters, Washington, DC, 1970; (sold at Sotheby Parke Bernet, 1973, no. 3498); purchased by Museum, 1973.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10339&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1a5f21c-3d3a-494e-a474-e3196906d4c5",
+      "party_type": "Person",
+      "full_name": "Albert Bierstadt",
+      "cited_name": "Bierstadt, Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": "Solingen (Düsseldorf district, North Rhine-Westphalia, Germany)",
+      "death_place": "Irving (Chautauqua county, New York state, United States)"
+    }
+  ]
+}

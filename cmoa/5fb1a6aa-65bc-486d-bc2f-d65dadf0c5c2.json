@@ -1,0 +1,51 @@
+{
+  "title": "Decanter",
+  "creation_date": "1820-1840",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "blown and cut glass",
+  "accession_number": "50.2.1.A-B",
+  "id": "cmoa:things/5fb1a6aa-65bc-486d-bc2f-d65dadf0c5c2",
+  "credit_line": "Gift of Mr. and Mrs. J. Robert Rodgers",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.0,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008840",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1670&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b591431-d364-4d0c-9bc1-0bf94e6b67ad",
+      "party_type": "Organization",
+      "full_name": "Bakewell",
+      "cited_name": "Bakewell",
+      "role": "attributed manufacturer",
+      "nationality": "American",
+      "birth_date": "1808-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "first half of the 18th century",
+  "creation_date_earliest": "1723-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "porcelain",
+  "accession_number": "25.1.25",
+  "id": "cmoa:things/a58a55a9-f094-481f-acd1-0d2bf6602836",
+  "credit_line": "Gift of Charles D. Armstrong",
+  "date_acquired": "1925-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.125,
+  "item_height": 19.5,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005194",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1183&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f87d6380-2f2a-48b3-8107-c605d06d40d3",
+      "party_type": "Person",
+      "full_name": "Yung Cheng",
+      "cited_name": "Yung Cheng",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": "1723-01-01",
+      "death_date": "1735-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

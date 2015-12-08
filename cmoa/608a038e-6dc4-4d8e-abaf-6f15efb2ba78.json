@@ -1,0 +1,39 @@
+{
+  "title": "Feeder, Invalid",
+  "creation_date": "1721-1722",
+  "creation_date_earliest": "1721-01-01",
+  "creation_date_latest": "1722-01-01",
+  "medium": "silver, britannia standard",
+  "accession_number": "27.10.1024",
+  "id": "cmoa:things/608a038e-6dc4-4d8e-abaf-6f15efb2ba78",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.25,
+  "item_height": 1.125,
+  "item_depth": 2.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005530",
+  "provenance_text": "Olive [-1925], Lady Ardilaun, St. Anne's Park, Clontarf, Ireland. Purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4817&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cb549f60-63bb-4b1a-8fe2-6132278cd286",
+      "party_type": "Person",
+      "full_name": "unknown English, London",
+      "cited_name": "unknown English, London",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

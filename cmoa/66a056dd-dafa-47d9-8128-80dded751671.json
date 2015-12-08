@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "69.2",
+  "id": "cmoa:things/66a056dd-dafa-47d9-8128-80dded751671",
+  "credit_line": "Gift of Mr. and Mrs. Arthur J. Kobacker",
+  "date_acquired": "1969-02-18",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 39.375,
+  "item_height": 31.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012553",
+  "provenance_text": "Gift of Mr. and Mrs. Arthur J. Kobacker, Steubenville, Ohio, 1969.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32752&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89a0f678-b6d8-4f41-8748-e69a2b7515b7",
+      "party_type": "Person",
+      "full_name": "Roberto Matta",
+      "cited_name": "Matta, Roberto",
+      "role": null,
+      "nationality": "Chilean",
+      "birth_date": "1911-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Santiago, Región Metropolitana de (Chile)",
+      "death_place": "Civitavecchia (Roma province, Lazio, Italy)"
+    }
+  ]
+}

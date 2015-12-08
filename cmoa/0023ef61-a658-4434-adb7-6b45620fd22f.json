@@ -1,0 +1,42 @@
+{
+  "title": "Chair",
+  "creation_date": null,
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "etching",
+  "accession_number": "42.11.15",
+  "id": "cmoa:things/0023ef61-a658-4434-adb7-6b45620fd22f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007301",
+  "provenance_text": "The Weyhe Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100490&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100489&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/885b2b1c-a9ae-4d64-8a33-8bfcb1a29b02",
+      "party_type": "Person",
+      "full_name": "Karnig Nalbandian",
+      "cited_name": "Nalbandian, Karnig",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Providence (Providence county, Rhode Island, United States)",
+      "death_place": null
+    }
+  ]
+}

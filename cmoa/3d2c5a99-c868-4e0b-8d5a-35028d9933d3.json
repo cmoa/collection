@@ -1,0 +1,48 @@
+{
+  "title": "Sterling Eclipsed",
+  "creation_date": "1999",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "glass, with copper and silver",
+  "accession_number": "2011.26.A-.B",
+  "id": "cmoa:things/3d2c5a99-c868-4e0b-8d5a-35028d9933d3",
+  "credit_line": "Gift of Deena and Jerome Kaplan",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 10.0,
+  "item_depth": 9.25,
+  "item_diameter": 7.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92029",
+  "provenance_text": "sold by Galerie Van Bartha, Zurich, Switzerland to Mr. & Mrs. Meijer (Therwil, Switzerland)\nsold to Barry Friedman ltd. from the Meijer's in 2000\nCollection of Deena and Jerome Kaplan, Bethesda, MD 2001 - 2011",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117903&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117904&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117905&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6ef745f-b4ea-413f-8346-a3ff992843da",
+      "party_type": "Person",
+      "full_name": "Michael Glancy",
+      "cited_name": "Glancy, Michael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "USA, Michigan, Detroit",
+      "death_place": null
+    }
+  ]
+}

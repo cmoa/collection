@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "c. 1755",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "porcelain with enamel decoration",
+  "accession_number": "70.32.1935.A-B",
+  "id": "cmoa:things/d7758167-886a-46ad-adbc-aa2c7b00169d",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.125,
+  "item_height": 4.125,
+  "item_depth": 3.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014099",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1333&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38e5b02d-043f-4256-b462-b8b639bf39e0",
+      "party_type": "Organization",
+      "full_name": "Chelsea Porcelain Factory",
+      "cited_name": "Chelsea Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1745-01-01",
+      "death_date": "1769-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

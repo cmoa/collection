@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh",
+  "creation_date": "1979-1980",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.9.2",
+  "id": "cmoa:things/e040c00d-44ef-406a-b319-26e7d943ffbc",
+  "credit_line": "Greenwald Photograph Fund",
+  "date_acquired": "1983-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 11.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024388",
+  "provenance_text": "Zabriskie Gallery, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101315&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5100acf7-7783-4334-8000-8e0fde5210ad",
+      "party_type": "Person",
+      "full_name": "Lee Friedlander",
+      "cited_name": "Friedlander, Lee",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Aberdeen (Grays Harbor county, Washington, United States)",
+      "death_place": null
+    }
+  ]
+}

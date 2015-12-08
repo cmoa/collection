@@ -1,0 +1,42 @@
+{
+  "title": "A Portrait of the Artist's Mother",
+  "creation_date": "c. 1889",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "soft ground etching, with color aquatint and hand-coloring on paper",
+  "accession_number": "14.11",
+  "id": "cmoa:things/ad542a48-98bd-4f03-84cf-152a7a2fa26f",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 9.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000933",
+  "provenance_text": "Frederick Keppel & Company, Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23055&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73016&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25d883f-0641-4500-b258-37d6bafc568b",
+      "party_type": "Person",
+      "full_name": "Mary Cassatt",
+      "cited_name": "Cassatt, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-05-22",
+      "death_date": "1926-06-14",
+      "birth_place": "Pittsburgh (Allegheny City), PA",
+      "death_place": "Le Mesnil-Théribus, France"
+    }
+  ]
+}

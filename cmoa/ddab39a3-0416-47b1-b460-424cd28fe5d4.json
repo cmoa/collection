@@ -1,0 +1,54 @@
+{
+  "title": "Francesco Bartolozzi, Engraver, R.A.",
+  "creation_date": "1803",
+  "creation_date_earliest": "1803-01-01",
+  "creation_date_latest": "1803-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "21.1",
+  "id": "cmoa:things/ddab39a3-0416-47b1-b460-424cd28fe5d4",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1921-01-31",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.188,
+  "item_height": 20.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004620",
+  "provenance_text": "Mr. Herbert Dupuy",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104300&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104301&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a0ae5e7a-430e-4b04-a2a9-f41ee26127c1",
+      "party_type": "Person",
+      "full_name": "William Artaud",
+      "cited_name": "Artaud, William",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1776-01-01",
+      "death_date": "1822-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/b6ac28d6-4a59-4a77-95c3-93645ce8f8b2",
+      "party_type": "Collaboration",
+      "full_name": null,
+      "cited_name": null,
+      "role": null,
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

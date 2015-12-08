@@ -1,0 +1,39 @@
+{
+  "title": "Dresser",
+  "creation_date": "15th century",
+  "creation_date_earliest": "1399-12-24",
+  "creation_date_latest": "1498-12-23",
+  "medium": "oak",
+  "accession_number": "58.25.109",
+  "id": "cmoa:things/4fc4ca17-0657-4e70-952d-86accd1a6bef",
+  "credit_line": "Gift of Baroness Cassel Van Doorn",
+  "date_acquired": "1958-11-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 62.0,
+  "item_height": 68.375,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010701",
+  "provenance_text": "Baroness Cassel Van Doorn",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

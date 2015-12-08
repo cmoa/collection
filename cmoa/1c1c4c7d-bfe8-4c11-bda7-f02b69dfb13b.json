@@ -1,0 +1,39 @@
+{
+  "title": "Imperial Numechron clock",
+  "creation_date": "c. 1944",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "Tenite plastic, electrical cord",
+  "accession_number": "2015.13",
+  "id": "cmoa:things/1c1c4c7d-bfe8-4c11-bda7-f02b69dfb13b",
+  "credit_line": "Richard L. Simmons Acquisition Fund",
+  "date_acquired": "2015-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Charity Randall Gallery",
+  "item_width": 10.375,
+  "item_height": 4.25,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107080",
+  "provenance_text": "Decollect, Port Hope, Ontario, Canada; museum purchase, Dec. 29, 2014",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148519&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3bfa42d3-e1e4-472f-9786-018aa7b5525c",
+      "party_type": "Organization",
+      "full_name": "Pennwood Company",
+      "cited_name": "Pennwood Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

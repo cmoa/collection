@@ -1,0 +1,39 @@
+{
+  "title": "Ewer",
+  "creation_date": "618-907",
+  "creation_date_earliest": "0617-12-29",
+  "creation_date_latest": "0906-12-27",
+  "medium": "earthenware",
+  "accession_number": "73.48.35",
+  "id": "cmoa:things/c9e4a4a9-5c06-4d84-8b05-88f5d5d51032",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.687,
+  "item_height": 8.5,
+  "item_depth": 4.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016775",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43f19808-542f-46e2-9222-57f21bf56883",
+      "party_type": "Person",
+      "full_name": "unknown Chinese, Shanglinhu",
+      "cited_name": "unknown Chinese, Shanglinhu",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

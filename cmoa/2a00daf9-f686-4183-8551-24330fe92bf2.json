@@ -1,0 +1,51 @@
+{
+  "title": "Hanshin Park in Autumn (Shûshoku no Hanshin paaku)",
+  "creation_date": "May 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.13",
+  "id": "cmoa:things/2a00daf9-f686-4183-8551-24330fe92bf2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028744",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from C. H. Mitchell, Tokyo, Japan, 1970's.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37914&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/67f1ea46-1ae1-4aed-bca5-a40050d5579d",
+      "party_type": "Person",
+      "full_name": "Kitamura Imazo",
+      "cited_name": "Kitamura Imazo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1920-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

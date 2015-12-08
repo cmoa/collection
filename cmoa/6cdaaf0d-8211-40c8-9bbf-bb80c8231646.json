@@ -1,0 +1,51 @@
+{
+  "title": "The Temptation of Saint Christopher",
+  "creation_date": "1561",
+  "creation_date_earliest": "1560-12-22",
+  "creation_date_latest": "1560-12-22",
+  "medium": "engraving and etching on paper",
+  "accession_number": "74.7.47",
+  "id": "cmoa:things/6cdaaf0d-8211-40c8-9bbf-bb80c8231646",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017525",
+  "provenance_text": "Charles J. Rosenbloom, Lugt Suppl. 633b, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72712&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d27e00f7-b9a2-4b7b-8064-36a78426a5bf",
+      "party_type": "Organization",
+      "full_name": "Jan and Lucas van Doetechum",
+      "cited_name": "Doetechum, Jan and Lucas van",
+      "role": "engraver",
+      "nationality": "Dutch",
+      "birth_date": "1525-01-01",
+      "death_date": "1584-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e69302ed-67eb-4812-a246-456f4aa05ff7",
+      "party_type": "Person",
+      "full_name": "Hieronymous Bosch",
+      "cited_name": "Bosch, Hieronymous",
+      "role": "after",
+      "nationality": "Netherlandish",
+      "birth_date": "1450-01-01",
+      "death_date": "1516-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

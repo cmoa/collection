@@ -1,0 +1,39 @@
+{
+  "title": "Arching Elms",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.104",
+  "id": "cmoa:things/96ce77fa-1aa3-49dd-add4-d31049adf03c",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012675",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105066&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1dc0f063-d1dc-439b-880d-789b519398b1",
+      "party_type": "Person",
+      "full_name": "Gordon Grant",
+      "cited_name": "Grant, Gordon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1875-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "San Francisco (San Francisco county, California, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

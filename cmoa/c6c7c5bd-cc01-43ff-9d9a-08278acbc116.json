@@ -1,0 +1,39 @@
+{
+  "title": "Green Thought",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "acrylic resin on canvas",
+  "accession_number": "95.15",
+  "id": "cmoa:things/c6c7c5bd-cc01-43ff-9d9a-08278acbc116",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund and gift of Marcella Louis Brenner",
+  "date_acquired": "1995-03-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 134.625,
+  "item_height": 91.25,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035616",
+  "provenance_text": "Andre Emmerich Gallery, New York City, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10316&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8cbd7dcd-aa54-4aab-8484-c4f1af954059",
+      "party_type": "Person",
+      "full_name": "Morris Louis",
+      "cited_name": "Louis, Morris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Baltimore, Maryland",
+      "death_place": "Washington, D.C."
+    }
+  ]
+}

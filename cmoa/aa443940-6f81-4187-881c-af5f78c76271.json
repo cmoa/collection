@@ -1,0 +1,39 @@
+{
+  "title": "Spade Form",
+  "creation_date": "c. 1970",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "stoneware with a textured buff glaze and incised lines",
+  "accession_number": "1998.59",
+  "id": "cmoa:things/aa443940-6f81-4187-881c-af5f78c76271",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 6.5,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003795",
+  "provenance_text": "John Driscoll, Babcock Galleries, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11952&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9cf4d204-62b1-46c2-b39f-b85936c40d0d",
+      "party_type": "Person",
+      "full_name": "Hans Coper",
+      "cited_name": "Coper, Hans",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1920-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": " Chemnitz (Chemnitz district, Saxony, Germany)",
+      "death_place": " Frome (Somerset, England, United Kingdom)"
+    }
+  ]
+}

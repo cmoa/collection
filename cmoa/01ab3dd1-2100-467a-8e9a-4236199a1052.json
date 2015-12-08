@@ -1,0 +1,37 @@
+{
+  "title": "Table from the installation: offerings",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "steel",
+  "accession_number": "92.87",
+  "id": "cmoa:things/01ab3dd1-2100-467a-8e9a-4236199a1052",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1992-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 50.0,
+  "item_height": 53.625,
+  "item_depth": 29.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032712",
+  "provenance_text": "Ann Hamilton, Columbus, OH",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e92d744-4eb4-4792-b5c4-6fd2dc4039ef",
+      "party_type": "Person",
+      "full_name": "Ann Hamilton",
+      "cited_name": "Hamilton, Ann",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": "Lima, Ohio, USA",
+      "death_place": null
+    }
+  ]
+}

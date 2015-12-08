@@ -1,0 +1,45 @@
+{
+  "title": "Rocks at the Seashore (Rochers au bord de la mer)",
+  "creation_date": "1865-1866",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1866-01-01",
+  "medium": "oil possibly on board mounted on canvas",
+  "accession_number": "66.3",
+  "id": "cmoa:things/51f45552-6505-48fb-b6c2-326b727aeca7",
+  "credit_line": "Gift of Sam Salz",
+  "date_acquired": "1966-04-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 21.5,
+  "item_height": 17.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012265",
+  "provenance_text": "Paul Cézanne [1839-1906], France. (Possibly Galeries Durand-Ruel, Paris, France) [1]; Ambroise Vollard, Paris, France; (Sam Salz, Inc., New York, NY); gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, April 1966 [2]. \nNOTES:1. Photograph number 19 194. 2. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104560&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129331&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129332&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3273d5ed-4842-4910-86a1-b60d760329dc",
+      "party_type": "Person",
+      "full_name": "Paul Cézanne",
+      "cited_name": "Cézanne, Paul",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1839-01-19",
+      "death_date": "1906-10-23",
+      "birth_place": "Aix-en-Provence, France",
+      "death_place": "Aix-en-Provence, France"
+    }
+  ]
+}

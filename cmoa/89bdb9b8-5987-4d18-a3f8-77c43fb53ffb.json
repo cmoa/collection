@@ -1,0 +1,51 @@
+{
+  "title": "Winter Landscape by Night at Shiga Heights (Shiga kôgen yoruyuki)",
+  "creation_date": "December 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.24",
+  "id": "cmoa:things/89bdb9b8-5987-4d18-a3f8-77c43fb53ffb",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028756",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35809&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d811d8ed-9987-4267-ba83-ba0cf72b3a7d",
+      "party_type": "Person",
+      "full_name": "Kobayashi Asaji",
+      "cited_name": "Kobayashi Asaji",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1898-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

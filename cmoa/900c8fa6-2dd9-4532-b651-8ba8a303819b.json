@@ -1,0 +1,45 @@
+{
+  "title": "Creamer and stand",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "silver",
+  "accession_number": "1996.53.2.A-B",
+  "id": "cmoa:things/900c8fa6-2dd9-4532-b651-8ba8a303819b",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002164",
+  "provenance_text": "Spencer Marks, East Walpole, MA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4448&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4449&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4447&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

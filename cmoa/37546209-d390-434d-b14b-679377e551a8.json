@@ -1,0 +1,39 @@
+{
+  "title": "Rine Jane, the artist's daughter",
+  "creation_date": "c. 1915",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "Bronze",
+  "accession_number": "78.34.22",
+  "id": "cmoa:things/37546209-d390-434d-b14b-679377e551a8",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 9.0,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019965",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5221&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0cd5defc-ac0e-4cba-846d-da865a416c23",
+      "party_type": "Person",
+      "full_name": "Adolph A. Weinman",
+      "cited_name": "Weinman, Adolph A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Karlsruhe (Karlsruhe district, Baden-Württemberg, Germany)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lamp",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "glass with enamel and gilded decoration",
+  "accession_number": "2008.78",
+  "id": "cmoa:things/2d7efd86-1920-462c-be15-39167f92d730",
+  "credit_line": "Martha Mack Lewis Fund and Second Century Acquisition Fund",
+  "date_acquired": "2008-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 9.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=76870",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96380&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156cdba0-b8fa-41ad-8c83-5ad9a9d6d712",
+      "party_type": "Person",
+      "full_name": "Philippe-Joseph Brocard",
+      "cited_name": "Brocard, Philippe-Joseph",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1865-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

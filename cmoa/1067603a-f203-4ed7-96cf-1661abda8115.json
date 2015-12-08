@@ -1,0 +1,39 @@
+{
+  "title": "Candelabrum",
+  "creation_date": "1762-1763",
+  "creation_date_earliest": "1762-01-01",
+  "creation_date_latest": "1763-01-01",
+  "medium": "silver",
+  "accession_number": "48.1.3.A-D",
+  "id": "cmoa:things/1067603a-f203-4ed7-96cf-1661abda8115",
+  "credit_line": "Gift of Eleanore E. Stoney and Mary L. Edwards",
+  "date_acquired": "1948-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.938,
+  "item_height": 15.875,
+  "item_depth": 5.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008163",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5178&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/81cafd66-90f7-485c-8eee-e0682b998baa",
+      "party_type": "Person",
+      "full_name": "William Tuite",
+      "cited_name": "Tuite, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1765-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

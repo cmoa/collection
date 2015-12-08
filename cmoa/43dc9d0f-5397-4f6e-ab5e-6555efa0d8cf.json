@@ -1,0 +1,39 @@
+{
+  "title": "(Event: University of Pittsburgh Students Getting Military Instruction)",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.62.76",
+  "id": "cmoa:things/43dc9d0f-5397-4f6e-ab5e-6555efa0d8cf",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.063,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025037",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12652&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b091b4b4-a1d2-457f-9de2-0729f63dc2b7",
+      "party_type": "Person",
+      "full_name": "Frank E. Bingaman",
+      "cited_name": "Bingaman, Frank E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1875-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

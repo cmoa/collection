@@ -1,0 +1,39 @@
+{
+  "title": "Workers Leaving Mill",
+  "creation_date": "c. 1956",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.6.23",
+  "id": "cmoa:things/db6fa7f2-b7ef-4de7-9e1a-8fa260e283f9",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023900",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134393&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e83d8f4d-f997-45e9-a4e9-c1a868f0cb2f",
+      "party_type": "Person",
+      "full_name": "Margaret Bourke-White",
+      "cited_name": "Bourke-White, Margaret",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Stamford (Fairfield county, Connecticut, United States)"
+    }
+  ]
+}

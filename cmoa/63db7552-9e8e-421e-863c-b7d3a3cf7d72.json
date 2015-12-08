@@ -1,0 +1,39 @@
+{
+  "title": "Mother and Child",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "platinum print",
+  "accession_number": "2007.51.70",
+  "id": "cmoa:things/63db7552-9e8e-421e-863c-b7d3a3cf7d72",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.75,
+  "item_height": 7.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49065",
+  "provenance_text": "Christie's New York (10/13/92)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55956&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/722c2477-97bd-449f-94f6-dcf413bc6b68",
+      "party_type": "Person",
+      "full_name": "Dr. Charles Peabody",
+      "cited_name": "Peabody, Dr. Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

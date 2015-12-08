@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of Martin B. Leisser",
+  "creation_date": null,
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "etching",
+  "accession_number": "56.23.1",
+  "id": "cmoa:things/15818f0e-4a0e-4d4f-9621-c48998576fe2",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1956-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009676",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100966&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100967&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/defb04cd-26f3-48f7-888e-e4f2099f9137",
+      "party_type": "Person",
+      "full_name": "Louise Miller Boyer",
+      "cited_name": "Boyer, Louise M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

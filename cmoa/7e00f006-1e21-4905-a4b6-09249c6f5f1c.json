@@ -1,0 +1,39 @@
+{
+  "title": "Untitled, Laundry",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2007.51.62",
+  "id": "cmoa:things/7e00f006-1e21-4905-a4b6-09249c6f5f1c",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 15.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49048",
+  "provenance_text": "Grapestake Gallery (4/24/81)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a4a1dc9-ab9f-4f7d-b72a-c59d8e40ed77",
+      "party_type": "Person",
+      "full_name": "Joel Meyerowitz",
+      "cited_name": "Meyerowitz, Joel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

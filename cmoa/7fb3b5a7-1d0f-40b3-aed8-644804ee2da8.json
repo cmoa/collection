@@ -1,0 +1,45 @@
+{
+  "title": "Forest Scene",
+  "creation_date": "mid-19th century",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "52.21.1",
+  "id": "cmoa:things/7fb3b5a7-1d0f-40b3-aed8-644804ee2da8",
+  "credit_line": "Bequest of Henry Lee Mason, Jr.",
+  "date_acquired": "1952-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 13.25,
+  "item_height": 18.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009079",
+  "provenance_text": "Henry Lee Mason, Jr., Pittsburgh; bequest to Museum, February 1952.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101301&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101366&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115373&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/470d6db5-1ffb-46ba-b826-370d3fea64b8",
+      "party_type": "Person",
+      "full_name": "Narcisse Virgile Diaz De La Peña",
+      "cited_name": "Diaz De La Peña, Narcisse V.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1807-01-01",
+      "death_date": "1876-01-01",
+      "birth_place": " Bordeaux (Gironde, Aquitaine, France)",
+      "death_place": " Menton (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

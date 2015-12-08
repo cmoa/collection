@@ -1,0 +1,49 @@
+{
+  "title": "Wine glass",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.162",
+  "id": "cmoa:things/4cb3476d-b87f-497b-b5b0-c72a8b7afde9",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.875,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007781",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/732ae7fe-a9eb-40b2-87ff-e8628dce04c7",
+      "party_type": "Organization",
+      "full_name": "McKee and Brothers",
+      "cited_name": "McKee and Brothers",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": "1829-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0d5591a6-212d-4750-9f3d-c7b8e1a03f92",
+      "party_type": "Organization",
+      "full_name": "Boston & Sandwich Glass Co.",
+      "cited_name": "Boston & Sandwich Glass Co.",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": "1823-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

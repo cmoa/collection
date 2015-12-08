@@ -1,0 +1,48 @@
+{
+  "title": "Transit Chair",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "reused aluminum traffic signs",
+  "accession_number": "1997.39.1.2",
+  "id": "cmoa:things/a0b19990-864c-4180-ac9d-017341e72aff",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 16.0,
+  "item_height": 48.0,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003313",
+  "provenance_text": "Boris Bally, Pawtucket, RI",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98325&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55054&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96492&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96499&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11d897b5-6bb2-4881-a9dd-f2f1372c9f46",
+      "party_type": "Person",
+      "full_name": "Boris Bally",
+      "cited_name": "Bally, Boris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

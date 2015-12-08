@@ -1,0 +1,42 @@
+{
+  "title": "Centerpiece",
+  "creation_date": "1909-1910",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "silver plate and glass with enamel decoration",
+  "accession_number": "2014.59.A-.C",
+  "id": "cmoa:things/0258d123-af5d-4ae3-9f2a-b6593b2d38e6",
+  "credit_line": "Gift of Mr. and Mrs. Alexander C. Speyer III",
+  "date_acquired": "2014-10-30",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 12.375,
+  "item_depth": 0.0,
+  "item_diameter": 9.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=105463",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132872&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132871&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e30c7851-9b61-4a6c-84c6-d46f2926c86a",
+      "party_type": "Organization",
+      "full_name": "Württembergische Metallwarenfabrik",
+      "cited_name": "Württembergische Metallwarenfabrik",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1853-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

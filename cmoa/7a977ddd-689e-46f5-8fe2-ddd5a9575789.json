@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "vellum glazed stoneware",
+  "accession_number": "81.125.4",
+  "id": "cmoa:things/7a977ddd-689e-46f5-8fe2-ddd5a9575789",
+  "credit_line": "Gift of Robert Klein",
+  "date_acquired": "1982-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 4.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021610",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3490&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad3c7c2a-362f-43c1-b1b9-a28a855b7c0b",
+      "party_type": "Person",
+      "full_name": "Edward Timothy  Hurley",
+      "cited_name": "Hurley, Edward  T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

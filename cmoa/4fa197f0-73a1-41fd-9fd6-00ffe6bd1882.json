@@ -1,0 +1,42 @@
+{
+  "title": "Punch pot",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.29.A-B",
+  "id": "cmoa:things/4fa197f0-73a1-41fd-9fd6-00ffe6bd1882",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 13.375,
+  "item_height": 8.25,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023471",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97864&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=646&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dc1ed1a6-270e-4129-92be-f07548236159",
+      "party_type": "Organization",
+      "full_name": "Turner & Company",
+      "cited_name": "Turner & Company",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": "1770-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

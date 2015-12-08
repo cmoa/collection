@@ -1,0 +1,39 @@
+{
+  "title": "Lorna I",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "digital ink jet print on kozo paper",
+  "accession_number": "1997.1",
+  "id": "cmoa:things/f2a3d464-4eef-415c-84cd-542c29a5e4ab",
+  "credit_line": "Purchase, Milton Fine Fund",
+  "date_acquired": "1997-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 48.0,
+  "item_depth": 1.437,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003040",
+  "provenance_text": "Pace Wildenstein MacGill, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36d440c0-c581-426a-8413-4de66d9dfd91",
+      "party_type": "Person",
+      "full_name": "Chuck Close",
+      "cited_name": "Close, Chuck",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Monroe (Snohomish County, Washington, United States)",
+      "death_place": null
+    }
+  ]
+}

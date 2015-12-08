@@ -1,0 +1,49 @@
+{
+  "title": "Superlight chair",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "aluminum, plastic, foam",
+  "accession_number": "2004.51",
+  "id": "cmoa:things/ec74b917-915b-4eac-b32a-db4d58cad4d6",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 32.0,
+  "item_depth": 25.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12396",
+  "provenance_text": "Purchased directly from Design Within Reach, part of the first 500 limited edition chairs.",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c1023d5-e381-411f-bc5a-4c1c90ab7448",
+      "party_type": "Person",
+      "full_name": "Frank Gehry",
+      "cited_name": "Gehry, Frank",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Toronto, Canada",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/672d3a74-474d-4432-a62d-75ceefb5fac5",
+      "party_type": "Organization",
+      "full_name": "Emeco",
+      "cited_name": "Emeco",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

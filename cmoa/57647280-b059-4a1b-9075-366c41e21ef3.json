@@ -1,0 +1,42 @@
+{
+  "title": "The Swimmers",
+  "creation_date": "1910-1912",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.54.5",
+  "id": "cmoa:things/57647280-b059-4a1b-9075-366c41e21ef3",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 62.5,
+  "item_height": 42.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009518",
+  "provenance_text": "Private Collection, Japan; (Rose Fried Gallery, New York, 1955); G. David Thompson, Pittsburgh, by 1955; gift to Museum, December 1955.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8030&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56852&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbcdf41e-10e4-412d-a172-cb5c0c4a4fdb",
+      "party_type": "Person",
+      "full_name": "Carlo Carrà",
+      "cited_name": "Carrà, Carlo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1881-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": " Alessandria (Alessandria province, Piedmont, Italy)",
+      "death_place": " Milan (Milano province, Lombardy, Italy)"
+    }
+  ]
+}

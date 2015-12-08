@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Syncline)",
+  "creation_date": " 1980",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "etching",
+  "accession_number": "2012.46.2",
+  "id": "cmoa:things/d6b57552-84e5-4735-a266-2edd663a6808",
+  "credit_line": "Gift of Dr. and Mrs. Nathan Stockhamer",
+  "date_acquired": "2012-12-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.75,
+  "item_height": 30.25,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=99572",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119715&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e68bc81-0aaf-4422-bf8f-18a3ae0a82b5",
+      "party_type": "Person",
+      "full_name": "Mel Bochner",
+      "cited_name": "Bochner, Mel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

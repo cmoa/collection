@@ -1,0 +1,51 @@
+{
+  "title": "Wine glass",
+  "creation_date": "c. 1934",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "glass",
+  "accession_number": "94.251.1.1",
+  "id": "cmoa:things/c5b17427-df5c-4ac6-a013-7ca57d1a4d32",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1995-01-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.125,
+  "item_depth": 0.0,
+  "item_diameter": 4.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035138",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1550&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/77920a41-69ab-4f13-9f37-27b503028548",
+      "party_type": "Person",
+      "full_name": "Frederick Carder",
+      "cited_name": "Carder, Frederick",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "England",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c54109aa-6ab3-41bd-97b2-17d54fbdfdf2",
+      "party_type": "Organization",
+      "full_name": "Steuben Glass Works",
+      "cited_name": "Steuben Glass Works",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

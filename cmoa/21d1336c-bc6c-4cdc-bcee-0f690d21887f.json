@@ -1,0 +1,39 @@
+{
+  "title": "Ruby Horn Form",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "glass",
+  "accession_number": "92.91",
+  "id": "cmoa:things/21d1336c-bc6c-4cdc-bcee-0f690d21887f",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032719",
+  "provenance_text": "Kathleen Mulcahy, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3783&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3f1c87a-06f6-466f-b019-26b3982ca623",
+      "party_type": "Person",
+      "full_name": "Kathleen Mulcahy",
+      "cited_name": "Mulcahy, Kathleen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Newark, NJ",
+      "death_place": null
+    }
+  ]
+}

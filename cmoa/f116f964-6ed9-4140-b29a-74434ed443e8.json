@@ -1,0 +1,39 @@
+{
+  "title": "Fraktur, Maker's Sample (Birth and Baptismal Certificate)",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "Paper",
+  "accession_number": "67.9.13",
+  "id": "cmoa:things/f116f964-6ed9-4140-b29a-74434ed443e8",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1967-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.25,
+  "item_height": 15.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012366",
+  "provenance_text": "Robert Carlen, PA, Philadelphia",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7471&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

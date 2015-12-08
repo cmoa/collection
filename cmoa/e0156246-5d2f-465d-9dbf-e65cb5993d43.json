@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh Hill District",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "92.25",
+  "id": "cmoa:things/e0156246-5d2f-465d-9dbf-e65cb5993d43",
+  "credit_line": "Foster Charitable Trust Fund",
+  "date_acquired": "1992-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.5,
+  "item_height": 22.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031821",
+  "provenance_text": "Hirschl and Adler Galleries, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31965&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aba6c511-fbf6-4746-8e91-c4924992bf3d",
+      "party_type": "Person",
+      "full_name": "Clarence Holbrook Carter",
+      "cited_name": "Carter, Clarence H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Portsmouth (Scioto county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

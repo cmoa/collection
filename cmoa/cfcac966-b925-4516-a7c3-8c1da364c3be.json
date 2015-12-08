@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "82.106.4",
+  "id": "cmoa:things/cfcac966-b925-4516-a7c3-8c1da364c3be",
+  "credit_line": "Gift of Dr. and Mrs. Robert E. Fulton",
+  "date_acquired": "1983-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.375,
+  "item_depth": 0.0,
+  "item_diameter": 5.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022253",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3512&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

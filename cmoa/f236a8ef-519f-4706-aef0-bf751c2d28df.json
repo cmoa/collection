@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1720-1730",
+  "creation_date_earliest": "1715-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "71.39",
+  "id": "cmoa:things/f236a8ef-519f-4706-aef0-bf751c2d28df",
+  "credit_line": "Mrs. Fred C. Foy Purchase Fund",
+  "date_acquired": "1971-10-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 12.313,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016200",
+  "provenance_text": "Blumka Gallery, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3270&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

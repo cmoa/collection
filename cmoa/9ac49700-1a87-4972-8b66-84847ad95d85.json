@@ -1,0 +1,42 @@
+{
+  "title": "Tenth Street Studio",
+  "creation_date": "c. 1880-1881 and c. 1910",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "17.22",
+  "id": "cmoa:things/9ac49700-1a87-4972-8b66-84847ad95d85",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-07-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 66.0,
+  "item_height": 46.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001440",
+  "provenance_text": "William Merritt Chase [1849-1916], until 1916; Alice Bremond Gerson, the artist's widow [1866-1927], 1916?; (William Macbeth Galleries as agent, New York, 1917); (American Art Galleries, 1917); purchased by Museum, July 1917.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135306&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56856&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/753f3890-bf26-4b80-8c8e-2a151d7e7e9e",
+      "party_type": "Person",
+      "full_name": "William Merritt Chase",
+      "cited_name": "Chase, William Merritt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1849-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": "Williamsburg (Wayne county, Indiana, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Husbandman",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "bromoil print",
+  "accession_number": "2009.68",
+  "id": "cmoa:things/3556f1db-ea9d-47b7-99dd-a062c9ae0e8d",
+  "credit_line": "Gift of Valentino Buttignol",
+  "date_acquired": "2009-12-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 7.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88767",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98905&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04953065-059a-4be6-9a70-ac59b4e2f79e",
+      "party_type": "Person",
+      "full_name": "Oscar C. Reiter",
+      "cited_name": "Reiter, O. C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1861-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

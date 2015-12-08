@@ -1,0 +1,42 @@
+{
+  "title": "Scene D'Interieur",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "1999.16",
+  "id": "cmoa:things/86a60a56-1d59-47e1-a904-058e4ea7befc",
+  "credit_line": "Gift of Mr. and Mrs. Philip Stehle",
+  "date_acquired": "1999-04-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003848",
+  "provenance_text": "Stehle, Mr. And Mrs. Philip, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32175&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32176&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

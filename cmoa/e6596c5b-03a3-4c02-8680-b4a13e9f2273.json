@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Young Lady with Ruff",
+  "creation_date": "c. 1625",
+  "creation_date_earliest": "1620-01-01",
+  "creation_date_latest": "1630-01-01",
+  "medium": "oil on panel",
+  "accession_number": "64.11.20",
+  "id": "cmoa:things/e6596c5b-03a3-4c02-8680-b4a13e9f2273",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.875,
+  "item_height": 37.75,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011717",
+  "provenance_text": "Dr. Benedict & Company, Berlin, 1926; Howard A. Noble, Pittsburgh, 1926-1964; gift to Museum, May 1964.\n\nNotes: In 1944, the painting hung in the living room of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22331fa9-6eb1-486b-b36f-6933a31f61d7",
+      "party_type": "Person",
+      "full_name": "Paulus Moreelse",
+      "cited_name": "Moreelse, Paulus",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1571-01-01",
+      "death_date": "1638-01-01",
+      "birth_place": "Utrecht (Utrecht province, Netherlands)",
+      "death_place": "Utrecht (Utrecht province, Netherlands)"
+    }
+  ]
+}

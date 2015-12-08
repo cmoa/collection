@@ -1,0 +1,37 @@
+{
+  "title": "Head of a Man",
+  "creation_date": "early 17th century",
+  "creation_date_earliest": "1597-01-01",
+  "creation_date_latest": "1640-01-01",
+  "medium": "oil on panel",
+  "accession_number": "75.18",
+  "id": "cmoa:things/edd724ce-6777-4ff5-a1da-a9ed009115c3",
+  "credit_line": "Patrons Art Fund, by exchange",
+  "date_acquired": "1975-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.5,
+  "item_height": 26.75,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017673",
+  "provenance_text": "M. Knoedler & Company, Inc. [1846-2011], New York; purchased by Museum, May 1975.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": "attributed to",
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

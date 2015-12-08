@@ -1,0 +1,39 @@
+{
+  "title": "Grace Hoops",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1996.85.1",
+  "id": "cmoa:things/0cfa6fcd-b3ae-4ff4-a068-f5c533506507",
+  "credit_line": "Gift of Mrs. Thomas Hitchcock",
+  "date_acquired": "1996-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.625,
+  "item_height": 21.75,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002899",
+  "provenance_text": "Mrs. Thomas Hitchcock, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d25df2d-ee53-407b-9727-3c77d390735f",
+      "party_type": "Person",
+      "full_name": "Winslow Homer",
+      "cited_name": "Homer, Winslow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-02-24",
+      "death_date": "1910-09-29",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "Prouts Neck (Cumberland county, Maine, United States)"
+    }
+  ]
+}

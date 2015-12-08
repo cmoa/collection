@@ -1,0 +1,39 @@
+{
+  "title": "Scroll",
+  "creation_date": "1368-1644",
+  "creation_date_earliest": "1367-12-24",
+  "creation_date_latest": "1644-01-01",
+  "medium": "ink wash scroll",
+  "accession_number": "73.48.78",
+  "id": "cmoa:things/0ee1a83b-70f4-44d5-a40f-83b712aad055",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 338.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016822",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3035&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/be37fbf6-4e1f-454d-87cb-50105d452966",
+      "party_type": "Person",
+      "full_name": "Hung, Chang",
+      "cited_name": "Hung, Chang",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

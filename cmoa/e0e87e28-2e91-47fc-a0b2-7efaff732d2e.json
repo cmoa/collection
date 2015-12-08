@@ -1,0 +1,39 @@
+{
+  "title": "Plate 5 from the MERZ 3 portfolio",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "2000.60.2",
+  "id": "cmoa:things/e0e87e28-2e91-47fc-a0b2-7efaff732d2e",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2000-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004108",
+  "provenance_text": "Alice Adam Ltd., Chicago",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32177&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b9b9a8b-c1af-4776-8df7-7accf654a481",
+      "party_type": "Person",
+      "full_name": "Kurt Schwitters",
+      "cited_name": "Schwitters, Kurt",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1887-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Hanover (Hanover district, Lower Saxony, Germany)",
+      "death_place": "Kendal (Cumbria, England, United Kingdom)"
+    }
+  ]
+}

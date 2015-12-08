@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1850-1856",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.25.1",
+  "id": "cmoa:things/637fc5f1-1988-43ee-8394-29459f80d0f5",
+  "credit_line": "Gift of Edward O'Neil II",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.25,
+  "item_height": 18.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019289",
+  "provenance_text": "Edward O'Neil II, Pittsburgh; gift to museum, 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f71ff300-d7c1-4a47-9eb3-d3b347e90bf5",
+      "party_type": "Person",
+      "full_name": "William C. Wall",
+      "cited_name": "Wall, William C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1810-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "England, Oxford",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

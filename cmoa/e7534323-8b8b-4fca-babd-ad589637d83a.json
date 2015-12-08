@@ -1,0 +1,39 @@
+{
+  "title": "Compote",
+  "creation_date": "1820-1840",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "glass",
+  "accession_number": "50.2.2",
+  "id": "cmoa:things/e7534323-8b8b-4fca-babd-ad589637d83a",
+  "credit_line": "Gift of Mr. and Mrs. J. Robert Rodgers",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008844",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=985&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b591431-d364-4d0c-9bc1-0bf94e6b67ad",
+      "party_type": "Organization",
+      "full_name": "Bakewell",
+      "cited_name": "Bakewell",
+      "role": "attributed manufacturer",
+      "nationality": "American",
+      "birth_date": "1808-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

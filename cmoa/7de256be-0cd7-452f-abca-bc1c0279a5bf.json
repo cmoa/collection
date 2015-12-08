@@ -1,0 +1,39 @@
+{
+  "title": "Tutti Fruity",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "Lycra, dyed rabbit fur, cotton, brooch, wood, pins",
+  "accession_number": "2005.55",
+  "id": "cmoa:things/7de256be-0cd7-452f-abca-bc1c0279a5bf",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2005-12-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 51.0,
+  "item_height": 51.0,
+  "item_depth": 31.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=19948",
+  "provenance_text": "Anton Kern Gallery, New York City",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23199&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4177be40-39ea-4e69-8662-7483e3669e9e",
+      "party_type": "Person",
+      "full_name": "Lara Schnitger",
+      "cited_name": "Schnitger, Lara",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": "Haarlem, the Netherlands",
+      "death_place": null
+    }
+  ]
+}

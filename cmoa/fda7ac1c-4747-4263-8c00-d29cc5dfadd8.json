@@ -1,0 +1,39 @@
+{
+  "title": "Needle Piece",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "fiberglass",
+  "accession_number": "2007.80",
+  "id": "cmoa:things/fda7ac1c-4747-4263-8c00-d29cc5dfadd8",
+  "credit_line": "Gift of Harvey M. and Ruth Glesby Wagner",
+  "date_acquired": "2008-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.25,
+  "item_height": 84.75,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=54274",
+  "provenance_text": "Collection Ruth Wagner, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147241&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/521d6a23-8919-40e1-9d4c-796e0a60a051",
+      "party_type": "Person",
+      "full_name": "John Duff",
+      "cited_name": "Duff, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Lafayette, IN",
+      "death_place": null
+    }
+  ]
+}

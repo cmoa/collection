@@ -1,0 +1,39 @@
+{
+  "title": "Louise Nevelson",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2002.7.2",
+  "id": "cmoa:things/17a95b90-5a80-40f9-adbb-08a9698081b0",
+  "credit_line": "Gruber Family Fund",
+  "date_acquired": "2002-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.25,
+  "item_height": 29.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004455",
+  "provenance_text": "The Robert Mapplethorpe Foundation, Inc., New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37495&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cb30976-c292-4060-9dea-ba0e9504dda7",
+      "party_type": "Person",
+      "full_name": "Robert Mapplethorpe",
+      "cited_name": "Mapplethorpe, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

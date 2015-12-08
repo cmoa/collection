@@ -1,0 +1,73 @@
+{
+  "title": "Bartholomew Fair",
+  "creation_date": "February 1, 1808",
+  "creation_date_earliest": "1808-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "color aquatint",
+  "accession_number": "2009.73.20",
+  "id": "cmoa:things/357d0c2b-e3ce-4efc-822e-53ac4925522f",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88843",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d415c3d9-4978-45d2-b9f8-a3dd2fcca9d5",
+      "party_type": "Person",
+      "full_name": "Thomas Rowlandson",
+      "cited_name": "Rowlandson, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/8427ff54-d11a-4d8b-939b-c49bf7438331",
+      "party_type": "Person",
+      "full_name": "Augustus Charles Pugin",
+      "cited_name": "Pugin, A. C.",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1769-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/6605948b-22f2-4295-8a8b-4a957c308ebd",
+      "party_type": "Person",
+      "full_name": "Rudolph Ackermann",
+      "cited_name": "Ackermann, Rudolph",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1764-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": "Stollberg, Saxony",
+      "death_place": "Finchley, London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/5f0bad71-e1e0-4360-93d8-ec5a30935fc4",
+      "party_type": "Person",
+      "full_name": "John Bluck",
+      "cited_name": "Bluck, John",
+      "role": "engraver",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1819-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

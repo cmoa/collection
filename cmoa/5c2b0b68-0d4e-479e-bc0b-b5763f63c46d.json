@@ -1,0 +1,39 @@
+{
+  "title": "Epsom: Untitled",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "engraving",
+  "accession_number": "72.14.16.3",
+  "id": "cmoa:things/5c2b0b68-0d4e-479e-bc0b-b5763f63c46d",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016327",
+  "provenance_text": "Robert S. Waters Estate, Johnstown, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16431&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c24b3081-12ab-4188-87a7-befc9d2e6c2d",
+      "party_type": "Person",
+      "full_name": "unknown British",
+      "cited_name": "unknown British",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Annie, Seated",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "etching with foul-biting on paper",
+  "accession_number": "2000.33.2",
+  "id": "cmoa:things/aa47d96a-3c9c-4873-99d4-209e347c36c6",
+  "credit_line": "Gift of Ruth and Leonard Perfido From the Collection of her father, Dr. Jess Spirer",
+  "date_acquired": "2000-06-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004042",
+  "provenance_text": "Ruth And Leonard Perfido, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65957&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

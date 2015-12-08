@@ -1,0 +1,39 @@
+{
+  "title": "The Anglers",
+  "creation_date": "c. 1653",
+  "creation_date_earliest": "1638-01-01",
+  "creation_date_latest": "1668-01-01",
+  "medium": "etching",
+  "accession_number": "18.37.7",
+  "id": "cmoa:things/ef3767b0-2d7a-482a-af7b-1a82fb53ec00",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001812",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ffd5e859-c286-4839-831f-3c7a55518471",
+      "party_type": "Person",
+      "full_name": "Adriaen Van Ostade",
+      "cited_name": "Ostade, Adriaen Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1610-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

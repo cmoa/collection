@@ -1,0 +1,51 @@
+{
+  "title": "Window pane from PicNic house",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "glass",
+  "accession_number": "2009.57",
+  "id": "cmoa:things/e51f8967-25a4-4b13-80ee-67457aed4f11",
+  "credit_line": "Gift of Harley Niles Trice in honor of the reopening of the Ailsa Mellon Bruce Galleries",
+  "date_acquired": "2009-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 5.0,
+  "item_height": 6.875,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=83315",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=130023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f56ed263-0010-44ff-a327-08ed7f3eacbf",
+      "party_type": "Organization",
+      "full_name": "Bakewells & Anderson",
+      "cited_name": "Bakewells & Anderson",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/078784fe-cc92-46ac-9ff2-4450f9dfaf40",
+      "party_type": "Organization",
+      "full_name": "Bakewells & Company",
+      "cited_name": "Bakewells & Company",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1842-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

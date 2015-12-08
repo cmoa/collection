@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh Memories",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "collage on board",
+  "accession_number": "84.63",
+  "id": "cmoa:things/fc77993f-6930-4fa8-aaa4-2d8bcd729e25",
+  "credit_line": "Gift of Mr. and Mrs. Ronald R. Davenport and Mr. and Mrs. Milton A. Washington",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.5,
+  "item_height": 35.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025069",
+  "provenance_text": "Romare Bearden [1911-1988]; commissioned by Carnegie Museum of Art, Pittsburgh, PA, October 1984.",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8057&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6d3e40-b16c-41f2-9833-9b8dc4928194",
+      "party_type": "Person",
+      "full_name": "Romare Howard Bearden",
+      "cited_name": "Bearden, Romare Howard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Charlotte (Mecklenburg county, North Carolina, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Ornaments for a Dagger-Hilt",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "engraving",
+  "accession_number": "16.15.3",
+  "id": "cmoa:things/7f1dc8ab-ddaa-4266-afce-e5153fcb4c9b",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001063",
+  "provenance_text": "American Art Association, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101757&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

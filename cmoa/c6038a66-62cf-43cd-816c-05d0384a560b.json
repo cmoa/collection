@@ -1,0 +1,39 @@
+{
+  "title": "Zebra Night",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "cast and laminated glass",
+  "accession_number": "2003.42.9",
+  "id": "cmoa:things/c6038a66-62cf-43cd-816c-05d0384a560b",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.625,
+  "item_height": 15.875,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5246",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128928&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/63c76851-fbd2-4008-ab77-4142437750f0",
+      "party_type": "Person",
+      "full_name": "Jon Kuhn",
+      "cited_name": "Kuhn, Jon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "USA, Illinois, Chicago",
+      "death_place": null
+    }
+  ]
+}

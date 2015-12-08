@@ -1,0 +1,39 @@
+{
+  "title": "Trees",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "watercolor",
+  "accession_number": "95.47",
+  "id": "cmoa:things/0b5d76d2-04ee-418e-8c9a-bd506953ef9a",
+  "credit_line": "Gift of Ruth E. Wilner in memory of Jane and Milton Jena",
+  "date_acquired": "1995-03-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035726",
+  "provenance_text": "Charles E. Burchfield [1893-1967]. Possibly Frank. K. M. Rehn Gallery, New York, NY, c. 1935 [1]. Dr. [1891-1984] and Mrs. Milton Jena [c.1896-1971], Pittsburgh, PA until October 10, 1971 [2]; Dr. Milton Jena, Pittsburgh, PA, October 10, 1971 until April 29, 1984; Jena estate, 1984 until 1988; probably by descent, Ruth E. Wilner (Mrs. J. Alfred Wilner), New York, NY, 1988 until March 1995 [3]; her gift to Museum, March 1995\n\nNotes:\n[1]. See curatorial file for reference to a letter signed by Frank K. M. Rehn and dated December 17, 1935, confirming the date of the work as 1920.\n[2]. Mrs. Jeanette (Jane) Jena was an art critic for the Pittsburgh Post-Gazette for many years.\n[3]. Ruth E. Wilner was Mrs. Jane Jena's sister.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7d38d22-cde8-48f1-adf0-215f19bea834",
+      "party_type": "Person",
+      "full_name": "Charles Ephraim  Burchfield",
+      "cited_name": "Burchfield, Charles E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": " Ashtabula (Ashtabula county, Ohio, United States)",
+      "death_place": " West Seneca (Erie county, New York state, United States)"
+    }
+  ]
+}

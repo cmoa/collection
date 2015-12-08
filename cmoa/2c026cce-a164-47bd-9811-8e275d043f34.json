@@ -1,0 +1,39 @@
+{
+  "title": "The Jungle",
+  "creation_date": null,
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "etching",
+  "accession_number": "42.11.22",
+  "id": "cmoa:things/2c026cce-a164-47bd-9811-8e275d043f34",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007309",
+  "provenance_text": "The Weyhe Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100645&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1903effb-a1df-4aae-902e-b39f8ccc226c",
+      "party_type": "Person",
+      "full_name": "Harry Herman Wickey",
+      "cited_name": "Wickey, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Stryker (Williams county, Ohio, United States)",
+      "death_place": "Cornwall Landing (Orange county, New York state, United States)"
+    }
+  ]
+}

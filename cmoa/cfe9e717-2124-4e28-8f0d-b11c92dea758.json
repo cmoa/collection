@@ -1,0 +1,51 @@
+{
+  "title": "Keyaki Tunnel at Baba Gate",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.711.7",
+  "id": "cmoa:things/cfe9e717-2124-4e28-8f0d-b11c92dea758",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028726",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c589abef-f23c-4d23-8be7-483ac29a9378",
+      "party_type": "Person",
+      "full_name": "Munakata Makka",
+      "cited_name": "Munakata Makka",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": "Aomori",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/adff254f-adc8-4973-b839-b8b0b4bc0eb4",
+      "party_type": "Organization",
+      "full_name": "Kitsutsukikai",
+      "cited_name": "Kitsutsukikai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

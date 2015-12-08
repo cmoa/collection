@@ -1,0 +1,39 @@
+{
+  "title": "Children's Games",
+  "creation_date": "c. 1795",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.54",
+  "id": "cmoa:things/47b3c2d4-ed7f-4570-a65f-7e2642dba3fe",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.375,
+  "item_height": 13.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028483",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby, London, 1/18/1965, Lot 120, through Bluett & Sons, London.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100295&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f3973aa1-4cfa-455d-b525-eb69c023b8cb",
+      "party_type": "Person",
+      "full_name": "Eisho Chokosai",
+      "cited_name": "Eisho Chokosai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1780-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

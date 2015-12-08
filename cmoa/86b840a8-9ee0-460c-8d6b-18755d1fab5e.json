@@ -1,0 +1,39 @@
+{
+  "title": "(Downtown Street Scene: Blind Man on Wood Street)",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.42",
+  "id": "cmoa:things/86b840a8-9ee0-460c-8d6b-18755d1fab5e",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 13.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025941",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8661&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66156b1f-704f-4f4a-8927-37224be77b7b",
+      "party_type": "Person",
+      "full_name": "Elliott Erwitt",
+      "cited_name": "Erwitt, Elliott",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Paris, France",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "celadon-glazed porcelain",
+  "accession_number": "88.13.2",
+  "id": "cmoa:things/a1496917-93d8-4d10-9dd7-0308417d428b",
+  "credit_line": "Gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1988-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.687,
+  "item_height": 9.0,
+  "item_depth": 4.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026434",
+  "provenance_text": "Gift of John Baird Hudson and the Hudson Conservancy, New York, NY, 1988.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2218&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

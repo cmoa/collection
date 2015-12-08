@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.3.1.3",
+  "id": "cmoa:things/e85c1b39-85e1-4b36-a7e1-36954a55ae32",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.25,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022343",
+  "provenance_text": "Martin Diamond Fine Arts, Inc., NY, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112987&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/be3af761-c4c2-4436-8f28-8607aeee6b00",
+      "party_type": "Person",
+      "full_name": "Ilya Bolotowsky",
+      "cited_name": "Bolotowsky, Ilya",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": " Saint Petersburg (Sankt-Peterburg autonomous city, Rossiya republic, Russia)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

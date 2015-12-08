@@ -1,0 +1,39 @@
+{
+  "title": "Hamlet at Negishi (Negishi na sato)",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.147.1",
+  "id": "cmoa:things/57f554c5-15f6-4edf-b3fb-d88bd151a5e1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027385",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34937&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0633a5da-a9e4-4858-8cb3-427d62eece8f",
+      "party_type": "Person",
+      "full_name": "Takahashi Hiroaki (Shôtei)",
+      "cited_name": "Takahashi Hiroaki (Shôtei)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1871-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    }
+  ]
+}

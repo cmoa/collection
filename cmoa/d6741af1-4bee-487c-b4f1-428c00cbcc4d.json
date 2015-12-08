@@ -1,0 +1,39 @@
+{
+  "title": "Sculpture of Adam",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "ivory",
+  "accession_number": "56.42.28",
+  "id": "cmoa:things/d6741af1-4bee-487c-b4f1-428c00cbcc4d",
+  "credit_line": "Bequest of Samuel Laird Lang",
+  "date_acquired": "1956-10-24",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.438,
+  "item_depth": 0.0,
+  "item_diameter": 1.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009838",
+  "provenance_text": "The Estate of Samuel Laird Lang",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2955&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

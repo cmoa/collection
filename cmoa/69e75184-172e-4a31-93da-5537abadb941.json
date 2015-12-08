@@ -1,0 +1,39 @@
+{
+  "title": "Cylinder",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "porcelain",
+  "accession_number": "1996.28",
+  "id": "cmoa:things/69e75184-172e-4a31-93da-5537abadb941",
+  "credit_line": "Gift of Mr. and Mrs. Samuel M. Bell in honor of Phillip M. Johnston and his many contributions to Carnegie Museum of Art",
+  "date_acquired": "1996-05-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 7.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002111",
+  "provenance_text": "Mr. And Mrs. Samuel M. Bell, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1973&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bc82c4ac-7bed-472d-9752-9b3e6e5a4cce",
+      "party_type": "Person",
+      "full_name": "Bodil Manz",
+      "cited_name": "Manz, Bodil",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen, Denmark",
+      "death_place": null
+    }
+  ]
+}

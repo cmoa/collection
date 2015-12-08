@@ -1,0 +1,51 @@
+{
+  "title": "Mrs. Montague",
+  "creation_date": "1798",
+  "creation_date_earliest": "1798-01-01",
+  "creation_date_latest": "1798-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.8",
+  "id": "cmoa:things/b99429a7-dbd4-4cd3-bcca-bcf99ecfdeb8",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 10.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34307",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104112&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/025b31f8-a7c2-424e-b44e-a9a42ad9ab1a",
+      "party_type": "Person",
+      "full_name": "Ridley",
+      "cited_name": "Ridley",
+      "role": "printmaker",
+      "nationality": "undetermined",
+      "birth_date": "1792-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

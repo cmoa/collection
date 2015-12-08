@@ -1,0 +1,51 @@
+{
+  "title": "Children Nutting",
+  "creation_date": "1788",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "mezzotint",
+  "accession_number": "19.1.116",
+  "id": "cmoa:things/347acc16-c32b-43df-8ef6-c63d50f322de",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001879",
+  "provenance_text": "Mrs. Heasley, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111092&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cdbd43a7-59bc-44f3-942d-cea8032ace85",
+      "party_type": "Person",
+      "full_name": "Edward Dayes",
+      "cited_name": "Dayes, Edward",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

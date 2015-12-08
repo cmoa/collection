@@ -1,0 +1,42 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1911",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "walnut",
+  "accession_number": "2012.28",
+  "id": "cmoa:things/4af96ff2-7e81-4a09-b7a9-4708360c69cd",
+  "credit_line": "DuPuy Fund, Edgar L. Levenson Fund, and James L. Winokur Fund",
+  "date_acquired": "2012-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 18.307,
+  "item_height": 36.614,
+  "item_depth": 19.095,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98610",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127559&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127570&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fe8dc389-706a-400f-a7d7-f4fc11637353",
+      "party_type": "Person",
+      "full_name": "Pavel Janák",
+      "cited_name": "Janák, Pavel",
+      "role": null,
+      "nationality": "Czech",
+      "birth_date": "1882-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

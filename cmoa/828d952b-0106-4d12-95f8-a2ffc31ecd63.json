@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "enamel on linen",
+  "accession_number": "2008.50",
+  "id": "cmoa:things/828d952b-0106-4d12-95f8-a2ffc31ecd63",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 96.0,
+  "item_height": 126.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=66697",
+  "provenance_text": "The artist through Luhring Augustine, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76436&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",
+      "party_type": "Person",
+      "full_name": "Christopher Wool",
+      "cited_name": "Wool, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    }
+  ]
+}

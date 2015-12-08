@@ -1,0 +1,39 @@
+{
+  "title": "La Frileuse [Winter]",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "plaster on wood base",
+  "accession_number": "74.7.32",
+  "id": "cmoa:things/9a5fe2c2-0803-4c5c-9eaf-6ee30c7b2557",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.062,
+  "item_height": 11.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017500",
+  "provenance_text": "Gift of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5626&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d768e47-a118-4ed8-9ec4-5d74e30bc132",
+      "party_type": "Person",
+      "full_name": "Jean-Antoine Houdon",
+      "cited_name": "Houdon, Jean-Antoine",
+      "role": "follower of",
+      "nationality": "French",
+      "birth_date": "1741-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": " Versailles (Yvelines, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

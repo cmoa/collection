@@ -1,0 +1,37 @@
+{
+  "title": "Ship's Cabin",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.85.1",
+  "id": "cmoa:things/e0510860-ee22-4959-9c44-1c00069f96c0",
+  "credit_line": "Gift of Mrs. Ralston Thompson",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.0,
+  "item_height": 33.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023180",
+  "provenance_text": "Mrs. Ralston Thompson, Springfield, OH",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c135ea83-8791-47ef-b9e8-2bbd67622d3e",
+      "party_type": "Person",
+      "full_name": "Ralston Thompson",
+      "cited_name": "Thompson, Ralston",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Ironton (Lawrence county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

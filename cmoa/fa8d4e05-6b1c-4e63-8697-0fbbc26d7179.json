@@ -1,0 +1,39 @@
+{
+  "title": "Stonehenge",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "sugar-lift aquatint, 3 plates/5 colors, printed on white unsized rives b.f.k paper",
+  "accession_number": "1998.67.1",
+  "id": "cmoa:things/fa8d4e05-6b1c-4e63-8697-0fbbc26d7179",
+  "credit_line": "Gift of Michael Berger, in memory of his father, Meyer Berger",
+  "date_acquired": "1998-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.75,
+  "item_height": 30.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003808",
+  "provenance_text": "The Donor, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118842&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f9348a2-c992-4cb5-8cab-11d99611f125",
+      "party_type": "Person",
+      "full_name": "Philip Pearlstein",
+      "cited_name": "Pearlstein, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

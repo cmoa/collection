@@ -1,0 +1,39 @@
+{
+  "title": "Moon Landscape with Figure",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "oil on burlap",
+  "accession_number": "77.58.3",
+  "id": "cmoa:things/b40a14e2-2d33-44a6-a826-c91add4ca5cd",
+  "credit_line": "Gift of Benjamin D. Bernstein",
+  "date_acquired": "1977-12-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.625,
+  "item_height": 13.5,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018944",
+  "provenance_text": "Benjamin D. Bernstein; purchased from Herman Krikhahr Gallery, Amsterdam, 1970",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/652f59a8-6c3a-4399-80f6-aa9caacaa37e",
+      "party_type": "Person",
+      "full_name": "Constant",
+      "cited_name": "Constant",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1920-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Utrecht (Utrecht province, Netherlands)"
+    }
+  ]
+}

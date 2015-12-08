@@ -1,0 +1,39 @@
+{
+  "title": "River in Winter",
+  "creation_date": "c. 1890-1900",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "07.4",
+  "id": "cmoa:things/55b14501-d20c-46d9-b894-7027e2f88e9b",
+  "credit_line": "Purchase",
+  "date_acquired": "1907-11-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 55.375,
+  "item_height": 43.375,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000315",
+  "provenance_text": "John Henry Twachtman [1853-1902], until 1902; Martha Twachtman, his widow [1858-1936], until 1907 [1]; purchased by Museum, November 1907 [2]. \nNOTES:1. Martha Twachtman is also recorded as Martha Scudder, and Martha Scudder Twachtman.  2. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c9b1daa9-f2a5-40b0-b80b-bfac4a038b9d",
+      "party_type": "Person",
+      "full_name": "John Henry Twachtman",
+      "cited_name": "Twachtman, John H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": "Cincinnati, Ohio",
+      "death_place": "Gloucester, Massachusetts"
+    }
+  ]
+}

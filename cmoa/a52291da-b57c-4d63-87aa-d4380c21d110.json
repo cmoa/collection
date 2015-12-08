@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of an Unknown Man",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "watercolor on ivory; gold metal frame",
+  "accession_number": "27.10.307",
+  "id": "cmoa:things/a52291da-b57c-4d63-87aa-d4380c21d110",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.75,
+  "item_height": 2.75,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005721",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73756&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73757&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b481b909-9f28-4274-acc8-f5fc6336d880",
+      "party_type": "Person",
+      "full_name": "Thomas Hargreaves",
+      "cited_name": "Hargreaves, Thomas",
+      "role": "school of",
+      "nationality": "British",
+      "birth_date": "1775-01-01",
+      "death_date": "1846-01-01",
+      "birth_place": " Liverpool (England, United Kingdom)",
+      "death_place": " Liverpool (England, United Kingdom)"
+    }
+  ]
+}

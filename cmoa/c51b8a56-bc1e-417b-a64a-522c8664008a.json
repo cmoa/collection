@@ -1,0 +1,39 @@
+{
+  "title": "Sir Herbert Read",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "oil, fiberglass, and burlap on tarpaulin",
+  "accession_number": "1997.72",
+  "id": "cmoa:things/c51b8a56-bc1e-417b-a64a-522c8664008a",
+  "credit_line": "Gift of Douglas S. Cramer Foundation",
+  "date_acquired": "1997-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 84.25,
+  "item_height": 120.125,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003462",
+  "provenance_text": "Douglas S. Cramer Foundation, North Hollywood, CA; Carnegie Museum of Art, Pittsburgh; Gift of Douglas S. Cramer Foundation",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24543&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce67144a-528c-46e6-9a26-64bc943dd9b5",
+      "party_type": "Person",
+      "full_name": "Julian Schnabel",
+      "cited_name": "Schnabel, Julian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

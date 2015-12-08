@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "porcelain, base attached with screws",
+  "accession_number": "82.40.2.A-B",
+  "id": "cmoa:things/4932c881-9b27-4508-a809-be106855ba19",
+  "credit_line": "Gift of Mr. and Mrs. Alan G. Lehman",
+  "date_acquired": "1982-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 14.25,
+  "item_depth": 6.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022954",
+  "provenance_text": "Mr. And Mrs. Alan G. Lehman, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9221&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f062db9-15fd-4782-b9ec-cfe134e8eb32",
+      "party_type": "Organization",
+      "full_name": "Capo-Di-Monte Factory",
+      "cited_name": "Capo-Di-Monte Factory",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": "1759-01-01",
+      "birth_place": "Naples",
+      "death_place": null
+    }
+  ]
+}

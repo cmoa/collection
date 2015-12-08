@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (3.3.08)",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "2008.52",
+  "id": "cmoa:things/6f4d62cb-1a43-470a-9ea4-08f66b6ca14d",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.75,
+  "item_height": 26.0,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=67641",
+  "provenance_text": "The artist through Gagosian Gallery, London",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113691&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3574b554-a458-4b98-98a4-3df40ad316c4",
+      "party_type": "Person",
+      "full_name": "Richard Wright",
+      "cited_name": "Wright, Richard",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1960-01-01",
+      "death_date": null,
+      "birth_place": "London, England",
+      "death_place": null
+    }
+  ]
+}

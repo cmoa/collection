@@ -1,0 +1,42 @@
+{
+  "title": "House; [exterior perspective]",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "ink with chinese white highlights on card",
+  "accession_number": "95.48.2",
+  "id": "cmoa:things/d0d83eb1-4b63-4b0b-82e0-5021e8baff03",
+  "credit_line": "Gift of Stephen Neal Dennis in memory of H. Ward Jandl",
+  "date_acquired": "1995-03-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035728",
+  "provenance_text": "Stephen Neal Dennis, Washington, DC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117120&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13072&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/595580c2-4fb7-4019-8689-f9e3d33b5aa9",
+      "party_type": "Person",
+      "full_name": "Hughson Hawley",
+      "cited_name": "Hawley, Hughson",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Brighton (England, United Kingdom)",
+      "death_place": "USA (probably)"
+    }
+  ]
+}

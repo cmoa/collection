@@ -1,0 +1,39 @@
+{
+  "title": "Scalp Level Point",
+  "creation_date": "c. 1873",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.14",
+  "id": "cmoa:things/5a85adca-2257-4cbe-9257-7baa5b8274a3",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.125,
+  "item_height": 14.063,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019223",
+  "provenance_text": "Mr. and Mrs. Arthur Braun, Pittsburgh, by 1925; their daughter Elizabeth Braun (Mrs. Paul B.) Ernst, Pittsburgh, 1976; gift to museum, 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

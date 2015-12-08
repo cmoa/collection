@@ -1,0 +1,39 @@
+{
+  "title": "Thunderstorm, Ghost Ranch, Northern New Mexico",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "75.59.3",
+  "id": "cmoa:things/0a7e611c-9dee-48d0-bfb4-5712b78da07d",
+  "credit_line": "Gift of Mr. and Mrs. Joel Greenwald",
+  "date_acquired": "1976-02-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017829",
+  "provenance_text": "Ansel Adams, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111945&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c579bb4a-3279-478b-9d4e-4b22be45007e",
+      "party_type": "Person",
+      "full_name": "Ansel Adams",
+      "cited_name": "Adams, Ansel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": " San Francisco (San Francisco county, California, United States)",
+      "death_place": " Carmel (Monterey county, California, United States)"
+    }
+  ]
+}

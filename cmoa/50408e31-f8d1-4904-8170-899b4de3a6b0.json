@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "glass",
+  "accession_number": "2008.72.1",
+  "id": "cmoa:things/50408e31-f8d1-4904-8170-899b4de3a6b0",
+  "credit_line": "Gift of John and Robyn Horn",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.25,
+  "item_depth": 0.0,
+  "item_diameter": 7.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=66060",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96353&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8538d41-2234-4f6f-a72e-04250d950628",
+      "party_type": "Person",
+      "full_name": "Dick Huss",
+      "cited_name": "Huss, Dick",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

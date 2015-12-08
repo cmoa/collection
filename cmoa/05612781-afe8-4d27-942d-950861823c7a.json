@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Madeleine Mabille",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "oil with pencil on mahogany panel",
+  "accession_number": "93.120",
+  "id": "cmoa:things/05612781-afe8-4d27-942d-950861823c7a",
+  "credit_line": "Heinz Family Acquisition Fund",
+  "date_acquired": "1993-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 13.5,
+  "item_height": 27.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032820",
+  "provenance_text": "Mabille Collection, Marimont, Belguim; Private Collection, Belguim; Gert-Rudolf Flick, Switzerland; purchased by Musuem through Philip Hook, London, October 1993.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21673&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/33602f59-8300-4a9b-8e3a-fb28a53eece8",
+      "party_type": "Person",
+      "full_name": "Fernand Khnopff",
+      "cited_name": "Khnopff, Fernand",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1858-01-01",
+      "death_date": "1921-01-01",
+      "birth_place": "Dendermonde (East Flanders, Flanders, Belgium)",
+      "death_place": "Brussels, Belgium"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dlia golosa (For the Voice)",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "Lithographs",
+  "accession_number": "2001.18",
+  "id": "cmoa:things/c0ac3edb-ae5d-48f0-847b-786f8c7a844d",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2001-04-05",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 5.25,
+  "item_height": 7.438,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004182",
+  "provenance_text": "Susan Schulman, New York",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148674&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a19e147f-ee83-4253-95bd-56ad2751920d",
+      "party_type": "Person",
+      "full_name": "El Lissitzky",
+      "cited_name": "Lissitzky, El",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1890-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": "Pochinok (Smolensk oblast, Rossiya republic, Russia)",
+      "death_place": " Moscow (Moskva autonomous city, Rossiya republic, Russia)"
+    }
+  ]
+}

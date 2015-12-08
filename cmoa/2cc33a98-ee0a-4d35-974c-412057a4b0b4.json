@@ -1,0 +1,51 @@
+{
+  "title": "Panel of Damask",
+  "creation_date": "c. 1871",
+  "creation_date_earliest": "1866-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "silk and wool",
+  "accession_number": "2004.2",
+  "id": "cmoa:things/2cc33a98-ee0a-4d35-974c-412057a4b0b4",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "2004-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6255",
+  "provenance_text": "Purchased from Paul Reeves, London.",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114572&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/be1abf9d-a6c6-4253-a7d1-02285acdb97d",
+      "party_type": "Organization",
+      "full_name": "James W. & C. Ward",
+      "cited_name": "James W. & C. Ward",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

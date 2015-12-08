@@ -1,0 +1,39 @@
+{
+  "title": "Public Building; [detail drawing, exterior elevation, floor plan]",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "91.15.2.3",
+  "id": "cmoa:things/df5a8921-0db9-4836-b4a8-224a01fda80d",
+  "credit_line": "Purchase: gift of J. L. Hillman Simonds",
+  "date_acquired": "1991-10-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 4.687,
+  "item_height": 7.687,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029510",
+  "provenance_text": "Earle G. Shettleworth, Jr., ME, Augusta",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118091&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee0800d9-bbd2-45c8-86d7-d797e56a1f71",
+      "party_type": "Person",
+      "full_name": "Henry Hobson Richardson",
+      "cited_name": "Richardson, Henry H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Priestley Plantation, LA",
+      "death_place": "Brookline, MA"
+    }
+  ]
+}

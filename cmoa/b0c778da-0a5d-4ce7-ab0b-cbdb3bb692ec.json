@@ -1,0 +1,45 @@
+{
+  "title": "Powder Box",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "aluminum",
+  "accession_number": "2001.13.A-B",
+  "id": "cmoa:things/b0c778da-0a5d-4ce7-ab0b-cbdb3bb692ec",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2001-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.812,
+  "item_height": 1.5,
+  "item_depth": 2.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004176",
+  "provenance_text": "Mark Waller, Piermont, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5067&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5068&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5066&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb2c9ab-3c4d-4ad6-ac1b-f34ac7b0b228",
+      "party_type": "Person",
+      "full_name": "René Lalique",
+      "cited_name": "Lalique, René",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1860-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

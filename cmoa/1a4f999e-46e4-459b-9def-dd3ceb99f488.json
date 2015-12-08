@@ -1,0 +1,39 @@
+{
+  "title": "Circus Performer",
+  "creation_date": "c. 1919",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "painted wood",
+  "accession_number": "74.33.1",
+  "id": "cmoa:things/1a4f999e-46e4-459b-9def-dd3ceb99f488",
+  "credit_line": "Gift of the Pace Gallery in honor of the opening of the Sarah Mellon Scaife Gallery",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 5.0,
+  "item_height": 33.75,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016962",
+  "provenance_text": "Mrs. Elie Nadelman [1882-1946], New York, until 1948; Swetzoff Gallery [1948-1968], Boston; Max Wasserman [1913-1986], Boston; Pace Gallery, New York, by 1974; gift to Museum, October 10, 1974.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19833&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3d5bd5b-e893-44f9-8f81-f6e91a628d16",
+      "party_type": "Person",
+      "full_name": "Elie Nadelman",
+      "cited_name": "Nadelman, Elie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Warsaw, Poland",
+      "death_place": "Riverdale, NY"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1900-1920",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "blown cased glass",
+  "accession_number": "77.43.17",
+  "id": "cmoa:things/9e820e76-ea61-4bbb-8096-5c08ee7f2967",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 4.187,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018648",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=707&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf10d409-1194-4bd9-bd16-553414679c8f",
+      "party_type": "Organization",
+      "full_name": "Loetz",
+      "cited_name": "Loetz",
+      "role": "possibly by",
+      "nationality": "Austrian",
+      "birth_date": "1836-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

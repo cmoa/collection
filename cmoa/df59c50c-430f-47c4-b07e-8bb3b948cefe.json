@@ -1,0 +1,42 @@
+{
+  "title": "Ewer",
+  "creation_date": "c. 1888",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "earthenware with enamel and gilded decoration",
+  "accession_number": "2007.27",
+  "id": "cmoa:things/df59c50c-430f-47c4-b07e-8bb3b948cefe",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 22.75,
+  "item_depth": 0.0,
+  "item_diameter": 9.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=39522",
+  "provenance_text": "The ewer is part of a private collection in Eastern Pennsylvania and on commission to The Stradlings of New York City.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47389&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47388&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/185c8c15-34a9-4749-9c9d-e69c9c6b23b4",
+      "party_type": "Organization",
+      "full_name": "Faience Manufacturing Company",
+      "cited_name": "Faience Manufacturing Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1892-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

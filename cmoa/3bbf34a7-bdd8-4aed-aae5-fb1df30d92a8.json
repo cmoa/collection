@@ -1,0 +1,39 @@
+{
+  "title": "Snuff Bottle",
+  "creation_date": "18th-19th century",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "carved glass",
+  "accession_number": "11.1.6",
+  "id": "cmoa:things/3bbf34a7-bdd8-4aed-aae5-fb1df30d92a8",
+  "credit_line": "Gift of F.J. Kaldenberg and Sons",
+  "date_acquired": "1911-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 2.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000577",
+  "provenance_text": "F.J. Kaldenberg and Sons, New York, NY; gift to Carnegie Institute, Pittsburgh, PA, 1911.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1034&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

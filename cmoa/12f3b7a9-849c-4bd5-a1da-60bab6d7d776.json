@@ -1,0 +1,39 @@
+{
+  "title": "Black on Blue",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "55.60.4",
+  "id": "cmoa:things/12f3b7a9-849c-4bd5-a1da-60bab6d7d776",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.562,
+  "item_height": 5.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009542",
+  "provenance_text": "Erich Buchholz",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2150235-6a58-4277-b9b5-685d2542a41b",
+      "party_type": "Person",
+      "full_name": "Erich Buchholz",
+      "cited_name": "Buchholz, Erich",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1891-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": " Bydgoszcz (Kujawsko-Pomorskie voivodship, Poland)",
+      "death_place": " Berlin (Berlin state, Germany)"
+    }
+  ]
+}

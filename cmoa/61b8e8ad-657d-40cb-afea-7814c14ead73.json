@@ -1,0 +1,39 @@
+{
+  "title": "Moor Lodge",
+  "creation_date": null,
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "engraving",
+  "accession_number": "69.48.222",
+  "id": "cmoa:things/61b8e8ad-657d-40cb-afea-7814c14ead73",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012806",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107990&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb30c383-5d58-4761-8675-e046d334e6e7",
+      "party_type": "Person",
+      "full_name": "Norma Morgan",
+      "cited_name": "Morgan, Norma",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "New Haven, Connecticut",
+      "death_place": null
+    }
+  ]
+}

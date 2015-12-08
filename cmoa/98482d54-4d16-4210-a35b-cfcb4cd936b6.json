@@ -1,0 +1,39 @@
+{
+  "title": "Youth",
+  "creation_date": "c. 140 CE",
+  "creation_date_earliest": "0135-01-02",
+  "creation_date_latest": "0145-01-02",
+  "medium": "marble",
+  "accession_number": "71.16",
+  "id": "cmoa:things/98482d54-4d16-4210-a35b-cfcb4cd936b6",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1971-05-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 0.0,
+  "item_height": 36.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016125",
+  "provenance_text": "Henri A. Kramer Galerie, New York City, NY",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11692&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cc21a8-4939-4c01-a3ca-27c9d46ab896",
+      "party_type": "Person",
+      "full_name": "unknown Roman",
+      "cited_name": "unknown Roman",
+      "role": null,
+      "nationality": "Ancient Roman",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

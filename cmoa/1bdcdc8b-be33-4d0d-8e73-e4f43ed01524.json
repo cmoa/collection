@@ -1,0 +1,39 @@
+{
+  "title": "The Stone Garden (Sekitei)",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.763",
+  "id": "cmoa:things/1bdcdc8b-be33-4d0d-8e73-e4f43ed01524",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.75,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028916",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T. Z. Shiota, SanFrancisco, CA., 9/24/1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35363&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dc0c3b84-c076-46c8-a25f-1170d2cf84d4",
+      "party_type": "Person",
+      "full_name": "Kawanishi Hide",
+      "cited_name": "Kawanishi Hide",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1894-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Japan, Kobe",
+      "death_place": null
+    }
+  ]
+}

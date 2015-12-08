@@ -1,0 +1,39 @@
+{
+  "title": "Taperstick",
+  "creation_date": "1789-1790",
+  "creation_date_earliest": "1789-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "silver",
+  "accession_number": "78.36.20",
+  "id": "cmoa:things/44a2f384-988b-4c24-b285-402b665c9981",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.375,
+  "item_height": 2.125,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020003",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5211&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fd44557-9eae-4dca-a074-079240a55844",
+      "party_type": "Person",
+      "full_name": "Patrick Robertson",
+      "cited_name": "Robertson, Patrick",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

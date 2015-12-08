@@ -1,0 +1,51 @@
+{
+  "title": "Credulous Innocence",
+  "creation_date": "c. 1788",
+  "creation_date_earliest": "1778-01-01",
+  "creation_date_latest": "1798-01-01",
+  "medium": "mezzotint",
+  "accession_number": "19.1.121",
+  "id": "cmoa:things/9e1cf5fb-79fb-4dee-bc50-fc971e43bf96",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001886",
+  "provenance_text": "Mrs. Heasley, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111098&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/448c7a4e-ed62-4690-9c87-34c28876a070",
+      "party_type": "Person",
+      "full_name": "John Young",
+      "cited_name": "Young, John",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1755-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

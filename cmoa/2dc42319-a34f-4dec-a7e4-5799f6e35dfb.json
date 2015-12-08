@@ -1,0 +1,54 @@
+{
+  "title": "the Galaxy Concept Bowl",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "cast polyurethane",
+  "accession_number": "2001.28.A-B",
+  "id": "cmoa:things/2dc42319-a34f-4dec-a7e4-5799f6e35dfb",
+  "credit_line": "Gift of Tupperware Worldwide",
+  "date_acquired": "2001-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.0,
+  "item_depth": 0.0,
+  "item_diameter": 6.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004231",
+  "provenance_text": "Tupperware Worldwide, Orlando, FL",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5397&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5398&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/be555597-e531-4c1c-8c4d-05af3e75d3a4",
+      "party_type": "Person",
+      "full_name": "D. Scott Miller",
+      "cited_name": "Miller, D. S.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/108dd511-debe-461e-8bb0-8672a80f29f4",
+      "party_type": "Organization",
+      "full_name": "Tupperware U.S. Inc.",
+      "cited_name": "Tupperware U.S. Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "acrylic or gouache paint on paper",
+  "accession_number": "2006.81.17",
+  "id": "cmoa:things/fa9b00f6-0a7c-4afb-a2a9-37555f71e4bb",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 17.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=38021",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Arkus, Pittsburgh, PA, 2007.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115037&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/678b9914-7fdd-4c1a-8bc0-db459991aa13",
+      "party_type": "Person",
+      "full_name": "Theo Hios",
+      "cited_name": "Hios, Theo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

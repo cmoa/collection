@@ -1,0 +1,57 @@
+{
+  "title": "Teapot from the Déjeuner Régnier à Reliefs",
+  "creation_date": "c. 1813",
+  "creation_date_earliest": "1808-01-01",
+  "creation_date_latest": "1818-01-01",
+  "medium": "porcelain with gilded decoration",
+  "accession_number": "2003.33.A-B",
+  "id": "cmoa:things/dd380419-0c6d-4416-8656-d40ddff0c12f",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 6.75,
+  "item_height": 19.0,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5831",
+  "provenance_text": "Michele Beiny Inc, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12081&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=619&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12080&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/02705d76-b39d-43f3-bf07-0f58e413af18",
+      "party_type": "Person",
+      "full_name": "Jean-Marie-Ferdinand Régnier",
+      "cited_name": "Régnier, Jean-Marie-Ferdinand",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1774-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

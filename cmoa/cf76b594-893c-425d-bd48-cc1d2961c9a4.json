@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Iceland Series)",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "twelve chromogenic prints",
+  "accession_number": "2000.13.A-L",
+  "id": "cmoa:things/cf76b594-893c-425d-bd48-cc1d2961c9a4",
+  "credit_line": "Carnegie Mellon Art Gallery Fund",
+  "date_acquired": "2000-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.5,
+  "item_height": 23.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003992",
+  "provenance_text": "Bonakdar Jancou Gallery, New York; Carnegie Museum of Art, Pittsburgh; Carnegie Mellon Art Gallery Fund",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9707&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/15a331d7-720f-4955-9c19-844a3b7b3822",
+      "party_type": "Person",
+      "full_name": "Olafur Eliasson",
+      "cited_name": "Eliasson, Olafur",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen, Denmark",
+      "death_place": null
+    }
+  ]
+}

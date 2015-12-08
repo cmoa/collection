@@ -1,0 +1,57 @@
+{
+  "title": "Hand chair",
+  "creation_date": "1964 or 1965",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "mahogany",
+  "accession_number": "2015.25",
+  "id": "cmoa:things/9ca6d328-a5be-447e-9cf6-fc7bda4f9aa7",
+  "credit_line": "Helen Johnston Acquisition Fund and Martha Mack Lewis Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.5,
+  "item_height": 33.75,
+  "item_depth": 18.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107349",
+  "provenance_text": "20cdesign, Dallas, TX to CMOA, April 2015.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148143&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148145&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148155&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a773c14-1e4f-44a5-b195-1a2d5cd1f0be",
+      "party_type": "Person",
+      "full_name": "Pedro Friedeberg",
+      "cited_name": "Friedeberg, Pedro",
+      "role": "designer",
+      "nationality": "Mexican",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f9e35905-432f-4148-b794-7e80a0d8fe69",
+      "party_type": "Person",
+      "full_name": "Jose Gonzales",
+      "cited_name": "Gonzales, Jose",
+      "role": "carver",
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

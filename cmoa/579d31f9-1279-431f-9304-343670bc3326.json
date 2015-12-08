@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "mid-20th century",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.54.5",
+  "id": "cmoa:things/579d31f9-1279-431f-9304-343670bc3326",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1956-12-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 52.625,
+  "item_height": 33.25,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009935",
+  "provenance_text": "G. David Thompson",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150086&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5f193725-1a9f-4fe1-b18f-704c7d21b37d",
+      "party_type": "Person",
+      "full_name": "Alexandre Garbell",
+      "cited_name": "Garbell, Alexandre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1903-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Riga (Irkutskaya Oblast', Rossiya republic, Russia)",
+      "death_place": null
+    }
+  ]
+}

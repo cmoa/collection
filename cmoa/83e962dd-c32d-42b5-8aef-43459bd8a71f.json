@@ -1,0 +1,39 @@
+{
+  "title": "Manuscript Page",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "watercolor, ink, and gilding on paper",
+  "accession_number": "84.78.1",
+  "id": "cmoa:things/83e962dd-c32d-42b5-8aef-43459bd8a71f",
+  "credit_line": "Bequest of Ruth Crawford Mitchell",
+  "date_acquired": "1984-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.687,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025176",
+  "provenance_text": "The Estate of Ruth Crawford Mitchell",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4285&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4faa896-b566-45ac-b1d4-258f598ad997",
+      "party_type": "Person",
+      "full_name": "unknown Persian",
+      "cited_name": "unknown Persian",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

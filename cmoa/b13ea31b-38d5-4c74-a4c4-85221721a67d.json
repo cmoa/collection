@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "960-1276",
+  "creation_date_earliest": "0959-12-27",
+  "creation_date_latest": "1275-12-25",
+  "medium": "porcelain",
+  "accession_number": "60.54",
+  "id": "cmoa:things/b13ea31b-38d5-4c74-a4c4-85221721a67d",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1960-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.562,
+  "item_depth": 0.0,
+  "item_diameter": 8.688,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011333",
+  "provenance_text": "Howard Hollis, OH, Cleveland",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1305&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

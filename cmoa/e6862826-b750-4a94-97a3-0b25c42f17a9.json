@@ -1,0 +1,39 @@
+{
+  "title": "Modern Warfare",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "oil and acrylic on canvas",
+  "accession_number": "81.45",
+  "id": "cmoa:things/e6862826-b750-4a94-97a3-0b25c42f17a9",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Off-site",
+  "item_width": 192.0,
+  "item_height": 96.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021889",
+  "provenance_text": "John Weber Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28958&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/079f02a6-5dbc-4420-a2ab-a94b9de6fbaa",
+      "party_type": "Person",
+      "full_name": "Kes Zapkus",
+      "cited_name": "Zapkus, Kes",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Lithuania",
+      "death_place": null
+    }
+  ]
+}

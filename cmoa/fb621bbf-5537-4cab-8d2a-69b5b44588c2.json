@@ -1,0 +1,42 @@
+{
+  "title": "Iron Gate",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.54.4",
+  "id": "cmoa:things/fb621bbf-5537-4cab-8d2a-69b5b44588c2",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1956-12-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 28.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009934",
+  "provenance_text": "G. David Thompson",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126429&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126430&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f2db78d-b698-455b-bbdf-3d92d4bf7dca",
+      "party_type": "Person",
+      "full_name": "John Piper",
+      "cited_name": "Piper, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1903-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Epsom (Surrey, England, United Kingdom)",
+      "death_place": "Henley-on-Thames (Oxfordshire, England, United Kingdom)"
+    }
+  ]
+}

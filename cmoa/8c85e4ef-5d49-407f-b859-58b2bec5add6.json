@@ -1,0 +1,39 @@
+{
+  "title": "Myself and Venus",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "10.1",
+  "id": "cmoa:things/8c85e4ef-5d49-407f-b859-58b2bec5add6",
+  "credit_line": "Purchase",
+  "date_acquired": "1910-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 34.125,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000442",
+  "provenance_text": "Sir William Orpen [1878-1931], until 1910. Purchased by Museum, 1910 [1]. \nNOTES:1. Shown in the 1910 Annual Exhibition",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16747&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44298f4c-38df-49bb-bb30-e61195491ad1",
+      "party_type": "Person",
+      "full_name": "Sir William Orpen",
+      "cited_name": "Orpen, William",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1878-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

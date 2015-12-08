@@ -1,0 +1,51 @@
+{
+  "title": "Scene of Merchant of Venice, Florence",
+  "creation_date": "c. 1926-1940",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "etching on paper",
+  "accession_number": "95.101.29",
+  "id": "cmoa:things/283c113e-0816-4e41-92a7-6fc77facd20e",
+  "credit_line": "Gift of David L. Purdy",
+  "date_acquired": "1995-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.563,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035371",
+  "provenance_text": "Earl Purdy [1892-1971]. David L. Purdy, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, October 1995.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114665&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ba8c351a-1864-4867-bb31-c85ef426b37e",
+      "party_type": "Person",
+      "full_name": "Earl Purdy",
+      "cited_name": "Purdy, Earl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c80902e5-e704-4bb8-96ac-b2f08d7791b2",
+      "party_type": "Person",
+      "full_name": "Leonard Leibowitz",
+      "cited_name": "Leibowitz, Leonard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

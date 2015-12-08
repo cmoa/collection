@@ -1,0 +1,39 @@
+{
+  "title": "Panel, Armorial",
+  "creation_date": "1639",
+  "creation_date_earliest": "1639-01-01",
+  "creation_date_latest": "1639-01-01",
+  "medium": "stained glass",
+  "accession_number": "83.102.3",
+  "id": "cmoa:things/1b2c50a9-ab9a-4fe3-ac24-4b3f89402956",
+  "credit_line": "Gift of Richard M. Scaife",
+  "date_acquired": "1984-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 15.25,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023573",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7319&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac654c5c-8453-4b8a-ab5b-9817583e2fdc",
+      "party_type": "Person",
+      "full_name": "unknown Swiss",
+      "cited_name": "unknown Swiss",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

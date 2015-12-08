@@ -1,0 +1,39 @@
+{
+  "title": "Octagonal dish",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "Ceramic",
+  "accession_number": "70.55.9",
+  "id": "cmoa:things/a4fa0f33-5f51-41ce-99d8-216b327afb42",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1970-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 7.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015881",
+  "provenance_text": "Mrs. Fred C. Foy, Rector, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1386&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c97f731d-a87e-4bc2-b385-53e6cd58ead9",
+      "party_type": "Person",
+      "full_name": "unknown Japanese, Arita",
+      "cited_name": "unknown Japanese, Arita",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

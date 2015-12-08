@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Countess de Valfons",
+  "creation_date": "1810",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "watercolor on ivory; gold mounted wood frame",
+  "accession_number": "27.10.186",
+  "id": "cmoa:things/05378133-0629-4c6e-a244-e80cb19b0981",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.25,
+  "item_height": 4.875,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005643",
+  "provenance_text": "Gresy, Paris, France; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 15, 1912; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73650&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283f1658-84b5-496a-b70d-3cdc0e9d373b",
+      "party_type": "Person",
+      "full_name": "Joseph Bordes",
+      "cited_name": "Bordes, Joseph",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1773-01-01",
+      "death_date": "1835-01-01",
+      "birth_place": " Toulon (Var, Provence-Alpes-Côte d'Azur, France)",
+      "death_place": null
+    }
+  ]
+}

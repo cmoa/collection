@@ -1,0 +1,51 @@
+{
+  "title": "From the South Seas",
+  "creation_date": "c. 1913-1914, published 1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "70.40.2",
+  "id": "cmoa:things/f425c338-9013-41d3-90b1-ea705eb4efea",
+  "credit_line": "Gift of Mrs. Alexander C. Speyer, Sr, in honor of the Sarah Mellon Scaife Gallery",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015796",
+  "provenance_text": "Mrs. Alexander C. Speyer, Sr",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108413&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06225ec9-2766-4d3d-8b05-303392134ae3",
+      "party_type": "Person",
+      "full_name": "H. Max Pechstein",
+      "cited_name": "Pechstein, H. M.",
+      "role": "publisher",
+      "nationality": "German",
+      "birth_date": "1881-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Zwickau (Chemnitz district, Saxony, Germany)",
+      "death_place": "Berlin (Berlin state, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/1abb57b6-1d90-434b-9016-8ba99f81a1c7",
+      "party_type": "Person",
+      "full_name": "Paul Cassirer",
+      "cited_name": "Cassirer, Paul",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1871-02-21",
+      "death_date": "1926-01-07",
+      "birth_place": "Görlitz, Germany",
+      "death_place": "Berlin, Germany"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "The Turkish Court",
+  "creation_date": "September 1, 1851",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1851-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2012.15",
+  "id": "cmoa:things/e4ae79ec-9559-466a-bc89-ad62b6b4308b",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2012-04-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98358",
+  "provenance_text": "Bank of New York Mellon",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115394&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115393&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8a2d89d1-36bc-41f3-b007-f7cc2a267a6a",
+      "party_type": "Person",
+      "full_name": "Walter Goodall",
+      "cited_name": "Goodall, Walter",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1830-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fd15c362-7edd-4e09-b508-e835b2b8d9c8",
+      "party_type": "Organization",
+      "full_name": "Day & Son",
+      "cited_name": "Day & Son",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1845-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

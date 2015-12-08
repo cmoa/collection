@@ -1,0 +1,42 @@
+{
+  "title": "Chuck",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "painted aluminum and aluminum screening",
+  "accession_number": "94.248.1",
+  "id": "cmoa:things/fb1b41d1-6c9d-40f4-95a8-12897ace38bf",
+  "credit_line": "Gift of Charles H. Carpenter, Jr.",
+  "date_acquired": "1995-01-19",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 66.0,
+  "item_height": 25.5,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035129",
+  "provenance_text": "Gift of Charles H. Carpenter, Jr., New Canaan, CT, 1995.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49281&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10090&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a081ad74-aef8-411b-b4a5-8df5c32d8906",
+      "party_type": "Person",
+      "full_name": "Lynda Benglis",
+      "cited_name": "Benglis, Lynda",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Lake Charles (Calcasieu parish, Louisiana, United States)",
+      "death_place": null
+    }
+  ]
+}

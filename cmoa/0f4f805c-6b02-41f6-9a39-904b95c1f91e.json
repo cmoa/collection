@@ -1,0 +1,39 @@
+{
+  "title": "The Nets",
+  "creation_date": null,
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "69.48.256",
+  "id": "cmoa:things/0f4f805c-6b02-41f6-9a39-904b95c1f91e",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012843",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107992&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2bd9db0f-1236-4bab-afcd-39b2516a46bd",
+      "party_type": "Person",
+      "full_name": "Seong Moy",
+      "cited_name": "Moy, Seong",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": "Canton (Canton province, China)",
+      "death_place": null
+    }
+  ]
+}

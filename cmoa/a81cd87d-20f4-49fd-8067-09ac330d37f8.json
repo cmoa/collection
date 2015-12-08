@@ -1,0 +1,39 @@
+{
+  "title": "Whoa, Emma!",
+  "creation_date": "c. 1865-1876",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.5.2",
+  "id": "cmoa:things/a81cd87d-20f4-49fd-8067-09ac330d37f8",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 16.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011069",
+  "provenance_text": "Johanna K. W. Hailman, Pittsburgh;  bequest to museum, 1959",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126263&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": "formerly attributed to",
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

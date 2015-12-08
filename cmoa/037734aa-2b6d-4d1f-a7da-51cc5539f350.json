@@ -1,0 +1,39 @@
+{
+  "title": "The Long Gallery, Louvre",
+  "creation_date": "1894",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "transfer lithograph with stumping on paper",
+  "accession_number": "18.34.2",
+  "id": "cmoa:things/037734aa-2b6d-4d1f-a7da-51cc5539f350",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1918-12-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.812,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001798",
+  "provenance_text": "James Abbott McNeill Whistler [1834-1903]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, December 1918.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55630&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

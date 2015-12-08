@@ -1,0 +1,63 @@
+{
+  "title": "The Great Executioner",
+  "creation_date": "1755",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.32",
+  "id": "cmoa:things/c0c51be2-9e8a-491d-805f-716a1fdd7a78",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34375",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39433&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/80e1fdac-4399-45b5-9463-ed47ef96316d",
+      "party_type": "Person",
+      "full_name": "Richard Houston",
+      "cited_name": "Houston, Richard",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1721-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/51100163-dbfc-4300-9212-86fc421b8a59",
+      "party_type": "Person",
+      "full_name": "Prince Rupert of the Rhine",
+      "cited_name": "Rupert",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1619-01-01",
+      "death_date": "1682-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/99e88a0b-2163-45fe-a27e-abefaca12bad",
+      "party_type": "Person",
+      "full_name": "Jusepe de Ribera",
+      "cited_name": "Ribera, Jusepe de",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1591-01-01",
+      "death_date": "1652-01-01",
+      "birth_place": "Játiva (Valencia province, Valencia region, Spain)",
+      "death_place": "Naples (Napoli province, Campania, Italy)"
+    }
+  ]
+}

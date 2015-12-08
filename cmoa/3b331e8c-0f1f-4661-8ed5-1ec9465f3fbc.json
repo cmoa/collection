@@ -1,0 +1,51 @@
+{
+  "title": "Gerbrandus van Leevwen (Leeuwen)",
+  "creation_date": "c. 1680-1710",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1720-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.38",
+  "id": "cmoa:things/3b331e8c-0f1f-4661-8ed5-1ec9465f3fbc",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34388",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a65a8db8-2475-48f4-a16d-643ff13b20e8",
+      "party_type": "Person",
+      "full_name": "Pieter Schenck",
+      "cited_name": "Schenck, Pieter",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1660-01-01",
+      "death_date": "1718-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/63566415-3a78-419c-bf6c-b7800a493cb2",
+      "party_type": "Person",
+      "full_name": "Arnold Boonen",
+      "cited_name": "Boonen, Arnold",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1669-01-01",
+      "death_date": "1729-01-01",
+      "birth_place": "Dordrecht (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

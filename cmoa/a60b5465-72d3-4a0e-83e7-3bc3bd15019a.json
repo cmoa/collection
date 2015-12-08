@@ -1,0 +1,49 @@
+{
+  "title": "The Bradford Court",
+  "creation_date": "September 1, 1851",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1851-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2009.73.18",
+  "id": "cmoa:things/a60b5465-72d3-4a0e-83e7-3bc3bd15019a",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88990",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03f8173e-eadc-4919-93ec-f796b4fa8b47",
+      "party_type": "Person",
+      "full_name": "Henry Clarke Pidgeon",
+      "cited_name": "Pidgeon, Henry Clarke",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1807-01-01",
+      "death_date": "1880-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fd15c362-7edd-4e09-b508-e835b2b8d9c8",
+      "party_type": "Organization",
+      "full_name": "Day & Son",
+      "cited_name": "Day & Son",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1845-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

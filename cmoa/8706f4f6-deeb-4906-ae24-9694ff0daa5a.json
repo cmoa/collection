@@ -1,0 +1,37 @@
+{
+  "title": "Untitled",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "95.109",
+  "id": "cmoa:things/8706f4f6-deeb-4906-ae24-9694ff0daa5a",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Stanley R. Gumberg in honor of Phillip M. Johnston",
+  "date_acquired": "1995-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 77.0,
+  "item_height": 51.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035486",
+  "provenance_text": "Marge Goldwater, Inc., New York, NY",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/26c80b35-726b-4f24-b52f-6629b32dafb7",
+      "party_type": "Person",
+      "full_name": "Moshe Kupferman",
+      "cited_name": "Kupferman, Moshe",
+      "role": null,
+      "nationality": "Israeli",
+      "birth_date": "1926-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Yaroslav, Poland",
+      "death_place": null
+    }
+  ]
+}

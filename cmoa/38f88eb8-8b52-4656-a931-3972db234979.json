@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1830",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "77.11.5",
+  "id": "cmoa:things/38f88eb8-8b52-4656-a931-3972db234979",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-05-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 1.312,
+  "item_depth": 8.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018329",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2487&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

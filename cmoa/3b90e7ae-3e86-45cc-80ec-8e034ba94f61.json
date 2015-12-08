@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1759",
+  "creation_date_earliest": "1759-01-01",
+  "creation_date_latest": "1759-01-01",
+  "medium": "silver, wood",
+  "accession_number": "70.32.2386.A-B",
+  "id": "cmoa:things/3b90e7ae-3e86-45cc-80ec-8e034ba94f61",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 9.75,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014592",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d265a84-636a-433f-940c-d7db003df3d5",
+      "party_type": "Person",
+      "full_name": "James William",
+      "cited_name": "William, James",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1753-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

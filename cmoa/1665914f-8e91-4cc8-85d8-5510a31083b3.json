@@ -1,0 +1,39 @@
+{
+  "title": "Goblet (Three Face)",
+  "creation_date": "1878 (patented)",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.244",
+  "id": "cmoa:things/1665914f-8e91-4cc8-85d8-5510a31083b3",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.125,
+  "item_depth": 0.0,
+  "item_diameter": 3.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007876",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3353&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c49d1d1-88ef-4f60-87da-9bd43269f390",
+      "party_type": "Organization",
+      "full_name": "George Duncan and Sons",
+      "cited_name": "Duncan, George and Sons (Manufacturer)",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1892-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

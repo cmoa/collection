@@ -1,0 +1,39 @@
+{
+  "title": "Bouquet",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "tempera or casein on fibrous japan paper",
+  "accession_number": "93.189.32",
+  "id": "cmoa:things/d5192166-91d0-42ef-9038-c9b8c3c4fe78",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.875,
+  "item_height": 34.875,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033311",
+  "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh PA; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21672&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8b46557-b65d-4fd0-8983-7b172cfd6fc7",
+      "party_type": "Person",
+      "full_name": "Morris Graves",
+      "cited_name": "Graves, Morris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": "Fox (Grant county, Oregon, United States)",
+      "death_place": "Loleta, CA"
+    }
+  ]
+}

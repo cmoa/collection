@@ -1,0 +1,39 @@
+{
+  "title": "Boston Creams",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "76.45.5",
+  "id": "cmoa:things/d7b9f4aa-d319-4313-b9eb-21f6974a2151",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1976-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.25,
+  "item_height": 13.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018135",
+  "provenance_text": "William and Deborah Struve, East Haddam, CT.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eecca848-e9df-4c36-83a0-fe823180cd22",
+      "party_type": "Person",
+      "full_name": "Wayne Thiebaud",
+      "cited_name": "Thiebaud, Wayne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": "Mesa (Maricopa county, Arizona, United States)",
+      "death_place": null
+    }
+  ]
+}

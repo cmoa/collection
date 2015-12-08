@@ -1,0 +1,51 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "c. 1875",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "copper",
+  "accession_number": "2002.10",
+  "id": "cmoa:things/39a0a2d0-aa7f-426f-b51c-ddbea2478dcd",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2002-04-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004425",
+  "provenance_text": "Paul Reeves, London",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a4e27d9f-6b37-4f7f-ac7e-2c25ca9b04b9",
+      "party_type": "Person",
+      "full_name": "John Moyr Smith",
+      "cited_name": "Smith, John M.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1868-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

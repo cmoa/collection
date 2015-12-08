@@ -1,0 +1,39 @@
+{
+  "title": "Saint Eustace",
+  "creation_date": "c. 1501",
+  "creation_date_earliest": "1495-12-23",
+  "creation_date_latest": "1505-12-22",
+  "medium": "engraving",
+  "accession_number": "53.5.4",
+  "id": "cmoa:things/b9a7e60a-198f-4243-b394-1827a3dda0a0",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 14.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009171",
+  "provenance_text": "Albrecht Dürer [1471-1528]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1953.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128289&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Young Girl in Pink (Petite fille en rose)",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.37.2",
+  "id": "cmoa:things/f6b25a07-9a8a-4019-a641-e7ea98e68394",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife",
+  "date_acquired": "1962-12-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 21.5,
+  "item_height": 25.875,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011577",
+  "provenance_text": "Pierre Auguste Renoir [1841-1919], France. Josse and Gaston Bernheim-Jeune, Paris, France, by 1913 [1]; purchased by Galerie Bernheim-Jeune, Paris, France, on November 12, 1927 [2]; purchased by Gordon C. Edwards, Ottawa, Canada, May 25, 1928; Durand-Ruel Family collection, Paris, France; possibly Galerie Durand-Ruel, Paris, France [3]; Sam Salz [1894-1981], Inc., New York, NY; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, December 1962. \n\nNotes:\n[1]. Possibly bought in1896; see correspondence from Sam Salz in curatorial file. \n[2]. Purchased for 250,000 francs; stock no. 25082, photograph no. 6607. See also \"Renoir: Catalogue raisonné des tableaux, pastels, dessins et aquarelles\" by Guy-Patrice et Michel Dauberville avec la collaboration de Camille Fremontier-Murphy, volume 3, no. 2340.\n[3]. No. 5756, photograph A 2003; see curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146595&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146596&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44cf7f5e-cf2f-4ad6-ba20-97fabb279d29",
+      "party_type": "Person",
+      "full_name": "Pierre Auguste Renoir",
+      "cited_name": "Renoir, Pierre A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1841-02-25",
+      "death_date": "1919-12-03",
+      "birth_place": "Limoges, France",
+      "death_place": "Cagnes-sur-Mer, France"
+    }
+  ]
+}

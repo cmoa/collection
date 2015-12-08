@@ -1,0 +1,39 @@
+{
+  "title": "Wet Orange (Triptych)",
+  "creation_date": "1971-1972",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.11.A-.C",
+  "id": "cmoa:things/f47a21c9-75ab-4195-b494-e248f4dc9beb",
+  "credit_line": "Purchase: gift of National Endowment for the Arts Matching Grant and Kaufmann's Department Store",
+  "date_acquired": "1974-02-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 245.0,
+  "item_height": 112.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016884",
+  "provenance_text": "Martha Jackson Gallery, New York, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146923&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f09394a-0a96-44dd-9499-6306197f6590",
+      "party_type": "Person",
+      "full_name": "Joan Mitchell",
+      "cited_name": "Mitchell, Joan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Chicago, Illinois",
+      "death_place": "Paris, France"
+    }
+  ]
+}

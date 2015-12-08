@@ -1,0 +1,39 @@
+{
+  "title": "Mexico City",
+  "creation_date": null,
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "ink on laminated linen",
+  "accession_number": "82.80.10",
+  "id": "cmoa:things/8f438fd6-09d4-4ea5-9cfa-29880cf8eeb9",
+  "credit_line": "Gift of Mrs. Alfred Bendiner",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.9,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023142",
+  "provenance_text": "Mrs. Alfred Bendiner, Philadelphia; gift to museum, December 1982",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48847&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f570adcf-6d6d-463a-91a4-1663c637f0e7",
+      "party_type": "Person",
+      "full_name": "Alfred Bendiner",
+      "cited_name": "Bendiner, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Philadelphia, Pennsylvania"
+    }
+  ]
+}

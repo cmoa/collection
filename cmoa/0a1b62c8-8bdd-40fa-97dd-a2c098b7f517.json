@@ -1,0 +1,39 @@
+{
+  "title": "Devonian Period",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "92.157",
+  "id": "cmoa:things/0a1b62c8-8bdd-40fa-97dd-a2c098b7f517",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1992-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 27.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031300",
+  "provenance_text": "Hiroshi Sugimoto, Paris, France",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114550&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f256b7e4-b95b-4950-a43f-878c9f90c933",
+      "party_type": "Person",
+      "full_name": "Hiroshi Sugimoto",
+      "cited_name": "Sugimoto, Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

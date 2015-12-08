@@ -1,0 +1,51 @@
+{
+  "title": "Minotaure aveugle guidé par une filette dans la nuit (Blind Minotaur Guided by a Young Girl in the Night)",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "aquatint, scraper, drypoint, and burin on Montval paper",
+  "accession_number": "2013.13",
+  "id": "cmoa:things/c20f15d2-18f0-4f62-866a-ac383809ce96",
+  "credit_line": "Alan G. and Jane A. Lehman Fund, Robert S. Waters Charitable Trust Fund, and Charles J. Rosenbloom Fund",
+  "date_acquired": "2013-05-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101444",
+  "provenance_text": "Ambroise Vollard, Paris\nHenri M. Petiet, Paris (from the Vollard Estate)\nHeirs of Henri M. Petiet, Paris\nMarc Rosen Fine Art, Ltd., New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119885&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": "printer",
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    },
+    {
+      "artist_id": "cmoa:parties/380e63f2-503c-4f24-8371-247fbe46ed13",
+      "party_type": "Person",
+      "full_name": "Roger Lacourière",
+      "cited_name": "Lacourière, Roger",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1892-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

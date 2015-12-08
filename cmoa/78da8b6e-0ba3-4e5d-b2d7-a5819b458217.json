@@ -1,0 +1,39 @@
+{
+  "title": "Bouillon cup",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "68.29.2",
+  "id": "cmoa:things/78da8b6e-0ba3-4e5d-b2d7-a5819b458217",
+  "credit_line": "Mrs. Fred C. Foy Purchase Fund",
+  "date_acquired": "1968-10-16",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 4.187,
+  "item_height": 1.75,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012430",
+  "provenance_text": "M. Glueckselig and Sons, New York, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5300&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df35e54c-d4c0-48ff-8e6c-3ae53ffedf16",
+      "party_type": "Organization",
+      "full_name": "Vienna Porcelain Manufactory",
+      "cited_name": "Vienna Porcelain Manufactory",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1718-01-01",
+      "death_date": "1864-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

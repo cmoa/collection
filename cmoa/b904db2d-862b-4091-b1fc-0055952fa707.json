@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "c. 1755",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1901.A-B",
+  "id": "cmoa:things/b904db2d-862b-4091-b1fc-0055952fa707",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 5.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014061",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11986&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2530ac6a-17b4-4a1c-a70f-429eab8021d8",
+      "party_type": "Organization",
+      "full_name": "Longton Hall Porcelain Factory",
+      "cited_name": "Longton Hall Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1750-01-01",
+      "death_date": "1760-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

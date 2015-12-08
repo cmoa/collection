@@ -1,0 +1,39 @@
+{
+  "title": "Against the Wall",
+  "creation_date": "c.1935-1942",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "ink wash",
+  "accession_number": "42.6",
+  "id": "cmoa:things/0a49d634-1849-4920-877d-f6bdea778233",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1942-10-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007347",
+  "provenance_text": "G. David Thompson, Pittsburgh; gift to museum, October 1942",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90180&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55f8db33-c30d-40ff-981e-1dabaf644d27",
+      "party_type": "Person",
+      "full_name": "Benjamin Kopman",
+      "cited_name": "Kopman, Benjamin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": " Vitebsk (Vitebsk province, Belarus)",
+      "death_place": null
+    }
+  ]
+}

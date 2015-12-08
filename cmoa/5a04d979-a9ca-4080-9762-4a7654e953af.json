@@ -1,0 +1,39 @@
+{
+  "title": "(Carnegie Institute: Side View)",
+  "creation_date": "no earlier than 1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.84.55",
+  "id": "cmoa:things/5a04d979-a9ca-4080-9762-4a7654e953af",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-12-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 7.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024321",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7969&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d505d21-720d-4bb0-ad64-44ecd98754b9",
+      "party_type": "Person",
+      "full_name": "David J. Hess",
+      "cited_name": "Hess, David J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

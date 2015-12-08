@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1786",
+  "creation_date_earliest": "1786-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "porcelain",
+  "accession_number": "60.35.2",
+  "id": "cmoa:things/5c55fd7d-f2d8-420e-838e-9e64e28cdaf3",
+  "credit_line": "Gift of Mr. and Mrs. Thomas McCutcheon",
+  "date_acquired": "1960-02-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011223",
+  "provenance_text": "Mr. And Mrs. Thomas Mccutcheon",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4196&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df35e54c-d4c0-48ff-8e6c-3ae53ffedf16",
+      "party_type": "Organization",
+      "full_name": "Vienna Porcelain Manufactory",
+      "cited_name": "Vienna Porcelain Manufactory",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1718-01-01",
+      "death_date": "1864-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

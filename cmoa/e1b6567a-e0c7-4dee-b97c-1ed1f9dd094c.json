@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of Daniel O'Connell (1775-1847)",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.142",
+  "id": "cmoa:things/e1b6567a-e0c7-4dee-b97c-1ed1f9dd094c",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 3.25,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005612",
+  "provenance_text": "John Hall, London, England; (D. & J. Welby, Ltd., London, England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, August 27, 1923; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73586&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/800dedd3-ade1-4e91-8042-8e27cf865f76",
+      "party_type": "Person",
+      "full_name": "John Hazlitt",
+      "cited_name": "Hazlitt, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1767-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": " Marshfield (South Gloucestershire, England, United Kingdom)",
+      "death_place": " Stockport (Stockport, England, United Kingdom)"
+    }
+  ]
+}

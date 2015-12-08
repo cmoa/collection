@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "1931-1941",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "silver",
+  "accession_number": "72.14.18.2.A-B",
+  "id": "cmoa:things/0be5941f-3167-434d-aa47-80bb443a3327",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016330",
+  "provenance_text": "Robert S. Waters",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4955&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98895b2f-ea64-496f-9899-6509d1e3267e",
+      "party_type": "Organization",
+      "full_name": "Georg Jensen Manufactory",
+      "cited_name": "Jensen, Georg Manufactory",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1904-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen",
+      "death_place": null
+    }
+  ]
+}

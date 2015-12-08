@@ -1,0 +1,39 @@
+{
+  "title": "Pop Pod #4",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "aluminum beverage cans, hardware cloth",
+  "accession_number": "1998.60",
+  "id": "cmoa:things/18b153f0-7df7-47f4-b14a-104c66ba4be7",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 13.0,
+  "item_depth": 19.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003797",
+  "provenance_text": "Society for Contemporary Crafts, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3123&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd12cdd2-ef8b-4242-866a-2287d7ac3060",
+      "party_type": "Person",
+      "full_name": "John Garrett",
+      "cited_name": "Garrett, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

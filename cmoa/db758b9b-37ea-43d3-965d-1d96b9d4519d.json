@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1725-1750",
+  "creation_date_earliest": "1725-01-01",
+  "creation_date_latest": "1750-01-01",
+  "medium": "brown-glazed earthenware",
+  "accession_number": "69.55",
+  "id": "cmoa:things/db758b9b-37ea-43d3-965d-1d96b9d4519d",
+  "credit_line": "Decorative Arts Discretionary Fund",
+  "date_acquired": "1969-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.562,
+  "item_height": 11.25,
+  "item_depth": 5.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012987",
+  "provenance_text": "Barozzi, N.H. Alvise, Venice, Italy",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4430&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ba22b3-060e-4a3b-bd75-385716e77b3e",
+      "party_type": "Person",
+      "full_name": "unknown Venetian",
+      "cited_name": "unknown Venetian",
+      "role": null,
+      "nationality": "Venetian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

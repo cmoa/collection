@@ -1,0 +1,39 @@
+{
+  "title": "Dawn",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "25.9",
+  "id": "cmoa:things/482bff0f-14ea-4f45-9be4-e0e6f7a90967",
+  "credit_line": "Gift of the National Academy of Design, through Henry W. Ranger Fund",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 23.75,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005311",
+  "provenance_text": "Dwight William Tryon [1849-1925], until 1925; (Howard Young Galleries, New York, 1925); National Academy of Design, New York, 1925; gift to Museum, 1925.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c196b89-8e21-4617-a568-48719992afbb",
+      "party_type": "Person",
+      "full_name": "Dwight William Tryon",
+      "cited_name": "Tryon, Dwight W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1849-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": "South Dartmouth (Bristol county, Massachusetts, United States)"
+    }
+  ]
+}

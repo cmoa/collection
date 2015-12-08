@@ -1,0 +1,51 @@
+{
+  "title": "Chariot of Aurora",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "lacquer and metal leaf on plaster relief",
+  "accession_number": "94.242.A-FF",
+  "id": "cmoa:things/5f3e3f18-0529-4435-a53b-904cf78b93e4",
+  "credit_line": "Gift of Frederick R. Koch",
+  "date_acquired": "1994-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 10, Scaife Galleries",
+  "item_width": 312.0,
+  "item_height": 216.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035084",
+  "provenance_text": "Commissioned by The Compagnie Generale Transatlantique, 1932?; SS Normandie, 1935 until at least 1942 [1]; SS Île de France, 1949 until sometime before 1959 [2]; sale, LeHavre, France, on August 1, 1962; Private collection, Europe; Bruce Newman, Newel Art Galleries, New York, NY, by 1984; Frederick R. Koch, New York, NY, by 1984; gift to Carnegie Museum of Art, Pittsburgh, PA, December 1994. \nNOTES: [1] These panels were installed in the Grand Saloon of the SS Normandie in 1935. Sometime in 1942, the Normandie was stripped of her interior and retrofitted for service in World War II. These panels were returned to the Compagnie Generale Transatlantique. [2] Installed in the first class smoking room of the SS Île de France.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8795&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/50fd5c62-d651-4661-8d3e-0d0a2484d7dd",
+      "party_type": "Person",
+      "full_name": "Jean-Théodore Dupas",
+      "cited_name": "Dupas, Jean-Théodore",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1882-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bca3ee67-5eef-4a17-96f1-fc8a0f922b52",
+      "party_type": "Person",
+      "full_name": "Jean Dunand",
+      "cited_name": "Dunand, Jean",
+      "role": "maker",
+      "nationality": "Swiss",
+      "birth_date": "1877-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": " Lancy (Geneva canton, Switzerland)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

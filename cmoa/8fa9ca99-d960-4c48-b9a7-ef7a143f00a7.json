@@ -1,0 +1,39 @@
+{
+  "title": "The Nest",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.28",
+  "id": "cmoa:things/8fa9ca99-d960-4c48-b9a7-ef7a143f00a7",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012881",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107827&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2eb7ee38-6748-42cb-b067-d743d5fa2dd7",
+      "party_type": "Person",
+      "full_name": "Carman Bonanno",
+      "cited_name": "Bonanno, Carman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": null,
+      "birth_place": "New York",
+      "death_place": null
+    }
+  ]
+}

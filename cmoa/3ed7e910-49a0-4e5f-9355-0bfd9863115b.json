@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Dr. Henri Bourges",
+  "creation_date": "1891",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "oil on cardboard mounted on panel",
+  "accession_number": "66.5",
+  "id": "cmoa:things/3ed7e910-49a0-4e5f-9355-0bfd9863115b",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1966-04-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.25,
+  "item_height": 40.5,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012276",
+  "provenance_text": "Henri Marie Raymond de Toulouse-Lautrec [1864-1901], until 1891; Dr. Henri Bourges (1861-?), Paris, France, c. 1891 until at least 1926 [1]; by descent to Jacques Bourges, his son, Arcachon, France, until at least August 1965 [2]. M. Knoedler & Company, Inc., New York, NY, by January 21, 1966 until April 13, 1966 [3]; purchased by Museum, April 1966.\n\nNotes:\n[1]. Included in \"Henri de Toulouse-Lautrec\" by Maurice Joyant, H. Floury, ed., Paris, 1926: p.131, reproduced on p.135, and noted as \"Coll. de M. H. Bourges\" on p.270. \n[2]. See letter by J. Bourges dated August 2, 1965 in curatorial file.\n[3]. No. A 8976; see correspondence and notes from M. Knoedler in curatorial file and Knoedler Archive, The Getty Research Institute. Knoedler correspondence indicates that the painting was bought \"from off the wall\" of the owner's house. The Knoedler archive shows that the painting was owned in shares by Sarec, SA (7/15), Knoedler (7/15) and Madame Dortu (1/15).",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19640&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d74bc35d-9b45-4b13-8564-a5843e338de6",
+      "party_type": "Person",
+      "full_name": "Henri Marie Raymond de Toulouse-Lautrec",
+      "cited_name": "Toulouse-Lautrec, Henri de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1864-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": "Albi (Tarn, Midi-Pyrénées, France)",
+      "death_place": "Langon (Gironde, Aquitaine, France)"
+    }
+  ]
+}

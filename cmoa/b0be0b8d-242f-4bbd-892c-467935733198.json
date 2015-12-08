@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Franklin Pease",
+  "creation_date": "c. 1845-1850",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "watercolor on ivory; wood frame",
+  "accession_number": "27.10.106",
+  "id": "cmoa:things/b0be0b8d-242f-4bbd-892c-467935733198",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.938,
+  "item_height": 5.375,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005568",
+  "provenance_text": "Elizabeth W. Grogan, granddaughter of the artist; purchased by George S. Palmer, New London, CT, December 11, 1915; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, October 9, 1922; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73530&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73531&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5c7d642-4900-46af-b55c-b9ab29363968",
+      "party_type": "Person",
+      "full_name": "Alvan Clark",
+      "cited_name": "Clark, Alvan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1804-01-01",
+      "death_date": "1887-01-01",
+      "birth_place": " Ashfield (Franklin county, Massachusetts, United States)",
+      "death_place": " Cambridge (Worcester county, Massachusetts, United States)"
+    }
+  ]
+}

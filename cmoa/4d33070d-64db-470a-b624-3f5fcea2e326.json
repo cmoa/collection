@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "porcelain",
+  "accession_number": "55.53.3",
+  "id": "cmoa:things/4d33070d-64db-470a-b624-3f5fcea2e326",
+  "credit_line": "Gift of Elizabeth B. Taber",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 2.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009503",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102823&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1266&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": "possibly by",
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

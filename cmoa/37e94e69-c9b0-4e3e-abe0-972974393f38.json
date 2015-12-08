@@ -1,0 +1,39 @@
+{
+  "title": "Skewer",
+  "creation_date": "1757",
+  "creation_date_earliest": "1757-01-01",
+  "creation_date_latest": "1757-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2368",
+  "id": "cmoa:things/37e94e69-c9b0-4e3e-abe0-972974393f38",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 1.25,
+  "item_depth": 0.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014568",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4780&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9809c22b-24cc-4ada-bbe5-4641ed2cb381",
+      "party_type": "Organization",
+      "full_name": "S. Herbert & Co.",
+      "cited_name": "Herbert, S. & Co.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1747-01-01",
+      "death_date": "1773-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

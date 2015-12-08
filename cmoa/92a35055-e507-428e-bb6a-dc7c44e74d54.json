@@ -1,0 +1,37 @@
+{
+  "title": "Lily",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1143",
+  "id": "cmoa:things/92a35055-e507-428e-bb6a-dc7c44e74d54",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.125,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026908",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from Perkins Oriental Books, Kyoto, Japan; 1961.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/abb457ff-d8d3-4286-bba4-08ab22350970",
+      "party_type": "Person",
+      "full_name": "Tsuchiya Rakuzan",
+      "cited_name": "Tsuchiya Rakuzan",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1886-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

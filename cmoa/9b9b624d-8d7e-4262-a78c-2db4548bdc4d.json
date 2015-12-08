@@ -1,0 +1,54 @@
+{
+  "title": "\"Measured Time\" clock and kitchen timer",
+  "creation_date": "c. 1932",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "Bakelite, metal, enameled metal, printed paper",
+  "accession_number": "2015.15",
+  "id": "cmoa:things/9b9b624d-8d7e-4262-a78c-2db4548bdc4d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2015-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 5.25,
+  "item_height": 6.125,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107180",
+  "provenance_text": "Jason Tracy, Pittsburgh, PA, 2014-2015; Museum purchase, Feb. 4, 2015.",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148844&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148845&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fc3453c-e9b9-4407-ba34-32998fa42d5b",
+      "party_type": "Person",
+      "full_name": "Isamu Noguchi",
+      "cited_name": "Noguchi, Isamu",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Los Angeles, CA",
+      "death_place": "New York, NY"
+    },
+    {
+      "artist_id": "cmoa:parties/7290cff8-adaf-4892-a5d2-d84fbd84ead1",
+      "party_type": "Organization",
+      "full_name": "Stevenson Manufacturing Company",
+      "cited_name": "Stevenson Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

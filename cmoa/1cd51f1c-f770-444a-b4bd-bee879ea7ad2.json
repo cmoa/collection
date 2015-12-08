@@ -1,0 +1,51 @@
+{
+  "title": "The Fifer",
+  "creation_date": "1894",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "14.8",
+  "id": "cmoa:things/1cd51f1c-f770-444a-b4bd-bee879ea7ad2",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-05-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000963",
+  "provenance_text": "Frederick Augustus Pettit",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72607&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e438a88-d8f0-477b-828b-d4aa99b1bde5",
+      "party_type": "Person",
+      "full_name": "Frederick Augustus Pettit",
+      "cited_name": "Pettit, Frederick A.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Peekskill, New York",
+      "death_place": "Brooklyn, NY"
+    },
+    {
+      "artist_id": "cmoa:parties/79e9ab4d-b856-41c5-af44-5c3f3a5a2457",
+      "party_type": "Person",
+      "full_name": "Edouard Manet",
+      "cited_name": "Manet, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1832-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Profile Portrait of General Charles Antoine Louis Alexis, Comte de Morand",
+  "creation_date": "c. 1834",
+  "creation_date_earliest": "1829-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "bronze",
+  "accession_number": "1999.43",
+  "id": "cmoa:things/4adecb47-e71a-4c11-aad6-fd335b83de1a",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "1999-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 7.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003904",
+  "provenance_text": "Gift of Carol and Herbert Diamond, Pittsburgh, PA, 1999.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6250f6a-763c-4e12-b651-2fefbb88a8b8",
+      "party_type": "Person",
+      "full_name": "Pierre-Jean David D'Angers",
+      "cited_name": "David D'Angers, Pierre-Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1788-01-01",
+      "death_date": "1856-01-01",
+      "birth_place": " Angers (Maine-et-Loire, Pays de la Loire, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

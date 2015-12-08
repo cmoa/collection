@@ -1,0 +1,51 @@
+{
+  "title": "Anne of Austria",
+  "creation_date": "c. 1643",
+  "creation_date_earliest": "1628-01-01",
+  "creation_date_latest": "1658-01-01",
+  "medium": "engraving",
+  "accession_number": "18.17.5",
+  "id": "cmoa:things/0efd7f4b-3bd8-4db2-8ebf-d8291f8c860a",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 12.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001699",
+  "provenance_text": "M. Knoedler  & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105586&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6165f90-44af-4c56-b3dd-4e3ea0079c6f",
+      "party_type": "Person",
+      "full_name": "Jean Morin",
+      "cited_name": "Morin, Jean",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1590-01-01",
+      "death_date": "1650-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/8404a038-c1e2-4b71-8560-a7cef67a249d",
+      "party_type": "Person",
+      "full_name": "Philippe de Champaigne",
+      "cited_name": "Champaigne, Philippe de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

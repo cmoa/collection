@@ -1,0 +1,39 @@
+{
+  "title": "Pour Jorn",
+  "creation_date": "1976",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "79.6.6",
+  "id": "cmoa:things/50f91617-5983-45af-8de9-79c15b38cb10",
+  "credit_line": "Gift of the Asger Jorn Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.5,
+  "item_height": 21.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020867",
+  "provenance_text": "Galerie van de Loo, Munich, Germany",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121740&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ee58a44-fff5-4833-b913-f505a04a2826",
+      "party_type": "Person",
+      "full_name": "Christian Dotremont",
+      "cited_name": "Dotremont, Christian",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1922-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Tervuren (Vlaams-Brabant, Flanders, Belgium)",
+      "death_place": "Buizingen, Belgium"
+    }
+  ]
+}

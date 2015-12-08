@@ -1,0 +1,39 @@
+{
+  "title": "Saint Thomas",
+  "creation_date": "1514",
+  "creation_date_earliest": "1513-12-22",
+  "creation_date_latest": "1513-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.98",
+  "id": "cmoa:things/c72d4055-020e-430f-b0f9-0addae87bbc4",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.938,
+  "item_height": 4.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017653",
+  "provenance_text": "P. Mariette, 1691, Paris 1634-1716 (Lugt 1787).  \nFratelli Vallardi, Milan, mid-19th century (Lugt 2478).  \nCharles J. Rosenbloom (Lugt Suppl 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49118&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

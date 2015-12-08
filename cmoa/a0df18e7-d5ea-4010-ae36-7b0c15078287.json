@@ -1,0 +1,39 @@
+{
+  "title": "Crown of Thorns",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.30",
+  "id": "cmoa:things/a0df18e7-d5ea-4010-ae36-7b0c15078287",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 63.5,
+  "item_height": 44.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009434",
+  "provenance_text": "Galerie de France",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17632&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/870f99a6-044c-4c23-973f-2bb8960012b5",
+      "party_type": "Person",
+      "full_name": "Alfred Manessier",
+      "cited_name": "Manessier, Alfred",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1911-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Sait-Ouen near Amiens",
+      "death_place": "Orléans-La Source"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Column",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "stone",
+  "accession_number": "58.25.34",
+  "id": "cmoa:things/4edad980-7a5f-4605-bcd0-734b69e4f0fe",
+  "credit_line": "Gift of Baroness Cassel Van Doorn",
+  "date_acquired": "1958-11-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 56.0,
+  "item_depth": 12.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010732",
+  "provenance_text": "Baroness Cassel Van Doorn",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115123&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

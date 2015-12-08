@@ -1,0 +1,51 @@
+{
+  "title": "Platter, \"Zodiac\"",
+  "creation_date": "manufactured 1934-1961",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "aluminum with brass",
+  "accession_number": "2003.19",
+  "id": "cmoa:things/47d95975-01d9-4742-916a-df64220214f5",
+  "credit_line": "Gift of Dr. and Mrs. Nicholas K. Long",
+  "date_acquired": "2003-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.125,
+  "item_depth": 0.0,
+  "item_diameter": 18.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3008",
+  "provenance_text": "Dr. and Mrs. Nicholas K. Long, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5245&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e265b491-9954-4ceb-a35b-6b165f4d2cc9",
+      "party_type": "Person",
+      "full_name": "Lurelle Guild",
+      "cited_name": "Guild, Lurelle",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ae543269-6936-49a2-bc94-b956a5bcb37b",
+      "party_type": "Organization",
+      "full_name": "Kensington Inc.",
+      "cited_name": "Kensington Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

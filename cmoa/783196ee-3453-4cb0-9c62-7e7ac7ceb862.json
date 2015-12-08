@@ -1,0 +1,42 @@
+{
+  "title": "The Man with the Pipe, Portrait of Dr. Gachet (L'homme à la pipe)",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "etching on tan wove paper",
+  "accession_number": "67.19.2",
+  "id": "cmoa:things/783196ee-3453-4cb0-9c62-7e7ac7ceb862",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1967-12-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012315",
+  "provenance_text": "Vincent van Gogh [1820-1888]; Dr. Paul Gachet [1828-1909], Paris, France; gift to Loys Delteil [1869-1927], until 1927, (L.773) [1]; Estate of Loys Delteil, 1927 until June 1928; (sold at Hotel Drouot [1852-], Paris, Fance, June 13, 1928 until June 15, 1928, no. 279, illustrated) [2]. Charles J. Rosenbloom [1898-1973], Pittsburgh, PA, by 1946, (L.633b); gift to Museum, December 1967 [3]. \nNOTES:1. Given by \"Van Ryssel\", Dr. Gachet's and his son's pseudonym for signing art. 2. Sale entitled \"Catalogue des Estampes Modernes Composant la Collection Loys Delteil, Artiste-Graveur-Expert\". 3. Updated by CGK July 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107799&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ed9085e-2fa7-4ab1-a8f8-efcc5ceff11e",
+      "party_type": "Person",
+      "full_name": "Vincent van Gogh",
+      "cited_name": "Gogh, Vincent van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1853-03-30",
+      "death_date": "1890-07-29",
+      "birth_place": "Zundert, Netherlands",
+      "death_place": "Auvers-sur-Oise, France"
+    }
+  ]
+}

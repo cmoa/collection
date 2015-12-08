@@ -1,0 +1,39 @@
+{
+  "title": "(Righteous Path) K-7",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "oil on board",
+  "accession_number": "86.15",
+  "id": "cmoa:things/52359da8-77df-4ddb-8311-06dd3f3b7894",
+  "credit_line": "Bequest of Peter Krasnow",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.125,
+  "item_height": 50.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025836",
+  "provenance_text": "Estate of Peter KRASNOW, Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149701&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/02899bd1-2803-43d6-9f7c-5290729c1d35",
+      "party_type": "Person",
+      "full_name": "Peter Krasnow",
+      "cited_name": "Krasnow, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Russia",
+      "death_place": " Los Angeles (Los Angeles county, California, United States)"
+    }
+  ]
+}

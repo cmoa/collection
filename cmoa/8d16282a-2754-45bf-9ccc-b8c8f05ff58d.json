@@ -1,0 +1,42 @@
+{
+  "title": "Plain",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "80.26",
+  "id": "cmoa:things/8d16282a-2754-45bf-9ccc-b8c8f05ff58d",
+  "credit_line": "Fellows Fund",
+  "date_acquired": "1980-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 93.062,
+  "item_height": 68.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021115",
+  "provenance_text": "David McKee Gallery, New York City, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113964&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10330&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/21bf9367-5039-45e2-b24f-daf727c93beb",
+      "party_type": "Person",
+      "full_name": "Philip Guston",
+      "cited_name": "Guston, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Montreal (Québec province, Canada)",
+      "death_place": "Woodstock (Ulster county, New York state, United States)"
+    }
+  ]
+}

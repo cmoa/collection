@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "c. 1745",
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1750-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.7.90.A-B",
+  "id": "cmoa:things/e865e4f0-c115-47fb-94f0-9933f2a7ef19",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 2.25,
+  "item_depth": 4.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016087",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121216&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

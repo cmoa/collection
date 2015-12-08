@@ -1,0 +1,39 @@
+{
+  "title": "Spanish Landscape",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.16",
+  "id": "cmoa:things/b353a093-baf4-4e14-9dd6-b0e8e8326bdc",
+  "credit_line": "Gift of Mrs. Francis Raymond Holland",
+  "date_acquired": "1962-07-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 55.0,
+  "item_height": 55.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011500",
+  "provenance_text": "The artist, until 1925; his widow, until 1962; gift to museum, 1962",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107683&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4e7d5978-f026-41ec-85b8-cba20302fabd",
+      "party_type": "Person",
+      "full_name": "Francis Raymond Holland",
+      "cited_name": "Holland, Francis R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Les Trois Soeurs (The Three Sisters)",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "drypoint and etching",
+  "accession_number": "2002.46",
+  "id": "cmoa:things/dce0b87c-8fe1-4d37-8f45-e43770f04555",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=464",
+  "provenance_text": "Charles M. Young, Glastonbury, CT",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00a3a4a1-f2f3-48b6-adc6-e36267d39752",
+      "party_type": "Person",
+      "full_name": "Joan Miró",
+      "cited_name": "Miró, Joan",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1893-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Barcelona (Barcelona province, Catalonia, Spain)",
+      "death_place": "Palma de Mallorca (Illes Balears province, Comunidad Autónoma de las Islas Baleares, Spain)"
+    }
+  ]
+}

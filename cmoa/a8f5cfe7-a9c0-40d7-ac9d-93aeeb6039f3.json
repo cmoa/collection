@@ -1,0 +1,42 @@
+{
+  "title": "Silenus",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "50.17.14",
+  "id": "cmoa:things/a8f5cfe7-a9c0-40d7-ac9d-93aeeb6039f3",
+  "credit_line": "Gift of Frederic N. Price",
+  "date_acquired": "1950-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008816",
+  "provenance_text": "Ferargil, Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101065&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101066&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Frédéric-Maurice, Duc de Bouillon",
+  "creation_date": "1655",
+  "creation_date_earliest": "1655-01-01",
+  "creation_date_latest": "1655-01-01",
+  "medium": "engraving",
+  "accession_number": "46.16.21",
+  "id": "cmoa:things/d07e4fdf-c819-4f17-9f98-3c739ff1faa6",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.375,
+  "item_height": 15.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007637",
+  "provenance_text": "Robert Nanteuil [1623-1678], France. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1946.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105610&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

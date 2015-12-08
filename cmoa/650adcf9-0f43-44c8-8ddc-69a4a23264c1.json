@@ -1,0 +1,39 @@
+{
+  "title": "Pietà",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "71.13",
+  "id": "cmoa:things/650adcf9-0f43-44c8-8ddc-69a4a23264c1",
+  "credit_line": "Bequest of Paul J. Winschel in memory of Jean Mertz Winschel",
+  "date_acquired": "1971-05-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 24.0,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016108",
+  "provenance_text": "John Kane [1860-1934], until 1934; Maggie Halloran Kane, his widow; Mercy Hospital, Pittsburgh; Mount Mercy Academy, Pittsburgh, by 1936; G. David Thompson, Pittsburgh; Harold Diamond, New York; Paul J. Winschel, Pittsburgh, by 1971. Bequest to Museum, in 1971.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29475&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

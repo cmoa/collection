@@ -1,0 +1,51 @@
+{
+  "title": "Sashimi",
+  "creation_date": "c. 1798-1799",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "18.14.11",
+  "id": "cmoa:things/6dffca80-f80c-495b-81bc-7b893369343a",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001678",
+  "provenance_text": "Yamanaka & Company, New York, 1918",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16597&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/701baf6b-252c-4cc7-8739-75a3ef9dda6d",
+      "party_type": "Person",
+      "full_name": "Utamaro Kitagawa",
+      "cited_name": "Utamaro Kitagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1754-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/c7752fa3-04f8-40aa-9bde-d30ad3fd40ac",
+      "party_type": "Person",
+      "full_name": "Gonkuro Omiya",
+      "cited_name": "Gonkuro Omiya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

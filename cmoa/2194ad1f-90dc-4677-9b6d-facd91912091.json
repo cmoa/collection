@@ -1,0 +1,39 @@
+{
+  "title": "No. 7-64",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.14.2",
+  "id": "cmoa:things/2194ad1f-90dc-4677-9b6d-facd91912091",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 54th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1964-05-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 55.0,
+  "item_height": 36.0,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011775",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146460&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/15b5bf6c-9b75-4dfa-ace4-b60b5576f0d4",
+      "party_type": "Person",
+      "full_name": "Edwin W. Zoller",
+      "cited_name": "Zoller, Edwin W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Tyrone, Pennsylvania"
+    }
+  ]
+}

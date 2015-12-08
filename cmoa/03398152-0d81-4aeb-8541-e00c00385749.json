@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "glazed hard paste porcelain",
+  "accession_number": "70.32.2489",
+  "id": "cmoa:things/03398152-0d81-4aeb-8541-e00c00385749",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.063,
+  "item_height": 2.125,
+  "item_depth": 9.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014710",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2831&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad6fd065-c52d-4027-8957-e5563cab7163",
+      "party_type": "Person",
+      "full_name": "unknown Chinese, Qing dynasty",
+      "cited_name": "unknown Chinese, Qing dynasty",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

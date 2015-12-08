@@ -1,0 +1,39 @@
+{
+  "title": "The Virgin on the Crescent with a Crown of Stars and a Sceptre",
+  "creation_date": "1516",
+  "creation_date_earliest": "1515-12-22",
+  "creation_date_latest": "1515-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.88",
+  "id": "cmoa:things/4abfd907-409b-4c85-b142-425e2bed1dda",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.938,
+  "item_height": 4.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017642",
+  "provenance_text": "Charles J. Rosenbloom (Lugt, Suppl. 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49114&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

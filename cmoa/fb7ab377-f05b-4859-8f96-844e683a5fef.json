@@ -1,0 +1,39 @@
+{
+  "title": "Polished Lady",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "brass and aluminum; walnut base",
+  "accession_number": "86.65",
+  "id": "cmoa:things/fb7ab377-f05b-4859-8f96-844e683a5fef",
+  "credit_line": "Gift of Susan J. Lepper",
+  "date_acquired": "1987-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 16.75,
+  "item_depth": 0.0,
+  "item_diameter": 13.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026238",
+  "provenance_text": "The artist's daughter, Susan J. Lepper, Washington, D.C.; gift to museum, 1986",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149737&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dec2965-16f0-4bc7-a36a-4eaef8f922e8",
+      "party_type": "Person",
+      "full_name": "Robert Lepper",
+      "cited_name": "Lepper, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aspinwall, PA",
+      "death_place": "Washington, DC"
+    }
+  ]
+}

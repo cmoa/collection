@@ -1,0 +1,42 @@
+{
+  "title": "Trinity Cathedral",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "etching",
+  "accession_number": "55.2",
+  "id": "cmoa:things/ca457c5e-64b9-4bf5-a612-a6dc5ec0cd03",
+  "credit_line": "Gift of S. Lee Bear",
+  "date_acquired": "1955-02-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.688,
+  "item_height": 16.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009430",
+  "provenance_text": "S. Lee Bear",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100272&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100271&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8f525e3c-8d77-4b97-af62-fd1610852b38",
+      "party_type": "Person",
+      "full_name": "S. Lee Bear",
+      "cited_name": "Bear, S. Lee",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

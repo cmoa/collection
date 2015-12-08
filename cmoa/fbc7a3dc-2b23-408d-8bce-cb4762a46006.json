@@ -1,0 +1,39 @@
+{
+  "title": "Le Village Au Moulin a Eau",
+  "creation_date": null,
+  "creation_date_earliest": "1629-01-01",
+  "creation_date_latest": "1695-01-01",
+  "medium": "etching",
+  "accession_number": "16.20.1",
+  "id": "cmoa:things/fbc7a3dc-2b23-408d-8bce-cb4762a46006",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001106",
+  "provenance_text": "George Busse, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97acb893-aded-4c7d-8620-926b66c385be",
+      "party_type": "Person",
+      "full_name": "Anthonie Waterloo",
+      "cited_name": "Waterloo, Anthonie",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1609-01-01",
+      "death_date": "1676-01-01",
+      "birth_place": "Lille",
+      "death_place": "Utrecht"
+    }
+  ]
+}

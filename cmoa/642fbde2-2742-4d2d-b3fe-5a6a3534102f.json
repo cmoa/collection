@@ -1,0 +1,39 @@
+{
+  "title": "Le Berger Sur le Petit Pont",
+  "creation_date": null,
+  "creation_date_earliest": "1629-01-01",
+  "creation_date_latest": "1695-01-01",
+  "medium": "etching",
+  "accession_number": "28.10.9",
+  "id": "cmoa:things/642fbde2-2742-4d2d-b3fe-5a6a3534102f",
+  "credit_line": "Gift of Mrs. Herbert L. May",
+  "date_acquired": "1928-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006117",
+  "provenance_text": "Anthonie Waterloo [1610-1690]. Mrs. Herbert L. May; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1928.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101803&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97acb893-aded-4c7d-8620-926b66c385be",
+      "party_type": "Person",
+      "full_name": "Anthonie Waterloo",
+      "cited_name": "Waterloo, Anthonie",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1609-01-01",
+      "death_date": "1676-01-01",
+      "birth_place": "Lille",
+      "death_place": "Utrecht"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Measurement: Plant (Palm)",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "live plant and tape on wall",
+  "accession_number": "1997.37",
+  "id": "cmoa:things/903bed83-36b0-4548-9f59-29e4099acd6e",
+  "credit_line": "Carnegie Mellon Art Gallery Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 48.0,
+  "item_height": 120.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003309",
+  "provenance_text": "Sonnabend Gallery, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128364&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e68bc81-0aaf-4422-bf8f-18a3ae0a82b5",
+      "party_type": "Person",
+      "full_name": "Mel Bochner",
+      "cited_name": "Bochner, Mel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

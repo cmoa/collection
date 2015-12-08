@@ -1,0 +1,39 @@
+{
+  "title": "Hokusai's Wave",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "mild steel",
+  "accession_number": "84.60",
+  "id": "cmoa:things/8945bdf3-3d5c-4863-ad60-651c8f8817e4",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus in memory of Dr. Verner B. Callomon (1892-1977)",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 112.625,
+  "item_height": 84.75,
+  "item_depth": 25.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024945",
+  "provenance_text": "Leon A. Arkus, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9836d8a7-16ac-4c9a-9832-ba4640878bcd",
+      "party_type": "Person",
+      "full_name": "Jack Youngerman",
+      "cited_name": "Youngerman, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Louisville, Kentucky",
+      "death_place": null
+    }
+  ]
+}

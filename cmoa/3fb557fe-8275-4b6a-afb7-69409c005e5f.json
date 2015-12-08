@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1814",
+  "creation_date_earliest": "1809-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "silver and wood",
+  "accession_number": "14.2.1",
+  "id": "cmoa:things/3fb557fe-8275-4b6a-afb7-69409c005e5f",
+  "credit_line": "Gift of Estate of Mary Semple",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 8.75,
+  "item_depth": 5.62,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000936",
+  "provenance_text": "Mary Semple; Estate of Mary Semple; gift to Carnegie Institute, Pittsburgh, PA, 1914.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2159&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36cf7d6f-acd3-4046-a2fd-a37d50610f7e",
+      "party_type": "Person",
+      "full_name": "William Thomson",
+      "cited_name": "Thomson, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1804-01-01",
+      "death_date": "1845-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

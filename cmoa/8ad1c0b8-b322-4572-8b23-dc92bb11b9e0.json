@@ -1,0 +1,39 @@
+{
+  "title": "Cleopatra",
+  "creation_date": "1775",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.65",
+  "id": "cmoa:things/8ad1c0b8-b322-4572-8b23-dc92bb11b9e0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34508",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89a6985b-0ab5-4fbb-b037-c8f4f87a6cda",
+      "party_type": "Person",
+      "full_name": "John Keyse Sherwin",
+      "cited_name": "Sherwin, J. K.",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": "Sussex (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

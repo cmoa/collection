@@ -1,0 +1,39 @@
+{
+  "title": "Singing Birches",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.298",
+  "id": "cmoa:things/763f1ca8-d41d-41eb-965f-b0cf030728db",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012890",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108379&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f384be5e-5aa9-4a8e-9f35-5bd7bbe6b801",
+      "party_type": "Person",
+      "full_name": "C. Jac Young",
+      "cited_name": "Young, C. J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

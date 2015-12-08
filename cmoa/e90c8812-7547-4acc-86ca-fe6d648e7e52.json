@@ -1,0 +1,42 @@
+{
+  "title": "Venus Lamenting the Death of Adonis",
+  "creation_date": "1768, retouched 1819",
+  "creation_date_earliest": "1768-01-01",
+  "creation_date_latest": "1768-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "11.2",
+  "id": "cmoa:things/e90c8812-7547-4acc-86ca-fe6d648e7e52",
+  "credit_line": "Purchase",
+  "date_acquired": "1911-01-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 69.5,
+  "item_height": 64.0,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000586",
+  "provenance_text": "Sir William Young, by 1771; Washington Shirley, 5th Earl Ferrers, until 1778; Robert Shirley, 6th Earl Ferrers, until 1787; Mr. Porter by auction, 1787; John Knight by auction, London, 1789; Mr. Ogle (or Ogel)? by auction, London, 1819; Charles Lindley, 1st Viscount Halifax, 1st Lord of the Admiralty; Thomas Pomaris, after 1884; Thomas J. Blakesly; Vose Galleries of Boston, Boston, 1910; purchased by Museum, 1911.\n\nRecord under review for update, CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104531&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57275&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/801e9971-7294-4036-84fe-b55ef81cef43",
+      "party_type": "Person",
+      "full_name": "Benjamin West",
+      "cited_name": "West, Benjamin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1738-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": "Swarthmore, Pennsylvania",
+      "death_place": "London, England"
+    }
+  ]
+}

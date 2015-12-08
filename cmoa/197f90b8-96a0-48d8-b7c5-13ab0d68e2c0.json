@@ -1,0 +1,51 @@
+{
+  "title": "Nightview of Nihonbashi",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1147",
+  "id": "cmoa:things/197f90b8-96a0-48d8-b7c5-13ab0d68e2c0",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026912",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from  R. E. Lewis, Inc., San Francisco, CA., 3/29/1966.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/49505220-431b-4b5b-87fe-9f3c7b7cab74",
+      "party_type": "Person",
+      "full_name": "Ogura Ryûson",
+      "cited_name": "Ogura Ryûson",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1880-01-01",
+      "death_date": "1890-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/968ebb2d-7c86-4e94-9fdc-4c8349f07a66",
+      "party_type": "Person",
+      "full_name": "Arai Hachizô",
+      "cited_name": "Arai Hachizô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Westminster Palace, London",
+  "creation_date": "1884",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1884-01-01",
+  "medium": "etching, drypoint, aquatint, roulette and salt lift ground on paper",
+  "accession_number": "49.5.1",
+  "id": "cmoa:things/ea2443a2-4900-48ca-af94-d91b6a19de20",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008748",
+  "provenance_text": "Félix Hilaire Buhot [1847-1898]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843), by June 1949; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114702&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c7e9677-4b76-4c1b-9139-9f5e68420be3",
+      "party_type": "Person",
+      "full_name": "Félix Hilaire Buhot",
+      "cited_name": "Buhot, Félix Hilaire",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1847-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": " Valognes (Manche, Basse-Normandie, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

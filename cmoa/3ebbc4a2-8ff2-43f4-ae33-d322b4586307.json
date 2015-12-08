@@ -1,0 +1,39 @@
+{
+  "title": "The Giant Myrtle",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.282",
+  "id": "cmoa:things/3ebbc4a2-8ff2-43f4-ae33-d322b4586307",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012873",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108372&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3a49b506-8917-456f-a0d9-151a85c3d10d",
+      "party_type": "Person",
+      "full_name": "Melville T. Wire",
+      "cited_name": "Wire, Melville T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Austin, IL",
+      "death_place": "Salem, OR"
+    }
+  ]
+}

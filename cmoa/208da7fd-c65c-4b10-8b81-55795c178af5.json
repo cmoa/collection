@@ -1,0 +1,42 @@
+{
+  "title": "Tile",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "2014.72",
+  "id": "cmoa:things/208da7fd-c65c-4b10-8b81-55795c178af5",
+  "credit_line": "Gift of Jason T. Busch in memory of Nina Gray",
+  "date_acquired": "2014-12-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 6.125,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106370",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134075&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134074&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a050aab1-633a-4d46-af0b-b600e7069275",
+      "party_type": "Organization",
+      "full_name": "Trent Tile Company",
+      "cited_name": "Trent Tile Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

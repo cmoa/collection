@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2000.1",
+  "id": "cmoa:things/6c259159-7138-4746-b738-b2db568d5a19",
+  "credit_line": "Gift of friends in memory of Leon A. Arkus, Director, 1968-1980",
+  "date_acquired": "2000-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 11.125,
+  "item_height": 22.5,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004001",
+  "provenance_text": "Grant Selwyn Fine Art, Beverly Hills, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26782&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a826d799-df37-41ba-8320-524028649d84",
+      "party_type": "Person",
+      "full_name": "David Smith",
+      "cited_name": "Smith, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Decatur (Adams county, Indiana, United States)",
+      "death_place": "Bennington (Bennington county, Vermont, United States)"
+    }
+  ]
+}

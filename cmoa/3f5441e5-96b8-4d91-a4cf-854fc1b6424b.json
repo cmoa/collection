@@ -1,0 +1,39 @@
+{
+  "title": "Joseph R. Woodwell",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "30.5",
+  "id": "cmoa:things/3f5441e5-96b8-4d91-a4cf-854fc1b6424b",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1930-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 20.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006611",
+  "provenance_text": "Joseph R. Woodwell [1843-1911], Pittsburgh, 1904 until 1911; Joanna K. W. Hailman, his daughter [1871-1958], Pittsburgh, 1911 until 1930; purchased by Museum, 1930.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113421&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdddde95-77b6-4bbe-87b2-7cd9f55d0283",
+      "party_type": "Person",
+      "full_name": "Thomas Eakins",
+      "cited_name": "Eakins, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

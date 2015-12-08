@@ -1,0 +1,39 @@
+{
+  "title": "(Industry: Jones and Laughlin Steel Mill)",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.41.105",
+  "id": "cmoa:things/dc92dd3c-695d-4214-af80-d3016415f0a9",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024706",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=95989&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/013e4b44-6056-4639-8ccf-7ad288685dbf",
+      "party_type": "Person",
+      "full_name": "Todd Webb",
+      "cited_name": "Webb, Todd",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Detroit, MI",
+      "death_place": "Maine"
+    }
+  ]
+}

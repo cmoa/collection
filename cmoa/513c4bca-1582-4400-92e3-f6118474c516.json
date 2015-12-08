@@ -1,0 +1,51 @@
+{
+  "title": "A court lady, possibly Kashiwagi from the Tale of Genji, chapter 36",
+  "creation_date": "c. 1835-1838",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1838-01-01",
+  "medium": "color woodblock print (kakemono-e)",
+  "accession_number": "17.36.1",
+  "id": "cmoa:things/513c4bca-1582-4400-92e3-f6118474c516",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-31",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001577",
+  "provenance_text": "Dr. Olaf N. Orlow, San Francisco (on loan to Carnegie Institute 1906-1917); held by CI as security for unpaid shipping bill 1910-1917.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107493&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8b507b2-5aa3-4f0c-83b0-70df343dedb4",
+      "party_type": "Person",
+      "full_name": "Utagawa  Kunisada",
+      "cited_name": "Utagawa  Kunisada",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/6de67e5c-4b7e-4991-bfae-94f8df5423c8",
+      "party_type": "Person",
+      "full_name": "Masugin Shiba",
+      "cited_name": "Masugin Shiba",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

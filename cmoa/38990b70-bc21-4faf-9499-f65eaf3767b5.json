@@ -1,0 +1,49 @@
+{
+  "title": "Cleat",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "chrome-plated metal",
+  "accession_number": "2014.85.4.A-.B",
+  "id": "cmoa:things/38990b70-bc21-4faf-9499-f65eaf3767b5",
+  "credit_line": "Gift of Jewel Stern",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 1.875,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=90959",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab73977f-bfaf-4bb8-b30e-f785cff4789f",
+      "party_type": "Organization",
+      "full_name": "Peter Muller-Munk Associates",
+      "cited_name": "Peter Muller-Munk Associates",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a155194a-23f1-473b-b1cc-a3c28969af1a",
+      "party_type": "Organization",
+      "full_name": "Attwood Brass Works",
+      "cited_name": "Attwood Brass Works",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

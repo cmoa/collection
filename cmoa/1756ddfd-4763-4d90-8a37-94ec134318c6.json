@@ -1,0 +1,39 @@
+{
+  "title": "French Landscape",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil print",
+  "accession_number": "2007.51.77",
+  "id": "cmoa:things/1756ddfd-4763-4d90-8a37-94ec134318c6",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 8.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49081",
+  "provenance_text": "George Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55950&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93b4e2fc-8fd6-4ca4-b625-2fb90d8ae7d8",
+      "party_type": "Person",
+      "full_name": "C. H. Roblot",
+      "cited_name": "Roblot, C. H.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Normandie Pitcher",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "chrome-plated brass",
+  "accession_number": "87.29.1",
+  "id": "cmoa:things/a3f19aa0-8588-4092-abb6-ea7654cb2908",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1987-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 12.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026333",
+  "provenance_text": "David A. Hanks and Associates, Inc.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53565&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53564&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53566&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2bc5434-d4f8-4608-8733-cbdfdf01b477",
+      "party_type": "Person",
+      "full_name": "Peter Muller-Munk",
+      "cited_name": "Muller-Munk, Peter",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "Pittsburgh, PA, USA"
+    },
+    {
+      "artist_id": "cmoa:parties/19b5695a-6bb9-44ea-b9a7-d1049e872da2",
+      "party_type": "Organization",
+      "full_name": "Revere Copper and Brass Co.",
+      "cited_name": "Revere Copper and Brass Co.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Rome, New York",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Sanjo Bridge in the Rain (Kyô sanjô)",
+  "creation_date": "May 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.27",
+  "id": "cmoa:things/5463698d-ba23-43fe-8924-b1fa513cf721",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028759",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from C. H. Mitchell, Tokyo, Japan, 1970's.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37926&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9852c3cd-fdeb-4dcf-abde-5425fb362a04",
+      "party_type": "Person",
+      "full_name": "Asahi Masahide",
+      "cited_name": "Asahi Masahide",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1900-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

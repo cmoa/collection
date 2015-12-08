@@ -1,0 +1,37 @@
+{
+  "title": "My Best Thing",
+  "creation_date": "2011",
+  "creation_date_earliest": "2011-01-01",
+  "creation_date_latest": "2011-01-01",
+  "medium": "video; color, sound; 100 min.",
+  "accession_number": "2012.4",
+  "id": "cmoa:things/25c99158-4af9-4f4a-a1c2-de8c848d17b9",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2012-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98312",
+  "provenance_text": null,
+  "classification": "Video",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f3cafae2-beb1-42c4-a397-2e0008b5f515",
+      "party_type": "Person",
+      "full_name": "Frances Stark",
+      "cited_name": "Stark, Frances",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": "Newport Beach, California, United States of America",
+      "death_place": null
+    }
+  ]
+}

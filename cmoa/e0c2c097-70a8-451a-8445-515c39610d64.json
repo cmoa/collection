@@ -1,0 +1,51 @@
+{
+  "title": "School; Taylor Allderdice High School, Pittsburgh, PA; [exterior perspective]",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "pencil and watercolor on card, framed",
+  "accession_number": "95.105.10",
+  "id": "cmoa:things/e0c2c097-70a8-451a-8445-515c39610d64",
+  "credit_line": "Gift of Pittsburgh Public Schools",
+  "date_acquired": "1995-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035435",
+  "provenance_text": "Pittsburgh Public Schools, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9814&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c8c7d97-3f50-4461-b59a-af2ec8a60dce",
+      "party_type": "Person",
+      "full_name": "Robert  Maurice Trimble",
+      "cited_name": "Trimble, Robert M.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": "Alleghany City, Pa.",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a6ef1200-8fc6-4f38-9091-34a1dcc3dbf0",
+      "party_type": "Person",
+      "full_name": "Douglas Ellington",
+      "cited_name": "Ellington, Douglas",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Clayton, Johnston County, North Carolina",
+      "death_place": "Asheville, North Carolina"
+    }
+  ]
+}

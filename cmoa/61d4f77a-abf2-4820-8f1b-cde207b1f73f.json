@@ -1,0 +1,39 @@
+{
+  "title": "(Street Scene: City of Allegheny)",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "cyanotype",
+  "accession_number": "85.4.44",
+  "id": "cmoa:things/61d4f77a-abf2-4820-8f1b-cde207b1f73f",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1985-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025585",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5481&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

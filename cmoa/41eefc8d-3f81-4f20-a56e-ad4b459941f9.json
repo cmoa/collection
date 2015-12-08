@@ -1,0 +1,51 @@
+{
+  "title": "I-Beam Table",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "anodized aluminum, powder-coated aluminum, acrylic",
+  "accession_number": "2000.23.A-F",
+  "id": "cmoa:things/41eefc8d-3f81-4f20-a56e-ad4b459941f9",
+  "credit_line": "Gift of Biproduct",
+  "date_acquired": "2000-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 13.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004014",
+  "provenance_text": "Stuart Basseches, Biproduct, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=58375&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59da284a-6d66-402c-b756-4057578f7b13",
+      "party_type": "Person",
+      "full_name": "Stuart Basseches",
+      "cited_name": "Basseches, Stuart",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1960-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cc20ad16-dfab-421d-8251-c6dcae5a6fce",
+      "party_type": "Person",
+      "full_name": "Judith Hudson",
+      "cited_name": "Hudson, Judith",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

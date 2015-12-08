@@ -1,0 +1,42 @@
+{
+  "title": "Musiciens Fantastiques (1888)",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "etching",
+  "accession_number": "60.14",
+  "id": "cmoa:things/76c05948-27ac-41f9-9a70-b35cd3f56230",
+  "credit_line": "Gift of the Junior Council of the Women's Committee",
+  "date_acquired": "1960-02-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011158",
+  "provenance_text": "Peter H. Deitsch, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110948&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/216554a6-6fc4-4ad6-a4f8-f8c5b0df5892",
+      "party_type": "Person",
+      "full_name": "James Ensor",
+      "cited_name": "Ensor, James",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1860-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Ostend (West-Vlaanderen, Flanders, Belgium)",
+      "death_place": "Ostend (West-Vlaanderen, Flanders, Belgium)"
+    }
+  ]
+}

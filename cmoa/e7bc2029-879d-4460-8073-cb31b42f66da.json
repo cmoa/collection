@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.28.1",
+  "id": "cmoa:things/e7bc2029-879d-4460-8073-cb31b42f66da",
+  "credit_line": "Gift of the Estate of Edith Cole",
+  "date_acquired": "1954-10-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 50.5,
+  "item_height": 30.5,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009281",
+  "provenance_text": "Edith Cole, Pittsburgh, until 1954; Gift of the estate of Edith Cole, 1954",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=351&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.7.2",
+  "id": "cmoa:things/127634ec-58cd-423a-b8a5-d4ff7faa6909",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 7.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003690",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99883&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cde2b814-b3d0-4ec6-a79b-f8af67aaa1f2",
+      "party_type": "Person",
+      "full_name": "Werner Burri",
+      "cited_name": "Burri, Werner",
+      "role": "manufacturer",
+      "nationality": "Swiss",
+      "birth_date": "1898-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/208ff607-1450-46c6-9055-dcc6daae3f91",
+      "party_type": "Organization",
+      "full_name": "Velten-Vordamm",
+      "cited_name": "Velten-Vordamm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1908-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

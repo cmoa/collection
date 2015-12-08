@@ -1,0 +1,42 @@
+{
+  "title": "The Hunter",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "bronze, wood base",
+  "accession_number": "71.31",
+  "id": "cmoa:things/186dfaf4-b7d9-4ede-8ea2-bc638c6ef275",
+  "credit_line": "Gift of Mrs. Albert Laessle and her Sons, Dr. Albert M. Laessle and Paul Laessle",
+  "date_acquired": "1971-10-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 6.625,
+  "item_height": 5.0,
+  "item_depth": 14.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016156",
+  "provenance_text": "Pennsylvania Academy of the Fine Arts, Philadelphia, 1910; Annual Exhibition no. 895; Gift of Mrs. Albert Laessle and her sons, Dr. Albert M. Laessle and Paul Laessle, 1971",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117328&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117337&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db941296-bfc2-41f4-82bf-c70aa8f07984",
+      "party_type": "Person",
+      "full_name": "Albert Laessle",
+      "cited_name": "Laessle, Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

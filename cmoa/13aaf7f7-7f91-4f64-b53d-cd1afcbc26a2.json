@@ -1,0 +1,51 @@
+{
+  "title": "House for Harold Arthur Colyer, Darenth, England; [detail drawings, exterior elevation, interior elevation]",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "ink, colored gouache and wash",
+  "accession_number": "95.65.2",
+  "id": "cmoa:things/13aaf7f7-7f91-4f64-b53d-cd1afcbc26a2",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1995-05-25",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 26.75,
+  "item_height": 19.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035771",
+  "provenance_text": "Gallery Lingard, London, England",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126845&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/88241fb8-1788-4b37-93ac-2898d5e39538",
+      "party_type": "Person",
+      "full_name": "unknown British, active late 19th - early 20th centuries",
+      "cited_name": "unknown British, active late 19th - early 20th centuries",
+      "role": "architect",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d99fa3cf-d81a-48df-8e69-a1d42a7170e6",
+      "party_type": "Person",
+      "full_name": "Wilfred Hoyle",
+      "cited_name": "Hoyle, Wilfred",
+      "role": "delineator",
+      "nationality": "British",
+      "birth_date": "1887-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

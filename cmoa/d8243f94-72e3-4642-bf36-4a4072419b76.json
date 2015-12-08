@@ -1,0 +1,49 @@
+{
+  "title": "Chair",
+  "creation_date": "1979 (designed)  c. 1980 (manufactured)",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "chrome-plated tubular steel frame, canvas and wood",
+  "accession_number": "81.96.2",
+  "id": "cmoa:things/d8243f94-72e3-4642-bf36-4a4072419b76",
+  "credit_line": "Gift of Landes Manufacturing Company",
+  "date_acquired": "1981-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 33.5,
+  "item_height": 32.25,
+  "item_depth": 24.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022222",
+  "provenance_text": "Landes Manufacturing Company, CA, Gardena",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d0d7d4a-e04a-4213-9020-6e09ac6df88f",
+      "party_type": "Person",
+      "full_name": "Jerry Johnson",
+      "cited_name": "Johnson, Jerry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cbd29768-9b9e-460f-be6c-d02bffb1c3d2",
+      "party_type": "Organization",
+      "full_name": "Landes Manufacturing Company",
+      "cited_name": "Landes Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

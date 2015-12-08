@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of an Unknown Man",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "oil on ivory; gold(?) metal frame",
+  "accession_number": "27.10.273",
+  "id": "cmoa:things/5385a0c2-7986-47bc-9775-98175b7d377c",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.5,
+  "item_height": 2.5,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005699",
+  "provenance_text": "Godfrey Manheimer; Leonard A. Dessar [1864-], New York, NY [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, June 21, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] In the 1900 US Census, Dessar's mother, Carrie Manheimer, is listed as being part of Dessar's household. It is possible that Dessar inherited this item through the Manheimer family.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

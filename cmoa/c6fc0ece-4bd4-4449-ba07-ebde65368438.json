@@ -1,0 +1,39 @@
+{
+  "title": "St. Peter and St. Andrew",
+  "creation_date": "c. 1480-1485",
+  "creation_date_earliest": "1474-12-23",
+  "creation_date_latest": "1489-12-23",
+  "medium": "engraving, from a set of twelve apostles in six sheets",
+  "accession_number": "2000.58",
+  "id": "cmoa:things/c6fc0ece-4bd4-4449-ba07-ebde65368438",
+  "credit_line": "Charles J. Rosenbloom Fund and Second Century Acquisition Fund",
+  "date_acquired": "2000-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004103",
+  "provenance_text": "Susan Lewis Kaye, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31773&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7e403041-8054-4883-9020-905909fb237c",
+      "party_type": "Person",
+      "full_name": "Israhel van Meckenem",
+      "cited_name": "Meckenem, Israhel van",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1440-01-01",
+      "death_date": "1503-01-01",
+      "birth_place": "Meckenheim (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Bocholt (Münster district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Teapot",
+  "creation_date": "1930-1934",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "glass",
+  "accession_number": "1998.24.15.1",
+  "id": "cmoa:things/6b6fb11c-e6c3-4064-904f-64f32c580473",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.188,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003646",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68102&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8fad3984-a169-4195-aa41-18ad9298ffc5",
+      "party_type": "Person",
+      "full_name": "Wilhelm Wagenfeld",
+      "cited_name": "Wagenfeld, Wilhelm",
+      "role": "Manufacturer",
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Bremen (Bremen state, Germany)",
+      "death_place": "Stuttgart (Stuttgart district, Baden-Württemberg, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/d6a3b295-3917-48bb-bf27-44f1277471d8",
+      "party_type": "Organization",
+      "full_name": "Schott Jenaer Glas GMBH",
+      "cited_name": "Schott Jenaer Glas GMBH",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1884-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

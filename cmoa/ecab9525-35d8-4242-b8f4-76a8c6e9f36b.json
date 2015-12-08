@@ -1,0 +1,39 @@
+{
+  "title": "Untitled vessel",
+  "creation_date": "1998",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "red maple",
+  "accession_number": "2010.66.3",
+  "id": "cmoa:things/ecab9525-35d8-4242-b8f4-76a8c6e9f36b",
+  "credit_line": "Gift of Sheryl and Tim Kochman in honor of Fleur and Charles Bresler",
+  "date_acquired": "2011-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 14.5,
+  "item_depth": 0.0,
+  "item_diameter": 9.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92365",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104546&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e4eb10f-3833-4e51-b269-0e10de6228aa",
+      "party_type": "Person",
+      "full_name": "John Jordan",
+      "cited_name": "Jordan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Le Moulin de Cuincy, près Douai (Mill at Cuincy, Near Douai)",
+  "creation_date": "1871",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1871-01-01",
+  "medium": "Lithograph on wove paper",
+  "accession_number": "63.10.6",
+  "id": "cmoa:things/588e4781-c10a-42e0-9510-25945804ec6e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1963-06-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011607",
+  "provenance_text": "Paul Proute et ses Fils, Paris",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23148&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10546fd7-9bdd-4abe-894a-cd407fed41c9",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste-Camille Corot",
+      "cited_name": "Corot, Jean B.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1796-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

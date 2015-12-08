@@ -1,0 +1,45 @@
+{
+  "title": "Back Woods (Triptych)",
+  "creation_date": "1971-1976",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "etching and engraving",
+  "accession_number": "80.28.3.A-C",
+  "id": "cmoa:things/b17b0499-1c91-48fa-b7a8-91391bdd5dce",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1980-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 37.125,
+  "item_height": 47.375,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021121",
+  "provenance_text": "Richard Claude Ziemann",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115673&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115675&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115676&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5181a670-1dcc-45aa-88ff-b55ec2cd8696",
+      "party_type": "Person",
+      "full_name": "Richard Claude Ziemann",
+      "cited_name": "Ziemann, Richard C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": "Buffalo (Erie County, New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

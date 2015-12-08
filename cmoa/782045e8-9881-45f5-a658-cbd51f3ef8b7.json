@@ -1,0 +1,49 @@
+{
+  "title": "Egg chair",
+  "creation_date": "1957 (designed) 1960-71 (manufactured)",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "aluminum with synthetic wool upholstery",
+  "accession_number": "77.44.209",
+  "id": "cmoa:things/782045e8-9881-45f5-a658-cbd51f3ef8b7",
+  "credit_line": "Gift of Mr. and Mrs. Sidney M. Feldman",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 34.25,
+  "item_height": 42.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018804",
+  "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e514797-d356-4cf1-b1b1-9ad823b695a3",
+      "party_type": "Person",
+      "full_name": "Arne Jacobsen",
+      "cited_name": "Jacobsen, Arne",
+      "role": "designer",
+      "nationality": "Danish",
+      "birth_date": "1902-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Copenhagen (København commune, Denmark)",
+      "death_place": "Copenhagen (København commune, Denmark)"
+    },
+    {
+      "artist_id": "cmoa:parties/9a15cec9-0e60-4374-98ee-3487ff6c805c",
+      "party_type": "Person",
+      "full_name": "Fritz Hansens Eft",
+      "cited_name": "Hansens Eft, Fritz",
+      "role": "manufacturer",
+      "nationality": "Danish",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

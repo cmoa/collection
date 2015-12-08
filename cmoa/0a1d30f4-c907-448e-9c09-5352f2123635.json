@@ -1,0 +1,37 @@
+{
+  "title": "Crevasse",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "82.5.1",
+  "id": "cmoa:things/0a1d30f4-c907-448e-9c09-5352f2123635",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022982",
+  "provenance_text": "Associated American Artists, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa534bdd-5568-41b5-81c5-7a928dcda628",
+      "party_type": "Person",
+      "full_name": "Leo Meissner",
+      "cited_name": "Meissner, Leo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Hamtramck (Wayne county, Michigan, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sculpture 6/58",
+  "creation_date": null,
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "bronze",
+  "accession_number": "58.37.1",
+  "id": "cmoa:things/bc7b7129-b526-4b65-84c4-6a75daffc4ce",
+  "credit_line": "Gift of the Women's Committee",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 12.0,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010839",
+  "provenance_text": "The Artist via 1958 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48046&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/95b8d04f-999d-406b-b705-b1bf47bd10dd",
+      "party_type": "Person",
+      "full_name": "Emil Cimiotti",
+      "cited_name": "Cimiotti, Emil",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Göttingen, Germany",
+      "death_place": null
+    }
+  ]
+}

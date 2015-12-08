@@ -1,0 +1,51 @@
+{
+  "title": "Go chair",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "magnesium and polycarbonate",
+  "accession_number": "2001.38.2",
+  "id": "cmoa:things/24aaec4d-4442-4445-998c-1ab790f87799",
+  "credit_line": "Gift of Bernhardt Design",
+  "date_acquired": "2001-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 30.75,
+  "item_depth": 27.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004255",
+  "provenance_text": "Bernhardt Design, Lenour, NC",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3610&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f5d5914-97d3-4a38-8897-5535449845ef",
+      "party_type": "Person",
+      "full_name": "Ross Lovegrove",
+      "cited_name": "Lovegrove, Ross",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d0655144-c04e-46d4-8e48-32caff27c8f7",
+      "party_type": "Organization",
+      "full_name": "Bernhardt Design",
+      "cited_name": "Bernhardt Design",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

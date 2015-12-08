@@ -1,0 +1,51 @@
+{
+  "title": "The Actors Sanogawa Ichimatsu as Umewakamaru (Yoshitsune) and Onoe Kikugorô I in the role of Joruri-hime, probably in the play Hatsutora Kurama Gengi performed in the Ichimura Theater in the first month of 1749",
+  "creation_date": "1749",
+  "creation_date_earliest": "1749-01-01",
+  "creation_date_latest": "1749-01-01",
+  "medium": "color woodblock print (hosoban)",
+  "accession_number": "18.14.12",
+  "id": "cmoa:things/2db703ee-a48a-4b9a-8fdd-1259e104d5e3",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001680",
+  "provenance_text": "Yamanaka & Company, New York, 1918",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16574&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5259b763-522c-480d-9b3a-bee3fff62045",
+      "party_type": "Person",
+      "full_name": "Kiyomasu II Torii",
+      "cited_name": "Kiyomasu II Torii",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1706-01-01",
+      "death_date": "1763-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7e080d1c-e678-4c4c-90a0-deb95b14f95a",
+      "party_type": "Person",
+      "full_name": "Surugaya",
+      "cited_name": "Surugaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

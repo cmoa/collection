@@ -1,0 +1,39 @@
+{
+  "title": "Haymakers' Noonday",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.34",
+  "id": "cmoa:things/e0258473-4df1-441e-9688-a6d0702d3c07",
+  "credit_line": "Mr. and Mrs. James F. Hillman Fund",
+  "date_acquired": "1975-10-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 46.375,
+  "item_height": 31.25,
+  "item_depth": 3.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017748",
+  "provenance_text": "C.H. Livingston, in 1858; private collection, New York; Virginia Dellehanty, Bridgewater, Vt.; Vose Galleries of Boston, 1974; Mr. and Mrs. James F. Hillamn Fund, 1975",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/413ab20d-173b-4cbb-9d58-36e2d8469cc6",
+      "party_type": "Person",
+      "full_name": "James McDougal Hart",
+      "cited_name": "Hart, James M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1828-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": " Kilmarnock (East Ayrshire, Scotland, United Kingdom)",
+      "death_place": " Brooklyn (New York City, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Teacup",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "porcelain and stainless steel",
+  "accession_number": "2004.14.A-C",
+  "id": "cmoa:things/4132b77a-0850-4b8c-9129-64e9e53a2695",
+  "credit_line": "Gift of Laura Hoptman and Verne Dawson",
+  "date_acquired": "2004-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 3.5,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7771",
+  "provenance_text": "The donors, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/495eb21b-771c-479f-966b-f414a7e4f2ee",
+      "party_type": "Person",
+      "full_name": "Robert Lazzarini",
+      "cited_name": "Lazzarini, Robert",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "New Jersey",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7263f9a5-0df1-4fed-8226-0c746d500ac1",
+      "party_type": "Organization",
+      "full_name": "Franz Collection, Inc.",
+      "cited_name": "Franz Collection, Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "2002-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/baa077d1-14ad-469d-9390-7b8017fed0f6",
+      "party_type": "Organization",
+      "full_name": "Image Imports",
+      "cited_name": "Image Imports",
+      "role": "manufacturer",
+      "nationality": "Canadian",
+      "birth_date": "1999-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

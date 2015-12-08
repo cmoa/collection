@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Chase",
+  "creation_date": "c. 1890-1895",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "09.6",
+  "id": "cmoa:things/cba0b272-b280-49e6-8f9f-b424d619f14c",
+  "credit_line": "Purchase",
+  "date_acquired": "1909-06-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 48.5,
+  "item_height": 72.25,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000381",
+  "provenance_text": "William Merritt Chase [1849-1916], until 1909; purchased by Museum, May 10, 1909.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/753f3890-bf26-4b80-8c8e-2a151d7e7e9e",
+      "party_type": "Person",
+      "full_name": "William Merritt Chase",
+      "cited_name": "Chase, William Merritt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1849-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": "Williamsburg (Wayne county, Indiana, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

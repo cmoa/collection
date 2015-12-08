@@ -1,0 +1,63 @@
+{
+  "title": "Bibliothèque Mexique",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "painted aluminum, steel, and pine",
+  "accession_number": "1998.33",
+  "id": "cmoa:things/efb326a0-3285-4522-8d4a-f7a735f2972b",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1998-06-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 72.0,
+  "item_height": 63.0,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003735",
+  "provenance_text": "David Allan Antiquaire, Paris, France",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8748&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ab2aea7-86a5-4b89-a75a-2024c1f9a358",
+      "party_type": "Person",
+      "full_name": "Charlotte Perriand",
+      "cited_name": "Perriand, Charlotte",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1903-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/1f488302-dd75-4ec3-a591-c94acb88688e",
+      "party_type": "Person",
+      "full_name": "Jean Prouvé",
+      "cited_name": "Prouvé, Jean",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/b5b0895f-a335-432c-a5fc-412e0bb43bf2",
+      "party_type": "Organization",
+      "full_name": "Les Ateliers Jean Prouvé",
+      "cited_name": "Les Ateliers Jean Prouvé",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1931-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

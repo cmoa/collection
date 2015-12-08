@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "2003.32",
+  "id": "cmoa:things/8740c082-7253-4b45-b902-074690b6dc79",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 93rd Annual Exhibition of the Associated Artists of Pittsburgh through the Second Century Acquisition Fund",
+  "date_acquired": "2003-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 31.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5945",
+  "provenance_text": "The Artist, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114862&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c7c3637b-6524-4108-a0ad-aaa512d23e62",
+      "party_type": "Person",
+      "full_name": "John Y. Winberg",
+      "cited_name": "Winberg, John Y.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

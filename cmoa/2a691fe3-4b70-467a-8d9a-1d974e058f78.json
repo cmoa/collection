@@ -1,0 +1,39 @@
+{
+  "title": "Untitled No. 9",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "india ink and graphite on gesso on canvas",
+  "accession_number": "81.67.1",
+  "id": "cmoa:things/2a691fe3-4b70-467a-8d9a-1d974e058f78",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 72.0,
+  "item_height": 72.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022018",
+  "provenance_text": "Pace Gallery, NYC; Carnegie Museum of Art, Pittsburgh; Edith H. Fisher Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10216&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cfcb450f-92df-429c-bd1c-3681bd2e7a9c",
+      "party_type": "Person",
+      "full_name": "Agnes Martin",
+      "cited_name": "Martin, Agnes",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1912-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": "Macklin (Saskatchewan, Canada)",
+      "death_place": "Taos (Taos county, New Mexico, United States)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Battle of Ichi-No-Tani",
+  "creation_date": null,
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "color woodblock print (oban, right panel of a triptych)",
+  "accession_number": "89.28.1291",
+  "id": "cmoa:things/00bfd2d6-06e3-417e-8d37-c2d521660215",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027096",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby & Co., London, 11/3/1970, Lot 21 through Bluett & Sons, London.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107410&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b3a0c86-2bf0-4462-984d-4411461f8737",
+      "party_type": "Person",
+      "full_name": "Shuntei Katsukawa",
+      "cited_name": "Shuntei Katsukawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1770-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c59726c6-6825-4d8a-a4ec-95cf5a2e63a7",
+      "party_type": "Person",
+      "full_name": "Ezakiya Tatsuzo",
+      "cited_name": "Ezakiya Tatsuzo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

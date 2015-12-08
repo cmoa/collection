@@ -1,0 +1,39 @@
+{
+  "title": "Hawley Valley",
+  "creation_date": "c. 1883",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.37",
+  "id": "cmoa:things/a74fc5ba-10a5-4d54-86d7-3da2cf1dba51",
+  "credit_line": "Patrons Art Fund: gift of G. David Thompson",
+  "date_acquired": "1957-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 56.625,
+  "item_height": 19.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010557",
+  "provenance_text": "Ralph Albert Blakelock [1847-1919]; commissioned by Catholina Lambert [1834-1923], Paterson, NJ, until 1922 [1]; sold at Belle Vista auction, 1922 [2]; (Macbeth Galleries [1892-1953], New York); G. W. Young, New York, by 1923; Dr. Walter Timme [-1956], Cold Spring, NY, until 1956. Vose Galleries of Boston, by 1957; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1957. \nNOTES:1. Catholina Lambert owned a textile mill in the Hawley valley and commissioned this work. See letter from Blakelock's son Carl  in curatorial file.  2. Bella Vista was Catholina Lambert's castle in Paterson, NJ. It is sometimes referred to as \"Lambert Castle\". This auction was not the \"famous\" Catholina Lambert auction at the Plaza Art Galleries in 1916.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149568&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b86e689-3081-41f3-ae8e-9ab7f367c621",
+      "party_type": "Person",
+      "full_name": "Ralph Albert Blakelock",
+      "cited_name": "Blakelock, Ralph Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1847-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "New York state",
+      "death_place": "Elizabethtown (Essex county, New York state, United States)"
+    }
+  ]
+}

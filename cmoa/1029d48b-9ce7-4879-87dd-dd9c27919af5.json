@@ -1,0 +1,49 @@
+{
+  "title": "Pedestal side chair",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "fiberglass, aluminum and fabric upholstered seat",
+  "accession_number": "84.112.10",
+  "id": "cmoa:things/1029d48b-9ce7-4879-87dd-dd9c27919af5",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 20.625,
+  "item_height": 31.625,
+  "item_depth": 18.0,
+  "item_diameter": 15.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024499",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Plastic/Synthetic",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0b527b3-314d-4064-a3b0-1f3eeccb0975",
+      "party_type": "Person",
+      "full_name": "Eero Saarinen",
+      "cited_name": "Saarinen, Eero",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Kirkkonummi, Finland",
+      "death_place": "Ann Arbor, MI"
+    },
+    {
+      "artist_id": "cmoa:parties/f47ee54e-b518-4df0-8280-43fefde4f583",
+      "party_type": "Organization",
+      "full_name": "Knoll Associates, Inc.",
+      "cited_name": "Knoll Associates, Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

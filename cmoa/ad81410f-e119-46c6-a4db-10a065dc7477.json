@@ -1,0 +1,39 @@
+{
+  "title": "Marquise de Poyanne",
+  "creation_date": "c. 1750-1770",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.11",
+  "id": "cmoa:things/ad81410f-e119-46c6-a4db-10a065dc7477",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 31.625,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019219",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh; gift to Museum, May 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=185&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8a4d1528-4993-4396-b603-670c5d4fc43e",
+      "party_type": "Person",
+      "full_name": "François Hubert Drouais",
+      "cited_name": "Drouais, François H.",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1727-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Teapot",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "silver, bakelite®",
+  "accession_number": "1996.52.3",
+  "id": "cmoa:things/6d5d4625-6c01-4959-89a1-ef7b8effd67a",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 5.0,
+  "item_depth": 5.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002161",
+  "provenance_text": "Wynyard R. T. Wilkinson, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5901&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f5c22fd-5a82-4851-82b6-a23f41fad8c8",
+      "party_type": "Person",
+      "full_name": "A. E. Harvey",
+      "cited_name": "Harvey, A. E.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1894-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

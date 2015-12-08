@@ -1,0 +1,39 @@
+{
+  "title": "Dunes and Sea I",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.5",
+  "id": "cmoa:things/875af217-28eb-4b2b-810c-f5a86e9418db",
+  "credit_line": "Purchase: gift of Kaufmann's Department Store, Women's Committee, Edith H. Fisher Fund, Fellows Fund, James A. Fisher, The Henry L. Hillman Fund, Mr. and Mrs. Leon D. Black, Mr. and Mrs. Robert H. Falk, Mrs. Grace Borgenicht Brandt, the Jeanette and Samuel Lubell Foundation, and the Morton Foundation",
+  "date_acquired": "1983-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 73.0,
+  "item_height": 55.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023860",
+  "provenance_text": "Grace Borgenicht Gallery, New York City, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10332&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22f98209-2efd-43ee-afef-87e0dd3d509f",
+      "party_type": "Person",
+      "full_name": "Milton Avery",
+      "cited_name": "Avery, Milton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Altmar (Oswego county, New York state, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

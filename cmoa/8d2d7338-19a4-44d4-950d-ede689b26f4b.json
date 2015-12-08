@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": "1853",
+  "creation_date_earliest": "1853-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "pencil and pastel",
+  "accession_number": "75.47.11",
+  "id": "cmoa:things/8d2d7338-19a4-44d4-950d-ede689b26f4b",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017773",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94771&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6250f6a-763c-4e12-b651-2fefbb88a8b8",
+      "party_type": "Person",
+      "full_name": "Pierre-Jean David D'Angers",
+      "cited_name": "David D'Angers, Pierre-Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1788-01-01",
+      "death_date": "1856-01-01",
+      "birth_place": " Angers (Maine-et-Loire, Pays de la Loire, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

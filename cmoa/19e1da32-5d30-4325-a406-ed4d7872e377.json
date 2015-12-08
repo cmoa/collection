@@ -1,0 +1,42 @@
+{
+  "title": "Red Gate, National Treasure (Kokuhô Akamon)",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.956",
+  "id": "cmoa:things/19e1da32-5d30-4325-a406-ed4d7872e377",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029212",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T.Z. Shiota, San Francisco, CA.,  2/29/1972.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33172&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33173&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cb602d2-3f4a-49c5-b9b3-a37ce561217a",
+      "party_type": "Person",
+      "full_name": "Maeda Masao",
+      "cited_name": "Maeda Masao",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

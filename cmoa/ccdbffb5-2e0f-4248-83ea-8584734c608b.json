@@ -1,0 +1,39 @@
+{
+  "title": "Texas Type",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "pen and ink on card stock",
+  "accession_number": "06.3.17",
+  "id": "cmoa:things/ccdbffb5-2e0f-4248-83ea-8584734c608b",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000229",
+  "provenance_text": "The Century Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108436&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90b25f7e-4625-4d4e-a87c-022a4fef72d7",
+      "party_type": "Person",
+      "full_name": "Frederic Remington",
+      "cited_name": "Remington, Frederic",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1861-01-01",
+      "death_date": "1909-01-01",
+      "birth_place": "Canton (Saint Lawrence county, New York state, United States)",
+      "death_place": "Ridgefield (Fairfield county, Connecticut, United States)"
+    }
+  ]
+}

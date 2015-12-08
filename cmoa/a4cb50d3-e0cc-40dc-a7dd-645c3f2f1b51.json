@@ -1,0 +1,39 @@
+{
+  "title": "Palla Set",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "glass, blown",
+  "accession_number": "2003.42.13.A-.B",
+  "id": "cmoa:things/a4cb50d3-e0cc-40dc-a7dd-645c3f2f1b51",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 0.0,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 18.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5250",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35335&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22a8ad80-ce5a-486a-8f5a-e24bc7e182c9",
+      "party_type": "Person",
+      "full_name": "Benjamin Moore",
+      "cited_name": "Moore, Benjamin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Panther Hollow, Pittsburgh",
+  "creation_date": "c. 1930-1934",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "63.25",
+  "id": "cmoa:things/d8adef9f-1c61-4bfe-8011-803fe6b836e4",
+  "credit_line": "Purchase: gift of Mr. and Mrs. James F. Hillman",
+  "date_acquired": "1963-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 43.125,
+  "item_height": 37.125,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011665",
+  "provenance_text": "Valeltine Gallery, New York, c. 1934; Mr. and Mrs. Lee A. Ault, New York, by 1948 (sale, Parke Bernet Galleries, New York, Oct. 9, 1963); Museum purchase: Gift of Mr. and Mrs. James F. Hillman, 1963",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124265&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

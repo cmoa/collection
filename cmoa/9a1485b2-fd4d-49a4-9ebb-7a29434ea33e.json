@@ -1,0 +1,51 @@
+{
+  "title": "Romantica chair",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "aluminum sheet and aluminum tubing",
+  "accession_number": "1999.40",
+  "id": "cmoa:things/9a1485b2-fd4d-49a4-9ebb-7a29434ea33e",
+  "credit_line": "Gift of Celia Morrissette and Keith Johnson",
+  "date_acquired": "1999-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 35.0,
+  "item_depth": 16.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003896",
+  "provenance_text": "Urban Architecture, New York, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54630&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/74a95a4a-a778-4547-bcc2-12d254b4443c",
+      "party_type": "Organization",
+      "full_name": "Driade SpA",
+      "cited_name": "Driade SpA",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1985-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

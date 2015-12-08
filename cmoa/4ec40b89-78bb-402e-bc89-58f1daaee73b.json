@@ -1,0 +1,51 @@
+{
+  "title": "Queen Ann chair",
+  "creation_date": "1984, manufactured 1985",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "molded multiples and plastic laminate with original upholstery",
+  "accession_number": "1998.50.1.2",
+  "id": "cmoa:things/4ec40b89-78bb-402e-bc89-58f1daaee73b",
+  "credit_line": "Gift of Georges and Violet Pardo",
+  "date_acquired": "1998-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 26.062,
+  "item_height": 38.125,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003763",
+  "provenance_text": "Georges And Violet Pardo, Pittsburgh, PA",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54629&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/991996cc-0a79-4d22-bcd5-2b02dc90509a",
+      "party_type": "Person",
+      "full_name": "Robert Venturi",
+      "cited_name": "Venturi, Robert",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia, PA",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3535edaa-aef1-47a2-926f-75058d50c210",
+      "party_type": "Organization",
+      "full_name": "Knoll International",
+      "cited_name": "Knoll International",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

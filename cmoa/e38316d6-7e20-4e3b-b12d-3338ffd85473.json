@@ -1,0 +1,39 @@
+{
+  "title": "Kevin",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2011.57",
+  "id": "cmoa:things/e38316d6-7e20-4e3b-b12d-3338ffd85473",
+  "credit_line": "Gift of Darthea Speyer",
+  "date_acquired": "1994-01-17",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 50.0,
+  "item_height": 74.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=729",
+  "provenance_text": "Collection of Darthea Speyer, Paris, France, before 1994; Long term loan to Carnegie Museum of Art since 1994; Gift of Darthea Speyer, 2001.\n\nTBF 10/31/14",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148172&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed336d33-0f4a-4a5d-b37f-442b46a568ff",
+      "party_type": "Person",
+      "full_name": "Ed Paschke",
+      "cited_name": "Paschke, Ed",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": "Chicago, IL",
+      "death_place": "Chicago, IL"
+    }
+  ]
+}

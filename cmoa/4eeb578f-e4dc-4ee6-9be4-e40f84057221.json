@@ -1,0 +1,39 @@
+{
+  "title": "Blue Centaur",
+  "creation_date": "c. 1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "glass",
+  "accession_number": "81.26.22",
+  "id": "cmoa:things/4eeb578f-e4dc-4ee6-9be4-e40f84057221",
+  "credit_line": "Bequest of C. Hale Matthews III",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 13.375,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021796",
+  "provenance_text": "Bequest of C. Hale Matthews III, New York, NY, 1981.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126961&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": "after",
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Green Stick/Blue Stick",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "mixed media on paper",
+  "accession_number": "86.59.1",
+  "id": "cmoa:things/a3c74ee5-3392-482c-b1e4-e26491ba78d4",
+  "credit_line": "Gift of Vicki L. Berg",
+  "date_acquired": "1987-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.75,
+  "item_height": 33.563,
+  "item_depth": 2.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026215",
+  "provenance_text": "Vicki L. Berg, Oakland, CA",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121257&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af07b41d-0a9c-42e2-9995-efbc57150a92",
+      "party_type": "Person",
+      "full_name": "Alan Greenberg",
+      "cited_name": "Greenberg, Alan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

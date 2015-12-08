@@ -1,0 +1,45 @@
+{
+  "title": "Miniature Portrait of an Unknown Man",
+  "creation_date": "c. 1640",
+  "creation_date_earliest": "1635-01-01",
+  "creation_date_latest": "1645-01-01",
+  "medium": "oil on copper; silver metal frame",
+  "accession_number": "27.10.286",
+  "id": "cmoa:things/275d7943-8a56-4e5a-a77f-601180645f1f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 3.625,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005706",
+  "provenance_text": "(E. M. Hodgkins, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, May 7, 1918; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103273&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73737&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73738&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cardinal de Bouillon",
+  "creation_date": "1673",
+  "creation_date_earliest": "1673-01-01",
+  "creation_date_latest": "1673-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.27",
+  "id": "cmoa:things/d3d020bd-2115-4a2c-ade3-53e38ea22e30",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.188,
+  "item_height": 13.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005378",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105491&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

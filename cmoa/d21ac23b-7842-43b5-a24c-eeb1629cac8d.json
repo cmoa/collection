@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1790",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.79",
+  "id": "cmoa:things/d21ac23b-7842-43b5-a24c-eeb1629cac8d",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.75,
+  "item_depth": 0.0,
+  "item_diameter": 7.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023526",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3742&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d536a338-e5e9-4483-aed9-d65dc01709ed",
+      "party_type": "Person",
+      "full_name": "Edmund John Birch",
+      "cited_name": "Birch, Edmund John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1790-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

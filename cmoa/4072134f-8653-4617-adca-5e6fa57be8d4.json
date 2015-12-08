@@ -1,0 +1,39 @@
+{
+  "title": "Hamamatsu",
+  "creation_date": "c. 1833-1834",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "80.55.7",
+  "id": "cmoa:things/4072134f-8653-4617-adca-5e6fa57be8d4",
+  "credit_line": "Gift of Dr. and Mrs. James B. Austin",
+  "date_acquired": "1980-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.813,
+  "item_height": 8.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021243",
+  "provenance_text": "Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99122&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

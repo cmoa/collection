@@ -1,0 +1,39 @@
+{
+  "title": "Folded Spoon",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "Brazilian rosewood",
+  "accession_number": "2008.24.6",
+  "id": "cmoa:things/d62aeca7-fa00-418c-b912-0379af68f32b",
+  "credit_line": "Gift of P. McCauley",
+  "date_acquired": "2008-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 5.0,
+  "item_height": 1.0,
+  "item_depth": 3.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57205",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32725e5d-b251-4381-9852-b948387f40d2",
+      "party_type": "Person",
+      "full_name": "Norm Sartorius",
+      "cited_name": "Sartorius, Norm",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Salisbury, Maryland",
+      "death_place": null
+    }
+  ]
+}

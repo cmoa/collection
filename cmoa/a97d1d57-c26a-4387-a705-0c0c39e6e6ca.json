@@ -1,0 +1,39 @@
+{
+  "title": "Spoon",
+  "creation_date": "c. 1760",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "silver",
+  "accession_number": "75.49",
+  "id": "cmoa:things/a97d1d57-c26a-4387-a705-0c0c39e6e6ca",
+  "credit_line": "Gift of Kent Edward, Karen Lee, and Adam Forrest Jewell",
+  "date_acquired": "1975-12-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017811",
+  "provenance_text": "Forrest Jewell, PA, Pittsburgh (father)",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4699&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7cf88f10-2dea-4058-ae0b-6c213e13096d",
+      "party_type": "Person",
+      "full_name": "Paul Revere II",
+      "cited_name": "Revere II, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1735-01-01",
+      "death_date": "1818-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Boston, MA"
+    }
+  ]
+}

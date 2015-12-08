@@ -1,0 +1,51 @@
+{
+  "title": "Women from the Shôô Era Going to a Play",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1361",
+  "id": "cmoa:things/8196830f-2b31-4dc0-accd-3a931a929fbe",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027199",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35083&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3708ee7e-e4b7-4d75-84d7-34299ccad30f",
+      "party_type": "Person",
+      "full_name": "Mizuno Toshikata",
+      "cited_name": "Mizuno Toshikata",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1866-01-01",
+      "death_date": "1908-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db618f11-f036-47e8-9da7-c26070a88197",
+      "party_type": "Person",
+      "full_name": "Akiyama Buemon",
+      "cited_name": "Akiyama Buemon",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

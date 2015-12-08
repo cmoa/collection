@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "no date",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "81.19.1",
+  "id": "cmoa:things/bc8bda7a-631f-49ff-961e-a04c1a918bb9",
+  "credit_line": "Gift of Mr. and Mrs. John Boyd",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021721",
+  "provenance_text": "Gift of Mr. And Mrs. John Boyd, Westport, Connecticut",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103512&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/67bc9c7a-143a-4210-9554-f05cc868b5be",
+      "party_type": "Person",
+      "full_name": "E. F. Boyd",
+      "cited_name": "Boyd, E. F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

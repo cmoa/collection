@@ -1,0 +1,39 @@
+{
+  "title": "Wadakura Gate (Wadakura mon)",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.964",
+  "id": "cmoa:things/51a84b8e-61c3-49cd-b245-70763e8139c2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029221",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33179&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cb602d2-3f4a-49c5-b9b3-a37ce561217a",
+      "party_type": "Person",
+      "full_name": "Maeda Masao",
+      "cited_name": "Maeda Masao",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

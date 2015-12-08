@@ -1,0 +1,42 @@
+{
+  "title": "Mary Cassatt at the Louvre: The Paintings Gallery",
+  "creation_date": "1879-1880",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "etching, soft ground, aquatint, and drypoint on wove paper",
+  "accession_number": "76.57.1",
+  "id": "cmoa:things/f96e6233-c561-435b-9d9e-4028d0ca0639",
+  "credit_line": "Bequest of Charles J. Rosenbloom, by exchange",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018184",
+  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917]. (Sold at David Tunick, Inc. [1966-], New York, NY, by 1976); purchased by Museum, December 1976 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110956&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19018&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23a88d6c-02e1-46e5-97a4-8246ca906f93",
+      "party_type": "Person",
+      "full_name": "Hilaire-Germain-Edgar Degas",
+      "cited_name": "Degas, Hilaire-Germain-Edgar",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1834-07-19",
+      "death_date": "1917-09-27",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bonbon dish",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "gold, rock crystal, and enamel",
+  "accession_number": "27.10.582",
+  "id": "cmoa:things/94a2deb1-63e0-460e-b7b3-565564bc3e02",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.375,
+  "item_depth": 0.0,
+  "item_diameter": 2.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005865",
+  "provenance_text": "Brayton C. Ives [1840-1914], New York, NY, until October 22, 1914; Estate of Brayton C. Ives, October 22, 1914 until April 1915; (sold at American Art Association, New York, NY, April 9, 1915) [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 9, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] Lot 158.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5575&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac654c5c-8453-4b8a-ab5b-9817583e2fdc",
+      "party_type": "Person",
+      "full_name": "unknown Swiss",
+      "cited_name": "unknown Swiss",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

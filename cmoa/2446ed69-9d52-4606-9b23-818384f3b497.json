@@ -1,0 +1,42 @@
+{
+  "title": "Georgia Gate",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "wood on three marble bases",
+  "accession_number": "76.11.A-.C",
+  "id": "cmoa:things/2446ed69-9d52-4606-9b23-818384f3b497",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 66th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1976-02-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 130.625,
+  "item_depth": 37.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017988",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147009&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=50969&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c49be6d-277f-42fe-a998-adcfc3d98fdc",
+      "party_type": "Person",
+      "full_name": "Thaddeus G. Mosley",
+      "cited_name": "Mosley, Thaddeus G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "New Castle (Lawrence county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

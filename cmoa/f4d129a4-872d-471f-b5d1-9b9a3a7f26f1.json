@@ -1,0 +1,39 @@
+{
+  "title": "The Carter Refinery at Billings, Montana",
+  "creation_date": "c. 1944-1945",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "51.7",
+  "id": "cmoa:things/f4d129a4-872d-471f-b5d1-9b9a3a7f26f1",
+  "credit_line": "Gift of the Standard Oil Company (Of New Jersey), New York",
+  "date_acquired": "1951-05-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 30.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009040",
+  "provenance_text": "Standard Oil Company (of New Jersey), New York, by 1945; gift to museum, 1951",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107668&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c55d6c0-d200-481b-a06e-91b792631850",
+      "party_type": "Person",
+      "full_name": "Joseph John Jones",
+      "cited_name": "Jones, Joseph J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Morristown (Morris county, New Jersey, United States)"
+    }
+  ]
+}

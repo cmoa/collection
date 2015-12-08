@@ -1,0 +1,39 @@
+{
+  "title": "David Gilmour Blythe",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "71.24.2",
+  "id": "cmoa:things/2af88e22-ec37-4d2e-9159-2c4c503c752a",
+  "credit_line": "Gift of Miss Mary Helen Arthur",
+  "date_acquired": "1971-10-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016136",
+  "provenance_text": "Mary Helen Arthur, New Wilmington, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107534&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7eed1e55-4624-4b01-88a9-08b9e8a40cad",
+      "party_type": "Person",
+      "full_name": "C. C. Kough",
+      "cited_name": "Kough, C. C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": null,
+      "birth_place": "Uniontown, Pa.",
+      "death_place": null
+    }
+  ]
+}

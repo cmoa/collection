@@ -1,0 +1,39 @@
+{
+  "title": "Antibes",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "watercolor on buff paper",
+  "accession_number": "69.13",
+  "id": "cmoa:things/bd279de3-fefd-4066-b5f8-1b00d3e786d7",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1969-04-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.5,
+  "item_height": 17.438,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012530",
+  "provenance_text": "Hirschl and Adler Galleries, New York; Director's Discretionary Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d448dfc-c079-43ff-85f6-7b2e72dfa518",
+      "party_type": "Person",
+      "full_name": "Charles Prendergast",
+      "cited_name": "Prendergast, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Norwalk, CT"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Scene from the Scottish Highlands",
+  "creation_date": "c. 1927",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.11.1",
+  "id": "cmoa:things/441ca589-238e-46c6-94dc-3148d39f9681",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 27.125,
+  "item_height": 23.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010946",
+  "provenance_text": "Andrew Dasburg [1887-1979], Taos, NM, 1927; with Maynard Walker Galleries as agent, New York, 1930?; Mrs. George M. Moffett, 1930? until 1940?. By descent to George M. Moffett, Jr., 1930? until 1952?. (Maynard Walker Galleries [1847-1973], New York, NY, 1952? until 1953?). G. David Thompson, Pittsburgh, 1952? until 1959. Gift to Museum, 1959.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23937&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Spanish Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "44.4.3",
+  "id": "cmoa:things/dedae1c5-031d-4c93-9024-b7f63284c46e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007515",
+  "provenance_text": "The Weyhe Gallery, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76880&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/57556352-efd1-4dfc-a91d-fae95ce4026e",
+      "party_type": "Person",
+      "full_name": "Federico Castellon",
+      "cited_name": "Castellon, Federico",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Almería (Almería province, Andalusia, Spain)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

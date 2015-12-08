@@ -1,0 +1,39 @@
+{
+  "title": "Traverse",
+  "creation_date": "1965-1966",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "aluminum",
+  "accession_number": "68.5",
+  "id": "cmoa:things/bf40a8a5-d7d2-4dab-8bfb-ade333426531",
+  "credit_line": "Kaufmann's Purchase Award",
+  "date_acquired": "1968-04-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 55.5,
+  "item_height": 29.0,
+  "item_depth": 13.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012511",
+  "provenance_text": "The Artist via 1967 Pittsburgh International Exhibition",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=468&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/420649e6-b4f9-42cd-82bc-e7a80c63951b",
+      "party_type": "Person",
+      "full_name": "David Von Schlegell",
+      "cited_name": "Von Schlegell, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "New Haven, CT"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Fragment of Hesiod",
+  "creation_date": "1930, cast 1955",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "bronze",
+  "accession_number": "58.48",
+  "id": "cmoa:things/a77d2e6f-b63d-47c8-8102-6efdfa33bb82",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 17.5,
+  "item_height": 11.0,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010868",
+  "provenance_text": "M. Knoedler and Company [1848-2011], New York, New York, by 1958. Purchased by Museum, 1958.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135539&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135540&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f531c317-6a27-4144-9fcc-0fb8d0474f28",
+      "party_type": "Person",
+      "full_name": "Georges Braque",
+      "cited_name": "Braque, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1882-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": " Argenteuil (Val-d'Oise, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

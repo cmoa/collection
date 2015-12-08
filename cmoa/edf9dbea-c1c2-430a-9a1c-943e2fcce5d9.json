@@ -1,0 +1,51 @@
+{
+  "title": "Work table",
+  "creation_date": "1805-1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "mahogany, tiger and bird's-eye maple, brass, and modern silk",
+  "accession_number": "72.56.3",
+  "id": "cmoa:things/edf9dbea-c1c2-430a-9a1c-943e2fcce5d9",
+  "credit_line": "Purchase: Gift of Richard King Mellon Foundation",
+  "date_acquired": "1972-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.812,
+  "item_height": 28.75,
+  "item_depth": 14.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016487",
+  "provenance_text": "Charles H. Gershenson sale held by H.O. McNierney MI, Birmingham, lot 153, 10/23/72\nEx. Collection of Frank A. Robart, Newtown, Massachusetts.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54171&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af551820-5f95-411e-a21b-bd17104663cc",
+      "party_type": "Person",
+      "full_name": "John Seymour",
+      "cited_name": "Seymour, John",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1728-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": "England",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1217d399-3244-4682-8a6e-805b642cd491",
+      "party_type": "Person",
+      "full_name": "Thomas Seymour",
+      "cited_name": "Seymour, Thomas",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1771-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "cocobolo rosewood",
+  "accession_number": "2007.84.1",
+  "id": "cmoa:things/cde32c7a-0201-40cb-9469-168a6a8303ad",
+  "credit_line": "Gift of Jane and Arthur Mason",
+  "date_acquired": "2008-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 3.875,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=53544",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10e0d7c1-bf4e-47c4-bc65-2f90314d8db0",
+      "party_type": "Person",
+      "full_name": "David Ellsworth",
+      "cited_name": "Ellsworth, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

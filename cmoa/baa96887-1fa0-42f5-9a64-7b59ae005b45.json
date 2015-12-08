@@ -1,0 +1,71 @@
+{
+  "title": "Junior High School",
+  "creation_date": "1950s",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "gouache on illustration board",
+  "accession_number": "2002.55.1.6",
+  "id": "cmoa:things/baa96887-1fa0-42f5-9a64-7b59ae005b45",
+  "credit_line": "Gift of Robert Lekawa",
+  "date_acquired": "2002-10-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 40.125,
+  "item_height": 22.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=414",
+  "provenance_text": "Robert Lekewa, Greensburg, PA",
+  "classification": "drawings and watercolors",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff380a7e-3db3-49d4-ae36-52ffb3e4fb1b",
+      "party_type": "Organization",
+      "full_name": "Sorber & Hoone-Architects",
+      "cited_name": "Sorber & Hoone-Architects",
+      "role": "architect",
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/af5576a4-2ebc-4abd-9121-964716a73363",
+      "party_type": "Person",
+      "full_name": "Charles H. Sorber",
+      "cited_name": "Sorber, Charles H.",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b3359521-1563-4618-a883-f351da127a39",
+      "party_type": "Person",
+      "full_name": "Joseph W. Hoone",
+      "cited_name": "Hoone, Joseph W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e8bf43c3-6f61-4318-a29c-a854a73f6115",
+      "party_type": "Organization",
+      "full_name": "QA Architectural Arts",
+      "cited_name": "QA Architectural Arts",
+      "role": null,
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

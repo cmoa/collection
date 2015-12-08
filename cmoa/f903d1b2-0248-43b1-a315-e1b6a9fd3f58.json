@@ -1,0 +1,39 @@
+{
+  "title": "Cycle (Winter)",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching",
+  "accession_number": "51.24",
+  "id": "cmoa:things/f903d1b2-0248-43b1-a315-e1b6a9fd3f58",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008931",
+  "provenance_text": "James Louis Steg",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100435&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bf36f88-1cca-4680-b421-043884658c15",
+      "party_type": "Person",
+      "full_name": "James Louis Steg",
+      "cited_name": "Steg, James L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": null,
+      "birth_place": "Alexandria, VA",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Head of a Girl",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "18.25.16",
+  "id": "cmoa:things/cbd21569-adf1-41bb-939e-19b94d6d55ab",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001767",
+  "provenance_text": "American Artists' War Emergency Fund, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90167&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48021&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eadbe809-874b-4f80-90b0-dd2733b926bf",
+      "party_type": "Person",
+      "full_name": "Ivan G. Olinsky",
+      "cited_name": "Olinsky, Ivan G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

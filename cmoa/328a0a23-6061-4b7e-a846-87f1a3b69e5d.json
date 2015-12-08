@@ -1,0 +1,42 @@
+{
+  "title": "Space Ship",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2011.5.1",
+  "id": "cmoa:things/328a0a23-6061-4b7e-a846-87f1a3b69e5d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2011-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.688,
+  "item_height": 15.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92794",
+  "provenance_text": "Chris Shaw (2010)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103917&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103918&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/99555fa5-5c5e-444f-b24c-ace7968bc97f",
+      "party_type": "Person",
+      "full_name": "Chris Shaw",
+      "cited_name": "Shaw, Chris",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

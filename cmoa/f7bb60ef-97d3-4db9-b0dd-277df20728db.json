@@ -1,0 +1,39 @@
+{
+  "title": "Two Handled cup with separate lid",
+  "creation_date": "1702",
+  "creation_date_earliest": "1702-01-01",
+  "creation_date_latest": "1702-01-01",
+  "medium": "silver",
+  "accession_number": "70.7.159.A-B",
+  "id": "cmoa:things/f7bb60ef-97d3-4db9-b0dd-277df20728db",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.688,
+  "item_height": 8.0,
+  "item_depth": 5.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015967",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4660&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/932078f6-afc6-4936-bc0e-35628ff10a7c",
+      "party_type": "Person",
+      "full_name": "John Bodington",
+      "cited_name": "Bodington, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1727-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

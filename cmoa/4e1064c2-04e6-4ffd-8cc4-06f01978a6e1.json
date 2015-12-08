@@ -1,0 +1,39 @@
+{
+  "title": "Panthera Pardus-Leopard",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "relief print",
+  "accession_number": "89.28.5",
+  "id": "cmoa:things/4e1064c2-04e6-4ffd-8cc4-06f01978a6e1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.188,
+  "item_height": 17.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028540",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83542&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Three Figures",
+  "creation_date": "c.1925-1937",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "ink on paper",
+  "accession_number": "37.4.1",
+  "id": "cmoa:things/95f2e021-970c-4586-a0a0-a07133647c8e",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1937-06-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006979",
+  "provenance_text": "Anonymous gift",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89443&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6c8b6b2-3677-4350-8755-653cc3dfd67a",
+      "party_type": "Person",
+      "full_name": "Bernard Karfiol",
+      "cited_name": "Karfiol, Bernard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": " Budapest (Budapest county, Hungary)",
+      "death_place": null
+    }
+  ]
+}

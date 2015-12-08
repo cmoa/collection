@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "c. 1720",
+  "creation_date_earliest": "1710-01-01",
+  "creation_date_latest": "1730-01-01",
+  "medium": "brass",
+  "accession_number": "2000.71.91",
+  "id": "cmoa:things/1f3a2da6-e5a9-4eaa-ae02-2fac6792ed6b",
+  "credit_line": "Gift of C. Talbott Hiteshew, Jr.",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.875,
+  "item_height": 6.312,
+  "item_depth": 4.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6852",
+  "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12985&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

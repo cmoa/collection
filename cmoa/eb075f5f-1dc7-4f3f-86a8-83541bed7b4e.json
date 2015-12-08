@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "graphite, ink, and gouache on both sides of paper",
+  "accession_number": "88.12",
+  "id": "cmoa:things/eb075f5f-1dc7-4f3f-86a8-83541bed7b4e",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1988-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026429",
+  "provenance_text": "Greg Kwiatek, Hoboken, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5cd6f411-6ebb-42f2-8242-03f51ef752b1",
+      "party_type": "Person",
+      "full_name": "Greg Kwiatek",
+      "cited_name": "Kwiatek, Greg",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

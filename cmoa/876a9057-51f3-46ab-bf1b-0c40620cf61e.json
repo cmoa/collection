@@ -1,0 +1,39 @@
+{
+  "title": "Three Forms",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "painted cor-ten steel",
+  "accession_number": "70.45",
+  "id": "cmoa:things/876a9057-51f3-46ab-bf1b-0c40620cf61e",
+  "credit_line": "Howard Heinz Endowment Fund",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 94.0,
+  "item_height": 68.25,
+  "item_depth": 84.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015816",
+  "provenance_text": "Marlborough Gallery, Inc., NYC thru 1970 International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100680&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d8ba5ba-f12b-4b7c-9730-4e683f4705ab",
+      "party_type": "Person",
+      "full_name": "James Rosati",
+      "cited_name": "Rosati, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Washington (Washington county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

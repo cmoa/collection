@@ -1,0 +1,45 @@
+{
+  "title": "Peasants in a Field of Beans (Paysannes dans un champ de haricots)",
+  "creation_date": "1891",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "etching printed with plate tone on Japanese paper",
+  "accession_number": "2000.20",
+  "id": "cmoa:things/bb98236c-5d4f-4ded-abee-06375781a9c9",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-04-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004002",
+  "provenance_text": "Camille Pissarro [1830-1903]. Susan Schulman, New York, NY, by March 3, 2000; purchased by Carnegie Museum of Art, Pittsburgh, PA, April 2000.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110583&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110582&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21502&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1dd7099-a758-4e92-b2e1-2d9532369bcd",
+      "party_type": "Person",
+      "full_name": "Camille Pissarro",
+      "cited_name": "Pissarro, Camille",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1830-07-10",
+      "death_date": "1903-11-12",
+      "birth_place": "Charlotte Amalie, St. Thomas, Virgin Islands (Danish colony at the time)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

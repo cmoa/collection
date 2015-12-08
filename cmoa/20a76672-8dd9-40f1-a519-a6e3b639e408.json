@@ -1,0 +1,39 @@
+{
+  "title": "Fortune Teller",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "stencil print on paper",
+  "accession_number": "89.28.1077",
+  "id": "cmoa:things/20a76672-8dd9-40f1-a519-a6e3b639e408",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 23.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026803",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fac02ea7-c207-4c3a-80b8-65e7db363e5c",
+      "party_type": "Person",
+      "full_name": "Nakao Yoshitaka",
+      "cited_name": "Nakao Yoshitaka",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1911-01-01",
+      "death_date": null,
+      "birth_place": "Ehime prefecture",
+      "death_place": null
+    }
+  ]
+}

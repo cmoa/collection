@@ -1,0 +1,39 @@
+{
+  "title": "Design for a candlestick",
+  "creation_date": "c. 1540",
+  "creation_date_earliest": "1524-12-22",
+  "creation_date_latest": "1554-12-22",
+  "medium": "engraving on paper",
+  "accession_number": "2005.12.2",
+  "id": "cmoa:things/0461ea1b-78a6-40b1-9cb6-869de54eeba2",
+  "credit_line": "Gift of C. Talbott Hiteshew, Jr.",
+  "date_acquired": "2005-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 17.0,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13601",
+  "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA\nPurchased from Graham Shearing about 1995.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18940&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d51ea967-369d-40c4-adb9-ea8865f7cca5",
+      "party_type": "Person",
+      "full_name": "Antonio Salamanca",
+      "cited_name": "Salamanca, Antonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1490-01-01",
+      "death_date": "1562-01-01",
+      "birth_place": " Milan (Milano province, Lombardy, Italy)",
+      "death_place": " Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

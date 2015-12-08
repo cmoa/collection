@@ -1,0 +1,39 @@
+{
+  "title": "Fractured Light",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.47",
+  "id": "cmoa:things/a70bce17-a3aa-4f01-a306-cab18954adaf",
+  "credit_line": "Purchase: Anonymous gift",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 96.875,
+  "item_height": 97.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021924",
+  "provenance_text": "Fischbach Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=195&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08c91f10-fe89-4f6b-9243-16e467deb169",
+      "party_type": "Person",
+      "full_name": "Neil Welliver",
+      "cited_name": "Welliver, Neil",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": "Finland (Bucks County, Pennsylvania, United States)",
+      "death_place": "Belfast (Waldo County, Maine, United States)"
+    }
+  ]
+}

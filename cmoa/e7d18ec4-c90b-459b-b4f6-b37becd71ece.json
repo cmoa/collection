@@ -1,0 +1,45 @@
+{
+  "title": "Landscape study: autumn landscape",
+  "creation_date": "c. 1865-1885",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "oil on card",
+  "accession_number": "1996.70.7",
+  "id": "cmoa:things/e7d18ec4-c90b-459b-b4f6-b37becd71ece",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1996-10-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 7.0,
+  "item_height": 4.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002805",
+  "provenance_text": "By conversion, to Museum, October 3, 1996 [1]. \nNOTES:1. Found in collections storage",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114744&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114745&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111905&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c9c1258-7c82-4bff-8c2a-9f8c08dde3ba",
+      "party_type": "Person",
+      "full_name": "Alfred S. Wall",
+      "cited_name": "Wall, Alfred S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "USA, Pennsylvania, Mt. Pleasant",
+      "death_place": null
+    }
+  ]
+}

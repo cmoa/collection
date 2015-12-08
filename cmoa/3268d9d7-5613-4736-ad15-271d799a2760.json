@@ -1,0 +1,51 @@
+{
+  "title": "Novelty Vase",
+  "creation_date": "1900-1929",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "blown glass",
+  "accession_number": "39.1.2",
+  "id": "cmoa:things/3268d9d7-5613-4736-ad15-271d799a2760",
+  "credit_line": "Gift of Roger C. Fry Jr.",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007085",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=911&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d40f114-eafe-41a2-93aa-70f409ee52bc",
+      "party_type": "Person",
+      "full_name": "Aaron Bloom",
+      "cited_name": "Bloom, Aaron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f521e3dd-57cd-4326-a6bc-eeb500bceef7",
+      "party_type": "Organization",
+      "full_name": "H.C. Fry Glass Company",
+      "cited_name": "Fry, H.C. Glass Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

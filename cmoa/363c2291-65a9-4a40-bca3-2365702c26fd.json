@@ -1,0 +1,51 @@
+{
+  "title": "Mantle clock",
+  "creation_date": "c. 1875-1885",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "marble and bronze",
+  "accession_number": "86.53",
+  "id": "cmoa:things/363c2291-65a9-4a40-bca3-2365702c26fd",
+  "credit_line": "Decorative Arts Purchase Fund: gift of Mrs. James C. Roddey",
+  "date_acquired": "1986-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 18.0,
+  "item_depth": 7.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026151",
+  "provenance_text": "(Thomas P. Bedillion, Retailer, FL. 1874-1900, USA) Purchased from East End Galleries, PA, Pgh",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11621&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4e3c1152-5d6c-4b39-a590-fc654fa733a7",
+      "party_type": "Organization",
+      "full_name": "Japy Frères",
+      "cited_name": "Japy Frères",
+      "role": "maker",
+      "nationality": "French",
+      "birth_date": "1772-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f8cbb892-c414-44eb-9a83-d7c6acadffb8",
+      "party_type": "Organization",
+      "full_name": "Thomas P. Bedilion",
+      "cited_name": "Bedilion, Thomas P.",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

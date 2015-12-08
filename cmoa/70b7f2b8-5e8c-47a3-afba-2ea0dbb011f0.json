@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Paris et de Hollywood)",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "ink on antique magazine",
+  "accession_number": "2003.39.1.2",
+  "id": "cmoa:things/70b7f2b8-5e8c-47a3-afba-2ea0dbb011f0",
+  "credit_line": "Gift of Harvey S. Shipley Miller",
+  "date_acquired": "2003-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 14.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5952",
+  "provenance_text": "Kurimanzutto, Mazatlán, Mexico",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88680&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1265d0d4-b4fa-4251-97e9-5ac9d812aa9f",
+      "party_type": "Person",
+      "full_name": "Dr. Lakra",
+      "cited_name": "Lakra",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1970-01-01",
+      "death_date": null,
+      "birth_place": "Oaxaca state (Mexico)",
+      "death_place": null
+    }
+  ]
+}

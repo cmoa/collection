@@ -1,0 +1,45 @@
+{
+  "title": "Hochsitz II (Watchtower II)",
+  "creation_date": "1984-1985",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "silver, silver oxide, and synthetic resin on canvas",
+  "accession_number": "85.17",
+  "id": "cmoa:things/c44b108a-dc7d-4912-ba04-014bc55aa42b",
+  "credit_line": "William R. Scott, Jr. Fund",
+  "date_acquired": "1985-06-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 88.75,
+  "item_height": 119.625,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025445",
+  "provenance_text": "Anthony D'Offay, London; Carnegie Museum of Art, Pittsburgh; William R. Scott, Jr., Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114603&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129348&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b5bd6cf-efb9-403d-be45-f56213b8a09c",
+      "party_type": "Person",
+      "full_name": "Sigmar Polke",
+      "cited_name": "Polke, Sigmar",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1941-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Oels, Poland",
+      "death_place": "Cologne, Germany"
+    }
+  ]
+}

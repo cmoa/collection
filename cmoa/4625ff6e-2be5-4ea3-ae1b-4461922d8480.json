@@ -1,0 +1,39 @@
+{
+  "title": "The Raising of Lazarus",
+  "creation_date": "c. 1648",
+  "creation_date_earliest": "1643-01-01",
+  "creation_date_latest": "1653-01-01",
+  "medium": "etching",
+  "accession_number": "87.24",
+  "id": "cmoa:things/4625ff6e-2be5-4ea3-ae1b-4461922d8480",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1987-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026310",
+  "provenance_text": "C. G. Boerner, Dusseldorf, Germany",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f513f029-7d0a-4be7-98fb-e1c615db3bcd",
+      "party_type": "Person",
+      "full_name": "Giovanni Benedetto Castiglione",
+      "cited_name": "Castiglione, Giovanni Benedetto",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1609-01-01",
+      "death_date": "1665-01-01",
+      "birth_place": " Genoa (Genova province, Liguria, Italy)",
+      "death_place": " Mantua (Mantova province, Lombardy, Italy)"
+    }
+  ]
+}

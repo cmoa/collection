@@ -1,0 +1,51 @@
+{
+  "title": "Bedroom, \"Fox Oak\"; [interior perspective]",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "ink on paper mounted on brown board",
+  "accession_number": "92.127.1",
+  "id": "cmoa:things/ffaf00b7-b23f-436b-8358-271452b80eeb",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031152",
+  "provenance_text": "Kelmscott Gallery, Chicago, IL",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99898&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0a95c27-760f-423d-8709-a2cff030326d",
+      "party_type": "Person",
+      "full_name": "T. Raffles Davison",
+      "cited_name": "Davison, T. R.",
+      "role": "architect",
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3fb17348-1854-4653-b4d8-c9233a9c2c1b",
+      "party_type": "Person",
+      "full_name": "Halsey Ricardo",
+      "cited_name": "Ricardo, Halsey",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1854-08-06",
+      "death_date": "1928-02-15",
+      "birth_place": "Bath",
+      "death_place": "London"
+    }
+  ]
+}

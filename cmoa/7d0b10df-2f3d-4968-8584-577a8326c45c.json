@@ -1,0 +1,51 @@
+{
+  "title": "Bowl of the Legends",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "engraved glass",
+  "accession_number": "49.21",
+  "id": "cmoa:things/7d0b10df-2f3d-4968-8584-577a8326c45c",
+  "credit_line": "Gift of Mr. Frederic Schaefer",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 9.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008513",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c54109aa-6ab3-41bd-97b2-17d54fbdfdf2",
+      "party_type": "Organization",
+      "full_name": "Steuben Glass Works",
+      "cited_name": "Steuben Glass Works",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6ec55160-44c9-41b4-8344-d8220905449e",
+      "party_type": "Person",
+      "full_name": "Sidney Waugh",
+      "cited_name": "Waugh, Sidney",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "Amherst, MA",
+      "death_place": "New York, NY"
+    }
+  ]
+}

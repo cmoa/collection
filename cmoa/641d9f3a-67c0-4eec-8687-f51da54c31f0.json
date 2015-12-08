@@ -1,0 +1,39 @@
+{
+  "title": "Buds",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.46.1",
+  "id": "cmoa:things/641d9f3a-67c0-4eec-8687-f51da54c31f0",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1982-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 43.75,
+  "item_height": 33.688,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022968",
+  "provenance_text": "Brooke Alexander, Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47101&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79e67aa1-c92c-4615-b456-67562c84b374",
+      "party_type": "Person",
+      "full_name": "Jack Beal",
+      "cited_name": "Beal, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Richmond (Richmond Indep. City, Virginia, United States)",
+      "death_place": null
+    }
+  ]
+}

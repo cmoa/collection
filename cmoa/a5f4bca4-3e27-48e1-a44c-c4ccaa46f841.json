@@ -1,0 +1,51 @@
+{
+  "title": "Concetto Spaziale - Black",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "porcelain",
+  "accession_number": "2004.20.2",
+  "id": "cmoa:things/a5f4bca4-3e27-48e1-a44c-c4ccaa46f841",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2004-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8871",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d11fe52c-b77e-4165-aee3-8ff55f99b0ce",
+      "party_type": "Person",
+      "full_name": "Lucio Fontana",
+      "cited_name": "Fontana, Lucio",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1899-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Rosario (Santa Fe province, Argentina)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5197539d-5334-4bd3-beed-0222cbfe0a33",
+      "party_type": "Organization",
+      "full_name": "Rosenthal Porcelain Factory",
+      "cited_name": "Rosenthal Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1874-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Kagurazaka in Ushigome (Ushigome Kagurazaka)",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.835",
+  "id": "cmoa:things/1ac60453-39c8-4ed8-94af-7d481b2fef1f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.188,
+  "item_height": 16.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029003",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32934&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8bb4fefc-9023-4c5c-bcf7-fa0846fade37",
+      "party_type": "Person",
+      "full_name": "Tsuchiya Koitsu",
+      "cited_name": "Tsuchiya Koitsu",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1870-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c616fa0a-a176-41ca-b9bc-d8053fa04bcd",
+      "party_type": "Person",
+      "full_name": "Doi Sadaichi",
+      "cited_name": "Doi Sadaichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

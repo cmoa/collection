@@ -1,0 +1,39 @@
+{
+  "title": "The Rat Catchers",
+  "creation_date": "1655",
+  "creation_date_earliest": "1655-01-01",
+  "creation_date_latest": "1655-01-01",
+  "medium": "engraving",
+  "accession_number": "43.4.65",
+  "id": "cmoa:things/e0e6a7f3-1384-434e-95bf-6ffebe100582",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007457",
+  "provenance_text": "Cornelis Visscher [1629?-1658], Netherlands. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101912&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04144fa8-8c16-4a41-8a7c-875b9fd07077",
+      "party_type": "Person",
+      "full_name": "Cornelis Visscher",
+      "cited_name": "Visscher, Cornelis",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1629-01-01",
+      "death_date": "1658-01-01",
+      "birth_place": "possibly Haarlem, Netherlands",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

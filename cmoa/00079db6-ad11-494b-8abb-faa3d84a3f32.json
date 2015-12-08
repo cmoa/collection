@@ -1,0 +1,39 @@
+{
+  "title": "Old Trees",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "charcoal on laid paper",
+  "accession_number": "06.16.2",
+  "id": "cmoa:things/00079db6-ad11-494b-8abb-faa3d84a3f32",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000162",
+  "provenance_text": "Macbeth Gallery, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/850fdb39-e04e-4672-898f-290b4aca1b18",
+      "party_type": "Person",
+      "full_name": "Robert Swain Gifford",
+      "cited_name": "Gifford, Robert S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

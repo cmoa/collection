@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1928",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.44",
+  "id": "cmoa:things/21c30ae4-b135-4d61-aec9-7f78286ce114",
+  "credit_line": "Gift of Mervin Jules",
+  "date_acquired": "1978-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.25,
+  "item_height": 29.875,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020062",
+  "provenance_text": "Simon Lissim, New York; Stanely Wyatt, New York; Mr. Mervin Jules, Forest Hills, New York; gift to Museum, December 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22064&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e37fd609-fbd2-4682-9a47-724a7263807f",
+      "party_type": "Person",
+      "full_name": "Aleksandra Aleksandrovna Exster",
+      "cited_name": "Exster, Aleksandra",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1884-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Bialystok (Podlaskie voivodship, Poland)",
+      "death_place": "Fontenay-aux-Roses (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

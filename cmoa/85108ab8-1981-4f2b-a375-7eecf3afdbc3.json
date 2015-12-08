@@ -1,0 +1,51 @@
+{
+  "title": "Soup bowl",
+  "creation_date": "designed, 1942-1943, manufactured 1946",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "porcelain",
+  "accession_number": "87.5.5",
+  "id": "cmoa:things/85108ab8-1981-4f2b-a375-7eecf3afdbc3",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1987-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 7.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026404",
+  "provenance_text": "Martin Eidelberg, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11775&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60294f53-9d19-4be7-a4e4-65f69345ca95",
+      "party_type": "Person",
+      "full_name": "Eva Zeisel",
+      "cited_name": "Zeisel, Eva",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Budapest (Budapest county, Hungary)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/751cbf45-8070-4240-a3e0-56173e665978",
+      "party_type": "Organization",
+      "full_name": "Castleton China Company",
+      "cited_name": "Castleton China Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

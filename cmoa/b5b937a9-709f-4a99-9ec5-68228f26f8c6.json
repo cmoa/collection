@@ -1,0 +1,39 @@
+{
+  "title": "Study for \"House and Street\"",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "84.32",
+  "id": "cmoa:things/b5b937a9-709f-4a99-9ec5-68228f26f8c6",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1984-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 46.188,
+  "item_height": 30.125,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024673",
+  "provenance_text": "The artist; Mrs. Stuart Davis, New York; Grace Borgenicht Gallery, New York; Edith H. Fisher Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149690&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bab43991-a1bb-43ec-ab60-2981c06c87a6",
+      "party_type": "Person",
+      "full_name": "Stuart Davis",
+      "cited_name": "Davis, Stuart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

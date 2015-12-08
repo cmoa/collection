@@ -1,0 +1,39 @@
+{
+  "title": "The Descent into Limbo",
+  "creation_date": "late 1460s",
+  "creation_date_earliest": "1459-12-23",
+  "creation_date_latest": "1469-12-23",
+  "medium": "engraving",
+  "accession_number": "57.17.3",
+  "id": "cmoa:things/389fa316-d654-4ddf-92f0-c95f689cf3f7",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010382",
+  "provenance_text": "Gutekunst & Klipstein, Bern, Switzerland.\nDucd'Avenberg (Lugt 567).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97240&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8032efd1-9407-4368-9de4-8541c096ad39",
+      "party_type": "Person",
+      "full_name": "Andrea Mantegna",
+      "cited_name": "Mantegna, Andrea",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1430-01-01",
+      "death_date": "1506-01-01",
+      "birth_place": "Padova province (Veneto, Italy)",
+      "death_place": "Mantua (Mantova province, Lombardy, Italy)"
+    }
+  ]
+}

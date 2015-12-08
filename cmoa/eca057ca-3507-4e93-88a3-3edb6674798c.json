@@ -1,0 +1,42 @@
+{
+  "title": "Mountain Road",
+  "creation_date": "c. 1904",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.98",
+  "id": "cmoa:things/eca057ca-3507-4e93-88a3-3edb6674798c",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49130",
+  "provenance_text": "George Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99945&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55926&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fd93802c-2c10-4e9c-8786-e3cd47b4954e",
+      "party_type": "Person",
+      "full_name": "William Orison Underwood",
+      "cited_name": "Underwood, William Orison",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

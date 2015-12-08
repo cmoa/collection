@@ -1,0 +1,54 @@
+{
+  "title": "Sunday's Goth",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "gelatin silver print mounted on museum board",
+  "accession_number": "2014.79.2",
+  "id": "cmoa:things/02a20599-84cb-4dcc-9079-ea4d8701cf41",
+  "credit_line": "Gift of Rachel and Harmony Korine",
+  "date_acquired": "2015-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 25.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107114",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135398&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135397&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3cb714ea-12c2-4ccc-87fa-4a761d13c4eb",
+      "party_type": "Person",
+      "full_name": "Mike Kelley",
+      "cited_name": "Kelley, Mike",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Detroit, Michigan",
+      "death_place": "Los Angeles, CA"
+    },
+    {
+      "artist_id": "cmoa:parties/cbe45c98-f402-4e9f-95a9-26a5fa688845",
+      "party_type": "Person",
+      "full_name": "Cameron Jamie",
+      "cited_name": "Jamie, Cameron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Poplar Tree",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "glass",
+  "accession_number": "2003.42.19",
+  "id": "cmoa:things/38c64b0b-dc98-4926-894d-eea06f24b377",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 27.5,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5253",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11859&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a2f48b0-4d7b-408a-a028-bb17bd1e7492",
+      "party_type": "Person",
+      "full_name": "Italo Scanga",
+      "cited_name": "Scanga, Italo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

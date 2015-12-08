@@ -1,0 +1,39 @@
+{
+  "title": "Summer in Havana",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "70.53",
+  "id": "cmoa:things/d72e5c65-afb0-4ad3-a65f-7d1cda069421",
+  "credit_line": "Gift of Mr. and Mrs. Arthur J. Kobacker",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 64.5,
+  "item_height": 52.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015866",
+  "provenance_text": "Mr. and Mrs. Arthur J. Kobacker, Steubenville, Ohio",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9654&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8a6a77e-3ca3-4640-8c69-9248be4bc06d",
+      "party_type": "Person",
+      "full_name": "Corneille (Cornelius Guillaume Van Beverloo)",
+      "cited_name": "Corneille",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1922-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Liège (Liège province, Wallonia, Belgium)",
+      "death_place": "France"
+    }
+  ]
+}

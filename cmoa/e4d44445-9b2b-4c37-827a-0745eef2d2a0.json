@@ -1,0 +1,39 @@
+{
+  "title": "Cipher",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "oil and wax on canvas",
+  "accession_number": "88.8",
+  "id": "cmoa:things/e4d44445-9b2b-4c37-827a-0745eef2d2a0",
+  "credit_line": "Paintings Acquisition Fund and gift of Milton Fine",
+  "date_acquired": "1988-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 67.125,
+  "item_height": 84.25,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026578",
+  "provenance_text": "John Good Gallery, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25696&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/998bea7e-ebab-45a3-b956-3e1f862ce2c9",
+      "party_type": "Person",
+      "full_name": "David Row",
+      "cited_name": "Row, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Portland, ME",
+      "death_place": null
+    }
+  ]
+}

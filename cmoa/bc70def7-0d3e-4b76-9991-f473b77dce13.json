@@ -1,0 +1,39 @@
+{
+  "title": "Orange Field",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.51",
+  "id": "cmoa:things/bc70def7-0d3e-4b76-9991-f473b77dce13",
+  "credit_line": "Patrons Art Fund and gift of James I. Merrill by exchange",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 52.75,
+  "item_height": 84.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010874",
+  "provenance_text": "Tibor de Nagy Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103935&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0bb169b8-057b-4cb9-8c76-a4ab7e6ccb93",
+      "party_type": "Person",
+      "full_name": "Grace Hartigan",
+      "cited_name": "Hartigan, Grace",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "Newark (Essex county, New Jersey, United States)",
+      "death_place": "Baltimore (Baltimore Independent City, Maryland, United States)"
+    }
+  ]
+}

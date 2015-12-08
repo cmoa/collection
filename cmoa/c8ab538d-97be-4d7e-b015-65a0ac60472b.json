@@ -1,0 +1,39 @@
+{
+  "title": "Always Studying",
+  "creation_date": null,
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "aquatint",
+  "accession_number": "47.4",
+  "id": "cmoa:things/c8ab538d-97be-4d7e-b015-65a0ac60472b",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1947-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008093",
+  "provenance_text": "Joseph M. Margulies",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100427&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/45e70c11-a302-4e46-abc0-8d32afa28bc5",
+      "party_type": "Person",
+      "full_name": "Joseph M. Margulies",
+      "cited_name": "Margulies, Joseph M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

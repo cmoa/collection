@@ -1,0 +1,42 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "49.17",
+  "id": "cmoa:things/7109e76a-74f6-4029-a7d3-5668134f2421",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.125,
+  "item_height": 19.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008466",
+  "provenance_text": "Norman Kent",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101077&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101078&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a24d593c-4c58-439a-b900-122d867cd563",
+      "party_type": "Person",
+      "full_name": "Norman Kent",
+      "cited_name": "Kent, Norman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Mamaroneck (Westchester county, New York state, United States)"
+    }
+  ]
+}

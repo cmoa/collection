@@ -1,0 +1,51 @@
+{
+  "title": "Shinobazu Pond Snowcape (Shinobazu ike sekkei)",
+  "creation_date": "3/5/1930",
+  "creation_date_earliest": "1930-03-05",
+  "creation_date_latest": "1930-03-05",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.206.5",
+  "id": "cmoa:things/3e9c9a02-3824-4614-9bbc-d774a2bf13cd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027716",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPrint acquired by Dr. Austin from T. Z. Shiota Gallery, San Francisco, CA., 9/14/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68f804dc-682d-4642-94a4-7e363866b7bc",
+      "party_type": "Person",
+      "full_name": "Hiratsuka Un'ichi",
+      "cited_name": "Hiratsuka Un'ichi",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Japan, Matsue",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

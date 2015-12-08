@@ -1,0 +1,39 @@
+{
+  "title": "Helmet",
+  "creation_date": "c. 1450",
+  "creation_date_earliest": "1444-12-23",
+  "creation_date_latest": "1454-12-23",
+  "medium": "steel",
+  "accession_number": "55.5.5",
+  "id": "cmoa:things/b625647d-83c2-4e5b-9f41-449f0f5c01a3",
+  "credit_line": "Gift of Hearst Foundation",
+  "date_acquired": "1955-02-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009526",
+  "provenance_text": "Prince of Pless, Poland; William Randolph Hearst [1863-1951], before 1951; Hearst Foundation, until 1955; Gift to Carnegie Museum of Art, 1955.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1267&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/117aa167-71a0-4778-bc0c-91cc974d1498",
+      "party_type": "Person",
+      "full_name": "Antonio Missaglia",
+      "cited_name": "Missaglia, Antonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1450-01-01",
+      "death_date": "1492-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

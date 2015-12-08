@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1200-800 BCE",
+  "creation_date_earliest": "-1205-01-12",
+  "creation_date_latest": "-0795-01-09",
+  "medium": "Earthenware",
+  "accession_number": "75.27.1",
+  "id": "cmoa:things/3fcaa749-eb46-4a63-94db-8fc701d61edd",
+  "credit_line": "Walter Read Hovey Collection",
+  "date_acquired": "1975-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 5.875,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017728",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4697&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8a12e376-bb43-4026-a93e-770c1893ac80",
+      "party_type": "Person",
+      "full_name": "Cypriote",
+      "cited_name": "Cypriote",
+      "role": null,
+      "nationality": "Cypriot",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

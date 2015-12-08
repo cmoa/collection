@@ -1,0 +1,39 @@
+{
+  "title": "Lee Krasner",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "81.109.3",
+  "id": "cmoa:things/d3c26676-d629-4dd1-a072-952611c19535",
+  "credit_line": "Gift of Lee and Rosita Benson",
+  "date_acquired": "1982-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.563,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021547",
+  "provenance_text": "Arthur Mones",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12853&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6832a582-19bb-470f-8f1d-d7ba0bcf41b4",
+      "party_type": "Person",
+      "full_name": "Arthur Mones",
+      "cited_name": "Mones, Arthur",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

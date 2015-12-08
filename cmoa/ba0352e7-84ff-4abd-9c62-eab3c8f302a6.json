@@ -1,0 +1,37 @@
+{
+  "title": "Landscape",
+  "creation_date": "1865",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "pencil",
+  "accession_number": "62.25.3",
+  "id": "cmoa:things/ba0352e7-84ff-4abd-9c62-eab3c8f302a6",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1962-07-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 14.75,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011549",
+  "provenance_text": "Raymond & Raymond, Hartford, CT",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/63c0c63b-3876-4410-abcf-cb11eca54e2d",
+      "party_type": "Person",
+      "full_name": "Eugène Louis Boudin",
+      "cited_name": "Boudin, Eugène Louis",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-07-12",
+      "death_date": "1898-08-08",
+      "birth_place": "Honfleur (Calvados, Basse-Normandie, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Rue de la Parcheminerie",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "etching",
+  "accession_number": "48.9.9",
+  "id": "cmoa:things/8892ed62-5d31-4b8a-a449-976ee8e8e21e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008445",
+  "provenance_text": "Arthur H. Harlow & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100646&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee9516a6-b854-4ec2-a981-766687e0eaf9",
+      "party_type": "Person",
+      "full_name": "Herman A. Webster",
+      "cited_name": "Webster, Herman A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

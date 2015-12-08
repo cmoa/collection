@@ -1,0 +1,63 @@
+{
+  "title": "Thebes stool",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "mahogany with period leather upholstery",
+  "accession_number": "2009.53",
+  "id": "cmoa:things/8e95450e-ffbc-43ac-a78f-d1af0e424f45",
+  "credit_line": "Gift of Sarah Nichols in honor of the reopening of the Ailsa Mellon Bruce Galleries",
+  "date_acquired": "2009-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 17.75,
+  "item_height": 14.0,
+  "item_depth": 17.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=87715",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117031&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74185178-19fc-4f26-806f-12fd41a3dc67",
+      "party_type": "Organization",
+      "full_name": "Liberty and Company",
+      "cited_name": "Liberty and Company",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1875-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/69328203-9940-4011-8233-5c5b19376c87",
+      "party_type": "Organization",
+      "full_name": "William Birch Ltd.",
+      "cited_name": "William Birch Ltd.",
+      "role": "attributed manufacturer",
+      "nationality": "British",
+      "birth_date": "1840-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/46b1e5af-1a6f-472f-98e3-e3f51633b189",
+      "party_type": "Organization",
+      "full_name": "B. North & Sons",
+      "cited_name": "B. North & Sons",
+      "role": "attributed manufacturer",
+      "nationality": "British",
+      "birth_date": "1851-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

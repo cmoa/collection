@@ -1,0 +1,49 @@
+{
+  "title": "Creamer",
+  "creation_date": "c. 1929-1930",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "porcelain with enamel decoration",
+  "accession_number": "92.193",
+  "id": "cmoa:things/a6c0be01-1290-4695-8062-ef41aaa1b1d6",
+  "credit_line": "Gift of Daniel Morris and Denis Gallion, Historical Design Collection Inc., New York City",
+  "date_acquired": "1993-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 4.125,
+  "item_depth": 3.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031482",
+  "provenance_text": "Daniel Morris, Denis Gallion And Historical Design Collectioninc., New York, NY",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/277802d6-f45b-42ce-b7f6-a5a9a996d3fb",
+      "party_type": "Person",
+      "full_name": "Josef Hoffmann",
+      "cited_name": "Hoffmann, Josef",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1870-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Moravia (Czech Republic)",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/1fcb6374-fb39-4c88-a64e-d1273508a687",
+      "party_type": "Organization",
+      "full_name": "Vienna Porcelain Factory Augarten",
+      "cited_name": "Vienna Porcelain Factory Augarten",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

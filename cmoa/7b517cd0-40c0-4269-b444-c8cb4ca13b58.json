@@ -1,0 +1,39 @@
+{
+  "title": "Dandelion",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "chrome-plated steel",
+  "accession_number": "2001.43",
+  "id": "cmoa:things/7b517cd0-40c0-4269-b444-c8cb4ca13b58",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "2001-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 90.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004263",
+  "provenance_text": "Concept Art Gallery, Pittsburgh",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/91960fc1-46c1-4311-a070-70b7e2eae614",
+      "party_type": "Person",
+      "full_name": "Harry Bertoia",
+      "cited_name": "Bertoia, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Italy",
+      "death_place": "Barto (Berks county, Pennsylvania, United States)"
+    }
+  ]
+}

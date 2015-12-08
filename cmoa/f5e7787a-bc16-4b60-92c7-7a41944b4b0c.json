@@ -1,0 +1,39 @@
+{
+  "title": "La Toilette",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "bromoil print",
+  "accession_number": "2007.51.60",
+  "id": "cmoa:things/f5e7787a-bc16-4b60-92c7-7a41944b4b0c",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.625,
+  "item_height": 22.625,
+  "item_depth": 1.062,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49014",
+  "provenance_text": "Howard Greenberg Gallery\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112882&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a7f9853-4ead-46de-9152-1be47b7231cc",
+      "party_type": "Person",
+      "full_name": "Heinrich Kühn",
+      "cited_name": "Kühn, Heinrich",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1866-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Dresden (Dresden district, Saxony, Germany)",
+      "death_place": "Birgitz (Tyrol, Austria)"
+    }
+  ]
+}

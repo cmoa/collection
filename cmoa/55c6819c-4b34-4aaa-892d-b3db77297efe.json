@@ -1,0 +1,42 @@
+{
+  "title": "Study for Autumn Foliage",
+  "creation_date": "1867",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "2002.22",
+  "id": "cmoa:things/55c6819c-4b34-4aaa-892d-b3db77297efe",
+  "credit_line": "Foster Charitable Trust Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61",
+  "provenance_text": "(Mary Lubin Fine Arts), New York, NY, 2003; Purchased by Carnegie Museum of Art, 2003.\n\nTBF 10/29/14",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85925&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20493&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8a13aa4b-fc86-42be-81ad-413e3564c750",
+      "party_type": "Person",
+      "full_name": "Henry Roderick Newman",
+      "cited_name": "Newman, Henry Roderick",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1838-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Easton (Washington county, New York state, United states)",
+      "death_place": "Florence, Italy"
+    }
+  ]
+}

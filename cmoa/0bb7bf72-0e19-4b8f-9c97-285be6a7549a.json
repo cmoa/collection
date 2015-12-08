@@ -1,0 +1,39 @@
+{
+  "title": "D.W. VII",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "plywood, pine, and steel",
+  "accession_number": "2001.56.1",
+  "id": "cmoa:things/0bb7bf72-0e19-4b8f-9c97-285be6a7549a",
+  "credit_line": "Gift of Mr. and Mrs. James L. Winokur",
+  "date_acquired": "2001-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.0,
+  "item_height": 37.0,
+  "item_depth": 17.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004386",
+  "provenance_text": "Gift of Mr. and Mrs. James L. Winokur, Pittsburgh, PA, 2001.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3362&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

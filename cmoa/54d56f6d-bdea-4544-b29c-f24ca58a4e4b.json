@@ -1,0 +1,39 @@
+{
+  "title": "Cookie Jar",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "porcelain with terra sigillata",
+  "accession_number": "2005.35.a-c",
+  "id": "cmoa:things/54d56f6d-bdea-4544-b29c-f24ca58a4e4b",
+  "credit_line": "Gift of Mr. and Mrs. Alexander C. Speyer III",
+  "date_acquired": "2005-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 8.25,
+  "item_height": 12.5,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14853",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135720&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf7e31f0-2933-4e59-9ba9-77627d9fbaef",
+      "party_type": "Person",
+      "full_name": "Jason Walker",
+      "cited_name": "Walker, Jason",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1973-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

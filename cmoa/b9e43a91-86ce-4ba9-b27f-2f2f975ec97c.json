@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Staircase)",
+  "creation_date": null,
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "82.72.21",
+  "id": "cmoa:things/b9e43a91-86ce-4ba9-b27f-2f2f975ec97c",
+  "credit_line": "Gift of Richard S. Ackerman",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023087",
+  "provenance_text": "Richard S. Ackerman, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97292&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/efed4259-00ce-42f3-a640-862724bdffb4",
+      "party_type": "Person",
+      "full_name": "Stephen Livick",
+      "cited_name": "Livick, Stephen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

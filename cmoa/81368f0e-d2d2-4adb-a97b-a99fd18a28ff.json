@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Actor)",
+  "creation_date": null,
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.222",
+  "id": "cmoa:things/81368f0e-d2d2-4adb-a97b-a99fd18a28ff",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.312,
+  "item_height": 9.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027742",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106032&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e071ddc2-3ef8-4bef-bd13-599402bdd455",
+      "party_type": "Person",
+      "full_name": "Hirosada Utagawa",
+      "cited_name": "Hirosada Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1800-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Paternal Instruction",
+  "creation_date": "1765",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "engraving",
+  "accession_number": "15.4.2",
+  "id": "cmoa:things/22b54bb4-2479-4f27-b58d-1d5f85096aa6",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-04-16",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 17.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000981",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111255&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10ee7459-f0e5-43b7-805d-0006bb2be574",
+      "party_type": "Person",
+      "full_name": "Johann Georg Wille",
+      "cited_name": "Wille, Johann G.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1715-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "Königsberg in Bayern (Unterfranken, Bavaria, Germany)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/916eed1c-cd52-421e-914a-7a54a7c75715",
+      "party_type": "Person",
+      "full_name": "Gerard ter Borch the younger",
+      "cited_name": "Borch, Gerard ter, the younger",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1617-01-01",
+      "death_date": "1681-01-01",
+      "birth_place": "Zwolle (Overijssel, Netherlands)",
+      "death_place": "Deventer (Overijssel, Netherlands)"
+    }
+  ]
+}

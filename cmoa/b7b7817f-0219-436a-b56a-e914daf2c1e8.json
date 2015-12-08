@@ -1,0 +1,39 @@
+{
+  "title": "Tazza (cup)",
+  "creation_date": "after 1546",
+  "creation_date_earliest": "1540-12-22",
+  "creation_date_latest": "1550-12-22",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "55.77.1",
+  "id": "cmoa:things/b7b7817f-0219-436a-b56a-e914daf2c1e8",
+  "credit_line": "Purchase: gift of Philip Taber in memory of George H. Taber",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 0.875,
+  "item_depth": 0.0,
+  "item_diameter": 12.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009598",
+  "provenance_text": "R. Stora and Company, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101854&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59a544ad-7367-487e-814e-2ef39c26fe94",
+      "party_type": "Organization",
+      "full_name": "Castel Durante Factory",
+      "cited_name": "Castel Durante Factory",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1495-01-01",
+      "death_date": "1635-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

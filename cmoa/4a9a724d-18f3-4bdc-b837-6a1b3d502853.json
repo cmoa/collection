@@ -1,0 +1,42 @@
+{
+  "title": "The Lady and the Rooks",
+  "creation_date": "1827",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "48.17.14",
+  "id": "cmoa:things/4a9a724d-18f3-4bdc-b837-6a1b3d502853",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008237",
+  "provenance_text": "Edward Calvert [1799-1883], England. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1948.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110534&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110533&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40bf3941-93d6-472b-86f5-344dee26ada5",
+      "party_type": "Person",
+      "full_name": "Edward Calvert",
+      "cited_name": "Calvert, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1799-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": " Devon (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

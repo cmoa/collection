@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "86.13.3",
+  "id": "cmoa:things/f33822d7-e374-486c-b5f0-d492cea31dc7",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1986-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.25,
+  "item_depth": 0.0,
+  "item_diameter": 12.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025833",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4091&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d192e5dd-8a37-404d-9ca1-de8344a355fc",
+      "party_type": "Person",
+      "full_name": "Henry Varnum Poor",
+      "cited_name": "Poor, Henry V.",
+      "role": "ceramicist",
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Chapman (Dickinson county, Kansas, United States)",
+      "death_place": "New City (Rockland county, New York state, United States)"
+    }
+  ]
+}

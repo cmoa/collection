@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "1818-1834",
+  "creation_date_earliest": "1818-01-01",
+  "creation_date_latest": "1834-01-01",
+  "medium": "earthenware",
+  "accession_number": "55.37.2",
+  "id": "cmoa:things/20858b62-2966-4ca0-9f58-6d7644f3247f",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.25,
+  "item_depth": 0.0,
+  "item_diameter": 1.563,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009451",
+  "provenance_text": "Mrs. James H. Beal, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2707&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce90c42e-b673-4b1f-98fe-4b9c0e657af2",
+      "party_type": "Person",
+      "full_name": "James Clews",
+      "cited_name": "Clews, James",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1817-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c1318dd-fa52-4c79-9350-66b1c8339583",
+      "party_type": "Person",
+      "full_name": "Ralph Clews",
+      "cited_name": "Clews, Ralph",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1817-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Japanese Market",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1018",
+  "id": "cmoa:things/3e4ad819-ee67-46c7-bc9c-69f75703f29f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.625,
+  "item_height": 24.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026716",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin directly from the artist, 1975.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35306&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9285b51-f897-4cc8-b8bc-778421478961",
+      "party_type": "Person",
+      "full_name": "Matsubara Naoko",
+      "cited_name": "Matsubara Naoko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

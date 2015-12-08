@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "1775",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "pencil",
+  "accession_number": "75.47.2",
+  "id": "cmoa:things/00d47af2-35ab-4734-b53e-7c76c928c7ab",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 4.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017793",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94781&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/95ef8e52-8380-44d7-8e8c-355a50574100",
+      "party_type": "Person",
+      "full_name": "Etienne Aubry",
+      "cited_name": "Aubry, Etienne",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1745-01-01",
+      "death_date": "1781-01-01",
+      "birth_place": " Versailles (Yvelines, Île-de-France, France)",
+      "death_place": " Versailles (Yvelines, Île-de-France, France)"
+    }
+  ]
+}

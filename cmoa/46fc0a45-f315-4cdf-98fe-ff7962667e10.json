@@ -1,0 +1,39 @@
+{
+  "title": "Noli Me Tangere",
+  "creation_date": "c. 1885-1890",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas mounted on panel",
+  "accession_number": "43.1",
+  "id": "cmoa:things/46fc0a45-f315-4cdf-98fe-ff7962667e10",
+  "credit_line": "Purchase",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.25,
+  "item_height": 14.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007389",
+  "provenance_text": "Estate of the artist; Charles Melville Dewey, until 1937; auction sale of Dewey estate, American Art Association-Anderson Galleries, New York, Apr. 8, 1937, as Two Nymphs; Ferargil Galleries, New York, until 1942; Purchase, 1942",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107661&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/edf823c5-b120-4704-bd12-0313aab92434",
+      "party_type": "Person",
+      "full_name": "Albert Pinkham Ryder",
+      "cited_name": "Ryder, Albert P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1847-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "New Bedfod, Massachusetts",
+      "death_place": "Elmhurst, New York"
+    }
+  ]
+}

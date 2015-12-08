@@ -1,0 +1,45 @@
+{
+  "title": "Mark Twain",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.9.11",
+  "id": "cmoa:things/a49f9326-2b89-4121-b888-625d3cad8c06",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.75,
+  "item_height": 17.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008399",
+  "provenance_text": "Arthur H. Harlow & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103649&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103647&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78880&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/804d2fd9-b541-4c8c-b077-b5f5d0e82c28",
+      "party_type": "Person",
+      "full_name": "Samuel J. Woolf",
+      "cited_name": "Woolf, Samuel J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

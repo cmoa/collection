@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "57.12.19.A-B",
+  "id": "cmoa:things/00c205eb-8fa1-423c-9f37-a5d175f45168",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 5.875,
+  "item_depth": 4.687,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010351",
+  "provenance_text": "G. David Thompson",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4422&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/efec7037-1ac7-4a48-97d4-3e526c56b1a8",
+      "party_type": "Person",
+      "full_name": "English, Spode or Rockingham",
+      "cited_name": "English, Spode or Rockingham",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

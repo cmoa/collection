@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "pencil",
+  "accession_number": "82.83.3",
+  "id": "cmoa:things/839fc250-03c5-4a10-b698-100632f0d250",
+  "credit_line": "Gift of Mr. and Mrs. Carl D. Lobell",
+  "date_acquired": "1982-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023176",
+  "provenance_text": "Gift of Mr. And Mrs. Carl D. Lobell, New York, NY, 1982.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cabf9522-cbb3-4244-a4eb-4e2f7834fd8e",
+      "party_type": "Person",
+      "full_name": "John Wilde",
+      "cited_name": "Wilde, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Milwaukee (Milwaukee county, Wisconson, United States)",
+      "death_place": "Cooksville (Rock county, Wisconson, United States)"
+    }
+  ]
+}

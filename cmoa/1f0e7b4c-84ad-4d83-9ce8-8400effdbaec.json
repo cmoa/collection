@@ -1,0 +1,39 @@
+{
+  "title": "Kettle",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "bronze",
+  "accession_number": "59.32.1",
+  "id": "cmoa:things/1f0e7b4c-84ad-4d83-9ce8-8400effdbaec",
+  "credit_line": "Sarah Mellon Scaife Foundation Fund",
+  "date_acquired": "1959-05-28",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.188,
+  "item_height": 8.25,
+  "item_depth": 8.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010991",
+  "provenance_text": "Heeramaneck Galleries, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4faa896-b566-45ac-b1d4-258f598ad997",
+      "party_type": "Person",
+      "full_name": "unknown Persian",
+      "cited_name": "unknown Persian",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

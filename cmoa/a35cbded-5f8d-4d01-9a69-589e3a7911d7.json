@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "glass, silver",
+  "accession_number": "2002.9",
+  "id": "cmoa:things/a35cbded-5f8d-4d01-9a69-589e3a7911d7",
+  "credit_line": "Herbert DuPuy Fund",
+  "date_acquired": "2002-04-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 7.75,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004458",
+  "provenance_text": "Blairman's, London",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5871&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11074&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3817882f-813b-4e21-8215-13162f171431",
+      "party_type": "Person",
+      "full_name": "Maurice-Gustave Guerchet",
+      "cited_name": "Guerchet, Maurice-Gustave",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1869-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Elegy II (Opus 134)",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "grey elm wood",
+  "accession_number": "81.38",
+  "id": "cmoa:things/b9bede81-d7d1-417f-97ad-7e856e59d42d",
+  "credit_line": "Gift of Ruth H. Jackson in memory of Alexander H. Jackson",
+  "date_acquired": "1981-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 10.375,
+  "item_height": 19.75,
+  "item_depth": 8.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021865",
+  "provenance_text": "The Estate of Alexander H. Jackson, Pittsburgh",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/351fd489-918b-4c0b-b1bc-05fd9ad6aaa0",
+      "party_type": "Person",
+      "full_name": "Barbara Hepworth",
+      "cited_name": "Hepworth, Barbara",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Wakefield district (England, United Kingdom)",
+      "death_place": " Saint Ives (Cornwall, England, United Kingdom)"
+    }
+  ]
+}

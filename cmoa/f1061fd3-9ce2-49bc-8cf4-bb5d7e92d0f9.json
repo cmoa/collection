@@ -1,0 +1,39 @@
+{
+  "title": "The Entombment",
+  "creation_date": "early 1470s",
+  "creation_date_earliest": "1469-12-23",
+  "creation_date_latest": "1474-12-23",
+  "medium": "engraving",
+  "accession_number": "74.7.142",
+  "id": "cmoa:things/f1061fd3-9ce2-49bc-8cf4-bb5d7e92d0f9",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.75,
+  "item_height": 12.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017291",
+  "provenance_text": "Charles J. Rosenbloom (Lugt Suppl 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8032efd1-9407-4368-9de4-8541c096ad39",
+      "party_type": "Person",
+      "full_name": "Andrea Mantegna",
+      "cited_name": "Mantegna, Andrea",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1430-01-01",
+      "death_date": "1506-01-01",
+      "birth_place": "Padova province (Veneto, Italy)",
+      "death_place": "Mantua (Mantova province, Lombardy, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lady in Black and Rose",
+  "creation_date": "c. 1905-1909",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "oil on panel",
+  "accession_number": "16.5.1",
+  "id": "cmoa:things/a9a732be-a84a-4d0d-85cc-4d25ea823e99",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 15.438,
+  "item_height": 20.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001308",
+  "provenance_text": "Thomas Wilmer Dewing [1851-1938]. N. E. Montross [1849-1932], New York; Hugo Reisinger [1856-1914], New York, by 1909 until 1914; Estate of Hugo Reisinger, 1914 until January 1916 [1]; (sold at American Art Association, New York, on January 18, 1916); purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1916. \nNOTES: [1] The executors of Hugo Reisinger's estate were Kuno Francke and Frederick Dessin.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114582&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4664bab4-10f4-445b-a40e-d1c6942406ee",
+      "party_type": "Person",
+      "full_name": "Thomas Wilmer Dewing",
+      "cited_name": "Dewing, Thomas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1851-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Boston, Massachussets",
+      "death_place": "New York City"
+    }
+  ]
+}

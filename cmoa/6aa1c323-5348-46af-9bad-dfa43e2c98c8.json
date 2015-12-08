@@ -1,0 +1,39 @@
+{
+  "title": "Portrait Sketch",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "pencil",
+  "accession_number": "16.31.1",
+  "id": "cmoa:things/6aa1c323-5348-46af-9bad-dfa43e2c98c8",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001224",
+  "provenance_text": "Scott and Fowles, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99773&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1fd5da1d-1799-48fa-9d12-9585e520e7a5",
+      "party_type": "Person",
+      "full_name": "Augustus John",
+      "cited_name": "John, Augustus E.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": " Tenby (Pembrokeshire, Wales, United Kingdom)",
+      "death_place": " Fordingbridge (Hampshire, England, United Kingdom)"
+    }
+  ]
+}

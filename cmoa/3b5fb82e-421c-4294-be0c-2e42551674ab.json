@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1662-1722",
+  "creation_date_earliest": "1662-01-01",
+  "creation_date_latest": "1722-01-01",
+  "medium": "porcelain",
+  "accession_number": "71.11.1",
+  "id": "cmoa:things/3b5fb82e-421c-4294-be0c-2e42551674ab",
+  "credit_line": "Given in memory of Mrs. Thomas Childs Wurts by an Admiring Friend",
+  "date_acquired": "1971-05-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 5.312,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016103",
+  "provenance_text": "Given Anonymously by Miss Helen C. Frick",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3265&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

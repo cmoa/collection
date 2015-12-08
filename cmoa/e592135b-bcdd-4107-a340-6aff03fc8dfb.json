@@ -1,0 +1,39 @@
+{
+  "title": "Untitled contact print",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.51.1",
+  "id": "cmoa:things/e592135b-bcdd-4107-a340-6aff03fc8dfb",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.984,
+  "item_height": 10.984,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104954",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132210&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9a82660-64c7-48a0-b103-a1029d9cf04f",
+      "party_type": "Person",
+      "full_name": "Robert Doisneau",
+      "cited_name": "Doisneau, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1912-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Gentilly (Val-de-Marne, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

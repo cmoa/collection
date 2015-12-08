@@ -1,0 +1,59 @@
+{
+  "title": "Green-Wood Illustrated; Mount Auburn Illustrated",
+  "creation_date": "1850",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "two books bound as one",
+  "accession_number": "95.51.2.A-.B",
+  "id": "cmoa:things/679a2775-91e3-4e92-9c18-a672b5a13f9a",
+  "credit_line": "Gift of Christopher Monkhouse",
+  "date_acquired": "1995-03-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 11.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111423",
+  "provenance_text": "Christopher Monkhouse, Pittsburgh, PA",
+  "classification": "books",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de1e3796-2dac-4eef-88f1-17e35643cce5",
+      "party_type": "Person",
+      "full_name": "Nehemiah Cleveland",
+      "cited_name": "Cleveland, Nehemiah",
+      "role": "author",
+      "nationality": "American",
+      "birth_date": "1796-01-01",
+      "death_date": "1877-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/331ca951-426b-48e4-9126-262476b0adb3",
+      "party_type": "Person",
+      "full_name": "Cornelia W. Walter",
+      "cited_name": "Walter, Cornelia W.",
+      "role": "author",
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/faff5f9b-3876-4b6c-9d46-6659f09269b4",
+      "party_type": "Person",
+      "full_name": "James Smillie",
+      "cited_name": "Smillie, James",
+      "role": "illustrator",
+      "nationality": "American",
+      "birth_date": "1807-01-01",
+      "death_date": "1885-01-01",
+      "birth_place": "Edinburgh (Edinburgh, Scotland, United Kingdom)",
+      "death_place": "Poughkeepsie (Dutchess county, New York state, United States)"
+    }
+  ]
+}

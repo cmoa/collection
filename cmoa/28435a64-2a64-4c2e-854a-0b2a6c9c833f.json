@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on paper",
+  "accession_number": "61.50.4",
+  "id": "cmoa:things/28435a64-2a64-4c2e-854a-0b2a6c9c833f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011461",
+  "provenance_text": "American Federation of Arts, New York; Leisser Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99771&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/109ebc58-8e38-4c00-a4ea-93eabfab24f1",
+      "party_type": "Person",
+      "full_name": "William Crozier",
+      "cited_name": "Crozier, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1933-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Glasgow, Scotland",
+      "death_place": null
+    }
+  ]
+}

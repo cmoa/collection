@@ -1,0 +1,39 @@
+{
+  "title": "Perfume bottle",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "cut amber glass with porcelain cameo inclusions",
+  "accession_number": "71.50.4.2.A-B",
+  "id": "cmoa:things/e07f6b09-4dc1-41d2-a635-19fa7c9c9815",
+  "credit_line": "Gift of Mrs. Edward Pitcairn",
+  "date_acquired": "1971-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 4.625,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016229",
+  "provenance_text": "Mrs. Edward Pitcairn, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7410d968-d451-40a8-ae46-8ec70eee3715",
+      "party_type": "Person",
+      "full_name": "Apsley Pellat",
+      "cited_name": "Pellat, Apsley",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1791-01-01",
+      "death_date": "1863-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

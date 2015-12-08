@@ -1,0 +1,39 @@
+{
+  "title": "Sketch",
+  "creation_date": "1867-1868",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "graphite, pen and ink, and Chinese white on uncut wood block",
+  "accession_number": "22.10.7.5",
+  "id": "cmoa:things/32cdf9c2-7caf-448c-beae-83823301416e",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-05-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 3.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004657",
+  "provenance_text": "Sale, American Art Galleries, New York, [29-31 March 1911, cat. no. 840; Mrs. George L. Heins, New York; Grace Edith Barnes (executrix of the artist's estate), New York; Purchase",
+  "classification": "printing blocks",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115693&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c359036-66e7-40c2-a178-5d188e9af469",
+      "party_type": "Person",
+      "full_name": "John La Farge",
+      "cited_name": "La Farge, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1835-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "New York City",
+      "death_place": "Newport, Rhode Island"
+    }
+  ]
+}

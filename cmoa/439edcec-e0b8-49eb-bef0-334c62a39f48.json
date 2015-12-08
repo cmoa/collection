@@ -1,0 +1,51 @@
+{
+  "title": "Sirio",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "glass",
+  "accession_number": "1996.73",
+  "id": "cmoa:things/439edcec-e0b8-49eb-bef0-334c62a39f48",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1996-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.812,
+  "item_height": 14.5,
+  "item_depth": 4.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002821",
+  "provenance_text": "Urban Architecture, Pontiac, MI",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a2a4a16-c292-4ede-9b9a-b67818065fe4",
+      "party_type": "Person",
+      "full_name": "Ettore Sottsass",
+      "cited_name": "Sottsass, Ettore",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1917-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Innsbruck, Austria",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/322574cc-dad0-4dca-b925-f5e1fa5d8cbb",
+      "party_type": "Organization",
+      "full_name": "Memphis",
+      "cited_name": "Memphis",
+      "role": "retailer",
+      "nationality": "Italian",
+      "birth_date": "1980-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

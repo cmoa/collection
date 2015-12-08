@@ -1,0 +1,39 @@
+{
+  "title": "La Plaine de la Plante à Biau (The Plain at La Plante-à-Biau)",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "Cliché-verre on paper",
+  "accession_number": "22.11.40",
+  "id": "cmoa:things/f170fd6c-659d-4123-82da-e6772fcb88ce",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-11-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004696",
+  "provenance_text": "Weyhe Gallery, 794 Lexington Avenue, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23128&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52cbb6be-9abf-42f8-91ff-4f836a0728db",
+      "party_type": "Person",
+      "full_name": "Theodore Rousseau",
+      "cited_name": "Rousseau, Theodore",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1812-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Barbizon (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

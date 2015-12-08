@@ -1,0 +1,51 @@
+{
+  "title": "Spring Frost",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.711.5",
+  "id": "cmoa:things/3de51831-88e9-4fac-9787-b61d7d7a466d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 5.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028724",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7fc4ae83-053a-4125-8357-c1d7121851c3",
+      "party_type": "Person",
+      "full_name": "Shimozawa Kihachirô",
+      "cited_name": "Shimozawa Kihachirô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1901-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/adff254f-adc8-4973-b839-b8b0b4bc0eb4",
+      "party_type": "Organization",
+      "full_name": "Kitsutsukikai",
+      "cited_name": "Kitsutsukikai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

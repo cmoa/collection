@@ -1,0 +1,54 @@
+{
+  "title": "Attached (colonial) jellyfish (Campanulina tenuis) x 30",
+  "creation_date": "c. 1880-1890",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "painted glass",
+  "accession_number": "2004.56.5",
+  "id": "cmoa:things/e37f5496-6f92-48e0-80a6-10dfd7cf6e5b",
+  "credit_line": "Transferred from Carnegie Museum of Natural History",
+  "date_acquired": "2005-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 7.75,
+  "item_depth": 6.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7900",
+  "provenance_text": "Transfered from Carnegie Museum of Natural History.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=44845&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134820&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a1df5ff1-4729-45a6-b170-59244443c2b3",
+      "party_type": "Person",
+      "full_name": "Leopold Blaschka",
+      "cited_name": "Blaschka, Leopold",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1822-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": "Aicha, northern Bohemia",
+      "death_place": "Dreseden, Germany"
+    },
+    {
+      "artist_id": "cmoa:parties/085e5342-ab78-4aa9-a317-a021a6f0905d",
+      "party_type": "Person",
+      "full_name": "Rudolf Blaschka",
+      "cited_name": "Blaschka, Rudolf",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1857-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Aicha, northern Bohemia",
+      "death_place": "Dresden, Germany"
+    }
+  ]
+}

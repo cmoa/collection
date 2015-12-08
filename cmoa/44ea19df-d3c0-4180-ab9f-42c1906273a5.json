@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Selina Shirley, Countess of Huntingdon (1707-1791)",
+  "creation_date": "c. 1785-1790",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "enamel on copper; composition and gilt metal frame",
+  "accession_number": "27.10.50",
+  "id": "cmoa:things/44ea19df-d3c0-4180-ab9f-42c1906273a5",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.562,
+  "item_height": 5.438,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005812",
+  "provenance_text": "(Clara Millard, Teddington, England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, February 1, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73444&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/83aa6db6-50b1-452c-99e8-e5ce07efcdf3",
+      "party_type": "Person",
+      "full_name": "Henry Bone",
+      "cited_name": "Bone, Henry",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1755-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

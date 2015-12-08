@@ -1,0 +1,39 @@
+{
+  "title": "Robert Colt of Auldhame, M.P., and his wife Grizel",
+  "creation_date": "c. 1785-1795",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.25.1",
+  "id": "cmoa:things/af3e75fb-2b87-4734-81fb-e6a8098fa5fd",
+  "credit_line": "Gift of Baroness Cassel Van Doorn",
+  "date_acquired": "1958-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 44.875,
+  "item_height": 59.125,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010719",
+  "provenance_text": "Captain Colt, England, 1876-1901; Mrs. Jane Colt, Gartsherrie; Jean Germain Leon, Baron Cassel van Doorn, New York; Baroness Cassel van Doorn, New York; gift to Museum, November 1958.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23535&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b852bde-15f8-475a-9e9e-176f03858840",
+      "party_type": "Person",
+      "full_name": "Sir Henry Raeburn",
+      "cited_name": "Raeburn, Henry",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1823-01-01",
+      "birth_place": "Scotland (United Kingdom)",
+      "death_place": "Edinburgh (Edinburgh, Scotland, United Kingdom)"
+    }
+  ]
+}

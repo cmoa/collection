@@ -1,0 +1,39 @@
+{
+  "title": "St. Anthony",
+  "creation_date": "1521",
+  "creation_date_earliest": "1520-12-22",
+  "creation_date_latest": "1520-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.45",
+  "id": "cmoa:things/b6c29cbb-9d30-4f49-b422-f5d71393988c",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017523",
+  "provenance_text": "Charles J. Rosenbloom, Lugt, Suppl. 633b, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b698dca-215c-40e3-97c7-d9a589db4a0b",
+      "party_type": "Person",
+      "full_name": "Hans Sebald Beham",
+      "cited_name": "Beham, Hans Sebald",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1500-01-01",
+      "death_date": "1550-01-01",
+      "birth_place": " Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": " Frankfurt am Main (Darmstadt district, Hessen state, Germany)"
+    }
+  ]
+}

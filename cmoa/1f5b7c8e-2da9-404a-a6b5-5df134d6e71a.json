@@ -1,0 +1,42 @@
+{
+  "title": "Boppard Chair",
+  "creation_date": "1836-1840",
+  "creation_date_earliest": "1836-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "beech with mahogany veneer and modern cane",
+  "accession_number": "2009.41",
+  "id": "cmoa:things/1f5b7c8e-2da9-404a-a6b5-5df134d6e71a",
+  "credit_line": "Ailsa Mellon Bruce Fund, Richard L. Simmons Acquisition Fund, and prior gift of the Roy A. Hunt Foundation, and Mr. and Mrs. Aleon Deitch, by exchange",
+  "date_acquired": "2009-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 16.75,
+  "item_height": 33.688,
+  "item_depth": 18.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=81593",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98487&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98488&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d6f0013e-8469-485b-835e-c46ed686a876",
+      "party_type": "Person",
+      "full_name": "Michael Thonet",
+      "cited_name": "Thonet, Michael",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1796-01-01",
+      "death_date": "1871-01-01",
+      "birth_place": "Boppard, Germany",
+      "death_place": "Vienna"
+    }
+  ]
+}

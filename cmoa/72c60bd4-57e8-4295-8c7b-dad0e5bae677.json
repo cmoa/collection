@@ -1,0 +1,51 @@
+{
+  "title": "Cornelis de Vos",
+  "creation_date": "1654-1664",
+  "creation_date_earliest": "1654-01-01",
+  "creation_date_latest": "1664-01-01",
+  "medium": "etching",
+  "accession_number": "16.34.2",
+  "id": "cmoa:things/72c60bd4-57e8-4295-8c7b-dad0e5bae677",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-01-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 3.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001247",
+  "provenance_text": "F. Meder, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100913&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0b75f0c-8244-4846-a409-6d57f86cad00",
+      "party_type": "Person",
+      "full_name": "Richard Gaywood",
+      "cited_name": "Gaywood, Richard",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1630-01-01",
+      "death_date": "1711-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

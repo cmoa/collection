@@ -1,0 +1,39 @@
+{
+  "title": "Pine Tree and Gentleman",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "welded steel",
+  "accession_number": "1999.28",
+  "id": "cmoa:things/9f51b6dc-4bc1-4472-a37f-afbfc677705c",
+  "credit_line": "Gift of Drue Heinz",
+  "date_acquired": "1999-06-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 33.5,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003873",
+  "provenance_text": "Earl McGrath Gallery, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/023988c1-bf90-43dd-ad9d-02feee02687a",
+      "party_type": "Person",
+      "full_name": "Vincenzo Amato",
+      "cited_name": "Amato, Vincenzo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

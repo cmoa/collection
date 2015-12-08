@@ -1,0 +1,39 @@
+{
+  "title": "Owl",
+  "creation_date": "c. 1755",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "porcelain with enamel decoration",
+  "accession_number": "70.32.1894",
+  "id": "cmoa:things/e4412d66-375c-43b0-9f1c-12f7a28289b1",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 4.062,
+  "item_height": 8.375,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014052",
+  "provenance_text": "Ailsa Mellon Bruce, before 1970; Gift to Carnegie Museum of Art, 1970. \n\nTBF November 4, 2014",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3863f39e-dd5b-47a0-91e7-12b5fab9e11b",
+      "party_type": "Organization",
+      "full_name": "Bow Porcelain Factory",
+      "cited_name": "Bow Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1735-01-01",
+      "death_date": "1776-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

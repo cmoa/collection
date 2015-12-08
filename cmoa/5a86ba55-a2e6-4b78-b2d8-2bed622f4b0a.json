@@ -1,0 +1,39 @@
+{
+  "title": "Brooklyn Bridge",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2013.58",
+  "id": "cmoa:things/5a86ba55-a2e6-4b78-b2d8-2bed622f4b0a",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2013-12-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.938,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102122",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128844&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/579c0684-f303-4e1a-a9b9-a1687e44a98a",
+      "party_type": "Person",
+      "full_name": "Rudy Burckhardt",
+      "cited_name": "Burckhardt, Rudy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Basel (Basel-Stadt, Switzerland)",
+      "death_place": null
+    }
+  ]
+}

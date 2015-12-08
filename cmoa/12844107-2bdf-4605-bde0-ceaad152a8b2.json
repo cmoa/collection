@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman by a Fountain",
+  "creation_date": "c. 1665",
+  "creation_date_earliest": "1660-01-01",
+  "creation_date_latest": "1670-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.11.17",
+  "id": "cmoa:things/12844107-2bdf-4605-bde0-ceaad152a8b2",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 27.0,
+  "item_height": 33.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011712",
+  "provenance_text": "Private Collection, Frankfurt, Germany; (Van Diemen Galleries); Howard A. Noble [1874-1964], Pittsburgh, PA, by 1944; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1964.\n\nNotes: Llikely the one of the two Maes works in the Noble collection that in 1944 hung in the parlor of their residence at 1245 Shady Avenue, Pittsburgh, PA.\n\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19081&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c83ce317-39ad-4bab-b2d6-20bd2adc77e1",
+      "party_type": "Person",
+      "full_name": "Nicolaes Maes",
+      "cited_name": "Maes, Nicolaes",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1632-01-01",
+      "death_date": "1693-01-01",
+      "birth_place": "Dordrecht (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

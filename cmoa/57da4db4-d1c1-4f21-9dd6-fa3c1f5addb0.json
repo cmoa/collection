@@ -1,0 +1,39 @@
+{
+  "title": "The Garden (Le jardin)",
+  "creation_date": "1894",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "oil on cardboard mounted on Japanese paper, mounted on honeycomb panel",
+  "accession_number": "69.27",
+  "id": "cmoa:things/57da4db4-d1c1-4f21-9dd6-fa3c1f5addb0",
+  "credit_line": "Gift of Mr. and Mrs. John F. Walton, Jr.",
+  "date_acquired": "1969-09-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.75,
+  "item_height": 51.625,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012549",
+  "provenance_text": "Ker-Xavier Roussel [1867-1944]. Edouard Vuillard [1869-1940], Paris, France; Jacques Roussel, Paris, France; Walter Feilchenfeldt [1939-], Zurich, Switzerland, by 1969; purchased by Museum, September 1969 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10149&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2a3f92c-0bd4-4eb2-8e8e-9c939ea2065d",
+      "party_type": "Person",
+      "full_name": "Ker-Xavier Roussel",
+      "cited_name": "Roussel, Ker-Xavier",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Lorry-les-Metz, Moselle, France",
+      "death_place": "L'Etang-la-Ville, Yvelines, France"
+    }
+  ]
+}

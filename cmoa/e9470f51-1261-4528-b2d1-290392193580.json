@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.28",
+  "id": "cmoa:things/e9470f51-1261-4528-b2d1-290392193580",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018244",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106482&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/875ead76-1855-4449-8e0f-75c00c15fcbe",
+      "party_type": "Person",
+      "full_name": "Cy Twombly",
+      "cited_name": "Twombly, Cy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Lexington, VA",
+      "death_place": "Rome"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Superbowl Win",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "Inkjet print",
+  "accession_number": "2013.8.10",
+  "id": "cmoa:things/0e2c2a3b-3e6a-4149-a1ac-c2360c999718",
+  "credit_line": "Gift of The Heinz Endowments",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93583",
+  "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106603&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e89637b6-94ab-41b5-8773-572460226a8e",
+      "party_type": "Person",
+      "full_name": "Annie O'Neill",
+      "cited_name": "O'Neill, Annie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "Wading River, NY",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Mademoiselle Du T...",
+  "creation_date": "1779",
+  "creation_date_earliest": "1779-01-01",
+  "creation_date_latest": "1779-01-01",
+  "medium": "crayon manner and color aquatint on paper mount with etching and aquatint",
+  "accession_number": "70.32.2597",
+  "id": "cmoa:things/098cbc76-503a-461e-8165-d70588caef12",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 16.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014826",
+  "provenance_text": "M. Knoedler & Co, New York (label on old mat with stock nos. P K487.5  F 63001); Ailsa Mellon Bruce, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100084&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c978d552-71de-4d28-8f51-1b6b8c7afb24",
+      "party_type": "Person",
+      "full_name": "Jean-François Janinet",
+      "cited_name": "Janinet, Jean-François",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1752-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6b24b3e7-c62e-4c91-a1db-7f96dc5d080c",
+      "party_type": "Person",
+      "full_name": "Jean-Louis Lemoyne",
+      "cited_name": "Lemoyne, Jean-Louis",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1665-01-01",
+      "death_date": "1755-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tea caddy",
+  "creation_date": "1760-1761",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1761-01-01",
+  "medium": "silver",
+  "accession_number": "69.49.3.A-B",
+  "id": "cmoa:things/69711970-7d23-4bfb-bb75-edac56dffbe6",
+  "credit_line": "Gift of Mrs. Edward Pitcairn",
+  "date_acquired": "1969-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.5,
+  "item_height": 6.125,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012975",
+  "provenance_text": "Mrs. Edward Pitcairn, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8779&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1320df63-8511-42c4-b0c7-03672aed86a7",
+      "party_type": "Person",
+      "full_name": "Albertus Schurman",
+      "cited_name": "Schurman, Albertus",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1762-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

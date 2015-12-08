@@ -1,0 +1,42 @@
+{
+  "title": "Charger",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "2007.5",
+  "id": "cmoa:things/a13a3535-aaef-4629-88fd-ec7b858cbb8a",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2007-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 3.625,
+  "item_depth": 0.0,
+  "item_diameter": 14.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=35819",
+  "provenance_text": "Private collection of Dennis Gallion and Daniel Morris, proprietors of Historical Design in New York City, a leading firm in American and European modernist design.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97724&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65743&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c475f2f1-668e-434a-a192-59339eac82c5",
+      "party_type": "Person",
+      "full_name": "Wilhelm Hunt Diederich",
+      "cited_name": "Diederich, Wilhelm Hunt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Hungary (Europe)",
+      "death_place": "Nyack (Rockland county, New York state, United States)"
+    }
+  ]
+}

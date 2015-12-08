@@ -1,0 +1,39 @@
+{
+  "title": "Casserole",
+  "creation_date": "no date",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1226.A-B",
+  "id": "cmoa:things/2723f7de-aa1a-42b3-948b-e5987e4513df",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.375,
+  "item_height": 5.75,
+  "item_depth": 8.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013314",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4653&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b8f65f4-8eea-4f22-95fb-d13a6ccdc382",
+      "party_type": "Person",
+      "full_name": "unknown French, Paris, D'Artois",
+      "cited_name": "unknown French, Paris, D'Artois",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

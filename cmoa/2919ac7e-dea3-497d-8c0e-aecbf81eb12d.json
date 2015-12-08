@@ -1,0 +1,37 @@
+{
+  "title": "The Stones of Elath",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.41",
+  "id": "cmoa:things/2919ac7e-dea3-497d-8c0e-aecbf81eb12d",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1960-09-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.25,
+  "item_height": 18.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011247",
+  "provenance_text": "Gift of Mordecai Ardon (Ardon-Bronstein), 1960.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/15531775-a45c-4fc2-9392-f31197c0e2df",
+      "party_type": "Person",
+      "full_name": "Mordecai Ardo",
+      "cited_name": "Ardon, Mordecai",
+      "role": null,
+      "nationality": "Israeli",
+      "birth_date": "1896-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Tuchów (Malopolskie voivodship, Poland)",
+      "death_place": "Jerusalem (Yerushalayim district, Israel)"
+    }
+  ]
+}

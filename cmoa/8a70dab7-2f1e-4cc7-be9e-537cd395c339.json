@@ -1,0 +1,39 @@
+{
+  "title": "Vessel, in Form of a RAM",
+  "creation_date": "599 BCE-400 BCE",
+  "creation_date_earliest": "-0599-01-07",
+  "creation_date_latest": "-0400-01-06",
+  "medium": "terracotta",
+  "accession_number": "63.18.1",
+  "id": "cmoa:things/8a70dab7-2f1e-4cc7-be9e-537cd395c339",
+  "credit_line": "Annie-May Hegeman Fund",
+  "date_acquired": "1963-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 6.5,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011648",
+  "provenance_text": "Spink and Son, Ltd., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87453366-a55c-4c79-aaf1-7c1904b628a2",
+      "party_type": "Person",
+      "full_name": "unknown Etruscan",
+      "cited_name": "unknown Etruscan",
+      "role": null,
+      "nationality": "Etruscan",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

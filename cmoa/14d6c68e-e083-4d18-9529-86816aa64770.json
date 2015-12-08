@@ -1,0 +1,39 @@
+{
+  "title": "Going Out (after Painting by George Morland)",
+  "creation_date": "1800-1801",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1801-01-01",
+  "medium": "color engraving on paper",
+  "accession_number": "70.32.2599",
+  "id": "cmoa:things/14d6c68e-e083-4d18-9529-86816aa64770",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.75,
+  "item_height": 38.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014828",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149528&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97dd062f-5edf-4665-b14a-2f69b5755f59",
+      "party_type": "Person",
+      "full_name": "Edward Bell",
+      "cited_name": "Bell, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1847-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

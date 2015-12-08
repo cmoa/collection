@@ -1,0 +1,42 @@
+{
+  "title": "Self-portrait and Brief Description of Ôishi Yoshio (Ôishi Yoshio jigazô kiryaku)",
+  "creation_date": "1784-1786",
+  "creation_date_earliest": "1784-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "woodcut (stone print)",
+  "accession_number": "89.28.1114",
+  "id": "cmoa:things/7c825d36-c2c4-4a79-a040-4e8433393920",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026876",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107886&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20491&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6c1d647-f78e-490e-b5b5-a0801aa998f4",
+      "party_type": "Person",
+      "full_name": "Zegyokudô",
+      "cited_name": "Zegyokudô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1781-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Toledo chair",
+  "creation_date": "designed 1986-88 manufactured 1989-",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "epoxy-coated cast aluminum and aluminum tubing",
+  "accession_number": "2000.17",
+  "id": "cmoa:things/89f8f169-5975-4b5a-83de-44b73666c99e",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.75,
+  "item_height": 30.0,
+  "item_depth": 21.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003997",
+  "provenance_text": "Ellen Suh, Altadena, California",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e05801e0-f6af-4c18-9e09-df6919c1d028",
+      "party_type": "Person",
+      "full_name": "Jorge Pensi",
+      "cited_name": "Pensi, Jorge",
+      "role": "designer",
+      "nationality": "Argentine",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Argentina",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/da990467-aa65-4cab-9397-c40bee4b208f",
+      "party_type": "Organization",
+      "full_name": "Amat S.A.",
+      "cited_name": "Amat S.A.",
+      "role": "manufacturer",
+      "nationality": "Spanish",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

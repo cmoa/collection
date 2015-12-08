@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Courtesans)",
+  "creation_date": null,
+  "creation_date_earliest": "1773-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "ink on paper",
+  "accession_number": "89.28.1436.2",
+  "id": "cmoa:things/4fb744f5-819b-433b-aa6b-e5428b7509fe",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 5.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027344",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104518&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/701baf6b-252c-4cc7-8739-75a3ef9dda6d",
+      "party_type": "Person",
+      "full_name": "Utamaro Kitagawa",
+      "cited_name": "Utamaro Kitagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1754-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

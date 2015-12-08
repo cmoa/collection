@@ -1,0 +1,39 @@
+{
+  "title": "Ladle",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "silver",
+  "accession_number": "83.59",
+  "id": "cmoa:things/c8d6fa02-4f2c-4430-b6ee-a6b0b3be5fdb",
+  "credit_line": "Purchase: gift of Mrs. J. Judson Brooks",
+  "date_acquired": "1983-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 15.0,
+  "item_height": 3.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023858",
+  "provenance_text": "The Stradlings, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4713&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3f557a8-b6ca-4403-8eee-3bc8dcdfdbec",
+      "party_type": "Person",
+      "full_name": "Zachariah A. Tannehill",
+      "cited_name": "Tannehill, Zachariah A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1797-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

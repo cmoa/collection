@@ -1,0 +1,39 @@
+{
+  "title": "Gucurbita-Calbasse I",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "steel",
+  "accession_number": "61.31.2",
+  "id": "cmoa:things/8c87e92c-6ab4-4237-aa65-fd796501352b",
+  "credit_line": "Patrons Art Fund: gift of Mr. and Mrs. George Magee Wyckoff",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 16.0,
+  "item_depth": 13.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011416",
+  "provenance_text": "Artist, for 1961 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126352&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fdf32439-7fa0-4817-99b9-29b95d39c2dc",
+      "party_type": "Person",
+      "full_name": "Jochen Hiltmann",
+      "cited_name": "Hiltmann, Jochen",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Hamburg, Germany",
+      "death_place": null
+    }
+  ]
+}

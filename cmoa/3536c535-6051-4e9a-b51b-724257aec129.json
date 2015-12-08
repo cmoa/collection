@@ -1,0 +1,42 @@
+{
+  "title": "Girl by a Fountain",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "crayon on paper",
+  "accession_number": "18.25.12",
+  "id": "cmoa:things/3536c535-6051-4e9a-b51b-724257aec129",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001763",
+  "provenance_text": "American Artist's War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85922&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48025&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/09d3d2ce-cb1a-4ce4-bad2-55932f530709",
+      "party_type": "Person",
+      "full_name": "Maxfield Parrish",
+      "cited_name": "Parrish, Maxfield",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "Windsor (Windsor county, Vermont, United States)"
+    }
+  ]
+}

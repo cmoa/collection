@@ -1,0 +1,39 @@
+{
+  "title": "Still Life on Table",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "pencil",
+  "accession_number": "67.4",
+  "id": "cmoa:things/2616935b-abb3-4594-abe0-a613002b5388",
+  "credit_line": "Gift of Bianchini Gallery",
+  "date_acquired": "1967-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012354",
+  "provenance_text": "Gift of Bianchini Gallery NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99725&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbe8bcac-78aa-4681-8d9e-2bd63de3c8a8",
+      "party_type": "Person",
+      "full_name": "Edouard Vuillard",
+      "cited_name": "Vuillard, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1868-11-11",
+      "death_date": "1940-06-21",
+      "birth_place": "Cuiseaux (Saône-et-Loire, Burgundy region, France)",
+      "death_place": "Baule, la (Loire-Atlantique, Pays de la Loire, France)"
+    }
+  ]
+}

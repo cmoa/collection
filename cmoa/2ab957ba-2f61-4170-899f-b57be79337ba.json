@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": null,
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "colored pencil",
+  "accession_number": "55.58.2",
+  "id": "cmoa:things/2ab957ba-2f61-4170-899f-b57be79337ba",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009533",
+  "provenance_text": "Gaston Bertrand",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4d1891c-01ca-4453-a8c2-f7c74bc79df4",
+      "party_type": "Person",
+      "full_name": "Gaston Bertrand",
+      "cited_name": "Bertrand, Gaston",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1910-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Limburg (Flanders, Belgium)",
+      "death_place": "Brussels (Bruxelles region, Belgium)"
+    }
+  ]
+}

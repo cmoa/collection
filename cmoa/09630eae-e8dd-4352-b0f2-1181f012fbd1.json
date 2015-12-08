@@ -1,0 +1,39 @@
+{
+  "title": "Yellow Flowers",
+  "creation_date": null,
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on panel",
+  "accession_number": "78.26.2",
+  "id": "cmoa:things/09630eae-e8dd-4352-b0f2-1181f012fbd1",
+  "credit_line": "Gift of David T. Owsley",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 19.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019293",
+  "provenance_text": "Gift of David T. Owsley, New York, NY, 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150070&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b92dfcfd-79f1-4f44-9079-b74bd38ec76b",
+      "party_type": "Person",
+      "full_name": "Alex Fletcher",
+      "cited_name": "Fletcher, Alex",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1866-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

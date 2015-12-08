@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Giles Mandenburg",
+  "creation_date": "1802",
+  "creation_date_earliest": "1802-01-01",
+  "creation_date_latest": "1802-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.64",
+  "id": "cmoa:things/42093a8d-8bfb-4873-ae73-13137d9a862d",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 3.812,
+  "item_depth": 0.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005913",
+  "provenance_text": "Rear Admiral Joseph G. Eaton [1847-1913], Assinippi, MA; Family of Rear Admiral Joseph G. Eaton, after 1913; Fred D. Widmer, Boston, MA; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, June 29, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73468&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73469&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/46d4c1cc-7327-4075-9a83-d4eb3ae6e39c",
+      "party_type": "Person",
+      "full_name": "George Engleheart",
+      "cited_name": "Engleheart, George",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1752-01-01",
+      "death_date": "1829-01-01",
+      "birth_place": " Kew (Greater London, England, United Kingdom)",
+      "death_place": " Blackheath (Surrey, England, United Kingdom)"
+    }
+  ]
+}

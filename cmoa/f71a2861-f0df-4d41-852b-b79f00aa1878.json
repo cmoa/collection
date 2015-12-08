@@ -1,0 +1,39 @@
+{
+  "title": "Aristide Bruant",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "lithograph on ivory wove paper",
+  "accession_number": "54.12.5",
+  "id": "cmoa:things/f71a2861-f0df-4d41-852b-b79f00aa1878",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009200",
+  "provenance_text": "Henri Marie Raymond de Toulouse-Lautrec [1864-1901]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, March 1954 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d74bc35d-9b45-4b13-8564-a5843e338de6",
+      "party_type": "Person",
+      "full_name": "Henri Marie Raymond de Toulouse-Lautrec",
+      "cited_name": "Toulouse-Lautrec, Henri de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1864-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": "Albi (Tarn, Midi-Pyrénées, France)",
+      "death_place": "Langon (Gironde, Aquitaine, France)"
+    }
+  ]
+}

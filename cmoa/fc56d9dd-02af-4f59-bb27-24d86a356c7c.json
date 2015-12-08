@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "15th century",
+  "creation_date_earliest": "1399-12-24",
+  "creation_date_latest": "1498-12-23",
+  "medium": "woodcut on paper",
+  "accession_number": "81.20.14",
+  "id": "cmoa:things/fc56d9dd-02af-4f59-bb27-24d86a356c7c",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021728",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102680&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ec43df0-d8bc-4b2e-aa1b-ab1d2ebfbb07",
+      "party_type": "Person",
+      "full_name": "Ludolphus de Larouia",
+      "cited_name": "Larouia, Ludolphus de",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

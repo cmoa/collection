@@ -1,0 +1,42 @@
+{
+  "title": "La Repos",
+  "creation_date": "1846",
+  "creation_date_earliest": "1846-01-01",
+  "creation_date_latest": "1846-01-01",
+  "medium": "etching",
+  "accession_number": "81.20.11",
+  "id": "cmoa:things/12339f74-5d24-4674-b9a7-490a37c98a97",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021725",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104793&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104794&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df41cb07-590c-4341-8dc5-1d2aff9e851c",
+      "party_type": "Person",
+      "full_name": "Charles Émile Jacque",
+      "cited_name": "Jacque, Charles Émile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1813-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

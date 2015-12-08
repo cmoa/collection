@@ -1,0 +1,39 @@
+{
+  "title": "Grotta Blu a Capri",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "78.32.7",
+  "id": "cmoa:things/444e386b-6246-4b94-9d6b-6bba95635a29",
+  "credit_line": "Gift of William Walker II",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019945",
+  "provenance_text": "William Walker II",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107777&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": null,
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "watercolor and ink on Masonite",
+  "accession_number": "79.24.4.A-.B",
+  "id": "cmoa:things/4f5a5e51-d185-4a9e-80f0-7f398b872fd4",
+  "credit_line": "Bequest of Felicia Meyer Marsh",
+  "date_acquired": "1979-10-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020272",
+  "provenance_text": "Felicia Meyer Marsh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100009&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100010&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba6f52a-093a-4c97-b05b-5cf31bdabfbe",
+      "party_type": "Person",
+      "full_name": "Reginald Marsh",
+      "cited_name": "Marsh, Reginald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dorset (Bennington county, Vermont, United States)"
+    }
+  ]
+}

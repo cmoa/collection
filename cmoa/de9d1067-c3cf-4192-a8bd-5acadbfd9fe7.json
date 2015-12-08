@@ -1,0 +1,39 @@
+{
+  "title": "Bethlehem",
+  "creation_date": "c. 1943",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "52.16",
+  "id": "cmoa:things/de9d1067-c3cf-4192-a8bd-5acadbfd9fe7",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1952-12-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.0,
+  "item_height": 59.125,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009073",
+  "provenance_text": "1952 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17599&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/15531775-a45c-4fc2-9392-f31197c0e2df",
+      "party_type": "Person",
+      "full_name": "Mordecai Ardo",
+      "cited_name": "Ardon, Mordecai",
+      "role": null,
+      "nationality": "Israeli",
+      "birth_date": "1896-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Tuchów (Malopolskie voivodship, Poland)",
+      "death_place": "Jerusalem (Yerushalayim district, Israel)"
+    }
+  ]
+}

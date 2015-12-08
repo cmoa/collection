@@ -1,0 +1,51 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1914-1931",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "bone china with lustre glaze",
+  "accession_number": "77.83.25",
+  "id": "cmoa:things/a6737652-0c14-4e5e-991d-c313df37cdb8",
+  "credit_line": "Gift of Stanley and Charlotte Bernstein",
+  "date_acquired": "1978-02-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 9.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019062",
+  "provenance_text": "Stanley and Charlotte Bernstein",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3448&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/831265d2-97b9-4fe1-9cb6-f911e61afdfb",
+      "party_type": "Person",
+      "full_name": "Daisy Makeig-Jones",
+      "cited_name": "Makeig-Jones, Daisy",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1881-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Wath-upon-Dearne, Yorkshire",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fa73cf21-ad85-4e79-9fc3-bfa787b75771",
+      "party_type": "Organization",
+      "full_name": "Josiah Wedgwood & Sons Ltd.",
+      "cited_name": "Wedgwood, Josiah & Sons Ltd.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

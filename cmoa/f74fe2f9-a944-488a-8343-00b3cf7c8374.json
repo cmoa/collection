@@ -1,0 +1,39 @@
+{
+  "title": "Elm",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "84.10",
+  "id": "cmoa:things/f74fe2f9-a944-488a-8343-00b3cf7c8374",
+  "credit_line": "Mr. and Mrs. George R. Gibbons, Jr. Fund",
+  "date_acquired": "1984-04-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024493",
+  "provenance_text": "The artist until 1872; Vincent Colyer until 1888; Louise Colyer Weed until 1910; Edward F. Weed until c. 1955; private collection until 1973; Babcock Galleries, New York, until 1984",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108433&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/abe05c9c-1ae7-4e6c-bbf8-16414603f916",
+      "party_type": "Person",
+      "full_name": "John Frederick Kensett",
+      "cited_name": "Kensett, John F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": "Cheshire (New Haven county, Connecticut, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

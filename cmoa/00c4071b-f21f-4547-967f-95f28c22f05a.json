@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Temple)",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "90.18.7",
+  "id": "cmoa:things/00c4071b-f21f-4547-967f-95f28c22f05a",
+  "credit_line": "Gift of Mrs. Edith C. Thompson",
+  "date_acquired": "1990-09-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.125,
+  "item_height": 14.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029350",
+  "provenance_text": "Gift of Mrs. Edith C. Thompson, Springfield, Ohio, 9/27/1990.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103127&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83552&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9dfaa66-e57d-4728-bce2-0fa87b4016a6",
+      "party_type": "Person",
+      "full_name": "Elizabeth Keith",
+      "cited_name": "Keith, Elizabeth",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1887-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Aberdeenshire, Scotland",
+      "death_place": "England"
+    }
+  ]
+}

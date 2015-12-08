@@ -1,0 +1,39 @@
+{
+  "title": "Tile",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "tinglazed earthenware",
+  "accession_number": "49.4.5",
+  "id": "cmoa:things/016e5cdd-370f-43b5-b9fa-f2a028f99653",
+  "credit_line": "Gift of John Barry",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.062,
+  "item_height": 5.062,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008740",
+  "provenance_text": "John Barry",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1858&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9201fc20-97f4-4488-a97c-0f768c5d4b60",
+      "party_type": "Person",
+      "full_name": "unknown Dutch, Delft",
+      "cited_name": "unknown Dutch, Delft",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

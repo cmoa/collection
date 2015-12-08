@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Cleric",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "red chalk on vellum",
+  "accession_number": "92.98.1",
+  "id": "cmoa:things/ab794830-50b3-46d7-8784-f986424b9006",
+  "credit_line": "Gift of Ann Sutherland Harris",
+  "date_acquired": "1992-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032737",
+  "provenance_text": "Ann Sutherland Harris, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99543&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

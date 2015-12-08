@@ -1,0 +1,39 @@
+{
+  "title": "Farm Scene",
+  "creation_date": "c. 1900-1910",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.14.10",
+  "id": "cmoa:things/cb6c1876-b350-439f-aa4c-79240356ecc3",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.5,
+  "item_height": 23.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016315",
+  "provenance_text": "Robert S. Waters, Johnstown, Pa.; bequest to museum, May 1972",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107694&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/367ce2fe-0fa5-435f-815d-7f3605f21bdc",
+      "party_type": "Person",
+      "full_name": "A. B. Wall",
+      "cited_name": "Wall, A. B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1861-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

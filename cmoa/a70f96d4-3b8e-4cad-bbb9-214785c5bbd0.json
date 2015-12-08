@@ -1,0 +1,39 @@
+{
+  "title": "Angry Mink",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "1997.2",
+  "id": "cmoa:things/a70f96d4-3b8e-4cad-bbb9-214785c5bbd0",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 86th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1997-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.0,
+  "item_height": 23.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003233",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114754&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b10a6ad2-3c97-476d-be7c-6e4f68e46b3e",
+      "party_type": "Person",
+      "full_name": "Karen Kaighin",
+      "cited_name": "Kaighin, Karen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

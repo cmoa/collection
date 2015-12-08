@@ -1,0 +1,39 @@
+{
+  "title": "Fallingwater",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.11",
+  "id": "cmoa:things/063ac3bd-e0d1-4508-a9a5-4f0a9616cb29",
+  "credit_line": "Frank R. S. Kaplan Fund",
+  "date_acquired": "1983-04-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 47.5,
+  "item_height": 39.875,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023590",
+  "provenance_text": "Frumkin and Struve Gallery, Chicago, IL",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/58220564-e033-43e2-b3c4-5b4d880fefb5",
+      "party_type": "Person",
+      "full_name": "William Blessing",
+      "cited_name": "Blessing, William C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1901",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "mahogany with modern upholstery",
+  "accession_number": "84.80.1",
+  "id": "cmoa:things/e43dd8a2-71c9-4db4-a5f4-1d0a6e355676",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1984-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.875,
+  "item_height": 37.625,
+  "item_depth": 21.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025186",
+  "provenance_text": "Barry Friedman Ltd., New York City, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96788&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96787&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96791&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96792&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96793&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54448&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/718dbf2c-c604-4aa6-a880-174b20364320",
+      "party_type": "Person",
+      "full_name": "Victor Horta",
+      "cited_name": "Horta, Victor",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1861-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": "Ghent (East Flanders, Flanders, Belgium)",
+      "death_place": " Brussels (Bruxelles region, Belgium)"
+    }
+  ]
+}

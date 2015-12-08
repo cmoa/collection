@@ -1,0 +1,42 @@
+{
+  "title": "Borracho",
+  "creation_date": null,
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "45.24",
+  "id": "cmoa:things/81bac6cc-026e-4227-bde9-1eb64c2ef937",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 17.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007577",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100466&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a088a180-58c7-4763-82ff-4163adde62c6",
+      "party_type": "Person",
+      "full_name": "Ira Moskowitz",
+      "cited_name": "Moskowitz, Ira",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": "Poland (Europe)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

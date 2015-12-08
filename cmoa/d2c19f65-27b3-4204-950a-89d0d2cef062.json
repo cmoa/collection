@@ -1,0 +1,51 @@
+{
+  "title": "Hugh",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "intaglio, aquatint, and white ground",
+  "accession_number": "87.25.1",
+  "id": "cmoa:things/d2c19f65-27b3-4204-950a-89d0d2cef062",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1987-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.625,
+  "item_height": 46.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026318",
+  "provenance_text": "Daniel Leary, Syracuse, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97a043c2-0ee3-463c-8c13-8a5d8598e166",
+      "party_type": "Person",
+      "full_name": "Daniel Leary",
+      "cited_name": "Leary, Daniel",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "Glen Falls, New York",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eacf3020-b97c-4fdd-989b-a7e4c10c1d52",
+      "party_type": "Person",
+      "full_name": "Kathleen Caraccio",
+      "cited_name": "Caraccio, Kathleen",
+      "role": "Printmaker",
+      "nationality": "American",
+      "birth_date": "1977-01-01",
+      "death_date": null,
+      "birth_place": "New York, NY",
+      "death_place": null
+    }
+  ]
+}

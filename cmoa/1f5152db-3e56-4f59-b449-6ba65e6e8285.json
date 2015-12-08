@@ -1,0 +1,39 @@
+{
+  "title": "Full White",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.4",
+  "id": "cmoa:things/1f5152db-3e56-4f59-b449-6ba65e6e8285",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1962-02-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 75.0,
+  "item_height": 69.25,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011585",
+  "provenance_text": "Betty Parsons Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19247&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9ee55dd-ad23-40e8-8789-e7cb067ddb25",
+      "party_type": "Person",
+      "full_name": "Leon Polk Smith",
+      "cited_name": "Smith, Leon P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Chickasha (Grady county, Oklahoma, United States)",
+      "death_place": null
+    }
+  ]
+}

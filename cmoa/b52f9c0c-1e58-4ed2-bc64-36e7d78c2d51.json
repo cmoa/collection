@@ -1,0 +1,39 @@
+{
+  "title": "The Little Mast",
+  "creation_date": "1879-1880",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "etching printed in black ink on laid paper",
+  "accession_number": "74.7.239",
+  "id": "cmoa:things/b52f9c0c-1e58-4ed2-bc64-36e7d78c2d51",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017433",
+  "provenance_text": "Charles J. Rosenbloom (L., Supplément, 633b); bequest to museum",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56363&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

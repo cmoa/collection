@@ -1,0 +1,39 @@
+{
+  "title": "Suspended Artifact",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "glass, blown, with scavo; and steel stand",
+  "accession_number": "1996.2",
+  "id": "cmoa:things/22b15176-5fb5-4e22-a010-802bc0a6edca",
+  "credit_line": "Purchase: anonymous gift and gift of Mr. and Mrs. Leon A. Arkus, by exchange",
+  "date_acquired": "1996-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 27.0,
+  "item_height": 29.0,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002113",
+  "provenance_text": "Maurine Littleton Gallery, Washington, DC",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=179&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c5a71b4-1de1-4f0a-bf31-0e8b38ef911b",
+      "party_type": "Person",
+      "full_name": "William Morris",
+      "cited_name": "Morris, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Maggie Edwards",
+  "creation_date": "early 1860s",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "hand-colored albumen print",
+  "accession_number": "1997.42.1",
+  "id": "cmoa:things/a727ffde-d5a1-41e8-8de6-f7df6daf4f97",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 7.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003318",
+  "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82710&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9f1ab7bd-4861-469a-b3e6-9b80e8db02ef",
+      "party_type": "Person",
+      "full_name": "Robert M. Cargo",
+      "cited_name": "Cargo, Robert M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1828-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/392fdd4f-b9a7-44a6-b1b7-f3f6248a4151",
+      "party_type": "Person",
+      "full_name": "J. N. Glogger",
+      "cited_name": "Glogger, J. N.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cylinder-top desk",
+  "creation_date": "c. 1785",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "mahogany and oak with mahogany veneer and gilded bronze",
+  "accession_number": "57.40.2",
+  "id": "cmoa:things/7ac179f6-137a-47cf-8e8b-7312bbd2de5d",
+  "credit_line": "Gift of Rene Fribourg",
+  "date_acquired": "1957-12-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 45.75,
+  "item_height": 53.75,
+  "item_depth": 33.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010565",
+  "provenance_text": "Rene Fribourg, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116983&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ca603b8-47e0-432a-87b6-1bd7aa82c888",
+      "party_type": "Person",
+      "full_name": "David Roentgen",
+      "cited_name": "Roentgen, David",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1743-01-01",
+      "death_date": "1807-01-01",
+      "birth_place": "Wiesbaden (Darmstadt district, Hessen state, Germany)",
+      "death_place": "Wiesbaden (Darmstadt district, Hessen state, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Memorial Portrait of Kunisada",
+  "creation_date": "1865",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.858",
+  "id": "cmoa:things/3d246f3f-96af-47ff-beeb-e10eb48ffe99",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029049",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, San Francisco, 8/10/1971.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105908&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e29dfcd0-f81c-4024-bab6-1df71d333e60",
+      "party_type": "Person",
+      "full_name": "Kunimaro I Utagawa",
+      "cited_name": "Kunimaro I Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1850-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

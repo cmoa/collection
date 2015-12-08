@@ -1,0 +1,51 @@
+{
+  "title": "Off the Coast of Shinagawa (Shinagawa okitsu)",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1417",
+  "id": "cmoa:things/8fbe725e-5f64-4357-88d3-47a6758424e1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 15.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027306",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32926&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8bb4fefc-9023-4c5c-bcf7-fa0846fade37",
+      "party_type": "Person",
+      "full_name": "Tsuchiya Koitsu",
+      "cited_name": "Tsuchiya Koitsu",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1870-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/dba72a52-8b12-41f8-9e1a-f55c974fefe4",
+      "party_type": "Person",
+      "full_name": "Doi hangaten",
+      "cited_name": "Doi hangaten",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

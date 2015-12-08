@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.3.1.10",
+  "id": "cmoa:things/36e60db5-9837-445f-931e-ebaf7006d3ed",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022317",
+  "provenance_text": "Martin Diamond Fine Arts, Inc., NY, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4fdc5a33-0a83-4632-a964-8265525f12e4",
+      "party_type": "Person",
+      "full_name": "Gertrude Glass Greene",
+      "cited_name": "Greene, Gertrude Glass",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Brooklyn (New York City, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

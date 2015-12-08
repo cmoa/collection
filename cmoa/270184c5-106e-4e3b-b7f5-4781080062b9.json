@@ -1,0 +1,39 @@
+{
+  "title": "Swampscott Beach",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "watercolor, pastel, graphite and gouache",
+  "accession_number": "49.5.10",
+  "id": "cmoa:things/270184c5-106e-4e3b-b7f5-4781080062b9",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008746",
+  "provenance_text": "The artist, Maurice Prendergast [1858-1924], New York, NY; Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); his gift to Department of Fine Arts, Carnegie Institute, June 1949.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100245&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa954e98-2caa-41b1-8d7e-36df203f6e37",
+      "party_type": "Person",
+      "full_name": "Maurice Brazil Prendergast",
+      "cited_name": "Prendergast, Maurice B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": "Saint John's (Newfoundland, Canada)",
+      "death_place": "New York, New York"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Karl Struss",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "platinum print",
+  "accession_number": "2007.51.106",
+  "id": "cmoa:things/ad2ecf16-3eba-4d0e-939f-b6211ee85993",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 17.375,
+  "item_height": 19.625,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49137",
+  "provenance_text": "Howard Greenberg Gallery \nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112865&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed0cef9e-21db-420b-a456-7a9a8c9c1657",
+      "party_type": "Person",
+      "full_name": "Clarence H. White",
+      "cited_name": "White, Clarence H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "West Carlisle, Ohio",
+      "death_place": null
+    }
+  ]
+}

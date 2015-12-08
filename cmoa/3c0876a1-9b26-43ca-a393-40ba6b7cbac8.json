@@ -1,0 +1,39 @@
+{
+  "title": "Señorita",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.6",
+  "id": "cmoa:things/3c0876a1-9b26-43ca-a393-40ba6b7cbac8",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 26.75,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=374",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11350&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a69f04b-432d-4894-8806-b8ad9eb33778",
+      "party_type": "Person",
+      "full_name": "Jose Chardiet",
+      "cited_name": "Chardiet, Jose",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": "Cuba",
+      "death_place": null
+    }
+  ]
+}

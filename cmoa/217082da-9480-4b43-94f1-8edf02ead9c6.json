@@ -1,0 +1,51 @@
+{
+  "title": "The Legend of the Taema Mandala",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.833",
+  "id": "cmoa:things/217082da-9480-4b43-94f1-8edf02ead9c6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029001",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from R. E. Lewis, Inc., San Rafael, CA., 11/5/1979.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35379&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad455cc4-2eb6-4068-b013-f4571f370348",
+      "party_type": "Person",
+      "full_name": "Tsukioka Kōgyo",
+      "cited_name": "Tsukioka Kōgyo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1869-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e69b59b3-fadf-4ad5-9c15-931b97e146d5",
+      "party_type": "Person",
+      "full_name": "Matsuki Heikichi",
+      "cited_name": "Matsuki Heikichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1890-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

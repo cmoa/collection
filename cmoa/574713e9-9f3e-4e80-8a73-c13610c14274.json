@@ -1,0 +1,39 @@
+{
+  "title": "At the Chestnut Root",
+  "creation_date": "c. 1917",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "30.6",
+  "id": "cmoa:things/574713e9-9f3e-4e80-8a73-c13610c14274",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1930-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 46.25,
+  "item_height": 32.25,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006622",
+  "provenance_text": "Ferargil Galleries [1915-1955], New York, by 1927; Reinhardt Galleries, New York, by 1930; purchased by Museum, 1930.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126314&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

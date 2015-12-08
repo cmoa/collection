@@ -1,0 +1,39 @@
+{
+  "title": "Chartreuse and Black Pair",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.18.1.A-B",
+  "id": "cmoa:things/22f92c3a-263e-454a-9197-dea8c7010a36",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 21.0,
+  "item_height": 12.0,
+  "item_depth": 15.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=389",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11366&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0f55770-6ff0-40d7-afd0-6d036fbb0261",
+      "party_type": "Person",
+      "full_name": "Dante Marioni",
+      "cited_name": "Marioni, Dante",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

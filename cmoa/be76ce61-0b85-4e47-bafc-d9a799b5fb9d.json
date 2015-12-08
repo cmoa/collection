@@ -1,0 +1,39 @@
+{
+  "title": "Tree",
+  "creation_date": "c. 1916-1920",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "93.189.19",
+  "id": "cmoa:things/be76ce61-0b85-4e47-bafc-d9a799b5fb9d",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033254",
+  "provenance_text": "The artist's mother, Mrs. Augusta W. Demuth, Lancaster, Pa., by descent; by gift to Robert Locher, Lancaster, Pa., 1940; by gift to Mr. and Mrs. James H. Beal, Pittsburgh, 1950; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6504&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06aff35c-4cfd-48f3-a21c-c1b9e06a7aaa",
+      "party_type": "Person",
+      "full_name": "Charles Demuth",
+      "cited_name": "Demuth, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Lancaster, Pennsylvania",
+      "death_place": "Lancaster, Pennsylvania"
+    }
+  ]
+}

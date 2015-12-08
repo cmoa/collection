@@ -1,0 +1,39 @@
+{
+  "title": "Irish Sea, Isle of Man I (#337)",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "91.28.2",
+  "id": "cmoa:things/d42f73a6-66c6-4b12-b02a-26f561b88b28",
+  "credit_line": "Purchase, with funds from Milton Fine",
+  "date_acquired": "1991-12-05",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 20.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029681",
+  "provenance_text": "The Artist, NY, New York, through the 51st Carnegie International; Carnegie Museum of Art, Pittsburgh; Purchase: gift of Milton Fine",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27614&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f256b7e4-b95b-4950-a43f-878c9f90c933",
+      "party_type": "Person",
+      "full_name": "Hiroshi Sugimoto",
+      "cited_name": "Sugimoto, Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

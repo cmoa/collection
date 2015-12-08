@@ -1,0 +1,39 @@
+{
+  "title": "Nagasaki",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.781",
+  "id": "cmoa:things/bf373796-d9e2-4eac-b966-67e96153468d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.875,
+  "item_height": 15.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028938",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32932&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/39c6e724-6b14-4feb-b426-bb90231dc144",
+      "party_type": "Person",
+      "full_name": "Tagawa Ken",
+      "cited_name": "Tagawa Ken",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1906-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

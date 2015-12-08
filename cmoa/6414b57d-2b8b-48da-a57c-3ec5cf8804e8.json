@@ -1,0 +1,39 @@
+{
+  "title": "Torso",
+  "creation_date": null,
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "wood",
+  "accession_number": "59.39",
+  "id": "cmoa:things/6414b57d-2b8b-48da-a57c-3ec5cf8804e8",
+  "credit_line": "Gift of Mrs. Roy A. Hunt",
+  "date_acquired": "1959-10-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 22.25,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010998",
+  "provenance_text": "Gift of Mrs. Rachael Hunt, 1959.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127432&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66c418f3-7849-4890-80af-f26fdc48c396",
+      "party_type": "Person",
+      "full_name": "Stephen Dunthorne",
+      "cited_name": "Dunthorne, Stephen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

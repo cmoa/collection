@@ -1,0 +1,39 @@
+{
+  "title": "Apartment House, Paris, France; [exterior perspective]",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "pastel and ink",
+  "accession_number": "94.232",
+  "id": "cmoa:things/1ca73b4b-800f-4a7e-b157-2f053f74d188",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1994-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 20.5,
+  "item_height": 16.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035035",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13164&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce8000bc-0150-46dc-a1a2-b37e5d20ec83",
+      "party_type": "Person",
+      "full_name": "Louis Jules François Perin",
+      "cited_name": "Perin, Louis Jules François",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1871-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    }
+  ]
+}

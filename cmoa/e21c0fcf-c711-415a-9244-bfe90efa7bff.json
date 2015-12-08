@@ -1,0 +1,39 @@
+{
+  "title": "Copyshop",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "1999.44",
+  "id": "cmoa:things/e21c0fcf-c711-415a-9244-bfe90efa7bff",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1999-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 108.0,
+  "item_height": 72.0,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003906",
+  "provenance_text": "303 Gallery, New York through the 1999 Carnegie International; Carnegie Museum of Art, Pittsburgh; A. W. Mellon Acquisition Endowment Fund",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4bc3b3e6-5449-44b6-9603-59c10223bf62",
+      "party_type": "Person",
+      "full_name": "Thomas Demand",
+      "cited_name": "Demand, Thomas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Munich (Oberbayern, Bavaria, Germany)",
+      "death_place": null
+    }
+  ]
+}

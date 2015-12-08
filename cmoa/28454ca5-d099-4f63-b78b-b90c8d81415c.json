@@ -1,0 +1,39 @@
+{
+  "title": "Table",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "cast aluminum and paint",
+  "accession_number": "1999.25.2",
+  "id": "cmoa:things/28454ca5-d099-4f63-b78b-b90c8d81415c",
+  "credit_line": "Gift of Mellon Bank",
+  "date_acquired": "1999-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 24.188,
+  "item_height": 24.0,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003870",
+  "provenance_text": "Mellon Bank, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/273dc3d6-751e-42e8-8b92-83a8bfbe820f",
+      "party_type": "Organization",
+      "full_name": "Aluminum Company of America",
+      "cited_name": "Aluminum Company of America",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

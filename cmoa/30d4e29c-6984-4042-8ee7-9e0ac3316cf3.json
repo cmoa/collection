@@ -1,0 +1,57 @@
+{
+  "title": "Die Zeit chair",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "beechwood, aluminum, and original thread-wrapped cane with modern corduroy upholstery",
+  "accession_number": "1996.40",
+  "id": "cmoa:things/30d4e29c-6984-4042-8ee7-9e0ac3316cf3",
+  "credit_line": "Purchase: gift of the Trustees, Fellows, and Women's Committee in honor of Phillip M. Johnston, the Henry J. Heinz II Director of Carnegie Museum of Art",
+  "date_acquired": "1996-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 22.438,
+  "item_height": 30.312,
+  "item_depth": 2.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002137",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96455&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96454&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d6913a79-7fb2-49f2-b9aa-3a463b90a44d",
+      "party_type": "Person",
+      "full_name": "Otto Wagner",
+      "cited_name": "Wagner, Otto",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1841-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Penzig, nr. Vienna, Austria",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/c53d57c7-4919-4da3-b960-e7068aa02104",
+      "party_type": "Organization",
+      "full_name": "Jacob and Josef Kohn",
+      "cited_name": "Kohn, Jacob and Josef",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1867-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

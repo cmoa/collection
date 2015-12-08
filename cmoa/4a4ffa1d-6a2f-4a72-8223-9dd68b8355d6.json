@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Bishop William White (1748-1836)",
+  "creation_date": "c. 1830",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "enamel on copper; gold frame",
+  "accession_number": "27.10.69",
+  "id": "cmoa:things/4a4ffa1d-6a2f-4a72-8223-9dd68b8355d6",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.75,
+  "item_height": 1.125,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005940",
+  "provenance_text": "Frederick T. Widmer, Boston, MA; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, December 28, 1914; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73477&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73478&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/911a4dbd-0322-4cd1-b296-9473cdd61861",
+      "party_type": "Person",
+      "full_name": "William Russell Birch",
+      "cited_name": "Birch, William R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1755-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": "Warwickshire (England, United Kingdom)",
+      "death_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

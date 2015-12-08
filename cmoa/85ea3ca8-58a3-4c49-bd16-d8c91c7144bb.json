@@ -1,0 +1,51 @@
+{
+  "title": "Iwato Kagura Play",
+  "creation_date": "c. 1946",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.948",
+  "id": "cmoa:things/85ea3ca8-58a3-4c49-bd16-d8c91c7144bb",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 7.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029202",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Osamu Ueda, Homewood, Ill., 6/18/1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35425&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93e8b24e-f33a-4561-80a8-13842eff667f",
+      "party_type": "Person",
+      "full_name": "Kuroki Sadao",
+      "cited_name": "Kuroki Sadao",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1908-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7a0dec69-e36d-409e-b585-cda2f574f8fc",
+      "party_type": "Person",
+      "full_name": "Fugaku Shuppansha",
+      "cited_name": "Fugaku Shuppansha",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

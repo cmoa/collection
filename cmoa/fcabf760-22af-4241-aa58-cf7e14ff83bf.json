@@ -1,0 +1,39 @@
+{
+  "title": "(Neighborhood: Mt. Washington, Italian American Club)",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.8",
+  "id": "cmoa:things/fcabf760-22af-4241-aa58-cf7e14ff83bf",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 9.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025995",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8648&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce4cf6b2-35ac-40a4-b102-29c205739746",
+      "party_type": "Person",
+      "full_name": "James Blair",
+      "cited_name": "Blair, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia, PA",
+      "death_place": null
+    }
+  ]
+}

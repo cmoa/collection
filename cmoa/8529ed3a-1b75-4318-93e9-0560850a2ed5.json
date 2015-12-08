@@ -1,0 +1,51 @@
+{
+  "title": "Desk lamp model #114",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "Bakelite, aluminum, plastic film",
+  "accession_number": "2004.23",
+  "id": "cmoa:things/8529ed3a-1b75-4318-93e9-0560850a2ed5",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2004-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 11.0,
+  "item_height": 0.0,
+  "item_depth": 10.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8316",
+  "provenance_text": null,
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27165&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce877e1d-e724-42f2-bf70-dd4340488950",
+      "party_type": "Person",
+      "full_name": "Walter Dorwin Teague",
+      "cited_name": "Teague, Walter D.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Decatur, IN",
+      "death_place": "Flemington, NJ"
+    },
+    {
+      "artist_id": "cmoa:parties/6b1b8954-7263-4b2b-b2a2-9d7167182ae4",
+      "party_type": "Organization",
+      "full_name": "Polaroid Corporation",
+      "cited_name": "Polaroid Corporation",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Cambridge (Middlesex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

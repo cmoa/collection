@@ -1,0 +1,51 @@
+{
+  "title": "Woman asleep by candlelight",
+  "creation_date": "c. 1692",
+  "creation_date_earliest": "1677-01-01",
+  "creation_date_latest": "1707-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.41",
+  "id": "cmoa:things/3a2d24fb-2d19-4217-b6d3-59b994ef8ed6",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34392",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101809&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90fd7879-b9f9-44f2-85f4-345809e2baec",
+      "party_type": "Person",
+      "full_name": "John Smith",
+      "cited_name": "Smith, John",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1652-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bf674b65-b5c2-4724-8ab5-31e3210b5c44",
+      "party_type": "Person",
+      "full_name": "Godfried Schalcken",
+      "cited_name": "Schalcken, Godfried",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1643-01-01",
+      "death_date": "1706-01-01",
+      "birth_place": "Made (North Brabant, Netherlands)",
+      "death_place": "Hague, The (South Holland, Netherlands)"
+    }
+  ]
+}

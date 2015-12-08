@@ -1,0 +1,39 @@
+{
+  "title": "Cup",
+  "creation_date": "c. 1820",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "porcelain",
+  "accession_number": "24.2.30",
+  "id": "cmoa:things/e707a680-dbe0-4c88-b1aa-04686cb009ed",
+  "credit_line": "Gift of Reverend Alfred Duane Pell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.25,
+  "item_height": 2.625,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005064",
+  "provenance_text": "Collection of Reverend Alfred Duane Pell, New York, NY, by 1923; gift to Carnegie Institute, Pittsburgh, PA, 1923?; transferred to Carnegie Museum of Art, Pittsburgh, PA.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5251a31f-7707-4f56-b4f9-81f4c52d1d0f",
+      "party_type": "Organization",
+      "full_name": "Marc Schoelcher Factory",
+      "cited_name": "Schoelcher, Marc Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1798-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

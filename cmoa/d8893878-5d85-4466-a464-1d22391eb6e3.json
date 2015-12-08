@@ -1,0 +1,54 @@
+{
+  "title": "Plymouth",
+  "creation_date": "1828, published 1856",
+  "creation_date_earliest": "1856-05-07",
+  "creation_date_latest": "1856-05-07",
+  "medium": "color mezzotint",
+  "accession_number": "2014.75.5",
+  "id": "cmoa:things/d8893878-5d85-4466-a464-1d22391eb6e3",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2014-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.25,
+  "item_height": 15.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106183",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, December 2014.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134067&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134066&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ca7c730-6236-47f8-bde2-354a1797d155",
+      "party_type": "Person",
+      "full_name": "Joseph Mallord William Turner",
+      "cited_name": "Turner, Joseph M.",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1775-01-01",
+      "death_date": "1851-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/1eba1d56-7578-415c-ac6f-bb81b2f3ee99",
+      "party_type": "Person",
+      "full_name": "Thomas Lupton",
+      "cited_name": "Lupton, Thomas",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1791-01-01",
+      "death_date": "1873-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

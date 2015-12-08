@@ -1,0 +1,42 @@
+{
+  "title": "Noon Hour",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "etching",
+  "accession_number": "81.72.2",
+  "id": "cmoa:things/f9a6a1e7-bea6-4c22-b559-8d8d6b87f02f",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022038",
+  "provenance_text": "Associated American Artists, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100286&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100285&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/299b4653-598f-431d-af23-506f0fda522f",
+      "party_type": "Person",
+      "full_name": "Isabel Bishop",
+      "cited_name": "Bishop, Isabel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": "Riverdale (Oneida county, New York state, United States)"
+    }
+  ]
+}

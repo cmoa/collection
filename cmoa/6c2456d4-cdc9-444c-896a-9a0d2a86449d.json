@@ -1,0 +1,39 @@
+{
+  "title": "Sprinkler",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2009.8.3",
+  "id": "cmoa:things/6c2456d4-cdc9-444c-896a-9a0d2a86449d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-02-05",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 82.0,
+  "item_height": 15.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=79176",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82733&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d5aef02-150e-4326-95d2-c60abe1ee5ba",
+      "party_type": "Person",
+      "full_name": "Dylan Vitone",
+      "cited_name": "Vitone, Dylan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1978-01-01",
+      "death_date": null,
+      "birth_place": "Portland, Maine",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Carolyn Anspacher",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "75.25.1",
+  "id": "cmoa:things/daf92d3a-ee60-42a2-b831-9bc7745af0e1",
+  "credit_line": "Gift of Mr. and Mrs. Joel Greenwald",
+  "date_acquired": "1975-10-09",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017688",
+  "provenance_text": "Mr. And Mrs. Joel Greenwald",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111953&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c579bb4a-3279-478b-9d4e-4b22be45007e",
+      "party_type": "Person",
+      "full_name": "Ansel Adams",
+      "cited_name": "Adams, Ansel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": " San Francisco (San Francisco county, California, United States)",
+      "death_place": " Carmel (Monterey county, California, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Multiple Self-Portrait",
+  "creation_date": "1935-1945",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on canvas mounted on board",
+  "accession_number": "85.24.3",
+  "id": "cmoa:things/5ae2021d-82c2-4510-bb9c-4ecd300d4207",
+  "credit_line": "Gift of Eugene Canade",
+  "date_acquired": "1985-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.25,
+  "item_height": 13.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025468",
+  "provenance_text": "The artist's son, Mr. Eugene Canadé, Paris, by 1961; gift to museum, June 1985",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149583&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f698131-6a61-48a8-a293-085d94ab5c19",
+      "party_type": "Person",
+      "full_name": "Vincent Canadé",
+      "cited_name": "Canadé, Vincent",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Italy",
+      "death_place": "New York City"
+    }
+  ]
+}

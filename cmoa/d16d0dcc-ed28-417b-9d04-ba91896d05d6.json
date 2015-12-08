@@ -1,0 +1,39 @@
+{
+  "title": "Sea Forms",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "color wood engraving",
+  "accession_number": "86.21.2",
+  "id": "cmoa:things/d16d0dcc-ed28-417b-9d04-ba91896d05d6",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1986-06-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.375,
+  "item_height": 24.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026023",
+  "provenance_text": "Pace Editions, Inc., New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65535&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d48ab0d-f909-4aaf-9a5a-65a88f034d31",
+      "party_type": "Person",
+      "full_name": "John Ferren",
+      "cited_name": "Ferren, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Pendleton (Umatilla county, Oregon, United States)",
+      "death_place": " Southampton (Suffolk county, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Church in Luxembourg",
+  "creation_date": null,
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.6.1",
+  "id": "cmoa:things/c3f28407-80c9-45fe-8621-170a4dafb431",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008380",
+  "provenance_text": "Associated American Artists, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103636&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103640&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fea9d12f-ee49-4d8f-a6b3-660ba0cb1e8d",
+      "party_type": "Person",
+      "full_name": "Aaron Bohrod",
+      "cited_name": "Bohrod, Aaron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Chicago (Cook county, Illinois, United States)",
+      "death_place": "Madison (Dane county, Wisconsin, United States)"
+    }
+  ]
+}

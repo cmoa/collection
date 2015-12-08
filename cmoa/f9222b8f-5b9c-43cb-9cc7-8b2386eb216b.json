@@ -1,0 +1,42 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "silver",
+  "accession_number": "79.81.9",
+  "id": "cmoa:things/f9222b8f-5b9c-43cb-9cc7-8b2386eb216b",
+  "credit_line": "Gift of Mr. and Mrs. Edward O'Neil II",
+  "date_acquired": "1980-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.5,
+  "item_depth": 0.0,
+  "item_diameter": 6.312,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020985",
+  "provenance_text": "Gift of Mr. and Mrs. Edward O'Neil II, Sewickley, PA, 1980.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6137&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5bf63a2-39bc-49d6-80cd-9a4993636aed",
+      "party_type": "Organization",
+      "full_name": "William B. Kerr and Company",
+      "cited_name": "Kerr, William B. and Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1855-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

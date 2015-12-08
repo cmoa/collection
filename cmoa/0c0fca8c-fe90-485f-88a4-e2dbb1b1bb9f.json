@@ -1,0 +1,42 @@
+{
+  "title": "Angels Wrestling",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching and engraving",
+  "accession_number": "51.11.2",
+  "id": "cmoa:things/0c0fca8c-fe90-485f-88a4-e2dbb1b1bb9f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008909",
+  "provenance_text": "Exhibition of Current American Prints, 1950",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103758&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75909&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/385353a5-d820-42a9-801c-7560737be91c",
+      "party_type": "Person",
+      "full_name": "Stanley William Hayter",
+      "cited_name": "Hayter, Stanley W.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1901-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

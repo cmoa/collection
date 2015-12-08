@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "82.90.6",
+  "id": "cmoa:things/39915073-875e-4272-9149-9f535eb82d3c",
+  "credit_line": "Gift of Dana Robineau Kelley, grandson of the artist, and family",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 5.25,
+  "item_depth": 0.0,
+  "item_diameter": 3.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023251",
+  "provenance_text": "Dana Robineau Kelley, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68094&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa395cb6-cd65-4a09-b365-287d826a3a12",
+      "party_type": "Person",
+      "full_name": "Adelaide A. Robineau",
+      "cited_name": "Robineau, Adelaide A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "Middletown, CT",
+      "death_place": "Syracuse, New York"
+    }
+  ]
+}

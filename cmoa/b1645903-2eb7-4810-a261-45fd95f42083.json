@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Judge Thomas Mellon",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "33.2.1",
+  "id": "cmoa:things/b1645903-2eb7-4810-a261-45fd95f42083",
+  "credit_line": "Gift of James R. Mellon",
+  "date_acquired": "1933-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 46.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006738",
+  "provenance_text": "James R. Mellon, Pittsburgh; gift to Museum, February 1933.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126306&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7ba4068-b3e4-49f6-956f-4ec7d460c687",
+      "party_type": "Person",
+      "full_name": "Théobald Chartran",
+      "cited_name": "Chartran, Théobald",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Besançon (Doubs, Franche-Comté, France)",
+      "death_place": " Neuilly-sur-Seine (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

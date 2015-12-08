@@ -1,0 +1,39 @@
+{
+  "title": "Ram's Head",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "alabaster",
+  "accession_number": "60.24",
+  "id": "cmoa:things/f25e74eb-49f2-4285-b6c5-963174ca437a",
+  "credit_line": "Patrons Art Fund: gift of Mrs. George H. Love",
+  "date_acquired": "1960-09-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 7.0,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011171",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127448&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13d20b75-4551-47c1-9917-b3104cb78cb8",
+      "party_type": "Person",
+      "full_name": "Tillie Speyer",
+      "cited_name": "Speyer, Tillie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

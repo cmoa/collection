@@ -1,0 +1,42 @@
+{
+  "title": "Mother and Child",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "12.9",
+  "id": "cmoa:things/0b2fd741-9a8a-474e-828e-0c7efd1f653f",
+  "credit_line": "Purchase",
+  "date_acquired": "1912-10-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.0,
+  "item_height": 58.5,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000876",
+  "provenance_text": "Gari Melchers [1860-1932], until 1912; purchased by Museum, 1912.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101489&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101490&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bca15883-9448-4e33-8f5c-2baade6da612",
+      "party_type": "Person",
+      "full_name": "Gari Melchers",
+      "cited_name": "Melchers, Gari",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": "Detroit (Wayne county, Michigan, United States)",
+      "death_place": "Falmouth (Stafford county, Virginia, United States)"
+    }
+  ]
+}

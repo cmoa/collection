@@ -1,0 +1,39 @@
+{
+  "title": "Tea service (True Round Barn)",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "salt-glazed stoneware",
+  "accession_number": "1996.16.A-F",
+  "id": "cmoa:things/714f6f2a-e019-4eb8-8b66-7890d09337c2",
+  "credit_line": "Purchase: gift of Mrs. Lindsay Catron and Mr. Gerald Firth, Jr.",
+  "date_acquired": "1996-05-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 9.0,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002095",
+  "provenance_text": "Daniel Anderson, Edwardsville, IL",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101404&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c039a5a3-9507-4e9a-a0c6-20766bbc35f6",
+      "party_type": "Person",
+      "full_name": "Daniel Anderson",
+      "cited_name": "Anderson, Daniel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "St. Paul, Minnesota",
+      "death_place": null
+    }
+  ]
+}

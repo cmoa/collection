@@ -1,0 +1,51 @@
+{
+  "title": "F P E (Fantastic Plastic Elastic) chair",
+  "creation_date": "1999",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "polypropylene and aluminum",
+  "accession_number": "2000.7",
+  "id": "cmoa:things/ebb835c4-34aa-4580-9044-99e5b1479a19",
+  "credit_line": "Purchase: gift of Mrs. John J. Bissell, by exchange",
+  "date_acquired": "2000-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 16.5,
+  "item_height": 31.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004140",
+  "provenance_text": "Kartell, New York; Gift of Mrs. John Bissell, by exchange",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=62111&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab2b0e3b-5d64-42e8-a892-a824c91d76bd",
+      "party_type": "Person",
+      "full_name": "Ron Arad",
+      "cited_name": "Arad, Ron",
+      "role": "designer",
+      "nationality": "Israeli",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Tel Aviv-Jaffa (Tel Aviv district, Israel)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/15101f9d-89fe-41ab-aafd-5adf17e49366",
+      "party_type": "Organization",
+      "full_name": "Kartell S.p.A.",
+      "cited_name": "Kartell S.p.A.",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

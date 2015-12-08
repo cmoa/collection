@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Pieter Zoomer",
+  "creation_date": "1717",
+  "creation_date_earliest": "1717-01-01",
+  "creation_date_latest": "1717-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.31",
+  "id": "cmoa:things/0da53917-9adc-46aa-8724-0874f7ba4c2c",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34373",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39432&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b6977611-c4ed-42fd-bc8c-037a3b0ccc15",
+      "party_type": "Person",
+      "full_name": "Nicholaas Verkolje",
+      "cited_name": "Verkolje, Nicholaas",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1673-01-01",
+      "death_date": "1746-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

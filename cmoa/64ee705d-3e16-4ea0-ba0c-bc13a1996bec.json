@@ -1,0 +1,39 @@
+{
+  "title": "Lou Schram and Daughter",
+  "creation_date": "c. 1895",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.89",
+  "id": "cmoa:things/64ee705d-3e16-4ea0-ba0c-bc13a1996bec",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 4.125,
+  "item_height": 6.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49107",
+  "provenance_text": "Phillips (5/5/87)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56073&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55843eef-94d3-45e1-befd-734c6805acdd",
+      "party_type": "Person",
+      "full_name": "Alfred Stieglitz",
+      "cited_name": "Stieglitz, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1864-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Hoboken (Hudson county, New Jersey, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

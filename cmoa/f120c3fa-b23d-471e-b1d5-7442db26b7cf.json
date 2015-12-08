@@ -1,0 +1,39 @@
+{
+  "title": "Saltcellar",
+  "creation_date": "1787-1788",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "sterling standard and silver gilt",
+  "accession_number": "70.32.2403",
+  "id": "cmoa:things/f120c3fa-b23d-471e-b1d5-7442db26b7cf",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.625,
+  "item_height": 2.938,
+  "item_depth": 2.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014611",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5014&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a57ddff7-b8ea-43bb-bd3a-3b63586cb986",
+      "party_type": "Person",
+      "full_name": "Henry Chawner",
+      "cited_name": "Chawner, Henry",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1786-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

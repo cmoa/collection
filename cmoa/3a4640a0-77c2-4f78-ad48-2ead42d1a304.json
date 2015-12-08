@@ -1,0 +1,39 @@
+{
+  "title": "Stephen C. Foster",
+  "creation_date": "c. 1865",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "05.6",
+  "id": "cmoa:things/3a4640a0-77c2-4f78-ad48-2ead42d1a304",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1905-05-25",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 30.0,
+  "item_height": 37.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000131",
+  "provenance_text": "Morrison Foster, brother of the sitter [1823-1904], Cleveland, 1865; His widow, 1904; Andrew Carnegie, New York, 1904; gift to Museum, 1904.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/45046269-deaf-4731-a9a7-d1b5ada29a63",
+      "party_type": "Person",
+      "full_name": "George Lafayette Clough",
+      "cited_name": "Clough, George L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1824-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": " Auburn (Cayuga county, New York state, United States)",
+      "death_place": " Auburn (Cayuga county, New York state, United States)"
+    }
+  ]
+}

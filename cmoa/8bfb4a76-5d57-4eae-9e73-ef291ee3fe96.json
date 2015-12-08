@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "watercolor and pencil",
+  "accession_number": "79.24.1",
+  "id": "cmoa:things/8bfb4a76-5d57-4eae-9e73-ef291ee3fe96",
+  "credit_line": "Bequest of Felicia Meyer Marsh",
+  "date_acquired": "1979-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.562,
+  "item_height": 22.438,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020268",
+  "provenance_text": "Felicia Meyer Marsh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149758&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba6f52a-093a-4c97-b05b-5cf31bdabfbe",
+      "party_type": "Person",
+      "full_name": "Reginald Marsh",
+      "cited_name": "Marsh, Reginald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dorset (Bennington county, Vermont, United States)"
+    }
+  ]
+}

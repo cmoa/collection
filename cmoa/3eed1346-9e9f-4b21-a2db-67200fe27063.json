@@ -1,0 +1,39 @@
+{
+  "title": "Hot water kettle",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "2004.60.6.A-C",
+  "id": "cmoa:things/3eed1346-9e9f-4b21-a2db-67200fe27063",
+  "credit_line": "Gift of Mrs. William V. Conn in memory of her parents, Charles A. and Anna R. Lynch",
+  "date_acquired": "2005-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 14.5,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13599",
+  "provenance_text": "Mrs. William V. Conn, Pittsburgh, PA.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11590&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

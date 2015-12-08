@@ -1,0 +1,39 @@
+{
+  "title": "Armchair",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "plywood and painted metal",
+  "accession_number": "83.16.1",
+  "id": "cmoa:things/118dbd74-34d3-46d2-80dd-3dd648129c12",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1983-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 21.375,
+  "item_height": 34.0,
+  "item_depth": 19.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023603",
+  "provenance_text": "William Greenspon, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8729&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d12cef5f-45a0-44e5-aa1c-fb82aedbbe20",
+      "party_type": "Person",
+      "full_name": "Mart Stam",
+      "cited_name": "Stam, Mart",
+      "role": "attributed to",
+      "nationality": "Dutch",
+      "birth_date": "1899-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Purmerend (North Holland, Netherlands)",
+      "death_place": "Goldach, Switzerland"
+    }
+  ]
+}

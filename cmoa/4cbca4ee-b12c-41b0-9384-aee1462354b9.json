@@ -1,0 +1,51 @@
+{
+  "title": "Vase, \"Ovalis\"",
+  "creation_date": "1958 (designed) c. 1978 (manufactured)",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "blown and molded glass (in original box)",
+  "accession_number": "79.31.2",
+  "id": "cmoa:things/4cbca4ee-b12c-41b0-9384-aee1462354b9",
+  "credit_line": "Gift of Iittala USA",
+  "date_acquired": "1979-10-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 6.375,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020303",
+  "provenance_text": "Iittala Usa, Elmsford, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=693&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f49526a2-70e9-45ae-b81c-767564072d39",
+      "party_type": "Person",
+      "full_name": "Tapio Wirkkala",
+      "cited_name": "Wirkkala, Tapio",
+      "role": null,
+      "nationality": "Finnish",
+      "birth_date": "1915-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6e8c481b-c9a1-474d-a8a9-080d3c98c09c",
+      "party_type": "Organization",
+      "full_name": "Iittala USA",
+      "cited_name": "Iittala USA",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

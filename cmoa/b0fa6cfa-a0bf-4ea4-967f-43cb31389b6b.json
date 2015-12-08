@@ -1,0 +1,39 @@
+{
+  "title": "The Old Fireplace",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "graphite, oil on canvas",
+  "accession_number": "42.5.5",
+  "id": "cmoa:things/b0fa6cfa-a0bf-4ea4-967f-43cb31389b6b",
+  "credit_line": "Gift of Annie-May Hegeman from the collection of her mother, Mrs. Henry Kirke Porter",
+  "date_acquired": "1942-10-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.375,
+  "item_height": 28.75,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007340",
+  "provenance_text": "Mr. and Mrs. Henry Kirke Porter, Pittsburgh (purchased from the Carnegie International, 1901); their daughter, Annie-May Hegeman, until 1942; gift to museum, 1942",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=15878&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7b9c7ac2-b076-4502-a343-7ab05fc4790f",
+      "party_type": "Person",
+      "full_name": "Walter Gay",
+      "cited_name": "Gay, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": " Hingham (Plymouth County, Massachusetts, United States)",
+      "death_place": " Dammarie-lès-Lys (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

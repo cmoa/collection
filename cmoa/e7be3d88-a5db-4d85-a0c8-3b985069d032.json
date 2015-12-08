@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "1800-1805",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2168",
+  "id": "cmoa:things/e7be3d88-a5db-4d85-a0c8-3b985069d032",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 1.938,
+  "item_depth": 8.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014362",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2973&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/340faf62-3e8a-4856-8fd3-3228d3f075f9",
+      "party_type": "Organization",
+      "full_name": "Pinxton Porcelain Factory",
+      "cited_name": "Pinxton Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1796-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

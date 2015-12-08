@@ -1,0 +1,42 @@
+{
+  "title": "Design for Poster \"Painting in the United States\"",
+  "creation_date": "c. 1943",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "gouache on board",
+  "accession_number": "93.106.8",
+  "id": "cmoa:things/b53f9b28-1858-4d9d-9cd8-fdd3cfb91e2d",
+  "credit_line": "Gift of Janet Marqusee Fine Arts",
+  "date_acquired": "1993-05-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032761",
+  "provenance_text": "Janet Marqusee, Fine Arts, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103069&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89451&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dec2965-16f0-4bc7-a36a-4eaef8f922e8",
+      "party_type": "Person",
+      "full_name": "Robert Lepper",
+      "cited_name": "Lepper, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aspinwall, PA",
+      "death_place": "Washington, DC"
+    }
+  ]
+}

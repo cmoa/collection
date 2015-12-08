@@ -1,0 +1,42 @@
+{
+  "title": "Borneo",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "blown glass",
+  "accession_number": "2003.42.21",
+  "id": "cmoa:things/50293062-61a5-442f-ba2b-fb1bca6ee714",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 24.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5254",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12087&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11043&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4efaaf7f-de10-494a-826f-f0ce9e309aae",
+      "party_type": "Person",
+      "full_name": "Lino Tagliapietra",
+      "cited_name": "Tagliapietra, Lino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Murano (Venezia, Venezia province, Veneto, Italy)",
+      "death_place": null
+    }
+  ]
+}

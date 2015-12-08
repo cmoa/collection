@@ -1,0 +1,39 @@
+{
+  "title": "Crystal cup",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "1996.39",
+  "id": "cmoa:things/4fffe909-18b0-47fd-94e1-1f7a93492581",
+  "credit_line": "Purchase: gift of Vira I. Heinz and anonymous gift, by exchange",
+  "date_acquired": "1996-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 4.5,
+  "item_height": 3.5,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002135",
+  "provenance_text": "Charles Cowles Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11864&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32925b7e-e156-4b93-ab44-9660bca7f9ea",
+      "party_type": "Person",
+      "full_name": "Ken Price",
+      "cited_name": "Price, Ken",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Los Angeles, California",
+      "death_place": null
+    }
+  ]
+}

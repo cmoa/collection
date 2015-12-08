@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "93.3",
+  "id": "cmoa:things/3048da56-b672-4b5e-86c0-9cad2c1ea0af",
+  "credit_line": "Purchase: gift of the Fran and Ray Stark Foundation",
+  "date_acquired": "1993-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 92.5,
+  "item_height": 69.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033616",
+  "provenance_text": "Robert Miller Gallery, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29075&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c8ca607-90a4-48ff-86ad-aa2c899a25dc",
+      "party_type": "Person",
+      "full_name": "William Brice",
+      "cited_name": "Brice, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "New York City, NY",
+      "death_place": "Los Angeles, CA"
+    }
+  ]
+}

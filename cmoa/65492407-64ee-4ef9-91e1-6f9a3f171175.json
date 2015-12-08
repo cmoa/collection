@@ -1,0 +1,39 @@
+{
+  "title": "Sugaring Off",
+  "creation_date": "1845",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "32.2.1",
+  "id": "cmoa:things/65492407-64ee-4ef9-91e1-6f9a3f171175",
+  "credit_line": "Bequest of Miss Rosalie Spang",
+  "date_acquired": "1932-06-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 42.0,
+  "item_height": 31.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006679",
+  "provenance_text": "American Art Union, New York, 1845; purchased by Charles Frederick Spang, Pittsburgh and Nice, France, 1845 [1]; Rosalie Spang, Pittsburgh, Pennsylvania and Nice, France, 1904; bequest to Museum, 1932. \nNOTES:1. acquired from the American Art Union distribution",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16806&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/557c8d41-24e5-4730-8dc6-fb75dd17b6a6",
+      "party_type": "Person",
+      "full_name": "Tompkins Harrison Matteson",
+      "cited_name": "Matteson, Tompkins H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1813-01-01",
+      "death_date": "1884-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

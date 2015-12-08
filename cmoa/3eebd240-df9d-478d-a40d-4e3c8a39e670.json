@@ -1,0 +1,42 @@
+{
+  "title": "Eleanor, Chicago",
+  "creation_date": "c. 1952",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "80.23.2",
+  "id": "cmoa:things/3eebd240-df9d-478d-a40d-4e3c8a39e670",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1980-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.062,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021107",
+  "provenance_text": "Light Gallery, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82705&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99692&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8638b8b-fa0c-44f8-b79a-057b71af974a",
+      "party_type": "Person",
+      "full_name": "Harry Callahan",
+      "cited_name": "Callahan, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Detroit (Wayne county, Michigan, United States)",
+      "death_place": "Atlanta (Fulton county, Georgia, United States)"
+    }
+  ]
+}

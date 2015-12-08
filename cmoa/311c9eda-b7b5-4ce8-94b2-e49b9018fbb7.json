@@ -1,0 +1,63 @@
+{
+  "title": "And it came to pass that David wrote a letter to Joab and sent it by the hand of Uriah",
+  "creation_date": "1792",
+  "creation_date_earliest": "1792-01-01",
+  "creation_date_latest": "1792-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.75",
+  "id": "cmoa:things/311c9eda-b7b5-4ce8-94b2-e49b9018fbb7",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34543",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39657&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5475f80e-264f-4e95-ae71-8e516700f0b0",
+      "party_type": "Person",
+      "full_name": "William Ward",
+      "cited_name": "Ward, William",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1766-01-01",
+      "death_date": "1826-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/490e7044-5007-4de0-8ac0-12ba4d7f7689",
+      "party_type": "Person",
+      "full_name": "Ferdinand Bol",
+      "cited_name": "Bol, Ferdinand",
+      "role": "artist",
+      "nationality": "Dutch",
+      "birth_date": "1616-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Dordrecht (South Holland, Netherlands)",
+      "death_place": "Amsterdam"
+    },
+    {
+      "artist_id": "cmoa:parties/d6bea32a-cd16-4a6e-978a-5000e8c7cbdc",
+      "party_type": "Person",
+      "full_name": "Crescentius Josephus Johannes Seydelmann",
+      "cited_name": "Seydelmann, Crescentius Josephus Johannes",
+      "role": "draftsman",
+      "nationality": "German",
+      "birth_date": "1750-01-01",
+      "death_date": "1829-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Washington Passing the Delaware, Evening Previous to the Battle of Trenton, December 25, 1776",
+  "creation_date": "1825",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "etching and engraving",
+  "accession_number": "65.32",
+  "id": "cmoa:things/b9da3e8c-77de-4281-aa5a-32aba54214d9",
+  "credit_line": "Howard N. Eavenson Americana Collection",
+  "date_acquired": "1965-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011951",
+  "provenance_text": "The Old Print Shop, Inc., NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114355&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa21e259-2e29-4f41-9b35-08508aa808a2",
+      "party_type": "Person",
+      "full_name": "George S. Lang",
+      "cited_name": "Lang, George S.",
+      "role": "engraver",
+      "nationality": "American",
+      "birth_date": "1799-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/439043e6-9c60-4e48-9c6e-318b8a34b268",
+      "party_type": "Person",
+      "full_name": "William Humphrys",
+      "cited_name": "Humphrys",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1794-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c46d6f9f-be22-471a-b033-555023f71405",
+      "party_type": "Person",
+      "full_name": "Thomas Sully",
+      "cited_name": "Sully, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1783-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": "Horncastle (Lincolnshire, England, United Kingdom)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

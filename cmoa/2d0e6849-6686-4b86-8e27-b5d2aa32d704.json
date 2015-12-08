@@ -1,0 +1,42 @@
+{
+  "title": "La Galerie Notre-Dame",
+  "creation_date": "1853",
+  "creation_date_earliest": "1853-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "etching on paper",
+  "accession_number": "16.41.2",
+  "id": "cmoa:things/2d0e6849-6686-4b86-8e27-b5d2aa32d704",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001281",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110917&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84817&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab6edf6d-1e81-4147-8def-aadd0e531b16",
+      "party_type": "Person",
+      "full_name": "Charles Meryon",
+      "cited_name": "Meryon, Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1821-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Charenton-le-Pont (Val-de-Marne, Ile-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tea Caddy",
+  "creation_date": "1713-1714",
+  "creation_date_earliest": "1713-01-01",
+  "creation_date_latest": "1714-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2430.A-.B",
+  "id": "cmoa:things/8f19f970-cf04-4e3d-83dc-ada1a7294a79",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 5.5,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014645",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2993eb36-ac90-4508-adf3-e2eecfa01b66",
+      "party_type": "Person",
+      "full_name": "Ebenezer Roe",
+      "cited_name": "Roe, Ebenezer",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

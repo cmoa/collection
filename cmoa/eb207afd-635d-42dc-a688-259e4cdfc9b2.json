@@ -1,0 +1,39 @@
+{
+  "title": "Ornament with Cherubim",
+  "creation_date": null,
+  "creation_date_earliest": "1538-12-22",
+  "creation_date_latest": "1583-01-01",
+  "medium": "engraving",
+  "accession_number": "60.29.2",
+  "id": "cmoa:things/eb207afd-635d-42dc-a688-259e4cdfc9b2",
+  "credit_line": "Gift of Mr. and Mrs. Jacob Davis",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.75,
+  "item_height": 2.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011192",
+  "provenance_text": "Mr. and Mrs. Jacob Davis; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101629&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5dafeed7-5cff-4e71-8de9-0883e423cfa8",
+      "party_type": "Person",
+      "full_name": "Étienne Delaune",
+      "cited_name": "Delaune, Étienne",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1519-01-01",
+      "death_date": "1583-01-01",
+      "birth_place": "Paris",
+      "death_place": "Paris"
+    }
+  ]
+}

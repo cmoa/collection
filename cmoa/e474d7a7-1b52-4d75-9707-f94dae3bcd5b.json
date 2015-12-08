@@ -1,0 +1,39 @@
+{
+  "title": "Painting",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.29",
+  "id": "cmoa:things/e474d7a7-1b52-4d75-9707-f94dae3bcd5b",
+  "credit_line": "Gift of Mr. and Mrs. Samuel M. Kootz",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.25,
+  "item_height": 73.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010808",
+  "provenance_text": "Kootz Gallery, NYC, for 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18383&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/76b98438-f09c-43d7-b47e-cb4ab585bfb9",
+      "party_type": "Person",
+      "full_name": "Georges Mathieu",
+      "cited_name": "Mathieu, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": "Boulogne-sur-Mer",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Meeting at Emmaus",
+  "creation_date": "c. 1900-1910",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil on panel",
+  "accession_number": "74.7.11",
+  "id": "cmoa:things/ea296f27-e25d-4efd-ad01-5082ac7079c4",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.5,
+  "item_height": 24.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017264",
+  "provenance_text": "Jean Louis Forain [1852-1931]. Charles J. Rosenbloom [1898-1973], Pittsburgh, PA, by 1946; bequest to Museum of Fine Arts, Carnegie Institute, Pittsburgh, PA, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150064&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/49a00780-8909-4e6c-ac0b-a7975714663e",
+      "party_type": "Person",
+      "full_name": "Jean Louis Forain",
+      "cited_name": "Forain, Jean L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1852-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

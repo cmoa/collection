@@ -1,0 +1,51 @@
+{
+  "title": "Pill Lamp",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "plastic, lead, glass and rubber",
+  "accession_number": "2001.8.2.4.a-b",
+  "id": "cmoa:things/78365995-2a74-41e4-bf70-261eb9fc0aa6",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26",
+  "provenance_text": "Urban Architecture, New York",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70387&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/299f2201-e5b4-4bb0-a6f6-8aec4026769c",
+      "party_type": "Person",
+      "full_name": "Cesare Casati",
+      "cited_name": "Casati, Cesare",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/09d3ffbd-fc13-4893-aa78-a3aff5782d6f",
+      "party_type": "Person",
+      "full_name": "Emanuele Ponzio",
+      "cited_name": "Ponzio, Emanuele",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

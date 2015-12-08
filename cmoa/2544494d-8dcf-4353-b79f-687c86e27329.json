@@ -1,0 +1,39 @@
+{
+  "title": "Attraction",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.15",
+  "id": "cmoa:things/2544494d-8dcf-4353-b79f-687c86e27329",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 10.0,
+  "item_depth": 10.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61769",
+  "provenance_text": "Purchased from the Hodgell Gallery, Sarasota, 1/12/02",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68856&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf9cbbfd-3404-4025-9512-b9dbaba14b40",
+      "party_type": "Person",
+      "full_name": "Milon Townsend",
+      "cited_name": "Townsend, Milon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Carnegie Library of Pittsburgh: South Side Branch)",
+  "creation_date": "no earlier than 1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.84.38",
+  "id": "cmoa:things/da86e977-a5fa-43a5-b1e5-c4565199679b",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-12-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 10.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024302",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8393&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

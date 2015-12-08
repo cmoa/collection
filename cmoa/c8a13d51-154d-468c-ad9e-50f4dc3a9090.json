@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Chair)",
+  "creation_date": "c. 1980",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "acrylic paint on fabric covered wood",
+  "accession_number": "93.30",
+  "id": "cmoa:things/c8a13d51-154d-468c-ad9e-50f4dc3a9090",
+  "credit_line": "Gift of Robert Kushner",
+  "date_acquired": "1993-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 48.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033561",
+  "provenance_text": "Robert Kushner, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2ddceca-d66a-421e-9bcc-8ac7232a5def",
+      "party_type": "Person",
+      "full_name": "Kim MacConnel",
+      "cited_name": "MacConnel, Kim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Oklahoma City (Oklahoma county, Oklahoma, United States)",
+      "death_place": null
+    }
+  ]
+}

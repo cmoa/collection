@@ -1,0 +1,42 @@
+{
+  "title": "Head of a Boy",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "66.13",
+  "id": "cmoa:things/8e524354-3eb6-4379-8c50-4bed3a2f66c9",
+  "credit_line": "Purchase: gift of the Howard Heinz Endowment",
+  "date_acquired": "1966-09-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 8.625,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012209",
+  "provenance_text": "Helena Rubinstein, New York; (Rubinstein sale, Parke-Bernet Galleries, Inc., New York, sale no. 2428); purchased by Museum, September 1966.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114575&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36440&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

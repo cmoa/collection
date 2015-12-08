@@ -1,0 +1,39 @@
+{
+  "title": "The Broken Wagon",
+  "creation_date": "1844",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1844-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.5.15",
+  "id": "cmoa:things/a18f2d25-2d4b-44aa-9ce8-234b570af1e0",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 18.375,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011052",
+  "provenance_text": "Johanna K. W. Hailman [1871-1958], Pittsburgh; bequest to Museum, September 1960.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9dbb9af-b134-41de-8cb0-9f652fc449b3",
+      "party_type": "Person",
+      "full_name": "Eugène Louis Gabriel Isabey",
+      "cited_name": "Isabey, Eugène L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1803-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Lagny (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

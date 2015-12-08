@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "c. 1760",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.810.A-B",
+  "id": "cmoa:things/2db2c526-05db-465e-b193-b3c6b0175482",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.938,
+  "item_height": 4.312,
+  "item_depth": 6.62,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015553",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1381&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d4b8284-3e24-4e02-b42f-40d126ace384",
+      "party_type": "Organization",
+      "full_name": "Ludwigsburg Pottery and Porcelain Factory",
+      "cited_name": "Ludwigsburg Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1758-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

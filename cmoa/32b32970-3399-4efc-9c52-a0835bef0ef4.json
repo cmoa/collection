@@ -1,0 +1,51 @@
+{
+  "title": "Godfrey of Bouillon, (East Nave)",
+  "creation_date": "September 1, 1851",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1851-01-01",
+  "medium": "color lithograph on paper",
+  "accession_number": "2009.73.2",
+  "id": "cmoa:things/32b32970-3399-4efc-9c52-a0835bef0ef4",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88974",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA, by 2009; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c458a5f-c9e4-45c4-a081-7354d1e8c68b",
+      "party_type": "Person",
+      "full_name": "John Absolon",
+      "cited_name": "Absolon, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1815-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fd15c362-7edd-4e09-b508-e835b2b8d9c8",
+      "party_type": "Organization",
+      "full_name": "Day & Son",
+      "cited_name": "Day & Son",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1845-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Oga Peninsula (Oga hantô)",
+  "creation_date": "March 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.11",
+  "id": "cmoa:things/7ef22331-afe6-4509-9c11-b321504195e8",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 9.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028742",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseida Gallery, Tokyo, Japan, 4/24/1971.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37911&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4287d64-76ca-4797-9d5b-492f3e0efce7",
+      "party_type": "Person",
+      "full_name": "Katsuhira Tokushi",
+      "cited_name": "Katsuhira Tokushi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

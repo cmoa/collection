@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Blue)",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "painted paper mounted on board",
+  "accession_number": "84.90",
+  "id": "cmoa:things/72f1a36c-7d2b-4f9e-ba6f-4dba68daa670",
+  "credit_line": "Gift of Joel S. Ehrenkranz",
+  "date_acquired": "1984-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 66.0,
+  "item_height": 63.25,
+  "item_depth": 1.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025375",
+  "provenance_text": "Andrew Crispo Gallery, New York City, New York",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8058&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4e1d45a-2f43-47b6-9915-ed284f2fafef",
+      "party_type": "Person",
+      "full_name": "Robert Courtright",
+      "cited_name": "Courtright, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

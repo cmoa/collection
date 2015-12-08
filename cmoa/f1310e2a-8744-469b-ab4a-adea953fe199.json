@@ -1,0 +1,39 @@
+{
+  "title": "Samovar",
+  "creation_date": "c. 1904",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "brass",
+  "accession_number": "2002.43.1.A-E",
+  "id": "cmoa:things/f1310e2a-8744-469b-ab4a-adea953fe199",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 15.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=353",
+  "provenance_text": "John Jesse, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23520&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b36548ee-d4ba-4e0e-87ac-41a2d6ccd315",
+      "party_type": "Person",
+      "full_name": "Bruno Paul",
+      "cited_name": "Paul, Bruno",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1874-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

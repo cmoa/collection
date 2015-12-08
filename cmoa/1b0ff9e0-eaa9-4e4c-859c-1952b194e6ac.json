@@ -1,0 +1,39 @@
+{
+  "title": "Verrière (Wineglass Rinser)",
+  "creation_date": "1776-1777",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2389",
+  "id": "cmoa:things/1b0ff9e0-eaa9-4e4c-859c-1952b194e6ac",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.875,
+  "item_height": 6.25,
+  "item_depth": 6.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014595",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9083&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1e4b44f-af36-4c6a-b6c8-2b446e720edb",
+      "party_type": "Person",
+      "full_name": "Charles Kandler I",
+      "cited_name": "Kandler, Charles",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1727-01-01",
+      "death_date": "1740-01-01",
+      "birth_place": "Germany",
+      "death_place": null
+    }
+  ]
+}

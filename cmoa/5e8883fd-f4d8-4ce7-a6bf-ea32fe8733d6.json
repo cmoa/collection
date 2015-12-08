@@ -1,0 +1,39 @@
+{
+  "title": "American Fantastica",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "ink on paper",
+  "accession_number": "2011.71.9",
+  "id": "cmoa:things/5e8883fd-f4d8-4ce7-a6bf-ea32fe8733d6",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.875,
+  "item_height": 15.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98240",
+  "provenance_text": "Gift of Carol and Herbert Diamond, 2012.\n\nTBF 10/24/14",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113861&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e95a72dd-2be7-424a-a1eb-17cecfd2a193",
+      "party_type": "Person",
+      "full_name": "Siegfried Gerhard Reinhardt",
+      "cited_name": "Reinhardt, Siegfried Gerhard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Germany",
+      "death_place": "St. Louis, Missouri"
+    }
+  ]
+}

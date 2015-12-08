@@ -1,0 +1,39 @@
+{
+  "title": "Hiranuma in Yokohama",
+  "creation_date": "1872",
+  "creation_date_earliest": "1872-01-01",
+  "creation_date_latest": "1872-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.365",
+  "id": "cmoa:things/939d1545-c943-46d0-82cc-0722c9205d8c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.938,
+  "item_height": 14.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028015",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106058&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2e8b4649-888d-4b20-b577-795b22f86405",
+      "party_type": "Person",
+      "full_name": "Hiroshige III",
+      "cited_name": "Hiroshige III",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1843-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

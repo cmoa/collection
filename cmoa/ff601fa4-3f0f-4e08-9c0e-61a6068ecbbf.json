@@ -1,0 +1,51 @@
+{
+  "title": "Delphian Sibyl",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "wood block",
+  "accession_number": "14.7.1",
+  "id": "cmoa:things/ff601fa4-3f0f-4e08-9c0e-61a6068ecbbf",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-04-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000960",
+  "provenance_text": "The Century Company",
+  "classification": "printing blocks",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/413da34d-19da-4c40-a3e7-0a56849a6386",
+      "party_type": "Person",
+      "full_name": "Timothy Cole",
+      "cited_name": "Cole, Timothy",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Poughkeepsie (Dutchess county, New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cd936038-b643-42e9-9f41-5272d7dd123f",
+      "party_type": "Person",
+      "full_name": "Michelangelo Buonarroti",
+      "cited_name": "Buonarroti, Michelangelo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1475-01-01",
+      "death_date": "1564-01-01",
+      "birth_place": "Caprese Michelangelo (Arezzo province, Tuscany, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Boli",
+  "creation_date": "no date",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "wood, straw, mud, shell, stone, blood, and cloth",
+  "accession_number": "74.38.4",
+  "id": "cmoa:things/cbb76cfd-05dd-4149-b034-b7621a6f0cce",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016988",
+  "provenance_text": "Argiles, Paris, France",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101701&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6403af47-1406-484b-b8b4-59e2e9e2b616",
+      "party_type": "Person",
+      "full_name": "unknown Bamana, Mali",
+      "cited_name": "unknown Bamana, Mali",
+      "role": null,
+      "nationality": "Bamana",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

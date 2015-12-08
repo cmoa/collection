@@ -1,0 +1,39 @@
+{
+  "title": "Bulb Bowl",
+  "creation_date": "c. 1785",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.63.A-B",
+  "id": "cmoa:things/a284cc64-bf0c-4c7e-a04a-b75319ed4093",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 4.187,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023509",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5217&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a80f181-f41e-40ef-81a6-e11f040d9329",
+      "party_type": "Organization",
+      "full_name": "Wedgwood",
+      "cited_name": "Wedgwood",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Black Gate, National Treasure, (Kokuhô Kuromon)",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.955",
+  "id": "cmoa:things/3ed29324-931e-4f73-997d-9c35d0644c3c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.438,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029211",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nFrom the collection of Maekawa Senpan.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33171&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cb602d2-3f4a-49c5-b9b3-a37ce561217a",
+      "party_type": "Person",
+      "full_name": "Maeda Masao",
+      "cited_name": "Maeda Masao",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

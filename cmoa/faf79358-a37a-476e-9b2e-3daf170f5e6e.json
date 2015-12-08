@@ -1,0 +1,39 @@
+{
+  "title": "Cows Crossing the Lys",
+  "creation_date": "c. 1907",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "83.66.3",
+  "id": "cmoa:things/faf79358-a37a-476e-9b2e-3daf170f5e6e",
+  "credit_line": "Gift of James T. Donohoe",
+  "date_acquired": "1983-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.75,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023939",
+  "provenance_text": "James T. Donohoe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114733&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/95a2d0b0-69e0-45a2-a9f6-97bd7ec6e304",
+      "party_type": "Person",
+      "full_name": "Emil Klaus",
+      "cited_name": "Klaus, Emil",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1849-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

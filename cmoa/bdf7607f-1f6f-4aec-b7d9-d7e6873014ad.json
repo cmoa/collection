@@ -1,0 +1,39 @@
+{
+  "title": "From Heldenbuch (Strassburg, 1483)",
+  "creation_date": "15th century",
+  "creation_date_earliest": "1399-12-24",
+  "creation_date_latest": "1498-12-23",
+  "medium": "woodcut with early coloring",
+  "accession_number": "57.9",
+  "id": "cmoa:things/bdf7607f-1f6f-4aec-b7d9-d7e6873014ad",
+  "credit_line": "Gift of E. W. Kornfeldt",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010667",
+  "provenance_text": "Gutekunst & Klipstein",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49097&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e594e867-67ab-4bd9-b71f-f69aa7335bbb",
+      "party_type": "Person",
+      "full_name": "Johann Pruss",
+      "cited_name": "Pruss, Johann",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1483-01-01",
+      "death_date": "1510-01-01",
+      "birth_place": "Germany",
+      "death_place": null
+    }
+  ]
+}

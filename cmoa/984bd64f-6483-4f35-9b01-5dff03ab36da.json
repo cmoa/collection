@@ -1,0 +1,39 @@
+{
+  "title": "North Country Lake",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.79",
+  "id": "cmoa:things/984bd64f-6483-4f35-9b01-5dff03ab36da",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012949",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108292&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/78e5aac7-94b3-4365-a5aa-aebbb15cddd7",
+      "party_type": "Person",
+      "full_name": "Adolf Dehn",
+      "cited_name": "Dehn, Adolf",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Waterville (Le Sueur county, Minnesota, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

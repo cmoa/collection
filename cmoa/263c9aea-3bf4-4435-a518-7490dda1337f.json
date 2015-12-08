@@ -1,0 +1,78 @@
+{
+  "title": "Chaise longue",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "chromed tubular steel, reinforced rubber, original Smyrna wool and leather upholstery, and parchment",
+  "accession_number": "1996.19.A-B",
+  "id": "cmoa:things/263c9aea-3bf4-4435-a518-7490dda1337f",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "1996-05-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 64.0,
+  "item_height": 24.0,
+  "item_depth": 22.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002098",
+  "provenance_text": "Barry Friedman Ltd., New York City, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96444&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fc00902a-6665-4f9e-b838-2a3216e2ecb8",
+      "party_type": "Person",
+      "full_name": "Le Corbusier",
+      "cited_name": "Le Corbusier",
+      "role": "designer",
+      "nationality": "Swiss",
+      "birth_date": "1887-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "La Chaux-de-Fonds (Neuchchatel canton, Switzerland)",
+      "death_place": "Roquebrune (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/cbc92f88-ef46-415f-b1de-80ac1c704883",
+      "party_type": "Person",
+      "full_name": "Pierre Jeanneret",
+      "cited_name": "Jeanneret, Pierre",
+      "role": "designer",
+      "nationality": "Swiss",
+      "birth_date": "1896-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Geneva, Switzerland",
+      "death_place": "Geneva, Switzerland"
+    },
+    {
+      "artist_id": "cmoa:parties/9ab2aea7-86a5-4b89-a75a-2024c1f9a358",
+      "party_type": "Person",
+      "full_name": "Charlotte Perriand",
+      "cited_name": "Perriand, Charlotte",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1903-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/d2854c4a-048b-44f4-a91d-84bc4e6d13ae",
+      "party_type": "Organization",
+      "full_name": "Thonet Frères",
+      "cited_name": "Thonet Frères",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1929-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

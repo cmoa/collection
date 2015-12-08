@@ -1,0 +1,39 @@
+{
+  "title": "Menacing Black Horse",
+  "creation_date": "1930-1931",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "etching, engraving and drypoint",
+  "accession_number": "42.10.6",
+  "id": "cmoa:things/a2648af8-9d3f-4714-8020-4d17d9e01c42",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007292",
+  "provenance_text": "M. A. McDonald",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76883&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fe5d44d-b669-4885-8fc2-b49b42f777fa",
+      "party_type": "Person",
+      "full_name": "Philip Evergood",
+      "cited_name": "Evergood, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "Bridgewater (Litchfield county, Connecticut, United States)"
+    }
+  ]
+}

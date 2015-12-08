@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Sketch for a Mural Painting)",
+  "creation_date": null,
+  "creation_date_earliest": "1866-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "pencil and ink heightened with white",
+  "accession_number": "77.79.2",
+  "id": "cmoa:things/2463e328-d137-4346-9412-9f2a561820b5",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1978-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019030",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c371400f-0857-4a79-992e-a7e4660295c6",
+      "party_type": "Person",
+      "full_name": "Luc Olivier-Merson",
+      "cited_name": "Olivier-Merson, Luc",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1846-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

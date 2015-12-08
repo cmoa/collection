@@ -1,0 +1,49 @@
+{
+  "title": "Pitcher",
+  "creation_date": "1894",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "earthenware",
+  "accession_number": "2012.51",
+  "id": "cmoa:things/31e5561b-1182-4642-8c3e-3183dbfee22c",
+  "credit_line": "Gift of Gillian and Michael Malley",
+  "date_acquired": "2013-02-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 8.25,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100646",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e359ccf6-9ad3-4011-afc2-e0a25a3d8909",
+      "party_type": "Person",
+      "full_name": "Frank E. Burley",
+      "cited_name": "Burley, Frank E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b625bb3a-5e47-42a0-ac2f-a2fede8c980c",
+      "party_type": "Organization",
+      "full_name": "W. T. Copeland and Sons",
+      "cited_name": "Copeland, W. T. and Sons",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1867-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

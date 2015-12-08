@@ -1,0 +1,45 @@
+{
+  "title": "0, 0, 0, 0",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "paper tissue, lanterns, and string",
+  "accession_number": "2013.47.A-.E",
+  "id": "cmoa:things/b6c8f6fe-2255-4ee7-a995-6fa920eab582",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2013-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103518",
+  "provenance_text": null,
+  "classification": "installations",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127179&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128806&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/debfae74-ffff-47e4-a755-749d492cfcd9",
+      "party_type": "Person",
+      "full_name": "Tobias Madison",
+      "cited_name": "Madison, Tobias",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1985-01-01",
+      "death_date": null,
+      "birth_place": "Basel, Switzerland",
+      "death_place": null
+    }
+  ]
+}

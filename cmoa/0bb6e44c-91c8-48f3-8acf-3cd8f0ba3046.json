@@ -1,0 +1,39 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1882",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "gilded wood with mother-of-pearl inlay and modern upholstery",
+  "accession_number": "83.36",
+  "id": "cmoa:things/0bb6e44c-91c8-48f3-8acf-3cd8f0ba3046",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 19.75,
+  "item_height": 34.5,
+  "item_depth": 19.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023680",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11652&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8e4619dd-be89-4f39-8c59-24ddb8a11270",
+      "party_type": "Organization",
+      "full_name": "Herter Brothers",
+      "cited_name": "Herter Brothers",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1855-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

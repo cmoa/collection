@@ -1,0 +1,42 @@
+{
+  "title": "Horseshoes, from the Series \"White Swan Park\"",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "92.23.3",
+  "id": "cmoa:things/47556c34-4c7e-467d-b9cd-907a7fd5c722",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1992-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031812",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113467&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113466&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/62a0763a-4caf-4e6a-b29c-bea9415d1ab6",
+      "party_type": "Person",
+      "full_name": "Mark Perrott",
+      "cited_name": "Perrott, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Rochester, PA",
+      "death_place": null
+    }
+  ]
+}

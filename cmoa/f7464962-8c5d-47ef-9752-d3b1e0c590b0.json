@@ -1,0 +1,39 @@
+{
+  "title": "Jar",
+  "creation_date": "1122 BCE-255 BCE",
+  "creation_date_earliest": "-1122-01-12",
+  "creation_date_latest": "-0255-01-05",
+  "medium": "Stoneware",
+  "accession_number": "25.1.13",
+  "id": "cmoa:things/f7464962-8c5d-47ef-9752-d3b1e0c590b0",
+  "credit_line": "Gift of Charles D. Armstrong",
+  "date_acquired": "1925-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.25,
+  "item_height": 11.813,
+  "item_depth": 15.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005174",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8317&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

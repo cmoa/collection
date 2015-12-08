@@ -1,0 +1,42 @@
+{
+  "title": "Bracelet",
+  "creation_date": "1927-1928",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "gold, enamel and stones (amber)",
+  "accession_number": "1998.25.4",
+  "id": "cmoa:things/d5cf671f-aa8a-4e49-bf7d-dc9fd625fc3a",
+  "credit_line": "Bequest of Estelle E. Kaiser",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 0.75,
+  "item_depth": 0.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003699",
+  "provenance_text": "The Donor, via Donald Miller, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1903&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1140&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9ee618c-71e9-43eb-a207-960e02cc3055",
+      "party_type": "Person",
+      "full_name": "Estelle E. Kaiser",
+      "cited_name": "Kaiser, Estelle E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

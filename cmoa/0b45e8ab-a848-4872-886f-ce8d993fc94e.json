@@ -1,0 +1,39 @@
+{
+  "title": "Georg Roggenbach",
+  "creation_date": "1554",
+  "creation_date_earliest": "1553-12-22",
+  "creation_date_latest": "1553-12-22",
+  "medium": "etching on paper",
+  "accession_number": "74.7.141",
+  "id": "cmoa:things/0b45e8ab-a848-4872-886f-ce8d993fc94e",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017290",
+  "provenance_text": "Dukes of Arenberg, Lugt 567; duplicate, Germanisches National-Museum, Nurenberg, Lugt Suppl 1076a; Charles J. Rosenbloom, Lugt Suppl 633b; The Donor's Residence, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115392&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1bd2070c-c70e-4c26-9318-96ad0565734e",
+      "party_type": "Person",
+      "full_name": "Hanns Lautensack",
+      "cited_name": "Lautensack, Hanns",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1505-01-01",
+      "death_date": "1564-01-01",
+      "birth_place": "Bamberg (Oberfranken, Bavaria, Germany)",
+      "death_place": "Vienna (Wien state, Austria)"
+    }
+  ]
+}

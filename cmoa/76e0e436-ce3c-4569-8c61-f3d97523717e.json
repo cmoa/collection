@@ -1,0 +1,57 @@
+{
+  "title": "One Touch 8-cup canister",
+  "creation_date": "1991/1992",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "plastic",
+  "accession_number": "95.75.8.3.A-B",
+  "id": "cmoa:things/76e0e436-ce3c-4569-8c61-f3d97523717e",
+  "credit_line": "Gift of Tupperware Worldwide",
+  "date_acquired": "1995-05-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.875,
+  "item_depth": 0.0,
+  "item_diameter": 5.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035807",
+  "provenance_text": "Tupperware Worldwide, Orlando, FL",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5139&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5140&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5138&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/023e5afa-997a-4d79-b4d7-06ba838b3bef",
+      "party_type": "Collaboration",
+      "full_name": "Morison Cousins and Douglas Laib",
+      "cited_name": "Cousins, Morison and Laib, Douglas",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/108dd511-debe-461e-8bb0-8672a80f29f4",
+      "party_type": "Organization",
+      "full_name": "Tupperware U.S. Inc.",
+      "cited_name": "Tupperware U.S. Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

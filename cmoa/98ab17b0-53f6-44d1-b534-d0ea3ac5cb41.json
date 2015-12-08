@@ -1,0 +1,39 @@
+{
+  "title": "Plate (Silhouette Steel Company)",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "earthenware",
+  "accession_number": "91.11",
+  "id": "cmoa:things/98ab17b0-53f6-44d1-b534-d0ea3ac5cb41",
+  "credit_line": "Gift of Christopher Monkhouse",
+  "date_acquired": "1991-06-27",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 1.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029408",
+  "provenance_text": "Christopher Monkhouse, East Greenwich, RI",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3e9d55a-a20e-424a-9513-87d04c6f149a",
+      "party_type": "Organization",
+      "full_name": "Onodaga Pottery Company",
+      "cited_name": "Onodaga Pottery Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

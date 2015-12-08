@@ -1,0 +1,39 @@
+{
+  "title": "The Coat",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "oil and buttons on canvas",
+  "accession_number": "2002.32.1",
+  "id": "cmoa:things/1a26e667-0897-40c3-a21c-27d38e7cb382",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 61.25,
+  "item_height": 81.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=360",
+  "provenance_text": "Acquired from the donor Charles H. Carpenter, Jr., Connecticut, 2002.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20549&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c189819-cbf6-421f-8f12-d3a7ae75d51a",
+      "party_type": "Person",
+      "full_name": "Jim Dine",
+      "cited_name": "Dine, Jim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

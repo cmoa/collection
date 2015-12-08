@@ -1,0 +1,39 @@
+{
+  "title": "Child with a Biscuit, Jean Renoir (L'Enfant au biscuit, Jean Renoir)",
+  "creation_date": "1898-1899",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "color lithograph on Arches Ingres laid paper",
+  "accession_number": "54.12.4",
+  "id": "cmoa:things/614d6a33-68b1-4cd1-9aca-cd3f0d190310",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009199",
+  "provenance_text": "Pierre Auguste Renoir [1841-1919]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, March 1954.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19015&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44cf7f5e-cf2f-4ad6-ba20-97fabb279d29",
+      "party_type": "Person",
+      "full_name": "Pierre Auguste Renoir",
+      "cited_name": "Renoir, Pierre A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1841-02-25",
+      "death_date": "1919-12-03",
+      "birth_place": "Limoges, France",
+      "death_place": "Cagnes-sur-Mer, France"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Utopia",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "wood, polystyrene, cement, acrylic, porcelain figurine, and pyrite",
+  "accession_number": "2002.37",
+  "id": "cmoa:things/d58f34ca-693b-464e-817a-f034e9a29b7a",
+  "credit_line": "Oxford Development Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 40.0,
+  "item_height": 80.0,
+  "item_depth": 38.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=337",
+  "provenance_text": "Greene Naftali Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112681&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112682&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129313&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fc37752c-0c49-411f-b346-e068b7b12a3b",
+      "party_type": "Person",
+      "full_name": "Rachel Harrison",
+      "cited_name": "Harrison, Rachel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "New York City, NY",
+      "death_place": null
+    }
+  ]
+}

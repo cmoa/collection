@@ -1,0 +1,39 @@
+{
+  "title": "Bangle",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "dyed and crazed anodized aluminum",
+  "accession_number": "2003.49.3",
+  "id": "cmoa:things/fad130e0-d4a1-46b8-bc94-ac50e27ed06d",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2003-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6720",
+  "provenance_text": "Jane Adam",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11306&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0cc90dd-844c-42cf-ab11-32c48c5e68a1",
+      "party_type": "Person",
+      "full_name": "Jane Adam",
+      "cited_name": "Adam, Jane",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

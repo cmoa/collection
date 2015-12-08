@@ -1,0 +1,42 @@
+{
+  "title": "Madonna and Child, and Crucifixion",
+  "creation_date": "c. 1380",
+  "creation_date_earliest": "1374-12-24",
+  "creation_date_latest": "1384-12-24",
+  "medium": "tempera and gold leaf on panel",
+  "accession_number": "70.29.2",
+  "id": "cmoa:things/43b37461-9166-4afc-9f1a-ded13b1a9379",
+  "credit_line": "Howard A. Noble Fund",
+  "date_acquired": "1970-05-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 10.313,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013051",
+  "provenance_text": "Wildenstein & Company, Inc., New York, 1947; Schaeffer Galleries, Inc. [1925-1990?], New York, by May 1970; purchased by Museum, May 1970.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26119&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56869&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4106879-ebbc-4947-93e3-19518bb6b383",
+      "party_type": "Person",
+      "full_name": "Master of The Straus Madonna",
+      "cited_name": "Master of The Straus Madonna",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1350-01-01",
+      "death_date": "1420-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

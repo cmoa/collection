@@ -1,0 +1,51 @@
+{
+  "title": "Tom Vac Chair",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "anodized aluminum and stainless steel",
+  "accession_number": "2005.45",
+  "id": "cmoa:things/656011c6-58e0-44f1-954a-417ce2643981",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "2005-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 28.25,
+  "item_height": 31.5,
+  "item_depth": 19.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14563",
+  "provenance_text": "Private collection, Barry Friedman Gallery, New York.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab2b0e3b-5d64-42e8-a892-a824c91d76bd",
+      "party_type": "Person",
+      "full_name": "Ron Arad",
+      "cited_name": "Arad, Ron",
+      "role": "designer",
+      "nationality": "Israeli",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Tel Aviv-Jaffa (Tel Aviv district, Israel)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/578ea3e5-12cb-412b-96d2-a6631c59a247",
+      "party_type": "Organization",
+      "full_name": "Ron Arad and Associates",
+      "cited_name": "Arad, Ron and Associates",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1989-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

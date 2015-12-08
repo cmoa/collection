@@ -1,0 +1,42 @@
+{
+  "title": "The Point, from \"Ten Etchings from Pittsburgh\"",
+  "creation_date": "1905",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "etching",
+  "accession_number": "90.8.3",
+  "id": "cmoa:things/d9bb4d03-0051-4537-9bcd-4141bae46aec",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1990-04-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.125,
+  "item_height": 14.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029394",
+  "provenance_text": "The Carnegie Library of Pittsburgh, Music and Art Department",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100182&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100181&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93378aef-ac55-4814-98cc-ee32b82a1972",
+      "party_type": "Person",
+      "full_name": "Jean-Emile Laboureur",
+      "cited_name": "Laboureur, Jean-Emile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

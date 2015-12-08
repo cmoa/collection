@@ -1,0 +1,51 @@
+{
+  "title": "Madonna and Child and Three Female Saints",
+  "creation_date": "early 16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1524-12-22",
+  "medium": "oil on panel",
+  "accession_number": "74.7.20",
+  "id": "cmoa:things/dcedfea4-4e71-4b18-a06e-5e1131caef78",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 13.625,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017371",
+  "provenance_text": "Charles J. Rosenbloom [1898-1973], Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8fa42b86-1a04-47fd-b653-3c4c2b660c53",
+      "party_type": "Person",
+      "full_name": "Master of Frankfurt",
+      "cited_name": "Master of Frankfurt",
+      "role": "possibly by",
+      "nationality": "Netherlandish",
+      "birth_date": "1460-01-01",
+      "death_date": "1518-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6fa2a7a6-2ab8-4d35-9735-6b9b1c6974c0",
+      "party_type": "Person",
+      "full_name": "Hendrik van Wueluwe",
+      "cited_name": "Wueluwe, Hendrik van",
+      "role": null,
+      "nationality": "Netherlandish",
+      "birth_date": "1460-01-01",
+      "death_date": "1533-01-01",
+      "birth_place": "Woluwe",
+      "death_place": "Antwerp"
+    }
+  ]
+}

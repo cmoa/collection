@@ -1,0 +1,42 @@
+{
+  "title": "Sunshine Canyon",
+  "creation_date": "1935-1943",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "lithograph on medium weight cream wove paper",
+  "accession_number": "82.104.1",
+  "id": "cmoa:things/19dbdf12-c34b-4a63-9546-f60e5f7383f5",
+  "credit_line": "Gift of Mr. and Mrs. Howard Zusman",
+  "date_acquired": "1983-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.313,
+  "item_height": 18.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022244",
+  "provenance_text": "Mr. And Mrs. Howard Zusman, Sewickley, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103507&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80238&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdcf7b13-1825-4077-b816-644c43abd8a5",
+      "party_type": "Person",
+      "full_name": "Carlos Anderson",
+      "cited_name": "Anderson, Carlos",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

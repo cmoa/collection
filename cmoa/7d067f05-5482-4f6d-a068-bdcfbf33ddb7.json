@@ -1,0 +1,39 @@
+{
+  "title": "Billie Dove",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "89.10.1",
+  "id": "cmoa:things/7d067f05-5482-4f6d-a068-bdcfbf33ddb7",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1989-10-05",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 20.625,
+  "item_height": 20.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026583",
+  "provenance_text": "Karl Gernot Kuehn",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/266949f3-f6eb-4957-a7b8-014aa665efb2",
+      "party_type": "Person",
+      "full_name": "Karl Gernot Kuehn",
+      "cited_name": "Kuehn, Karl G.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Trade Winds",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.236",
+  "id": "cmoa:things/a830112e-44d3-4599-8624-be20052b70d7",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012821",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108005&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13e09a52-8ba6-4a35-abe1-0ee2ed8d7915",
+      "party_type": "Person",
+      "full_name": "Frederick L. Owen",
+      "cited_name": "Owen, Frederick L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Icemaker",
+  "creation_date": "2010",
+  "creation_date_earliest": "2010-01-01",
+  "creation_date_latest": "2010-01-01",
+  "medium": "plastic sheet, packing tape",
+  "accession_number": "2010.53.3",
+  "id": "cmoa:things/d8a8e984-6e3a-4d11-a73a-05954c8bfb58",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund and the Henry L. Hillman Fund",
+  "date_acquired": "2010-12-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 57.0,
+  "item_height": 92.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92332",
+  "provenance_text": null,
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112048&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b76a26c9-e81d-4b36-84b8-f461c8145f22",
+      "party_type": "Person",
+      "full_name": "Gedi Sibony",
+      "cited_name": "Sibony, Gedi",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1973-01-01",
+      "death_date": null,
+      "birth_place": "New York, NY",
+      "death_place": null
+    }
+  ]
+}

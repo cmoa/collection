@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.8",
+  "id": "cmoa:things/8cbcbef1-d191-42ae-8a95-4abb1bc2c9b0",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 8.5,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103001",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126560&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

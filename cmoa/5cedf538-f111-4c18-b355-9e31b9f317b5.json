@@ -1,0 +1,39 @@
+{
+  "title": "Three Love Birds",
+  "creation_date": "1940-1941",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "43.2.3",
+  "id": "cmoa:things/5cedf538-f111-4c18-b355-9e31b9f317b5",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.563,
+  "item_height": 17.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007393",
+  "provenance_text": "Ivan Le Lorraine Albright",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80239&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7d16cf05-c72f-4b5d-b644-2e64956b7721",
+      "party_type": "Person",
+      "full_name": "Ivan Le Lorraine Albright",
+      "cited_name": "Albright, Ivan Le Lorraine",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Chicago",
+      "death_place": "Woodstock, Vermont"
+    }
+  ]
+}

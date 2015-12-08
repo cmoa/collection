@@ -1,0 +1,39 @@
+{
+  "title": "The Martyrdom of St. Gregory",
+  "creation_date": "c. 1590",
+  "creation_date_earliest": "1585-01-01",
+  "creation_date_latest": "1595-01-01",
+  "medium": "pen and bister ink",
+  "accession_number": "23.12.33",
+  "id": "cmoa:things/083eb72b-955b-4cfc-a75c-c21e661c2e5a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004842",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99531&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/719a8bac-22d4-4dad-8db5-5d2741164d72",
+      "party_type": "Person",
+      "full_name": "Giovanni Battista Paggi",
+      "cited_name": "Paggi, Giovanni B.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1554-01-01",
+      "death_date": "1627-01-01",
+      "birth_place": "Genoa",
+      "death_place": "Genoa?"
+    }
+  ]
+}

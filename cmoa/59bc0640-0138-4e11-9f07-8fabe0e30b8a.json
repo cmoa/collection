@@ -1,0 +1,42 @@
+{
+  "title": "A-Z",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2015.22.A-.B",
+  "id": "cmoa:things/59bc0640-0138-4e11-9f07-8fabe0e30b8a",
+  "credit_line": "A.W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.125,
+  "item_height": 12.125,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108576",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148055&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148056&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7d8617a-68a4-4ea9-993a-da84f4eaaf85",
+      "party_type": "Person",
+      "full_name": "Allen Ruppersberg",
+      "cited_name": "Ruppersberg, Allen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

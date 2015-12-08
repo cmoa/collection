@@ -1,0 +1,49 @@
+{
+  "title": "Tile",
+  "creation_date": "c. 1885-1900",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "69.51.2",
+  "id": "cmoa:things/489939d1-5faa-4e0e-b28a-2648189adc7b",
+  "credit_line": "Gift of Mrs. Thomas Childs Wurts",
+  "date_acquired": "1969-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 6.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012979",
+  "provenance_text": "Mrs. Thomas Childs Wurts",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b87ca78-383f-4710-bb49-f83c552b70e3",
+      "party_type": "Person",
+      "full_name": "William H. Grueby",
+      "cited_name": "Grueby, William H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "America",
+      "death_place": "America"
+    },
+    {
+      "artist_id": "cmoa:parties/dcf90d3b-b83b-47f3-938b-a697f383db57",
+      "party_type": "Organization",
+      "full_name": "Grueby Faience Company",
+      "cited_name": "Grueby Faience Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Composizione",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "pen and brown ink",
+  "accession_number": "2000.60.1",
+  "id": "cmoa:things/58336c38-61b7-4133-b1b5-579f669c6135",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2000-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 14.125,
+  "item_height": 12.25,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004107",
+  "provenance_text": "Private collection, Italy [1]; Margo Pollins Schab Inc., New York, NY by November 2000; purchased by Museum, December 2000.\n\nNotes:\n[1]. See correspondence with Margo Pollins Schab Inc in curatorial file. The 1977 publication by Franco Russoli and Massimo Carrà \"Carrà Disegni\" (no.25) lists the location as \"coll. non conosciuta\" or \"unknown collection.\"",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbcdf41e-10e4-412d-a172-cb5c0c4a4fdb",
+      "party_type": "Person",
+      "full_name": "Carlo Carrà",
+      "cited_name": "Carrà, Carlo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1881-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": " Alessandria (Alessandria province, Piedmont, Italy)",
+      "death_place": " Milan (Milano province, Lombardy, Italy)"
+    }
+  ]
+}

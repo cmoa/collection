@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1960",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "stoneware",
+  "accession_number": "1996.58",
+  "id": "cmoa:things/e5c23eb6-85dd-4c13-ae65-cd04a2803ed5",
+  "credit_line": "Gift of Sam and Debbie Berkovitz in honor of Phillip M. Johnston",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.875,
+  "item_depth": 0.0,
+  "item_diameter": 4.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002222",
+  "provenance_text": "Gift of Sam and Debbie Berkovitz, Pittsburgh, PA, 1996.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1086&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d581f2e3-b0f3-4486-a203-04b045625821",
+      "party_type": "Person",
+      "full_name": "Ruth Duckworth",
+      "cited_name": "Duckworth, Ruth",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1919-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Germany",
+      "death_place": "Chicago"
+    }
+  ]
+}

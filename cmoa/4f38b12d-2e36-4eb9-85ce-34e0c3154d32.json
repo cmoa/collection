@@ -1,0 +1,42 @@
+{
+  "title": "Cat",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.441",
+  "id": "cmoa:things/4f38b12d-2e36-4eb9-85ce-34e0c3154d32",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 22.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028222",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34192&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34193&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19cdc552-a303-4235-ab64-97b620db4993",
+      "party_type": "Person",
+      "full_name": "Inagaki Tomoo",
+      "cited_name": "Inagaki Tomoo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

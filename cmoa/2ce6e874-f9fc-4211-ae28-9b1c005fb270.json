@@ -1,0 +1,39 @@
+{
+  "title": "Sailing",
+  "creation_date": "1911",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.43",
+  "id": "cmoa:things/2ce6e874-f9fc-4211-ae28-9b1c005fb270",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal in honor of the Sarah Scaife Gallery",
+  "date_acquired": "1972-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 29.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016431",
+  "provenance_text": "Edward Hopper [1882-1967], New York, NY, until 1913; purchased by Thomas F. Vietor, Rumson, NJ, 1913 [1]. Henry E. Butler [1876-1947], Rumson, NJ, until 1947; Estate of Henry E. Butler; Edward A. Early, Rumson, NJ; Frank K. M. Rehn [1886-1956], New York, by April 21, 1952; Mrs. and Mrs. James H. Beal, Pittsburgh, April 21, 1952 until December 7, 1972 [2]; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, December 7, 1972. \nNOTES: [1] Purchased out of 1913 Armory Show [2] See letter from Mrs. James H. Beal to the Museum, dated December 10, 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e3ca211-2e74-4f4b-8e61-e7d5e12cacdd",
+      "party_type": "Person",
+      "full_name": "Edward Hopper",
+      "cited_name": "Hopper, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Nyack (Rockland county, New York state, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

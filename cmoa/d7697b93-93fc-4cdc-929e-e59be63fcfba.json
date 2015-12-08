@@ -1,0 +1,39 @@
+{
+  "title": "Saint Jerome",
+  "creation_date": "c. 1630-1631",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "etching",
+  "accession_number": "1999.53",
+  "id": "cmoa:things/d7697b93-93fc-4cdc-929e-e59be63fcfba",
+  "credit_line": "Purchase: Charles J. Rosenebloom Fund and gift of Dr. and Mrs.Tor Richter",
+  "date_acquired": "1999-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003928",
+  "provenance_text": "James D. Bergquist, Newton, MA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5ca40fc6-1e1d-4739-83ec-1c8f788b6d34",
+      "party_type": "Person",
+      "full_name": "Jan Lievens",
+      "cited_name": "Lievens, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1607-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

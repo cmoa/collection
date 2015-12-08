@@ -1,0 +1,51 @@
+{
+  "title": "Poem 81, Butterfly",
+  "creation_date": "1948, memorial edition 1959",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1128",
+  "id": "cmoa:things/69a26894-edff-40c0-a18e-445dd00f0a24",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 23.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026891",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Charles E. Tuttle Company, Rutland, VT and Tokyo, Japan;  4/26/1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32664&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfd0d5c4-1cbd-4f25-8de2-1b62297fd4c7",
+      "party_type": "Person",
+      "full_name": "Onchi Kôshirô",
+      "cited_name": "Onchi Kôshirô",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d0e0f915-bebd-4c4e-89b8-431f97395cf2",
+      "party_type": "Person",
+      "full_name": "Hirai Koichi",
+      "cited_name": "Hirai Koichi",
+      "role": "printer",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

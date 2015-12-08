@@ -1,0 +1,39 @@
+{
+  "title": "Rakanbutsu",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1244",
+  "id": "cmoa:things/f97607b1-1430-4702-b6c8-88155766ba6f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027033",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 10/5/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7fc4ae83-053a-4125-8357-c1d7121851c3",
+      "party_type": "Person",
+      "full_name": "Shimozawa Kihachirô",
+      "cited_name": "Shimozawa Kihachirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1901-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

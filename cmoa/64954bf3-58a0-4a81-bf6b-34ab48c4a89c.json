@@ -1,0 +1,37 @@
+{
+  "title": "a - f",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "silver-dye bleach print (Cibachrome)",
+  "accession_number": "93.151.2",
+  "id": "cmoa:things/64954bf3-58a0-4a81-bf6b-34ab48c4a89c",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1993-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.25,
+  "item_height": 80.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032988",
+  "provenance_text": "Tajna Grunert, Germany, Koln",
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c92668e-54ef-435d-b196-0cbc0ea86e9e",
+      "party_type": "Person",
+      "full_name": "Thomas Locher",
+      "cited_name": "Locher, Thomas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": "Munderkingen (Tübingen district, Baden-Württemberg, Germany)",
+      "death_place": null
+    }
+  ]
+}

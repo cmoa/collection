@@ -1,0 +1,51 @@
+{
+  "title": "Comb",
+  "creation_date": "c. 1920s",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "Ivory",
+  "accession_number": "93.169.79",
+  "id": "cmoa:things/c754d9d3-40f4-4418-9c88-aead3813e028",
+  "credit_line": "Bishop Walter H. Overs Collection: gift of Dr. Helen Overs, Dr. Robert Overs and Gareth Griffiths",
+  "date_acquired": "1993-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 8.938,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033143",
+  "provenance_text": "Gift of Dr. Helen Overs, Dr. Robert Overs and Gareth Griffiths, Chautaqua, NY, 1993.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1812&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/78df5044-341b-45c8-b789-a5abe05fe382",
+      "party_type": "Person",
+      "full_name": "unknown Nigerian",
+      "cited_name": "unknown Nigerian",
+      "role": null,
+      "nationality": "Nigerian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/de1560b2-aac3-4794-a66e-5cc392852769",
+      "party_type": "Person",
+      "full_name": "unknown Liberian",
+      "cited_name": "unknown Liberian",
+      "role": null,
+      "nationality": "Liberian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

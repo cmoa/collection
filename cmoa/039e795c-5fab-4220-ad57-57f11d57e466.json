@@ -1,0 +1,51 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1769",
+  "creation_date_earliest": "1769-01-01",
+  "creation_date_latest": "1769-01-01",
+  "medium": "silver with wooden handle",
+  "accession_number": "82.40.4",
+  "id": "cmoa:things/039e795c-5fab-4220-ad57-57f11d57e466",
+  "credit_line": "Gift of Mr. and Mrs. Alan G. Lehman",
+  "date_acquired": "1982-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 13.125,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022956",
+  "provenance_text": "Mr. And Mrs. Alan G. Lehman, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ce78afe-fd32-405b-980a-4276bee7f26d",
+      "party_type": "Person",
+      "full_name": "Daniel Smith",
+      "cited_name": "Smith, Daniel",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1757-01-01",
+      "death_date": "1803-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6c25938a-a543-4fa1-a8e7-3f4e1fc1bc07",
+      "party_type": "Person",
+      "full_name": "Robert Sharp",
+      "cited_name": "Sharp, Robert",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1753-01-01",
+      "death_date": "1786-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Shepherd's Meal",
+  "creation_date": "c. 1793",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.22",
+  "id": "cmoa:things/3a8a70a3-899b-4392-9ec6-f30241d55cf8",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.875,
+  "item_height": 36.125,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017411",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38140&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

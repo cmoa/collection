@@ -1,0 +1,51 @@
+{
+  "title": "James Fillans and His Two Daughters",
+  "creation_date": "c. 1845",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "salt print",
+  "accession_number": "74.42.17",
+  "id": "cmoa:things/8d730158-6b87-4d8a-ad3e-9ab7ce3a2901",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.312,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017013",
+  "provenance_text": "The 831 Gallery, Birmingham, Mich",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fcdc181a-0723-44af-b033-a79468120477",
+      "party_type": "Person",
+      "full_name": "David Octavius Hill",
+      "cited_name": "Hill, David O.",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1802-01-01",
+      "death_date": "1870-01-01",
+      "birth_place": " Perth (Perth and Kinross, Scotland, United Kingdom)",
+      "death_place": " Edinburgh (Edinburgh, Scotland, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/fed97202-054d-4da9-bcac-98961a69cfa6",
+      "party_type": "Person",
+      "full_name": "Robert Adamson",
+      "cited_name": "Adamson, Robert",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1821-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": " Scotland (United Kingdom)",
+      "death_place": " Saint Andrews (Fife, Scotland, United Kingdom)"
+    }
+  ]
+}

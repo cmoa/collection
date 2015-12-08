@@ -1,0 +1,39 @@
+{
+  "title": "Punch Bowl",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "porcelain",
+  "accession_number": "94.61",
+  "id": "cmoa:things/65f0e3c4-3965-4fac-b98c-953e3cab69bf",
+  "credit_line": "Bequest of James A. Drain",
+  "date_acquired": "1994-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 13.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035218",
+  "provenance_text": "Bequest of James A. Drain, 1994.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2586&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Tarquin and Lucretia",
+  "creation_date": "c. 1600",
+  "creation_date_earliest": "1585-01-01",
+  "creation_date_latest": "1615-01-01",
+  "medium": "bronze",
+  "accession_number": "58.25.28",
+  "id": "cmoa:things/bb5475eb-539b-42ec-8fa8-e9be93e18b89",
+  "credit_line": "Gift of Baroness Cassel Van Doorn",
+  "date_acquired": "1958-11-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010726",
+  "provenance_text": "Baroness Cassel Van Doorn",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135652&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135653&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135657&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0df37832-b589-40d4-81de-f325dfe8a24e",
+      "party_type": "Person",
+      "full_name": "Hubert Gerhard",
+      "cited_name": "Gerhard, Hubert",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1540-01-01",
+      "death_date": "1620-01-01",
+      "birth_place": "s Hertogenbosch (North Brabant, Netherlands)",
+      "death_place": "Munich (Oberbayern, Bavaria, Germany)"
+    }
+  ]
+}

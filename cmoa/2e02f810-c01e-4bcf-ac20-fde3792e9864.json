@@ -1,0 +1,39 @@
+{
+  "title": "Lion Snapping at a Butterfly",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "92.31.1",
+  "id": "cmoa:things/2e02f810-c01e-4bcf-ac20-fde3792e9864",
+  "credit_line": "Gift of the Thomas H. Nimick, Jr. Family in memory of Florence Lockhart Nimick",
+  "date_acquired": "1992-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.5,
+  "item_height": 23.5,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032117",
+  "provenance_text": "Jean-Léon Gérôme [1824-1904], Paris, France. Charles Lockhart [1818-1905], Pittsburgh, PA, until January 26, 1905; by descent to his great-granddaughter, Florence Dilworth Lockhart Nimick (1934-1981), Ligonier, PA and Pittsburgh, PA until May 1981 [1]; her husband, Thomas Howe Nimick, Jr. (1923-2007), Ligonier, PA and Pittsburgh, PA; gift to Museum, October 1992.\n\nNotes:\n[1]. Mrs. Nimick's father was Charles Lockhart, whose father was James Henry Lockhart (died May 16, 1938), son of Charles Lockhart, the Pittsburgh family's patriarch.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20526&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d5cac92-d4af-4ce3-bcd3-5c1e77e637d5",
+      "party_type": "Person",
+      "full_name": "Jean-Léon Gérôme",
+      "cited_name": "Gérôme, Jean-Léon",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": " Vesoul (Haute-Saône, Franche-Comté, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

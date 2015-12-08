@@ -1,0 +1,39 @@
+{
+  "title": "Montage",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "playing cards on paper",
+  "accession_number": "2002.32.7",
+  "id": "cmoa:things/68cbc96b-87f1-43da-89d5-e402b76361b0",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.75,
+  "item_height": 23.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=366",
+  "provenance_text": null,
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48328&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7dcaf44d-ff3b-457f-99f3-452e57bcda58",
+      "party_type": "Person",
+      "full_name": "Charles Green Shaw",
+      "cited_name": "Shaw, Charles G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": "New York, NY",
+      "death_place": "New York, NY"
+    }
+  ]
+}

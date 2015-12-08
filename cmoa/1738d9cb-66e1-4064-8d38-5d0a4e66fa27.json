@@ -1,0 +1,39 @@
+{
+  "title": "Box",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "acid cut blown glass",
+  "accession_number": "71.2.A-B",
+  "id": "cmoa:things/1738d9cb-66e1-4064-8d38-5d0a4e66fa27",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Seward Prosser Mellon Funds",
+  "date_acquired": "1971-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.75,
+  "item_height": 3.0,
+  "item_depth": 5.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016154",
+  "provenance_text": "Lillian Nassau, Ltd., NY, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd94e272-99b3-4b69-961a-3598c849efb4",
+      "party_type": "Person",
+      "full_name": "Auguste Legras",
+      "cited_name": "Legras, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1817-01-01",
+      "death_date": "1887-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

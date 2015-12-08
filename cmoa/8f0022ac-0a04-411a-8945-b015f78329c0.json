@@ -1,0 +1,39 @@
+{
+  "title": "Tsurugizan - Morning",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1481",
+  "id": "cmoa:things/8f0022ac-0a04-411a-8945-b015f78329c0",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027404",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34912&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17eb67da-ba1a-468e-bbde-a229aa800c75",
+      "party_type": "Person",
+      "full_name": "Yoshida Hiroshi",
+      "cited_name": "Yoshida Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1876-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Kurume, Kyushu",
+      "death_place": null
+    }
+  ]
+}

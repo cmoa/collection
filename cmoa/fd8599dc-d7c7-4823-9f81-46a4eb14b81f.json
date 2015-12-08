@@ -1,0 +1,39 @@
+{
+  "title": "Tea Bowl",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "stoneware, probably takatori ware",
+  "accession_number": "88.44.3",
+  "id": "cmoa:things/fd8599dc-d7c7-4823-9f81-46a4eb14b81f",
+  "credit_line": "Gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1989-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.188,
+  "item_height": 3.25,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026563",
+  "provenance_text": "Gift of John Baird Hudson and the Hudson Conservancy, New York, NY, 1989.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2226&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

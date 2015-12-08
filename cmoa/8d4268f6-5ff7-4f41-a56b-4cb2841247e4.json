@@ -1,0 +1,39 @@
+{
+  "title": "Hexagonal lidded jar",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "stoneware",
+  "accession_number": "1996.7.A-B",
+  "id": "cmoa:things/8d4268f6-5ff7-4f41-a56b-4cb2841247e4",
+  "credit_line": "Purchase: gift of Peter G. Veeder and James M. Veeder, Jr., by exchange",
+  "date_acquired": "1996-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.563,
+  "item_height": 6.562,
+  "item_depth": 8.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002829",
+  "provenance_text": "The Clay Place Gallery, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3105&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36795b70-1548-413f-8d4c-e9c4c2e54f92",
+      "party_type": "Person",
+      "full_name": "Warren MacKenzie",
+      "cited_name": "MacKenzie, Warren",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Kansas City, Missouri",
+      "death_place": null
+    }
+  ]
+}

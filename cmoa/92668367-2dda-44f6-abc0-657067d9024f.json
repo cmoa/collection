@@ -1,0 +1,39 @@
+{
+  "title": "Mnemosyne",
+  "creation_date": "2011",
+  "creation_date_earliest": "2011-01-01",
+  "creation_date_latest": "2011-01-01",
+  "medium": "nylon with mineral soft coating, and USB memory stick",
+  "accession_number": "2013.4",
+  "id": "cmoa:things/92668367-2dda-44f6-abc0-657067d9024f",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2013-02-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 5.75,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100665",
+  "provenance_text": null,
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118845&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ddb60059-09b6-457d-a8fa-cfe25e1678a3",
+      "party_type": "Person",
+      "full_name": "Michael Eden",
+      "cited_name": "Eden, Michael",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

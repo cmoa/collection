@@ -1,0 +1,39 @@
+{
+  "title": "Le Cerisier de la Plante-à-Biau (The Cherry Tree at La Plante-à-Biau)",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "Cliché-verre on paper",
+  "accession_number": "22.11.39",
+  "id": "cmoa:things/03a9f60f-f594-4db0-afcc-a1b02320103b",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-11-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004693",
+  "provenance_text": "Weyhe Gallery, 794 Lexington Avenue, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52cbb6be-9abf-42f8-91ff-4f836a0728db",
+      "party_type": "Person",
+      "full_name": "Theodore Rousseau",
+      "cited_name": "Rousseau, Theodore",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1812-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Barbizon (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

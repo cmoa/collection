@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "dyed citrus",
+  "accession_number": "2010.68",
+  "id": "cmoa:things/1c715211-380f-4066-a6db-94d9a602819c",
+  "credit_line": "Gift of Doris and Harry Wolin",
+  "date_acquired": "2011-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 9.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91969",
+  "provenance_text": "Doris and Harry Wolin Collection, Evanston, IL 2000 - 2010\npurchased from the artist at the American Association of Woodturners meeting, St. Paul, MN, July 2001",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104549&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fc1c80a-5ff2-4194-8711-0fa6f618d233",
+      "party_type": "Person",
+      "full_name": "J. Paul Fennell",
+      "cited_name": "Fennell, J. Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

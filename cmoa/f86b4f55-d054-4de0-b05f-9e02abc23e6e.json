@@ -1,0 +1,42 @@
+{
+  "title": "Rue du Gros Horloge, Rouen",
+  "creation_date": "1824",
+  "creation_date_earliest": "1824-01-01",
+  "creation_date_latest": "1824-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "24.4.17",
+  "id": "cmoa:things/f86b4f55-d054-4de0-b05f-9e02abc23e6e",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1924-03-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005107",
+  "provenance_text": "Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110588&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110587&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c75faeb9-ad8b-4010-b49c-ee13d027397e",
+      "party_type": "Person",
+      "full_name": "Richard  Parkes Bonington",
+      "cited_name": "Bonington, Richard  Parkes",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1801-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": " Arnold (Nottinghamshire, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

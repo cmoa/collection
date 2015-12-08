@@ -1,0 +1,39 @@
+{
+  "title": "Successful Old Man",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "pencil and wash on paper",
+  "accession_number": "2011.71.6",
+  "id": "cmoa:things/29c8837d-6502-49da-9392-af1680479a9c",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.75,
+  "item_height": 25.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98227",
+  "provenance_text": "Gift of Carol and Herbert Diamond, 2012.\nTBF 10/29/14",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113864&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fe5d44d-b669-4885-8fc2-b49b42f777fa",
+      "party_type": "Person",
+      "full_name": "Philip Evergood",
+      "cited_name": "Evergood, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "Bridgewater (Litchfield county, Connecticut, United States)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Wadi Al Sail Villa, Doha, Qatar",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "styrofoam, plaster, painted cardboard, glue",
+  "accession_number": "2013.66",
+  "id": "cmoa:things/639cda22-4a56-427d-a356-e958c7e25c53",
+  "credit_line": "Gift of Kathryn Findlay",
+  "date_acquired": "2013-12-12",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 55.0,
+  "item_height": 18.0,
+  "item_depth": 45.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103294",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127575&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127578&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127587&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127603&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127606&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/37904d67-a2e7-4c40-85c7-47746ddab0a3",
+      "party_type": "Person",
+      "full_name": "Kathryn Findlay",
+      "cited_name": "Findlay, Kathryn",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1954-01-01",
+      "death_date": "2014-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4219b613-a991-4822-8437-66d8432d3151",
+      "party_type": "Organization",
+      "full_name": "Ushida Findlay Architects",
+      "cited_name": "Ushida Findlay Architects",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "2004-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

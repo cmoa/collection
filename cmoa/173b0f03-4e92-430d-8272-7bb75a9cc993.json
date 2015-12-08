@@ -1,0 +1,39 @@
+{
+  "title": "Le Roi de La Faim",
+  "creation_date": null,
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "metal",
+  "accession_number": "58.60",
+  "id": "cmoa:things/173b0f03-4e92-430d-8272-7bb75a9cc993",
+  "credit_line": "Charles J. Rosenbloom Purchase Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 18.125,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010898",
+  "provenance_text": "Galerie de France, Paris",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ee6f617-a900-42d0-8de4-8a88c7f4241a",
+      "party_type": "Person",
+      "full_name": "Robert Jacobsen",
+      "cited_name": "Jacobsen, Robert",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1912-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Copenhagen (København commune, Denmark)",
+      "death_place": "Tagelund"
+    }
+  ]
+}

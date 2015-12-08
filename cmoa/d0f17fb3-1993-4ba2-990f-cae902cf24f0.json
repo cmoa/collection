@@ -1,0 +1,51 @@
+{
+  "title": "Formosa1140 Layering Study Concept Model",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "mixed media",
+  "accession_number": "2014.67.1",
+  "id": "cmoa:things/d0f17fb3-1993-4ba2-990f-cae902cf24f0",
+  "credit_line": "Gift of Lorcan O'Herlihy",
+  "date_acquired": "2014-10-30",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 5.875,
+  "item_height": 10.5,
+  "item_depth": 28.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=105949",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/906ec141-c437-4289-a036-7cc90125f213",
+      "party_type": "Person",
+      "full_name": "Lorcan O'Herlihy",
+      "cited_name": "O'Herlihy, Lorcan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8ae8d440-a822-4c47-bd74-c002b7415237",
+      "party_type": "Organization",
+      "full_name": "Lorcan O'Herlihy Architects",
+      "cited_name": "Lorcan O'Herlihy Architects",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1990-01-01",
+      "death_date": null,
+      "birth_place": "Culver City (Los Angeles county, California, United States)",
+      "death_place": null
+    }
+  ]
+}

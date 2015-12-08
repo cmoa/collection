@@ -1,0 +1,39 @@
+{
+  "title": "The Martyrs of Japan",
+  "creation_date": "c. 1627",
+  "creation_date_earliest": "1612-01-01",
+  "creation_date_latest": "1642-01-01",
+  "medium": "engraving",
+  "accession_number": "78.39.1",
+  "id": "cmoa:things/1ec64794-a531-48a1-a797-949a32a74b33",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020042",
+  "provenance_text": "James A. Berquist, Boston, MA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94789&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5d1f6cf-c279-4236-872c-4491137f586e",
+      "party_type": "Person",
+      "full_name": "Jacques Callot",
+      "cited_name": "Callot, Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1592-01-01",
+      "death_date": "1635-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)"
+    }
+  ]
+}

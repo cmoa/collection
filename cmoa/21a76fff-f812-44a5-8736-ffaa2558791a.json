@@ -1,0 +1,42 @@
+{
+  "title": "Medal (the American Academy of Arts and Letters)",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "bronze",
+  "accession_number": "78.34.4",
+  "id": "cmoa:things/21a76fff-f812-44a5-8736-ffaa2558791a",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.188,
+  "item_depth": 0.0,
+  "item_diameter": 2.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019982",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5112&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5113&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f93a314-30e5-4e0e-9796-9a77fa244ee7",
+      "party_type": "Person",
+      "full_name": "James Earle Fraser",
+      "cited_name": "Fraser, James E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

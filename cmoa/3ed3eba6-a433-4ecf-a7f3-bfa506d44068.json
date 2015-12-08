@@ -1,0 +1,39 @@
+{
+  "title": "Promised Land",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "steel office cabinets, car hoods, sheet metal, and clothing",
+  "accession_number": "85.57",
+  "id": "cmoa:things/3ed3eba6-a433-4ecf-a7f3-bfa506d44068",
+  "credit_line": "Mrs. George Liggett Craig, Jr. Fund",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 155.0,
+  "item_height": 181.438,
+  "item_depth": 27.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025702",
+  "provenance_text": "Bill Woodrow and Local Merchants",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25081&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/722e5480-4780-4773-bf71-b230aede1599",
+      "party_type": "Person",
+      "full_name": "Bill Woodrow",
+      "cited_name": "Woodrow, Bill",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Henley, Oxforshire, UK",
+      "death_place": null
+    }
+  ]
+}

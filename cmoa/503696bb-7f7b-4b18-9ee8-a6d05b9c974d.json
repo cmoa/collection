@@ -1,0 +1,63 @@
+{
+  "title": "Armchair",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "metal, nylon, and paint",
+  "accession_number": "2005.57",
+  "id": "cmoa:things/503696bb-7f7b-4b18-9ee8-a6d05b9c974d",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2005-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 32.0,
+  "item_height": 35.0,
+  "item_depth": 33.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16218",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06f9ef23-50f5-448d-ac8b-a1c1b154539d",
+      "party_type": "Person",
+      "full_name": "Luciano Grassi",
+      "cited_name": "Grassi, Luciano",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a60d07ac-cdb0-4e23-a272-3e6161ee13ee",
+      "party_type": "Person",
+      "full_name": "Sergio Conti",
+      "cited_name": "Conti, Sergio",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f4816a37-1297-4245-80d5-4879cd0df548",
+      "party_type": "Person",
+      "full_name": "Marisa Forlani",
+      "cited_name": "Forlani, Marisa",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

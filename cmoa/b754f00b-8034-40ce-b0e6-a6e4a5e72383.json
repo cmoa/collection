@@ -1,0 +1,60 @@
+{
+  "title": "Chamber candlestick",
+  "creation_date": "c. 1882",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "electroplated brass and Makassar ebony",
+  "accession_number": "2010.64.A-.B",
+  "id": "cmoa:things/b754f00b-8034-40ce-b0e6-a6e4a5e72383",
+  "credit_line": "Anonymous gift in memory of Walter E. Stait",
+  "date_acquired": "2011-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.125,
+  "item_depth": 0.0,
+  "item_diameter": 5.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92807",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103987&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103809&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103810&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111924&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/64fe5c1f-3d48-450a-a10b-f56b6b9701ff",
+      "party_type": "Organization",
+      "full_name": "Hukin & Heath",
+      "cited_name": "Hukin & Heath",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1855-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

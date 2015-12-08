@@ -1,0 +1,39 @@
+{
+  "title": "L'Abreuvoir au Pont Marie",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "etching",
+  "accession_number": "18.36.1",
+  "id": "cmoa:things/52751513-c5f3-4230-ac34-f309427a8aa6",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001802",
+  "provenance_text": "George Busse",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111025&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12214363-c054-4bce-8883-26046f05323b",
+      "party_type": "Person",
+      "full_name": "Auguste Lepère",
+      "cited_name": "Lepère, Auguste L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Domme, France"
+    }
+  ]
+}

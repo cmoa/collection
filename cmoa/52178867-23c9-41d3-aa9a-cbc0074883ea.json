@@ -1,0 +1,39 @@
+{
+  "title": "Short Tulips",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.31",
+  "id": "cmoa:things/52178867-23c9-41d3-aa9a-cbc0074883ea",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 13.313,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91916",
+  "provenance_text": "Marcia Rosenthal Fine Arts, Pittsburgh donation to Silver Eye Center for Photography 2010 auction",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100658&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/81aa1078-6a30-4ddc-b47f-904dcd9b648d",
+      "party_type": "Person",
+      "full_name": "Lilo Raymond",
+      "cited_name": "Raymond, Lilo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Germany (Europe)",
+      "death_place": "United States"
+    }
+  ]
+}

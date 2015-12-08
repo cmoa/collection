@@ -1,0 +1,47 @@
+{
+  "title": "[exercise]",
+  "creation_date": "c. 1990",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "94.189.6",
+  "id": "cmoa:things/5d75e232-d167-4dbc-8fa7-9ddb8ebb6787",
+  "credit_line": "Gift of Claire Gallagher",
+  "date_acquired": "1994-09-22",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034565",
+  "provenance_text": "Claire Gallagher, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d5413e55-fe38-463c-9172-0fde4bc71c7e",
+      "party_type": "Person",
+      "full_name": "Claire Gallagher",
+      "cited_name": "Gallagher, Claire",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

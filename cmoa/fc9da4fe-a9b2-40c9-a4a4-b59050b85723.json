@@ -1,0 +1,39 @@
+{
+  "title": "Marjorie Abbott",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "platinum print",
+  "accession_number": "2007.51.4",
+  "id": "cmoa:things/fc9da4fe-a9b2-40c9-a4a4-b59050b85723",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48737",
+  "provenance_text": "Acquired by Mr. Geroge Ebbs from Christie's on 05/04/1987 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55989&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fe3304f-74c8-42d4-a9e9-032b62cae9cf",
+      "party_type": "Person",
+      "full_name": "C. Yarnall Abbott",
+      "cited_name": "Abbott, C. Yarnall",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

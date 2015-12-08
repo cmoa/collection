@@ -1,0 +1,39 @@
+{
+  "title": "Lamaist Priest",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "bronze",
+  "accession_number": "54.9.9.A-B",
+  "id": "cmoa:things/3a9226f2-d1e3-4557-8bb0-44caff84a6ac",
+  "credit_line": "Gift of Allan Gerdau",
+  "date_acquired": "1954-03-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 3.75,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009361",
+  "provenance_text": "Allan Gerdau",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4179&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4c17c4e-f451-46ba-9a72-e6acf6c2a8b2",
+      "party_type": "Person",
+      "full_name": "unknown Tibetan",
+      "cited_name": "unknown Tibetan",
+      "role": null,
+      "nationality": "Tibetan",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

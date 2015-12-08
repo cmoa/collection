@@ -1,0 +1,39 @@
+{
+  "title": "William Pitt, First Earl of Chatham",
+  "creation_date": "1756",
+  "creation_date_earliest": "1756-01-01",
+  "creation_date_latest": "1756-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "09.1",
+  "id": "cmoa:things/dbd5670a-cf6c-4c85-8181-e6ebb8621e84",
+  "credit_line": "Gift of George Lauder",
+  "date_acquired": "1909-01-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 39.5,
+  "item_height": 49.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000367",
+  "provenance_text": "George Lauder, until 1909; gift to Museum, January 13, 1909.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13818&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/159592c7-a0ee-41d7-a4df-7c8a799654d4",
+      "party_type": "Person",
+      "full_name": "William Hoare",
+      "cited_name": "Hoare, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1706-01-01",
+      "death_date": "1792-01-01",
+      "birth_place": " Eye (Suffolk, England, United Kingdom)",
+      "death_place": " Bath (Bath and Northeast Somerset, England, United Kingdom)"
+    }
+  ]
+}

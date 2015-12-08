@@ -1,0 +1,39 @@
+{
+  "title": "Amida Buddha",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1349",
+  "id": "cmoa:things/f4b851b1-2d01-4ace-85f2-33fa20cefccd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 22.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027178",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105753&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d5a1bf0-7155-4c21-a241-2ac8c02a7d96",
+      "party_type": "Person",
+      "full_name": "Tokumoto",
+      "cited_name": "Tokumoto",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1700-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

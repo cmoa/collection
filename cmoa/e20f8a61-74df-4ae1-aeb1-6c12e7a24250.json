@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Miss Miller",
+  "creation_date": "1806",
+  "creation_date_earliest": "1806-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "watercolor on ivory; gold metal frame with enamel back enclosing a lock of hair",
+  "accession_number": "27.10.52",
+  "id": "cmoa:things/e20f8a61-74df-4ae1-aeb1-6c12e7a24250",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.688,
+  "item_height": 3.75,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005822",
+  "provenance_text": "Mrs. Henry B. Hollins, New York, NY [1]. (Sold at Metropolitan Art Galleries, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, January 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] This work was exhibited at the Royal Academy in 1806, according to documentation from Herbert DuPuy. Research in to this exhibition is ongoing.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73446&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73447&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69f79281-12af-4695-9385-cdf12954b3cf",
+      "party_type": "Person",
+      "full_name": "Horace Hone",
+      "cited_name": "Hone, Horace",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1754-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

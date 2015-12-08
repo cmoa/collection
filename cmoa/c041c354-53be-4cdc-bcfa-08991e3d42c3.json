@@ -1,0 +1,51 @@
+{
+  "title": "Bottle cooler",
+  "creation_date": "1781",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1781-01-01",
+  "medium": "soft paste porcelain, gilt",
+  "accession_number": "70.32.1411.1",
+  "id": "cmoa:things/c041c354-53be-4cdc-bcfa-08991e3d42c3",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 7.375,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013523",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c6f7bd8c-c222-4ea3-a8b8-e328614a643d",
+      "party_type": "Person",
+      "full_name": "Couturier",
+      "cited_name": "Couturier",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1730-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

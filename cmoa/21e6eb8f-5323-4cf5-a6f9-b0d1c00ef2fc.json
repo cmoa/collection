@@ -1,0 +1,42 @@
+{
+  "title": "Innocence Tormented by Love",
+  "creation_date": "1871",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1871-01-01",
+  "medium": "terracotta",
+  "accession_number": "2001.51",
+  "id": "cmoa:things/21e6eb8f-5323-4cf5-a6f9-b0d1c00ef2fc",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "2001-12-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 23.625,
+  "item_height": 57.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004370",
+  "provenance_text": "Private collection, Rouen; Charles Janoray, LLC, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2929&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56853&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2add1b49-1330-4fc4-9633-193835352e3f",
+      "party_type": "Person",
+      "full_name": "Albert-Ernest Carrier-Belleuse",
+      "cited_name": "Carrier-Belleuse, Albert-Ernest",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1887-01-01",
+      "birth_place": "Anizy-le-Château (Aisne, Picardy, France)",
+      "death_place": "Sèvres (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

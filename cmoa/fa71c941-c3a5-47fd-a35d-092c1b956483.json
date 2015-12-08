@@ -1,0 +1,42 @@
+{
+  "title": "Alexandre Dumas (Père)",
+  "creation_date": "1831",
+  "creation_date_earliest": "1831-01-01",
+  "creation_date_latest": "1831-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.2.8",
+  "id": "cmoa:things/fa71c941-c3a5-47fd-a35d-092c1b956483",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008713",
+  "provenance_text": "M. Knoedler & Co., New York, NY; purchased by Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, on March 2, 1925 until January 24, 1949 [1]; his gift to Museum, January 1949.\n\nNotes:\n[1]. Purchased for $72; see invoice dated March 2, 1925 (for purchases made on February 3, 1925) in curatorial file.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110946&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60b0fb0c-ef30-4301-8cf5-4710396aa0e4",
+      "party_type": "Person",
+      "full_name": "Achille Devéria",
+      "cited_name": "Devéria, Achille",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1800-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Lidded dish with liner",
+  "creation_date": "1800-1806",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2387.A-C",
+  "id": "cmoa:things/af33faed-2670-4ee1-a02f-d86527fdbcad",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.063,
+  "item_height": 5.5,
+  "item_depth": 9.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014593",
+  "provenance_text": "Ailsa Mellon Bruce, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5184&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/247af344-7b9c-44d8-9ef8-6c810eeb272c",
+      "party_type": "Person",
+      "full_name": "John Scofield",
+      "cited_name": "Scofield, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1778-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5cac1872-3269-4ba1-ae5f-ee39bd1b0ed1",
+      "party_type": "Person",
+      "full_name": "William Frisbee",
+      "cited_name": "Frisbee, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1801-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

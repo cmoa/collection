@@ -1,0 +1,51 @@
+{
+  "title": "Lingering Snow at Mount Shirane, Nikko (Nikkô Shiranesan zansetsu)",
+  "creation_date": "before 1936",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.218",
+  "id": "cmoa:things/4b7b9f83-6ad3-4d46-af3b-0b1b24ed22a4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 14.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027734",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32930&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0633a5da-a9e4-4858-8cb3-427d62eece8f",
+      "party_type": "Person",
+      "full_name": "Takahashi Hiroaki (Shôtei)",
+      "cited_name": "Takahashi Hiroaki (Shôtei)",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1871-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e8d2a186-5dcc-4c3a-802d-b953e33d9e16",
+      "party_type": "Person",
+      "full_name": "Watanabe Shôzaburô",
+      "cited_name": "Watanabe Shôzaburô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1885-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

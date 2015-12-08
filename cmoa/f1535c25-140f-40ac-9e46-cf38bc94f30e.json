@@ -1,0 +1,39 @@
+{
+  "title": "Compote",
+  "creation_date": "c. 1740-1745",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1750-01-01",
+  "medium": "porcelain",
+  "accession_number": "71.19",
+  "id": "cmoa:things/f1535c25-140f-40ac-9e46-cf38bc94f30e",
+  "credit_line": "Decorative Arts Purchase Fund: gift of Mrs. George Bart Berger, Jr. and Mrs. George S. Ebbert, Jr. in memory of their mother, Mrs. Thomas Childs Wurts",
+  "date_acquired": "1971-05-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.687,
+  "item_height": 11.125,
+  "item_depth": 6.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016128",
+  "provenance_text": "Parke Bernet Galleries, Inc., NY, New York, sale 3172, lot #221",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

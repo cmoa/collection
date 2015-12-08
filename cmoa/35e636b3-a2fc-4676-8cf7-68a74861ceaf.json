@@ -1,0 +1,39 @@
+{
+  "title": "Lost Persons/Pasadena",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "80.34.12",
+  "id": "cmoa:things/35e636b3-a2fc-4676-8cf7-68a74861ceaf",
+  "credit_line": "Gift of Mr. and Mrs. Eugene S. Cohen in honor of Leon Anthony Arkus",
+  "date_acquired": "1980-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 6.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021146",
+  "provenance_text": "Mr. And Mrs. Eugene S. Cohen, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103555&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66156b1f-704f-4f4a-8927-37224be77b7b",
+      "party_type": "Person",
+      "full_name": "Elliott Erwitt",
+      "cited_name": "Erwitt, Elliott",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Paris, France",
+      "death_place": null
+    }
+  ]
+}

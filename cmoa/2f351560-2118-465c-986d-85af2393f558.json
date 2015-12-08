@@ -1,0 +1,63 @@
+{
+  "title": "DF 2000 Sideboard",
+  "creation_date": "c. 1968",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "ABS plastic, painted aluminum, and fiberboard",
+  "accession_number": "2008.73.1",
+  "id": "cmoa:things/2f351560-2118-465c-986d-85af2393f558",
+  "credit_line": "Gift of Dr. Richard L. Simmons",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 78.5,
+  "item_height": 35.5,
+  "item_depth": 22.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=71915",
+  "provenance_text": null,
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116980&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ac129f4-31b8-45c5-a7e7-08656c36a2a5",
+      "party_type": "Person",
+      "full_name": "Raymond Loewy",
+      "cited_name": "Loewy, Raymond",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "France",
+      "death_place": "Monaco"
+    },
+    {
+      "artist_id": "cmoa:parties/2b662d1f-1a3f-4b4f-8987-cbdbcf08f33a",
+      "party_type": "Organization",
+      "full_name": "Compagnie de l'Esthétique Industrielle",
+      "cited_name": "Compagnie de l'Esthétique Industrielle",
+      "role": "design firm",
+      "nationality": "French",
+      "birth_date": "1952-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/00a82ac5-a226-43a7-b32d-1c4b108d79a3",
+      "party_type": "Organization",
+      "full_name": "Doubinski Frères",
+      "cited_name": "Doubinski Frères",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

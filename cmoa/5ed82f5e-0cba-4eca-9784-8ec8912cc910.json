@@ -1,0 +1,39 @@
+{
+  "title": "White Lilacs",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "93.189.20",
+  "id": "cmoa:things/5ed82f5e-0cba-4eca-9784-8ec8912cc910",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033262",
+  "provenance_text": "Robert Locher, Lancaster, Pa., by descent, 1935; Durlacher Brothers, New York, 1949; Mr. and Mrs. James H. Beal, Pittsburgh, 1954; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8435&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06aff35c-4cfd-48f3-a21c-c1b9e06a7aaa",
+      "party_type": "Person",
+      "full_name": "Charles Demuth",
+      "cited_name": "Demuth, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Lancaster, Pennsylvania",
+      "death_place": "Lancaster, Pennsylvania"
+    }
+  ]
+}

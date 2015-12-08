@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1767-1768",
+  "creation_date_earliest": "1767-01-01",
+  "creation_date_latest": "1768-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "77.67",
+  "id": "cmoa:things/b8ded7dc-5c08-44a0-a394-d2494a313470",
+  "credit_line": "Purchase: Ailsa Mellon Bruce Collection, by exchange",
+  "date_acquired": "1977-12-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 5.25,
+  "item_height": 11.938,
+  "item_depth": 8.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018998",
+  "provenance_text": "ex-coll:  General Francis Marion (Confederate general) known as \"Swamp Fox\"\nex-coll:  Edith Kane Baker, \"Viking's Cove,\" Locust Valley, New York -- (sold from Baker collection by Sotheby Park Bernet Inc., New York, Sale No. 4039, October 29, 1977, Lot 569 to Museum of Art, Carnegie Institute.)",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5210&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/531c3bba-b91c-41e9-a9fe-8c882f773d4d",
+      "party_type": "Organization",
+      "full_name": "Thomas Whipham and Charles Wright",
+      "cited_name": "Thomas Whipham and Charles Wright",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1757-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

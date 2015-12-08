@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1735",
+  "creation_date_earliest": "1730-01-01",
+  "creation_date_latest": "1740-01-01",
+  "medium": "Porcelain",
+  "accession_number": "23.10.22",
+  "id": "cmoa:things/d99c7c6c-d5f2-4bf1-890e-1cc4c4b58fc2",
+  "credit_line": "Gift of Reverend Alfred Duane Pell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.312,
+  "item_depth": 0.0,
+  "item_diameter": 8.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004795",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121206&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cucorongna and Pernovalla",
+  "creation_date": "1621",
+  "creation_date_earliest": "1621-01-01",
+  "creation_date_latest": "1621-01-01",
+  "medium": "etching",
+  "accession_number": "65.18.2.2",
+  "id": "cmoa:things/9835bdca-9b7f-4ef8-96cc-14791ffd9398",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011895",
+  "provenance_text": "William H. Schab, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94835&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5d1f6cf-c279-4236-872c-4491137f586e",
+      "party_type": "Person",
+      "full_name": "Jacques Callot",
+      "cited_name": "Callot, Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1592-01-01",
+      "death_date": "1635-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)"
+    }
+  ]
+}

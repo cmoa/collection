@@ -1,0 +1,39 @@
+{
+  "title": "Breaking up of the Agamemnon",
+  "creation_date": "1870",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "etching",
+  "accession_number": "16.38.1",
+  "id": "cmoa:things/09562606-a9dc-48ca-b93b-5b92f7caa9e1",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001267",
+  "provenance_text": "Arthur H. Hahlo and Company, New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105239&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

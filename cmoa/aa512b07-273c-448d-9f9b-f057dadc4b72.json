@@ -1,0 +1,39 @@
+{
+  "title": "Birth of the Rock",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "torn papers on cardboard",
+  "accession_number": "58.63",
+  "id": "cmoa:things/aa512b07-273c-448d-9f9b-f057dadc4b72",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.25,
+  "item_height": 29.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010901",
+  "provenance_text": "1958 Pittsburgh International",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71678606-2447-459d-addb-1e2975aa9664",
+      "party_type": "Person",
+      "full_name": "Jean Arp",
+      "cited_name": "Arp, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": " Basel (Basel-Stadt, Switzerland)"
+    }
+  ]
+}

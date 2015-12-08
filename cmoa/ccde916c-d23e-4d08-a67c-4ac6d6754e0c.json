@@ -1,0 +1,51 @@
+{
+  "title": "Cruet",
+  "creation_date": "c. mid- to late-19th century",
+  "creation_date_earliest": "1823-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.115.A-B",
+  "id": "cmoa:things/ccde916c-d23e-4d08-a67c-4ac6d6754e0c",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 6.625,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007728",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=923&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d5591a6-212d-4750-9f3d-c7b8e1a03f92",
+      "party_type": "Organization",
+      "full_name": "Boston & Sandwich Glass Co.",
+      "cited_name": "Boston & Sandwich Glass Co.",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": "1823-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/11384770-8a39-4b2f-a51c-38e279ceba1c",
+      "party_type": "Organization",
+      "full_name": "New England Glass Co.",
+      "cited_name": "New England Glass Co.",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": "1818-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

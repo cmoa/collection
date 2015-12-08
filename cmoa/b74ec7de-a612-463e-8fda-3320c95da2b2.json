@@ -1,0 +1,51 @@
+{
+  "title": "Tea Caddy",
+  "creation_date": "1775",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2377.A-.B",
+  "id": "cmoa:things/b74ec7de-a612-463e-8fda-3320c95da2b2",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.5,
+  "item_height": 7.062,
+  "item_depth": 3.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014581",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5004&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ce78afe-fd32-405b-980a-4276bee7f26d",
+      "party_type": "Person",
+      "full_name": "Daniel Smith",
+      "cited_name": "Smith, Daniel",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1757-01-01",
+      "death_date": "1803-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6c25938a-a543-4fa1-a8e7-3f4e1fc1bc07",
+      "party_type": "Person",
+      "full_name": "Robert Sharp",
+      "cited_name": "Sharp, Robert",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1753-01-01",
+      "death_date": "1786-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

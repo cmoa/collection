@@ -1,0 +1,39 @@
+{
+  "title": "Untitled No. 21 (Second Theme)",
+  "creation_date": "1943-1945",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.44",
+  "id": "cmoa:things/271eb1df-e385-43ba-b6a1-e4ac864e38f1",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1981-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 42.063,
+  "item_height": 42.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021887",
+  "provenance_text": "Burgoyne Diller [1906-1965], until 1965; (Noah Goldowsky Gallery, New York, by 1971); Private collection, Los Angeles; (Marilyn Pearl Gallery, New York, by 1981); purchased by Museum, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ddb863e-4a46-4741-840a-0a8a5349259b",
+      "party_type": "Person",
+      "full_name": "Burgoyne Diller",
+      "cited_name": "Diller, Burgoyne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "New York",
+      "death_place": "New York"
+    }
+  ]
+}

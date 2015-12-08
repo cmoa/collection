@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of William Morris Hunt",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "chine collé etching",
+  "accession_number": "82.27.2",
+  "id": "cmoa:things/e28a594f-1bc3-4293-aa47-6be6c5726505",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1982-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022309",
+  "provenance_text": "Rona Schneider, Brooklyn Heights, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72720&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4e5afaf4-8d1d-49ca-9e71-8bbfb43d50c4",
+      "party_type": "Person",
+      "full_name": "Charles A. Walker",
+      "cited_name": "Walker, Charles A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Loudon, NH",
+      "death_place": "Brookline, MA"
+    }
+  ]
+}

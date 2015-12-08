@@ -1,0 +1,39 @@
+{
+  "title": "Columbus Circle #3, New York",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2007.89.1",
+  "id": "cmoa:things/713e88cd-c5e7-4fb3-a283-52780c624f1f",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2008-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.625,
+  "item_height": 12.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48266",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=130464&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c54cb3c-a68c-447f-a6ab-4e6c8aea5f51",
+      "party_type": "Person",
+      "full_name": "Berenice Abbott",
+      "cited_name": "Abbott, Berenice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Springfield (Clark county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "War Bride",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.6",
+  "id": "cmoa:things/1d505fcc-3f81-4467-9a7c-78547c5f7e7e",
+  "credit_line": "Richard M. Scaife American Painting Fund and Paintings Acquisition Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 57.25,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023069",
+  "provenance_text": "Hirschl and Adler Galleries [1953-], New York, by 1982; purchased by Museum, 1982.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8053&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57281&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aba6c511-fbf6-4746-8e91-c4924992bf3d",
+      "party_type": "Person",
+      "full_name": "Clarence Holbrook Carter",
+      "cited_name": "Carter, Clarence H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Portsmouth (Scioto county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

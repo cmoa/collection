@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of M. Usquin",
+  "creation_date": "1861",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.8",
+  "id": "cmoa:things/6e705db0-fa5a-4f63-8ba2-921e59b0bdb6",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1960-02-08",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 18.25,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011349",
+  "provenance_text": "Usquin family, 1861 until 1912?. Marius de Zayas [1880-1961], New York, c, 1912? until 1920. Hillyer Art Gallery, Smith College, Northhampton, Massachusetts, 1920 until 1953; Vose Galleries, Boston, 1953; G. David Thompson, Pittsburgh, 1953 until 1959; gift to Museum, December 1959.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8036&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f560bec4-5767-407a-8cb2-0a6464e5d14d",
+      "party_type": "Person",
+      "full_name": "Jean-Desiré-Gustave Courbet",
+      "cited_name": "Courbet, Jean-Desiré-Gustave",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1819-01-01",
+      "death_date": "1877-01-01",
+      "birth_place": " Ornans (Doubs, Franche-Comté, France)",
+      "death_place": " La Tour-de-Peilz (Vaud, Switzerland)"
+    }
+  ]
+}

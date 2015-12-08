@@ -1,0 +1,39 @@
+{
+  "title": "Still Life: Books",
+  "creation_date": "1885",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "pencil",
+  "accession_number": "77.89.6",
+  "id": "cmoa:things/6b08b4b1-36de-4bae-9fed-829cf4518709",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1980-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019188",
+  "provenance_text": "James L. Winokur, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99183&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/216554a6-6fc4-4ad6-a4f8-f8c5b0df5892",
+      "party_type": "Person",
+      "full_name": "James Ensor",
+      "cited_name": "Ensor, James",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1860-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Ostend (West-Vlaanderen, Flanders, Belgium)",
+      "death_place": "Ostend (West-Vlaanderen, Flanders, Belgium)"
+    }
+  ]
+}

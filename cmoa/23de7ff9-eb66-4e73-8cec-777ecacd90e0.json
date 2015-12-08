@@ -1,0 +1,39 @@
+{
+  "title": "L'Homme Maudite",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on panel",
+  "accession_number": "81.26.6",
+  "id": "cmoa:things/23de7ff9-eb66-4e73-8cec-777ecacd90e0",
+  "credit_line": "Bequest of C. Hale Matthews III",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.375,
+  "item_height": 30.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021813",
+  "provenance_text": "Bequest of C. Hale Matthews III, New York, NY, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120985&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5edc50cd-ee84-4b89-be28-a12db24f5bac",
+      "party_type": "Person",
+      "full_name": "Enrico Brandani",
+      "cited_name": "Brandini, Enrico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1914-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

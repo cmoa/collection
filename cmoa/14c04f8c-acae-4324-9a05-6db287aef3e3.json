@@ -1,0 +1,42 @@
+{
+  "title": "Hammerer",
+  "creation_date": "c. 1886",
+  "creation_date_earliest": "1881-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "plaster",
+  "accession_number": "1998.64",
+  "id": "cmoa:things/14c04f8c-acae-4324-9a05-6db287aef3e3",
+  "credit_line": "Major Paintings Acquisition Fund and Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 23.0,
+  "item_height": 47.5,
+  "item_depth": 17.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003803",
+  "provenance_text": "Shepherd & Derom Galleries, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115929&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56871&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/936ed580-9003-4e7a-8128-b8e058603fbb",
+      "party_type": "Person",
+      "full_name": "Constantin Meunier",
+      "cited_name": "Meunier, Constantin",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1831-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "Etterbeek (Bruxelles region, Belgium)",
+      "death_place": "Ixelles (Bruxelles region, Belgium)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Chair",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "nickeled steel and upholstery",
+  "accession_number": "84.112.11",
+  "id": "cmoa:things/b03ac9be-b713-410f-9c69-d3cea7e91deb",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 40.5,
+  "item_height": 39.0,
+  "item_depth": 31.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024500",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0706e147-6239-4525-96bf-58c872f3dce7",
+      "party_type": "Person",
+      "full_name": "Warren Platner",
+      "cited_name": "Platner, Warren",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Baltimore, MD",
+      "death_place": "New Haven, CT"
+    },
+    {
+      "artist_id": "cmoa:parties/3535edaa-aef1-47a2-926f-75058d50c210",
+      "party_type": "Organization",
+      "full_name": "Knoll International",
+      "cited_name": "Knoll International",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

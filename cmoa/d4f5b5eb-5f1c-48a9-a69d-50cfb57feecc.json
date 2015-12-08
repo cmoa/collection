@@ -1,0 +1,39 @@
+{
+  "title": "A Harlot's Progress, Plate 2",
+  "creation_date": "1732",
+  "creation_date_earliest": "1732-01-01",
+  "creation_date_latest": "1732-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "57.44.2.2",
+  "id": "cmoa:things/d4f5b5eb-5f1c-48a9-a69d-50cfb57feecc",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1957-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010591",
+  "provenance_text": "P. & D. Colnaghi and Co., London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f38dd27-117c-4cb7-b786-3fbc71c6be07",
+      "party_type": "Person",
+      "full_name": "William Hogarth",
+      "cited_name": "Hogarth, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1697-01-01",
+      "death_date": "1764-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

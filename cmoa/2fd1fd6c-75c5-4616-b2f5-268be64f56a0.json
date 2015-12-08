@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "1835",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "Earthenware",
+  "accession_number": "85.54",
+  "id": "cmoa:things/2fd1fd6c-75c5-4616-b2f5-268be64f56a0",
+  "credit_line": "Gift of James Miller and Thomas Bedger",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.375,
+  "item_height": 7.25,
+  "item_depth": 6.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025695",
+  "provenance_text": "Toadflax, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

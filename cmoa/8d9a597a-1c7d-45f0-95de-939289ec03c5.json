@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Martin Birnbaum",
+  "creation_date": "before 1915",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "15.5",
+  "id": "cmoa:things/8d9a597a-1c7d-45f0-95de-939289ec03c5",
+  "credit_line": "Gift of Martin Birnbaum",
+  "date_acquired": "1915-05-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 19.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000983",
+  "provenance_text": "Martin Birnbaum",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78882&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1baeddc-f9cc-43d3-aaff-a9bc5397f112",
+      "party_type": "Person",
+      "full_name": "Albert E. Sterner",
+      "cited_name": "Sterner, Albert E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

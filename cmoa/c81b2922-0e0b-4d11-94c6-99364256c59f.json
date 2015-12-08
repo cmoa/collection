@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Edgar Munhall",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "platinum print",
+  "accession_number": "2006.44.11",
+  "id": "cmoa:things/c81b2922-0e0b-4d11-94c6-99364256c59f",
+  "credit_line": "Gift of Edgar Munhall",
+  "date_acquired": "2006-06-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26216",
+  "provenance_text": "Gifte of the artist's son and subject of portrait, Edgar Munhall.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38697&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38ebec90-cb10-4501-81bd-bb90f9c7866f",
+      "party_type": "Person",
+      "full_name": "Walter Munhall",
+      "cited_name": "Munhall, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

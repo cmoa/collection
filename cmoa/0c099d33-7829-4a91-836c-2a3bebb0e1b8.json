@@ -1,0 +1,51 @@
+{
+  "title": "Easy chair and ottoman (\"Little Beaver\")",
+  "creation_date": "1991 (produced 1987-91)",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "corrugated cardboard",
+  "accession_number": "91.22.A-B",
+  "id": "cmoa:things/0c099d33-7829-4a91-836c-2a3bebb0e1b8",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1991-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 33.5,
+  "item_height": 34.5,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029587",
+  "provenance_text": "Fred Hoffman Gallery, CA, Santa Monica",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6743&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c1023d5-e381-411f-bc5a-4c1c90ab7448",
+      "party_type": "Person",
+      "full_name": "Frank Gehry",
+      "cited_name": "Gehry, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Toronto, Canada",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0744eb1f-0f9d-44d9-8216-25b5a7b8ad94",
+      "party_type": "Organization",
+      "full_name": "New City Editions",
+      "cited_name": "New City Editions",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1984-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Pitcher",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "Silver",
+  "accession_number": "74.53",
+  "id": "cmoa:things/1a1537a2-4df8-4ab2-88cf-c7e437017d98",
+  "credit_line": "Gift of Elizabeth Marshall Thomas",
+  "date_acquired": "1974-12-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 10.125,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017072",
+  "provenance_text": "Elizabeth Marshall Thomas",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6131&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c2e5501-9a3c-4ec0-803d-bd3da87f4310",
+      "party_type": "Person",
+      "full_name": "William Christmas Codman",
+      "cited_name": "Codman, William Christmas",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1839-01-01",
+      "death_date": "1921-01-01",
+      "birth_place": "England",
+      "death_place": "America"
+    },
+    {
+      "artist_id": "cmoa:parties/36954423-4420-412e-9714-65aa64af1ea5",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Co., Martelé Division",
+      "cited_name": "Gorham Manufacturing Co., Martelé Division",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

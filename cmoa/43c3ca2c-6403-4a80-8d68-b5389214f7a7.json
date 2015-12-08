@@ -1,0 +1,51 @@
+{
+  "title": "Korea, Heijo Botandai",
+  "creation_date": "April 1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.8",
+  "id": "cmoa:things/43c3ca2c-6403-4a80-8d68-b5389214f7a7",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.438,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028768",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from C. H. Mitchell, Tokyo, Japan, 1970's.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34229&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68f804dc-682d-4642-94a4-7e363866b7bc",
+      "party_type": "Person",
+      "full_name": "Hiratsuka Un'ichi",
+      "cited_name": "Hiratsuka Un'ichi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Japan, Matsue",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

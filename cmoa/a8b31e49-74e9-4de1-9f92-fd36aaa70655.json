@@ -1,0 +1,39 @@
+{
+  "title": "My Family",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "23.4.2",
+  "id": "cmoa:things/a8b31e49-74e9-4de1-9f92-fd36aaa70655",
+  "credit_line": "Gift of George W. Bellows",
+  "date_acquired": "1923-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004992",
+  "provenance_text": "George W. Bellows",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100332&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59a4c986-b80e-4dfa-b25f-85c9f17b1428",
+      "party_type": "Person",
+      "full_name": "George Wesley Bellows",
+      "cited_name": "Bellows, George W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Columbus, OH",
+      "death_place": "New Yotk"
+    }
+  ]
+}

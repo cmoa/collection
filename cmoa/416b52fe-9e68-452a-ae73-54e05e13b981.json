@@ -1,0 +1,51 @@
+{
+  "title": "Pagoda at Nikko (Nikkô no tô)",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.856",
+  "id": "cmoa:things/416b52fe-9e68-452a-ae73-54e05e13b981",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 17.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029047",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34248&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b66a413-a559-45c7-a0bb-0cd0d1f66832",
+      "party_type": "Person",
+      "full_name": "Kotozuka Eiichi",
+      "cited_name": "Kotozuka Eiichi",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1906-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Osaka",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b04bddcc-afd8-431c-8b8a-db7186c4b89b",
+      "party_type": "Person",
+      "full_name": "Uchida",
+      "cited_name": "Uchida",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

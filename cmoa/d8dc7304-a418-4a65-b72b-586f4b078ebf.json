@@ -1,0 +1,39 @@
+{
+  "title": "Ariana's Salon",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2014.1",
+  "id": "cmoa:things/d8dc7304-a418-4a65-b72b-586f4b078ebf",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2014-02-13",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 65.0,
+  "item_height": 82.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103860",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128407&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e9f8881-3839-48ae-a159-5216aba65368",
+      "party_type": "Person",
+      "full_name": "Nicole Eisenman",
+      "cited_name": "Eisenman, Nicole",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Verdun-sur-Meuse (Meuse, Lorraine, France)",
+      "death_place": null
+    }
+  ]
+}

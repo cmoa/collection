@@ -1,0 +1,39 @@
+{
+  "title": "Flagon",
+  "creation_date": "1869-1870",
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "silver and glass",
+  "accession_number": "94.113",
+  "id": "cmoa:things/5f630717-c5fe-47d4-beb9-9b304ff11e59",
+  "credit_line": "Purchase: gift of Mrs. James H. Beal, Herbert DuPuy, Mrs. B.F. Jones III, Mrs. Virginia Hays Osburn, Mr. and Mrs. George Magee Wyckoff Mr. and Mrs. Frederick L. Cook in memory of Mr. and Mrs. George Magee Wyckoff, Mr. and Mrs. Barry Duffee, Jr., and Mr. and Mrs. George Magee Wyckoff, Jr.,by exchange",
+  "date_acquired": "1994-09-22",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033857",
+  "provenance_text": "Blairman's, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4864&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59773f34-4ffc-43fe-8dce-f792fb4b730c",
+      "party_type": "Organization",
+      "full_name": "John Hardman & Co.",
+      "cited_name": "Hardman, John & Co.",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1838-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

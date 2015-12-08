@@ -1,0 +1,51 @@
+{
+  "title": "Plaque",
+  "creation_date": "c. 1956",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "80.38",
+  "id": "cmoa:things/aa4b9b49-6546-4ec6-a4c4-397f666e728b",
+  "credit_line": "Gift of Mr. and Mrs. Donald C. Burnham",
+  "date_acquired": "1980-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 1.688,
+  "item_depth": 0.0,
+  "item_diameter": 16.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021163",
+  "provenance_text": "Gift of Mr. and Mrs. Donald C. Burnham, 1980.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4085&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": "designer",
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    },
+    {
+      "artist_id": "cmoa:parties/2d99cad1-8b8f-421d-8106-10c0c694370e",
+      "party_type": "Organization",
+      "full_name": "Madoura Pottery",
+      "cited_name": "Madoura Pottery",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1940-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

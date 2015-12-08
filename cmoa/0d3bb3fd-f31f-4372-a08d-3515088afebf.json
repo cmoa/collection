@@ -1,0 +1,49 @@
+{
+  "title": "Teacup and saucer",
+  "creation_date": "1930-1934",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "glass",
+  "accession_number": "1998.24.15.2.A-B",
+  "id": "cmoa:things/0d3bb3fd-f31f-4372-a08d-3515088afebf",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003647",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8fad3984-a169-4195-aa41-18ad9298ffc5",
+      "party_type": "Person",
+      "full_name": "Wilhelm Wagenfeld",
+      "cited_name": "Wagenfeld, Wilhelm",
+      "role": "Manufacturer",
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Bremen (Bremen state, Germany)",
+      "death_place": "Stuttgart (Stuttgart district, Baden-Württemberg, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/d6a3b295-3917-48bb-bf27-44f1277471d8",
+      "party_type": "Organization",
+      "full_name": "Schott Jenaer Glas GMBH",
+      "cited_name": "Schott Jenaer Glas GMBH",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1884-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

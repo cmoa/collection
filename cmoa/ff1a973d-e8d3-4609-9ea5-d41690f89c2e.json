@@ -1,0 +1,49 @@
+{
+  "title": "Running Fence",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "16mm film; color, sound; 62 min.",
+  "accession_number": "78.19",
+  "id": "cmoa:things/ff1a973d-e8d3-4609-9ea5-d41690f89c2e",
+  "credit_line": "Purchase: gift of Mr. and Mrs. James A. Fisher",
+  "date_acquired": "1978-05-11",
+  "department": "Film and Video",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019273",
+  "provenance_text": "Maysles Films, New York, NY",
+  "classification": "films",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d8d070b-cc55-4640-9f21-882509880962",
+      "party_type": "Person",
+      "full_name": "Albert Maysles",
+      "cited_name": "Maysles, Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "2015-03-05",
+      "birth_place": "Boston",
+      "death_place": "New York, NY, US"
+    },
+    {
+      "artist_id": "cmoa:parties/84e6069e-65e9-4700-81d9-ca34e3c846ee",
+      "party_type": "Person",
+      "full_name": "David Maysles",
+      "cited_name": "Maysles, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "New York"
+    }
+  ]
+}

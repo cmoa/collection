@@ -1,0 +1,42 @@
+{
+  "title": "Noah",
+  "creation_date": "2011",
+  "creation_date_earliest": "2011-01-01",
+  "creation_date_latest": "2011-01-01",
+  "medium": "Acrylic on canvas",
+  "accession_number": "2013.19",
+  "id": "cmoa:things/593516c5-6405-4504-9018-52ff85a65d2a",
+  "credit_line": "Gift of Nancy and Milton Washington",
+  "date_acquired": "2013-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 76.732,
+  "item_height": 96.457,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100381",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129100&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129106&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/564e23d6-e093-45c0-8774-304d4d713438",
+      "party_type": "Person",
+      "full_name": "Henry Taylor",
+      "cited_name": "Taylor, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Oxnard, California, United States of America",
+      "death_place": null
+    }
+  ]
+}

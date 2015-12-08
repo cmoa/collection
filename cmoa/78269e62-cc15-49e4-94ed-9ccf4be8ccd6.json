@@ -1,0 +1,49 @@
+{
+  "title": "George Washington",
+  "creation_date": "1801",
+  "creation_date_earliest": "1801-01-01",
+  "creation_date_latest": "1801-01-01",
+  "medium": "mezzotint",
+  "accession_number": "55.21.11",
+  "id": "cmoa:things/78269e62-cc15-49e4-94ed-9ccf4be8ccd6",
+  "credit_line": "Eavenson Fund",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 33.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009396",
+  "provenance_text": "Kennedy Galleries, Inc., NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7d96b59-1083-48ba-890d-56a836b43e20",
+      "party_type": "Person",
+      "full_name": "Edward Savage",
+      "cited_name": "Savage, Edward",
+      "role": "printmaker",
+      "nationality": "American",
+      "birth_date": "1761-01-01",
+      "death_date": "1817-01-01",
+      "birth_place": "Princeton, MA",
+      "death_place": "Princeton, MA"
+    },
+    {
+      "artist_id": "cmoa:parties/7c78e6af-3cb1-4aef-98fc-10513501df6d",
+      "party_type": "Person",
+      "full_name": "Gilbert Stuart",
+      "cited_name": "Stuart, Gilbert",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1755-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": "North Kingstown (Washington county, Rhode Island, United States)",
+      "death_place": "Boston (Suffolk county, Massachusetts, United States)"
+    }
+  ]
+}

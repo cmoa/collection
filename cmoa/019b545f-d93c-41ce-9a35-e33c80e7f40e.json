@@ -1,0 +1,39 @@
+{
+  "title": "Cat",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "screen print on paper",
+  "accession_number": "89.28.10",
+  "id": "cmoa:things/019b545f-d93c-41ce-9a35-e33c80e7f40e",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 22.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026854",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan; 5/29/1986.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34152&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74746124-bdf1-46b1-8e1e-75201567d1ba",
+      "party_type": "Person",
+      "full_name": "Ay-O",
+      "cited_name": "Ay-O",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Ibaraki prefecture (Kanto, Japan)",
+      "death_place": null
+    }
+  ]
+}

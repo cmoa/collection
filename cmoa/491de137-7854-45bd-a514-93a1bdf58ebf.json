@@ -1,0 +1,39 @@
+{
+  "title": "Beach at Trouville",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.30.1",
+  "id": "cmoa:things/491de137-7854-45bd-a514-93a1bdf58ebf",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife and family",
+  "date_acquired": "1965-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.75,
+  "item_height": 15.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011945",
+  "provenance_text": "Prevost Collection, Paris; David Rockefeller, New York; Sam Salz, Inc., New York; purchase by Museum, October 1965.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=152&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10546fd7-9bdd-4abe-894a-cd407fed41c9",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste-Camille Corot",
+      "cited_name": "Corot, Jean B.",
+      "role": "copy after",
+      "nationality": "French",
+      "birth_date": "1796-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Hindu Dancer",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "bronze",
+  "accession_number": "54.9.8",
+  "id": "cmoa:things/b5467f92-6ec6-4422-8113-e9437601835e",
+  "credit_line": "Gift of Allan Gerdau",
+  "date_acquired": "1954-03-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 2.375,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009360",
+  "provenance_text": "Allan Gerdau",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4178&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2c8f997-3cde-4a32-9c88-edf672df4544",
+      "party_type": "Person",
+      "full_name": "unknown Indian",
+      "cited_name": "unknown Indian",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

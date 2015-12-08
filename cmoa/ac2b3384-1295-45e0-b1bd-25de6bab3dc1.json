@@ -1,0 +1,39 @@
+{
+  "title": "\"When I Laid the Earth's Foundation\"",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "color lithograph",
+  "accession_number": "51.27.26",
+  "id": "cmoa:things/ac2b3384-1295-45e0-b1bd-25de6bab3dc1",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1951-11-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008951",
+  "provenance_text": "Mrs. James H. Beal, Pittsburgh; gift to museum, October 1951",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113611&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a45438c-fc3b-4041-9e6a-77431ac1a66d",
+      "party_type": "Person",
+      "full_name": "Benton Murdoch Spruance",
+      "cited_name": "Spruance, Benton M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

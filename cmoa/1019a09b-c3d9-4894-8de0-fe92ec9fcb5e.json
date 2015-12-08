@@ -1,0 +1,39 @@
+{
+  "title": "La Tour de l'Horloge",
+  "creation_date": "1852",
+  "creation_date_earliest": "1852-01-01",
+  "creation_date_latest": "1852-01-01",
+  "medium": "etching",
+  "accession_number": "18.8.3",
+  "id": "cmoa:things/1019a09b-c3d9-4894-8de0-fe92ec9fcb5e",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001852",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83576&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab6edf6d-1e81-4147-8def-aadd0e531b16",
+      "party_type": "Person",
+      "full_name": "Charles Meryon",
+      "cited_name": "Meryon, Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1821-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Charenton-le-Pont (Val-de-Marne, Ile-de-France, France)"
+    }
+  ]
+}

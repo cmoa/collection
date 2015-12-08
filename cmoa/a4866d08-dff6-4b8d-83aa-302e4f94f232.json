@@ -1,0 +1,51 @@
+{
+  "title": "Shinjuku Night View (Shinjuku yakei)",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.709.7",
+  "id": "cmoa:things/a4866d08-dff6-4b8d-83aa-302e4f94f232",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028696",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 2/29/1976.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12365&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b15cb7cd-f6cf-4527-b94c-36a099d38611",
+      "party_type": "Person",
+      "full_name": "Maekawa Senpan",
+      "cited_name": "Maekawa Senpan",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1889-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Japan, Kyoto",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9f9ab97e-a4de-4a27-a483-a80194456f0d",
+      "party_type": "Person",
+      "full_name": "Uemura Masuo",
+      "cited_name": "Uemura Masuo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

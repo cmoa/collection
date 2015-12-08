@@ -1,0 +1,51 @@
+{
+  "title": "Yomogiu: chapter 15 from the \"Tale of Genji\"",
+  "creation_date": "1844",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1844-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.913",
+  "id": "cmoa:things/d495ef0a-0a79-4c1c-b0be-cfb07a991878",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029152",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107388&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ceb3bd03-2fc1-46dc-98e1-77eaa203b1d5",
+      "party_type": "Person",
+      "full_name": "Kunisada (Toyokuni III)",
+      "cited_name": "Kunisada (Toyokuni III)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/c3259506-d947-4b5d-a8ce-a49906edd84f",
+      "party_type": "Person",
+      "full_name": "Yamamotoya Heikichi",
+      "cited_name": "Yamamotoya Heikichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

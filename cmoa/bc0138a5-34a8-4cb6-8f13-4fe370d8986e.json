@@ -1,0 +1,42 @@
+{
+  "title": "Dr. John Brashear",
+  "creation_date": null,
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "57.4",
+  "id": "cmoa:things/bc0138a5-34a8-4cb6-8f13-4fe370d8986e",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1957-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010601",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100926&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100927&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/defb04cd-26f3-48f7-888e-e4f2099f9137",
+      "party_type": "Person",
+      "full_name": "Louise Miller Boyer",
+      "cited_name": "Boyer, Louise M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

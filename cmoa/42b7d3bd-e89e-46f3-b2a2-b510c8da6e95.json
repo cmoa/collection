@@ -1,0 +1,39 @@
+{
+  "title": "The Great Gantry, Charing Cross Station",
+  "creation_date": "1906-1907",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "etching and drypoint",
+  "accession_number": "18.9.8",
+  "id": "cmoa:things/42b7d3bd-e89e-46f3-b2a2-b510c8da6e95",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001860",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110870&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb7e13ea-3f6b-48dc-8897-145b87feaa3a",
+      "party_type": "Person",
+      "full_name": "Muirhead Bone",
+      "cited_name": "Bone, Muirhead",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1876-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Partick, Glasgow, Scotland",
+      "death_place": " Oxford (Oxfordshire, England, United Kingdom)"
+    }
+  ]
+}

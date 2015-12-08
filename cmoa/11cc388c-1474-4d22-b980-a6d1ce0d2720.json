@@ -1,0 +1,39 @@
+{
+  "title": "Violin Lesson",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "oil on panel",
+  "accession_number": "60.38.1",
+  "id": "cmoa:things/11cc388c-1474-4d22-b980-a6d1ce0d2720",
+  "credit_line": "Gift of Mr. and Mrs. J. Alfred Wilner",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 23.625,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011238",
+  "provenance_text": "Mr. and Mrs. J. Alfred Wilner, New York, until 1960; gift to museum, September 1960",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29837&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a807dc8-66a8-4f7d-b5e1-c63137972b13",
+      "party_type": "Person",
+      "full_name": "Hedda Sterne",
+      "cited_name": "Sterne, Hedda",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Bucharest (Bucuresti municipality, Romania)",
+      "death_place": null
+    }
+  ]
+}

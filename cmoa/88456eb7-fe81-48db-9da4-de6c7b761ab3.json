@@ -1,0 +1,39 @@
+{
+  "title": "Rue Furstenburg",
+  "creation_date": "1894",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "transfer lithograph on laid paper",
+  "accession_number": "18.22.16",
+  "id": "cmoa:things/88456eb7-fe81-48db-9da4-de6c7b761ab3",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-11-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001729",
+  "provenance_text": "Rosalind Birnie Philip; M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56832&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

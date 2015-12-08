@@ -1,0 +1,49 @@
+{
+  "title": "ERO|S| Chair",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "polycarbonate and aluminum",
+  "accession_number": "2008.73.2",
+  "id": "cmoa:things/2141e8f0-4335-489f-98a7-1206a7c82238",
+  "credit_line": "Gift of Dr. Richard L. Simmons",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 24.5,
+  "item_height": 31.5,
+  "item_depth": 27.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=71916",
+  "provenance_text": null,
+  "classification": "Plastic/Synthetic",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/15101f9d-89fe-41ab-aafd-5adf17e49366",
+      "party_type": "Organization",
+      "full_name": "Kartell S.p.A.",
+      "cited_name": "Kartell S.p.A.",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

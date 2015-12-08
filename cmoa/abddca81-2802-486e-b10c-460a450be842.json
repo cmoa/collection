@@ -1,0 +1,39 @@
+{
+  "title": "Creamer",
+  "creation_date": "late 18th century",
+  "creation_date_earliest": "1763-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "silver",
+  "accession_number": "27.10.1084",
+  "id": "cmoa:things/abddca81-2802-486e-b10c-460a450be842",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.625,
+  "item_height": 6.312,
+  "item_depth": 2.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005578",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d5dd6ca6-fc89-445b-a297-f55cddcdd774",
+      "party_type": "Person",
+      "full_name": "John David",
+      "cited_name": "David, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1763-01-01",
+      "death_date": "1794-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

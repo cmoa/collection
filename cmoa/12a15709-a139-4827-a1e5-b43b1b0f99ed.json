@@ -1,0 +1,51 @@
+{
+  "title": "Two women engaged in music-making",
+  "creation_date": "c. 1798",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.24",
+  "id": "cmoa:things/12a15709-a139-4827-a1e5-b43b1b0f99ed",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 14.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001201",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100288&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c058d44e-2e9e-478b-9846-bacf8fb0064f",
+      "party_type": "Person",
+      "full_name": "Eishin Choensai",
+      "cited_name": "Eishin Choensai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0121ceb8-f600-4f7d-9ef2-c975759ac123",
+      "party_type": "Person",
+      "full_name": "Jinpachi Maruya",
+      "cited_name": "Jinpachi Maruya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

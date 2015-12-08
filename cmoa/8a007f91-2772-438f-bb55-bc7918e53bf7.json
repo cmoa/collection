@@ -1,0 +1,39 @@
+{
+  "title": "Om Hrm Yantra",
+  "creation_date": "c. 1700",
+  "creation_date_earliest": "1695-01-01",
+  "creation_date_latest": "1705-01-01",
+  "medium": "tempera on linen",
+  "accession_number": "71.42",
+  "id": "cmoa:things/8a007f91-2772-438f-bb55-bc7918e53bf7",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1971-10-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.25,
+  "item_height": 29.25,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016209",
+  "provenance_text": "Galerie Krugier et Cie, New York; purchased by Museum, October 1971.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121267&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2c8f997-3cde-4a32-9c88-edf672df4544",
+      "party_type": "Person",
+      "full_name": "unknown Indian",
+      "cited_name": "unknown Indian",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

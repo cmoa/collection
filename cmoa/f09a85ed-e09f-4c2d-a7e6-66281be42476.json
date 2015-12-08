@@ -1,0 +1,51 @@
+{
+  "title": "Minotaure No. 1",
+  "creation_date": "06/01/1933",
+  "creation_date_earliest": "1933-06-01",
+  "creation_date_latest": "1933-06-01",
+  "medium": "printed magazine",
+  "accession_number": "2015.28.8",
+  "id": "cmoa:things/f09a85ed-e09f-4c2d-a7e6-66281be42476",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 12.5,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108230",
+  "provenance_text": "Ursus Rare Books, Ltd. to CMOA, April 2015",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147930&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": "artist",
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    },
+    {
+      "artist_id": "cmoa:parties/af444a10-4c10-4add-9145-e03739bd125e",
+      "party_type": "Person",
+      "full_name": "Albert Skira",
+      "cited_name": "Albert Skira",
+      "role": "publisher",
+      "nationality": "Swiss",
+      "birth_date": "1904-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Little Girl",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.711.9",
+  "id": "cmoa:things/e66a7b43-745c-496d-86c2-e2f854c0aefd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 7.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028728",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37635&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22b00fc9-ce19-4577-9e3a-a706be5e26ac",
+      "party_type": "Person",
+      "full_name": "Nakamura Gaku",
+      "cited_name": "Nakamura Gaku",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/adff254f-adc8-4973-b839-b8b0b4bc0eb4",
+      "party_type": "Organization",
+      "full_name": "Kitsutsukikai",
+      "cited_name": "Kitsutsukikai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

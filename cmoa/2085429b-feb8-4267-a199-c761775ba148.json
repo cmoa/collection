@@ -1,0 +1,39 @@
+{
+  "title": "The Judgment of Paris",
+  "creation_date": "1520",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1519-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.4",
+  "id": "cmoa:things/2085429b-feb8-4267-a199-c761775ba148",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000999",
+  "provenance_text": "Adalbert Frieherr von Lanna (1836-1909), Prague (L.2773); Frederick Keppel (1845-1912), New York (see L.1023)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101677&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72ac4435-3c08-4226-a34c-c13f6cf12cc5",
+      "party_type": "Person",
+      "full_name": "Albrecht Altdorfer",
+      "cited_name": "Altdorfer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1480-01-01",
+      "death_date": "1538-01-01",
+      "birth_place": " Regensburg (Oberpfalz, Bavaria, Germany)",
+      "death_place": " Regensburg (Oberpfalz, Bavaria, Germany)"
+    }
+  ]
+}

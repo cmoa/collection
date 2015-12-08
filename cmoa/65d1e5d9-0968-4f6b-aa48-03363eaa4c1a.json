@@ -1,0 +1,42 @@
+{
+  "title": "Man with Pipe",
+  "creation_date": "c. 1912",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.1.1",
+  "id": "cmoa:things/65d1e5d9-0968-4f6b-aa48-03363eaa4c1a",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 38.063,
+  "item_height": 51.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009128",
+  "provenance_text": "Possibly with Herwarth Walden [1879-1941], Berlin, until 1919; Paul Citroen [1896-1983], 1919 until 1929? [1]; Possibly with Neumann & Nierendorf Gallery, Berlin, by 1929 [2]. G. David Thompson, Pittsburgh, by 1946 until 1953 [3]; gift to Museum, April 1953. \nNOTES: [1]. Citroen lent this painting, recorded as Der Raucher, to Schlossmuseum, Weimar, Germany, from 1923 until c.1930.  [2]. From Paul Citroen. [3]. G. D. Thompson lent the painting to the Department of Fine Arts, Carnegie Institute in 1946, per Annual Report.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=395&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56870&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c3748b0-8af7-465d-83a1-7d5a6fb4d36d",
+      "party_type": "Person",
+      "full_name": "Jean Metzinger",
+      "cited_name": "Metzinger, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1883-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Nantes (Loire-Atlantique, Pays de la Loire, France)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

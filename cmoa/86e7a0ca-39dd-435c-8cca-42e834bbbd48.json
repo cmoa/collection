@@ -1,0 +1,39 @@
+{
+  "title": "Imaginary Portrait of Goya",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.6",
+  "id": "cmoa:things/86e7a0ca-39dd-435c-8cca-42e834bbbd48",
+  "credit_line": "John Henry Craner Fund",
+  "date_acquired": "1965-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 75.75,
+  "item_height": 94.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011964",
+  "provenance_text": "The Artist via International, 1964",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19388&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cc290ddd-cbad-424b-831f-23e76b630bb2",
+      "party_type": "Person",
+      "full_name": "Antonio Saura",
+      "cited_name": "Saura, Antonio",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1930-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Huesca",
+      "death_place": "Cuenca"
+    }
+  ]
+}

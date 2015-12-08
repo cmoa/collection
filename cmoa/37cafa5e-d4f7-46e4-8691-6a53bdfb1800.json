@@ -1,0 +1,37 @@
+{
+  "title": "The Blue Table",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.13.1",
+  "id": "cmoa:things/37cafa5e-d4f7-46e4-8691-6a53bdfb1800",
+  "credit_line": "Gift of Mrs. Ruth Wilner",
+  "date_acquired": "1975-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.75,
+  "item_height": 36.125,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017667",
+  "provenance_text": "Gift of Mrs. Ruth Wilner, New York, NY, 1975.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bda9b362-058d-49be-9f9b-688750169b09",
+      "party_type": "Person",
+      "full_name": "Nicholas Georgiadis",
+      "cited_name": "Georgiadis, Nicholas",
+      "role": null,
+      "nationality": "Greek",
+      "birth_date": "1923-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": "Athens",
+      "death_place": "London"
+    }
+  ]
+}

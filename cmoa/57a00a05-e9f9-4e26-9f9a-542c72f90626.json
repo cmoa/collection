@@ -1,0 +1,39 @@
+{
+  "title": "Jardinière",
+  "creation_date": "1760-1770",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "faience",
+  "accession_number": "70.7.96",
+  "id": "cmoa:things/57a00a05-e9f9-4e26-9f9a-542c72f90626",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 6.25,
+  "item_depth": 6.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016093",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1842&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f82b559d-9f06-4675-855b-36238b251e7b",
+      "party_type": "Person",
+      "full_name": "unknown French, Sceaux",
+      "cited_name": "unknown French, Sceaux",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

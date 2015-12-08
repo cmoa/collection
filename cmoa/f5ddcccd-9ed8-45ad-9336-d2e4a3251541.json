@@ -1,0 +1,39 @@
+{
+  "title": "A Point Equidistant from Three Points...",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "ink and pencil",
+  "accession_number": "80.64",
+  "id": "cmoa:things/f5ddcccd-9ed8-45ad-9336-d2e4a3251541",
+  "credit_line": "Gift of Mel Bochner",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.875,
+  "item_height": 23.875,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021271",
+  "provenance_text": "Mel Bochner, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b3c1a22-c453-4329-b2d7-fd054549c635",
+      "party_type": "Person",
+      "full_name": "Sol LeWitt",
+      "cited_name": "LeWitt, Sol",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1998",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "glass, cut and ground",
+  "accession_number": "2000.46.4",
+  "id": "cmoa:things/3b69a8de-292b-454d-90d9-d087b7522cfc",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.5,
+  "item_height": 3.75,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004069",
+  "provenance_text": "Mr. And Mrs. William Block, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17735&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d724a1fc-2497-440b-8e43-abe8ef4ac9a5",
+      "party_type": "Person",
+      "full_name": "Frantiek Vizner",
+      "cited_name": "Vizner, Frantiek",
+      "role": null,
+      "nationality": "Czech",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Prague, Czech Republic",
+      "death_place": null
+    }
+  ]
+}

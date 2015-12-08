@@ -1,0 +1,49 @@
+{
+  "title": "Vase",
+  "creation_date": "1876",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "bronze, copper, silver, and gold",
+  "accession_number": "2014.4.A-.B",
+  "id": "cmoa:things/ac46d49e-c75d-460f-b8bd-0ebbc99ccc77",
+  "credit_line": "Purchase: Gift of Mildred Taber Keally, by exchange, and Sarah Mellon Scaife Foundation, Ailsa Mellon Bruce Fund, Harlan E. Youel Bequest Fund, DuPuy Fund, Decorative Arts Purchase Fund, and Edgar L. Levenson Fund",
+  "date_acquired": "2014-02-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.5,
+  "item_height": 30.0,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103656",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8ad3814-24d4-47c6-8082-cdb5998deef5",
+      "party_type": "Organization",
+      "full_name": "Ishikawa Kangyōjō",
+      "cited_name": "Ishikawa Kangyōjō",
+      "role": "commissioner",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b06f2ffc-c21d-4579-a9f7-0d03a047dcf0",
+      "party_type": "Person",
+      "full_name": "Marunaka Magohei",
+      "cited_name": "Marunaka Magohei",
+      "role": "commissioner and retailer",
+      "nationality": "Japanese",
+      "birth_date": "1830-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

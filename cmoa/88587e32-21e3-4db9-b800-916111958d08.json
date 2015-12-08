@@ -1,0 +1,42 @@
+{
+  "title": "Five Owls",
+  "creation_date": null,
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "color aquatint",
+  "accession_number": "51.16",
+  "id": "cmoa:things/88587e32-21e3-4db9-b800-916111958d08",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.25,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008918",
+  "provenance_text": "Thomas Richard Hood",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103755&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/245269b5-8cd5-4858-ae4f-a77240aaed4f",
+      "party_type": "Person",
+      "full_name": "Thomas R. Hood Jr.",
+      "cited_name": "Hood, Thomas R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

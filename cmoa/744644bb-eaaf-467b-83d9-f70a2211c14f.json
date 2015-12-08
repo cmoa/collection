@@ -1,0 +1,39 @@
+{
+  "title": "Portrait",
+  "creation_date": null,
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.22",
+  "id": "cmoa:things/744644bb-eaaf-467b-83d9-f70a2211c14f",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011266",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107786&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/609f3bf5-291f-47bb-8c16-0b434e56eae3",
+      "party_type": "Person",
+      "full_name": "William Sharp",
+      "cited_name": "Sharp, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Lemberg, Austria",
+      "death_place": "New York, NY"
+    }
+  ]
+}

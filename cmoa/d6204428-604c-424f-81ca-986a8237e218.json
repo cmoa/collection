@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1900-1904",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "blown glass w/cameo relief created by acid cut of 4 color overla",
+  "accession_number": "70.48.3",
+  "id": "cmoa:things/d6204428-604c-424f-81ca-986a8237e218",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Seward Prosser Mellon Funds",
+  "date_acquired": "1970-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.625,
+  "item_height": 5.25,
+  "item_depth": 2.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015831",
+  "provenance_text": "Black, Starr and Frost Ltd., PA, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=770&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b3e77bc-e18f-4021-b383-d9fdc847be82",
+      "party_type": "Person",
+      "full_name": "Emile Gallé",
+      "cited_name": "Gallé, Emile",
+      "role": "workshop of",
+      "nationality": "French",
+      "birth_date": "1846-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

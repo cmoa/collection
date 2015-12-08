@@ -1,0 +1,39 @@
+{
+  "title": "Bottle",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glass",
+  "accession_number": "16.4.1",
+  "id": "cmoa:things/2bfcbe59-033a-4b2a-9351-3dfb99ee8dae",
+  "credit_line": "Gift of Miss Alice C. McConnell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.625,
+  "item_height": 5.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001282",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=14&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

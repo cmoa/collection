@@ -1,0 +1,39 @@
+{
+  "title": "# 147",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "85.56",
+  "id": "cmoa:things/87f3811e-c31a-4415-9ce4-24b28760a3e4",
+  "credit_line": "Pamela Z. Bryan Fund",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 71.375,
+  "item_height": 49.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025700",
+  "provenance_text": "Metro Pictures, New York, NY; Carnegie Museum of Art, Pittsburgh; Pamela Z. Bryan Fund",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10169&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/51e6e24c-a9f7-4419-be9f-61ccfddec5e7",
+      "party_type": "Person",
+      "full_name": "Cindy Sherman",
+      "cited_name": "Sherman, Cindy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Glen Ridge (Essex county, New Jersey, United States)",
+      "death_place": null
+    }
+  ]
+}

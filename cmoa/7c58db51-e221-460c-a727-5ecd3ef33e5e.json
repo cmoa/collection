@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of the Artist",
+  "creation_date": "c. 1848",
+  "creation_date_earliest": "1843-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "54.31.5",
+  "id": "cmoa:things/7c58db51-e221-460c-a727-5ecd3ef33e5e",
+  "credit_line": "Purchase: gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1954-10-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.625,
+  "item_height": 18.625,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009296",
+  "provenance_text": "The artist's brother, Thomas Blythe, East Liverpool, Ohio; Blythe's son Heber H. Blythe, East Liverpool, Ohio; Estate of Heber Blythe; Museum purchase: gift of Mr. and Mrs. James H. Beal",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115951&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

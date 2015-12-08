@@ -1,0 +1,49 @@
+{
+  "title": "Belisare",
+  "creation_date": "1806",
+  "creation_date_earliest": "1806-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.3",
+  "id": "cmoa:things/e447143f-b6fb-440d-ad9b-1dd9dca8d631",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.625,
+  "item_height": 29.625,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011291",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1df51647-989c-4540-a507-98e8787a5c8e",
+      "party_type": "Person",
+      "full_name": "Auguste Gaspard Louis Desnoyers",
+      "cited_name": "Desnoyers, Auguste",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1779-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/49eeffdf-d6b7-4205-94a8-7a96804eea29",
+      "party_type": "Person",
+      "full_name": "François Gerard",
+      "cited_name": "Gerard, François",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1770-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": " Rome (Roma province, Lazio, Italy)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

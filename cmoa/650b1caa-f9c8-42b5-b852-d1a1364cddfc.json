@@ -1,0 +1,39 @@
+{
+  "title": "(industrial complex, Pittsburgh, Pennsylvania)",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "77.34.24",
+  "id": "cmoa:things/650b1caa-f9c8-42b5-b852-d1a1364cddfc",
+  "credit_line": "Gift of N. Boyd Mettee",
+  "date_acquired": "1977-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018599",
+  "provenance_text": "N. Boyd Mettee",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da9f4bd7-eeff-41a3-999b-6ec2d1b0290e",
+      "party_type": "Person",
+      "full_name": "Holmes I. Mettee",
+      "cited_name": "Mettee, Holmes I.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Abraham Lincoln: The Man",
+  "creation_date": "modelled 1884-1887 cast 1912",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "bronze",
+  "accession_number": "43.8",
+  "id": "cmoa:things/cbb159d7-c041-4161-94f4-2ba0d278447b",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1943-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 16.25,
+  "item_height": 39.5,
+  "item_depth": 27.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007485",
+  "provenance_text": "Tiffany and Co., New York, 1912; Private Collection, New York, NY, until October 1943. (Parke Bernet Galleries sale, New York, NY, October 14, 1943); Charles J. Rosenbloom [1898-1973], Pittsburgh, until November 1943; gift to Museum, November 1943.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135631&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

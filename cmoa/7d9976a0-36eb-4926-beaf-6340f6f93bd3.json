@@ -1,0 +1,49 @@
+{
+  "title": "Coffee table",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "wood and glass",
+  "accession_number": "2002.6",
+  "id": "cmoa:things/7d9976a0-36eb-4926-beaf-6340f6f93bd3",
+  "credit_line": "Gift of the S. Trevor Hadley Family in honor of Harriet Farr and Guy Pratt Davis",
+  "date_acquired": "2002-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 50.0,
+  "item_height": 15.25,
+  "item_depth": 36.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004453",
+  "provenance_text": "Mrs. Olive Hadley, Pittsburgh",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fc3453c-e9b9-4407-ba34-32998fa42d5b",
+      "party_type": "Person",
+      "full_name": "Isamu Noguchi",
+      "cited_name": "Noguchi, Isamu",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Los Angeles, CA",
+      "death_place": "New York, NY"
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

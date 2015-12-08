@@ -1,0 +1,39 @@
+{
+  "title": "Sculpture (I)",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "oil and acrylic on gessoed Masonite",
+  "accession_number": "83.1",
+  "id": "cmoa:things/63742534-9651-454c-9e0f-063fdaeb5bd5",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1983-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 12.0,
+  "item_height": 78.0,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023608",
+  "provenance_text": "The artist, until 1983; Edith H. Fisher Fund, 1983",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/84b99c93-4287-407b-a226-cbea0fb0d34b",
+      "party_type": "Person",
+      "full_name": "Harry Holtzman",
+      "cited_name": "Holtzman, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

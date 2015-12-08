@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Man",
+  "creation_date": "1825-1830",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.103",
+  "id": "cmoa:things/69671505-79bf-443c-b3ea-ad0301ece944",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 3.625,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005543",
+  "provenance_text": "George S. Palmer, New London, CT; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, October 9, 1922; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73522&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73523&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06378c47-9f95-421c-9b5f-590b307d75bf",
+      "party_type": "Person",
+      "full_name": "Nathaniel Rogers",
+      "cited_name": "Rogers, Nathaniel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1788-01-01",
+      "death_date": "1844-01-01",
+      "birth_place": "Bridgehampton (Suffolk county, New York state, United States)",
+      "death_place": "Bridgehampton (Suffolk county, New York state, United States)"
+    }
+  ]
+}

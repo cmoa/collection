@@ -1,0 +1,39 @@
+{
+  "title": "(Neighborhood: Homewood, House Interior)",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.132",
+  "id": "cmoa:things/e0f4f448-81e1-4ace-b35b-7eaab6ef0bf7",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 13.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025873",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5989&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a5de9a4-4175-49ff-a0ba-2b1b84e54bee",
+      "party_type": "Person",
+      "full_name": "Sol Libsohn",
+      "cited_name": "Libsohn, Sol",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": "Princeton, NJ"
+    }
+  ]
+}

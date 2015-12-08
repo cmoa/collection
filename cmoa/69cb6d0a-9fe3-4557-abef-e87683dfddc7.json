@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.992",
+  "id": "cmoa:things/69cb6d0a-9fe3-4557-abef-e87683dfddc7",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029271",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34304&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d295965-851f-4eb8-896f-89e2be72a282",
+      "party_type": "Person",
+      "full_name": "Maki Haku",
+      "cited_name": "Maki Haku",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1924-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Ibaraki prefecture",
+      "death_place": null
+    }
+  ]
+}

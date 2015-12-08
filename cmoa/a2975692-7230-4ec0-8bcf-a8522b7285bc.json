@@ -1,0 +1,51 @@
+{
+  "title": "Bunker's Hill and Cupid's Tower",
+  "creation_date": "1776",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1776-01-01",
+  "medium": "colored engraving on paper",
+  "accession_number": "57.14.1",
+  "id": "cmoa:things/a2975692-7230-4ec0-8bcf-a8522b7285bc",
+  "credit_line": "Howard N. Eavenson Memorial Fund",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010376",
+  "provenance_text": "The Old Print Shop, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98433&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d135348-c845-470e-8973-9ae31520d2cf",
+      "party_type": "Person",
+      "full_name": "Mary Darly",
+      "cited_name": "Darly, Mary",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1779-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/44588b91-a4d4-4115-8b44-da875f1d8906",
+      "party_type": "Person",
+      "full_name": "Matthew  Darly",
+      "cited_name": "Darly, Matthew",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1710-01-01",
+      "death_date": "1771-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

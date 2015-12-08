@@ -1,0 +1,39 @@
+{
+  "title": "1998 Nagano Olympics",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "cut paper collage",
+  "accession_number": "2006.66",
+  "id": "cmoa:things/bb62c438-a657-49d9-aa90-84ad1d366022",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 96th Annual Exhibition of the Associated Artists of Pittsburgh through the Second Century Acquisition Fund",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.875,
+  "item_height": 31.188,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33835",
+  "provenance_text": "The artist through Associated Artists of Pittsburgh",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113397&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24617ef0-b0ba-4851-b6b6-2c26fed6050d",
+      "party_type": "Person",
+      "full_name": "Laura Marin",
+      "cited_name": "Marin, Laura",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "Philadephia, Pa.",
+      "death_place": null
+    }
+  ]
+}

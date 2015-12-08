@@ -1,0 +1,39 @@
+{
+  "title": "Loquat (Biwa)",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.959",
+  "id": "cmoa:things/aeaa52dd-9a2f-4a8b-9da2-e75b4e19689a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 7.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029215",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T. Z. Shiota, San Francisco, CA., 2/29/1972.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33176&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cb602d2-3f4a-49c5-b9b3-a37ce561217a",
+      "party_type": "Person",
+      "full_name": "Maeda Masao",
+      "cited_name": "Maeda Masao",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

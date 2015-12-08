@@ -1,0 +1,39 @@
+{
+  "title": "Distant Village",
+  "creation_date": "1875",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.37.3",
+  "id": "cmoa:things/1e8d1b47-5547-4863-bfa4-da23a54e1fe7",
+  "credit_line": "Gift of the Western Pennsylvania Conservancy in memory of George and Lila B. Hetzel",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.625,
+  "item_height": 23.25,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018617",
+  "provenance_text": "Dorothy Kanter, Somerset Pa., by descent; by gift to the Western Pennsylvania Conservancy, Pittsburgh, 1977; gift to museum in Memory of George and Lila B. Hetzel, 1977",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

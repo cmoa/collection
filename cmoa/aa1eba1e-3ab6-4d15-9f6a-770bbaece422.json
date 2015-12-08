@@ -1,0 +1,51 @@
+{
+  "title": "George III",
+  "creation_date": "c. 1760-1763",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1763-01-01",
+  "medium": "mezzotint",
+  "accession_number": "17.7.5",
+  "id": "cmoa:things/aa1eba1e-3ab6-4d15-9f6a-770bbaece422",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001645",
+  "provenance_text": "Frederic R. Halsey (1847-1918), New York (Lugt 1308 mark on verso); Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111256&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/80e1fdac-4399-45b5-9463-ed47ef96316d",
+      "party_type": "Person",
+      "full_name": "Richard Houston",
+      "cited_name": "Houston, Richard",
+      "role": "after",
+      "nationality": "Irish",
+      "birth_date": "1721-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/4ae7f11d-b3a5-41fb-ac73-8a3a82d5f4e2",
+      "party_type": "Person",
+      "full_name": "Jeremiah Meyer",
+      "cited_name": "Meyer, Jeremiah",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1735-01-01",
+      "death_date": "1789-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

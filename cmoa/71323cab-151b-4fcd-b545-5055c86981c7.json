@@ -1,0 +1,39 @@
+{
+  "title": "Mount Washington",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "graphite and white chalk on paper",
+  "accession_number": "06.10",
+  "id": "cmoa:things/71323cab-151b-4fcd-b545-5055c86981c7",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000137",
+  "provenance_text": "The artist, Daniel Huntington; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/261bb8df-914c-46dc-8675-dc26b274310c",
+      "party_type": "Person",
+      "full_name": "Daniel Huntington",
+      "cited_name": "Huntington, Daniel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

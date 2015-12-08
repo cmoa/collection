@@ -1,0 +1,39 @@
+{
+  "title": "M5-1969",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.82",
+  "id": "cmoa:things/db4bacdc-ea9b-4efe-b4e2-b24b51e27d74",
+  "credit_line": "Gift of Dr. and Mrs. Louis R. Wasserman",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 48.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019041",
+  "provenance_text": "Dr. And Mrs. Louis R. Wasserman",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118225&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/286c3c4e-4864-4224-96d4-a14b9fdb3c82",
+      "party_type": "Person",
+      "full_name": "Wojciech Fangor",
+      "cited_name": "Fangor, Wojciech",
+      "role": null,
+      "nationality": "Polish",
+      "birth_date": "1922-01-01",
+      "death_date": "2015-01-01",
+      "birth_place": "Warsaw (Mazowieckie voivodship, Poland)",
+      "death_place": null
+    }
+  ]
+}

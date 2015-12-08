@@ -1,0 +1,78 @@
+{
+  "title": "Indian Astronomical Observatory (Jantar Mantar) at New Delhi,  Delhi, India",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.6.13",
+  "id": "cmoa:things/e146b463-0a88-4856-ba4f-3f12b5107006",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-06-27",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 9.375,
+  "item_height": 5.312,
+  "item_depth": 8.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030077",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126001&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126002&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126003&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126004&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126005&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126006&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126007&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126008&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126009&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102388&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3085c9c7-97ca-4597-ad7c-dbf97b6615b9",
+      "party_type": "Person",
+      "full_name": "Maharaja Jai Singh II",
+      "cited_name": "Singh II, Maharaja Jai",
+      "role": "attributed to",
+      "nationality": "Indian",
+      "birth_date": "1688-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Venice)",
+  "creation_date": "c.1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "oil on canvas mounted on plywood",
+  "accession_number": "82.82.2",
+  "id": "cmoa:things/79d9ecd0-c64b-4e60-86a4-814948bfe0c0",
+  "credit_line": "Gift of Mr. and Mrs. Alan G. Lehman",
+  "date_acquired": "1982-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.25,
+  "item_height": 25.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023170",
+  "provenance_text": "Mr. and Mrs. Alan G. Lehman, Pittsburgh; gift to Museum, December 1982.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26130&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15a7cb3-372a-4c46-b601-5ffd17bce498",
+      "party_type": "Person",
+      "full_name": "School of Guardi",
+      "cited_name": "Guardi, School of",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

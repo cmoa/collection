@@ -1,0 +1,39 @@
+{
+  "title": "The Butterfly Suite: VI",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "etching",
+  "accession_number": "81.131.6",
+  "id": "cmoa:things/7ea61bef-bea1-4545-b4cc-c868b9dc71dd",
+  "credit_line": "Gift of Arthur Turchin",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 39.875,
+  "item_height": 28.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021664",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118897&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35cd96d3-7957-42d6-9a3b-864e1db5a23a",
+      "party_type": "Person",
+      "full_name": "Richard Smith",
+      "cited_name": "Smith, Richard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Letchworth (Hertfordshire, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

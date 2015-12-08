@@ -1,0 +1,39 @@
+{
+  "title": "Orange Tree and Primrose",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "watercolor and pencil on paper",
+  "accession_number": "85.31",
+  "id": "cmoa:things/d31e0d8c-3db4-4b77-8892-89520dab877e",
+  "credit_line": "Purchase: gift of Lee C. Gordon",
+  "date_acquired": "1985-10-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025518",
+  "provenance_text": "Richard York Gallery, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6415&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06aff35c-4cfd-48f3-a21c-c1b9e06a7aaa",
+      "party_type": "Person",
+      "full_name": "Charles Demuth",
+      "cited_name": "Demuth, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Lancaster, Pennsylvania",
+      "death_place": "Lancaster, Pennsylvania"
+    }
+  ]
+}

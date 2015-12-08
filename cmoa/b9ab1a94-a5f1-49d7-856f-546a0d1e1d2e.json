@@ -1,0 +1,39 @@
+{
+  "title": "Carnival on the Grand Canal",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "glass, flame-worked",
+  "accession_number": "2003.42.3",
+  "id": "cmoa:things/b9ab1a94-a5f1-49d7-856f-546a0d1e1d2e",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 15.25,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5717",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10963&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9aa259c7-2e1e-4d30-ad25-697f5f006972",
+      "party_type": "Person",
+      "full_name": "Lucio Bubacco",
+      "cited_name": "Bubacco, Lucio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "Murano, Italy",
+      "death_place": null
+    }
+  ]
+}

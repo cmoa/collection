@@ -1,0 +1,39 @@
+{
+  "title": "Beneath the Sea",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "charcoal on paper mounted on board",
+  "accession_number": "06.12.2",
+  "id": "cmoa:things/d03f210f-9714-4bff-b537-7780eb85fff8",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000144",
+  "provenance_text": "Frederick Keppel and Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36143&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e64de99-50c0-49ac-a453-1149665998a2",
+      "party_type": "Person",
+      "full_name": "Frederick Stuart Church",
+      "cited_name": "Church, Frederick S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1842-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "Grand Rapids, Michigan",
+      "death_place": "New York City"
+    }
+  ]
+}

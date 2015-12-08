@@ -1,0 +1,42 @@
+{
+  "title": "Russell Gould Twiggs",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.77",
+  "id": "cmoa:things/15e3e6be-7fc9-46b4-873d-a53548541aee",
+  "credit_line": "Gift in Memory of the Artist’s Friend, Samuel Rosenberg",
+  "date_acquired": "2014-12-11",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.976,
+  "item_height": 18.11,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106085",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134048&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c9e883e-e91e-46b3-b095-44925f571bbb",
+      "party_type": "Person",
+      "full_name": "Rosalie Gwathmey",
+      "cited_name": "Gwathmey, Rosalie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

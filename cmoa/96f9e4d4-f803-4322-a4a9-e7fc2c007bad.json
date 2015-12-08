@@ -1,0 +1,39 @@
+{
+  "title": "The Deserted Cottage",
+  "creation_date": "1842",
+  "creation_date_earliest": "1842-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "oil on panel",
+  "accession_number": "68.1.3",
+  "id": "cmoa:things/96f9e4d4-f803-4322-a4a9-e7fc2c007bad",
+  "credit_line": "Gift of Mary Shiras",
+  "date_acquired": "1968-04-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 44.375,
+  "item_height": 33.125,
+  "item_depth": 3.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012395",
+  "provenance_text": "Mr. John J. Marse, Taylor, TX, until 1968; Gift of Mary Shiras, 1968",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107687&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c586573-c1d9-4b99-bb76-4b9d863b0977",
+      "party_type": "Person",
+      "full_name": "Russell Smith",
+      "cited_name": "Smith, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1812-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

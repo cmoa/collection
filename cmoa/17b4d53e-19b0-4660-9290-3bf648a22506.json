@@ -1,0 +1,39 @@
+{
+  "title": "Composition in Black",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.50",
+  "id": "cmoa:things/17b4d53e-19b0-4660-9290-3bf648a22506",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 42.75,
+  "item_height": 55.25,
+  "item_depth": 1.062,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010872",
+  "provenance_text": "The Artist via 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=136332&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3abaf82-085e-4e02-b1ed-7a8b2c955ec0",
+      "party_type": "Person",
+      "full_name": "Rafael Gomez Canogar",
+      "cited_name": "Canogar, Rafael G.",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Toledo, Spain",
+      "death_place": null
+    }
+  ]
+}

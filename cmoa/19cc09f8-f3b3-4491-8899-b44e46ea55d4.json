@@ -1,0 +1,39 @@
+{
+  "title": "Dessert dish",
+  "creation_date": "c. 1828",
+  "creation_date_earliest": "1823-01-01",
+  "creation_date_latest": "1833-01-01",
+  "medium": "transfer printed and gilt painted earthenware",
+  "accession_number": "70.32.2231",
+  "id": "cmoa:things/19cc09f8-f3b3-4491-8899-b44e46ea55d4",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 2.25,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014432",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2846&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/963cabfe-1f75-4e4f-a15c-027ee09a5c92",
+      "party_type": "Person",
+      "full_name": "James Keeling",
+      "cited_name": "Keeling, James",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1792-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

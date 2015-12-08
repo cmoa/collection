@@ -1,0 +1,39 @@
+{
+  "title": "The Man with the Broken Nose",
+  "creation_date": "1863-1864",
+  "creation_date_earliest": "1863-01-01",
+  "creation_date_latest": "1864-01-01",
+  "medium": "bronze",
+  "accession_number": "20.14.1",
+  "id": "cmoa:things/79c8be48-89c5-475c-962f-1a15574ecaa9",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-05-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 7.875,
+  "item_height": 10.5,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004499",
+  "provenance_text": "Musee Rodin [1919-], Paris, until 1920. Purchased by Museum, May 4, 1920.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1909&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dec87be6-b8ac-434e-afcb-c0e7c3e742be",
+      "party_type": "Person",
+      "full_name": "Auguste Rodin",
+      "cited_name": "Rodin, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Meudon (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

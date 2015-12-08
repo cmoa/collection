@@ -1,0 +1,39 @@
+{
+  "title": "(Downtown Street Scene: People on Penn Avenue)",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.37",
+  "id": "cmoa:things/a7d86d25-a19a-44f3-af75-8fe55c8ab043",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025935",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8671&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c8529a7-5a92-424c-8010-ce6fbe38fcd5",
+      "party_type": "Person",
+      "full_name": "Arnold Eagle",
+      "cited_name": "Eagle, Arnold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

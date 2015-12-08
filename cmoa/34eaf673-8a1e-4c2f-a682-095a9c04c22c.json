@@ -1,0 +1,39 @@
+{
+  "title": "Lady Murasaki Shikibu",
+  "creation_date": null,
+  "creation_date_earliest": "1808-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1472",
+  "id": "cmoa:things/34eaf673-8a1e-4c2f-a682-095a9c04c22c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027387",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111180&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/07844a9b-4541-46c2-9867-eed10f5d8f19",
+      "party_type": "Person",
+      "full_name": "Yosai Kikuchi",
+      "cited_name": "Yosai Kikuchi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1788-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Josiah Wedgwood, Esq.",
+  "creation_date": "1795",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.16",
+  "id": "cmoa:things/7c4ca4b7-2194-4fb4-88c6-16215b79acf0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34334",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39272&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/53cd522e-7253-44a1-89d8-5981580f5525",
+      "party_type": "Person",
+      "full_name": "George Townley Stubbs",
+      "cited_name": "Stubbs, George Townley",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/aba5df30-332a-4433-9555-e17cd0a26adf",
+      "party_type": "Person",
+      "full_name": "George Stubbs",
+      "cited_name": "Stubbs, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1724-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

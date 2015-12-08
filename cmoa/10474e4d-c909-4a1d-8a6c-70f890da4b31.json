@@ -1,0 +1,51 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "c. 1923",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "earthenware",
+  "accession_number": "83.35.A-B",
+  "id": "cmoa:things/10474e4d-c909-4a1d-8a6c-70f890da4b31",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.937,
+  "item_depth": 0.0,
+  "item_diameter": 5.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023679",
+  "provenance_text": "Modernism, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1525&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b3b66b5-66c0-43a6-bb5d-f12ac995cba7",
+      "party_type": "Person",
+      "full_name": "Otto Lindig",
+      "cited_name": "Lindig, Otto",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1895-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/dcd389fb-b62b-43c9-922d-78ab6664ca69",
+      "party_type": "Organization",
+      "full_name": "The Bauhaus",
+      "cited_name": "Bauhaus",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1919-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

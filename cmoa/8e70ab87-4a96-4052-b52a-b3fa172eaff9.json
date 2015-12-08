@@ -1,0 +1,39 @@
+{
+  "title": "Autumn Days",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.36",
+  "id": "cmoa:things/8e70ab87-4a96-4052-b52a-b3fa172eaff9",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 73.875,
+  "item_height": 59.75,
+  "item_depth": 6.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019247",
+  "provenance_text": "Mr. and Mrs. Arthur Braun, Pittsburgh, c. 1920; their daughter, Elizabeth Braun (Mrs. Paul B. Ernst); gift to museum, 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107715&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/860431dd-2f0b-45fb-8e82-1c3108609356",
+      "party_type": "Person",
+      "full_name": "Max Weyl",
+      "cited_name": "Weyl, Max",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": "Germany",
+      "death_place": "Washington (DC, United States)"
+    }
+  ]
+}

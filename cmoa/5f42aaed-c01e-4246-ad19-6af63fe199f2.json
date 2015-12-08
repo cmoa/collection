@@ -1,0 +1,51 @@
+{
+  "title": "The Actor Segawa Kikunojô III",
+  "creation_date": "1806",
+  "creation_date_earliest": "1806-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.1405",
+  "id": "cmoa:things/5f42aaed-c01e-4246-ad19-6af63fe199f2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027293",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ea1c2c5-f4a5-469d-b531-42dcdd8f156e",
+      "party_type": "Person",
+      "full_name": "Toyokuni Utagawa",
+      "cited_name": "Toyokuni Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1769-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/18a05e0a-6184-445d-a31d-64e343230504",
+      "party_type": "Person",
+      "full_name": "Tsuruya Kinsuke",
+      "cited_name": "Tsuruya Kinsuke",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

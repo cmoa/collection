@@ -1,0 +1,39 @@
+{
+  "title": "A Woman in Rose",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "01.2",
+  "id": "cmoa:things/e95fe43f-fb7e-4fb7-8fd8-d9fb826dfc73",
+  "credit_line": "Purchase",
+  "date_acquired": "1901-03-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 22.5,
+  "item_height": 40.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000061",
+  "provenance_text": "John White Alexander [1856-1915], until 1901; W. S. Budworth & Sons, New York, New York, until March 20, 1901; purchased by Museum, March 20, 1901.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20590&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cf1030-5eeb-4eb0-9ff0-310bf4f92e37",
+      "party_type": "Person",
+      "full_name": "John White Alexander",
+      "cited_name": "Alexander, John White",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "New York, NY"
+    }
+  ]
+}

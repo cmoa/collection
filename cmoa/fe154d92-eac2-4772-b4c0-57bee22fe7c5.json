@@ -1,0 +1,39 @@
+{
+  "title": "Waste bowl",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "silver",
+  "accession_number": "85.82.6",
+  "id": "cmoa:things/fe154d92-eac2-4772-b4c0-57bee22fe7c5",
+  "credit_line": "Gift of Albert C. Kelly in memory of his sister Marie E. Kelly",
+  "date_acquired": "1986-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 4.687,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025811",
+  "provenance_text": "Albert C. Kelly",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb991e35-5a84-41bb-b0f2-a7b8d0b4bb9d",
+      "party_type": "Organization",
+      "full_name": "William Gale Son & Co.",
+      "cited_name": "Gale Son & Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1821-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": "New York, NY",
+      "death_place": null
+    }
+  ]
+}

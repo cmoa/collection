@@ -1,0 +1,42 @@
+{
+  "title": "Le Pont de Segovie",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "etching",
+  "accession_number": "49.3.3",
+  "id": "cmoa:things/967b2677-0b6f-47a9-97a7-0614590cf1f8",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008732",
+  "provenance_text": "Eugène Bejot [1867-1931], France. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843), by January 1949; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110898&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a30fbba-c899-4778-9dff-2a4d875d8009",
+      "party_type": "Person",
+      "full_name": "Eugène Bejot",
+      "cited_name": "Bejot, Eugène",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

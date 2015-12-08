@@ -1,0 +1,39 @@
+{
+  "title": "The Free Exchange",
+  "creation_date": "1973-1974",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "acrylic on stratified epoxy (motorized)",
+  "accession_number": "74.35",
+  "id": "cmoa:things/a9080613-e1a8-4e1b-b309-ccb8d8f5a09a",
+  "credit_line": "Purchase: gift of Sarah Mellon Scaife Foundation",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 398.0,
+  "item_height": 199.0,
+  "item_depth": 76.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016982",
+  "provenance_text": "Jean Dubuffet, Paris, France",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3741&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/607703ce-8d12-44a9-91f1-f0f1089da8f3",
+      "party_type": "Person",
+      "full_name": "Jean Dubuffet",
+      "cited_name": "Dubuffet, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

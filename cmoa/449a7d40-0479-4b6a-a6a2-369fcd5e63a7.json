@@ -1,0 +1,39 @@
+{
+  "title": "West End Garage",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "87.25.2",
+  "id": "cmoa:things/449a7d40-0479-4b6a-a6a2-369fcd5e63a7",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1987-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.875,
+  "item_height": 13.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026319",
+  "provenance_text": "Joel De Grand, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82719&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e3bc35b-c905-4b99-81a0-202a7439bdfa",
+      "party_type": "Person",
+      "full_name": "Joel DeGrand",
+      "cited_name": "DeGrand, Joel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Kittanning, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

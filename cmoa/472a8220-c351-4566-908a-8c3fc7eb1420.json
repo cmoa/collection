@@ -1,0 +1,51 @@
+{
+  "title": "Dotonbori by Night (Dôtonbori no yoru)",
+  "creation_date": "December 1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.23",
+  "id": "cmoa:things/472a8220-c351-4566-908a-8c3fc7eb1420",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.063,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028755",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from C.H. Mitchell, Tokyo, Japan, 1970's.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35810&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56c394e6-7816-4da2-97b9-f91276e9cd56",
+      "party_type": "Person",
+      "full_name": "Tokuriki Tomikichirô",
+      "cited_name": "Tokuriki Tomikichirô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Kyoto",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

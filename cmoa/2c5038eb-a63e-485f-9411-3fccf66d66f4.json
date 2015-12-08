@@ -1,0 +1,45 @@
+{
+  "title": "R.S.V.P. XI",
+  "creation_date": "1977/2004",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "nylon mesh, rubber, and sand",
+  "accession_number": "2005.15",
+  "id": "cmoa:things/2c5038eb-a63e-485f-9411-3fccf66d66f4",
+  "credit_line": "Nancy and Milton Washington Fund",
+  "date_acquired": "2005-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 24.0,
+  "item_height": 90.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7943",
+  "provenance_text": "(Thomas Erben Gallery), New York, NY, 2005; Museum purchase, 2005.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11699&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101380&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101379&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4aec5a4e-3e2c-463f-a7c8-c6748f898eae",
+      "party_type": "Person",
+      "full_name": "Senga Nengudi",
+      "cited_name": "Nengudi, Senga",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Chicago",
+      "death_place": null
+    }
+  ]
+}

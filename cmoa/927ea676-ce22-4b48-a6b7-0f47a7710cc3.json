@@ -1,0 +1,39 @@
+{
+  "title": "Henri Matisse Drawing from the Nude (Frontispiece in \"Brassai: The Artists of My Life\")",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "photogravure",
+  "accession_number": "82.103",
+  "id": "cmoa:things/927ea676-ce22-4b48-a6b7-0f47a7710cc3",
+  "credit_line": "Gift of Christopher Wilmarth in memory of Gene Baro",
+  "date_acquired": "1983-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.875,
+  "item_height": 10.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022243",
+  "provenance_text": "Christopher Wilmarth, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89410&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ca82aa4-ea56-4090-9771-ed31082770aa",
+      "party_type": "Person",
+      "full_name": "Brassaï",
+      "cited_name": "Brassaï",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1899-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Brașov (Brașov county, Romania) (Hungary)",
+      "death_place": "Azur, Côte d' (Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

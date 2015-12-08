@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of James M. Walton",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "85.37",
+  "id": "cmoa:things/3eae6eb2-be02-4d72-a88d-ed416a19c105",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1985-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 42.188,
+  "item_height": 60.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025531",
+  "provenance_text": "Aaron Shikler [1922-]; Anonymous donor; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, October 1985.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25091&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b5e78ce-880c-4921-b1d9-0d0b093c696d",
+      "party_type": "Person",
+      "full_name": "Aaron Shikler",
+      "cited_name": "Shikler, Aaron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn, NY",
+      "death_place": null
+    }
+  ]
+}

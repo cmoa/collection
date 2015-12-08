@@ -1,0 +1,39 @@
+{
+  "title": "Marriage Cup",
+  "creation_date": "1760",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "silver",
+  "accession_number": "34.2.9",
+  "id": "cmoa:things/905b456f-9c58-4046-ab7b-e90d1be23ded",
+  "credit_line": "Bequest of Mary E. B. Gordon",
+  "date_acquired": "1934-06-27",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.75,
+  "item_depth": 0.0,
+  "item_diameter": 5.687,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1921",
+  "provenance_text": "Mary E. B. Gordon, Pittsburgh, PA, 1934; bequest to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1934.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8256&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f09c308-9663-4f4e-b3de-1f7513e6d957",
+      "party_type": "Person",
+      "full_name": "Johan Steinfort",
+      "cited_name": "Steinfort, Johan",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1740-01-01",
+      "death_date": "1795-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

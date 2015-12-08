@@ -1,0 +1,39 @@
+{
+  "title": "Wistful Girl",
+  "creation_date": "c.1877-1879?",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "28.11",
+  "id": "cmoa:things/e0f59003-3119-4414-9222-366df5ccfabb",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1928-03-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.375,
+  "item_height": 25.5,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006121",
+  "provenance_text": "Gustave Wiegand as agent, New York, 1927; Private collection, Munich, 1927 [1]. Purchased by Museum, 1928. \nNOTES:1. Recorded as \"Anonymous Munich collector and friend of the artist\".",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8787&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25f7b743-5a62-493e-9630-c65bf91a4282",
+      "party_type": "Person",
+      "full_name": "Frank Duveneck",
+      "cited_name": "Duveneck, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": " Covington (Kenton county, Kentucky, United States)",
+      "death_place": " Cincinnati (Hamilton county, Ohio, United States)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "A Cloudy Day",
+  "creation_date": "May 10, 1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "etching and color aquatint",
+  "accession_number": "2009.73.11",
+  "id": "cmoa:things/08efe7b1-f57e-4c1e-a9be-b186d0b74729",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88798",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112794&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/26f92694-7185-454b-9282-8261052e0f1f",
+      "party_type": "Person",
+      "full_name": "David Cox",
+      "cited_name": "Cox, David",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1783-01-01",
+      "death_date": "1859-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1d086171-8e7d-4923-8a04-f2ea67bb73f4",
+      "party_type": "Person",
+      "full_name": "C.R. Stock",
+      "cited_name": "Stock, C.R.",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/34c8ab23-9633-401a-bb58-3826432944a7",
+      "party_type": "Organization",
+      "full_name": "Lufrini, Grays, Chamber Holborn",
+      "cited_name": "Lufrini, Grays, Chamber Holborn",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

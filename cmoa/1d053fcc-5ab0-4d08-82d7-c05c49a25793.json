@@ -1,0 +1,42 @@
+{
+  "title": "Celestial Promenade",
+  "creation_date": null,
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "etching",
+  "accession_number": "77.10.1",
+  "id": "cmoa:things/1d053fcc-5ab0-4d08-82d7-c05c49a25793",
+  "credit_line": "Gift of Helen King Boyer in memory of her mother, Louise M. Boyer",
+  "date_acquired": "1977-05-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018301",
+  "provenance_text": "Helen King Boyer ",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100964&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100965&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/defb04cd-26f3-48f7-888e-e4f2099f9137",
+      "party_type": "Person",
+      "full_name": "Louise Miller Boyer",
+      "cited_name": "Boyer, Louise M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

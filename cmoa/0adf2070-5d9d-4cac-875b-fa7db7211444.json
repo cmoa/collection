@@ -1,0 +1,42 @@
+{
+  "title": "Frauenbad (Women's Bath)",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "drypoint on Japanese wove paper",
+  "accession_number": "2010.43",
+  "id": "cmoa:things/0adf2070-5d9d-4cac-875b-fa7db7211444",
+  "credit_line": "Frances G. Scaife Fund and Marhoefer Family Fund",
+  "date_acquired": "2010-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92140",
+  "provenance_text": "Max Beckmann [1884-1950].(Charles M. Young Fine Prints and Drawings, LLC, New York, NY, by October 2010); purchased by Carnegie Museum of Art, Pittsburgh, PA, October 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103473&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110876&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d6f9c281-e065-4585-8eed-0c40e5c83862",
+      "party_type": "Person",
+      "full_name": "Max Beckmann",
+      "cited_name": "Beckmann, Max",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1884-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": " Leipzig (Leipzig district, Saxony, Germany)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

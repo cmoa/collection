@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1911",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.10",
+  "id": "cmoa:things/87ff1c5b-ee0d-4d53-a451-86201bf43719",
+  "credit_line": "Gift of Bertha Schaefer, New York",
+  "date_acquired": "1959-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 34.0,
+  "item_height": 40.125,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009611",
+  "provenance_text": "Bertha Schaefer Gallery, New York, by 1955; gift to Museum, 1956.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17868&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a6ad224-2132-402d-9cd6-4b511f3fa23d",
+      "party_type": "Person",
+      "full_name": "Alfred Maurer",
+      "cited_name": "Maurer, Alfred H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1868-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

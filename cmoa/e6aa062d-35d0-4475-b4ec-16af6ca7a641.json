@@ -1,0 +1,39 @@
+{
+  "title": "Pi (disc)",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "jade",
+  "accession_number": "35.2.9",
+  "id": "cmoa:things/e6aa062d-35d0-4475-b4ec-16af6ca7a641",
+  "credit_line": "Gift in memory of J. M. Ferguson by his daughters, Mrs. Pendleton and Mrs. Tilford",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.438,
+  "item_depth": 0.0,
+  "item_diameter": 2.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006857",
+  "provenance_text": null,
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1196&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Target for No Shooting",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.25.1",
+  "id": "cmoa:things/9312c261-45e2-450c-be72-2134d2c97385",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1960-09-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 83.5,
+  "item_height": 91.375,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011172",
+  "provenance_text": "Anonymous donor, by September 1960; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=161&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3df6c647-6f5d-4bf8-ad7b-ff6c7b46eaf4",
+      "party_type": "Person",
+      "full_name": "Alan Davie",
+      "cited_name": "Davie, Alan",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1920-01-01",
+      "death_date": "2014-01-01",
+      "birth_place": "Grangemouth (Falkirk, Scotland, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

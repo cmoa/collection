@@ -1,0 +1,39 @@
+{
+  "title": "Boss and Apprentice",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1323",
+  "id": "cmoa:things/cc81e923-5e4e-41d6-b50c-66a53eb8ed84",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027145",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 7/7/1975.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34318&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5f93f462-435b-441b-bab1-61cd7306fb35",
+      "party_type": "Person",
+      "full_name": "Tajima Hiroyuki",
+      "cited_name": "Tajima Hiroyuki",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1911-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

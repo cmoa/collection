@@ -1,0 +1,42 @@
+{
+  "title": "The Tinker's Song",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "pen and ink on cardboard",
+  "accession_number": "14.4",
+  "id": "cmoa:things/ef265e56-e742-448d-8c60-1f1c3dd7b1ed",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000949",
+  "provenance_text": "Purchase; Provenance: Wesley Harper, Inc., New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84823&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad3f607d-0873-48e8-972d-727ed2868864",
+      "party_type": "Person",
+      "full_name": "Edwin Austin Abbey",
+      "cited_name": "Abbey, Edwin A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "London, England"
+    }
+  ]
+}

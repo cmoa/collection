@@ -1,0 +1,39 @@
+{
+  "title": "Boulevard Bonne Nouvelle",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.87.14",
+  "id": "cmoa:things/b993e535-f858-4ab8-93a5-0b1275b41fd7",
+  "credit_line": "Gift of L. Bradley Camp",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.938,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025222",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98604&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bca38816-6f7e-423d-b070-e42e9cd3143d",
+      "party_type": "Person",
+      "full_name": "Eugène Atget",
+      "cited_name": "Atget, Eugène",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1857-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": "Libourne (Gironde, Aquitaine, France)",
+      "death_place": "Paris"
+    }
+  ]
+}

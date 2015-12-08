@@ -1,0 +1,51 @@
+{
+  "title": "Prayer for Peace",
+  "creation_date": "c. 1926-1940",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "etching on paper",
+  "accession_number": "95.101.27",
+  "id": "cmoa:things/cbe4e1d9-501c-4353-93b4-c9a13e16b0cf",
+  "credit_line": "Gift of David L. Purdy",
+  "date_acquired": "1995-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 12.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035369",
+  "provenance_text": "Earl Purdy [1892-1971]. David L. Purdy, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, October 1995.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114682&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ba8c351a-1864-4867-bb31-c85ef426b37e",
+      "party_type": "Person",
+      "full_name": "Earl Purdy",
+      "cited_name": "Purdy, Earl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c80902e5-e704-4bb8-96ac-b2f08d7791b2",
+      "party_type": "Person",
+      "full_name": "Leonard Leibowitz",
+      "cited_name": "Leibowitz, Leonard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

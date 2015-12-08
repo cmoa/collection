@@ -1,0 +1,39 @@
+{
+  "title": "Violin and bow",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "aluminum, paint, plastic, wire, wood",
+  "accession_number": "2002.71.A-B",
+  "id": "cmoa:things/ab85a7c2-0881-49e5-9c98-7b6033400268",
+  "credit_line": "Gift in honor of Charles O. Ingram",
+  "date_acquired": "2002-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.25,
+  "item_height": 4.5,
+  "item_depth": 8.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=695",
+  "provenance_text": "Jack D. Ramaley, Boulder, Co.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d86eadf5-c46e-46f5-8397-08ec8316ee65",
+      "party_type": "Organization",
+      "full_name": "Aluminum Music Instrument Co. Inc.",
+      "cited_name": "Aluminum Music Instrument Co. Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "late 19th century",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": null,
+  "accession_number": "2002.21.1.4",
+  "id": "cmoa:things/a35fa6be-eb89-4b0e-8dac-535dab4c9aec",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 19.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=43",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20492&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/13f822c9-e255-41b2-8d4c-75109ebcee33",
+      "party_type": "Organization",
+      "full_name": "Ault Pottery",
+      "cited_name": "Ault Pottery",
+      "role": "manufacturer",
+      "nationality": null,
+      "birth_date": "1887-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

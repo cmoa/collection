@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "69.43.12",
+  "id": "cmoa:things/a3cad7b3-bc69-4393-956a-e888ec2a20e1",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 27.75,
+  "item_height": 31.75,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012585",
+  "provenance_text": "Found in collection storage of Carnegie Museum of Art and accessioned in 1969 [1]. \n\nNOTES:\n1. Minutes of Museum of Art Committee Meeting, 12/17/1969. \n\nTBF 10/28/2014.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1878",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "porcelain",
+  "accession_number": "48.2.1",
+  "id": "cmoa:things/fb5acce9-75f0-40a2-a3d4-7bd1f5ffcd97",
+  "credit_line": "Gift of Charles Reizenstein and Sons",
+  "date_acquired": "1948-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.812,
+  "item_depth": 0.0,
+  "item_diameter": 6.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008269",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4399&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d3b641b-5ded-4a58-b7ed-d1441e038311",
+      "party_type": "Organization",
+      "full_name": "Royal Worcester Porcelain Company",
+      "cited_name": "Royal Worcester Porcelain Company",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

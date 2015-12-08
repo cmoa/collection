@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.21",
+  "id": "cmoa:things/02b76045-5691-4869-97a2-9b3018d65be6",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018237",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106496&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93fd9df5-e0db-41b7-84db-df3453159eb1",
+      "party_type": "Person",
+      "full_name": "Robert Rauschenberg",
+      "cited_name": "Rauschenberg, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "Port Arthur (Jefferson County, Texas, United States)",
+      "death_place": "Captiva Island, Florida"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Greater Pittsburgh International Airport, Pittsburgh, PA; [architectural model]",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "wood, plastic, flocking, paint",
+  "accession_number": "94.192.3",
+  "id": "cmoa:things/21a236df-b40d-4d66-b51d-eb2b599fef0d",
+  "credit_line": "Gift of Tasso Katselas",
+  "date_acquired": "1994-09-22",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034590",
+  "provenance_text": "Tasso Katselas, Pittsburgh, PA",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147321&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147322&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147355&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9137d8b5-767a-4e57-9ab1-b695fb78519f",
+      "party_type": "Organization",
+      "full_name": "Tasso Katselas Associates, Inc.",
+      "cited_name": "Katselas, Tasso Associates, Inc.",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

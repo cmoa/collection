@@ -1,0 +1,39 @@
+{
+  "title": "Ivory Black",
+  "creation_date": "1966-1967",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "industrial wrinkle finish paint (oil-based) on aluminum",
+  "accession_number": "1997.30.15",
+  "id": "cmoa:things/507105ba-a41c-4c94-9cc0-8672d8a144a3",
+  "credit_line": "Gift of Lannan Foundation",
+  "date_acquired": "1997-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 46.0,
+  "item_height": 46.0,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003254",
+  "provenance_text": "Lannan Foundation, Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26487&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c4ee092-fef6-43cc-b20e-632a32c9e466",
+      "party_type": "Person",
+      "full_name": "Dorothea Rockburne",
+      "cited_name": "Rockburne, Dorothea",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Montréal, Quebec, Canada",
+      "death_place": null
+    }
+  ]
+}

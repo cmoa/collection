@@ -1,0 +1,42 @@
+{
+  "title": "Day's Journey End",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "drypoint on zinc",
+  "accession_number": "50.17.2",
+  "id": "cmoa:things/ca28a7e1-c0a8-470e-8171-77f37c13cdae",
+  "credit_line": "Gift of Frederic N. Price",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008824",
+  "provenance_text": "Ferargil, Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101048&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

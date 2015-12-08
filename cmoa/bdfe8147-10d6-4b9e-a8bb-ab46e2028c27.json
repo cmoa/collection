@@ -1,0 +1,51 @@
+{
+  "title": "House, Delaware; [exterior perspective]",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "watercolor on card",
+  "accession_number": "92.38",
+  "id": "cmoa:things/bdfe8147-10d6-4b9e-a8bb-ab46e2028c27",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-06-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 37.375,
+  "item_height": 27.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032334",
+  "provenance_text": "The Antique Gallery, PA, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9912&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/465e9cfd-2e5d-40fe-ad7c-c55c8fc7ee0f",
+      "party_type": "Person",
+      "full_name": "Herbert C. Douden",
+      "cited_name": "Douden, Herbert C.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c3b1950e-f958-4e6f-8206-13bcfa8d6a48",
+      "party_type": "Person",
+      "full_name": "John Wenrich",
+      "cited_name": "Wenrich, John",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

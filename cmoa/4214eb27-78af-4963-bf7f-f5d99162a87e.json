@@ -1,0 +1,51 @@
+{
+  "title": "Shinbashi Theatre (Shinbashi enbujô)",
+  "creation_date": "4/24/1929",
+  "creation_date_earliest": "1929-04-24",
+  "creation_date_latest": "1929-04-24",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.732.1",
+  "id": "cmoa:things/4214eb27-78af-4963-bf7f-f5d99162a87e",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028863",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Set acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29489&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d058d98b-378a-4f71-a1da-4781c148078c",
+      "party_type": "Person",
+      "full_name": "Suwa Kanenori",
+      "cited_name": "Suwa Kanenori",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1897-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Miniature portrait of the artist's wife Louisa Christiana Crollius (1726-1763)",
+  "creation_date": "1754",
+  "creation_date_earliest": "1754-01-01",
+  "creation_date_latest": "1754-01-01",
+  "medium": "oil on vellum",
+  "accession_number": "27.10.261",
+  "id": "cmoa:things/13fe08b3-e6d0-48c1-8973-7da86ad3e56a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 7.125,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005691",
+  "provenance_text": "Prof. Dr. Michelson, Frankfurt, Germany. Edward D. Feldman, Albany, New York. (Sold at Statinover Galleries, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, November 3, 1922; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73717&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c940a20-c769-4b6d-a263-7ac0ab957722",
+      "party_type": "Person",
+      "full_name": "Jakob Friedrich Leclerc",
+      "cited_name": "Leclerc, Jakob F.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1717-01-01",
+      "death_date": "1768-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Vienna (Wien state, Austria)"
+    }
+  ]
+}

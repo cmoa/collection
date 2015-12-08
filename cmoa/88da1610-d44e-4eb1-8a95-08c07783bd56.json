@@ -1,0 +1,39 @@
+{
+  "title": "Captain Pierce",
+  "creation_date": "1786",
+  "creation_date_earliest": "1786-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.7",
+  "id": "cmoa:things/88da1610-d44e-4eb1-8a95-08c07783bd56",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34305",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39213&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eaa72102-4a31-4002-92b9-a77dcc26e924",
+      "party_type": "Person",
+      "full_name": "Isaac Cruikshank",
+      "cited_name": "Cruikshank, Isaac",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1764-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " Edinburgh (Edinburgh, Scotland, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

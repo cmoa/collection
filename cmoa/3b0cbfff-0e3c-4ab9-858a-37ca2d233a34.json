@@ -1,0 +1,39 @@
+{
+  "title": "Eau Forte Bleue",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "etching on paper",
+  "accession_number": "89.28.11",
+  "id": "cmoa:things/3b0cbfff-0e3c-4ab9-858a-37ca2d233a34",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 22.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026979",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdd027a3-27a7-4208-9d38-b6b57a1ed4a4",
+      "party_type": "Person",
+      "full_name": "Zao Wou-Ki",
+      "cited_name": "Wou-Ki, Zao",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1921-01-01",
+      "death_date": "2013-04-09",
+      "birth_place": "Beijing, China",
+      "death_place": "Switzerland"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Gentleman",
+  "creation_date": "c. 1790-1810",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "black chalk on light blue paper",
+  "accession_number": "75.47.25",
+  "id": "cmoa:things/ca6c56a9-339e-4852-b24a-abf2f9e5ead5",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017788",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8846096c-153c-4547-a5d1-d3cdc946e0fa",
+      "party_type": "Person",
+      "full_name": "Hilaire Le Dru",
+      "cited_name": "Le Dru, Hilaire",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1769-01-01",
+      "death_date": "1840-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

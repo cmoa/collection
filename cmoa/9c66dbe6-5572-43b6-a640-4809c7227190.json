@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Robert, Lord Brooke",
+  "creation_date": "1647",
+  "creation_date_earliest": "1647-01-01",
+  "creation_date_latest": "1647-01-01",
+  "medium": "watercolor on card or vellum, gold and enamel frame",
+  "accession_number": "27.10.12",
+  "id": "cmoa:things/9c66dbe6-5572-43b6-a640-4809c7227190",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.938,
+  "item_height": 3.0,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005605",
+  "provenance_text": "Edward Marshall Hall [1858-1927]; E. M. Hodgkins, New York, NY, April 20, 1917; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 20, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73404&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73405&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/323d2a4a-bc30-4731-b466-675b89d8b177",
+      "party_type": "Person",
+      "full_name": "Samuel Cooper",
+      "cited_name": "Cooper, Samuel",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1609-01-01",
+      "death_date": "1672-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    }
+  ]
+}

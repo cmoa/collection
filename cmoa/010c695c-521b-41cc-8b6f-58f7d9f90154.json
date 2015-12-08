@@ -1,0 +1,37 @@
+{
+  "title": "Henry James",
+  "creation_date": "1898",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "16.16.1",
+  "id": "cmoa:things/010c695c-521b-41cc-8b6f-58f7d9f90154",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001073",
+  "provenance_text": "Ehrich Galleries, 707 Fifth Ave., New York City, NY",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3eecf829-01e0-4ce0-8565-39d5d84d8297",
+      "party_type": "Person",
+      "full_name": "Sir William Rothenstein",
+      "cited_name": "Rothenstein, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1872-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Bradford borough (England, United Kingdom) (borough)",
+      "death_place": "Far Oakridge (Gloucestershire, England, United Kingdom)"
+    }
+  ]
+}

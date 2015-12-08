@@ -1,0 +1,42 @@
+{
+  "title": "Young Couple",
+  "creation_date": "1852",
+  "creation_date_earliest": "1852-01-01",
+  "creation_date_latest": "1852-01-01",
+  "medium": "sixth-plate daguerreotype",
+  "accession_number": "2009.19",
+  "id": "cmoa:things/23160805-fcb1-4fb1-927f-c9bca7ef05a7",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 2.75,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80667",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118713&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82119&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e20ec6a-5921-40ff-a88d-4b20db858638",
+      "party_type": "Person",
+      "full_name": "John Nelson",
+      "cited_name": "Nelson, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1859-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

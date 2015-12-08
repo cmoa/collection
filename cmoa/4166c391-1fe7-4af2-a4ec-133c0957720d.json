@@ -1,0 +1,39 @@
+{
+  "title": "The Tribulations of St. Anthony",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.83",
+  "id": "cmoa:things/4166c391-1fe7-4af2-a4ec-133c0957720d",
+  "credit_line": "John Henry Craner Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.625,
+  "item_height": 24.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010936",
+  "provenance_text": "Francios Van Haelen, 1929-1938; Jean van Weyenbergh, Quaregnon, Belgium, until 1958; purchased by Museum, November 1958.\n\nFrom catalogue raisonne by Xavier Tricot \"James Ensor Catalogue Raisonne Des Peintures\"\nD. Van Haelen, Brussels;  J. Van Haelen, Brussels;  J. Van Weyenbergh, Quaregnon",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/216554a6-6fc4-4ad6-a4f8-f8c5b0df5892",
+      "party_type": "Person",
+      "full_name": "James Ensor",
+      "cited_name": "Ensor, James",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1860-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Ostend (West-Vlaanderen, Flanders, Belgium)",
+      "death_place": "Ostend (West-Vlaanderen, Flanders, Belgium)"
+    }
+  ]
+}

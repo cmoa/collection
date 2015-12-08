@@ -1,0 +1,39 @@
+{
+  "title": "Venus",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "porcelain",
+  "accession_number": "72.24",
+  "id": "cmoa:things/d6af5410-f7e4-4682-897e-643031468ce1",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1972-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 9.875,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016397",
+  "provenance_text": "Hans H. Mischell, Germany, Cologne",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3280&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c8eb48e-ca13-463e-b67a-69a5e731fdf5",
+      "party_type": "Organization",
+      "full_name": "Cassel Porcelain Factory",
+      "cited_name": "Cassel Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1766-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

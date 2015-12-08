@@ -1,0 +1,39 @@
+{
+  "title": "Mac World (Cupertino)",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "cardboard and adhesive",
+  "accession_number": "2012.34",
+  "id": "cmoa:things/ef1fb2e1-2bdd-43b0-9c9f-25cec082d879",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "2012-10-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 21.75,
+  "item_height": 6.875,
+  "item_depth": 27.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=97961",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126039&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d5978c0-c66e-41e5-99f0-4fceb5f87022",
+      "party_type": "Person",
+      "full_name": "Maya Ying Lin",
+      "cited_name": "Lin, Maya Ying",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "Athens (Athens county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

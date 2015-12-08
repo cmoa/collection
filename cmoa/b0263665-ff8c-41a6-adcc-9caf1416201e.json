@@ -1,0 +1,51 @@
+{
+  "title": "John Dunning, 1st Baron Ashburton?",
+  "creation_date": "1787",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.17",
+  "id": "cmoa:things/b0263665-ff8c-41a6-adcc-9caf1416201e",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 15.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34336",
+  "provenance_text": "Rolf and Magda Loeber, by February 2007; gift to Carnegie Museum of Art, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39274&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a202fc52-b50a-4e91-8787-31f247dd46a4",
+      "party_type": "Person",
+      "full_name": "Francesco Bartolozzi",
+      "cited_name": "Bartolozzi, Francesco",
+      "role": "printmaker",
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Lisbon (Distrito de Lisboa, Portugal)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Landscape (Trees)",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.15",
+  "id": "cmoa:things/31477cf7-4f0c-43b6-ba31-459d03d56127",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 20.125,
+  "item_height": 30.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019224",
+  "provenance_text": "Mr. and Mrs. Arthur Braun, Pittsburgh, by 1925; Elizabeth Braun, their daughter, Pittsburgh, 1976 [1]; gift to Museum, 1978. \nNOTES:1. Mrs. Paul B. Ernst",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113263&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

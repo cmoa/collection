@@ -1,0 +1,39 @@
+{
+  "title": "Brush Holder",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "Earthenware",
+  "accession_number": "76.3",
+  "id": "cmoa:things/5f0de3d1-555a-44ec-873d-2b17ab0c5b39",
+  "credit_line": "Walter Read Hovey Collection",
+  "date_acquired": "1976-02-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.375,
+  "item_depth": 0.0,
+  "item_diameter": 3.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018113",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d8600d0-029b-4d27-941b-3d3b66d11138",
+      "party_type": "Person",
+      "full_name": "unknown Chinese, Henan province",
+      "cited_name": "unknown Chinese, Henan province",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

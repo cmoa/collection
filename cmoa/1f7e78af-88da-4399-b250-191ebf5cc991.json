@@ -1,0 +1,42 @@
+{
+  "title": "Vessel",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "porcelain",
+  "accession_number": "85.34",
+  "id": "cmoa:things/1f7e78af-88da-4399-b250-191ebf5cc991",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.25,
+  "item_height": 25.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025524",
+  "provenance_text": "Susanne Stephenson, Ann Arbor, MI",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11630&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4432&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a296e0d7-7e9c-4142-9cd2-0516725c7156",
+      "party_type": "Person",
+      "full_name": "Susanne Stephenson",
+      "cited_name": "Stephenson, Susanne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

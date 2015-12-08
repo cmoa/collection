@@ -1,0 +1,51 @@
+{
+  "title": "Tray Fitted with Three Pots, Each with Separate Flat Lid topped (Confiturie)",
+  "creation_date": "1765",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "soft paste porcelain",
+  "accession_number": "70.32.1316.A-D",
+  "id": "cmoa:things/9699424b-efd2-4e40-9cb5-5722783d6e67",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.563,
+  "item_height": 3.5,
+  "item_depth": 7.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013412",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1316&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/87a3edeb-3002-48d6-a771-61e202357be6",
+      "party_type": "Person",
+      "full_name": "François Vavasseur",
+      "cited_name": "Vavasseur, François",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1753-01-01",
+      "death_date": "1770-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cleopatra",
+  "creation_date": "1777",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.15",
+  "id": "cmoa:things/253a47b6-114e-4067-9e82-8d8d00ba3cd3",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 15.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34333",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bdfad77-6335-472b-949a-b602213e049d",
+      "party_type": "Person",
+      "full_name": "Georg Siegmund Facius",
+      "cited_name": "Facius, Georg Siegmund",
+      "role": "printmaker",
+      "nationality": "German",
+      "birth_date": "1740-01-01",
+      "death_date": "1814-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

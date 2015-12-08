@@ -1,0 +1,42 @@
+{
+  "title": "Dance",
+  "creation_date": null,
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "color silkscreen print",
+  "accession_number": "80.5.1",
+  "id": "cmoa:things/3e287c8c-4db1-404b-91c2-fe9402171a3a",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1980-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021229",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Anthony Arkus, Pittsburgh, PA, 1980.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103528&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78883&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4bbf29e-df6c-47b4-8c09-b5964e686432",
+      "party_type": "Person",
+      "full_name": "Russell Gould Twiggs",
+      "cited_name": "Twiggs, Russell G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Sandusky, OH",
+      "death_place": null
+    }
+  ]
+}

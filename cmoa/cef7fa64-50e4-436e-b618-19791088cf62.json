@@ -1,0 +1,39 @@
+{
+  "title": "Villes et Route",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "ink on paper",
+  "accession_number": "78.56.1",
+  "id": "cmoa:things/cef7fa64-50e4-436e-b618-19791088cf62",
+  "credit_line": "Gift of Senator and Mrs. H. John Heinz III",
+  "date_acquired": "1979-02-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020110",
+  "provenance_text": "Gift of Senator and Mrs. H. John Heinz III, Pittsburgh, PA, 1979.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99713&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/607703ce-8d12-44a9-91f1-f0f1089da8f3",
+      "party_type": "Person",
+      "full_name": "Jean Dubuffet",
+      "cited_name": "Dubuffet, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

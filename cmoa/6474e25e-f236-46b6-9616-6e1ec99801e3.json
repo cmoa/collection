@@ -1,0 +1,49 @@
+{
+  "title": "Box",
+  "creation_date": "1903-1904",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "fabric",
+  "accession_number": "1996.51.3",
+  "id": "cmoa:things/6474e25e-f236-46b6-9616-6e1ec99801e3",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.625,
+  "item_height": 2.25,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002157",
+  "provenance_text": "H. Blairman & Sons, London, England",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e800c047-b82b-499b-9fe0-1b5c2c409a94",
+      "party_type": "Person",
+      "full_name": "Charles Robert Ashbee",
+      "cited_name": "Ashbee, Charles Robert",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1863-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db7122d2-4c81-4592-81a2-c795d4baa278",
+      "party_type": "Organization",
+      "full_name": "Guild of Handicraft",
+      "cited_name": "Guild of Handicraft",
+      "role": "maker",
+      "nationality": "British",
+      "birth_date": "1888-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Palais Royal Garden Walk (after Claude-Louis Resrois)",
+  "creation_date": "1787",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "aquatint",
+  "accession_number": "70.32.2598",
+  "id": "cmoa:things/af64674c-0cd8-49cf-9c43-01e108007d72",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014827",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111094&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2a52de03-c5a6-411e-b4bf-85740494b4dd",
+      "party_type": "Person",
+      "full_name": "Louis Lecoeur",
+      "cited_name": "Lecoeur, Louis",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1790-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

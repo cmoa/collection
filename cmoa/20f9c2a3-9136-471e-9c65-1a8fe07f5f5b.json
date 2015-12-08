@@ -1,0 +1,39 @@
+{
+  "title": "A Grassy Place (Kusamura)",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "wood engraving with watercolor",
+  "accession_number": "89.28.788",
+  "id": "cmoa:things/20f9c2a3-9136-471e-9c65-1a8fe07f5f5b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.313,
+  "item_height": 13.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028946",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35418&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a4e5b4d2-af09-410f-af23-4885b4aae0fb",
+      "party_type": "Person",
+      "full_name": "Kitaoka Fumio",
+      "cited_name": "Kitaoka Fumio",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1918-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Tokyo",
+      "death_place": null
+    }
+  ]
+}

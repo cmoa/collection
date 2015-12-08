@@ -1,0 +1,39 @@
+{
+  "title": "Egham",
+  "creation_date": "1859",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "etching",
+  "accession_number": "17.7.3",
+  "id": "cmoa:things/f9c42422-25f6-4672-9f35-7fde7cf107d5",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001639",
+  "provenance_text": "Max Williams",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105231&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Winter Bouquet",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1473",
+  "id": "cmoa:things/9d2bfecd-02c6-46d1-a6dd-d2626b077c40",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027389",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, Ill., 8/11/1961.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34289&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2b48c4b-ecb8-4c59-9b92-8fe1ecc2fadd",
+      "party_type": "Person",
+      "full_name": "Yoshida Chizuko",
+      "cited_name": "Yoshida Chizuko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Japan, Yokohama",
+      "death_place": null
+    }
+  ]
+}

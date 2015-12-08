@@ -1,0 +1,51 @@
+{
+  "title": "John Stanley, Esq.",
+  "creation_date": "1781",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1781-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.13",
+  "id": "cmoa:things/a7f552bf-ad8f-4950-a419-2f152f178c3f",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34329",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39236&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/14a68d8c-2e83-444d-b066-b643cae8f5d4",
+      "party_type": "Person",
+      "full_name": "Mary Ann Rigg",
+      "cited_name": "Rigg, Mary Ann",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1785-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8969679a-64cd-4e1d-840d-f0c2043d164f",
+      "party_type": "Person",
+      "full_name": "Thomas Gainsborough",
+      "cited_name": "Gainsborough, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1727-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": " Sudbury (Suffolk, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Castile (Espana)",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "94.72.2.2",
+  "id": "cmoa:things/ce5b7b38-04c4-428b-b4ba-4832cc11da2b",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Charles Denby, by exchange",
+  "date_acquired": "1994-06-09",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 71.25,
+  "item_height": 47.25,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035247",
+  "provenance_text": "Dedalus Foundation, Inc., NY, Bedford Hills",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26588&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/751c41cc-eb32-47f5-9dd9-6de56f97d09e",
+      "party_type": "Person",
+      "full_name": "Robert Motherwell",
+      "cited_name": "Motherwell, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aberdeen, Washington",
+      "death_place": "Aberdeen, Washington"
+    }
+  ]
+}

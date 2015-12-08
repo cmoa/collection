@@ -1,0 +1,39 @@
+{
+  "title": "Epilogue",
+  "creation_date": null,
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.13",
+  "id": "cmoa:things/72c4106e-c254-4f43-a8e0-f3ed7b3559e9",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008461",
+  "provenance_text": "Fritz Eichenberg",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100399&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/982036c4-7f58-42da-b22d-82041b02a149",
+      "party_type": "Person",
+      "full_name": "Fritz Eichenberg",
+      "cited_name": "Eichenberg, Fritz",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Cologne (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Peace Dale (Washington county, Rhode Island, United States)"
+    }
+  ]
+}

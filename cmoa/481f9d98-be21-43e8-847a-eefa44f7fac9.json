@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "lustreware",
+  "accession_number": "2002.29.4",
+  "id": "cmoa:things/481f9d98-be21-43e8-847a-eefa44f7fac9",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.5,
+  "item_depth": 0.0,
+  "item_diameter": 12.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=219",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8426&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

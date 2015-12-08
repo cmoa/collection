@@ -1,0 +1,39 @@
+{
+  "title": "\"Le Couple\" (\"The Couple\")",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.58.8",
+  "id": "cmoa:things/bc6fc417-e120-41e5-ac96-c96a6d5ca8eb",
+  "credit_line": "Gift of Duane Michals",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.5,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100721",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119028&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08774f61-4c91-4877-971d-d61aeacdb0dd",
+      "party_type": "Person",
+      "full_name": "Herbert List",
+      "cited_name": "List, Herbert",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Hamburg (Hamburg state, Germany)",
+      "death_place": "Munich (Oberbayern, Bavaria, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1887-1888",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "pressed amberina glass",
+  "accession_number": "88.27.1",
+  "id": "cmoa:things/d8d96fb9-15de-4cf2-a05a-5f4f643f0e46",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1988-09-29",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 4.5,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026492",
+  "provenance_text": "W. M. Schwind, Jr. Antiques, ME, Yarmouth",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1528&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11384770-8a39-4b2f-a51c-38e279ceba1c",
+      "party_type": "Organization",
+      "full_name": "New England Glass Co.",
+      "cited_name": "New England Glass Co.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1818-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3e3f49e5-12aa-4c0f-90dc-254ce03c5de0",
+      "party_type": "Person",
+      "full_name": "Joseph Locke",
+      "cited_name": "Locke, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Worcester, England",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Couple",
+  "creation_date": "c. 1909",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "graphite, ink, crayon, and wash on brown paper",
+  "accession_number": "61.27",
+  "id": "cmoa:things/f7eb65a9-839b-4671-a076-abf2365f1047",
+  "credit_line": "Speyer Purchase Fund for Drawings",
+  "date_acquired": "1961-09-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.25,
+  "item_height": 17.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011410",
+  "provenance_text": "Erich Lederer;  Mrs. Walter Feilchenfeldt, Zurich, Switzerland\n\n[Erich Lederer, Austrian, fled to Switzerland in 1930s, brought most of his Schiele collection with him (Kallir, Schiele Catalogue raisonne)]",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99653&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/967448d4-0ac0-40eb-87d7-19abe4c9dced",
+      "party_type": "Person",
+      "full_name": "Egon Schiele",
+      "cited_name": "Schiele, Egon",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1890-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Vienna state, Austria",
+      "death_place": "Vienna, Austria"
+    }
+  ]
+}

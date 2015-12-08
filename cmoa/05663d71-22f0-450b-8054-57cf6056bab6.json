@@ -1,0 +1,51 @@
+{
+  "title": "Cafe District in Shinjuku",
+  "creation_date": "10/8/1930",
+  "creation_date_earliest": "1930-10-08",
+  "creation_date_latest": "1930-10-08",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.72.8",
+  "id": "cmoa:things/05663d71-22f0-450b-8054-57cf6056bab6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028854",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=245&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/26923d90-8215-4d3d-bbae-2de50fdad003",
+      "party_type": "Person",
+      "full_name": "Fukazawa Sakuichi",
+      "cited_name": "Fukazawa Sakuichi",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1896-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

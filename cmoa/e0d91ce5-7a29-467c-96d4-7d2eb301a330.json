@@ -1,0 +1,39 @@
+{
+  "title": "Yoshiwara: Kurenai of Aka-Tsutaya",
+  "creation_date": "c. 1821-1823",
+  "creation_date_earliest": "1821-01-01",
+  "creation_date_latest": "1823-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.46",
+  "id": "cmoa:things/e0d91ce5-7a29-467c-96d4-7d2eb301a330",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028284",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110884&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb30d65b-b07c-4851-8650-9e5d1ad75619",
+      "party_type": "Person",
+      "full_name": "Ikeda Eisen",
+      "cited_name": "Ikeda Eisen",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1790-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": null
+    }
+  ]
+}

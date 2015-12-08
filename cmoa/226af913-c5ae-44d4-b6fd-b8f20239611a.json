@@ -1,0 +1,39 @@
+{
+  "title": "Oval-shaped vase",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "white stoneware",
+  "accession_number": "2008.72.3",
+  "id": "cmoa:things/226af913-c5ae-44d4-b6fd-b8f20239611a",
+  "credit_line": "Gift of John and Robyn Horn",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 10.0,
+  "item_height": 9.25,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=66061",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f3e94e7c-80f3-4fe1-acfb-abf5fe7e99cf",
+      "party_type": "Person",
+      "full_name": "Karl Yost",
+      "cited_name": "Yost, Karl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

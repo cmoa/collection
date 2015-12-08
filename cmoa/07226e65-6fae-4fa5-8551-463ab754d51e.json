@@ -1,0 +1,39 @@
+{
+  "title": "Figures on the Coast",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "04.5.1",
+  "id": "cmoa:things/07226e65-6fae-4fa5-8551-463ab754d51e",
+  "credit_line": "Carnegie Special Fund",
+  "date_acquired": "1904-12-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000114",
+  "provenance_text": "Macbeth Gallery, New York; Carnegie Special Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d25df2d-ee53-407b-9727-3c77d390735f",
+      "party_type": "Person",
+      "full_name": "Winslow Homer",
+      "cited_name": "Homer, Winslow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-02-24",
+      "death_date": "1910-09-29",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "Prouts Neck (Cumberland county, Maine, United States)"
+    }
+  ]
+}

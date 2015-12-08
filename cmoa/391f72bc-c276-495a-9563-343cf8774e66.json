@@ -1,0 +1,49 @@
+{
+  "title": "Champagne chair",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "acrylic, aluminum, and plastic",
+  "accession_number": "2000.41.1.A-B",
+  "id": "cmoa:things/391f72bc-c276-495a-9563-343cf8774e66",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 24.125,
+  "item_height": 31.25,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004056",
+  "provenance_text": "Icon 20, New York",
+  "classification": "Plastic/Synthetic",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9fb43e84-3a76-4dbf-a526-bc7d0c9d5dc5",
+      "party_type": "Person",
+      "full_name": "Erwine Louis Laverne",
+      "cited_name": "Laverne, Erwine Louis",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0e43121b-1921-411a-9013-3d64e3e78719",
+      "party_type": "Person",
+      "full_name": "Estelle Laverne",
+      "cited_name": "Laverne, Estelle",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

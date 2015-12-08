@@ -1,0 +1,39 @@
+{
+  "title": "Hoochy-Coochy",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "82.62",
+  "id": "cmoa:things/659aeae1-f062-4f87-ba2c-2e23d7428d8c",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 91.0,
+  "item_height": 101.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023037",
+  "provenance_text": "Jacobson/Hochman Gallery, NYC via the Carnegie International 1982",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126368&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0c15033-912b-4e09-9906-6defbd7aa817",
+      "party_type": "Person",
+      "full_name": "John Hoyland",
+      "cited_name": "Hoyland, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1934-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Sheffield unitary authority (England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

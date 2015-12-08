@@ -1,0 +1,39 @@
+{
+  "title": "Sad Soloist",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.239",
+  "id": "cmoa:things/8897e74e-117a-48be-9eb1-f3ad395c6ad1",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012824",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108004&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5ad6989-201b-4e54-94ba-7e323050163a",
+      "party_type": "Person",
+      "full_name": "Danny Pierce",
+      "cited_name": "Pierce, Danny",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": "Woodlake, California",
+      "death_place": null
+    }
+  ]
+}

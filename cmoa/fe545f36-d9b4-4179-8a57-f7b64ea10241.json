@@ -1,0 +1,51 @@
+{
+  "title": "Radiaver",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "glass, aluminum, and nickeled steel",
+  "accession_number": "2011.52",
+  "id": "cmoa:things/fe545f36-d9b4-4179-8a57-f7b64ea10241",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2011-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 16.75,
+  "item_height": 23.25,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93252",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115972&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7376ce95-e996-4380-bed9-5fd154d85724",
+      "party_type": "Person",
+      "full_name": "René-André Coulon",
+      "cited_name": "Coulon, René-André",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1908-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/77760579-621c-425e-b948-c2749255769c",
+      "party_type": "Organization",
+      "full_name": "Saint Gobain",
+      "cited_name": "Saint Gobain",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

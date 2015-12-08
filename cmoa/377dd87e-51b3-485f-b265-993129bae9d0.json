@@ -1,0 +1,51 @@
+{
+  "title": "Robert John Thornton, M.D.",
+  "creation_date": "1799",
+  "creation_date_earliest": "1799-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.20",
+  "id": "cmoa:things/377dd87e-51b3-485f-b265-993129bae9d0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34354",
+  "provenance_text": "Rolf and Magda Loeber, by February 2007; gift to Carnegie Museum of Art, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39284&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a202fc52-b50a-4e91-8787-31f247dd46a4",
+      "party_type": "Person",
+      "full_name": "Francesco Bartolozzi",
+      "cited_name": "Bartolozzi, Francesco",
+      "role": "printmaker",
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Lisbon (Distrito de Lisboa, Portugal)"
+    },
+    {
+      "artist_id": "cmoa:parties/74d3101e-f468-403c-8bde-68511f6ad5e3",
+      "party_type": "Person",
+      "full_name": "John Russell",
+      "cited_name": "Russell, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1745-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

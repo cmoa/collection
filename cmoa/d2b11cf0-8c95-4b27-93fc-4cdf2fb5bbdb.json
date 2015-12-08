@@ -1,0 +1,42 @@
+{
+  "title": "Das Tor [The Gate]",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "drypoint with etching on medium weight, cream wove paper",
+  "accession_number": "2009.60",
+  "id": "cmoa:things/d2b11cf0-8c95-4b27-93fc-4cdf2fb5bbdb",
+  "credit_line": "Foster Charitable Trust Fund",
+  "date_acquired": "2009-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.75,
+  "item_height": 19.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88567",
+  "provenance_text": "Charles M. Young, Connecticut",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99583&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10dcef74-2855-43d3-948c-96d03822ba17",
+      "party_type": "Person",
+      "full_name": "Lyonel Feininger",
+      "cited_name": "Feininger, Lyonel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "New York City",
+      "death_place": "New York City"
+    }
+  ]
+}

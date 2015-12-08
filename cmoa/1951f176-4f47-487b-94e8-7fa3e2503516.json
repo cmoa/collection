@@ -1,0 +1,51 @@
+{
+  "title": "Untitled (Man Seated in a Palanquin with Man Standing beside It)",
+  "creation_date": "1849-1853",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.274",
+  "id": "cmoa:things/1951f176-4f47-487b-94e8-7fa3e2503516",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 7.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027842",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72731&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/224cdc0a-d7e4-4e35-bae9-3b78e4303f88",
+      "party_type": "Person",
+      "full_name": "Ibaya Senzaburo",
+      "cited_name": "Ibaya Senzaburo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

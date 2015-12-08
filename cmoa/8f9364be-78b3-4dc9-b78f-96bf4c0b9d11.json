@@ -1,0 +1,39 @@
+{
+  "title": "Fune no kuroneko",
+  "creation_date": "before 1939",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1033",
+  "id": "cmoa:things/8f9364be-78b3-4dc9-b78f-96bf4c0b9d11",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.625,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026738",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33004&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/246f5f3a-3b24-4894-bc23-da6fad70f7b3",
+      "party_type": "Person",
+      "full_name": "Matsuki Manji",
+      "cited_name": "Matsuki Manji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1906-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Nelson's Island",
+  "creation_date": "1884",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1884-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.19.3",
+  "id": "cmoa:things/db19a48c-9ee2-4bb5-a54f-a46a82a79d6a",
+  "credit_line": "Received from the Carnegie Museum of Natural History in exchange for Works from the Robert S. Waters Estate",
+  "date_acquired": "1975-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017676",
+  "provenance_text": "Historical Society of Western Pennsylvania, Pittsburgh, PA, 1885, until c.1897; Carnegie Institute Museum of Natural History, Pittsburgh, PA, by 1916; on loan to Carnegie Library, Pittsburgh, PA, 1916 -1975; Recieved from the Carnegie Museum of Natural History in exchange for works from the Robert S. Waters Estate, 1975",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107706&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c586573-c1d9-4b99-bb76-4b9d863b0977",
+      "party_type": "Person",
+      "full_name": "Russell Smith",
+      "cited_name": "Smith, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1812-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

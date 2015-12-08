@@ -1,0 +1,39 @@
+{
+  "title": "Frozen Snow",
+  "creation_date": "1/10/2007",
+  "creation_date_earliest": "2007-01-10",
+  "creation_date_latest": "2007-01-10",
+  "medium": "chromogenic print with hand applied text",
+  "accession_number": "2008.30.3",
+  "id": "cmoa:things/bdfa4ef4-a5df-464c-ba03-d18b6685ca42",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=63793",
+  "provenance_text": "The artist, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72596&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

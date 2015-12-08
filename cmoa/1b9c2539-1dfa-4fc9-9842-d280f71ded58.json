@@ -1,0 +1,39 @@
+{
+  "title": "Closure",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.85",
+  "id": "cmoa:things/1b9c2539-1dfa-4fc9-9842-d280f71ded58",
+  "credit_line": "Gift of Estate of Gene Baro",
+  "date_acquired": "1984-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 60.125,
+  "item_height": 96.0,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025216",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101355&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/291f008b-46a7-4b93-87bb-3b17a8d2c663",
+      "party_type": "Person",
+      "full_name": "William Dutterer",
+      "cited_name": "Dutterer, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Hagerstown, Md.",
+      "death_place": "New York"
+    }
+  ]
+}

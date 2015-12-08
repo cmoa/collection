@@ -1,0 +1,42 @@
+{
+  "title": "Two Models, One Seated on Floor in Kimono",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.43",
+  "id": "cmoa:things/0041c9fb-c7ef-47e9-9593-2b74273581a4",
+  "credit_line": "Fellows Fund",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 97.0,
+  "item_height": 73.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021883",
+  "provenance_text": "Frumkin and Struve Gallery, Chicago, IL",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146355&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56875&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f9348a2-c992-4cb5-8cab-11d99611f125",
+      "party_type": "Person",
+      "full_name": "Philip Pearlstein",
+      "cited_name": "Pearlstein, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

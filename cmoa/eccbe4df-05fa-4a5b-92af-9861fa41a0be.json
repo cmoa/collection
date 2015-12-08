@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "charcoal and gouache on card backed with fabric",
+  "accession_number": "18.33.1",
+  "id": "cmoa:things/eccbe4df-05fa-4a5b-92af-9861fa41a0be",
+  "credit_line": "Gift of Mrs. Charles Homer",
+  "date_acquired": "1918-12-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001788",
+  "provenance_text": "Gift of Mrs. Charles S. Homer",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48333&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d25df2d-ee53-407b-9727-3c77d390735f",
+      "party_type": "Person",
+      "full_name": "Winslow Homer",
+      "cited_name": "Homer, Winslow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-02-24",
+      "death_date": "1910-09-29",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "Prouts Neck (Cumberland county, Maine, United States)"
+    }
+  ]
+}

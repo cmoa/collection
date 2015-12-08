@@ -1,0 +1,39 @@
+{
+  "title": "The Rest on the Flight into Egypt, with Dancing Angels",
+  "creation_date": "1509",
+  "creation_date_earliest": "1508-12-22",
+  "creation_date_latest": "1508-12-22",
+  "medium": "woodcut on paper",
+  "accession_number": "57.28.3",
+  "id": "cmoa:things/d4ea2284-05a7-48d3-b240-b63ae65ce195",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010452",
+  "provenance_text": "R. M. Light and Company, Cambridge, Mass",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102570&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd2d8381-e736-49d1-8c19-e8ad55fbcb6f",
+      "party_type": "Person",
+      "full_name": "Lucas Cranach the Elder",
+      "cited_name": "Cranach, Lucas, the elder",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1472-01-01",
+      "death_date": "1553-01-01",
+      "birth_place": "Kronach (Oberfranken, Bavaria, Germany)",
+      "death_place": "Weimar (Erfurt district, Thuringia, Germany)"
+    }
+  ]
+}

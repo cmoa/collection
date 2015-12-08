@@ -1,0 +1,39 @@
+{
+  "title": "Cloth Piece (Pale orange \"M\")",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "dyed canvas",
+  "accession_number": "1997.11",
+  "id": "cmoa:things/f7fcd544-66a2-4a1e-8139-c10d1fc71cb9",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1997-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 38.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002971",
+  "provenance_text": "Sperone Westwater, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=384&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a2a57aa-a0dd-4404-8576-59aba90bb397",
+      "party_type": "Person",
+      "full_name": "Richard Tuttle",
+      "cited_name": "Tuttle, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Rahway, NJ",
+      "death_place": null
+    }
+  ]
+}

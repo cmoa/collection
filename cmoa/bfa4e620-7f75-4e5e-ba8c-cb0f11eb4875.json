@@ -1,0 +1,39 @@
+{
+  "title": "PLUNK",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "oil on pressed paper board",
+  "accession_number": "77.89.11",
+  "id": "cmoa:things/bfa4e620-7f75-4e5e-ba8c-cb0f11eb4875",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1978-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.438,
+  "item_height": 11.875,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019147",
+  "provenance_text": "James L. Winokur, Pittsburgh; gift to Museum, February 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121488&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/776b73c9-3c3f-4713-afdf-72cee5683158",
+      "party_type": "Person",
+      "full_name": "Asger Jorn",
+      "cited_name": "Jorn, Asger",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1914-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Århus county (Denmark)",
+      "death_place": null
+    }
+  ]
+}

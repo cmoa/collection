@@ -1,0 +1,39 @@
+{
+  "title": "Girl at Fountain",
+  "creation_date": "1857",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1857-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.5.2",
+  "id": "cmoa:things/0b1b5d9e-868c-4e23-aa39-c2a64daf706e",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 14.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022996",
+  "provenance_text": "Hirschl and Adler Galleries, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72721&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e616cc87-a561-4459-a51c-f0c35c058ceb",
+      "party_type": "Person",
+      "full_name": "William Morris Hunt",
+      "cited_name": "Hunt, William M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1824-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": " Brattleboro (Windham county, Vermont, United States)",
+      "death_place": "New Hampshire (United States)"
+    }
+  ]
+}

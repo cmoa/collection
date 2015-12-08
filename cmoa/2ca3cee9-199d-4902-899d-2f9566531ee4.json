@@ -1,0 +1,39 @@
+{
+  "title": "Composition in Orange-White",
+  "creation_date": null,
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.50",
+  "id": "cmoa:things/2ca3cee9-199d-4902-899d-2f9566531ee4",
+  "credit_line": "Gift of Herbert and Nanette Rothschild",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 61.0,
+  "item_height": 46.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009496",
+  "provenance_text": "Gift of Herbert and Nanette Rothschild, through Rose Fried Gallery, New York, NY, 1955.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47d4b1d5-0579-47da-abcc-bb015dfc77f1",
+      "party_type": "Person",
+      "full_name": "Joseph Lacasse",
+      "cited_name": "Lacasse, Joseph",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1894-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": " Tournai (Province de Hainaut, Wallonia, Belgium)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

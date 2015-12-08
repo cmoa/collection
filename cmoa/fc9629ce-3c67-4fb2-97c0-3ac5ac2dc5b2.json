@@ -1,0 +1,39 @@
+{
+  "title": "View of the Great Fire of Pittsburgh",
+  "creation_date": "c. 1846",
+  "creation_date_earliest": "1841-01-01",
+  "creation_date_latest": "1851-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.108",
+  "id": "cmoa:things/fc9629ce-3c67-4fb2-97c0-3ac5ac2dc5b2",
+  "credit_line": "Gift of Carroll Arrott Taylor and David McLane Taylor, Jr.",
+  "date_acquired": "1985-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.312,
+  "item_height": 20.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024482",
+  "provenance_text": "Mr. and Mrs. Daniel McLane Taylor, Pittsburgh, gift to museum, 1984",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132064&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f71ff300-d7c1-4a47-9eb3-d3b347e90bf5",
+      "party_type": "Person",
+      "full_name": "William C. Wall",
+      "cited_name": "Wall, William C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1810-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "England, Oxford",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

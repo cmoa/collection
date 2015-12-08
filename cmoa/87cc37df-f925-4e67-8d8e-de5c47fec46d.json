@@ -1,0 +1,54 @@
+{
+  "title": "Le Révolver à cheveux blancs, frontispiece (The White-Haired Revolver, frontispiece)",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "etching on  chine  collé paper, mounted to cream Japon Nacré",
+  "accession_number": "2010.42",
+  "id": "cmoa:things/87cc37df-f925-4e67-8d8e-de5c47fec46d",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "2010-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92141",
+  "provenance_text": "Charles Young, Connecticut",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103481&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cc25d328-36af-40e8-87a0-cce899283526",
+      "party_type": "Person",
+      "full_name": "Salvador Dalí",
+      "cited_name": "Dalí, Salvador",
+      "role": "printer",
+      "nationality": "Spanish",
+      "birth_date": "1904-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": " Figueras (Girona province, Catalonia, Spain)",
+      "death_place": " Figueras (Girona province, Catalonia, Spain)"
+    },
+    {
+      "artist_id": "cmoa:parties/380e63f2-503c-4f24-8371-247fbe46ed13",
+      "party_type": "Person",
+      "full_name": "Roger Lacourière",
+      "cited_name": "Lacourière, Roger",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1892-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

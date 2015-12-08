@@ -1,0 +1,39 @@
+{
+  "title": "A Day at the Race",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.23",
+  "id": "cmoa:things/50bbfeb4-5d36-4d49-9468-47da7ca53fae",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1953-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 54.375,
+  "item_height": 57.563,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009149",
+  "provenance_text": "The Artist through Paul Kanter Gallery, Los Angeles",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac742c0c-7a67-42fd-8cd3-f05d83871133",
+      "party_type": "Person",
+      "full_name": "Richard Diebenkorn",
+      "cited_name": "Diebenkorn, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": " Portland (Multnomah county, Oregon, United States)",
+      "death_place": "Healdsburg, California"
+    }
+  ]
+}

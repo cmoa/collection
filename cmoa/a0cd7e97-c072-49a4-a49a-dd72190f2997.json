@@ -1,0 +1,42 @@
+{
+  "title": "The Clouded Sun",
+  "creation_date": "1891",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "99.9",
+  "id": "cmoa:things/a0cd7e97-c072-49a4-a49a-dd72190f2997",
+  "credit_line": "Purchase",
+  "date_acquired": "1899-02-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 45.25,
+  "item_height": 30.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035980",
+  "provenance_text": "Thomas B. Clarke sale, New York, until 1899. Sold at American Art Association, New York, February 17, 1899 [1]. M. Knoedler and Co., NYC, 1899. Purchased by Museum, 1899. \nNOTES:1. Sale of Thomas B. Clarke",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102886&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57284&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/88c15bfd-cf56-4bfc-b803-0caae904c3ea",
+      "party_type": "Person",
+      "full_name": "George Inness",
+      "cited_name": "Inness, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": " Newburgh (Orange county, New York state, United States)",
+      "death_place": " Bridge of Allan (Stirling, Scotland, United Kingdom)"
+    }
+  ]
+}

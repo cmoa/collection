@@ -1,0 +1,39 @@
+{
+  "title": "Teapot, Handled",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1710-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "Ceramic",
+  "accession_number": "70.59.2",
+  "id": "cmoa:things/3eeb012c-14c8-4c7c-a1b7-024548c08272",
+  "credit_line": "Gift of Mrs. Thomas Childs Wurts",
+  "date_acquired": "1970-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.438,
+  "item_height": 3.25,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015889",
+  "provenance_text": "Mrs. Thomas Childs Wurts",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2607&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

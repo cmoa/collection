@@ -1,0 +1,39 @@
+{
+  "title": "Spouted jar",
+  "creation_date": "999 BCE-700 BCE",
+  "creation_date_earliest": "-0999-01-10",
+  "creation_date_latest": "-0700-01-09",
+  "medium": "earthenware",
+  "accession_number": "72.61.3",
+  "id": "cmoa:things/0447d2db-9297-4c81-8a9f-0b2d922eed58",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 6.875,
+  "item_depth": 6.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016552",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3294&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db5145ec-6f06-44b4-aba2-0427ed7e602e",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Luristan, Sialk",
+      "cited_name": "unknown Persian, Luristan, Sialk",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mountain Stream",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "88.37",
+  "id": "cmoa:things/ba62c00b-37a4-4dfe-9951-89e03ef4701b",
+  "credit_line": "Gift of Mr. and Mrs. Robert McEldowney, Jr.",
+  "date_acquired": "1988-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.25,
+  "item_height": 31.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026536",
+  "provenance_text": "John H. Nicholson, Pittsburgh, PA, by 1925; his daughter, Helen Schuyer Nicholson McEldowney, Balboa Island, CA, 1937; her son Robert McEldowney, Jr., Annandale NJ, 1975; gift to Carnegie Museum of Art, Pittsburgh, PA, 1988.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119958&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

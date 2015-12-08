@@ -1,0 +1,39 @@
+{
+  "title": "Landscape (Drawing No. 71)",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1832-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "pencil",
+  "accession_number": "20.18.3",
+  "id": "cmoa:things/64a233f1-c8a7-433f-897b-0c3a7c873a70",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-08-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004551",
+  "provenance_text": "Leon Walker, Boston, Mass",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99170&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52cbb6be-9abf-42f8-91ff-4f836a0728db",
+      "party_type": "Person",
+      "full_name": "Theodore Rousseau",
+      "cited_name": "Rousseau, Theodore",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1812-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Barbizon (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

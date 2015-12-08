@@ -1,0 +1,39 @@
+{
+  "title": "Study for Seated Ballet",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "bronze",
+  "accession_number": "81.56.7",
+  "id": "cmoa:things/232df151-bec9-4c96-9a3e-7f4b97de31bd",
+  "credit_line": "Bequest of Mary Callery",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.375,
+  "item_height": 6.0,
+  "item_depth": 21.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021953",
+  "provenance_text": "The artist, until 1977; Bequest of the artist, 1981",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127481&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac04dc38-6e87-4ec5-9a5f-a6a6b4d04845",
+      "party_type": "Person",
+      "full_name": "Mary Callery",
+      "cited_name": "Callery, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

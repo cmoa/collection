@@ -1,0 +1,39 @@
+{
+  "title": "Head of a Woman",
+  "creation_date": "c. 1890-1900",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.75",
+  "id": "cmoa:things/247c15b1-2c83-4972-a02e-8310762d5464",
+  "credit_line": "Bequest of Dr. Thomas B. Stevenson",
+  "date_acquired": "1984-10-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 23.0,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025152",
+  "provenance_text": "Thomas B. Stevenson, New York; bequest to Museum, October 1984.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37473&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0843ecc-be29-4b6f-aaf0-581e62f97c91",
+      "party_type": "Person",
+      "full_name": "Eugène Carrière",
+      "cited_name": "Carrière, Eugène",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": null,
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

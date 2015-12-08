@@ -1,0 +1,42 @@
+{
+  "title": "Orchard",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.1",
+  "id": "cmoa:things/491e509e-df29-446e-8c28-d1329251d0f2",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1960-02-08",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 39.125,
+  "item_height": 38.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011166",
+  "provenance_text": "Gustav Nebehay [1881-1935], Vienna; Josef Urban [1872-1933], Vienna and New York; Private Collection, New York, 1959; (Galerie St. Etienne, New York); purchased by Museum, February 1960.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116152&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129344&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28c49d5c-f42a-4d74-8506-5e8dc47a2b9a",
+      "party_type": "Person",
+      "full_name": "Gustav Klimt",
+      "cited_name": "Klimt, Gustav",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1862-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": " Wien state (Austria)",
+      "death_place": " Vienna (Wien state, Austria)"
+    }
+  ]
+}

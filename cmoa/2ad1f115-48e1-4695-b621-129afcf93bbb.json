@@ -1,0 +1,63 @@
+{
+  "title": "The Virgin Mary with the Infant Jesus",
+  "creation_date": "1769",
+  "creation_date_earliest": "1769-01-01",
+  "creation_date_latest": "1769-01-01",
+  "medium": "etching and roulette printed in colors",
+  "accession_number": "49.2.37",
+  "id": "cmoa:things/2ad1f115-48e1-4695-b621-129afcf93bbb",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008630",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bf8eb78a-4acf-41c7-8d21-6e6c42177aa5",
+      "party_type": "Person",
+      "full_name": "Abraham Bloemaert",
+      "cited_name": "Bloemaert, Abraham",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1566-01-01",
+      "death_date": "1651-01-01",
+      "birth_place": "Gorinchem (South Holland, Netherlands)",
+      "death_place": "Utrecht (Utrecht province, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Smith, Aunt Meg, aged 16, and Aunt Amanda",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "albumen print (cabinet card)",
+  "accession_number": "2009.18.2",
+  "id": "cmoa:things/25995ccc-19f4-4d50-b377-392af1aed260",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 4.25,
+  "item_height": 5.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80671",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9f1ab7bd-4861-469a-b3e6-9b80e8db02ef",
+      "party_type": "Person",
+      "full_name": "Robert M. Cargo",
+      "cited_name": "Cargo, Robert M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1828-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "95.115",
+  "id": "cmoa:things/82d297df-b03d-438d-8d10-fb7b18595bd7",
+  "credit_line": "Purchase: gift of Mrs. L. Gerald Firth and L. Gerald Firth, Jr., in memory of his parents, by exchange",
+  "date_acquired": "1995-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 5.75,
+  "item_diameter": 22.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3142",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/954c23e6-e86f-46a4-bf60-a5da3cc1e546",
+      "party_type": "Person",
+      "full_name": "Peter Voulkos",
+      "cited_name": "Voulkos, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Bozeman, Montana",
+      "death_place": "Bowling Green, Ohio"
+    }
+  ]
+}

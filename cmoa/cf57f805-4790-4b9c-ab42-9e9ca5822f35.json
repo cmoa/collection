@@ -1,0 +1,39 @@
+{
+  "title": "Delaware Crossing",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "alkyd on canvas",
+  "accession_number": "2007.74",
+  "id": "cmoa:things/cf57f805-4790-4b9c-ab42-9e9ca5822f35",
+  "credit_line": "Gift of James H. and Idamae B. Rich",
+  "date_acquired": "2008-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 55.0,
+  "item_height": 55.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=54672",
+  "provenance_text": "Collection James and Idamae Rich, Pittsburgh",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4dee97a2-0764-4074-aab5-6e9f228ed165",
+      "party_type": "Person",
+      "full_name": "Frank Stella",
+      "cited_name": "Stella, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Malden, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

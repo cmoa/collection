@@ -1,0 +1,42 @@
+{
+  "title": "Driftwood",
+  "creation_date": "2001-2002",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2002.34",
+  "id": "cmoa:things/c400e5cf-ca5d-4c5c-87e8-cecca5e2c1b3",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 17, Scaife Galleries",
+  "item_width": 78.625,
+  "item_height": 129.875,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=350",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100686&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57645&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11b28842-c115-4af1-98fa-46d5e26e8a91",
+      "party_type": "Person",
+      "full_name": "Peter Doig",
+      "cited_name": "Doig, Peter",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "Edinburgh, Scotland",
+      "death_place": null
+    }
+  ]
+}

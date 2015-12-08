@@ -1,0 +1,51 @@
+{
+  "title": "Orgone chair",
+  "creation_date": "1993 (designed); 2000",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "polished aluminum and paint",
+  "accession_number": "2000.42",
+  "id": "cmoa:things/c26b45ca-aab3-49ff-9281-e2008cc80501",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 34.0,
+  "item_depth": 28.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004061",
+  "provenance_text": "Mark Newson, Ltd., London",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127610&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3b587b52-1c38-459d-ac06-8f918e9b6e32",
+      "party_type": "Person",
+      "full_name": "Marc Newson",
+      "cited_name": "Newson, Marc",
+      "role": "designer",
+      "nationality": "Australian",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Sydney, Australia",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0035c95d-8e62-46e7-921f-6840f7fd4b82",
+      "party_type": "Organization",
+      "full_name": "Pod",
+      "cited_name": "Pod",
+      "role": "manufacturer",
+      "nationality": "Australian",
+      "birth_date": "1984-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

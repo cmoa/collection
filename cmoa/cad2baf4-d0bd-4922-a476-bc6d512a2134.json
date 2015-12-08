@@ -1,0 +1,39 @@
+{
+  "title": "The Conversion of Saint Paul",
+  "creation_date": "1543",
+  "creation_date_earliest": "1542-12-22",
+  "creation_date_latest": "1542-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.20",
+  "id": "cmoa:things/cad2baf4-d0bd-4922-a476-bc6d512a2134",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000995",
+  "provenance_text": "P. von Baldinger-Seidenberg (d 1911) Lugt 212; Frederick Keppel & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49093&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c08651c-da6e-47d5-b649-8d0af6d5f77b",
+      "party_type": "Person",
+      "full_name": "Georg Pencz",
+      "cited_name": "Pencz, Georg",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1500-01-01",
+      "death_date": "1550-01-01",
+      "birth_place": "Breslau (Dolnoslaskie voivodeship, Poland)",
+      "death_place": "Leipzig (Leipzig district, Saxony, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Hill House with Figures",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.33.3",
+  "id": "cmoa:things/6cb06460-8bc0-4957-9788-2662c9f1e3e7",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 20.125,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019951",
+  "provenance_text": "The artist, Rachel McClelland Sutton; gift to museum, October 1978",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23545&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eb2ad323-8efb-4eae-ab00-84f248f3e507",
+      "party_type": "Person",
+      "full_name": "Rachel Sutton",
+      "cited_name": "Sutton, Rachel M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

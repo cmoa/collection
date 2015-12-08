@@ -1,0 +1,39 @@
+{
+  "title": "Untitled V",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on lead on plywood",
+  "accession_number": "86.48.1",
+  "id": "cmoa:things/318851c2-d472-4153-b9d8-6f93e3419c51",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1986-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 43.75,
+  "item_height": 47.625,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026128",
+  "provenance_text": "Bess Cutler Gallery, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25511&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c904b867-29ad-4024-9340-326e8f75f8ef",
+      "party_type": "Person",
+      "full_name": "Joseph Amar",
+      "cited_name": "Amar, Joseph",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1954-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

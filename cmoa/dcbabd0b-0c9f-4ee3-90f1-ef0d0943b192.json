@@ -1,0 +1,39 @@
+{
+  "title": "An Old House",
+  "creation_date": null,
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "etching",
+  "accession_number": "50.11",
+  "id": "cmoa:things/dcbabd0b-0c9f-4ee3-90f1-ef0d0943b192",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1950-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008798",
+  "provenance_text": "Jenne Magafan",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100418&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35d30985-fcba-4418-9c92-02fb926c0992",
+      "party_type": "Person",
+      "full_name": "Jenne Magafan",
+      "cited_name": "Magafan, Jenne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Chicago, IL",
+      "death_place": "Albany, NY"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "earthenware, glazed with sgraffito decoration",
+  "accession_number": "92.168",
+  "id": "cmoa:things/abd86751-5b96-421b-911b-801541996395",
+  "credit_line": "Mr. and Mrs. George R. Gibbons, Jr. Fund",
+  "date_acquired": "1992-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031372",
+  "provenance_text": "New Century, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101745&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0883d0ef-7d4a-4764-9b93-d7439d64e31e",
+      "party_type": "Person",
+      "full_name": "Edwin Beer Fishley",
+      "cited_name": "Fishley, Edwin B.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1832-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

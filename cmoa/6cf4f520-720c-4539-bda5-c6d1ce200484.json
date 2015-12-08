@@ -1,0 +1,51 @@
+{
+  "title": "François de Villemontée",
+  "creation_date": "c. 1640-1650",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "46.16.5",
+  "id": "cmoa:things/6cf4f520-720c-4539-bda5-c6d1ce200484",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.125,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007657",
+  "provenance_text": "Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1946.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105592&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6165f90-44af-4c56-b3dd-4e3ea0079c6f",
+      "party_type": "Person",
+      "full_name": "Jean Morin",
+      "cited_name": "Morin, Jean",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1590-01-01",
+      "death_date": "1650-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/8404a038-c1e2-4b71-8560-a7cef67a249d",
+      "party_type": "Person",
+      "full_name": "Philippe de Champaigne",
+      "cited_name": "Champaigne, Philippe de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

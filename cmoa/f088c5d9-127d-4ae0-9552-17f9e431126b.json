@@ -1,0 +1,39 @@
+{
+  "title": "Dans Le Vent",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "gouache, ink, and watercolor on paper",
+  "accession_number": "93.186.4",
+  "id": "cmoa:things/f088c5d9-127d-4ae0-9552-17f9e431126b",
+  "credit_line": "Gift of Jane Haskell",
+  "date_acquired": "1994-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 14.25,
+  "item_height": 17.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033211",
+  "provenance_text": "Wols (Alfred Otto Wolfgang Schulze) [1913-1951], Paris, France. Private collection; Gimpel Fils Ltd, London, England, in September 1963 [1]; purchased by Mr. Edward Haskell [1920-1988], Pittsburgh, PA, on November 12, 1963 [2]; Jane (Mrs. Edward) Haskell [1923-2013], November 1963 until May 28, 2013; partial gift to Museum, December 1993, December 2005, and remainder bequest in September 2013.\n\nNotes:\n[1]. The work was on consignment with Gimpel FIls from an unknown owner; see copy of a letter from the gallery dated October 14, 1963 in curatorial file.\n[2]. See invoice and receipt from Gimpel Fils for $1850 in curatorial file.  Mr. Haskell bought the work as a surprise for Mrs. Haskell's 40th birthday on November 24, 1963.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121159&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee3a5617-11b2-4438-b214-38be0158e613",
+      "party_type": "Person",
+      "full_name": "Wols",
+      "cited_name": "Wols",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1913-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Berlin (Berlin state, Germany) (inhabited place)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

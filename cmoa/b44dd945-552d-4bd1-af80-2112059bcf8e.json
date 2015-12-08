@@ -1,0 +1,39 @@
+{
+  "title": "Colonial Maid",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "pencil",
+  "accession_number": "18.25.10",
+  "id": "cmoa:things/b44dd945-552d-4bd1-af80-2112059bcf8e",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001761",
+  "provenance_text": "American Artists' War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90924&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30df251f-2a70-40f0-96b8-aaff6806d628",
+      "party_type": "Person",
+      "full_name": "Arthur I. Keller",
+      "cited_name": "Keller, Arthur I.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

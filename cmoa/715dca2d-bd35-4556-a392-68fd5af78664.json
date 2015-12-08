@@ -1,0 +1,39 @@
+{
+  "title": "Flood Damage (Kaison)",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1138",
+  "id": "cmoa:things/715dca2d-bd35-4556-a392-68fd5af78664",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026902",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee30a4a6-bca2-44be-8341-0cae9bab6799",
+      "party_type": "Person",
+      "full_name": "Ono Tadashige",
+      "cited_name": "Ono Tadashige",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1909-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

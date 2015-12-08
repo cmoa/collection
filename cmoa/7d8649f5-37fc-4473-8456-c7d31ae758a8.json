@@ -1,0 +1,39 @@
+{
+  "title": "Side chair",
+  "creation_date": "c. 1820",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "maple, pine, and metal",
+  "accession_number": "1996.3",
+  "id": "cmoa:things/7d8649f5-37fc-4473-8456-c7d31ae758a8",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1996-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.625,
+  "item_height": 35.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002136",
+  "provenance_text": "Meg Caldwell, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54632&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a52a851-4e0c-4b7a-9cb2-19ba34386dc0",
+      "party_type": "Person",
+      "full_name": "Michel Bouvier",
+      "cited_name": "Bouvier, Michel",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1792-01-01",
+      "death_date": "1874-01-01",
+      "birth_place": "France",
+      "death_place": null
+    }
+  ]
+}

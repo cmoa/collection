@@ -1,0 +1,39 @@
+{
+  "title": "Construction Blue and Black",
+  "creation_date": "c. 1952",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "aluminum",
+  "accession_number": "58.3",
+  "id": "cmoa:things/c5f1ddb9-7094-4590-a26b-d32e1007e4a9",
+  "credit_line": "Gift of Miss May E. Walter",
+  "date_acquired": "1958-04-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 9.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010843",
+  "provenance_text": "Rose Fried Gallery, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127491&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bf7b99c1-c866-42cf-8fa4-6f2f2edd2542",
+      "party_type": "Person",
+      "full_name": "José de Rivera",
+      "cited_name": "de Rivera, José",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "West Baton Rouge, LA",
+      "death_place": "New York"
+    }
+  ]
+}

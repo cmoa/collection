@@ -1,0 +1,39 @@
+{
+  "title": "Bundi",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "pigmented beeswax and damar resin on masonite",
+  "accession_number": "2010.22",
+  "id": "cmoa:things/92a4a82c-8c25-414b-95a3-2af1635e0504",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 5.0,
+  "item_height": 36.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91901",
+  "provenance_text": "acquired from the artist\nLocks Gallery, Philadelphia",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a081ad74-aef8-411b-b4a5-8df5c32d8906",
+      "party_type": "Person",
+      "full_name": "Lynda Benglis",
+      "cited_name": "Benglis, Lynda",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Lake Charles (Calcasieu parish, Louisiana, United States)",
+      "death_place": null
+    }
+  ]
+}

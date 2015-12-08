@@ -1,0 +1,42 @@
+{
+  "title": "Abraham Departing for Moriah",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "niello engraving",
+  "accession_number": "16.15.11",
+  "id": "cmoa:things/a971a78e-b2fc-447d-98b2-684b4f434494",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001060",
+  "provenance_text": "American Art Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101625&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101626&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a4280c9-c612-456c-a4c0-d8d11e9e6f28",
+      "party_type": "Person",
+      "full_name": "Peregrino Da Cesena",
+      "cited_name": "Da Cesena, Peregrino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1500-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Traveler",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "Brush drawing on linen",
+  "accession_number": "2011.67.2",
+  "id": "cmoa:things/e5b7b7d1-e05f-4934-b97b-f60fdb2854bf",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.813,
+  "item_height": 14.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98256",
+  "provenance_text": "Exhibited at ACA Galleries, New York, NY\nSchlossberg Collection",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113844&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ecbd1899-1a44-4f22-a107-fe3b8f03b01c",
+      "party_type": "Person",
+      "full_name": "William Gropper",
+      "cited_name": "Gropper, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Manhasset (Nassau county, New York state, United States)"
+    }
+  ]
+}

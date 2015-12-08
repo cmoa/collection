@@ -1,0 +1,54 @@
+{
+  "title": "Chair",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "laminated plywood and nylon cord",
+  "accession_number": "2013.31",
+  "id": "cmoa:things/a82b75c0-a8f4-4359-b0c4-199d35a05036",
+  "credit_line": "Gift of Sheryl & Bruce Wolf",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 22.0,
+  "item_height": 32.75,
+  "item_depth": 24.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101986",
+  "provenance_text": "Sheryl and Bruce Wolf, Pittsburgh",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127677&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127685&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eba1fd98-f47f-46dc-94dd-346c11be86d6",
+      "party_type": "Person",
+      "full_name": "Jacques Guillon",
+      "cited_name": "Guillon, Jacques",
+      "role": "designer",
+      "nationality": "Canadian",
+      "birth_date": "1922-01-01",
+      "death_date": null,
+      "birth_place": "France",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ff8b4d70-5780-4df6-81d9-de92699d28d9",
+      "party_type": "Organization",
+      "full_name": "Andreef Chairs, Inc.",
+      "cited_name": "Andreef Chairs, Inc.",
+      "role": "Retailer",
+      "nationality": "Canadian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

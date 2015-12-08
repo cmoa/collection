@@ -1,0 +1,42 @@
+{
+  "title": "Crowd, 1959",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "ink on paper",
+  "accession_number": "61.50.8",
+  "id": "cmoa:things/adcc7db7-de94-4218-9f40-ee7e01bed67f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011465",
+  "provenance_text": "American Federation of Arts, New York City, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99827&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99368&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cc290ddd-cbad-424b-831f-23e76b630bb2",
+      "party_type": "Person",
+      "full_name": "Antonio Saura",
+      "cited_name": "Saura, Antonio",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1930-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Huesca",
+      "death_place": "Cuenca"
+    }
+  ]
+}

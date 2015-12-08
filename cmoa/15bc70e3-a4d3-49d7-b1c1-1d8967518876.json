@@ -1,0 +1,39 @@
+{
+  "title": "Composition",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1997.60",
+  "id": "cmoa:things/15bc70e3-a4d3-49d7-b1c1-1d8967518876",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1997-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003429",
+  "provenance_text": "Salander-O'Reilly Galleries, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12029&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6173ef6f-cd35-45d7-8f9f-17f6680c9840",
+      "party_type": "Person",
+      "full_name": "Suzy Frelinghuysen",
+      "cited_name": "Frelinghuysen, Suzy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": " Newark (Essex county, New Jersey, United States)",
+      "death_place": " Lenox (Berkshire county, Massachusetts, United States)"
+    }
+  ]
+}

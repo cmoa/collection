@@ -1,0 +1,42 @@
+{
+  "title": "Chatham Square, New York City",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "Gelatin silver print",
+  "accession_number": "2007.69.1",
+  "id": "cmoa:things/9d13ba0b-ba9d-4ba4-8912-1032e4e8093e",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 3.75,
+  "item_height": 4.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49115",
+  "provenance_text": "George Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99935&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57993&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c31dc69c-5ea1-413f-8d3a-3201b72ba1c0",
+      "party_type": "Person",
+      "full_name": "Karl Struss",
+      "cited_name": "Struss, Karl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "New York, New York",
+      "death_place": "Santa Monica, California"
+    }
+  ]
+}

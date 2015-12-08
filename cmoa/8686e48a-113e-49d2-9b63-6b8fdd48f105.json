@@ -1,0 +1,39 @@
+{
+  "title": "Perfume bottle",
+  "creation_date": "c. 1885-1890",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "blown and cut iridescent glass with gold leaf",
+  "accession_number": "11.1.21.A-B",
+  "id": "cmoa:things/8686e48a-113e-49d2-9b63-6b8fdd48f105",
+  "credit_line": "Purchase",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 3.75,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000567",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=798&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b3e77bc-e18f-4021-b383-d9fdc847be82",
+      "party_type": "Person",
+      "full_name": "Emile Gallé",
+      "cited_name": "Gallé, Emile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1846-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

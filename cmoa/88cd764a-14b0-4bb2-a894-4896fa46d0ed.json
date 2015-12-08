@@ -1,0 +1,42 @@
+{
+  "title": "Cock",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "55.68",
+  "id": "cmoa:things/88cd764a-14b0-4bb2-a894-4896fa46d0ed",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.312,
+  "item_height": 21.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009578",
+  "provenance_text": "Bernard Meadows",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99801&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a1eea50-30fc-449b-a4fc-a52fe9dd80f2",
+      "party_type": "Person",
+      "full_name": "Bernard Meadows",
+      "cited_name": "Meadows, Bernard",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1915-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": "Norwich (Norfolk county, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

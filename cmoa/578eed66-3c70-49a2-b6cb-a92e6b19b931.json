@@ -1,0 +1,39 @@
+{
+  "title": "Boiler, Mingo Junction, Ohio",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "88.38.5",
+  "id": "cmoa:things/578eed66-3c70-49a2-b6cb-a92e6b19b931",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1988-12-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.25,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026543",
+  "provenance_text": "Pamela Z. Bryan",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31964&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fba92932-8206-454c-bf6e-ef99afd82137",
+      "party_type": "Person",
+      "full_name": "Pamela Z. Bryan",
+      "cited_name": "Bryan, Pamela Z.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

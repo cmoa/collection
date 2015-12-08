@@ -1,0 +1,42 @@
+{
+  "title": "The Monument Seen from the Thames",
+  "creation_date": null,
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "pencil",
+  "accession_number": "81.3.10",
+  "id": "cmoa:things/a21b6f02-225a-4ea9-827e-9d3fbcce9a31",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021831",
+  "provenance_text": "Frederick Mulder, London",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99738&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99739&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7eacf15d-9e1a-4bd9-a3d2-c3bf24161985",
+      "party_type": "Person",
+      "full_name": "Malcolm Osborne",
+      "cited_name": "Osborne, Malcolm",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1880-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "Frome (Somerset, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

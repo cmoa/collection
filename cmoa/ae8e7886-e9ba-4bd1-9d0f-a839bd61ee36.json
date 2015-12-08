@@ -1,0 +1,51 @@
+{
+  "title": "Philip Melancthon",
+  "creation_date": "1792",
+  "creation_date_earliest": "1792-01-01",
+  "creation_date_latest": "1792-01-01",
+  "medium": "color engraving on paper",
+  "accession_number": "17.25.41",
+  "id": "cmoa:things/ae8e7886-e9ba-4bd1-9d0f-a839bd61ee36",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-01-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001474",
+  "provenance_text": "James Tregaskis, London",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100067&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74d4c2f3-6a8f-4e94-ae6f-34311592036e",
+      "party_type": "Person",
+      "full_name": "Conrad Martin Metz",
+      "cited_name": "Metz, Conrad M.",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1745-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "Bonn (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0f025e69-aecd-4742-9e21-ff76f31cd486",
+      "party_type": "Person",
+      "full_name": "Hans Holbein the Younger",
+      "cited_name": "Holbein, Hans, the Younger",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1543-01-01",
+      "birth_place": "Augsburg, Germany",
+      "death_place": "London, England"
+    }
+  ]
+}

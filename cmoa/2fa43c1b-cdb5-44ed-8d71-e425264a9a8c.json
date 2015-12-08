@@ -1,0 +1,42 @@
+{
+  "title": "Shotoku Taishi",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1055",
+  "id": "cmoa:things/2fa43c1b-cdb5-44ed-8d71-e425264a9a8c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026774",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, CA., 11/7/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83559&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32675&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d138629-8505-4eb6-b4d6-e57801f8c5ee",
+      "party_type": "Person",
+      "full_name": "Munakata Shikô",
+      "cited_name": "Munakata Shikô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1903-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

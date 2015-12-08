@@ -1,0 +1,51 @@
+{
+  "title": "Euntes in Emaus [The Walk to Emmaus]",
+  "creation_date": "c. 1555",
+  "creation_date_earliest": "1539-12-22",
+  "creation_date_latest": "1569-12-22",
+  "medium": "etching and engraving",
+  "accession_number": "57.28.1",
+  "id": "cmoa:things/4378a498-4980-45bc-8728-1a4d68e0a37f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010448",
+  "provenance_text": "R. M. Light and Company, Cambridge, Mass",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119949&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a33c6519-ce05-422a-a0a3-28a4c1f20bda",
+      "party_type": "Person",
+      "full_name": "Pieter Bruegel I",
+      "cited_name": "Bruegel, Pieter, I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1520-01-01",
+      "death_date": "1569-01-01",
+      "birth_place": "Breda (North Brabant, Netherlands)",
+      "death_place": "Brussels (Bruxelles region, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/d27e00f7-b9a2-4b7b-8064-36a78426a5bf",
+      "party_type": "Organization",
+      "full_name": "Jan and Lucas van Doetechum",
+      "cited_name": "Doetechum, Jan and Lucas van",
+      "role": "engraver",
+      "nationality": "Dutch",
+      "birth_date": "1525-01-01",
+      "death_date": "1584-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Reading",
+  "creation_date": "1879 and 1887",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "lithograph with scraping, printed on Japanese laid paper",
+  "accession_number": "18.22.4",
+  "id": "cmoa:things/2ab3a552-e455-492e-93bd-52e080c42cb2",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-11-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.438,
+  "item_height": 11.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001748",
+  "provenance_text": "M. Knoedler & Company; Thomas R. Way",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=62569&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

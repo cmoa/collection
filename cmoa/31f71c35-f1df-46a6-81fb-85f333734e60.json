@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (2 Poets and Attendant)",
+  "creation_date": null,
+  "creation_date_earliest": "1772-01-01",
+  "creation_date_latest": "1811-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.92",
+  "id": "cmoa:things/31f71c35-f1df-46a6-81fb-85f333734e60",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029178",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2664d55-d13a-4173-a506-669149309843",
+      "party_type": "Person",
+      "full_name": "Goshun Hakubo",
+      "cited_name": "Goshun Hakubo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1752-01-01",
+      "death_date": "1811-01-01",
+      "birth_place": "Japan, Owari",
+      "death_place": null
+    }
+  ]
+}

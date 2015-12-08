@@ -1,0 +1,51 @@
+{
+  "title": "The Poet Ono no Takamura (Sangi Takamura)",
+  "creation_date": "c. 1836-1839",
+  "creation_date_earliest": "1831-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "18.14.6",
+  "id": "cmoa:things/2e0370b0-4b29-47ac-9c4a-7693ece28d34",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001690",
+  "provenance_text": "Yamanaka & Company, New York, 1918",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80188&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/fcddfa89-3ab0-46c2-9c44-b27a0b677c98",
+      "party_type": "Person",
+      "full_name": "Sanjiro Iseya",
+      "cited_name": "Sanjiro Iseya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

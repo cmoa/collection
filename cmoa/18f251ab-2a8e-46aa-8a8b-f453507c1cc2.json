@@ -1,0 +1,39 @@
+{
+  "title": "A Munich Boy",
+  "creation_date": "c. 1873-1877",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "09.4",
+  "id": "cmoa:things/18f251ab-2a8e-46aa-8a8b-f453507c1cc2",
+  "credit_line": "Purchase",
+  "date_acquired": "1909-06-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 34.875,
+  "item_depth": 2.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000373",
+  "provenance_text": "Joseph Frank Currier [1843-1909], until 1909; Estate of Joseph Frank Currier, 1909; purchased by Museum, June 1909.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20626&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6491ac6d-fc72-47e8-80b7-2901d9e4130b",
+      "party_type": "Person",
+      "full_name": "Joseph  Frank Currier",
+      "cited_name": "Currier, J. F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1843-01-01",
+      "death_date": "1909-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

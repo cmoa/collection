@@ -1,0 +1,39 @@
+{
+  "title": "Personnage #4",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.89.13",
+  "id": "cmoa:things/56acc027-02e7-4040-bf14-8617523efdf2",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 42.875,
+  "item_height": 42.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019150",
+  "provenance_text": "James L. Winokur, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149763&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a6eb295-06c3-4e62-961e-359437534312",
+      "party_type": "Person",
+      "full_name": "Maryan S. Maryan",
+      "cited_name": "Maryan, Maryan S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Nowy Sacz (Malopolskie voivodship, Poland)",
+      "death_place": null
+    }
+  ]
+}

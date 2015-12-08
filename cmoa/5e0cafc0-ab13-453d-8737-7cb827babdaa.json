@@ -1,0 +1,39 @@
+{
+  "title": "Diamond Market Street Cars and Wabash Terminal",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1998.52.1",
+  "id": "cmoa:things/5e0cafc0-ab13-453d-8737-7cb827babdaa",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1998-10-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.813,
+  "item_height": 19.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003774",
+  "provenance_text": "Clyde Hare, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8478&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93ddc4ce-721e-410a-912f-1362637135ca",
+      "party_type": "Person",
+      "full_name": "Clyde Hare",
+      "cited_name": "Hare, Clyde",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Bloomington, Indiana",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

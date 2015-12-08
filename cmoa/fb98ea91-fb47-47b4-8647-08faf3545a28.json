@@ -1,0 +1,49 @@
+{
+  "title": "Wine glass",
+  "creation_date": "c. 1906",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "glass",
+  "accession_number": "95.116.1",
+  "id": "cmoa:things/fb98ea91-fb47-47b4-8647-08faf3545a28",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1995-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.063,
+  "item_depth": 0.0,
+  "item_diameter": 3.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035497",
+  "provenance_text": "Paul Reeves Gallery, London, England",
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66d7cccc-4d0d-4ff8-8a69-fe4a0e0e47f5",
+      "party_type": "Person",
+      "full_name": "Harry Powell",
+      "cited_name": "Powell, Harry",
+      "role": "designer",
+      "nationality": "English",
+      "birth_date": "1853-01-01",
+      "death_date": "1922-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5b6ee04d-84e2-4b60-a53f-696daac31ea5",
+      "party_type": "Organization",
+      "full_name": "James Powell & Sons, Whitefriars Glassworks",
+      "cited_name": "James Powell & Sons, Whitefriars Glassworks",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "1790-1800",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "porcelain",
+  "accession_number": "23.3.29-.30",
+  "id": "cmoa:things/fc14e594-89fa-423f-b17e-38e8b2656d0b",
+  "credit_line": "Gift of Reverend Alfred Duane Pell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15318",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3173&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac654c5c-8453-4b8a-ab5b-9817583e2fdc",
+      "party_type": "Person",
+      "full_name": "unknown Swiss",
+      "cited_name": "unknown Swiss",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

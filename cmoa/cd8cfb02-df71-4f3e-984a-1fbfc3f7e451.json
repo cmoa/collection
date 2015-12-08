@@ -1,0 +1,51 @@
+{
+  "title": "Zojo-ji  (Temple)",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.709.15",
+  "id": "cmoa:things/cd8cfb02-df71-4f3e-984a-1fbfc3f7e451",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028689",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Print acquired by Dr. Austin from T.Z. Shiota Gallery, San Francisco, CA., 2/29/1972.; Set acquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 2/29/1976.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34221&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4dff0d1f-d658-4ec0-ac9b-bfc22d2fa381",
+      "party_type": "Person",
+      "full_name": "Yamaguchi Gen",
+      "cited_name": "Yamaguchi Gen",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1896-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9f9ab97e-a4de-4a27-a483-a80194456f0d",
+      "party_type": "Person",
+      "full_name": "Uemura Masuo",
+      "cited_name": "Uemura Masuo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

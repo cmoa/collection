@@ -1,0 +1,39 @@
+{
+  "title": "Siena III",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "acrylic on linen",
+  "accession_number": "94.28",
+  "id": "cmoa:things/3bc25c51-9dcd-4317-859c-27005a23f99a",
+  "credit_line": "Feldman Bequest Fund and A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1994-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 144.0,
+  "item_height": 96.0,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035166",
+  "provenance_text": "Andre Emmerich Gallery, New York City, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10314&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a04f505d-95b0-4af5-be8f-d402cf61d569",
+      "party_type": "Person",
+      "full_name": "Al Held",
+      "cited_name": "Held, Al",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": "Italy"
+    }
+  ]
+}

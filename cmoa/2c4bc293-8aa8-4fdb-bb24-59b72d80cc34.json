@@ -1,0 +1,37 @@
+{
+  "title": "James McBey",
+  "creation_date": null,
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "46.18.15",
+  "id": "cmoa:things/2c4bc293-8aa8-4fdb-bb24-59b72d80cc34",
+  "credit_line": "Gift of Alfred C. Howell",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007687",
+  "provenance_text": "Walter Tittle [1883-1966]. Alfred C. Howell [-1961], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1946.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156f1745-92e8-4121-a525-043eff218486",
+      "party_type": "Person",
+      "full_name": "Walter Tittle",
+      "cited_name": "Tittle, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

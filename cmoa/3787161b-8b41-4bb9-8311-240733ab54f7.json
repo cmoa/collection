@@ -1,0 +1,39 @@
+{
+  "title": "The Prodigal Son",
+  "creation_date": "1904-1906",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "marble",
+  "accession_number": "19.7.2",
+  "id": "cmoa:things/3787161b-8b41-4bb9-8311-240733ab54f7",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 24.5,
+  "item_height": 37.0,
+  "item_depth": 18.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002077",
+  "provenance_text": "George Grey Barnard [1862-1938], until 1919; purchased by Museum, 1919.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0bd91969-b4f0-4daf-ac32-9bbc88069963",
+      "party_type": "Person",
+      "full_name": "George Grey Barnard",
+      "cited_name": "Barnard, George Grey",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

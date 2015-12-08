@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "12th century",
+  "creation_date_earliest": "1099-12-26",
+  "creation_date_latest": "1198-12-25",
+  "medium": "earthenware, lustre-painted",
+  "accession_number": "72.61.18",
+  "id": "cmoa:things/d1041aa4-f55d-4732-b3e6-d889093d6977",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.187,
+  "item_depth": 0.0,
+  "item_diameter": 5.562,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016528",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/580747bb-305f-4ad2-aae0-9344a0782786",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Rhages",
+      "cited_name": "unknown Persian, Rhages",
+      "role": "probably by",
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

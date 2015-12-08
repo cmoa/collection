@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "Qianlong period (1736-1795)",
+  "creation_date_earliest": "1736-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "Jade",
+  "accession_number": "70.32.2517.A-B",
+  "id": "cmoa:things/b87fafd3-068b-481a-b21e-309a2076d916",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.875,
+  "item_height": 7.438,
+  "item_depth": 8.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014745",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1846&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

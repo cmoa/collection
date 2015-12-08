@@ -1,0 +1,49 @@
+{
+  "title": "Armchair",
+  "creation_date": "c. 1948",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "beech and upholstery",
+  "accession_number": "84.112.9",
+  "id": "cmoa:things/3b1503a3-3dbc-45e6-b846-a07780362c5b",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.875,
+  "item_height": 30.5,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024517",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fbb00bac-70bf-4b72-93e3-6de640f588f5",
+      "party_type": "Person",
+      "full_name": "Florence Schust Knoll",
+      "cited_name": "Knoll, Florence S.",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1917-01-01",
+      "death_date": null,
+      "birth_place": "Saginaw, MI",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f47ee54e-b518-4df0-8280-43fefde4f583",
+      "party_type": "Organization",
+      "full_name": "Knoll Associates, Inc.",
+      "cited_name": "Knoll Associates, Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

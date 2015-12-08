@@ -1,0 +1,39 @@
+{
+  "title": "Absolute River",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.25.2",
+  "id": "cmoa:things/cdda0942-d525-4c4c-bfb9-b8edfa647fd6",
+  "credit_line": "The Tillie and Alexander C. Speyer Fund for Contemporary Art",
+  "date_acquired": "1986-06-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 39.938,
+  "item_height": 58.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026037",
+  "provenance_text": "John Good Gallery, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e89f1729-f56b-466a-9347-5e942872ea93",
+      "party_type": "Person",
+      "full_name": "Christopher Lucas",
+      "cited_name": "Lucas, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

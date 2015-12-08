@@ -1,0 +1,39 @@
+{
+  "title": "The Lucy Plant, Carnegie Steel, Pittsburgh",
+  "creation_date": "1935-1936",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.28",
+  "id": "cmoa:things/d614b9e9-0416-421d-92e5-ad5c1e696b66",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1981-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 36.5,
+  "item_height": 29.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021819",
+  "provenance_text": "Ernest Fiene [1894-1966]; Maria Fiene, daughter of the artist, by 1979 [1]; (ACA Galleries, New York, NY, by 1981); purchased by Carnegie Museum of Art, Pittsburgh, PA, June 1981. \nNOTES: [1] Date of ownership derived from letter of May 28, 1979 in curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10222&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cabb4a71-85ab-43d7-937b-839cc28ee09c",
+      "party_type": "Person",
+      "full_name": "Ernest Fiene",
+      "cited_name": "Fiene, Ernest",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Germany, Cologne",
+      "death_place": null
+    }
+  ]
+}

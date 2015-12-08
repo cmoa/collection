@@ -1,0 +1,39 @@
+{
+  "title": "Brother and Sister",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "50.18",
+  "id": "cmoa:things/5d432539-3248-412b-8037-43d1a6f13eaa",
+  "credit_line": "Gift of Mr. and Mrs. Walter A. May, Jr. in memory of his Parents, Mr. and Mrs. Walter A. May",
+  "date_acquired": "1950-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 30.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008834",
+  "provenance_text": "Mr. and Mrs. Walter A. May, Jr.; gift to Museum, 1950.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=344&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4a43c9e-d6f0-419e-8206-a90c0099bfe6",
+      "party_type": "Person",
+      "full_name": "Dod Procter",
+      "cited_name": "Procter, Dod",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1891-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

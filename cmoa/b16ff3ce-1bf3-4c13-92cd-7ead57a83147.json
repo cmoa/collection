@@ -1,0 +1,54 @@
+{
+  "title": "General Washington",
+  "creation_date": "1781",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1781-01-01",
+  "medium": "mezzotint",
+  "accession_number": "70.32.2522",
+  "id": "cmoa:things/b16ff3ce-1bf3-4c13-92cd-7ead57a83147",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 25.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014751",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94613&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54185&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aecb1721-bc64-4cb2-b126-9357d4c963ce",
+      "party_type": "Person",
+      "full_name": "Valentine Green",
+      "cited_name": "Green, Valentine",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1739-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": " Salford (Salford, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/69b61c5f-f7c8-4b68-b6de-3986f4438a3f",
+      "party_type": "Person",
+      "full_name": "John Trumbull",
+      "cited_name": "Trumbull, John",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1756-01-01",
+      "death_date": "1843-01-01",
+      "birth_place": "Lebanon (New London county, Connecticut, United States)",
+      "death_place": "New York, NY"
+    }
+  ]
+}

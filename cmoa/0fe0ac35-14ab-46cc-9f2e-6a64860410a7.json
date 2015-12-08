@@ -1,0 +1,39 @@
+{
+  "title": "Madonna with Two Saints and a Young Founder",
+  "creation_date": "c. 1722",
+  "creation_date_earliest": "1717-01-01",
+  "creation_date_latest": "1727-01-01",
+  "medium": "Woodcut",
+  "accession_number": "74.57.3",
+  "id": "cmoa:things/0fe0ac35-14ab-46cc-9f2e-6a64860410a7",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017084",
+  "provenance_text": "Donald Corcoran, Vienna, Austria",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104043&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5eef7ce0-c1a8-4043-bc60-c455b3adf122",
+      "party_type": "Person",
+      "full_name": "Anton M. Zanetti",
+      "cited_name": "Zanetti, Anton M.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1680-01-01",
+      "death_date": "1757-01-01",
+      "birth_place": "Venezia",
+      "death_place": "Venezia"
+    }
+  ]
+}

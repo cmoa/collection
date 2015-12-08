@@ -1,0 +1,42 @@
+{
+  "title": "Woman Reading",
+  "creation_date": null,
+  "creation_date_earliest": "1725-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.29",
+  "id": "cmoa:things/574bd175-c85c-481c-8bd6-94d7b8d4e89e",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011273",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100072&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100070&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10ee7459-f0e5-43b7-805d-0006bb2be574",
+      "party_type": "Person",
+      "full_name": "Johann Georg Wille",
+      "cited_name": "Wille, Johann G.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1715-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "Königsberg in Bayern (Unterfranken, Bavaria, Germany)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

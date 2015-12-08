@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "18th-19th century",
+  "creation_date_earliest": "1701-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "glass",
+  "accession_number": "70.32.2277.A-B",
+  "id": "cmoa:things/a6aad606-42cf-4560-a970-9caba50d0573",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 5.5,
+  "item_depth": 4.687,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014483",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1350&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8e1d1753-aeee-4975-b358-6c3a667765a0",
+      "party_type": "Person",
+      "full_name": "unknown Belgian",
+      "cited_name": "unknown Belgian",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Soane Rotunda",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.6.6",
+  "id": "cmoa:things/1da69258-1c2a-4b8a-9c47-c5f69502fee8",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-06-27",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 5.375,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030090",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102350&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6fe37940-6273-4528-b4ad-3e2469ce1f6f",
+      "party_type": "Person",
+      "full_name": "Sir John Soane",
+      "cited_name": "Soane, John",
+      "role": "architect",
+      "nationality": "English",
+      "birth_date": "1753-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": "Reading (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

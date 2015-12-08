@@ -1,0 +1,39 @@
+{
+  "title": "Penn Township",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.61",
+  "id": "cmoa:things/3418f9e9-49ff-41e2-85b0-42d005a5a116",
+  "credit_line": "Gift of the family of Dr. and Mrs. Hunter H. Turner in their memory",
+  "date_acquired": "1976-02-12",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 34.5,
+  "item_height": 22.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017849",
+  "provenance_text": "John Kane [1860-1934], until 1934; Maggie Halloran Kane, his widow; Dr. Hunter H. Turner, Pittsburgh, 1934; Mrs. Hunter H. Turner, Nanticoke, MD, by 1971; Dr. Oliver E. Turner, Pittsburgh, PA,  by 1975; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, in 1975.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114815&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

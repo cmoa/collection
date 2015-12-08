@@ -1,0 +1,39 @@
+{
+  "title": "Across the River",
+  "creation_date": "c. 1904",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "05.2",
+  "id": "cmoa:things/3acab4a3-b83b-4ae4-abfd-a400c5cd1a5f",
+  "credit_line": "Purchase",
+  "date_acquired": "1905-01-16",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 57.0,
+  "item_height": 47.5,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000125",
+  "provenance_text": "Walter Elmer Schofield [1867-1944], until 1904; purchased by Museum, January 1905 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128695&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd26fd9a-2456-4411-a3b4-dbc035020f09",
+      "party_type": "Person",
+      "full_name": "Walter Elmer Schofield",
+      "cited_name": "Schofield, W. E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "Cornwall (England, United Kingdom)"
+    }
+  ]
+}

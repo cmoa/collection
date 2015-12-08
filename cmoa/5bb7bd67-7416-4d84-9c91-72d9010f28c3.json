@@ -1,0 +1,51 @@
+{
+  "title": "The Judgement of Paris",
+  "creation_date": "c. 1517-1520",
+  "creation_date_earliest": "1501-12-22",
+  "creation_date_latest": "1534-12-22",
+  "medium": "engraving",
+  "accession_number": "15.11",
+  "id": "cmoa:things/5bb7bd67-7416-4d84-9c91-72d9010f28c3",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000967",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101649&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3dcec87-61c7-44b6-a488-bd3e6a605c09",
+      "party_type": "Person",
+      "full_name": "Marcantonio Raimondi",
+      "cited_name": "Raimondi, Marcantonio",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1480-01-01",
+      "death_date": "1530-01-01",
+      "birth_place": "Argini, nr Bologna, Italy?",
+      "death_place": "Bologna, Italy?"
+    },
+    {
+      "artist_id": "cmoa:parties/13377d25-2aee-4ed0-8d91-702b6423c880",
+      "party_type": "Person",
+      "full_name": "Raphael",
+      "cited_name": "Raphael",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1483-01-01",
+      "death_date": "1520-01-01",
+      "birth_place": "Urbino",
+      "death_place": "Rome"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Head",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "bronze, partly gilt (on wooden base)",
+  "accession_number": "89.27.33",
+  "id": "cmoa:things/63a2a862-5697-46ad-99ef-1b21936d088d",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.188,
+  "item_height": 4.875,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026675",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4676&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6de58d67-152b-4443-8cba-71c3c9620212",
+      "party_type": "Person",
+      "full_name": "unknown Thai",
+      "cited_name": "unknown Thai",
+      "role": null,
+      "nationality": "Thai",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

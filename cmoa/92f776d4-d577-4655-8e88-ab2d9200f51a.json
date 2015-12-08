@@ -1,0 +1,66 @@
+{
+  "title": "A Young Lady with a Guitar",
+  "creation_date": "1781",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1781-01-01",
+  "medium": "etching in crayon manner",
+  "accession_number": "49.2.40",
+  "id": "cmoa:things/92f776d4-d577-4655-8e88-ab2d9200f51a",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008646",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104012&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a83e0a60-55b9-42ae-9ac7-d6c1c9337a94",
+      "party_type": "Person",
+      "full_name": "Cornelis Brouwer",
+      "cited_name": "Brouwer, Cornelis",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1802-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1c2ec615-35c8-4db4-93b0-b4418642b024",
+      "party_type": "Person",
+      "full_name": "Caspar Netscher",
+      "cited_name": "Netscher, Caspar",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1639-01-01",
+      "death_date": "1684-01-01",
+      "birth_place": "Heidelberg, Germany",
+      "death_place": "The Hague, Netherlands"
+    }
+  ]
+}

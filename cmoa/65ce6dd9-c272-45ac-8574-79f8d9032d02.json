@@ -1,0 +1,39 @@
+{
+  "title": "The Steerage",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "photogravure",
+  "accession_number": "83.76.15",
+  "id": "cmoa:things/65ce6dd9-c272-45ac-8574-79f8d9032d02",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-10-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.375,
+  "item_height": 13.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024094",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24562&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55843eef-94d3-45e1-befd-734c6805acdd",
+      "party_type": "Person",
+      "full_name": "Alfred Stieglitz",
+      "cited_name": "Stieglitz, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1864-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Hoboken (Hudson county, New Jersey, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Malines Cathedral, Belgium",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "graphite and charcoal on 2 pieces of paper glued together",
+  "accession_number": "18.25.4",
+  "id": "cmoa:things/b016f5a6-122a-4bd5-b30a-1cb18ed70acf",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001774",
+  "provenance_text": "American Artists' War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caa16d24-c401-44af-b2c1-ceb74800ccbb",
+      "party_type": "Person",
+      "full_name": "Colin Campbell Cooper",
+      "cited_name": "Cooper, Colin C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "Santa Barbara (Santa Barbara county, California, United States)"
+    }
+  ]
+}

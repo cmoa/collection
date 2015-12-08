@@ -1,0 +1,39 @@
+{
+  "title": "The Expulsion from Paradise",
+  "creation_date": "1543",
+  "creation_date_earliest": "1542-12-22",
+  "creation_date_latest": "1542-12-22",
+  "medium": "engraving",
+  "accession_number": "16.15.4",
+  "id": "cmoa:things/5ceaf88f-f565-4c5e-9ed2-89cb09703dcd",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001064",
+  "provenance_text": "P. von Baldinger-Seidenberg (Stuttgart d.1911), Lugt 212; American Art Association, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b698dca-215c-40e3-97c7-d9a589db4a0b",
+      "party_type": "Person",
+      "full_name": "Hans Sebald Beham",
+      "cited_name": "Beham, Hans Sebald",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1500-01-01",
+      "death_date": "1550-01-01",
+      "birth_place": " Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": " Frankfurt am Main (Darmstadt district, Hessen state, Germany)"
+    }
+  ]
+}

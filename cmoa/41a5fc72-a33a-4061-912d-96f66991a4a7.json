@@ -1,0 +1,39 @@
+{
+  "title": "Fall Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.43",
+  "id": "cmoa:things/41a5fc72-a33a-4061-912d-96f66991a4a7",
+  "credit_line": "Gift of N. E. Waldman",
+  "date_acquired": "1957-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.125,
+  "item_height": 27.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010588",
+  "provenance_text": "N. E. Waldman, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32740&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3cbe4174-f740-4cec-86c1-2fff2d376e14",
+      "party_type": "Person",
+      "full_name": "Ruth Davidson Abrams",
+      "cited_name": "Abrams, Ruth D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

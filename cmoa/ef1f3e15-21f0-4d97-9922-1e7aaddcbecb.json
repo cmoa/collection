@@ -1,0 +1,39 @@
+{
+  "title": "Moon Night",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.99",
+  "id": "cmoa:things/ef1f3e15-21f0-4d97-9922-1e7aaddcbecb",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.875,
+  "item_height": 17.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029279",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33830&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e8c13e0-e50f-467c-bce1-f1227ce38527",
+      "party_type": "Person",
+      "full_name": "Hagiwara Hideo",
+      "cited_name": "Hagiwara Hideo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": "Kofu, Yamanashi prefecture",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "A Street with Various Buildings, Colonnades and an Arch",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": "1494-12-23",
+  "creation_date_latest": "1504-12-22",
+  "medium": "engraving on paper",
+  "accession_number": "74.41.2",
+  "id": "cmoa:things/cc12186c-a5fd-4f40-a05e-7fa009ec1603",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017000",
+  "provenance_text": "Klein-Vogel, Royal Oak, Michigan",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1ed00a8-0e91-4850-9f3d-259f6dfb29bc",
+      "party_type": "Person",
+      "full_name": "Donato Bramante",
+      "cited_name": "Bramante, Donato",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1444-01-01",
+      "death_date": "1514-01-01",
+      "birth_place": "Urbino (Pesaro e Urbino province, Marches, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

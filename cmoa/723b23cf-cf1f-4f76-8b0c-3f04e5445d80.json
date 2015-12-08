@@ -1,0 +1,39 @@
+{
+  "title": "Configuration I",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "54.13.2",
+  "id": "cmoa:things/723b23cf-cf1f-4f76-8b0c-3f04e5445d80",
+  "credit_line": "Edward Duff Balken Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009223",
+  "provenance_text": "Guilde Internationale de la Gravure, Geneva",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110878&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71678606-2447-459d-addb-1e2975aa9664",
+      "party_type": "Person",
+      "full_name": "Jean Arp",
+      "cited_name": "Arp, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": " Basel (Basel-Stadt, Switzerland)"
+    }
+  ]
+}

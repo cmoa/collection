@@ -1,0 +1,39 @@
+{
+  "title": "Alcoa Building",
+  "creation_date": null,
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2001.47.8",
+  "id": "cmoa:things/91ddac03-b609-4510-ab74-a67219265dbf",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "2001-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004366",
+  "provenance_text": "Butterfield & Butterfield, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107354&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/84dc3fc6-ca9c-4cdd-b6aa-90e8dab3c3f3",
+      "party_type": "Organization",
+      "full_name": "Wurts Brothers Photographers, New York",
+      "cited_name": "Wurts Brothers Photographers, New York",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

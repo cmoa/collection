@@ -1,0 +1,39 @@
+{
+  "title": "House for Margarete Hubbe, Magdeburg, Germany",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "2001.19.1",
+  "id": "cmoa:things/46a15417-84a0-444d-b149-4e07d14ef29e",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "2001-04-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004183",
+  "provenance_text": "Henry Urbach Architecture, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28260&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c3fb4ed-50eb-4b27-815d-df6bf75bebfd",
+      "party_type": "Person",
+      "full_name": "Ludwig Mies van der Rohe",
+      "cited_name": "Mies van der Rohe, Ludwig",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1886-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Aachen (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Chicago, Illinois"
+    }
+  ]
+}

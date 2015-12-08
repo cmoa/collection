@@ -1,0 +1,57 @@
+{
+  "title": "Covered beaker",
+  "creation_date": "c. 1715",
+  "creation_date_earliest": "1705-01-01",
+  "creation_date_latest": "1725-01-01",
+  "medium": "porcelain",
+  "accession_number": "85.63.A-B",
+  "id": "cmoa:things/ad244c3b-7e2d-477e-b418-1e6eb1b77179",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1985-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 13.438,
+  "item_depth": 0.0,
+  "item_diameter": 6.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025715",
+  "provenance_text": "Kate Foster Ltd., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97555&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11627&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4090&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db4da361-9480-44a0-8046-c7c47de2b5f5",
+      "party_type": "Person",
+      "full_name": "Johann J. Irminger",
+      "cited_name": "Irminger, Johann J.",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1635-01-01",
+      "death_date": "1724-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

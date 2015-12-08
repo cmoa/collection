@@ -1,0 +1,39 @@
+{
+  "title": "Untitled from \"The Peace Portfolio\"",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "87.22.10",
+  "id": "cmoa:things/a68008c0-037c-41ad-a0bf-25904020f017",
+  "credit_line": "Gift of Dr. and Mrs. Joseph Schachter",
+  "date_acquired": "1987-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.875,
+  "item_height": 21.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026296",
+  "provenance_text": "Dr. And Mrs. Joseph Schachter, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114336&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb790651-7684-42dc-96e4-30745c92fceb",
+      "party_type": "Person",
+      "full_name": "Esteban Vicente",
+      "cited_name": "Vicente, Esteban",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": "Segovia, Spain",
+      "death_place": "Bridgehampton, NY"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Young Woman",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.16",
+  "id": "cmoa:things/7377b518-4874-4c87-a3b0-e2c1e8af9e95",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 25.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017323",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29474&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35cc5930-9eb2-450e-8fae-c8b97c9390f7",
+      "party_type": "Person",
+      "full_name": "Marie Laurencin",
+      "cited_name": "Laurencin, Marie",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1885-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

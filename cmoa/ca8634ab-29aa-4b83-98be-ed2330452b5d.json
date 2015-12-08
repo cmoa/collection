@@ -1,0 +1,51 @@
+{
+  "title": "Plate, \"Swan Service\"",
+  "creation_date": "1738",
+  "creation_date_earliest": "1738-01-01",
+  "creation_date_latest": "1738-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1544",
+  "id": "cmoa:things/ca8634ab-29aa-4b83-98be-ed2330452b5d",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 2.375,
+  "item_depth": 0.0,
+  "item_diameter": 13.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013671",
+  "provenance_text": "Probably Count Heinrich von Brühl [1700-1763]; then by descent. Probably (Antique Porcelain Co. Ltd.), London, 1952 [1]; Ailsa Mellon Bruce, 1952; Gift to Carnegie Museum of Art, 1970. \n\nNOTES:\n1. Invoice from Antique Porcelain Company, London, to Ailsa Mellon Bruce, dated 1952 lists 3 plates of the Swan Service.  \nTBF November 4, 2014.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2725&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa45e57c-157e-4657-bfd1-8ca9307cdaeb",
+      "party_type": "Person",
+      "full_name": "Johann Joachim Kändler",
+      "cited_name": "Kändler, Johann J.",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1706-01-01",
+      "death_date": "1774-01-01",
+      "birth_place": "Germany",
+      "death_place": " Meissen (Dresden district, Saxony, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Window",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "platinum print",
+  "accession_number": "2007.51.31",
+  "id": "cmoa:things/a48433cf-b050-4090-a013-a50fc75becb8",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 17.625,
+  "item_height": 21.625,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48895",
+  "provenance_text": "Acquired by Mr. George Ebbs from Christie's on 05/04/1987 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112868&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0c60904-a8d8-4537-86f7-3ba0edcdb2a1",
+      "party_type": "Person",
+      "full_name": "Dwight A. Davis",
+      "cited_name": "Davis, Dwight A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

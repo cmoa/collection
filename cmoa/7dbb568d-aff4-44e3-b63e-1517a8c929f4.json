@@ -1,0 +1,51 @@
+{
+  "title": "Warren Hastings (after a Painting by Reynolds)",
+  "creation_date": "1777",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "mezzotint engraving on paper",
+  "accession_number": "70.32.2603",
+  "id": "cmoa:things/7dbb568d-aff4-44e3-b63e-1517a8c929f4",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014835",
+  "provenance_text": "Estate of Mrs. Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97227&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/866f346c-349f-4544-9f05-d004e02d3a9c",
+      "party_type": "Person",
+      "full_name": "Thomas Watson",
+      "cited_name": "Watson, Thomas",
+      "role": "Printmaker",
+      "nationality": "British",
+      "birth_date": "1743-01-01",
+      "death_date": "1781-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

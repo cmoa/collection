@@ -1,0 +1,42 @@
+{
+  "title": "Binghampton, NY Post Office Mural Design",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on board",
+  "accession_number": "93.106.2",
+  "id": "cmoa:things/2fc26175-88c4-4460-8b42-06f41834215e",
+  "credit_line": "Gift of Janet Marqusee Fine Arts",
+  "date_acquired": "1993-05-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 23.25,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032755",
+  "provenance_text": "Janet Marqusee, Fine Arts, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148315&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148316&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dec2965-16f0-4bc7-a36a-4eaef8f922e8",
+      "party_type": "Person",
+      "full_name": "Robert Lepper",
+      "cited_name": "Lepper, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aspinwall, PA",
+      "death_place": "Washington, DC"
+    }
+  ]
+}

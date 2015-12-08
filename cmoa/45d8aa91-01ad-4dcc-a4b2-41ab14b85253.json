@@ -1,0 +1,39 @@
+{
+  "title": "Junkyard",
+  "creation_date": "1948-1949",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "82.57",
+  "id": "cmoa:things/45d8aa91-01ad-4dcc-a4b2-41ab14b85253",
+  "credit_line": "Gift of Dr. and Mrs. Bernard Grossman",
+  "date_acquired": "1982-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 39.0,
+  "item_height": 35.125,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023028",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20006&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/314e0e00-47ef-4910-a9ca-af8356302318",
+      "party_type": "Person",
+      "full_name": "Henry Koerner",
+      "cited_name": "Koerner, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": null
+    }
+  ]
+}

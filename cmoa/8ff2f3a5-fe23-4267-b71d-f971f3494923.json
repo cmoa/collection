@@ -1,0 +1,42 @@
+{
+  "title": "Abstraction",
+  "creation_date": null,
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "54.13.4",
+  "id": "cmoa:things/8ff2f3a5-fe23-4267-b71d-f971f3494923",
+  "credit_line": "Edward Duff Balken Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.312,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009225",
+  "provenance_text": "Raymond & Raymond",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103742&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8f8837ed-329b-4b82-a715-41b6bd073e10",
+      "party_type": "Person",
+      "full_name": "Ralston Crawford",
+      "cited_name": "Crawford, Ralston",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "St. Catharines, Ontario, Canada",
+      "death_place": "New York"
+    }
+  ]
+}

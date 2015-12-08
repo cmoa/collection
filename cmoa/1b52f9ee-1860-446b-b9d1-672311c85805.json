@@ -1,0 +1,39 @@
+{
+  "title": "Les jeux de l'ete",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2011.68.3",
+  "id": "cmoa:things/1b52f9ee-1860-446b-b9d1-672311c85805",
+  "credit_line": "Gift of Dr. and Mrs. Karl Salatka",
+  "date_acquired": "2014-02-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.875,
+  "item_height": 24.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98411",
+  "provenance_text": "Concept Art Gallery, Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8a6a77e-3ca3-4640-8c69-9248be4bc06d",
+      "party_type": "Person",
+      "full_name": "Corneille (Cornelius Guillaume Van Beverloo)",
+      "cited_name": "Corneille",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1922-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Liège (Liège province, Wallonia, Belgium)",
+      "death_place": "France"
+    }
+  ]
+}

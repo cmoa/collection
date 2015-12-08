@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "earthenware with overglaze decoration",
+  "accession_number": "94.117",
+  "id": "cmoa:things/57b7a739-3568-420f-8347-1f96e0835364",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1994-09-22",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 5.687,
+  "item_height": 2.875,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033861",
+  "provenance_text": "Rena Bransten Gallery, San Francisco, CA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1377&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101477&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ef48bc5-ab27-452e-abc7-a9006d285dfe",
+      "party_type": "Person",
+      "full_name": "Ron Nagle",
+      "cited_name": "Nagle, Ron",
+      "role": "ceramicist",
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "San Francisco, California",
+      "death_place": null
+    }
+  ]
+}

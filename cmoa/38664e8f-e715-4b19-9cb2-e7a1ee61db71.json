@@ -1,0 +1,39 @@
+{
+  "title": "The Virgin on the Crescent",
+  "creation_date": "1498-1499",
+  "creation_date_earliest": "1497-12-23",
+  "creation_date_latest": "1498-12-23",
+  "medium": "engraving",
+  "accession_number": "74.7.87",
+  "id": "cmoa:things/38664e8f-e715-4b19-9cb2-e7a1ee61db71",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.062,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017641",
+  "provenance_text": "Vinzent Mayer, 1831 - 1918 (Lugt 2525).  \nCharles J. Rosenbloom (Lugt Suppl. 633b).  \nAnother, in pencil, undecipherable.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49113&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

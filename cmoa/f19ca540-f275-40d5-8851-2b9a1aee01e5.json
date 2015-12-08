@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glazed earthenware, sponged/spatterware",
+  "accession_number": "48.3.28",
+  "id": "cmoa:things/f19ca540-f275-40d5-8851-2b9a1aee01e5",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 2.188,
+  "item_depth": 6.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008354",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4167&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

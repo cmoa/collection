@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of the Artist",
+  "creation_date": "1789",
+  "creation_date_earliest": "1789-01-01",
+  "creation_date_latest": "1789-01-01",
+  "medium": "watercolor on ivory; gold metal frame",
+  "accession_number": "27.10.178",
+  "id": "cmoa:things/11f1dec9-529f-4ee9-8c50-21236a13eaae",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.062,
+  "item_height": 4.25,
+  "item_depth": 0.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005636",
+  "provenance_text": "Ruel P. Tolman [1879-1954], Washington, DC; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, May 13, 1918; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73635&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73636&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e4a3054-87c9-48ca-ae5d-30df1c6d2b87",
+      "party_type": "Person",
+      "full_name": "Jean Urbain Guerin",
+      "cited_name": "Guerin, Jean U.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1760-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": " Strasbourg (Bas-Rhin, Alsace, France)",
+      "death_place": " Obernai (Bas-Rhin, Alsace, France)"
+    }
+  ]
+}

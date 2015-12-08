@@ -1,0 +1,42 @@
+{
+  "title": "Cosimo Orsini, Camillo Graffico, Sigismund Laire and Ottavio Leoni",
+  "creation_date": "c. 1615-1618",
+  "creation_date_earliest": "1615-01-01",
+  "creation_date_latest": "1618-01-01",
+  "medium": "engraving",
+  "accession_number": "23.14.1",
+  "id": "cmoa:things/672ab934-8c33-4f92-90a3-23ff0305cc7b",
+  "credit_line": "Gift of Fitzroy Carrington",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004883",
+  "provenance_text": "Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100901&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d45a63f-f734-421d-9c7c-c9e34e151fac",
+      "party_type": "Person",
+      "full_name": "Ottavio Leoni",
+      "cited_name": "Leoni, Ottavio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1578-01-01",
+      "death_date": "1630-01-01",
+      "birth_place": "Rome",
+      "death_place": "Rome"
+    }
+  ]
+}

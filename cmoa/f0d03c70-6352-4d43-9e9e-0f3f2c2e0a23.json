@@ -1,0 +1,42 @@
+{
+  "title": "Dining chair",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "ash",
+  "accession_number": "2002.40.1",
+  "id": "cmoa:things/f0d03c70-6352-4d43-9e9e-0f3f2c2e0a23",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 42.0,
+  "item_depth": 17.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=351",
+  "provenance_text": "John Jesse, London,  England",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11270&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10117&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f1b9f09c-9a86-4869-b429-95e93c45d79c",
+      "party_type": "Person",
+      "full_name": "Josef Maria Olbrich",
+      "cited_name": "Olbrich, Josef M.",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1867-01-01",
+      "death_date": "1908-01-01",
+      "birth_place": null,
+      "death_place": "Düsseldorf district (North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

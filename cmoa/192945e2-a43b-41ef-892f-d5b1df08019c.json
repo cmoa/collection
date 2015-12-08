@@ -1,0 +1,39 @@
+{
+  "title": "The Adoration of the Magi",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1713-01-01",
+  "medium": "red crayon, red wash over black chalk, white paper",
+  "accession_number": "23.12.30",
+  "id": "cmoa:things/192945e2-a43b-41ef-892f-d5b1df08019c",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004839",
+  "provenance_text": "Herbert Dupuy, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99100&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/024c4ae9-30a4-40b4-b5ce-877a4746a8df",
+      "party_type": "Person",
+      "full_name": "Carlo Maratta",
+      "cited_name": "Maratta, Carlo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1625-01-01",
+      "death_date": "1713-01-01",
+      "birth_place": "Italy, Papal States, Camerino",
+      "death_place": "Rome"
+    }
+  ]
+}

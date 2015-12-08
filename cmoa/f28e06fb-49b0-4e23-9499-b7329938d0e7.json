@@ -1,0 +1,39 @@
+{
+  "title": "Jacques de la Faille",
+  "creation_date": "c. 1589",
+  "creation_date_earliest": "1584-01-01",
+  "creation_date_latest": "1594-01-01",
+  "medium": "engraving",
+  "accession_number": "18.40.3",
+  "id": "cmoa:things/f28e06fb-49b0-4e23-9499-b7329938d0e7",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001840",
+  "provenance_text": "Van Puten (d. c. 1829, Paris), Lugt 2058; George Busse, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101760&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

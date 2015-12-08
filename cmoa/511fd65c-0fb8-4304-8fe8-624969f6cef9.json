@@ -1,0 +1,39 @@
+{
+  "title": "Manchester Children in Bedroom, North Franklin Street",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "88.22.4",
+  "id": "cmoa:things/511fd65c-0fb8-4304-8fe8-624969f6cef9",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1988-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.938,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026463",
+  "provenance_text": "The Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113380&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/efb241bf-7dfa-44bb-bc4a-be5477baca62",
+      "party_type": "Person",
+      "full_name": "Regina Fisher",
+      "cited_name": "Fisher, Regina",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

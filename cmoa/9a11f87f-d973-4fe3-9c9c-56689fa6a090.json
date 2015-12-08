@@ -1,0 +1,39 @@
+{
+  "title": "San-Jô Bridge in Kyoto",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1360",
+  "id": "cmoa:things/9a11f87f-d973-4fe3-9c9c-56689fa6a090",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 20.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027198",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35284&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56c394e6-7816-4da2-97b9-f91276e9cd56",
+      "party_type": "Person",
+      "full_name": "Tokuriki Tomikichirô",
+      "cited_name": "Tokuriki Tomikichirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Kyoto",
+      "death_place": null
+    }
+  ]
+}

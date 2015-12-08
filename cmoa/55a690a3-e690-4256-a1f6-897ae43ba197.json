@@ -1,0 +1,51 @@
+{
+  "title": "Elizabeth, Countess of Northumberland?",
+  "creation_date": "1779",
+  "creation_date_earliest": "1779-01-01",
+  "creation_date_latest": "1779-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.68",
+  "id": "cmoa:things/55a690a3-e690-4256-a1f6-897ae43ba197",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34512",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39650&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/866f346c-349f-4544-9f05-d004e02d3a9c",
+      "party_type": "Person",
+      "full_name": "Thomas Watson",
+      "cited_name": "Watson, Thomas",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1743-01-01",
+      "death_date": "1781-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6ebbd55d-87d8-4118-ac97-666af0fca3b4",
+      "party_type": "Person",
+      "full_name": "Sir Peter Lely",
+      "cited_name": "Lely, Peter",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1618-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

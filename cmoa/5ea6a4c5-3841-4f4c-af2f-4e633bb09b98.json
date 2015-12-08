@@ -1,0 +1,42 @@
+{
+  "title": "Le Printemps (Springtime)",
+  "creation_date": "1857",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1857-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.70",
+  "id": "cmoa:things/5ea6a4c5-3841-4f4c-af2f-4e633bb09b98",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012940",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107816&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23156&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0ef9900-d9d1-4c02-8ea0-304f565afb63",
+      "party_type": "Person",
+      "full_name": "Charles François Daubigny",
+      "cited_name": "Daubigny, Charles F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1817-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

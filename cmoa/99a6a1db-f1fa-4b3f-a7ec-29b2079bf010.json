@@ -1,0 +1,39 @@
+{
+  "title": "Boy and Dog",
+  "creation_date": "1872",
+  "creation_date_earliest": "1872-01-01",
+  "creation_date_latest": "1872-01-01",
+  "medium": "graphite and pen and ink on paper",
+  "accession_number": "74.22.1",
+  "id": "cmoa:things/99a6a1db-f1fa-4b3f-a7ec-29b2079bf010",
+  "credit_line": "Gift of Robert E. Baker",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016945",
+  "provenance_text": "Gift of Robert E. Baker, Pittsburgh, PA, 1974.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115078&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22895246-2678-4299-a280-fec369156a4f",
+      "party_type": "Person",
+      "full_name": "Dwight C. Baker",
+      "cited_name": "Baker, Dwight C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

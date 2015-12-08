@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.89.8",
+  "id": "cmoa:things/f07254b3-86c5-45da-90fb-bfaa00106816",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 25.375,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019190",
+  "provenance_text": "James L. Winokur, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150095&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f791fc58-0f31-4813-a822-82c9b2fe7eca",
+      "party_type": "Person",
+      "full_name": "Stephen Gilbert",
+      "cited_name": "Gilbert, Stephen",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1910-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Fife (Scotland, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

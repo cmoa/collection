@@ -1,0 +1,39 @@
+{
+  "title": "Return to the Village",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.14",
+  "id": "cmoa:things/ab1b2a51-9550-4b9c-9b4a-da777c149238",
+  "credit_line": "Purchase: gift of the H. J. Heinz II Charitable and Family Trust",
+  "date_acquired": "1983-04-07",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 48.25,
+  "item_height": 41.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023599",
+  "provenance_text": "Sydney B. Donnan, by 1934; private collection, Boston; Childs Gallery, Boston, 1981; East End Galleries, Pittsburgh, 1982; Museum purchase: gift of the H.J. Heinz II Charitable and Family Trust, 1983",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21460&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4adc6ca9-d286-4c6a-8ab0-a84aa547ddb3",
+      "party_type": "Person",
+      "full_name": "Malcolm Parcell",
+      "cited_name": "Parcell, Malcolm",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Claysville, PA",
+      "death_place": null
+    }
+  ]
+}

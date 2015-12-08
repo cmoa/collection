@@ -1,0 +1,39 @@
+{
+  "title": "Footed Bowl",
+  "creation_date": "13th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1298-12-25",
+  "medium": "glazed earthenware",
+  "accession_number": "72.61.17",
+  "id": "cmoa:things/9d4d2e16-bee4-430a-b6c5-599862c5bbf0",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.375,
+  "item_depth": 0.0,
+  "item_diameter": 8.63,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016527",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1753&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcae5cec-2eca-4824-8f40-03e9bb9f7f8d",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Sultanabad",
+      "cited_name": "unknown Persian, Sultanabad",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

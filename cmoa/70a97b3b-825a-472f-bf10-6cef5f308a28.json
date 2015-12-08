@@ -1,0 +1,49 @@
+{
+  "title": "Commemorative Medal for the Centenary of the Bank of Pittsburgh, 1810-1910",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "bronze",
+  "accession_number": "94.65",
+  "id": "cmoa:things/70a97b3b-825a-472f-bf10-6cef5f308a28",
+  "credit_line": "Gift of Mr. and Mrs. Richard Cheek",
+  "date_acquired": "1994-04-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035230",
+  "provenance_text": "Mr. And Mrs. Richard Cheek, Belmont, MA",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/840f0c90-1062-4efd-9ea2-fbba160b7008",
+      "party_type": "Organization",
+      "full_name": "Heeren Bros. & Company",
+      "cited_name": "Heeren Bros. & Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8fa8db53-c35e-4261-9b66-c997fe730c6e",
+      "party_type": "Person",
+      "full_name": "George Browne Post",
+      "cited_name": "Post, George B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1913-01-01",
+      "birth_place": "New York",
+      "death_place": "Bernardsville, NJ"
+    }
+  ]
+}

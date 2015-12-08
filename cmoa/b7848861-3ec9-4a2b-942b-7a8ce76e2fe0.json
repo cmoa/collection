@@ -1,0 +1,39 @@
+{
+  "title": "Vessel (\"C.F.B. Green\")",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "green glass",
+  "accession_number": "86.13.2",
+  "id": "cmoa:things/b7848861-3ec9-4a2b-942b-7a8ce76e2fe0",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1986-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 8.0,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025832",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60056816-50e7-437c-bdda-7277d1501ddb",
+      "party_type": "Person",
+      "full_name": "Joel Philip Myers",
+      "cited_name": "Myers, Joel P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Patterson, New Jersey",
+      "death_place": null
+    }
+  ]
+}

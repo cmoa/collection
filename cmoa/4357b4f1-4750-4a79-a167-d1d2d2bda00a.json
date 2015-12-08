@@ -1,0 +1,66 @@
+{
+  "title": "The Woman in a Doorway",
+  "creation_date": "1763-1765",
+  "creation_date_earliest": "1763-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "etching in crayon manner and roulette heightened with red (chalk or watercolor?) on paper",
+  "accession_number": "49.2.38",
+  "id": "cmoa:things/4357b4f1-4750-4a79-a167-d1d2d2bda00a",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008638",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104020&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104021&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Platter, La Danse à Puits (The Dance at the Well)",
+  "creation_date": "c. 1921-1925",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "1998.34",
+  "id": "cmoa:things/79846ce1-358e-4560-a4a7-1c25829d32e5",
+  "credit_line": "Mary Murtland Wurts Fund",
+  "date_acquired": "1998-06-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.5,
+  "item_height": 3.0,
+  "item_depth": 19.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003736",
+  "provenance_text": "Solomon Suchard Antiques, Shaker Heights, OH",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ea7f904-d982-46a5-a9da-9c15efd1e619",
+      "party_type": "Person",
+      "full_name": "Paul Fouillen",
+      "cited_name": "Fouillen, Paul",
+      "role": "maker",
+      "nationality": "French",
+      "birth_date": "1899-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/40b51c19-d8e9-4199-9dd5-7a6c513dbbf2",
+      "party_type": "Organization",
+      "full_name": "De la Hubaudiere Factory",
+      "cited_name": "De la Hubaudiere Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1690-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

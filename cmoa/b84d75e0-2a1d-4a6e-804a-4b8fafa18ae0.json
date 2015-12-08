@@ -1,0 +1,51 @@
+{
+  "title": "Egg coddler",
+  "creation_date": "1805-1806",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "silver, glass, and sand",
+  "accession_number": "27.10.1016.A-C",
+  "id": "cmoa:things/b84d75e0-2a1d-4a6e-804a-4b8fafa18ae0",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 8.25,
+  "item_height": 13.0,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005523",
+  "provenance_text": "Adele Capell, Countess of Essex [-1922], Cassiobury Park, Watford, England. (Sold at Anderson Art Galleries, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, December 16, 1922; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4357&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4358&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4359&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4356&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4355&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03df8250-860c-489d-91e6-a48a560b9fbf",
+      "party_type": "Person",
+      "full_name": "John Edwards III",
+      "cited_name": "Edwards, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1788-01-01",
+      "death_date": "1811-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

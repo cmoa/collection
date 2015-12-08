@@ -1,0 +1,39 @@
+{
+  "title": "A Hungarian-American Farm",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "44.3",
+  "id": "cmoa:things/362d9b49-939a-45b3-8496-3cbfb4b3e955",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007510",
+  "provenance_text": "Arthur H. Harlow & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/285d1164-d8fe-492e-99a0-a2f8908efd25",
+      "party_type": "Person",
+      "full_name": "Grace Arnold Albee",
+      "cited_name": "Albee, Grace Arnold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Scituate, RI",
+      "death_place": null
+    }
+  ]
+}

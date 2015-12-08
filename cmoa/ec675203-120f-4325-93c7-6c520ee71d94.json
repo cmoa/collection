@@ -1,0 +1,39 @@
+{
+  "title": "Two Figures and El (Sixth Avenue El No. 2)",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "lithograph",
+  "accession_number": "1998.35",
+  "id": "cmoa:things/ec675203-120f-4325-93c7-6c520ee71d94",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1998-06-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 16.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003737",
+  "provenance_text": "Charles M. Young, Glastonbury, CT",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65531&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bab43991-a1bb-43ec-ab60-2981c06c87a6",
+      "party_type": "Person",
+      "full_name": "Stuart Davis",
+      "cited_name": "Davis, Stuart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

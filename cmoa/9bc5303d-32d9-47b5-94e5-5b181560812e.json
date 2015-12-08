@@ -1,0 +1,42 @@
+{
+  "title": "Water (\"7 x 95\")",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "porcelain with terra sigillata",
+  "accession_number": "2007.28",
+  "id": "cmoa:things/9bc5303d-32d9-47b5-94e5-5b181560812e",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 9.5,
+  "item_depth": 16.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=44589",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, which received the work directly from the artist.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53574&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49734&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c97c0e1-08ed-4224-a0c8-897ba05db44e",
+      "party_type": "Person",
+      "full_name": "Edward S. Eberle",
+      "cited_name": "Eberle, Edward S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Tarentum, PA",
+      "death_place": null
+    }
+  ]
+}

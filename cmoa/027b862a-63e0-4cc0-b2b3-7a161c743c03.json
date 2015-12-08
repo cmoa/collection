@@ -1,0 +1,49 @@
+{
+  "title": "Oval",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "pvc and abs plastic, mini compact-disc player",
+  "accession_number": "2001.9.A-B",
+  "id": "cmoa:things/027b862a-63e0-4cc0-b2b3-7a161c743c03",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "2001-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 10.5,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004424",
+  "provenance_text": "Anonymous donor, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2001.",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c151a78-ee92-4e8e-b37b-572d95d8025e",
+      "party_type": "Person",
+      "full_name": "Murakami, Takashi",
+      "cited_name": "Murakami, Takashi",
+      "role": "manufacturer",
+      "nationality": "Japanese",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": "Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cef32aac-6aa1-443a-8340-c16ec0cf6f4b",
+      "party_type": "Organization",
+      "full_name": "Cube Company Ltd.",
+      "cited_name": "Cube Company Ltd.",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1995-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Ochre, Red, Blue",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "81.88.18",
+  "id": "cmoa:things/10daa681-2667-4c12-8d32-1dea80005ada",
+  "credit_line": "Gift of Mrs. Anne Steinberg",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 30.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022138",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6111d02d-a7ca-4a7f-9f8a-bbe88be2e8a6",
+      "party_type": "Person",
+      "full_name": "Terry Frost",
+      "cited_name": "Frost, Terry",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1915-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Royal Leamington Spa (Warwickshire, England, United Kingdom)",
+      "death_place": "Newlyn (Cornwall, England, United Kingdom)"
+    }
+  ]
+}

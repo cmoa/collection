@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1902",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "2011.2",
+  "id": "cmoa:things/02388c0a-5617-4ed7-b939-2b762ef7949b",
+  "credit_line": "Purchase: Gift of Dr. David Werner and Sue Werner",
+  "date_acquired": "2011-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 6.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92857",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103905&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5737991a-810f-4c49-8648-41d6db32079f",
+      "party_type": "Organization",
+      "full_name": "Arabia Porcelain Factory",
+      "cited_name": "Arabia Porcelain Factory",
+      "role": null,
+      "nationality": "Finnish",
+      "birth_date": "1874-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Pour Jorn",
+  "creation_date": "1976",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "79.6.3",
+  "id": "cmoa:things/b9d213e5-f493-4f6c-92e1-f57aa94c15e9",
+  "credit_line": "Gift of the Asger Jorn Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020616",
+  "provenance_text": "Galerie van de Loo, Munich, Germany",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121737&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/109ec397-390b-4308-92e7-dc68272cda09",
+      "party_type": "Person",
+      "full_name": "Enrico Baj",
+      "cited_name": "Baj, Enrico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1924-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

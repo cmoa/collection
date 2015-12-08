@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "18th-19th century",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "reticello blown glass",
+  "accession_number": "76.39.5",
+  "id": "cmoa:things/f6ade5cf-56c6-4e8e-9804-b73c8db53b81",
+  "credit_line": "Gift of Mrs. Edward Pitcairn",
+  "date_acquired": "1976-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.687,
+  "item_depth": 0.0,
+  "item_diameter": 2.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018100",
+  "provenance_text": "Mrs. Edward Pitcairn, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1758&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c97d3813-32a5-423a-bbf6-71243e70651f",
+      "party_type": "Person",
+      "full_name": "unknown French, English or Venetian",
+      "cited_name": "unknown French, English or Venetian",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

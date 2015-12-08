@@ -1,0 +1,54 @@
+{
+  "title": "Louis Rousseau",
+  "creation_date": "1848",
+  "creation_date_earliest": "1824-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "43.4.20",
+  "id": "cmoa:things/bbb85f05-4789-49a9-9218-7e17f6e16651",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007408",
+  "provenance_text": "Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104690&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104691&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a181e86-a98f-4ae3-b4db-e3a98e577536",
+      "party_type": "Person",
+      "full_name": "Denis Auguste Marie Raffet",
+      "cited_name": "Raffet, Denis A.",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1804-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Genoa (Genova province, Liguria, Italy)"
+    },
+    {
+      "artist_id": "cmoa:parties/99a8d24c-f704-4e32-86fd-219ecb61a01f",
+      "party_type": "Person",
+      "full_name": "Auguste Bry",
+      "cited_name": "Bry, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

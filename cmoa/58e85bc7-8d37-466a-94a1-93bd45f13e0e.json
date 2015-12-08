@@ -1,0 +1,42 @@
+{
+  "title": "Pratt chair, No. 4",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "urethane",
+  "accession_number": "2003.47",
+  "id": "cmoa:things/58e85bc7-8d37-466a-94a1-93bd45f13e0e",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2003-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 34.625,
+  "item_depth": 19.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6551",
+  "provenance_text": "Urban Architecture, Brooklyn",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11930&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11067&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/27e78ec8-a386-42e5-b335-91694b5268c6",
+      "party_type": "Person",
+      "full_name": "Gaetano Pesce",
+      "cited_name": "Pesce, Gaetano",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

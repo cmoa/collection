@@ -1,0 +1,39 @@
+{
+  "title": "Ravensburg",
+  "creation_date": "c. 1770",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "lumsden 59",
+  "accession_number": "92.115.3",
+  "id": "cmoa:things/36825f27-26d1-4aae-93a1-868451053c93",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030171",
+  "provenance_text": "Christopher Mendez, London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108040&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a64225a-9ad9-4478-877d-dfb4400b250b",
+      "party_type": "Person",
+      "full_name": "John Clerk of Eldin",
+      "cited_name": "Clerk of Eldin, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1728-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": "Penicuik (Midlothian, Scotland, United Kingdom)",
+      "death_place": " Midlothian (Scotland, United Kingdom)"
+    }
+  ]
+}

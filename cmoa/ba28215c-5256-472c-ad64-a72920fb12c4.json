@@ -1,0 +1,45 @@
+{
+  "title": "Garden A (Niwa A)",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.144",
+  "id": "cmoa:things/ba28215c-5256-472c-ad64-a72920fb12c4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.75,
+  "item_height": 24.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027359",
+  "provenance_text": " Bequest of Dr. James B. Austin, Pittsburgh , PA\nAcquired by Dr. Austin from the Red Lantern Shop, Kyoto, Japan on 3/27/65.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33855&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33856&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33857&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f505b046-c89f-4640-beb5-0d6685b83055",
+      "party_type": "Person",
+      "full_name": "Hashimoto Okiie",
+      "cited_name": "Hashimoto Okiie",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1899-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Japan, Tottori-ken",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Haying Time",
+  "creation_date": "c. 1946",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "color silkscreen on paper",
+  "accession_number": "69.48.263",
+  "id": "cmoa:things/ec542f1d-afd8-42f9-9db8-92f7b1653292",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 12.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012851",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103592&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78869&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6a62d9c4-314e-420a-80ac-a3e8a92b97ee",
+      "party_type": "Person",
+      "full_name": "Bernard Steffen",
+      "cited_name": "Steffen, Bernard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Neodesha (Wilson county, Kansas, United States)",
+      "death_place": null
+    }
+  ]
+}

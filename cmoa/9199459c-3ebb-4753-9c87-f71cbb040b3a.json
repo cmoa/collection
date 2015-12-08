@@ -1,0 +1,39 @@
+{
+  "title": "Novitiate Mendicants",
+  "creation_date": "c. 1842",
+  "creation_date_earliest": "1837-01-01",
+  "creation_date_latest": "1847-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "25.5.5",
+  "id": "cmoa:things/9199459c-3ebb-4753-9c87-f71cbb040b3a",
+  "credit_line": "J. Willis Dalzell Memorial Collection, gift of Mrs. J. Willis Dalzell",
+  "date_acquired": "1925-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 34.75,
+  "item_height": 44.625,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005291",
+  "provenance_text": "Mrs. J. Willis Dalzelll (Mary Beer Dalzell) [c.1849-1929], Pittsburgh, PA, until February 6, 1925; her gift to Museum, February 1925.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149576&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98371740-c0c0-487c-a2aa-99fc1da8940a",
+      "party_type": "Person",
+      "full_name": "Richard Rothwell, R. H. A.",
+      "cited_name": "Rothwell, Richard",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1800-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Athlone (County Westmeath, Leinster, Republic of Ireland)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Giuseppe Cesare, Cavaliere d'Arpino",
+  "creation_date": "1621",
+  "creation_date_earliest": "1621-01-01",
+  "creation_date_latest": "1621-01-01",
+  "medium": "engraving",
+  "accession_number": "23.13.6",
+  "id": "cmoa:things/7eb32193-9015-4377-a0b0-07ecb13c1592",
+  "credit_line": "Purchase",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 19.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004878",
+  "provenance_text": "Fitzroy Carrington, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100909&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100910&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d45a63f-f734-421d-9c7c-c9e34e151fac",
+      "party_type": "Person",
+      "full_name": "Ottavio Leoni",
+      "cited_name": "Leoni, Ottavio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1578-01-01",
+      "death_date": "1630-01-01",
+      "birth_place": "Rome",
+      "death_place": "Rome"
+    }
+  ]
+}

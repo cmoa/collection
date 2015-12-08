@@ -1,0 +1,39 @@
+{
+  "title": "Guardian",
+  "creation_date": null,
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "50.7",
+  "id": "cmoa:things/c2dbd5f7-8815-4ce4-934f-9fbe4048da16",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1950-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008898",
+  "provenance_text": "Margo Hoff",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120867&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/85c340a5-b2ee-47e9-ac83-62ae8989e4bb",
+      "party_type": "Person",
+      "full_name": "Margo Hoff",
+      "cited_name": "Hoff, Margo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "Tulsa (Tulsa county, Oklahoma, United States)",
+      "death_place": null
+    }
+  ]
+}

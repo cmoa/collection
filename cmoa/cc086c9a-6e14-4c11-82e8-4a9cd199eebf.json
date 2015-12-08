@@ -1,0 +1,39 @@
+{
+  "title": "Hazardous Encounter",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "bronze",
+  "accession_number": "82.45",
+  "id": "cmoa:things/cc086c9a-6e14-4c11-82e8-4a9cd199eebf",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1982-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.25,
+  "item_height": 22.75,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022966",
+  "provenance_text": "Knoedler Gallery, New York, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105418&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2578d7a9-17bd-4c77-a6e2-966863ebc875",
+      "party_type": "Person",
+      "full_name": "Herbert Ferber",
+      "cited_name": "Ferber, Herbert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

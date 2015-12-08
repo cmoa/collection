@@ -1,0 +1,51 @@
+{
+  "title": "Façade of San Michele dell' Isola, Venice, Italy",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.6.12",
+  "id": "cmoa:things/201e7fa7-1946-4a92-bd45-28d426df7ab9",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-06-27",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 6.875,
+  "item_height": 8.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030076",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102385&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/831a823a-08a7-498c-90b5-374198132e9b",
+      "party_type": "Person",
+      "full_name": "Mauvo Codussi",
+      "cited_name": "Codussi, Mauvo",
+      "role": "architect",
+      "nationality": "Italian",
+      "birth_date": "1440-01-01",
+      "death_date": "1504-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

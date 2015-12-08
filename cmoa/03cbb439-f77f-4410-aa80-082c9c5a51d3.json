@@ -1,0 +1,39 @@
+{
+  "title": "Dish, Relish",
+  "creation_date": "1793-1807",
+  "creation_date_earliest": "1793-01-01",
+  "creation_date_latest": "1807-01-01",
+  "medium": "porcelain",
+  "accession_number": "23.10.11",
+  "id": "cmoa:things/03cbb439-f77f-4410-aa80-082c9c5a51d3",
+  "credit_line": "Gift of Reverend Alfred Duane Pell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 2.75,
+  "item_depth": 4.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004783",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

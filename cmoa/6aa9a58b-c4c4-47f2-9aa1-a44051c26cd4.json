@@ -1,0 +1,39 @@
+{
+  "title": "Diogenes",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.124",
+  "id": "cmoa:things/6aa9a58b-c4c4-47f2-9aa1-a44051c26cd4",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012697",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ecbd1899-1a44-4f22-a107-fe3b8f03b01c",
+      "party_type": "Person",
+      "full_name": "William Gropper",
+      "cited_name": "Gropper, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Manhasset (Nassau county, New York state, United States)"
+    }
+  ]
+}

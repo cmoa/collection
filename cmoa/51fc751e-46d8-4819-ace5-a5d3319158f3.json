@@ -1,0 +1,39 @@
+{
+  "title": "The Basin",
+  "creation_date": "c. 1937-1940",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.18",
+  "id": "cmoa:things/51fc751e-46d8-4819-ace5-a5d3319158f3",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 43.125,
+  "item_height": 31.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017346",
+  "provenance_text": "Kraushaar Galleries, New York, c. 1940; Charles J. Rosenbloom, Pittsburgh, 1943; bequest to museum, 1974",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149747&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6ce8e77-1ea2-43bd-b92b-b662de55c30e",
+      "party_type": "Person",
+      "full_name": "Charles W. Locke",
+      "cited_name": "Locke, Charles W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": "Garrison (Putnam county, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "A Vision of Antiquity - Symbol of Form",
+  "creation_date": "c.1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "97.3",
+  "id": "cmoa:things/f84be349-1c13-4c6a-96d1-53bc239a61bc",
+  "credit_line": "Purchase",
+  "date_acquired": "1897-11-22",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 52.0,
+  "item_height": 41.25,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035918",
+  "provenance_text": "Durand-Ruel and Sons, New York, by 1897; purchased by Museum, 1897 [1]. \nNOTES:1. Exhibited in First Annual Exhibition, 1897",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125709&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8440&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3416a2ae-3521-4e4f-bd66-4afb3fe19700",
+      "party_type": "Person",
+      "full_name": "Pierre-Cécile Puvis de Chavannes",
+      "cited_name": "Puvis de Chavannes, Pierre-Cécile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": "Lyon, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Star Ember",
+  "creation_date": null,
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "polyester resin",
+  "accession_number": "73.21.1",
+  "id": "cmoa:things/d9f94a7f-caea-426d-ad22-dfd1b6b7534e",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 63rd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1973-05-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 4.0,
+  "item_depth": 7.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016686",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127471&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ef6ed51d-cf41-4d2e-a649-2469d2ce1bdd",
+      "party_type": "Person",
+      "full_name": "Marjorie F. Shipe",
+      "cited_name": "Shipe, Marjorie F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Composition (Constellation)",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on cardboard",
+  "accession_number": "56.45",
+  "id": "cmoa:things/71853cca-d9b1-4da5-8c43-a87a39338e84",
+  "credit_line": "Lillian Claster Memorial Fund",
+  "date_acquired": "1956-10-24",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 22.25,
+  "item_height": 26.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009880",
+  "provenance_text": "Jean (Hans) Arp",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149518&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71678606-2447-459d-addb-1e2975aa9664",
+      "party_type": "Person",
+      "full_name": "Jean Arp",
+      "cited_name": "Arp, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": " Basel (Basel-Stadt, Switzerland)"
+    }
+  ]
+}

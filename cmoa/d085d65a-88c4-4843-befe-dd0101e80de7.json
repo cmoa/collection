@@ -1,0 +1,39 @@
+{
+  "title": "The Two Inyo County Homes",
+  "creation_date": null,
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "pencil",
+  "accession_number": "62.31.6",
+  "id": "cmoa:things/d085d65a-88c4-4843-befe-dd0101e80de7",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1962-10-30",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 10.938,
+  "item_height": 8.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011563",
+  "provenance_text": "Richard J. Neutra; gift to museum, October 1962",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103601&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4bba4e8-e6da-4ecf-ad55-456a34483a0c",
+      "party_type": "Person",
+      "full_name": "Richard Neutra",
+      "cited_name": "Neutra, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Wuppertal, Germany"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Folio stand",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "walnut",
+  "accession_number": "2011.17",
+  "id": "cmoa:things/e0c4ab68-0e03-46ba-b42a-d154d864d833",
+  "credit_line": "Gift of the following, by exchange: Elizabeth Braun Ernst; Barbara Ackerman, James Berkman, Richard Berkman, Helen Habbert, and Susan Rahm; Mrs. Paul B. Ernst; Mr. and Mrs. Frederic L. Cook; and Baroness Cassel Van Doorn",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 47.063,
+  "item_height": 64.5,
+  "item_depth": 31.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93436",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117072&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106111&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3a5046bb-9c27-4cc8-a7ce-a3620757ce0a",
+      "party_type": "Person",
+      "full_name": "Luigi Frullini",
+      "cited_name": "Frullini, Luigi",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1839-01-01",
+      "death_date": "1897-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

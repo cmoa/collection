@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1450",
+  "creation_date_earliest": "1444-12-23",
+  "creation_date_latest": "1454-12-23",
+  "medium": "tin-glazed earthenware with luster glaze (Hispano-Moresque ware)",
+  "accession_number": "59.48.6",
+  "id": "cmoa:things/c54dcaef-ebcb-4245-bfee-53bf6370f260",
+  "credit_line": "Sarah Mellon Scaife Foundation Fund",
+  "date_acquired": "1959-10-26",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 2.25,
+  "item_depth": 0.0,
+  "item_diameter": 18.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011038",
+  "provenance_text": "French and Company, New York City, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

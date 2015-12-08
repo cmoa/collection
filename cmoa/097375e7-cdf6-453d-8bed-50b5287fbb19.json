@@ -1,0 +1,39 @@
+{
+  "title": "Grey Antique",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "casein on paper",
+  "accession_number": "58.40",
+  "id": "cmoa:things/097375e7-cdf6-453d-8bed-50b5287fbb19",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.375,
+  "item_height": 16.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010846",
+  "provenance_text": "Sidney Janis Gallery, New York; Leisser Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/07285488-a764-4eff-866a-9b6677826667",
+      "party_type": "Person",
+      "full_name": "Franz Kline",
+      "cited_name": "Kline, Franz",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

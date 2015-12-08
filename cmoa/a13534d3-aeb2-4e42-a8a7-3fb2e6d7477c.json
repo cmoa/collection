@@ -1,0 +1,51 @@
+{
+  "title": "das federnde Aluminium - Mobel (Springy Aluminum Furniture)",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "paper (catalogue)",
+  "accession_number": "1997.63",
+  "id": "cmoa:things/a13534d3-aeb2-4e42-a8a7-3fb2e6d7477c",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1997-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 5.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003435",
+  "provenance_text": "Christie's, London, England",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107350&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6d61547-ff7e-4f54-a8ff-b401c6ca4510",
+      "party_type": "Person",
+      "full_name": "Herbert Bayer",
+      "cited_name": "Bayer, Herbert",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Haag am Hausruck (Oberösterreich, Austria)",
+      "death_place": "Montecito (Santa Barbara county, California, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/20cff8e9-78ae-4de2-bd32-178813e4e840",
+      "party_type": "Organization",
+      "full_name": "Wohnbedarf",
+      "cited_name": "Wohnbedarf",
+      "role": "retailer",
+      "nationality": "Swiss",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

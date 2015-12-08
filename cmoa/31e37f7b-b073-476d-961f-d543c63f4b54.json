@@ -1,0 +1,39 @@
+{
+  "title": "Wrapped Lower Manhattan",
+  "creation_date": null,
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "lithograph with collage",
+  "accession_number": "82.3.2",
+  "id": "cmoa:things/31e37f7b-b073-476d-961f-d543c63f4b54",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.625,
+  "item_height": 30.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022934",
+  "provenance_text": "Ediciones Poligrafa, Barcelona",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125054&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b3b30b0-69d3-474b-8a54-9a86cdde6332",
+      "party_type": "Person",
+      "full_name": "Christo",
+      "cited_name": "Christo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Gabrovo (Lovech region, Bulgaria)",
+      "death_place": null
+    }
+  ]
+}

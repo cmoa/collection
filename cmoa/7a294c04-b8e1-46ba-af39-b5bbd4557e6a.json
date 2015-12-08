@@ -1,0 +1,51 @@
+{
+  "title": "Act 1,Tsurugaoka (Shodan, Tsurugaoka) from the series \"Kanadehon Chushingura\"",
+  "creation_date": "c. 1801",
+  "creation_date_earliest": "1796-01-01",
+  "creation_date_latest": "1806-01-01",
+  "medium": "color woodblock print (chuban)",
+  "accession_number": "89.28.397.1",
+  "id": "cmoa:things/7a294c04-b8e1-46ba-af39-b5bbd4557e6a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.875,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028151",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Charles H. Mitchell, Tokyo, ~1963.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78904&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/4a76225f-aef7-4b5c-a900-4390009d8524",
+      "party_type": "Person",
+      "full_name": "Iseya Rihei",
+      "cited_name": "Iseya Rihei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

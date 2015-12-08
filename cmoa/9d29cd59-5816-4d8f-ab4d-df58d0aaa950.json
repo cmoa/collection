@@ -1,0 +1,39 @@
+{
+  "title": "Two Clowns with Dog",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "pen and ink on paper",
+  "accession_number": "93.189.40",
+  "id": "cmoa:things/9d29cd59-5816-4d8f-ab4d-df58d0aaa950",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033326",
+  "provenance_text": "Maynard Walker Gallery, New York; Mr. and Mrs. James H. Beal, Pittsburgh, 1962; Mr. and Mrs. James H. Beal",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90903&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3976c40-22b9-4965-ac89-0046a26b1fdf",
+      "party_type": "Person",
+      "full_name": "Walt Kuhn",
+      "cited_name": "Kuhn, Walt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

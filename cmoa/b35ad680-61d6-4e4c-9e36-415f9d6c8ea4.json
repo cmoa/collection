@@ -1,0 +1,42 @@
+{
+  "title": "La Montagne St.-Genevieve, rue de L'Estacade",
+  "creation_date": "1889-1890",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "20.15.3",
+  "id": "cmoa:things/b35ad680-61d6-4e4c-9e36-415f9d6c8ea4",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-07-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004519",
+  "provenance_text": "M. Knoedler & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111021&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111020&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12214363-c054-4bce-8883-26046f05323b",
+      "party_type": "Person",
+      "full_name": "Auguste Lepère",
+      "cited_name": "Lepère, Auguste L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Domme, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Tropical Garden's Presence",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "painted aluminum",
+  "accession_number": "74.26",
+  "id": "cmoa:things/6b8211e2-e289-4b0a-bc9f-985eb6ee5176",
+  "credit_line": "Gift of Mr. and Mrs. James A. Fisher",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 72.0,
+  "item_height": 109.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016950",
+  "provenance_text": "The Pace Gallery, NYC",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37206&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee1ced5b-4fff-4eaf-83bd-124d2c987062",
+      "party_type": "Person",
+      "full_name": "Louise Nevelson",
+      "cited_name": "Nevelson, Louise",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Kiev, Russia, present-day Ukraine",
+      "death_place": "New York"
+    }
+  ]
+}

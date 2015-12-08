@@ -1,0 +1,45 @@
+{
+  "title": "View of Saint-Mammès",
+  "creation_date": "c. 1881",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1886-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "99.7",
+  "id": "cmoa:things/b1357c35-c930-4e15-9d8a-e50bba6bd03a",
+  "credit_line": "Purchase",
+  "date_acquired": "1899-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 29.0,
+  "item_height": 21.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035976",
+  "provenance_text": "Alfred Sisley [1839-1899], until July 23, 1881; (purchased by Durand-Ruel, Paris, France, July 23, 1881, stock no. 1483) [1]; purchased by Mr. Andrews?, New York, NY, on October 16, 1888 [2]; purchased by A. W. Kingman, New York, NY, on April 11, 1892; (purchased by Durand-Ruel and Sons, New York, NY, April 11, 1892 until 1898); purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, January 1899 [3]. \nNOTES: [1] Purchased from the artist as \"Village au bord de leau\". See \"Alfred Sisley\", Mary Anne Stevens, ed., Yale University Press, [2] Probably William L. Andrews,. [3] This work was shown in the 1898 Carnegie International Exhibition, and subsequently purchased by the museum.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133250&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129335&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129336&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13d2101f-1197-42ad-8d30-15337dd1503f",
+      "party_type": "Person",
+      "full_name": "Alfred Sisley",
+      "cited_name": "Sisley, Alfred",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1839-10-30",
+      "death_date": "1899-01-29",
+      "birth_place": "Paris, France",
+      "death_place": "Moret-sur-Loing (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

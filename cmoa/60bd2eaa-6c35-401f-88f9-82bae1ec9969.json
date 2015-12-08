@@ -1,0 +1,39 @@
+{
+  "title": "Tablet, Frieze",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "jasperware, blue and white",
+  "accession_number": "82.93.3",
+  "id": "cmoa:things/60bd2eaa-6c35-401f-88f9-82bae1ec9969",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 7.375,
+  "item_depth": 0.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023483",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1782&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a80f181-f41e-40ef-81a6-e11f040d9329",
+      "party_type": "Organization",
+      "full_name": "Wedgwood",
+      "cited_name": "Wedgwood",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

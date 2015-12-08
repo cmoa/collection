@@ -1,0 +1,51 @@
+{
+  "title": "A party at a teahouse in the Yoshiwara Pleasure Quarter (the middle sheet of a triptych)",
+  "creation_date": "c. 1792",
+  "creation_date_earliest": "1782-01-01",
+  "creation_date_latest": "1802-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.7",
+  "id": "cmoa:things/90022935-c230-4420-93b8-66b5de5948bb",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001216",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e21dcae9-1cd6-4311-b2bc-2c3e813e498e",
+      "party_type": "Person",
+      "full_name": "Eishi Chôbunsai",
+      "cited_name": "Eishi Chôbunsai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1756-01-01",
+      "death_date": "1829-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/28b5433f-65c7-477d-beb5-bb1982f235ed",
+      "party_type": "Person",
+      "full_name": "Kisaburo Iwatoya",
+      "cited_name": "Kisaburo Iwatoya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

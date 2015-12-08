@@ -1,0 +1,39 @@
+{
+  "title": "Glass dish with Cover",
+  "creation_date": "1765-1774",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1774-01-01",
+  "medium": "glass",
+  "accession_number": "50.1.2.2.A-B",
+  "id": "cmoa:things/9f1522e1-4d5a-483e-8580-8473e79ffffc",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008801",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1250&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

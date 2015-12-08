@@ -1,0 +1,39 @@
+{
+  "title": "Les Beaux",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "oil or acrylic on canvas",
+  "accession_number": "2010.48.3",
+  "id": "cmoa:things/51200102-8a17-424e-b7d7-439b61cf1063",
+  "credit_line": "Gift of Darthea Speyer",
+  "date_acquired": "2010-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 14, Scaife Galleries",
+  "item_width": 134.5,
+  "item_height": 108.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91905",
+  "provenance_text": "Collection of Darthea Speyer, before 2010; Gift of Darthea Speyer, 2010. \n\nTBF 10/31/14.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112054&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dfab4804-0aff-42ad-8a57-74fe05761291",
+      "party_type": "Person",
+      "full_name": "Llyn Foulkes",
+      "cited_name": "Foulkes, Llyn",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Yakima (Yakima county, Washington, United States)",
+      "death_place": null
+    }
+  ]
+}

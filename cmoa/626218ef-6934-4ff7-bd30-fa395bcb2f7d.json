@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh Backyard",
+  "creation_date": "c. 1950s",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "bromoil print",
+  "accession_number": "1997.71.3",
+  "id": "cmoa:things/626218ef-6934-4ff7-bd30-fa395bcb2f7d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-12-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 16.312,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003456",
+  "provenance_text": "Val Buttignol, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8304&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/afe15862-8988-4187-9edb-73ce5cb12d7d",
+      "party_type": "Person",
+      "full_name": "Orlando E. Romig",
+      "cited_name": "Romig, Orlando E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

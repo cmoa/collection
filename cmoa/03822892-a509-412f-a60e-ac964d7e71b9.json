@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2012",
+  "creation_date_earliest": "2012-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2012.9.5",
+  "id": "cmoa:things/03822892-a509-412f-a60e-ac964d7e71b9",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2012-04-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 7.312,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98476",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68d09ba6-f8e9-4a66-a20f-60eebaeaef19",
+      "party_type": "Person",
+      "full_name": "Cathy Wilkes",
+      "cited_name": "Wilkes, Cathy",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "Belfast",
+      "death_place": null
+    }
+  ]
+}

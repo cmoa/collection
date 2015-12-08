@@ -1,0 +1,39 @@
+{
+  "title": "Illustration for a Poem",
+  "creation_date": "c. 1860-1880",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "drawing on uncut wood block",
+  "accession_number": "18.41.1",
+  "id": "cmoa:things/bbf3c8ea-bcb7-4757-82db-6df24653825e",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-03-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.938,
+  "item_height": 5.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001841",
+  "provenance_text": "George H. Whittle, New York; Andrew Carnegie Fund",
+  "classification": "printing blocks",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115683&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c34a826-151e-410e-a614-912f0342e241",
+      "party_type": "Person",
+      "full_name": "Felix Octavius Carr Darley",
+      "cited_name": "Darley, Felix O. C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1822-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": " Claymont (New Castle county, Delaware, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Shore Leave",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "etching",
+  "accession_number": "60.36.7",
+  "id": "cmoa:things/9a8b642f-2a23-40a0-bfa0-ef0f237e8247",
+  "credit_line": "Gift of Thomas E. Rhodes",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011233",
+  "provenance_text": "Promised or Given",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76881&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed3a1eb6-4d32-4d1b-a045-ecc93bc0ae09",
+      "party_type": "Person",
+      "full_name": "Paul Cadmus",
+      "cited_name": "Cadmus, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Weston (Fairfield county, Connecticut, United States)"
+    }
+  ]
+}

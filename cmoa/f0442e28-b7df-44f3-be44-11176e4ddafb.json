@@ -1,0 +1,39 @@
+{
+  "title": "Auch ein Totentanz (Another Dance of Death)",
+  "creation_date": "1849",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1849-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "90.22.3",
+  "id": "cmoa:things/f0442e28-b7df-44f3-be44-11176e4ddafb",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1990-12-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029362",
+  "provenance_text": "C. G. Boerner, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107793&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24b2667c-fd48-4906-9063-06ab6c7f25f6",
+      "party_type": "Person",
+      "full_name": "Alfred Rethel",
+      "cited_name": "Rethel, Alfred",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1816-01-01",
+      "death_date": "1859-01-01",
+      "birth_place": "Diepenbend, nr Aachen, Germany",
+      "death_place": "Düsseldorf, Germany"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.19",
+  "id": "cmoa:things/968bf4a8-897b-4c76-b5a6-351e4636a1a8",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018234",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106478&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a8cb8f12-39ab-482f-a97c-c85e99e40ee4",
+      "party_type": "Person",
+      "full_name": "Claes Oldenburg",
+      "cited_name": "Oldenburg, Claes",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Stockholm (Stockholm, Sweden)",
+      "death_place": null
+    }
+  ]
+}

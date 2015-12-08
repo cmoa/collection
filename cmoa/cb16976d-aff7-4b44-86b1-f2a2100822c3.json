@@ -1,0 +1,51 @@
+{
+  "title": "Sushi IV chair",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "painted iron, natural and synthetic fabrics, and plastics",
+  "accession_number": "2005.27.1",
+  "id": "cmoa:things/cb16976d-aff7-4b44-86b1-f2a2100822c3",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2005-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 43.0,
+  "item_height": 29.75,
+  "item_depth": 34.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14957",
+  "provenance_text": "Campana Brothers Studio, San Paolo, Brazil via Barry Friedman Gallery, New York.  Exhibited in Zest for Life at the Design Museum, London.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27320&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b043b8-0092-4d39-9edb-5ebd57c3bdca",
+      "party_type": "Person",
+      "full_name": "Fernando Campana",
+      "cited_name": "Campana, Fernando",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/24f9c8f6-e7d0-4405-ac49-09ec9abfe5a2",
+      "party_type": "Person",
+      "full_name": "Humberto Campana",
+      "cited_name": "Campana, Humberto",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

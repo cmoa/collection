@@ -1,0 +1,39 @@
+{
+  "title": "Michelangelo and Galileo",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.28",
+  "id": "cmoa:things/02af7b87-0b2c-4eb2-877d-f20757817167",
+  "credit_line": "Gift of Charles Le Clair",
+  "date_acquired": "1986-06-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.063,
+  "item_height": 44.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026040",
+  "provenance_text": "Charles Le Clair, Philadelphia, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=459&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ea225cad-5e53-4f20-9521-2c5c695f9493",
+      "party_type": "Person",
+      "full_name": "Charles Le Clair",
+      "cited_name": "Le Clair, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Columbia, MO",
+      "death_place": null
+    }
+  ]
+}

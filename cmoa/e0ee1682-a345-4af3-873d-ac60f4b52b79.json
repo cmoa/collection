@@ -1,0 +1,39 @@
+{
+  "title": "Charger",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "Porcelain",
+  "accession_number": "89.27.10.1",
+  "id": "cmoa:things/e0ee1682-a345-4af3-873d-ac60f4b52b79",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.5,
+  "item_depth": 0.0,
+  "item_diameter": 18.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026649",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1831&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

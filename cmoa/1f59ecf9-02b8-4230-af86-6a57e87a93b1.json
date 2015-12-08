@@ -1,0 +1,39 @@
+{
+  "title": "Shutter",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "steel",
+  "accession_number": "75.35",
+  "id": "cmoa:things/1f59ecf9-02b8-4230-af86-6a57e87a93b1",
+  "credit_line": "Kaufmann's Department Store Purchase Grant",
+  "date_acquired": "1975-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 90.25,
+  "item_height": 45.875,
+  "item_depth": 61.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017749",
+  "provenance_text": "Acquavella Contemporary Art, NYC",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149585&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0c0fa65-0a22-44c0-92eb-4db62d222b10",
+      "party_type": "Person",
+      "full_name": "Anthony Caro",
+      "cited_name": "Caro, Anthony",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Surrey (England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Tome deuxième (moyen âge) from Monuments anciens et modernes",
+  "creation_date": "1850",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": null,
+  "accession_number": "93.195.10.2",
+  "id": "cmoa:things/50835e6f-daec-4758-821c-cdf77232e2fd",
+  "credit_line": "Gift of Christopher Monkhouse",
+  "date_acquired": "1994-02-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033516",
+  "provenance_text": "Christopher Monkhouse, Pittsburgh, PA",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119218&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119219&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac5a80f-096f-4257-bff0-1227711a004c",
+      "party_type": "Person",
+      "full_name": "Jules Gailhabaud",
+      "cited_name": "Gailhabaud, Jules",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1810-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

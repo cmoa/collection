@@ -1,0 +1,39 @@
+{
+  "title": "Table",
+  "creation_date": "c. 1878",
+  "creation_date_earliest": "1873-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "wood with various woods, amaranth, birch, ebony, maple, holly, bronze, silk, wool, mirrored glass, and copper",
+  "accession_number": "2010.6",
+  "id": "cmoa:things/b27a3dbb-f179-4483-8bcc-6addacd76716",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2010-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 28.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88832",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116114&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fab626e3-92bf-43fd-bdf0-b4cf74f0341c",
+      "party_type": "Person",
+      "full_name": "Charles-Guillaume Diehl",
+      "cited_name": "Diehl, Charles-Guillaume",
+      "role": "maker",
+      "nationality": "French",
+      "birth_date": "1811-01-01",
+      "death_date": "1885-01-01",
+      "birth_place": "Steinbach, Germany",
+      "death_place": null
+    }
+  ]
+}

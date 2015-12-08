@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.4.2",
+  "id": "cmoa:things/ed6d0b05-0eeb-41ba-97b8-fff17a60e4b8",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.0,
+  "item_height": 36.875,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022963",
+  "provenance_text": "Tobey C. Moss, Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=62806&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/75333c78-a4f0-43a6-a608-ae2cbbbf75ce",
+      "party_type": "Person",
+      "full_name": "John McLaughlin",
+      "cited_name": "McLaughlin, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

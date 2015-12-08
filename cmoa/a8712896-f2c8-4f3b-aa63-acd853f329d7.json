@@ -1,0 +1,39 @@
+{
+  "title": "Head of Eustache de Saint-Pierre",
+  "creation_date": "1889, cast later",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "bronze",
+  "accession_number": "78.23",
+  "id": "cmoa:things/a8712896-f2c8-4f3b-aa63-acd853f329d7",
+  "credit_line": "Gift of Cantor, Fitzgerald Securities Corporation",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 8.875,
+  "item_height": 13.0,
+  "item_depth": 9.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019286",
+  "provenance_text": "Cantor, Fitzgerald Securities Corporation, New York, until 1978. Gift to Museum of Art, Carnegie Institute, 1978.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117294&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dec87be6-b8ac-434e-afcb-c0e7c3e742be",
+      "party_type": "Person",
+      "full_name": "Auguste Rodin",
+      "cited_name": "Rodin, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Meudon (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

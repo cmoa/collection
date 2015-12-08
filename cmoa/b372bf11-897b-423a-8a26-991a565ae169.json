@@ -1,0 +1,42 @@
+{
+  "title": "Vessel",
+  "creation_date": "c. 1956",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "ceramic",
+  "accession_number": "2000.8",
+  "id": "cmoa:things/b372bf11-897b-423a-8a26-991a565ae169",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2000-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 8.375,
+  "item_depth": 8.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004141",
+  "provenance_text": "John Axelrod, Boston",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4049&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13432&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1bdff41-5310-4c9d-a05d-a9cfe151664a",
+      "party_type": "Person",
+      "full_name": "John Mason",
+      "cited_name": "Mason, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Madrid (Perkins county, Nebraska, United States)",
+      "death_place": null
+    }
+  ]
+}

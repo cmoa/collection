@@ -1,0 +1,39 @@
+{
+  "title": "Compote",
+  "creation_date": "1820-1850",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.18",
+  "id": "cmoa:things/d7260aa2-187e-42d4-9f0d-739aad13aaca",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 8.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103011",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126596&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

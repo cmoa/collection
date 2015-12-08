@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "c. 1816-1817",
+  "creation_date_earliest": "1811-01-01",
+  "creation_date_latest": "1822-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.21.27",
+  "id": "cmoa:things/7a4a5539-beea-439e-bc4c-bbb69ece3a8c",
+  "credit_line": "Bequest of Edgar W. and Bernice Chrysler Garbisch",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 8.875,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021767",
+  "provenance_text": "Edgar Sittig, Easton, Pa., before 1951; Edgar W. and Bernice Chrysler Garbisch, New York, 1951; bequest to museum, 1981",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150079&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f00f063b-cf04-4559-a461-3475bc6c5c1d",
+      "party_type": "Person",
+      "full_name": "Jacob Eichholtz",
+      "cited_name": "Eichholtz, Jacob",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1776-01-01",
+      "death_date": "1842-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

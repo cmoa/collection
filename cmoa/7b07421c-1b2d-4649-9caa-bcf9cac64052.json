@@ -1,0 +1,39 @@
+{
+  "title": "Tarrasa, XII",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "58.37.2",
+  "id": "cmoa:things/7b07421c-1b2d-4649-9caa-bcf9cac64052",
+  "credit_line": "Gift of the Women's Committee",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.625,
+  "item_height": 63.625,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010840",
+  "provenance_text": "The Artist via 1958 Pittsburgh International",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114567&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4dcfa07-287a-4ea5-b44c-2afd6e519507",
+      "party_type": "Person",
+      "full_name": "Adja Yunkers",
+      "cited_name": "Yunkers, Adja",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Riga (Riga district, Latvia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

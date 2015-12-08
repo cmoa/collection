@@ -1,0 +1,39 @@
+{
+  "title": "Reclining Nude",
+  "creation_date": "before 1955-1956",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.24",
+  "id": "cmoa:things/0a73a214-0eec-4e8b-9c70-0ea6d59084d1",
+  "credit_line": "Gift of Elizabeth Wallace Hood in memory of her Husband Samuel Stevens Hood",
+  "date_acquired": "1983-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.375,
+  "item_height": 32.375,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023652",
+  "provenance_text": "Elizabeth Wallace Hood, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25029&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7029de13-e807-4c44-8e7d-0f3ef418b548",
+      "party_type": "Person",
+      "full_name": "Balcomb Greene",
+      "cited_name": "Greene, Balcomb",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Niagara Falls (Niagara county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

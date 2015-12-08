@@ -1,0 +1,39 @@
+{
+  "title": "The Watchdog of the Beloved",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.45",
+  "id": "cmoa:things/14c36e84-0232-495e-842f-f521711ffa28",
+  "credit_line": "Purchase: gift of G. David Thompson",
+  "date_acquired": "1959-10-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 55.0,
+  "item_height": 47.125,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011026",
+  "provenance_text": "Gerard Lataster, Amsterdam, Denmark",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=136330&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b98087-b788-4185-9175-f89abe21e2da",
+      "party_type": "Person",
+      "full_name": "Ger Lataster",
+      "cited_name": "Lataster, Ger",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": "Schaesberg",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Evening",
+  "creation_date": "1856-1870",
+  "creation_date_earliest": "1856-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "marble",
+  "accession_number": "1997.43",
+  "id": "cmoa:things/e8f88434-ed3f-4282-985f-8dd550d9fa04",
+  "credit_line": "Ann and William Boyd, Jr. Fund, Frances G. Scaife Fund, Mr. and Mrs. William A. Meyer Fund, Leisser Art Fund, and Joseph E. and Sally M. Imbriglia Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 22.0,
+  "item_height": 24.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003379",
+  "provenance_text": "(Conner Rosenkranz, LLC [1980-], New York, NY). Purchased by Museum, 1997.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d73d041e-8eb6-4bcb-ba0c-08c618b185b9",
+      "party_type": "Person",
+      "full_name": "William Henry Rinehart",
+      "cited_name": "Rinehart, William H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1874-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

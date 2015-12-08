@@ -1,0 +1,39 @@
+{
+  "title": "Rhea",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "steel",
+  "accession_number": "63.4",
+  "id": "cmoa:things/1d402dfc-6f60-4eb1-88c5-0bb8788c2200",
+  "credit_line": "Gift of the Ford Foundation through Its Program for the Purchase of Works by American Artists",
+  "date_acquired": "1963-03-28",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 91.0,
+  "item_depth": 26.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011676",
+  "provenance_text": "1962 Biennial of Painting and Sculpture, Walker Art Center, Minneapolis",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126468&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93b383a5-c211-496d-82ad-16daf9ab49db",
+      "party_type": "Person",
+      "full_name": "Leo Steppat",
+      "cited_name": "Steppat, Leo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": null
+    }
+  ]
+}

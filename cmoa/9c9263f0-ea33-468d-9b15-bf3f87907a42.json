@@ -1,0 +1,39 @@
+{
+  "title": "Modern Cafe (Restored)",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "colored pencil on paper",
+  "accession_number": "93.147",
+  "id": "cmoa:things/9c9263f0-ea33-468d-9b15-bf3f87907a42",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1993-10-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 46.25,
+  "item_height": 64.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032979",
+  "provenance_text": "Charles Biddle, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13050&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cb61f68d-334a-4283-860b-72538bcc092f",
+      "party_type": "Person",
+      "full_name": "Charles Biddle",
+      "cited_name": "Biddle, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

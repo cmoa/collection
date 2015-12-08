@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Eugene Smith",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "82.32.442",
+  "id": "cmoa:things/3b05b045-4752-4cd1-bbc3-00fae79c1f02",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh, Lorant Collection",
+  "date_acquired": "1982-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 13.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022740",
+  "provenance_text": "The Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146544&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aa74020-bd3e-48de-ab79-e33815d084dd",
+      "party_type": "Person",
+      "full_name": "Fran Erzen",
+      "cited_name": "Erzen, Fran",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1917-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

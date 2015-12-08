@@ -1,0 +1,39 @@
+{
+  "title": "Mirror",
+  "creation_date": "mid 18th century",
+  "creation_date_earliest": "1725-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "gilded wood and mirrored glass",
+  "accession_number": "70.7.19",
+  "id": "cmoa:things/f44155b2-4b1b-4686-a88e-237a6f972992",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 33.0,
+  "item_height": 51.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016013",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126357&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ba22b3-060e-4a3b-bd75-385716e77b3e",
+      "party_type": "Person",
+      "full_name": "unknown Venetian",
+      "cited_name": "unknown Venetian",
+      "role": null,
+      "nationality": "Venetian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "tin enamel glazed earthenware",
+  "accession_number": "72.11.8",
+  "id": "cmoa:things/bfdf38c3-4eba-4572-a092-a18da34d144c",
+  "credit_line": "Gift of the Roy A. Hunt Foundation",
+  "date_acquired": "1972-05-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.062,
+  "item_depth": 0.0,
+  "item_diameter": 11.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016309",
+  "provenance_text": "Roy A. Hunt Foundation, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Steak and Kidney, from \"The Last Supper\" series",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "2000.24.3.1",
+  "id": "cmoa:things/30f0a6ea-fcab-4a42-b9ea-16aa3ad2aab9",
+  "credit_line": "Oxford Development Fund",
+  "date_acquired": "2000-06-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.0,
+  "item_height": 61.625,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004018",
+  "provenance_text": "Kevin Bruk, Boca Raton, FL; Carnegie Museum of Art, Pittsburgh; Oxford Development Fund",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146558&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f11d1bd-0039-4258-8a8b-0e0f3b477f06",
+      "party_type": "Person",
+      "full_name": "Damien Hirst",
+      "cited_name": "Hirst, Damien",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": " Bristol (Bristol, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

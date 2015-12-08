@@ -1,0 +1,39 @@
+{
+  "title": "Just Plowed",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "collage",
+  "accession_number": "81.3.15",
+  "id": "cmoa:things/2d95fed5-92fc-4280-b9da-ab5bf02d2bee",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.25,
+  "item_height": 24.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021836",
+  "provenance_text": "Martha Zelt, Solbury, PA",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d2031d67-3a64-41ad-9513-ae067c2773dd",
+      "party_type": "Person",
+      "full_name": "Martha Zelt",
+      "cited_name": "Zelt, Martha",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": "Washington, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

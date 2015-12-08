@@ -1,0 +1,51 @@
+{
+  "title": "Teapot",
+  "creation_date": "1792-1793",
+  "creation_date_earliest": "1792-01-01",
+  "creation_date_latest": "1793-01-01",
+  "medium": "silver",
+  "accession_number": "58.27.1",
+  "id": "cmoa:things/5ab85ce6-c13e-4558-a162-f05581e9d755",
+  "credit_line": "Gift of Rachel Hunt in memory of William J. Semple",
+  "date_acquired": "1958-11-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 10.75,
+  "item_height": 6.187,
+  "item_depth": 4.187,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010803",
+  "provenance_text": "Gift of Rachel Hunt, 1958.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eba30256-df82-4e19-9259-208790586bbe",
+      "party_type": "Person",
+      "full_name": "Duncan Urquhart",
+      "cited_name": "Urquhart, Duncan",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1791-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/62e28bef-3d42-4b23-b6b4-952d5b381508",
+      "party_type": "Person",
+      "full_name": "Napthali Hart",
+      "cited_name": "Hart, Napthali",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1791-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

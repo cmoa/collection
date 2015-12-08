@@ -1,0 +1,39 @@
+{
+  "title": "Prélude, 1942",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "63.20",
+  "id": "cmoa:things/6f6ed1a5-1fc2-4bd6-9eb9-40b3b29a13ea",
+  "credit_line": "Gift of Mrs. Homer Saint-Gaudens",
+  "date_acquired": "1963-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.0,
+  "item_height": 43.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011653",
+  "provenance_text": "Homer Saint-Gaudens, 1949-?; Mrs. Homer Saint-Gaudens, Miami; gift to Museum, December 1963.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127185&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bce84b69-a04c-4b3d-b709-9e07ee7079c4",
+      "party_type": "Person",
+      "full_name": "Honoré Marius Berard",
+      "cited_name": "Berard, Honoré Marius",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1896-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

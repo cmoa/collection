@@ -1,0 +1,49 @@
+{
+  "title": "Changing Horses",
+  "creation_date": "1842",
+  "creation_date_earliest": "1842-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "color engraving",
+  "accession_number": "72.14.12",
+  "id": "cmoa:things/497aa6dc-e483-4cf8-bccc-73815863d385",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.75,
+  "item_height": 27.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016318",
+  "provenance_text": "Robert S. Waters Estate, Johnstown, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e627fed3-e50d-4f1f-850e-89ae1c74fb34",
+      "party_type": "Person",
+      "full_name": "John Harris III",
+      "cited_name": "Harris, John III",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1811-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/14d11ba6-a9cd-44a9-8d75-33a56595b987",
+      "party_type": "Person",
+      "full_name": "Charles Cooper Henderson",
+      "cited_name": "Henderson, Charles Cooper",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1803-01-01",
+      "death_date": "1877-01-01",
+      "birth_place": "Chertsey (Surrey, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

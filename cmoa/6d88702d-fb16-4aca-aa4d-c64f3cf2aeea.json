@@ -1,0 +1,39 @@
+{
+  "title": "Nara (B)",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1162",
+  "id": "cmoa:things/6d88702d-fb16-4aca-aa4d-c64f3cf2aeea",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.875,
+  "item_height": 17.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026935",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAccording to a note in Dr. Austin's handwriting, this print was given to him as a gift from \"Yamada\" in 1964.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35841&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa82574b-420c-4d3a-a80a-ed3d955bed14",
+      "party_type": "Person",
+      "full_name": "Saitô Kiyoshi",
+      "cited_name": "Saitô Kiyoshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1907-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

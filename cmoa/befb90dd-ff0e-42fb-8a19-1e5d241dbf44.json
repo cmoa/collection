@@ -1,0 +1,49 @@
+{
+  "title": "Chair, \"Womb\"",
+  "creation_date": "1948-1950",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "plastic, metal and upholstery",
+  "accession_number": "83.87",
+  "id": "cmoa:things/befb90dd-ff0e-42fb-8a19-1e5d241dbf44",
+  "credit_line": "Gift of Mrs. M. A. Hershenson",
+  "date_acquired": "1983-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 35.8,
+  "item_depth": 35.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024379",
+  "provenance_text": "Mrs. M. A. Hershenson, Pittsburgh, PA",
+  "classification": "Plastic/Synthetic",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0b527b3-314d-4064-a3b0-1f3eeccb0975",
+      "party_type": "Person",
+      "full_name": "Eero Saarinen",
+      "cited_name": "Saarinen, Eero",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Kirkkonummi, Finland",
+      "death_place": "Ann Arbor, MI"
+    },
+    {
+      "artist_id": "cmoa:parties/f47ee54e-b518-4df0-8280-43fefde4f583",
+      "party_type": "Organization",
+      "full_name": "Knoll Associates, Inc.",
+      "cited_name": "Knoll Associates, Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

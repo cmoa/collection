@@ -1,0 +1,39 @@
+{
+  "title": "Candelabrum",
+  "creation_date": "c. 1874",
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "silvered bronze",
+  "accession_number": "2004.21",
+  "id": "cmoa:things/cdd25e4f-0930-4729-a38a-c2c8cf52a8b5",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2004-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7519",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23595&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c687a44-85e3-4586-931d-de1b634d7591",
+      "party_type": "Organization",
+      "full_name": "Orfèvrerie Christofle",
+      "cited_name": "Christofle, Orfèverie",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

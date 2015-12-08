@@ -1,0 +1,39 @@
+{
+  "title": "Tree Study",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "gum bichromate print",
+  "accession_number": "2007.51.83",
+  "id": "cmoa:things/5c10954e-7263-4b75-9cbd-7fc5d782dc1e",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 7.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49099",
+  "provenance_text": "Christie's (4/24/90)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55943&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3b44ae45-b85f-40d2-bf94-fbfedf616373",
+      "party_type": "Person",
+      "full_name": "Thomas O'Conor (II) Sloane",
+      "cited_name": "Sloane, Thomas O'Conor (II)",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

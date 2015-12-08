@@ -1,0 +1,61 @@
+{
+  "title": "Stool",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "steel painted red",
+  "accession_number": "86.19.3",
+  "id": "cmoa:things/def9cad1-4c4a-4ce5-b142-db915187c105",
+  "credit_line": "Gift of Kinetics Furniture",
+  "date_acquired": "1986-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 18.125,
+  "item_depth": 16.25,
+  "item_diameter": 12.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026011",
+  "provenance_text": "Kinetics Furniture, Rexdale, Ontario, Canada",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93a88a2c-cd32-440d-b596-d16c7c63071e",
+      "party_type": "Person",
+      "full_name": "Philip Salmon",
+      "cited_name": "Salmon, Philip",
+      "role": "designer",
+      "nationality": "Canadian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/da693505-0172-4fb7-ac92-4f551ae57c80",
+      "party_type": "Person",
+      "full_name": "Hugh Hamilton",
+      "cited_name": "Hamilton, Hugh",
+      "role": "designer",
+      "nationality": "Canadian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e38c7b94-5bea-4d9c-8a5a-7493493c8996",
+      "party_type": "Organization",
+      "full_name": "Kinetics Furniture",
+      "cited_name": "Kinetics Furniture",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1971-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

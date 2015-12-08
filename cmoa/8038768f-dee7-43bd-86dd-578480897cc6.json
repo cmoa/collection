@@ -1,0 +1,39 @@
+{
+  "title": "Blue Passage",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "etching and drypoint on paper",
+  "accession_number": "89.28.947",
+  "id": "cmoa:things/8038768f-dee7-43bd-86dd-578480897cc6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.875,
+  "item_height": 20.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029201",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35392&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6f1c6127-cf34-4138-a030-ebbf32ea97ed",
+      "party_type": "Person",
+      "full_name": "Kuroda Shigeki",
+      "cited_name": "Kuroda Shigeki",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

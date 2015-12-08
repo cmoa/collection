@@ -1,0 +1,51 @@
+{
+  "title": "Valley Town",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1997.15.3.32",
+  "id": "cmoa:things/1eab881f-a63e-46e5-9cc8-e0f85b68eeec",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-04-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003003",
+  "provenance_text": "Tom Jacobson, San Diego, CA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118953&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/34a9ae5f-7086-4d43-9504-bcfee91d6cb9",
+      "party_type": "Person",
+      "full_name": "Robert E. Churchill",
+      "cited_name": "Churchill, Robert E.",
+      "role": "photographer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/00182ceb-4121-4eb6-9591-17c4b4182e81",
+      "party_type": "Person",
+      "full_name": "Willard Van Dyck",
+      "cited_name": "Van Dyck, Willard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

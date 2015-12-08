@@ -1,0 +1,42 @@
+{
+  "title": "Abstract Painting, Blue",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.26",
+  "id": "cmoa:things/1439f0bf-050c-4998-854c-e642ba2b9887",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1965-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 28.0,
+  "item_height": 75.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011919",
+  "provenance_text": "Betty Parsons Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=14404&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129321&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf16a0c9-3050-4cea-bcc7-02389ac0e7e2",
+      "party_type": "Person",
+      "full_name": "Ad Reinhardt",
+      "cited_name": "Reinhardt, Ad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Buffalo (Erie county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

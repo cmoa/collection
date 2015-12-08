@@ -1,0 +1,37 @@
+{
+  "title": "Orange Order",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "Humbrol enamel on Cibachrome and accompanying text",
+  "accession_number": "92.53.1",
+  "id": "cmoa:things/87c79d59-3920-4391-876a-328ab683d056",
+  "credit_line": "Carnegie International Acquisition Fund",
+  "date_acquired": "1992-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032512",
+  "provenance_text": "Anthony D'Offay Gallery, London, England",
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f4dff43-e1fc-4cc2-8a67-62ee04cc04b8",
+      "party_type": "Person",
+      "full_name": "Richard Hamilton",
+      "cited_name": "Hamilton, Richard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1922-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom) (?)"
+    }
+  ]
+}

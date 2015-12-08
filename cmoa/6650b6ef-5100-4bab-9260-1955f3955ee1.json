@@ -1,0 +1,39 @@
+{
+  "title": "The Bulstrode Siren",
+  "creation_date": "1803",
+  "creation_date_earliest": "1803-01-01",
+  "creation_date_latest": "1803-01-01",
+  "medium": "hand-colored stipple engraving on paper",
+  "accession_number": "2008.47",
+  "id": "cmoa:things/6650b6ef-5100-4bab-9260-1955f3955ee1",
+  "credit_line": "Gift of Jean H. McCullough",
+  "date_acquired": "2008-06-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=62660",
+  "provenance_text": "Graham Shearing's shop, London\nJean H. McCullough, Pittsburgh/ Verona, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99679&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cee55e2d-5af3-4318-b91f-cf4d1ce5501b",
+      "party_type": "Person",
+      "full_name": "James Gillray",
+      "cited_name": "Gillray, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

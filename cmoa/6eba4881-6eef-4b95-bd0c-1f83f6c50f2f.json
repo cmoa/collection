@@ -1,0 +1,42 @@
+{
+  "title": "Conference",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.30",
+  "id": "cmoa:things/6eba4881-6eef-4b95-bd0c-1f83f6c50f2f",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48894",
+  "provenance_text": "Acquired by Mr George Ebbs from Christie's on 10/13/1988 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99925&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56026&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0c60904-a8d8-4537-86f7-3ba0edcdb2a1",
+      "party_type": "Person",
+      "full_name": "Dwight A. Davis",
+      "cited_name": "Davis, Dwight A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

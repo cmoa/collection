@@ -1,0 +1,37 @@
+{
+  "title": "Animals",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "tapestry",
+  "accession_number": "62.24.2",
+  "id": "cmoa:things/2e8010a7-d03f-4197-8cb4-45b0abfade2f",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 52nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1962-07-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.75,
+  "item_height": 23.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011529",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "Textiles",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9be2b8fb-7bde-4efb-aaa2-f33e2b6fd5a0",
+      "party_type": "Person",
+      "full_name": "Marie Tuiccillo Kelly",
+      "cited_name": "Kelly, Marie T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

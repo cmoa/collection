@@ -1,0 +1,39 @@
+{
+  "title": "Old Trees on Ormsby's Farm",
+  "creation_date": "1884",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1884-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.19.4",
+  "id": "cmoa:things/307b1353-ff50-4add-9d0b-3d956c847fac",
+  "credit_line": "Received from the Carnegie Museum of Natural History in exchange for Works from the Robert S. Waters Estate",
+  "date_acquired": "1975-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 18.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017677",
+  "provenance_text": "Historical Society of Western Pennsylvania [1859-], Pittsburgh, 1885 until 1897?; Carnegie Institute Museum of Natural History, Pittsburgh, by 1916 [1]; Museum by exchange, in 1975 [2]. \nNOTES:1. On loan to Carnegie Library, Pittsburgh, 1916-1975 2. Received from the Carnegie Museum of Natural History in exchange for works from the Robert S. Waters Estate",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20022&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c586573-c1d9-4b99-bb76-4b9d863b0977",
+      "party_type": "Person",
+      "full_name": "Russell Smith",
+      "cited_name": "Smith, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1812-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

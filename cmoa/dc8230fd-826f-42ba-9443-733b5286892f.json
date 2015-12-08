@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "2006.81.23",
+  "id": "cmoa:things/dc8230fd-826f-42ba-9443-733b5286892f",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.75,
+  "item_height": 14.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=38032",
+  "provenance_text": "The donor, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115036&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d8ba5ba-f12b-4b7c-9730-4e683f4705ab",
+      "party_type": "Person",
+      "full_name": "James Rosati",
+      "cited_name": "Rosati, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Washington (Washington county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

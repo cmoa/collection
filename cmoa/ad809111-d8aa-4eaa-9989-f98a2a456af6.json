@@ -1,0 +1,39 @@
+{
+  "title": "Melisande",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "oil on board",
+  "accession_number": "74.7.7",
+  "id": "cmoa:things/ad809111-d8aa-4eaa-9989-f98a2a456af6",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.5,
+  "item_height": 26.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017613",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126265&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f1ec4399-00f0-4312-aaee-14e280afcdb6",
+      "party_type": "Person",
+      "full_name": "Gerald L. Brockhurst",
+      "cited_name": "Brockhurst, Gerald L.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1890-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Birmingham (West Midlands, England, United Kingdom)",
+      "death_place": "Franklin Lakes (Bergen county, New Jersey, United States)"
+    }
+  ]
+}

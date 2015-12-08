@@ -1,0 +1,39 @@
+{
+  "title": "(Street View: Phoenix Hotel and Mulvihill Restaurant)",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.62.89",
+  "id": "cmoa:things/33056051-2bba-4f3a-a3f1-4fe9c2a04683",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.813,
+  "item_height": 7.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025051",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/82595877-abc0-4cff-8418-651d7d52d52c",
+      "party_type": "Person",
+      "full_name": "Abram M. Brown",
+      "cited_name": "Brown, Abram M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

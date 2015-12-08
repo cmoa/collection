@@ -1,0 +1,39 @@
+{
+  "title": "Towboat",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.6.33",
+  "id": "cmoa:things/9fc9a529-1ec5-48eb-9ee2-b4f263b08e2c",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 16.875,
+  "item_height": 12.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023917",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111867&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7f621ff-9f68-4152-8f98-6128a5b6f9df",
+      "party_type": "Person",
+      "full_name": "W. Kneeland",
+      "cited_name": "Kneeland, W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Monteagle Sisters",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "91.55",
+  "id": "cmoa:things/e58ea3c2-85a6-4984-bb80-97ae2c0f6bd7",
+  "credit_line": "Gift of Mr. and Mrs. Danforth Page Fales, in honor of Margaret Davenport Page Fales, daughter of the artist",
+  "date_acquired": "1992-01-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.375,
+  "item_height": 49.375,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030045",
+  "provenance_text": "Mr. And Mrs. Danforth Page Fales, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4274cecb-6fe4-48a4-bd28-5fe34d2583af",
+      "party_type": "Person",
+      "full_name": "Marie Danforth Page",
+      "cited_name": "Page, Marie D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

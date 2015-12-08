@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": "1942-1952",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "graphite, crayon, colored pencil and ballpoint pen",
+  "accession_number": "83.32",
+  "id": "cmoa:things/4e721d41-5b5e-4563-936d-1b036a08c7b6",
+  "credit_line": "Constance Mellon Fund, William Frew Memorial Fund, and gift of Laura H. Baer,by exchange",
+  "date_acquired": "1983-06-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.625,
+  "item_height": 34.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023673",
+  "provenance_text": "David Kravat; Zabriskie Gallery, New York; The Carnegie Museum of Art, Pittsburgh, Constance Mellon Fund, William Frew Memorial Fund, and gift of Laura H. Baer by exchange",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107753&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/badff640-bf2b-4000-9f14-84cd72fc3a38",
+      "party_type": "Person",
+      "full_name": "John Graham",
+      "cited_name": "Graham, John D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Kiev (Kijev oblast, Ukraine)",
+      "death_place": "London"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "earthenware",
+  "accession_number": "68.34.5.A-B",
+  "id": "cmoa:things/0bb16599-9393-4b40-9d52-ad1abf06b6c4",
+  "credit_line": "Gift of Mrs. Samuel A. Ammon",
+  "date_acquired": "1968-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.75,
+  "item_depth": 0.0,
+  "item_diameter": 4.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012446",
+  "provenance_text": "Mrs. Samuel A. Ammon",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2606&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

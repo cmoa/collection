@@ -1,0 +1,51 @@
+{
+  "title": "Guillaume Cardinal Dubois, Archevesque (After Rigaud)",
+  "creation_date": "1724",
+  "creation_date_earliest": "1724-01-01",
+  "creation_date_latest": "1724-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "60.45.6",
+  "id": "cmoa:things/0d477811-74a0-4ebf-b54a-4aae35e3d4ab",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011322",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; Department of Fine Art, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de11b0f3-39e9-4e20-bce2-3e672653cab9",
+      "party_type": "Person",
+      "full_name": "Pierre-Imbert Drevet",
+      "cited_name": "Drevet, Pierre-Imbert",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1697-01-01",
+      "death_date": "1739-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/6e2b827d-6077-4933-bf87-f3130fe7571c",
+      "party_type": "Person",
+      "full_name": "Hyacinthe Rigaud",
+      "cited_name": "Rigaud, Hyacinthe",
+      "role": "painter",
+      "nationality": "French",
+      "birth_date": "1659-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": "Perpignan, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Female Figure",
+  "creation_date": "18th-19th century",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "42.2.1",
+  "id": "cmoa:things/8c5be8d3-a5c5-459f-ae9f-afd4280ea509",
+  "credit_line": "Bequest of Clara I. Nicholson",
+  "date_acquired": "1942-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.375,
+  "item_height": 10.813,
+  "item_depth": 4.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007323",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1202&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Goblet",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "glass",
+  "accession_number": "81.65.6",
+  "id": "cmoa:things/db6a3a31-720b-4ca9-a517-bd10af622998",
+  "credit_line": "Gift of Eugene Gross",
+  "date_acquired": "1981-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022002",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c01c944-cf3f-41b8-8f27-a21b6c018f58",
+      "party_type": "Person",
+      "full_name": "Joseph W. Racinger",
+      "cited_name": "Racinger, Joseph W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Austria",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/01b179c7-1833-4562-8f65-1c4426957e13",
+      "party_type": "Organization",
+      "full_name": "Heisey Glass Co.",
+      "cited_name": "Heisey Glass Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

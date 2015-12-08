@@ -1,0 +1,51 @@
+{
+  "title": "Formosa1140 Elevation Study",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "pen and oil on paper",
+  "accession_number": "2014.67.4",
+  "id": "cmoa:things/6e6177d8-fe0c-49d6-9a8c-d3e04be53212",
+  "credit_line": "Gift of Lorcan O'Herlihy",
+  "date_acquired": "2014-10-30",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106087",
+  "provenance_text": null,
+  "classification": "architectural drawings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133224&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/906ec141-c437-4289-a036-7cc90125f213",
+      "party_type": "Person",
+      "full_name": "Lorcan O'Herlihy",
+      "cited_name": "O'Herlihy, Lorcan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8ae8d440-a822-4c47-bd74-c002b7415237",
+      "party_type": "Organization",
+      "full_name": "Lorcan O'Herlihy Architects",
+      "cited_name": "Lorcan O'Herlihy Architects",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1990-01-01",
+      "death_date": null,
+      "birth_place": "Culver City (Los Angeles county, California, United States)",
+      "death_place": null
+    }
+  ]
+}

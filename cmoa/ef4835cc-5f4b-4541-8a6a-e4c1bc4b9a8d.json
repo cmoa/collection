@@ -1,0 +1,42 @@
+{
+  "title": "A Courtesan",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "woodcut on paper; fan print",
+  "accession_number": "89.28.938",
+  "id": "cmoa:things/ef4835cc-5f4b-4541-8a6a-e4c1bc4b9a8d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029192",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from Meltzer Gallery, New York, 3/23/1963.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107884&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26111&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60354333-1fc2-4e38-88d7-6713320fa020",
+      "party_type": "Person",
+      "full_name": "Kuniyoshi Utagawa",
+      "cited_name": "Kuniyoshi Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1861-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

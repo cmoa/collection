@@ -1,0 +1,45 @@
+{
+  "title": "Heart Pavilion",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "two-way mirror glass, aluminum",
+  "accession_number": "92.5",
+  "id": "cmoa:things/bdb8a72e-bbe4-49b5-a881-a81fb3b4fd1c",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund and Carnegie International Acquisition Fund",
+  "date_acquired": "1992-01-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 168.0,
+  "item_height": 94.0,
+  "item_depth": 144.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032522",
+  "provenance_text": "The Artist and MARION Goodman Gallery, NY, New York, through the 51st Carnegie International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28387&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28388&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28389&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c9b0fe6-95c8-4bff-8ebc-47e856a5d4cd",
+      "party_type": "Person",
+      "full_name": "Dan Graham",
+      "cited_name": "Graham, Dan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": "Urbana (Champaign county, Illinois, United States)",
+      "death_place": null
+    }
+  ]
+}

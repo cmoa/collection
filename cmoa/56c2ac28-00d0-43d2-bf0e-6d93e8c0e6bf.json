@@ -1,0 +1,39 @@
+{
+  "title": "Running Sitting",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "porcelain, slate",
+  "accession_number": "2005.8",
+  "id": "cmoa:things/56c2ac28-00d0-43d2-bf0e-6d93e8c0e6bf",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2005-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 10.5,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13040",
+  "provenance_text": "Purchased from the artist's studio; Concept Art Gallery, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31532&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c97c0e1-08ed-4224-a0c8-897ba05db44e",
+      "party_type": "Person",
+      "full_name": "Edward S. Eberle",
+      "cited_name": "Eberle, Edward S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Tarentum, PA",
+      "death_place": null
+    }
+  ]
+}

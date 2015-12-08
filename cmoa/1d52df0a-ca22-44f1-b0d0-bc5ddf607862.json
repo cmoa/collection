@@ -1,0 +1,51 @@
+{
+  "title": "John Cutts [Baron Cutts]",
+  "creation_date": "c. 1685",
+  "creation_date_earliest": "1670-01-01",
+  "creation_date_latest": "1700-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.39",
+  "id": "cmoa:things/1d52df0a-ca22-44f1-b0d0-bc5ddf607862",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34389",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101808&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb80c814-278a-4846-87e4-1378fba94a30",
+      "party_type": "Person",
+      "full_name": "Robert Williams",
+      "cited_name": "Williams, Robert",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1680-01-01",
+      "death_date": "1704-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/03d240a8-e02d-4f4b-8bb1-3e1b20c6a9fb",
+      "party_type": "Person",
+      "full_name": "Willem Wissing",
+      "cited_name": "Wissing, Willem",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1656-01-01",
+      "death_date": "1687-01-01",
+      "birth_place": "Amsterdam",
+      "death_place": "Stamford, Lincs"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Die Verspottung (The mocking)",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "85.2",
+  "id": "cmoa:things/1ef6341b-bd5a-4780-8142-74262e4e9bca",
+  "credit_line": "Gordon Bailey Washburn Memorial Fund, the Women's Committee Washburn Memorial Fund, and Carnegie International Acquisition Fund",
+  "date_acquired": "1985-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 95.625,
+  "item_height": 118.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025511",
+  "provenance_text": "Galerie Michael Werner, Federal Republic of Germany; Carnegie Museum of Art, Pittsburgh; Gordon Bailey Washburn Memorial Fund, Women's Committee Washburn Memorial Fund, and Carnegie Internationa Acquisition Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2344e6fd-7d2c-4b4a-8504-decd0a21b686",
+      "party_type": "Person",
+      "full_name": "Georg Baselitz",
+      "cited_name": "Baselitz, Georg",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Deutschbaselitz, Saxony",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Girls Trimming Colt's Foot",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.710.7",
+  "id": "cmoa:things/9b745b61-d201-4530-a305-6064e3848d82",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.875,
+  "item_height": 10.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028707",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35302&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa82574b-420c-4d3a-a80a-ed3d955bed14",
+      "party_type": "Person",
+      "full_name": "Saitô Kiyoshi",
+      "cited_name": "Saitô Kiyoshi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1907-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7a0dec69-e36d-409e-b585-cda2f574f8fc",
+      "party_type": "Person",
+      "full_name": "Fugaku Shuppansha",
+      "cited_name": "Fugaku Shuppansha",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

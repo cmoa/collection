@@ -1,0 +1,57 @@
+{
+  "title": "Ewer",
+  "creation_date": "1848",
+  "creation_date_earliest": "1848-01-01",
+  "creation_date_latest": "1848-01-01",
+  "medium": "silver",
+  "accession_number": "80.45",
+  "id": "cmoa:things/f66c3ff4-85fa-4490-a442-b258380b603e",
+  "credit_line": "Gift of Mr. and Mrs. Michael Malley, Jr.",
+  "date_acquired": "1980-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 9.125,
+  "item_height": 13.125,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021208",
+  "provenance_text": "J.B. McFadden, PA, Pittsburgh\nMichael Malley purchased in Ligonier, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97539&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97551&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4966&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e2cde67-8ca3-4957-9f6e-24c628525735",
+      "party_type": "Organization",
+      "full_name": "Gayle and Hayden",
+      "cited_name": "Gayle and Hayden",
+      "role": "maker",
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e2f6fd0a-b54c-4521-a809-89e2bddc15e2",
+      "party_type": "Organization",
+      "full_name": "John B. McFadden & Company",
+      "cited_name": "John B. McFadden & Company",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

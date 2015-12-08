@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Dutch Nobleman",
+  "creation_date": "1727",
+  "creation_date_earliest": "1727-01-01",
+  "creation_date_latest": "1727-01-01",
+  "medium": "oil on panel",
+  "accession_number": "28.7",
+  "id": "cmoa:things/82eef29b-3b64-4666-9cdb-bfbbdeba5dd7",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1928-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 21.75,
+  "item_height": 26.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006149",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Museum, 1928.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126478&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d7938cd-9904-40a5-b8bc-bf622c963abd",
+      "party_type": "Person",
+      "full_name": "Frans Van Mieris The Younger",
+      "cited_name": "Van Mieris The Younger, Frans",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1689-01-01",
+      "death_date": "1763-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Leyden (South Holland, Netherlands)"
+    }
+  ]
+}

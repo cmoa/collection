@@ -1,0 +1,39 @@
+{
+  "title": "Saltcellar",
+  "creation_date": "1728-1729",
+  "creation_date_earliest": "1728-01-01",
+  "creation_date_latest": "1729-01-01",
+  "medium": "sterling silver",
+  "accession_number": "70.32.2385",
+  "id": "cmoa:things/df7a0d33-2f5e-4bc3-9bbc-ff87dfbc6272",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 1.062,
+  "item_depth": 2.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014591",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5007&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3a64ca0d-ac00-453a-9bec-144b1b6ae01d",
+      "party_type": "Person",
+      "full_name": "Edward Wood",
+      "cited_name": "Wood, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1722-01-01",
+      "death_date": "1752-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

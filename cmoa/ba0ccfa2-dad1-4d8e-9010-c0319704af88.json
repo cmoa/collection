@@ -1,0 +1,37 @@
+{
+  "title": "99/00",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "screen print",
+  "accession_number": "2001.25.4",
+  "id": "cmoa:things/ba0ccfa2-dad1-4d8e-9010-c0319704af88",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2001-06-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.625,
+  "item_height": 46.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004228",
+  "provenance_text": "James Cohan Gallery, New York",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",
+      "party_type": "Person",
+      "full_name": "Christopher Wool",
+      "cited_name": "Wool, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    }
+  ]
+}

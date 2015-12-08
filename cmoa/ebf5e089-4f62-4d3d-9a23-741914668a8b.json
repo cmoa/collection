@@ -1,0 +1,39 @@
+{
+  "title": "Marine",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas mounted on panel",
+  "accession_number": "72.35",
+  "id": "cmoa:things/ebf5e089-4f62-4d3d-9a23-741914668a8b",
+  "credit_line": "Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1972-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 19.5,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016419",
+  "provenance_text": "Dr. Albert T. Sanden, New York, by 1918; his daughter, Mrs. Edward D. Gurney, New York, until 1950; Babcock Galleries, New York, until 1954; Mr. and Mrs. Leo M. Rogers, New York, until 1972 (sale, Christie's, London, June 27, 1972); M. Knoedler and Co., New York, 1972; Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection, 1972",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11963&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/edf823c5-b120-4704-bd12-0313aab92434",
+      "party_type": "Person",
+      "full_name": "Albert Pinkham Ryder",
+      "cited_name": "Ryder, Albert P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1847-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "New Bedfod, Massachusetts",
+      "death_place": "Elmhurst, New York"
+    }
+  ]
+}

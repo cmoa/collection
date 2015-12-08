@@ -1,0 +1,39 @@
+{
+  "title": "Model of a wellhead",
+  "creation_date": "Han Dynasty, 202 BCE-220 CE",
+  "creation_date_earliest": "-0202-01-05",
+  "creation_date_latest": "0220-01-01",
+  "medium": "earthenware",
+  "accession_number": "73.48.16",
+  "id": "cmoa:things/a8d9f6a9-6f61-4397-a7fa-64b963259baa",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 9.5,
+  "item_height": 4.312,
+  "item_depth": 6.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016753",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

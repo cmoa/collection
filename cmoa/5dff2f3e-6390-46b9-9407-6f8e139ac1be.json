@@ -1,0 +1,51 @@
+{
+  "title": "Lamentation",
+  "creation_date": "c. 1768",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.70",
+  "id": "cmoa:things/5dff2f3e-6390-46b9-9407-6f8e139ac1be",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34516",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39652&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c55ccab-b918-4879-b551-460e8d979956",
+      "party_type": "Person",
+      "full_name": "Andreas van Rymsdyk",
+      "cited_name": "van Rymsdyk, Andreas",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1786-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

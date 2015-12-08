@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glass",
+  "accession_number": "2009.56",
+  "id": "cmoa:things/f5084569-a446-4699-8091-ed886a39531e",
+  "credit_line": "Gift of Harley Niles Trice",
+  "date_acquired": "2009-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 11.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=72920",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

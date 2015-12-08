@@ -1,0 +1,39 @@
+{
+  "title": "Nora Speyer",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "81.117.2",
+  "id": "cmoa:things/4917dded-e383-413a-8639-010aa9e84c4f",
+  "credit_line": "Gift of Holly and Wayne Mones",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.438,
+  "item_height": 13.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021574",
+  "provenance_text": "Arthur Mones, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12856&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6832a582-19bb-470f-8f1d-d7ba0bcf41b4",
+      "party_type": "Person",
+      "full_name": "Arthur Mones",
+      "cited_name": "Mones, Arthur",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

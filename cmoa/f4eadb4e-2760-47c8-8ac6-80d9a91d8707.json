@@ -1,0 +1,39 @@
+{
+  "title": "Christ and the Disciples at Emmaus",
+  "creation_date": "1896-1897",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "98.5",
+  "id": "cmoa:things/f4eadb4e-2760-47c8-8ac6-80d9a91d8707",
+  "credit_line": "Gift of Henry Clay Frick",
+  "date_acquired": "1898-08-31",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 132.0,
+  "item_height": 100.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035954",
+  "provenance_text": "Henry and Helen Clay Frick, Pittsburgh, by 1898; gift to Museum, August 31, 1898.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8439&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/54e23d48-d99a-48bc-a417-d659b8eff577",
+      "party_type": "Person",
+      "full_name": "Pascal Adolphe Jean Dagnan-Bouveret",
+      "cited_name": "Dagnan-Bouveret, Pascal A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1852-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "Paris, France",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Creamer",
+  "creation_date": "c. 1814",
+  "creation_date_earliest": "1809-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "silver",
+  "accession_number": "14.2.3",
+  "id": "cmoa:things/156ea7e0-82f2-4881-8080-9035a3dff7d3",
+  "credit_line": "Gift of Estate of Mary Semple",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 6.25,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000938",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7891&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36cf7d6f-acd3-4046-a2fd-a37d50610f7e",
+      "party_type": "Person",
+      "full_name": "William Thomson",
+      "cited_name": "Thomson, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1804-01-01",
+      "death_date": "1845-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

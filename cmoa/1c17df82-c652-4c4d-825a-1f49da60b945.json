@@ -1,0 +1,39 @@
+{
+  "title": "St. Jerome",
+  "creation_date": "c. 1600",
+  "creation_date_earliest": "1595-01-01",
+  "creation_date_latest": "1605-01-01",
+  "medium": "engraving",
+  "accession_number": "87.12.1",
+  "id": "cmoa:things/1c17df82-c652-4c4d-825a-1f49da60b945",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1987-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026271",
+  "provenance_text": "David Tunick, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101642&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ce0d145-8164-4394-89df-8e2031800c6c",
+      "party_type": "Person",
+      "full_name": "Agostino Carracci",
+      "cited_name": "Carracci, Agostino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1557-01-01",
+      "death_date": "1602-01-01",
+      "birth_place": " Bologna (Bologna province, Emilia-Romagna, Italy)",
+      "death_place": " Parma (Parma province, Emilia-Romagna, Italy)"
+    }
+  ]
+}

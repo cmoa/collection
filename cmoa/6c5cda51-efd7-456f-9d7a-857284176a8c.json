@@ -1,0 +1,42 @@
+{
+  "title": "The Diver (La Plongeuse)",
+  "creation_date": "1932, December",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "etching with collage of paper on paper",
+  "accession_number": "56.17.3",
+  "id": "cmoa:things/6c5cda51-efd7-456f-9d7a-857284176a8c",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1956-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009628",
+  "provenance_text": "Galerie Gerald Cramer",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108423&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108422&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

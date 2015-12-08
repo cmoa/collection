@@ -1,0 +1,39 @@
+{
+  "title": "Gas Producer",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "Valspar synthetic varnish and dry color on tempered hardboard",
+  "accession_number": "85.6.2",
+  "id": "cmoa:things/666ad7c3-90ce-4204-a399-22d01c9fb7f2",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1985-04-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 30.0,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025713",
+  "provenance_text": "Robert Lepper, Pittsburgh, PA, until 1985; purchased by Museum, 1985.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52211&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dec2965-16f0-4bc7-a36a-4eaef8f922e8",
+      "party_type": "Person",
+      "full_name": "Robert Lepper",
+      "cited_name": "Lepper, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aspinwall, PA",
+      "death_place": "Washington, DC"
+    }
+  ]
+}

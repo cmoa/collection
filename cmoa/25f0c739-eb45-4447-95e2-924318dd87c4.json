@@ -1,0 +1,54 @@
+{
+  "title": "Self-Portrait as an Old Man",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "handpainted ceramic",
+  "accession_number": "2003.11.2",
+  "id": "cmoa:things/25f0c739-eb45-4447-95e2-924318dd87c4",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2003-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 4.0,
+  "item_height": 16.4,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2997",
+  "provenance_text": "Jack Tilton/Anna Kustera Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101384&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101386&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101381&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101382&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101383&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101385&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bf2611fc-06db-474a-a8fc-f1d7a0889b1e",
+      "party_type": "Person",
+      "full_name": "Paweł Althamer",
+      "cited_name": "Althamer, Paweł",
+      "role": null,
+      "nationality": "Polish",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": "Warsaw (Mazowieckie voivodship, Poland)",
+      "death_place": null
+    }
+  ]
+}

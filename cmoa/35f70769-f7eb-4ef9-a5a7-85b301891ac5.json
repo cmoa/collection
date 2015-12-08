@@ -1,0 +1,39 @@
+{
+  "title": "Madame de Montargis",
+  "creation_date": "c.1850-1920",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.29",
+  "id": "cmoa:things/35f70769-f7eb-4ef9-a5a7-85b301891ac5",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.875,
+  "item_height": 42.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019239",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh; gift to Museum, May 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149695&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f2b58aa-4b3f-48e1-9630-a60c186ee877",
+      "party_type": "Person",
+      "full_name": "Maurice  Quentin de la Tour",
+      "cited_name": "Tour, Maurice  Quentin de la",
+      "role": "follower of",
+      "nationality": "French",
+      "birth_date": "1704-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": "Saint Quentin (Aisne, Picardy, France)",
+      "death_place": "Saint Quentin (Aisne, Picardy, France)"
+    }
+  ]
+}

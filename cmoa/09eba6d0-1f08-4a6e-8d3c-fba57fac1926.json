@@ -1,0 +1,39 @@
+{
+  "title": "Closed form",
+  "creation_date": "1990s",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "2010.13.3",
+  "id": "cmoa:things/09eba6d0-1f08-4a6e-8d3c-fba57fac1926",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2010-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 6.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88731",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cb7ccc19-45b7-43a2-9247-235c49863f34",
+      "party_type": "Person",
+      "full_name": "Toshiko Takaezu",
+      "cited_name": "Takaezu, Toshiko",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Hawaii, United States",
+      "death_place": "Honolulu, Hawaii, United States"
+    }
+  ]
+}

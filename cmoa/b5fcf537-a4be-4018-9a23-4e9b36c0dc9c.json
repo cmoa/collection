@@ -1,0 +1,39 @@
+{
+  "title": "A Nude Man Seated",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "chalk, red on buff paper",
+  "accession_number": "23.12.8",
+  "id": "cmoa:things/b5fcf537-a4be-4018-9a23-4e9b36c0dc9c",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004865",
+  "provenance_text": "Edward Hawkins (1780-1867), London, per inscription on verso of original mount; Herbert Dupuy, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99114&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24341d1f-5cc5-4dfa-8363-4bc4638942a0",
+      "party_type": "Person",
+      "full_name": "Annibale Carracci",
+      "cited_name": "Carracci, Annibale",
+      "role": "school of",
+      "nationality": "Italian",
+      "birth_date": "1560-01-01",
+      "death_date": "1609-01-01",
+      "birth_place": " Bologna (Bologna province, Emilia-Romagna, Italy)",
+      "death_place": " Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

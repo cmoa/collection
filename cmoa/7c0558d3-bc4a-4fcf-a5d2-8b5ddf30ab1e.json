@@ -1,0 +1,39 @@
+{
+  "title": "Plaque (Mary Washburn, My Mother)",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "silvered metal",
+  "accession_number": "78.34.29",
+  "id": "cmoa:things/7c0558d3-bc4a-4fcf-a5d2-8b5ddf30ab1e",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 2.812,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019972",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5364&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/20d93ada-7142-4b23-8f9f-a229f4de6ec1",
+      "party_type": "Person",
+      "full_name": "Cadwallader Washburn",
+      "cited_name": "Washburn, Cadwallader",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1866-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Minneapolis, Minnesota",
+      "death_place": "Farmington, Maine"
+    }
+  ]
+}

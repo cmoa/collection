@@ -1,0 +1,51 @@
+{
+  "title": "South Wind, Clear Dawn (Gaifu kaisei)",
+  "creation_date": "c. 1830-1831",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1831-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "18.14.7",
+  "id": "cmoa:things/09422e40-abdd-4e1f-91af-90dbd87ce479",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.438,
+  "item_height": 9.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001691",
+  "provenance_text": "Yamanaka & Company, New York, 1918",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20969&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/c0db8dca-4094-4239-b160-e155781c3572",
+      "party_type": "Person",
+      "full_name": "Yohachi Nishimuraya",
+      "cited_name": "Yohachi Nishimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

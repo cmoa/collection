@@ -1,0 +1,37 @@
+{
+  "title": "Paesaggio con Alberi",
+  "creation_date": null,
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.26.20",
+  "id": "cmoa:things/789b7769-c912-4589-9956-bc774a6997ab",
+  "credit_line": "Bequest of C. Hale Matthews III",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.625,
+  "item_height": 27.75,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021794",
+  "provenance_text": "Bequest of C. Hale Matthews III, New York, NY, 1981.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/763b1324-ac9f-4531-abbd-eaaaf3763d58",
+      "party_type": "Person",
+      "full_name": "Sante Monachesi",
+      "cited_name": "Monachesi, Sante",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1910-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Macerata (Macerata province, Marches, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

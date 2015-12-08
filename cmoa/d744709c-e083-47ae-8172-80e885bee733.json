@@ -1,0 +1,37 @@
+{
+  "title": "Four Drawings in One Frame",
+  "creation_date": null,
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "pen and ink",
+  "accession_number": "57.12.5.A-.D",
+  "id": "cmoa:things/d744709c-e083-47ae-8172-80e885bee733",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 25.125,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010369",
+  "provenance_text": "G. David Thompson, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d07bc025-039d-4dde-a4c9-ad634aa08794",
+      "party_type": "Person",
+      "full_name": "Ernst Ludwig Kirchner",
+      "cited_name": "Kirchner, Ernst L.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1880-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Aschaffenburg (Unterfranken, Bavaria, Germany)",
+      "death_place": "Frauenkirch (Graubünden, Switzerland)"
+    }
+  ]
+}

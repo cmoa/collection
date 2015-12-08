@@ -1,0 +1,39 @@
+{
+  "title": "Crouching Figure",
+  "creation_date": null,
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "pencil and wash",
+  "accession_number": "43.3.1",
+  "id": "cmoa:things/662559b8-4c5b-4cb4-9e26-6cd4daeb7665",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007394",
+  "provenance_text": "Anonymous donor, by May 1943; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/907582d2-83f6-445d-8a66-79983eb6261c",
+      "party_type": "Person",
+      "full_name": "Boardman Robinson",
+      "cited_name": "Robinson, Boardman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Nova Scotia (Canada)",
+      "death_place": "Colorado Springs (El Paso county, Colorado, United States)"
+    }
+  ]
+}

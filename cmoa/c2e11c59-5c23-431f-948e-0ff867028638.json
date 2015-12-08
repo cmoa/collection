@@ -1,0 +1,39 @@
+{
+  "title": "Tree at Montmagny Quarry",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.17.2",
+  "id": "cmoa:things/c2e11c59-5c23-431f-948e-0ff867028638",
+  "credit_line": "Purchased through the generosity of Mrs. Alan M. Scaife and family",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 22.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011875",
+  "provenance_text": "Suzanne Valadon [1865-1938]. (Galerie Serret-Fauveau, Paris, France); Private collection sale, until April 1965; (sold at Sotheby Parke-Bernet [1964-], New York, NY, on April 14, 1965, no. 27 lot no. 27) [1]; purchased by Museum, May 1965. \nNOTES:1. Sale no. 2344 entitled \"Impressionist and Modern Paintings, Sculptures, Drawings\".",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2968a37-5a4e-404b-be36-c6d16af20dab",
+      "party_type": "Person",
+      "full_name": "Suzanne Valadon",
+      "cited_name": "Valadon, Suzanne",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1865-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "France, Bessines",
+      "death_place": "France, Paris"
+    }
+  ]
+}

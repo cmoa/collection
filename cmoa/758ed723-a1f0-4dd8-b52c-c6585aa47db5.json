@@ -1,0 +1,39 @@
+{
+  "title": "Cup",
+  "creation_date": "1723-1735",
+  "creation_date_earliest": "1723-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "porcelain",
+  "accession_number": "55.53.2",
+  "id": "cmoa:things/758ed723-a1f0-4dd8-b52c-c6585aa47db5",
+  "credit_line": "Gift of Elizabeth B. Taber",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009502",
+  "provenance_text": "Gift of Elizabeth B. Taber, 1955.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2717&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Sights of the Town",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "lithograph",
+  "accession_number": "2011.67.1",
+  "id": "cmoa:things/b9f2220e-7ee0-4066-b82e-979fbcf909e7",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2008-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.688,
+  "item_height": 12.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98252",
+  "provenance_text": "Childs Gallery, Boston, MA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113846&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/46b93b35-e4ed-485a-b54d-a9fb51315e17",
+      "party_type": "Person",
+      "full_name": "Peggy Bacon",
+      "cited_name": "Bacon, Peggy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": " Ridgefield (Fairfield county, Connecticut, United States)",
+      "death_place": "Cape Porpoise (York county, Maine, United States)"
+    }
+  ]
+}

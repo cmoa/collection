@@ -1,0 +1,54 @@
+{
+  "title": "Plate, Bread, \"Waste Not Want Not\"",
+  "creation_date": "1849",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1849-01-01",
+  "medium": "earthenware",
+  "accession_number": "93.33",
+  "id": "cmoa:things/4a03324b-7e0f-46c8-a6a2-ed07499302a0",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1993-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.812,
+  "item_depth": 0.0,
+  "item_diameter": 13.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033588",
+  "provenance_text": "Haslam & Whiteway, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113944&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3925&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d212f14-4e5f-4cee-aff8-4cdc6c737a1c",
+      "party_type": "Person",
+      "full_name": "Augustus Welby Northmore Pugin",
+      "cited_name": "Pugin, Augustus Welby Northmore",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1812-01-01",
+      "death_date": "1852-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Ramsgate (Kent, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/eff7a010-f38d-4a7d-bd64-285a87d83522",
+      "party_type": "Organization",
+      "full_name": "Minton & Co.",
+      "cited_name": "Minton & Co.",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

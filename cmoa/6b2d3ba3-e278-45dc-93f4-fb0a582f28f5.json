@@ -1,0 +1,39 @@
+{
+  "title": "Idleness",
+  "creation_date": "1788",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "engraving",
+  "accession_number": "70.32.2524",
+  "id": "cmoa:things/6b2d3ba3-e278-45dc-93f4-fb0a582f28f5",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.375,
+  "item_height": 19.375,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014753",
+  "provenance_text": "Estate of Mrs. Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126362&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1153e13c-e0d2-4c49-b4a6-fdd6ce1ea3e4",
+      "party_type": "Person",
+      "full_name": "Charles Knight",
+      "cited_name": "Knight, Charles",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1743-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

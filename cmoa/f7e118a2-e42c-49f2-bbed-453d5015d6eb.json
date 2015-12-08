@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1800-1810",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "70.32.2697",
+  "id": "cmoa:things/f7e118a2-e42c-49f2-bbed-453d5015d6eb",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 1.875,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014935",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2032&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a80f181-f41e-40ef-81a6-e11f040d9329",
+      "party_type": "Organization",
+      "full_name": "Wedgwood",
+      "cited_name": "Wedgwood",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

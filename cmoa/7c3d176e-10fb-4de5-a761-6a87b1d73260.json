@@ -1,0 +1,39 @@
+{
+  "title": "Cup",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "ceramic",
+  "accession_number": "1997.7.2",
+  "id": "cmoa:things/7c3d176e-10fb-4de5-a761-6a87b1d73260",
+  "credit_line": "Gift of Sam and Debbie Berkovitz",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 3.625,
+  "item_depth": 4.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003461",
+  "provenance_text": "Gift of Sam and Debbie Berkovitz, Pittsburgh, PA, 1996.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1101&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/613ce36b-aa19-4557-bcb1-db1044e04328",
+      "party_type": "Person",
+      "full_name": "Peter Shire",
+      "cited_name": "Shire, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

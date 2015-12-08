@@ -1,0 +1,39 @@
+{
+  "title": "[Portrait of a Young Girl]",
+  "creation_date": "c. 1936-1940",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.40.118",
+  "id": "cmoa:things/a44a23a8-bdad-424c-a459-356ce99ac6ee",
+  "credit_line": "Gift of Edith Swank Long by transfer from the Pennsylvania Department, Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-06-09",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 12.938,
+  "item_height": 9.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023707",
+  "provenance_text": "Pennsylvania Department, Carnegie Library of Pittsburgh; transferred to museum, June 1983",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5468&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c730db3-7ca6-4e1d-ae3c-2968c1ad8ab9",
+      "party_type": "Person",
+      "full_name": "Luke Swank",
+      "cited_name": "Swank, Luke",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Johnstown, PA",
+      "death_place": null
+    }
+  ]
+}

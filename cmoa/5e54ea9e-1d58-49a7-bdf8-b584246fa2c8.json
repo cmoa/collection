@@ -1,0 +1,51 @@
+{
+  "title": "Box",
+  "creation_date": "late 19th century",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "silver and enamel",
+  "accession_number": "1999.24.4",
+  "id": "cmoa:things/5e54ea9e-1d58-49a7-bdf8-b584246fa2c8",
+  "credit_line": "Bequest of Margaret Seifert Magee",
+  "date_acquired": "1999-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 1.75,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003865",
+  "provenance_text": "Estate of the Donor, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43e25ea5-cb8b-4a3d-a5e5-d0362d4bd031",
+      "party_type": "Person",
+      "full_name": "unknown Austrian",
+      "cited_name": "unknown Austrian",
+      "role": "possibly by",
+      "nationality": "Austrian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/60de2ea8-eb34-43e3-85af-f3a3e6fd50d6",
+      "party_type": "Organization",
+      "full_name": "Wegelin Fils",
+      "cited_name": "Wegelin Fils",
+      "role": "Retailer",
+      "nationality": "French | Swiss",
+      "birth_date": "1860-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

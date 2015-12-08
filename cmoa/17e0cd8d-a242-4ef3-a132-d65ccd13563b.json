@@ -1,0 +1,39 @@
+{
+  "title": "The Coiffure (La Toilette)",
+  "creation_date": "1890-1891",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "drypoint, soft ground etching and color aquatint on laid paper",
+  "accession_number": "19.17.3",
+  "id": "cmoa:things/17e0cd8d-a242-4ef3-a132-d65ccd13563b",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-09-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002007",
+  "provenance_text": "Mary Cassatt [1844-1926]. Roger Marx, Paris, France, until 1913?, (L.2229); (Possibly sold at Hotel Druot, Paris, France, April 27, 1914 until May 2, 1914, no. 299) [1]; Frederick Keppel & Company [1916-1923], New York, NY, until September 1919; purchased by Museum, September 1919 [2]. \nNOTES:1. Catalogue des Estampes Modernes Composant la Collection Roger Marx, as \"La Toilette\". 2. Updated by CGK July 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72617&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25d883f-0641-4500-b258-37d6bafc568b",
+      "party_type": "Person",
+      "full_name": "Mary Cassatt",
+      "cited_name": "Cassatt, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-05-22",
+      "death_date": "1926-06-14",
+      "birth_place": "Pittsburgh (Allegheny City), PA",
+      "death_place": "Le Mesnil-Théribus, France"
+    }
+  ]
+}

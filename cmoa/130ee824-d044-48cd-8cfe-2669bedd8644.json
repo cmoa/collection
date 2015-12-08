@@ -1,0 +1,39 @@
+{
+  "title": "Manchester Bridge - acroterion",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "cast iron",
+  "accession_number": "93.175.4",
+  "id": "cmoa:things/130ee824-d044-48cd-8cfe-2669bedd8644",
+  "credit_line": "Gift of Pittsburgh History & Landmarks Foundation",
+  "date_acquired": "1993-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 16.5,
+  "item_height": 19.5,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92726",
+  "provenance_text": "Pittsburgh History & Landmarks Foundation, Pittsburgh, PA",
+  "classification": "architectural elements",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115126&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

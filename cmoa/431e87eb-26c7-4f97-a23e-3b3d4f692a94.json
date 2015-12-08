@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Boy",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.21.9",
+  "id": "cmoa:things/431e87eb-26c7-4f97-a23e-3b3d4f692a94",
+  "credit_line": "Bequest of Edgar W. and Bernice Chrysler Garbisch",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 30.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021777",
+  "provenance_text": "Leon Stark, Philadelphia, until 1953; Edgar W. and Bernice Chrysler Garbisch, Cambridge, MD, 1953; on loan to the National Gallery of Art, Washington, D.C., 1955-80; bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149510&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

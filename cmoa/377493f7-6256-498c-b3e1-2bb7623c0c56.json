@@ -1,0 +1,51 @@
+{
+  "title": "W. W. Stool",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "varnished sand-cast aluminum",
+  "accession_number": "1999.31.2",
+  "id": "cmoa:things/377493f7-6256-498c-b3e1-2bb7623c0c56",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "1999-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 38.75,
+  "item_depth": 21.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003879",
+  "provenance_text": "Vitra, Easton, MD",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=14657&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1c430cba-f2f6-44a8-97dd-8d885f056450",
+      "party_type": "Organization",
+      "full_name": "Vitra AG",
+      "cited_name": "Vitra AG",
+      "role": "manufacturer",
+      "nationality": "Swiss",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

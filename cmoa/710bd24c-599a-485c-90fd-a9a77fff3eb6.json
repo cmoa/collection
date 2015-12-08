@@ -1,0 +1,39 @@
+{
+  "title": "Oak Branch",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "crayon on two sheets of paper mounted on cardboard",
+  "accession_number": "67.3.6",
+  "id": "cmoa:things/710bd24c-599a-485c-90fd-a9a77fff3eb6",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1967-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012349",
+  "provenance_text": "The artist until 1953; Mr. and Mrs. James H. Beal, Pittsburgh, Cleveland Museum of Art exhibition, 1953; Gift of Mr. and Mrs. James H. Beal",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89484&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7d38d22-cde8-48f1-adf0-215f19bea834",
+      "party_type": "Person",
+      "full_name": "Charles Ephraim  Burchfield",
+      "cited_name": "Burchfield, Charles E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": " Ashtabula (Ashtabula county, Ohio, United States)",
+      "death_place": " West Seneca (Erie county, New York state, United States)"
+    }
+  ]
+}

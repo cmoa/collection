@@ -1,0 +1,39 @@
+{
+  "title": "Lamp",
+  "creation_date": "c. 1890-1910",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "cut and blown glass",
+  "accession_number": "80.109.9.A-B",
+  "id": "cmoa:things/1d26af9e-91f6-439c-afd1-17e512337d40",
+  "credit_line": "Gift of Pauline and James Taylor",
+  "date_acquired": "1981-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 1.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021074",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6486&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

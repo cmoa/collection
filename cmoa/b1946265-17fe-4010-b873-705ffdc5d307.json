@@ -1,0 +1,39 @@
+{
+  "title": "Roslin",
+  "creation_date": "c. 1770",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "third plate, lumsden 39, only state",
+  "accession_number": "92.115.4",
+  "id": "cmoa:things/b1946265-17fe-4010-b873-705ffdc5d307",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030172",
+  "provenance_text": "Christopher Mendez, London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108017&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a64225a-9ad9-4478-877d-dfb4400b250b",
+      "party_type": "Person",
+      "full_name": "John Clerk of Eldin",
+      "cited_name": "Clerk of Eldin, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1728-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": "Penicuik (Midlothian, Scotland, United Kingdom)",
+      "death_place": " Midlothian (Scotland, United Kingdom)"
+    }
+  ]
+}

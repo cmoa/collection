@@ -1,0 +1,39 @@
+{
+  "title": "Study of a Tiger (Étude de Tigre)",
+  "creation_date": "1832",
+  "creation_date_earliest": "1832-01-01",
+  "creation_date_latest": "1832-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "18.16",
+  "id": "cmoa:things/3822f8e0-840b-47ae-9d44-4258942f75cc",
+  "credit_line": "Gift of M. Knoedler & Company",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001695",
+  "provenance_text": "M. Knoedler And Company, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/208d46eb-8615-4220-9bd9-ba89cb552154",
+      "party_type": "Person",
+      "full_name": "Antoine Louis Barye",
+      "cited_name": "Barye, Antoine Louis",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1796-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "pen and black ink",
+  "accession_number": "1996.89",
+  "id": "cmoa:things/1b904bc9-eb70-4e0f-9702-ed738a951ea4",
+  "credit_line": "Gift of Ann Sutherland Harris",
+  "date_acquired": "1997-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002913",
+  "provenance_text": "Ann Sutherland Harris, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/95d4e7ef-ee8d-4cf2-bd1b-3cddd94e6bbd",
+      "party_type": "Person",
+      "full_name": "Roger Fry",
+      "cited_name": "Fry, Roger",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1866-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "St. Louis Universal Exposition Medal Certificate",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "photomechanical process on paper",
+  "accession_number": "92.186",
+  "id": "cmoa:things/e30b0b75-088d-44b4-a05b-1150df696a67",
+  "credit_line": "Gift of Rita Anderson",
+  "date_acquired": "1992-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031470",
+  "provenance_text": "Rita Anderson, Cheshire, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72876&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fff83a04-b04b-416d-81e9-e9c4415a56bc",
+      "party_type": "Person",
+      "full_name": "Will H. Low",
+      "cited_name": "Low, Will H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": "Albany (Albany county, New York state, United States)",
+      "death_place": "Bronxville (Westchester county, New York state, United States)"
+    }
+  ]
+}

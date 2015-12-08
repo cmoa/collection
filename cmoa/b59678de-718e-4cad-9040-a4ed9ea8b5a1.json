@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Domestic)",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "cast plaster on various armatures",
+  "accession_number": "2006.69",
+  "id": "cmoa:things/b59678de-718e-4cad-9040-a4ed9ea8b5a1",
+  "credit_line": "Owned jointly by Albright-Knox Art Gallery, Buffalo; George B. and Jenny R. Mathews Fund and Carnegie Museum of Art, Pittsburgh; The Henry L. Hillman Fund",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 230.0,
+  "item_height": 266.0,
+  "item_depth": 96.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=32180",
+  "provenance_text": "The artist through Luhring Augustine Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56526&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56527&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a41d554-147c-4790-8fbc-9a813060f67f",
+      "party_type": "Person",
+      "full_name": "Rachel Whiteread",
+      "cited_name": "Whiteread, Rachel",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "London, England",
+      "death_place": null
+    }
+  ]
+}

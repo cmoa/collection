@@ -1,0 +1,39 @@
+{
+  "title": "The Actor Kawarazaki Gonjûrô Applying Makeup",
+  "creation_date": "1861",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.908",
+  "id": "cmoa:things/6d852ea3-3ca2-40a8-86c1-4dc1829b6a82",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.938,
+  "item_height": 14.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029146",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105874&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ceb3bd03-2fc1-46dc-98e1-77eaa203b1d5",
+      "party_type": "Person",
+      "full_name": "Kunisada (Toyokuni III)",
+      "cited_name": "Kunisada (Toyokuni III)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    }
+  ]
+}

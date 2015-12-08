@@ -1,0 +1,49 @@
+{
+  "title": "Ellis Island",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "video; black and white and color, sound; 28 min.",
+  "accession_number": "85.22.1",
+  "id": "cmoa:things/623fd6e0-8ef4-4cfb-9dfb-605659bb2736",
+  "credit_line": "Video Purchase Fund",
+  "date_acquired": "1985-06-13",
+  "department": "Film and Video",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025457",
+  "provenance_text": "Video Data Bank, Chicago, IL",
+  "classification": "Video",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/54321a3c-e3a4-4f4c-ab7e-8330a6742b61",
+      "party_type": "Person",
+      "full_name": "Meredith Monk",
+      "cited_name": "Monk, Meredith",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cfe746b2-1c64-4ea9-99b3-80404ce6b875",
+      "party_type": "Person",
+      "full_name": "Robert Rosen",
+      "cited_name": "Rosen, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Homer Saint-Gaudens",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "bronze",
+  "accession_number": "81.62",
+  "id": "cmoa:things/15279346-da63-45bf-97ed-33ba32df5865",
+  "credit_line": "Gift of General and Mrs. Henry L. Jones II in memory of Samuel Harden Church",
+  "date_acquired": "1981-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 10.0,
+  "item_height": 19.812,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021986",
+  "provenance_text": "Samuel Harden Church [1858-1943], Pittsburgh, after 1903; Mrs. Henry L. Jones II, his daughter, Noromis, FL, 1944 until 1981; gift to Museum, in 1981.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53122&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "The Great Hall, Bank of England",
+  "creation_date": "c. 1808-1810",
+  "creation_date_earliest": "1803-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "color aquatint",
+  "accession_number": "2009.73.23",
+  "id": "cmoa:things/5ab49873-faf5-4e66-9486-32752be20b63",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.812,
+  "item_height": 15.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88842",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d415c3d9-4978-45d2-b9f8-a3dd2fcca9d5",
+      "party_type": "Person",
+      "full_name": "Thomas Rowlandson",
+      "cited_name": "Rowlandson, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/8427ff54-d11a-4d8b-939b-c49bf7438331",
+      "party_type": "Person",
+      "full_name": "Augustus Charles Pugin",
+      "cited_name": "Pugin, A. C.",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1769-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/6605948b-22f2-4295-8a8b-4a957c308ebd",
+      "party_type": "Person",
+      "full_name": "Rudolph Ackermann",
+      "cited_name": "Ackermann, Rudolph",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1764-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": "Stollberg, Saxony",
+      "death_place": "Finchley, London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/8e8ea611-0c6d-4c5f-8d65-4629cd2a82d6",
+      "party_type": "Person",
+      "full_name": "John Hill",
+      "cited_name": "Hill, John",
+      "role": "engraver",
+      "nationality": "British",
+      "birth_date": "1770-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": "London, England",
+      "death_place": "Clarksville, New York, United States"
+    }
+  ]
+}

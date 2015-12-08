@@ -1,0 +1,51 @@
+{
+  "title": "Perspective of \"The Craigs,\" Mount Desert, Maine",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "92.46",
+  "id": "cmoa:things/3b2aba56-3c56-4e59-853e-b91bddf4b10d",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-06-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 20.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032503",
+  "provenance_text": "Stubbs Books and Prints, Inc., NY, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9776&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/75a68a44-f224-442a-9067-2dce7d827143",
+      "party_type": "Person",
+      "full_name": "Bruce Price",
+      "cited_name": "Price, Bruce",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1843-01-01",
+      "death_date": "1903-01-01",
+      "birth_place": "Cumberland, MD",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/595580c2-4fb7-4019-8689-f9e3d33b5aa9",
+      "party_type": "Person",
+      "full_name": "Hughson Hawley",
+      "cited_name": "Hawley, Hughson",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Brighton (England, United Kingdom)",
+      "death_place": "USA (probably)"
+    }
+  ]
+}

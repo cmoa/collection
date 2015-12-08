@@ -1,0 +1,39 @@
+{
+  "title": "Bottle",
+  "creation_date": "1-199  CE",
+  "creation_date_earliest": "-0001-01-03",
+  "creation_date_latest": "0199-01-02",
+  "medium": "free-blown glass",
+  "accession_number": "73.29.2",
+  "id": "cmoa:things/ef9e41ce-c212-4cb1-8d56-4954f6fb5536",
+  "credit_line": "Gift of Mr. and Mrs. John A. Hagan",
+  "date_acquired": "1973-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.625,
+  "item_depth": 0.0,
+  "item_diameter": 1.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016698",
+  "provenance_text": "Mr. And Mrs. John A. Hagan",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2444&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cc21a8-4939-4c01-a3ca-27c9d46ab896",
+      "party_type": "Person",
+      "full_name": "unknown Roman",
+      "cited_name": "unknown Roman",
+      "role": null,
+      "nationality": "Ancient Roman",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Life Is a Passing Shadow",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "painted aluminum",
+  "accession_number": "74.34",
+  "id": "cmoa:things/4bc50f35-f955-402c-9328-6856c853a77a",
+  "credit_line": "Gift of Mr. and Mrs. Harold J. Ruttenberg in honor of the opening of the Sarah Mellon Scaife Gallery",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 45.0,
+  "item_height": 28.125,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016976",
+  "provenance_text": "Gift of Mr. and Mrs. Harold J. Ruttenberg, 1974",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24554&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24566&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f679ca75-71f4-49b3-b60e-9115789699c7",
+      "party_type": "Person",
+      "full_name": "Yaacov Agam",
+      "cited_name": "Agam, Yaacov",
+      "role": null,
+      "nationality": "Israeli",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Rishon-le-Zion, Palestine, present-day Israel",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Neighborhood: Wash Day at the Arlington Apartments)",
+  "creation_date": "1950s",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "85.4.49",
+  "id": "cmoa:things/b9d27b3b-3ade-46d7-ad49-8548ab524ad2",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1985-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025590",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9045&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce4cf6b2-35ac-40a4-b102-29c205739746",
+      "party_type": "Person",
+      "full_name": "James Blair",
+      "cited_name": "Blair, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia, PA",
+      "death_place": null
+    }
+  ]
+}

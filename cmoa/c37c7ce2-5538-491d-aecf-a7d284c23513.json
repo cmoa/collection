@@ -1,0 +1,39 @@
+{
+  "title": "Crucifix",
+  "creation_date": "1150-1200",
+  "creation_date_earliest": "1149-12-25",
+  "creation_date_latest": "1199-12-25",
+  "medium": "bronze",
+  "accession_number": "63.26.1",
+  "id": "cmoa:things/c37c7ce2-5538-491d-aecf-a7d284c23513",
+  "credit_line": "Decorative Arts Purchase Fund: gift of Edward Duff Balken",
+  "date_acquired": "1963-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011666",
+  "provenance_text": "Julius Bohler, Munich, Germany",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2314&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97f681bb-ba93-417a-856c-2ce963e1703f",
+      "party_type": "Person",
+      "full_name": "unknown German, Lower Saxony",
+      "cited_name": "unknown German, Lower Saxony",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

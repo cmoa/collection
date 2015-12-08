@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "solar plate intaglio",
+  "accession_number": "93.78.3",
+  "id": "cmoa:things/4ccf9f8a-6e9c-4194-a7de-2d5cf21ac447",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1993-05-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.625,
+  "item_height": 36.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033698",
+  "provenance_text": "Mary Ryan Gallery, NY, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113914&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79556512-959a-4b49-91b3-7e7641a3225b",
+      "party_type": "Person",
+      "full_name": "Eric Fischl",
+      "cited_name": "Fischl, Eric",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "New York City (New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

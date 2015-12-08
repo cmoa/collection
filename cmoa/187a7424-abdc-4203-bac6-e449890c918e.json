@@ -1,0 +1,39 @@
+{
+  "title": "Collage",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "paper mounted on cardboard",
+  "accession_number": "62.27",
+  "id": "cmoa:things/187a7424-abdc-4203-bac6-e449890c918e",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1962-10-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.625,
+  "item_height": 16.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011551",
+  "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh, at the Whitney Museum of American Art venue of The American Federation of Arts exhibition, 1961; Gift of Mrs. James H. Beal",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52209&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7029de13-e807-4c44-8e7d-0f3ef418b548",
+      "party_type": "Person",
+      "full_name": "Balcomb Greene",
+      "cited_name": "Greene, Balcomb",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Niagara Falls (Niagara county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

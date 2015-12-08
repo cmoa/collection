@@ -1,0 +1,39 @@
+{
+  "title": "4 Elements",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "yellow birch",
+  "accession_number": "2007.85",
+  "id": "cmoa:things/63723c42-110a-4738-9733-8ddc200efc56",
+  "credit_line": "Gift of Jane and Arthur Mason",
+  "date_acquired": "2008-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 9.0,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=53548",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124734&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fd2429b-ef1a-4eb5-95f5-33fc9b6b6950",
+      "party_type": "Person",
+      "full_name": "Michelle Holzapfel",
+      "cited_name": "Holzapfel, Michelle",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

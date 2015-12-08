@@ -1,0 +1,39 @@
+{
+  "title": "A Park Landscape",
+  "creation_date": "first half of the 18th century",
+  "creation_date_earliest": "1706-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "red chalk",
+  "accession_number": "75.47.29",
+  "id": "cmoa:things/512c20f2-11e6-4018-a131-eeee7452861b",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 16.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017792",
+  "provenance_text": "Jules Opigez; given by him to his friend Gustave Aimard; Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3176&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/34099d76-34e8-42b6-8433-53f6d503e0f0",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Oudry",
+      "cited_name": "Oudry, Jean-Baptiste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1686-01-01",
+      "death_date": "1755-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Beauvais (Oise, Picardy, France)"
+    }
+  ]
+}

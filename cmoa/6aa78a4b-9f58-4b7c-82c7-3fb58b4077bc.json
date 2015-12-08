@@ -1,0 +1,39 @@
+{
+  "title": "Cedar River",
+  "creation_date": "1875",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "crayon and white gouache on grey-green paper",
+  "accession_number": "04.5.3",
+  "id": "cmoa:things/6aa78a4b-9f58-4b7c-82c7-3fb58b4077bc",
+  "credit_line": "Carnegie Special Fund",
+  "date_acquired": "1904-12-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000116",
+  "provenance_text": "Macbeth Gallery, New York; Carnegie Special Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48344&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ea4ec0a3-98e7-41f8-9123-39f76894b044",
+      "party_type": "Person",
+      "full_name": "Homer D. Martin",
+      "cited_name": "Martin, Homer D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1897-01-01",
+      "birth_place": "Albany (Albany county, New York state, United States)",
+      "death_place": "Saint Paul (Ramsey county, Minnesota, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Peaceable Kingdom",
+  "creation_date": "c. 1837",
+  "creation_date_earliest": "1832-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.13",
+  "id": "cmoa:things/d2420c39-ab71-40f4-8154-d6f7ce8f61f5",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 35.75,
+  "item_height": 29.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017288",
+  "provenance_text": "Edward Hicks [1780-1840], United States of America. Congressman Henry W. Watson [1859-1933], Tanghorne, PA; Dr. Arthur E. Bye [1885-1969], Holicong, PA, by 1940?; Charles J. Rosenbloom [1898-1973], Pittsburgh, by 1940; bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8046&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/366e74dc-398a-4729-84da-940bc130805a",
+      "party_type": "Person",
+      "full_name": "Edward Hicks",
+      "cited_name": "Hicks, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1780-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Louis XVI",
+  "creation_date": "1790",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.1",
+  "id": "cmoa:things/24ebdc9c-d2f8-4ff4-9f5c-50c92fb3530a",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 33.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011263",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, by September 1960; Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7bbc886-aa3d-4449-9d3d-2fd3e0113764",
+      "party_type": "Person",
+      "full_name": "Charles-Clément Bervic",
+      "cited_name": "Bervic, Charles-Clément",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": "1822-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/38c51f76-6b6f-4dab-872d-45b62ec70f24",
+      "party_type": "Person",
+      "full_name": "Antoine-François Callet",
+      "cited_name": "Callet, Antoine-François",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1741-01-01",
+      "death_date": "1823-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

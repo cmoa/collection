@@ -1,0 +1,39 @@
+{
+  "title": "Medallion, with Profile Bust of Louis XIV",
+  "creation_date": "c. 1775-1780",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "biscuit porcelain",
+  "accession_number": "70.32.103",
+  "id": "cmoa:things/5c44b3c2-38b6-49bf-bfc6-3a66faf944c1",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.375,
+  "item_depth": 0.125,
+  "item_diameter": 2.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013100",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4239&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

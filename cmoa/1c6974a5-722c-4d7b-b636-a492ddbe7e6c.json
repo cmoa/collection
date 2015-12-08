@@ -1,0 +1,51 @@
+{
+  "title": "Lady Louisa Manners in Peasant Dress",
+  "creation_date": "1807",
+  "creation_date_earliest": "1807-01-01",
+  "creation_date_latest": "1807-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.69",
+  "id": "cmoa:things/1c6974a5-722c-4d7b-b636-a492ddbe7e6c",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34513",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da0f44d4-4784-41db-8cd6-2de87edb19bf",
+      "party_type": "Person",
+      "full_name": "Charles Turner",
+      "cited_name": "Turner, Charles",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1774-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": "Woodstock (Oxfordshire, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/5a77375f-b3d7-4b11-92ad-6937011fa53b",
+      "party_type": "Person",
+      "full_name": "John Hoppner",
+      "cited_name": "Hoppner, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1758-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

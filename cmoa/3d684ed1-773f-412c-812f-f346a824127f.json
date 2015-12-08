@@ -1,0 +1,39 @@
+{
+  "title": "Oceania (31-SO)",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "74.42.32",
+  "id": "cmoa:things/3d684ed1-773f-412c-812f-f346a824127f",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 7.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017032",
+  "provenance_text": "The 831 Gallery, Birmingham, Mich",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111837&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4809430-3aaa-4ef4-98f2-962295b26445",
+      "party_type": "Person",
+      "full_name": "Edward Weston",
+      "cited_name": "Weston, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Highland Park (Lake county, Illinois, United States)",
+      "death_place": "Carmel (Monterey county, California, United States)"
+    }
+  ]
+}

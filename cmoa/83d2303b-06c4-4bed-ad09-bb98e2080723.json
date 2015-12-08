@@ -1,0 +1,47 @@
+{
+  "title": "Pen Sketches of Old Houses",
+  "creation_date": "1874",
+  "creation_date_earliest": "1874-01-01",
+  "creation_date_latest": "1874-01-01",
+  "medium": "book",
+  "accession_number": "92.36",
+  "id": "cmoa:things/83d2303b-06c4-4bed-ad09-bb98e2080723",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-06-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032309",
+  "provenance_text": "Charles B. Wood, MA, Cambridge",
+  "classification": "books",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ce52281-f79b-4147-8e3a-825bbedb8b07",
+      "party_type": "Person",
+      "full_name": "William Edward  Barry",
+      "cited_name": "Barry, William E.",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8427cc95-a637-4246-bdf4-bfa7377ac63a",
+      "party_type": "Organization",
+      "full_name": "James R. Osgood & Company",
+      "cited_name": "Osgood, James R. & Company (Publisher)",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1885-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

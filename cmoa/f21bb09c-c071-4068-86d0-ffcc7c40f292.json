@@ -1,0 +1,51 @@
+{
+  "title": "Hanaogi and Takihashi of the Ogiya (Ogiya uchi, Hanaogi, Takihashi)",
+  "creation_date": "c. 1800-1807",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1807-01-01",
+  "medium": "color woodblock print (hashira-e)",
+  "accession_number": "06.1.4",
+  "id": "cmoa:things/f21bb09c-c071-4068-86d0-ffcc7c40f292",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-05-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.187,
+  "item_height": 24.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000156",
+  "provenance_text": "B.C. Brown in 1906",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107501&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/37b59591-f006-4d09-92bd-78c04f5f1fa2",
+      "party_type": "Person",
+      "full_name": "Sekijo Juka",
+      "cited_name": "Sekijo Juka",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3296d3d7-a0aa-4ebb-a5ce-85ab2b8ce8b2",
+      "party_type": "Person",
+      "full_name": "Jihei Moriya",
+      "cited_name": "Jihei Moriya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

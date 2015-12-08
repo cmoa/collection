@@ -1,0 +1,39 @@
+{
+  "title": "The Painter (Le Peintre)",
+  "creation_date": "c. 1667",
+  "creation_date_earliest": "1652-01-01",
+  "creation_date_latest": "1682-01-01",
+  "medium": "etching",
+  "accession_number": "47.10.3",
+  "id": "cmoa:things/98b31a57-9d0f-4eae-bf44-5f6013fa8d1a",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1947-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008025",
+  "provenance_text": "Adriaen Van Ostade [1610-1685]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1947.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101707&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ffd5e859-c286-4839-831f-3c7a55518471",
+      "party_type": "Person",
+      "full_name": "Adriaen Van Ostade",
+      "cited_name": "Ostade, Adriaen Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1610-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

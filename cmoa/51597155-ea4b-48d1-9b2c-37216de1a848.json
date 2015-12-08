@@ -1,0 +1,39 @@
+{
+  "title": "Tar Barrels, Huntington Harbor",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.1.7",
+  "id": "cmoa:things/51597155-ea4b-48d1-9b2c-37216de1a848",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 27.25,
+  "item_height": 22.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009140",
+  "provenance_text": "Mrs. Jerome Michaels, New York, 1930; J.B. Neumann, New York, NY, 1951?. G. David Thompson, Pittsburgh, by 1953. Gift to Museum, 1953.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149923&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6af62b1e-4bb7-4c98-9833-a0d4f41d79c6",
+      "party_type": "Person",
+      "full_name": "Arthur Garfield Dove",
+      "cited_name": "Dove, Arthur G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Canandaigua (Ontario county, New York state, United States)",
+      "death_place": "Long Island, New York"
+    }
+  ]
+}

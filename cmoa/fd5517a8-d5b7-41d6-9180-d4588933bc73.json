@@ -1,0 +1,54 @@
+{
+  "title": "Hand",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "bronze",
+  "accession_number": "61.37",
+  "id": "cmoa:things/fd5517a8-d5b7-41d6-9180-d4588933bc73",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 26.25,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011423",
+  "provenance_text": "The MinamiGallery, Tokyo",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126999&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127000&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127001&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127002&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127003&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2634aa53-13a7-4aba-898d-b151962718cf",
+      "party_type": "Person",
+      "full_name": "Bushirô Môri",
+      "cited_name": "Bushirô Môri",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1923-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

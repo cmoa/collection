@@ -1,0 +1,45 @@
+{
+  "title": null,
+  "creation_date": "1922-1927",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "91.49.35",
+  "id": "cmoa:things/eb869cfb-77d2-4ba8-b182-e4336b925216",
+  "credit_line": "Gift of Christopher Monkhouse",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030013",
+  "provenance_text": "Christopher Monkhouse, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118677&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118674&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118678&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60ecedf8-ecf7-4b80-9271-84f1495f35aa",
+      "party_type": "Person",
+      "full_name": "Kenneth Hamlyn  McConnel",
+      "cited_name": "McConnel, Kenneth Hamlyn",
+      "role": null,
+      "nationality": "Australian",
+      "birth_date": "1896-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Queensland, Australia",
+      "death_place": "Sydney , Australia"
+    }
+  ]
+}

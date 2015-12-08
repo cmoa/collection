@@ -1,0 +1,39 @@
+{
+  "title": "Torso/Square",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "81.42.2",
+  "id": "cmoa:things/c5d3f2ec-7c0d-4204-8f70-30526c09c426",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.688,
+  "item_height": 11.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021879",
+  "provenance_text": "Marlborough Gallery, New York, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112758&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ae04705-87d9-489b-8a34-91810b6267e7",
+      "party_type": "Person",
+      "full_name": "Mark Cohen",
+      "cited_name": "Cohen, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Wilkes-Barre, PA",
+      "death_place": null
+    }
+  ]
+}

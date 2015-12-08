@@ -1,0 +1,51 @@
+{
+  "title": "Spring Snow at Kamikôchi (Kamikôchi shunsetsu)",
+  "creation_date": "June 1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1332",
+  "id": "cmoa:things/072f3d51-0c85-4259-92f2-0b87084391ab",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027156",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dc36ceac-3645-48bb-82f9-ccd36863648e",
+      "party_type": "Person",
+      "full_name": "Itô Takashi",
+      "cited_name": "Itô Takashi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1894-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e8d2a186-5dcc-4c3a-802d-b953e33d9e16",
+      "party_type": "Person",
+      "full_name": "Watanabe Shôzaburô",
+      "cited_name": "Watanabe Shôzaburô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1885-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

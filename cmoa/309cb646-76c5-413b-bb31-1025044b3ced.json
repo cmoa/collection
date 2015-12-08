@@ -1,0 +1,39 @@
+{
+  "title": "Girl Running",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "50.17.5",
+  "id": "cmoa:things/309cb646-76c5-413b-bb31-1025044b3ced",
+  "credit_line": "Gift of Frederic N. Price",
+  "date_acquired": "1950-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008827",
+  "provenance_text": "Ferargil, Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101045&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66e8f7d9-2e7a-4ea1-9f38-4c3ef71e4607",
+      "party_type": "Person",
+      "full_name": "Arthur B. Davies",
+      "cited_name": "Davies, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

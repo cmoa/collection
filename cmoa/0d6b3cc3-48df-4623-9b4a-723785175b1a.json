@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1815-1835",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.23",
+  "id": "cmoa:things/0d6b3cc3-48df-4623-9b4a-723785175b1a",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 3.0,
+  "item_depth": 0.0,
+  "item_diameter": 6.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103015",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128214&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

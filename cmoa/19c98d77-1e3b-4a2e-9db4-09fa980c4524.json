@@ -1,0 +1,42 @@
+{
+  "title": "Interior of the Kobi Tea House in Edo",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "diptych woodcut",
+  "accession_number": "89.28.1253.A-.B",
+  "id": "cmoa:things/19c98d77-1e3b-4a2e-9db4-09fa980c4524",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027044",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107887&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=243&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0a6b7ec-a11d-41f8-a0ad-c803edcaf2ac",
+      "party_type": "Person",
+      "full_name": "Shinsai Ryûryûkyo",
+      "cited_name": "Shinsai Ryûryûkyo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1764-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Passion: Harrowing of Hell",
+  "creation_date": "1512",
+  "creation_date_earliest": "1511-12-22",
+  "creation_date_latest": "1511-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.83.14",
+  "id": "cmoa:things/8332f343-ca2b-4d05-b0b5-76f6836a4374",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017626",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51173&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

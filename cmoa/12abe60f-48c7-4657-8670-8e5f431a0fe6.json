@@ -1,0 +1,39 @@
+{
+  "title": "Jondol",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.2",
+  "id": "cmoa:things/12abe60f-48c7-4657-8670-8e5f431a0fe6",
+  "credit_line": "Patrons Art Fund: gift of G. David Thompson",
+  "date_acquired": "1962-02-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 73.5,
+  "item_height": 73.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011555",
+  "provenance_text": "Kootz Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56b44293-ca3f-46ad-93d5-77e275d8b947",
+      "party_type": "Person",
+      "full_name": "James Brooks",
+      "cited_name": "Brooks, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

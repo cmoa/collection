@@ -1,0 +1,39 @@
+{
+  "title": "Georgia Jungle",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "39.7",
+  "id": "cmoa:things/250a2a59-39b4-4f47-a8f7-8a35c952e9ad",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1939-11-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 50.0,
+  "item_height": 35.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007145",
+  "provenance_text": "Frank K. M. Rehn, Inc; Patrons Art Fund, 1939",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f27779ca-fdf6-4608-8dd5-81c5f83bb406",
+      "party_type": "Person",
+      "full_name": "Alexander Brook",
+      "cited_name": "Brook, Alexander",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

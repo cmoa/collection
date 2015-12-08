@@ -1,0 +1,39 @@
+{
+  "title": "Winter Landscape",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "18.25.13",
+  "id": "cmoa:things/7bfe85f5-915f-4f10-9b31-ca0bf9f92979",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001764",
+  "provenance_text": "American Artists' War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85942&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0a1a828-d96e-4baa-ac18-061d7b60ef28",
+      "party_type": "Person",
+      "full_name": "George Gardner Symons",
+      "cited_name": "Symons, George G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": "Chicago (Cook county, Illinois, United States)",
+      "death_place": "Hillside (Union county, New Jersey, United States)"
+    }
+  ]
+}

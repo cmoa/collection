@@ -1,0 +1,51 @@
+{
+  "title": "Footed bowl",
+  "creation_date": "c. 1929",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.12.3",
+  "id": "cmoa:things/d64398c6-2708-45e9-bdb3-cfe2222ef03f",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.375,
+  "item_depth": 0.0,
+  "item_diameter": 8.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003642",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1130&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/675b28b8-10e2-4cab-89fe-381684251c2f",
+      "party_type": "Person",
+      "full_name": "Margarete Marks",
+      "cited_name": "Marks, Margarete",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1899-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/76a347a6-eeff-432c-8a42-013ed6bea78a",
+      "party_type": "Organization",
+      "full_name": "Hael-Werkstatten",
+      "cited_name": "Hael-Werkstatten",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1923-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

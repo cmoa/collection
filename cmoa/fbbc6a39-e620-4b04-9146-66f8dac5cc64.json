@@ -1,0 +1,39 @@
+{
+  "title": "Robert Morris 132-10",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "92.96.5",
+  "id": "cmoa:things/fbbc6a39-e620-4b04-9146-66f8dac5cc64",
+  "credit_line": "Gift of Sharon Cohen",
+  "date_acquired": "1992-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 19.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032735",
+  "provenance_text": "Gift of Sharon Cohen, Hamdin, CT, 1992.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113370&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1c273e4-2660-4c38-b8ca-901290ee0873",
+      "party_type": "Person",
+      "full_name": "Alan Cohen",
+      "cited_name": "Cohen, Alan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Harrisburg, PA",
+      "death_place": null
+    }
+  ]
+}

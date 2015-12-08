@@ -1,0 +1,51 @@
+{
+  "title": "Covered Bowl",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "champleve enamel and electro-gilded bronze",
+  "accession_number": "1999.49.3.A-B",
+  "id": "cmoa:things/34c5bf5a-78cb-4caa-a834-6d7e02f6bf7d",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1999-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 5.625,
+  "item_depth": 6.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003920",
+  "provenance_text": "Martin Levy, H. Blairman & Sons, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2753&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/921590da-cc1f-48f7-a7ba-70a581fda0ac",
+      "party_type": "Person",
+      "full_name": "Louis-Constant Sevin",
+      "cited_name": "Sevin, Louis-Constant",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1821-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4779454a-06a2-4628-ba1e-091adb86cb80",
+      "party_type": "Organization",
+      "full_name": "F. Barbedienne",
+      "cited_name": "Barbedienne, F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1838-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

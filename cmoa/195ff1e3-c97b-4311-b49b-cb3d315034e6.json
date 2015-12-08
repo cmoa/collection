@@ -1,0 +1,45 @@
+{
+  "title": "Le coeur du monde (The Heart of the World)",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.28",
+  "id": "cmoa:things/195ff1e3-c97b-4311-b49b-cb3d315034e6",
+  "credit_line": "Gift of Mr. and Mrs. George L. Craig, Jr.",
+  "date_acquired": "1960-09-21",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 20.0,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011185",
+  "provenance_text": "Gift of Mr. and Mrs. George L. Craig, Jr., 1960.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=74285&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56366&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19396&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/77617150-3bd0-400e-8a64-67f287ea275c",
+      "party_type": "Person",
+      "full_name": "René Magritte",
+      "cited_name": "Magritte, René",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1898-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Lessines (Province de Hainaut, Wallonia, Belgium)",
+      "death_place": "Schaerbeek (Bruxelles region, Belgium)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Edge of Town",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "60.36.3",
+  "id": "cmoa:things/33051da6-efbf-4f4e-b2af-f342a7ef7c89",
+  "credit_line": "Gift of Thomas E. Rhodes",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011229",
+  "provenance_text": "Thomas E. Rhodes",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100280&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100281&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156b5136-bf28-44b6-97fe-463da5796144",
+      "party_type": "Person",
+      "full_name": "Thomas Hart Benton",
+      "cited_name": "Benton, Thomas Hart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Neosho (Newton county, Missouri, United States)",
+      "death_place": "Kansas City (Jackson county, Missouri, United States)"
+    }
+  ]
+}

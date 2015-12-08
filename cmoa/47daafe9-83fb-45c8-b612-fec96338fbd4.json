@@ -1,0 +1,39 @@
+{
+  "title": "Yoshida Village (Yoshida mura)",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "90.18.1",
+  "id": "cmoa:things/47daafe9-83fb-45c8-b612-fec96338fbd4",
+  "credit_line": "Gift of Mrs. Edith C. Thompson",
+  "date_acquired": "1990-09-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029344",
+  "provenance_text": "Mrs. Edith C. Thompson",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17eb67da-ba1a-468e-bbde-a229aa800c75",
+      "party_type": "Person",
+      "full_name": "Yoshida Hiroshi",
+      "cited_name": "Yoshida Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1876-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Kurume, Kyushu",
+      "death_place": null
+    }
+  ]
+}

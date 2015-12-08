@@ -1,0 +1,39 @@
+{
+  "title": "Abstract Composition",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "80.31.2",
+  "id": "cmoa:things/5d3fff9c-d21d-4dfd-ba0c-f9f340a79e0b",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1980-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021133",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Anthony Arkus, Pittsburgh, PA, 1980.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99804&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ccd2e470-52db-4285-8027-c548b5829b11",
+      "party_type": "Person",
+      "full_name": "Otto Hofmann",
+      "cited_name": "Hofmann, Otto",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1907-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

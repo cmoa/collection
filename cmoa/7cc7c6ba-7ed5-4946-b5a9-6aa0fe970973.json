@@ -1,0 +1,39 @@
+{
+  "title": "S. Mathilda at Penn Ave #1",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "oil on canvas on wood panel",
+  "accession_number": "2000.5.A-B",
+  "id": "cmoa:things/7cc7c6ba-7ed5-4946-b5a9-6aa0fe970973",
+  "credit_line": "Oxford Development Fund",
+  "date_acquired": "2000-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 57.0,
+  "item_height": 23.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004105",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c61c7662-74f4-4f0f-9a6d-35609b560915",
+      "party_type": "Person",
+      "full_name": "Félix de la Concha",
+      "cited_name": "Concha, Félix de la",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": "León, Spain",
+      "death_place": null
+    }
+  ]
+}

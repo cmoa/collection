@@ -1,0 +1,39 @@
+{
+  "title": "The Mirror in the Vase",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "05.1",
+  "id": "cmoa:things/778f0395-7714-4401-a879-0c3ae31bad60",
+  "credit_line": "Purchase",
+  "date_acquired": "1905-01-16",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 65.25,
+  "item_height": 103.75,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000122",
+  "provenance_text": "Edmond Aman-Jean [1858-1936], until 1904; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, January 16, 1905 [1]. \nNOTES:1. Shown in 1904 Annual Exhibition",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36438&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/093493d2-299d-4b87-8c4f-e4217431bdc5",
+      "party_type": "Person",
+      "full_name": "Edmond Aman-Jean",
+      "cited_name": "Aman-Jean, Edmond",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1860-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Chevry-Cossigny (Seine-et-Marne, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

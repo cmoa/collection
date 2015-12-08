@@ -1,0 +1,39 @@
+{
+  "title": "Fruit",
+  "creation_date": "c. 1862-1872",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1877-01-01",
+  "medium": "oil on wood panel",
+  "accession_number": "72.52.2",
+  "id": "cmoa:things/fe54bc55-32ad-41b6-81dc-c554b454008f",
+  "credit_line": "Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1972-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 14.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016477",
+  "provenance_text": "Private collection, Philadelphia; M. Knoedler and Co., New York, by 1972; Howard N. Eavenson Memorial Fund for the Howard N. Eavenson  Americana Collection, 1972",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2372fa3-0277-4e12-a423-e8542aae807b",
+      "party_type": "Person",
+      "full_name": "Severin Roesen",
+      "cited_name": "Roesen, Severin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1871-01-01",
+      "birth_place": "Cologne, Germant",
+      "death_place": null
+    }
+  ]
+}

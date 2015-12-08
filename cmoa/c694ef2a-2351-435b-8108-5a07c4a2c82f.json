@@ -1,0 +1,47 @@
+{
+  "title": "An Architect's Sketchbook",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "book",
+  "accession_number": "92.45",
+  "id": "cmoa:things/c694ef2a-2351-435b-8108-5a07c4a2c82f",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-06-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032502",
+  "provenance_text": "Earle G. Shettleworth, ME, Augusta",
+  "classification": "books",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a7d34415-98f4-4293-bb02-3c8979aebd54",
+      "party_type": "Person",
+      "full_name": "Robert Swain Peabody",
+      "cited_name": "Peabody, Robert S.",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": "1845-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "New Bedford, Massachusetts",
+      "death_place": "Marblehead, Massachusetts"
+    },
+    {
+      "artist_id": "cmoa:parties/1505ebab-8de1-4c2d-93e8-4a52a074c872",
+      "party_type": "Organization",
+      "full_name": "Houghton Mifflin Company",
+      "cited_name": "Houghton Mifflin Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1832-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Portrait Tankard",
+  "creation_date": "1897",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "Stoneware",
+  "accession_number": "81.125.2",
+  "id": "cmoa:things/c4e4b261-bee9-4909-a9fa-fe0d5dbf5813",
+  "credit_line": "Gift of Robert Klein",
+  "date_acquired": "1982-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.375,
+  "item_height": 4.938,
+  "item_depth": 0.0,
+  "item_diameter": 4.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021608",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3489&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/365e07d7-7ab4-4d6d-8d16-1bcc40dc418e",
+      "party_type": "Person",
+      "full_name": "Grace Young",
+      "cited_name": "Young, Grace",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

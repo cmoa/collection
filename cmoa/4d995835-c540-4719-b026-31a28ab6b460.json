@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "porcelain",
+  "accession_number": "92.156.39.2",
+  "id": "cmoa:things/4d995835-c540-4719-b026-31a28ab6b460",
+  "credit_line": "Gift of the Estate of Donald C McVay, Jr.",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.625,
+  "item_depth": 0.0,
+  "item_diameter": 7.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031289",
+  "provenance_text": "Gift of the Estate of Donald C McVay, Jr., Pittsburgh, PA, 1992.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=744&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "probably by",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "How High the Moon",
+  "creation_date": "1986 (manufactured 2000)",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "nickel-plated expanded steel mesh",
+  "accession_number": "2007.43",
+  "id": "cmoa:things/e573390d-2188-4c72-8874-2d0c9310b8fa",
+  "credit_line": "Richard L. Simmons Acquisition Fund",
+  "date_acquired": "2007-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 28.5,
+  "item_depth": 32.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=46345",
+  "provenance_text": "Purchased from LA Modern Auctions",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56768&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e97023d-2cad-4eba-ae6e-100603ae6bf6",
+      "party_type": "Person",
+      "full_name": "Shiro Kuramata",
+      "cited_name": "Kuramata, Shiro",
+      "role": "designer",
+      "nationality": "Japanese",
+      "birth_date": "1934-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/304adbe6-8518-43db-87ff-1ac90fb94bf7",
+      "party_type": "Organization",
+      "full_name": "Terada Tekkojo, Ltd.",
+      "cited_name": "Terada Tekkojo, Ltd.",
+      "role": "manufacturer",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1c430cba-f2f6-44a8-97dd-8d885f056450",
+      "party_type": "Organization",
+      "full_name": "Vitra AG",
+      "cited_name": "Vitra AG",
+      "role": "retailer",
+      "nationality": "Swiss",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "19th-20th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "Earthenware",
+  "accession_number": "81.66.4",
+  "id": "cmoa:things/7da07c33-44bd-42f5-9996-501a024d56e0",
+  "credit_line": "Gift of Miriam M. Steinert",
+  "date_acquired": "1981-10-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.125,
+  "item_depth": 0.0,
+  "item_diameter": 16.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022011",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2067&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c2a55cc-88f9-4761-bf4c-208084cf31df",
+      "party_type": "Person",
+      "full_name": "unknown American or European",
+      "cited_name": "unknown American or European",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

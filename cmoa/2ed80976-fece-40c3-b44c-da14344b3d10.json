@@ -1,0 +1,37 @@
+{
+  "title": "Blue Suspended Form",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "81.88.9",
+  "id": "cmoa:things/2ed80976-fece-40c3-b44c-da14344b3d10",
+  "credit_line": "Gift of Mrs. Anne Steinberg",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.875,
+  "item_height": 28.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022158",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6111d02d-a7ca-4a7f-9f8a-bbe88be2e8a6",
+      "party_type": "Person",
+      "full_name": "Terry Frost",
+      "cited_name": "Frost, Terry",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1915-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Royal Leamington Spa (Warwickshire, England, United Kingdom)",
+      "death_place": "Newlyn (Cornwall, England, United Kingdom)"
+    }
+  ]
+}

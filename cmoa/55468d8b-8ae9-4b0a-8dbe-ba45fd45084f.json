@@ -1,0 +1,39 @@
+{
+  "title": "Calla Lily",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "88.15",
+  "id": "cmoa:things/55468d8b-8ae9-4b0a-8dbe-ba45fd45084f",
+  "credit_line": "Purchase: gift of Pamela Z. Bryan and A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1988-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.5,
+  "item_height": 29.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026445",
+  "provenance_text": "Betsy Rosenfield, Chicago",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114326&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cb30976-c292-4060-9dea-ba0e9504dda7",
+      "party_type": "Person",
+      "full_name": "Robert Mapplethorpe",
+      "cited_name": "Mapplethorpe, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

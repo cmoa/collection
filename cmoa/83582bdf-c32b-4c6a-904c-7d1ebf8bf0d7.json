@@ -1,0 +1,39 @@
+{
+  "title": "The Seasons, Spring",
+  "creation_date": "1617",
+  "creation_date_earliest": "1617-01-01",
+  "creation_date_latest": "1617-01-01",
+  "medium": "etchings",
+  "accession_number": "1996.10.1",
+  "id": "cmoa:things/83582bdf-c32b-4c6a-904c-7d1ebf8bf0d7",
+  "credit_line": "Purchase: gift of Frederic Schaefer, by exchange",
+  "date_acquired": "1996-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002081",
+  "provenance_text": "James D. Bergquist, Newton, MA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101921&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4c1a01e-5957-4c1a-bc48-d3b5702bffa0",
+      "party_type": "Person",
+      "full_name": "Jan van de Velde II",
+      "cited_name": "Velde, Jan van de",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1593-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Rotterdam or Delft",
+      "death_place": "Enkhuizen (North Holland, Netherlands)"
+    }
+  ]
+}

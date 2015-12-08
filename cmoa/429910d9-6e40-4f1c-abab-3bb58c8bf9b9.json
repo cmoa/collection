@@ -1,0 +1,42 @@
+{
+  "title": "Table",
+  "creation_date": "c. 1760",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "mahogany",
+  "accession_number": "70.7.5",
+  "id": "cmoa:things/429910d9-6e40-4f1c-abab-3bb58c8bf9b9",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 29.75,
+  "item_depth": 18.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016053",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53971&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101878&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25b00b9c-ea3a-4b7f-be74-f9eab2ffdcb8",
+      "party_type": "Person",
+      "full_name": "Oeben, Jean-François, M.E.",
+      "cited_name": "Oeben, Jean-François, M.E.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1721-01-01",
+      "death_date": "1763-01-01",
+      "birth_place": "Heinsberg (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}
