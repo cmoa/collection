@@ -3,3 +3,4 @@ This is an alphabetical list of people outside of Carnegie Museum who have contr
 * David Brennan — minor changes to metadata.
 * Bob Gradeck — Advice and assistance with datapackage.json.
 * Matthew Lincoln — Documentation review and suggestions.
+* Zac Yu — Documentation fixes
