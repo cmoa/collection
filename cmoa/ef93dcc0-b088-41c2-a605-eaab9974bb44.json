@@ -1,0 +1,39 @@
+{
+  "title": "Three Clowns",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "color lithograph",
+  "accession_number": "52.6.1",
+  "id": "cmoa:things/ef93dcc0-b088-41c2-a605-eaab9974bb44",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1952-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009109",
+  "provenance_text": "George Binet Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124801&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f7f488b0-cf82-4295-a190-7643a7718ecb",
+      "party_type": "Person",
+      "full_name": "Georges Rouault",
+      "cited_name": "Rouault, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1871-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

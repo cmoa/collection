@@ -1,0 +1,39 @@
+{
+  "title": "Georges de Scudéry",
+  "creation_date": "c. 1654",
+  "creation_date_earliest": "1639-01-01",
+  "creation_date_latest": "1669-01-01",
+  "medium": "engraving",
+  "accession_number": "16.38.7",
+  "id": "cmoa:things/36f1c345-5dac-49a4-acd3-d3609379427a",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.938,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001273",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105599&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

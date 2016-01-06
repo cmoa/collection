@@ -1,0 +1,51 @@
+{
+  "title": "J. Winkelmann [Johann Joachim Winckelmann]",
+  "creation_date": "c. 1768-1780",
+  "creation_date_earliest": "1758-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.9",
+  "id": "cmoa:things/f2d6fd0d-e8d2-43b9-9558-c69813b1112d",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34309",
+  "provenance_text": "Staedtisches Museum zu Leipzig ( Lugt 1669 on verso) deaccessioned (stamped \"Abgegeben v. museum d. B. K. Liepzig) on verso; Rolf and Magda Loeber, Pittsburgh\n\n(LWL Nov 2014)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104123&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/21e6e416-7291-47b9-9fe7-5c7ff77cf42e",
+      "party_type": "Person",
+      "full_name": "Johann Heinrich Lips",
+      "cited_name": "Lips, Johann Heinrich",
+      "role": "printmaker",
+      "nationality": "Swiss",
+      "birth_date": "1758-01-01",
+      "death_date": "1817-01-01",
+      "birth_place": "Kloten (Zürich, Switzerland)",
+      "death_place": "Zurich (Zürich, Switzerland)"
+    },
+    {
+      "artist_id": "cmoa:parties/10f1d62b-9f09-40ce-a1b1-8b5f78d91355",
+      "party_type": "Person",
+      "full_name": "Anton von Maron",
+      "cited_name": "Maron, Anton von",
+      "role": "after",
+      "nationality": "Austrian",
+      "birth_date": "1733-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

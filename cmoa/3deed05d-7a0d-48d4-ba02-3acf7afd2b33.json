@@ -1,0 +1,39 @@
+{
+  "title": "Tierra del Fuego",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "fused glass threads",
+  "accession_number": "1996.59.4",
+  "id": "cmoa:things/3deed05d-7a0d-48d4-ba02-3acf7afd2b33",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 5.0,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002226",
+  "provenance_text": "Mr. And Mrs. William Block, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7149&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f2f0da5-a8da-409d-b875-09949549691f",
+      "party_type": "Person",
+      "full_name": "Toots Zynsky",
+      "cited_name": "Zynsky, Toots",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Boston, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Schoonebeck Oil Field, Holland",
+  "creation_date": null,
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "82.72.25",
+  "id": "cmoa:things/ca38a5b0-1211-4ed6-9902-8de4715b4d55",
+  "credit_line": "Gift of Richard S. Ackerman",
+  "date_acquired": "1982-12-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.625,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023091",
+  "provenance_text": "Richard S. Ackerman, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97280&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/013e4b44-6056-4639-8ccf-7ad288685dbf",
+      "party_type": "Person",
+      "full_name": "Todd Webb",
+      "cited_name": "Webb, Todd",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Detroit, MI",
+      "death_place": "Maine"
+    }
+  ]
+}

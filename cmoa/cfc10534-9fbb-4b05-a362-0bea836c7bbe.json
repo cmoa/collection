@@ -1,0 +1,37 @@
+{
+  "title": "Exchange Student",
+  "creation_date": "1992-1993",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "metal, rocks, glass and light fixtures",
+  "accession_number": "1996.80",
+  "id": "cmoa:things/cfc10534-9fbb-4b05-a362-0bea836c7bbe",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1996-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 60.75,
+  "item_height": 33.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002830",
+  "provenance_text": "R. M. Fischer, New York, NY",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17dd018d-7615-4188-a2c3-8e2aed7d6bca",
+      "party_type": "Person",
+      "full_name": "Ron M. Fischer",
+      "cited_name": "Fischer, Ron M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

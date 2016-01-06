@@ -1,0 +1,47 @@
+{
+  "title": "Cup and saucer",
+  "creation_date": "c. 1902-1903",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "porcelain with enamel",
+  "accession_number": "2012.32.7.A-.B",
+  "id": "cmoa:things/2f815c35-8553-472f-b965-eab80f71c61d",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2012-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.25,
+  "item_height": 2.375,
+  "item_depth": 3.0,
+  "item_diameter": 6.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100128",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cfbaedbd-a09b-47be-8c8f-c1c057c528a8",
+      "party_type": "Person",
+      "full_name": "Jutta Sika",
+      "cited_name": "Sika, Jutta",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1877-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/07d58819-94da-4bff-b88d-03e76e6cd9c7",
+      "party_type": "Organization",
+      "full_name": "Wiener Porzellan-Manufaktur, Josef Böck",
+      "cited_name": "Wiener Porzellan-Manufaktur, Josef Böck",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1898-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Teapot Stand",
+  "creation_date": "c. 1785",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.279",
+  "id": "cmoa:things/0f31bf69-2037-46d0-8a33-a31cb3143bef",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023459",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3691&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8682882-8880-4b7c-9c26-90322bf88039",
+      "party_type": "Person",
+      "full_name": "Josiah Wedgwood",
+      "cited_name": "Wedgwood, Josiah",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1730-01-01",
+      "death_date": "1795-01-01",
+      "birth_place": "Burslem, England",
+      "death_place": "Burslem, England"
+    }
+  ]
+}

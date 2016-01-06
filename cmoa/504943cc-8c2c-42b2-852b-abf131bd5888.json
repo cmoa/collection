@@ -1,0 +1,42 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1810-1815",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "silver and fruitwood",
+  "accession_number": "26.3.1",
+  "id": "cmoa:things/504943cc-8c2c-42b2-852b-abf131bd5888",
+  "credit_line": "Gift of Miss Mary O'Hara Darlington",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 13.125,
+  "item_height": 10.375,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005478",
+  "provenance_text": "Collection of Miss Mary O'Hara Darlington; Gift of Miss Mary O'Hara Darlington to the Carnegie Institute, 1926; transfered from Carnegie Institute to Museum of Fine Art [1].\n\nNOTES\n1. This is under review for clarifications on circumstances, and dates.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96525&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/76387180-a456-4ebd-9b4e-371020a91389",
+      "party_type": "Person",
+      "full_name": "Joseph Lownes",
+      "cited_name": "Lownes, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1754-01-01",
+      "death_date": "1816-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

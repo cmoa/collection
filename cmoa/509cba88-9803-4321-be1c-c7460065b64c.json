@@ -1,0 +1,39 @@
+{
+  "title": "Plowboy with Horses",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "etching",
+  "accession_number": "83.66.2",
+  "id": "cmoa:things/509cba88-9803-4321-be1c-c7460065b64c",
+  "credit_line": "Gift of James T. Donohoe",
+  "date_acquired": "1983-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023938",
+  "provenance_text": "James T. Donohoe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72724&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a8a78d54-b459-41ce-b608-ad448bd9babc",
+      "party_type": "Person",
+      "full_name": "John Wesley Beatty",
+      "cited_name": "Beatty, John Wesley",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Clifton Springs, New York"
+    }
+  ]
+}

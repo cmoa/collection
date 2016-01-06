@@ -1,0 +1,39 @@
+{
+  "title": "Drawing No. 7",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "ink on paper",
+  "accession_number": "59.18.3",
+  "id": "cmoa:things/04a82d6d-b56e-4ce7-8571-1cd64017049c",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.5,
+  "item_height": 22.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010961",
+  "provenance_text": "Bertha Schaefer Gallery, New York City, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149593&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d29bd341-1fd0-48bf-8fcb-027a4ebf94a4",
+      "party_type": "Person",
+      "full_name": "Eduardo Chillida",
+      "cited_name": "Chillida, Eduardo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1924-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "San Sebastián (Guipúzcoa, Basque Provinces, Spain)",
+      "death_place": "San Sebastián (Guipúzcoa, Basque Provinces, Spain)"
+    }
+  ]
+}

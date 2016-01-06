@@ -1,0 +1,39 @@
+{
+  "title": "Mary Donavan",
+  "creation_date": "1897",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "1998.27.13",
+  "id": "cmoa:things/5a77963f-ed57-4d08-8ee6-c64a0a0577f4",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1998-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.625,
+  "item_height": 11.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003709",
+  "provenance_text": "Carnegie Library Of Pittsburgh, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/339c2c50-63b5-4f7b-8303-11a27ec2b7ec",
+      "party_type": "Person",
+      "full_name": "Lila B. Hetzel",
+      "cited_name": "Hetzel, Lila B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Somerset, PA"
+    }
+  ]
+}

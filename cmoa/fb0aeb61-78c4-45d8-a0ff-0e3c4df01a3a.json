@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "Qianlong period (1736-1795)",
+  "creation_date_earliest": "1736-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "blue and white ceramic with figures in design",
+  "accession_number": "25.1.27",
+  "id": "cmoa:things/fb0aeb61-78c4-45d8-a0ff-0e3c4df01a3a",
+  "credit_line": "Gift of Charles D. Armstrong",
+  "date_acquired": "1925-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.875,
+  "item_depth": 0.0,
+  "item_diameter": 4.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005196",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1873&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

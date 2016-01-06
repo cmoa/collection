@@ -1,0 +1,39 @@
+{
+  "title": "The Baptism of Christ",
+  "creation_date": "c. 1480-1490",
+  "creation_date_earliest": "1479-12-23",
+  "creation_date_latest": "1489-12-23",
+  "medium": "engraving",
+  "accession_number": "74.7.215",
+  "id": "cmoa:things/974e8b16-2f1d-4a9d-ade0-fddbf390fa24",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 6.187,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017377",
+  "provenance_text": "Alexandre-Pierre François Robert-Dumesnil (Paris 1778-1864, no mark); Sir John St. Aubyn (London 1758-1839, no mark); John Malcolm (London 1805-1893) Lugt 1780; British Museum duplicate, Lugt 305; Knoedler XIIIth Annual, no. 5; A. J. Ryan; Bequest of Charles J. Rosenbloom (Lugt Suppl. 633b), Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102139&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b38a76d2-9c58-44cf-a0e6-d9664f51d7ac",
+      "party_type": "Person",
+      "full_name": "Martin Schongauer",
+      "cited_name": "Schongauer, Martin",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1450-01-01",
+      "death_date": "1491-01-01",
+      "birth_place": "Colmar (Haut-Rhin, Alsace, France)",
+      "death_place": "Breisach am Rhein (Freiburg district, Baden-Württemberg, Germany)"
+    }
+  ]
+}

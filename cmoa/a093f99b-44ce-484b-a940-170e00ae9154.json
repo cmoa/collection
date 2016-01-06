@@ -1,0 +1,39 @@
+{
+  "title": "Act 8",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1295",
+  "id": "cmoa:things/a093f99b-44ce-484b-a940-170e00ae9154",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.313,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027101",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b3a0c86-2bf0-4462-984d-4411461f8737",
+      "party_type": "Person",
+      "full_name": "Shuntei Katsukawa",
+      "cited_name": "Shuntei Katsukawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1770-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

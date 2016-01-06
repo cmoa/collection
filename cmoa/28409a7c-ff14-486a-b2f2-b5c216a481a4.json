@@ -1,0 +1,39 @@
+{
+  "title": "Melon and Jug",
+  "creation_date": null,
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "mezzotint on paper",
+  "accession_number": "89.28.115",
+  "id": "cmoa:things/28409a7c-ff14-486a-b2f2-b5c216a481a4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026931",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, Ill.; 1/29/1964.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34200&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c1127c9-2f39-46b6-a2dc-f6dd5b643016",
+      "party_type": "Person",
+      "full_name": "Hamaguchi Yozo",
+      "cited_name": "Hamaguchi Yozo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1909-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": null,
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

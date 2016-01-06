@@ -1,0 +1,39 @@
+{
+  "title": "Black, Gold and Red",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "55.60.3",
+  "id": "cmoa:things/5fff3e63-8ac8-4272-94a0-3dae2507c4ae",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009541",
+  "provenance_text": "Erich Buchholz",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2150235-6a58-4277-b9b5-685d2542a41b",
+      "party_type": "Person",
+      "full_name": "Erich Buchholz",
+      "cited_name": "Buchholz, Erich",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1891-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": " Bydgoszcz (Kujawsko-Pomorskie voivodship, Poland)",
+      "death_place": " Berlin (Berlin state, Germany)"
+    }
+  ]
+}

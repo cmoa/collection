@@ -1,0 +1,39 @@
+{
+  "title": "Plaque",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "82.90.2",
+  "id": "cmoa:things/c66ed9fd-5ced-4450-a04a-474390c0e32e",
+  "credit_line": "Gift of Dana Robineau Kelley, grandson of the artist, and family",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 12.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023247",
+  "provenance_text": "Dana Robineau Kelley, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101475&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa395cb6-cd65-4a09-b365-287d826a3a12",
+      "party_type": "Person",
+      "full_name": "Adelaide A. Robineau",
+      "cited_name": "Robineau, Adelaide A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "Middletown, CT",
+      "death_place": "Syracuse, New York"
+    }
+  ]
+}

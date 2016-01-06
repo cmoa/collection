@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Dinosaur)",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "Tempera, oil, and graphite on newspaper",
+  "accession_number": "2011.10",
+  "id": "cmoa:things/ee9bf415-0aec-4823-ac52-e3d4d14633a9",
+  "credit_line": "The Henry L. Hillman Fund and Carnegie Mellon Art Gallery Fund",
+  "date_acquired": "2011-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 14, Scaife Galleries",
+  "item_width": 33.188,
+  "item_height": 22.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92895",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115092&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104403&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd569073-c2fe-410d-925a-b6ffc2c87e6b",
+      "party_type": "Person",
+      "full_name": "Paul Thek",
+      "cited_name": "Thek, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": "New York, New York"
+    }
+  ]
+}

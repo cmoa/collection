@@ -1,0 +1,42 @@
+{
+  "title": "Venetian Canal and Boats",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.20",
+  "id": "cmoa:things/fe9e0b2e-145f-4292-af91-3ee581838990",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012792",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107821&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107822&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/31cd6bf2-b230-4cd8-9534-9658420d4cf7",
+      "party_type": "Person",
+      "full_name": "Robert Frederick  Blum",
+      "cited_name": "Blum, Robert F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1903-01-01",
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

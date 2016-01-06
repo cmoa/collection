@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "86.46.1",
+  "id": "cmoa:things/59b27966-6a6a-4d93-a695-c11a5f969549",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1986-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.563,
+  "item_height": 44.563,
+  "item_depth": 2.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026117",
+  "provenance_text": "Simon Cerigo Gallery, Inc., NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdb0edf1-c73d-4649-bc70-60366f4c4ff2",
+      "party_type": "Person",
+      "full_name": "Dan Asher",
+      "cited_name": "Asher, Dan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Cleveland, OH",
+      "death_place": "New York, NY"
+    }
+  ]
+}

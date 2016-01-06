@@ -1,0 +1,39 @@
+{
+  "title": "Forest Interior",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "ink on paper",
+  "accession_number": "81.104",
+  "id": "cmoa:things/378e08a4-cc3a-4d81-b737-def4a03b8d42",
+  "credit_line": "Purchase: gift of the H. J. Heinz II Charitable and Family Trust",
+  "date_acquired": "1981-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021534",
+  "provenance_text": "Thomas Coville, Inc., New Haven, Connecticut; Alexander Gallery, New York; Museum purchase: gift of H. J. Heinz II Charitable and Family Trust",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84835&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43aad878-5c07-4799-bd57-9b4b37f33e3a",
+      "party_type": "Person",
+      "full_name": "Worthington Whittredge",
+      "cited_name": "Whittredge, Worthington",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1820-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "Springfield (Clark county, Ohio, United States)",
+      "death_place": "Summit (Union county, New Jersey, United States)"
+    }
+  ]
+}

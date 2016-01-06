@@ -1,0 +1,39 @@
+{
+  "title": "Al Dolo",
+  "creation_date": "c. 1744",
+  "creation_date_earliest": "1734-01-01",
+  "creation_date_latest": "1754-01-01",
+  "medium": "etching",
+  "accession_number": "61.8.2",
+  "id": "cmoa:things/f464161c-aafc-4761-8acc-f9f0c77c1861",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1961-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011482",
+  "provenance_text": "William H. Schab, 48 East 57th St. NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa37fb76-18b6-4910-a45a-a5fd41022aa5",
+      "party_type": "Person",
+      "full_name": "Giovanni Antonio Canal",
+      "cited_name": "Canal, Giovanni Antonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1697-01-01",
+      "death_date": "1768-01-01",
+      "birth_place": " Venice (Venezia province, Veneto, Italy)",
+      "death_place": " Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

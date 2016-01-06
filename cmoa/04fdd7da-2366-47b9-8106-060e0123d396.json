@@ -1,0 +1,39 @@
+{
+  "title": "L'Homme Gauche",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "85.79.1",
+  "id": "cmoa:things/04fdd7da-2366-47b9-8106-060e0123d396",
+  "credit_line": "Gift of Francis Nauman",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025782",
+  "provenance_text": "Frances Nauman, New York City",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a89612e2-1f93-4866-98fd-fe41ae42518d",
+      "party_type": "Person",
+      "full_name": "Beatrice Wood",
+      "cited_name": "Wood, Beatrice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "San Francisco (San Francisco county, California, United States)",
+      "death_place": "Ojai (Ventura county, California, United States)"
+    }
+  ]
+}

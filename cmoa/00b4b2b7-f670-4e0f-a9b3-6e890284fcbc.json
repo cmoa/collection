@@ -1,0 +1,51 @@
+{
+  "title": "Act V: Sadakuro Robbing Yoichibei",
+  "creation_date": "c. 1790",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1261",
+  "id": "cmoa:things/00b4b2b7-f670-4e0f-a9b3-6e890284fcbc",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027053",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105972&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2084cc79-8011-4711-bec0-b9a1a0674679",
+      "party_type": "Person",
+      "full_name": "Shun'ei Katsukawa",
+      "cited_name": "Shun'ei Katsukawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1762-01-01",
+      "death_date": "1819-01-01",
+      "birth_place": "Tokyo (Tokyo metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/35914000-f2e8-47c5-9894-204373c359b1",
+      "party_type": "Person",
+      "full_name": "Nishimuraya Yohachi",
+      "cited_name": "Nishimuraya Yohachi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

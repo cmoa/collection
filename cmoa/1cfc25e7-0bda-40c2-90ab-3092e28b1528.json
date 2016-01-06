@@ -1,0 +1,39 @@
+{
+  "title": "Celery glass",
+  "creation_date": "1840-1870",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.14",
+  "id": "cmoa:things/1cfc25e7-0bda-40c2-90ab-3092e28b1528",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 5.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103007",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128213&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

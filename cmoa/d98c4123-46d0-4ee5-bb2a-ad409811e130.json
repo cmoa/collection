@@ -1,0 +1,39 @@
+{
+  "title": "Cobra chair",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "wood, parchment with painted decoration, and copper",
+  "accession_number": "95.16",
+  "id": "cmoa:things/d98c4123-46d0-4ee5-bb2a-ad409811e130",
+  "credit_line": "Berdan Memorial Trust Fund, Helen Johnston Acquisition Fund, and Decorative Arts Purchase Fund",
+  "date_acquired": "1995-03-23",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 14.75,
+  "item_height": 38.5,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035617",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32256&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9f90e6b6-8a7d-4384-b3b6-f7833502d97e",
+      "party_type": "Person",
+      "full_name": "Carlo Bugatti",
+      "cited_name": "Bugatti, Carlo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1856-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

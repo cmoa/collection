@@ -1,0 +1,39 @@
+{
+  "title": "The Pink Man's Prayer",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "81.18",
+  "id": "cmoa:things/1b3ac13d-04b0-4cc7-a8ee-4827879bf973",
+  "credit_line": "Gift of the Harry P. Blum Family in memory of Muriel Blum",
+  "date_acquired": "1981-04-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.562,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021720",
+  "provenance_text": "Gift of the Harry P. Blum Family, Pittsburgh, PA, 1981.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149687&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3df6c647-6f5d-4bf8-ad7b-ff6c7b46eaf4",
+      "party_type": "Person",
+      "full_name": "Alan Davie",
+      "cited_name": "Davie, Alan",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1920-01-01",
+      "death_date": "2014-01-01",
+      "birth_place": "Grangemouth (Falkirk, Scotland, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

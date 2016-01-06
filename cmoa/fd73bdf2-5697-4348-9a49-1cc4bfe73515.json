@@ -1,0 +1,39 @@
+{
+  "title": "The Madonna with the Monkey",
+  "creation_date": "c. 1498",
+  "creation_date_earliest": "1492-12-23",
+  "creation_date_latest": "1502-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.95",
+  "id": "cmoa:things/fd73bdf2-5697-4348-9a49-1cc4bfe73515",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.75,
+  "item_height": 7.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017650",
+  "provenance_text": "Cortland F. Bishop (Lugt Suppl. 2770b).\nCharles J. Rosenbloom (Lugt Suppl. 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51188&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

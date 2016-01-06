@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "9th century",
+  "creation_date_earliest": "0799-12-28",
+  "creation_date_latest": "0898-12-28",
+  "medium": "earthnware painted w/ monochrome lustre",
+  "accession_number": "72.61.8",
+  "id": "cmoa:things/5ed03fcf-c289-4fee-a334-d696cb0a42b9",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 2.5,
+  "item_depth": 8.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016574",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2440&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a14f4996-ac4d-4aec-930b-3278039fee61",
+      "party_type": "Person",
+      "full_name": "unknown Mesopotamian",
+      "cited_name": "unknown Mesopotamian",
+      "role": null,
+      "nationality": "Mesopotamian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

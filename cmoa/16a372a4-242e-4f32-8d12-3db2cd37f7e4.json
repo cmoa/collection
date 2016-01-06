@@ -1,0 +1,51 @@
+{
+  "title": "Henry Booth, Lord Delamer [1st Earl of Warrington]",
+  "creation_date": "1689",
+  "creation_date_earliest": "1689-01-01",
+  "creation_date_latest": "1689-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.37",
+  "id": "cmoa:things/16a372a4-242e-4f32-8d12-3db2cd37f7e4",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34385",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39620&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90fd7879-b9f9-44f2-85f4-345809e2baec",
+      "party_type": "Person",
+      "full_name": "John Smith",
+      "cited_name": "Smith, John",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1652-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/46fdb98d-ac1c-4976-9647-c8bae0533722",
+      "party_type": "Person",
+      "full_name": "Sir Godfrey Kneller",
+      "cited_name": "Kneller, Godfrey",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1646-01-01",
+      "death_date": "1723-01-01",
+      "birth_place": " Lubeck (Schleswig-Holstein, Germany)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

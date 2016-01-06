@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "glazed earthenware and copper",
+  "accession_number": "2012.1",
+  "id": "cmoa:things/d4991cbb-641f-4fbc-9cbd-4c094f5668ca",
+  "credit_line": "Berdan Memorial Trust Fund, DuPuy Fund, Decorative Arts Purchase Fund, Women's Committee Acquisition Fund, Harlan E. Youel Bequest Fund, Edgar L. Levenson Fund, and the following, by exchange: Anonymous Gift, Dr. Grace K. Martin, G. David Thompson, Margaret Taylor Douglass, Mr. and Mrs. G. Harton Singer III and Mr. and Mrs. Pearce D. Smith, in memory of Anna Turner Singer, Mrs. Paul B. Ernst, Walter Read Hovey, Childs Frick, Mrs. David P. Bennett, Sr. in memory of Joseph D. Bennett, Dr. Frank Anderson Trapp, and Mrs. Jay Klein",
+  "date_acquired": "2012-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 18.25,
+  "item_depth": 0.0,
+  "item_diameter": 5.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98328",
+  "provenance_text": "Collection of Jerome and Patricia Shaw (Michigan and Miami, Florida)",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113872&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ddc9723-6a73-427c-bd67-3c798d7acdc7",
+      "party_type": "Person",
+      "full_name": "Kataro Shirayamadani",
+      "cited_name": "Kataro Shirayamadani",
+      "role": "decorator",
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Japan",
+      "death_place": "United States"
+    },
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

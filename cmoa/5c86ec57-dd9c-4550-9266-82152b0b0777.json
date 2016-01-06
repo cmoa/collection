@@ -1,0 +1,39 @@
+{
+  "title": "Java Sea, Bali (#359)",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "91.28.5",
+  "id": "cmoa:things/5c86ec57-dd9c-4550-9266-82152b0b0777",
+  "credit_line": "Purchase, with funds from Milton Fine",
+  "date_acquired": "1991-12-05",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 26.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029684",
+  "provenance_text": "The Artist, NY, New York, through the 51st Carnegie International; Carnegie Museum of Art, Pittsburgh; Purchase: gift of Milton Fine",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=309&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f256b7e4-b95b-4950-a43f-878c9f90c933",
+      "party_type": "Person",
+      "full_name": "Hiroshi Sugimoto",
+      "cited_name": "Sugimoto, Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

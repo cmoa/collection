@@ -1,0 +1,39 @@
+{
+  "title": "Le Bouquet D'Aunes",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "cliché-verre",
+  "accession_number": "22.11.32",
+  "id": "cmoa:things/31ae60c6-b3ad-4f8a-897e-77a87cdef01d",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-11-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004686",
+  "provenance_text": "Weyhe Gallery, 794 Lexington Avenue, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105204&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0ef9900-d9d1-4c02-8ea0-304f565afb63",
+      "party_type": "Person",
+      "full_name": "Charles François Daubigny",
+      "cited_name": "Daubigny, Charles F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1817-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

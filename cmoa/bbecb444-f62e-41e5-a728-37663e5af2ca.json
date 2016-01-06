@@ -1,0 +1,51 @@
+{
+  "title": "3 Photographs + 1 Diagram (Row A)",
+  "creation_date": "1966/1991",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "four gelatin silver prints",
+  "accession_number": "2007.19.A-D",
+  "id": "cmoa:things/bbecb444-f62e-41e5-a728-37663e5af2ca",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.5,
+  "item_height": 22.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=41169",
+  "provenance_text": "Provenance order (see object file for 5/2/07 email from gallery):\n1) the artist\n2) Sonnabend Gallery\n3) the artist\n4) Purchased by CMA from Marc Selwyn Fine Art, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51653&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100705&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100706&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100707&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e68bc81-0aaf-4422-bf8f-18a3ae0a82b5",
+      "party_type": "Person",
+      "full_name": "Mel Bochner",
+      "cited_name": "Bochner, Mel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

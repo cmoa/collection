@@ -1,0 +1,39 @@
+{
+  "title": "Draped Nude",
+  "creation_date": "c. 1916-1923",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.3.3",
+  "id": "cmoa:things/57d58629-2b5a-4d0c-8176-0a3437fa65d4",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1984-02-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 4.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024679",
+  "provenance_text": "Salander-O'Reilly Galleries, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d06852e-fab7-4760-94ad-4467451d1ab1",
+      "party_type": "Person",
+      "full_name": "John Covert",
+      "cited_name": "Covert, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

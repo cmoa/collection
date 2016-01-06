@@ -1,0 +1,51 @@
+{
+  "title": "William Lord Stowell",
+  "creation_date": "c.1827-1830",
+  "creation_date_earliest": "1822-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "mezzotint",
+  "accession_number": "17.7.6",
+  "id": "cmoa:things/9472d1c1-5117-4b3d-82b1-4c7bc1bb4114",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001646",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53580&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da0f44d4-4784-41db-8cd6-2de87edb19bf",
+      "party_type": "Person",
+      "full_name": "Charles Turner",
+      "cited_name": "Turner, Charles",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1774-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": "Woodstock (Oxfordshire, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/29f9b0be-692f-4f5a-b367-dcf5a6b3541d",
+      "party_type": "Person",
+      "full_name": "Thomas Phillips, R.A.",
+      "cited_name": "Phillips, Thomas",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1770-01-01",
+      "death_date": "1845-01-01",
+      "birth_place": "Dudley (West Midlands, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

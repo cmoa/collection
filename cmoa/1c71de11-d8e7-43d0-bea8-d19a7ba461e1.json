@@ -1,0 +1,39 @@
+{
+  "title": "Ewer",
+  "creation_date": "1876",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "earthenware",
+  "accession_number": "2005.25",
+  "id": "cmoa:things/1c71de11-d8e7-43d0-bea8-d19a7ba461e1",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "2005-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 9.25,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15094",
+  "provenance_text": "Charles Washburne Antiques",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31764&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b625bb3a-5e47-42a0-ac2f-a2fede8c980c",
+      "party_type": "Organization",
+      "full_name": "W. T. Copeland and Sons",
+      "cited_name": "Copeland, W. T. and Sons",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1867-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "A Child with a Kid (Lady Georgiana Fane)",
+  "creation_date": "c. 1910-1920",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "mezzotint in color",
+  "accession_number": "27.8.25",
+  "id": "cmoa:things/6aa65dc9-a8f1-46db-8118-b6f47c21bcbb",
+  "credit_line": "Bequest of Henry Buhl, Jr.",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006080",
+  "provenance_text": "Estate of Henry Buhl, Jr",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54182&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0bd0b8db-96ce-4c47-9f02-2bb575fe21c3",
+      "party_type": "Person",
+      "full_name": "John Cother Webb",
+      "cited_name": "Webb, John C.",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1855-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c480781a-1da5-4c38-9e6c-7a6340a662c4",
+      "party_type": "Person",
+      "full_name": "Sir Thomas Lawrence",
+      "cited_name": "Lawrence, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1769-01-01",
+      "death_date": "1830-01-01",
+      "birth_place": "Bristol (Bristol, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

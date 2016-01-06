@@ -1,0 +1,39 @@
+{
+  "title": "Edouard Colbert (After Mignard)",
+  "creation_date": "c. 1686-1690",
+  "creation_date_earliest": "1686-01-01",
+  "creation_date_latest": "1690-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.7",
+  "id": "cmoa:things/652d8e1a-a117-4419-b334-b9c587283113",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011323",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Art, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101917&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30fba4e0-6855-40e6-b5cb-4ebe28c54090",
+      "party_type": "Person",
+      "full_name": "Gérard Edelinck",
+      "cited_name": "Edelinck, Gérard",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1640-01-01",
+      "death_date": "1707-01-01",
+      "birth_place": " Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

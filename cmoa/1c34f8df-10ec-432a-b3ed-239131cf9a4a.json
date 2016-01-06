@@ -1,0 +1,45 @@
+{
+  "title": "Miniature Portrait of a Gentleman",
+  "creation_date": "1813",
+  "creation_date_earliest": "1813-01-01",
+  "creation_date_latest": "1813-01-01",
+  "medium": "oil on ivory; wood and metal frame",
+  "accession_number": "27.10.255",
+  "id": "cmoa:things/1c34f8df-10ec-432a-b3ed-239131cf9a4a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 4.5,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005686",
+  "provenance_text": "M. Emile Pares; (sold at Anderson Galleries, New York, NY, May 3, 1918); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, May 3, 1918; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103271&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73708&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d01b7865-440f-4afe-a813-2def70341dac",
+      "party_type": "Person",
+      "full_name": "A. Weud",
+      "cited_name": "Weud, A.",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

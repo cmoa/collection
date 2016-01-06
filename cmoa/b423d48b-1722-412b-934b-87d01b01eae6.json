@@ -1,0 +1,37 @@
+{
+  "title": "Untitled",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.4.3",
+  "id": "cmoa:things/b423d48b-1722-412b-934b-87d01b01eae6",
+  "credit_line": "Gift of Rose Fried",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.0,
+  "item_height": 23.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011022",
+  "provenance_text": "Rose Fried, New York, NY",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47d4b1d5-0579-47da-abcc-bb015dfc77f1",
+      "party_type": "Person",
+      "full_name": "Joseph Lacasse",
+      "cited_name": "Lacasse, Joseph",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1894-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": " Tournai (Province de Hainaut, Wallonia, Belgium)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

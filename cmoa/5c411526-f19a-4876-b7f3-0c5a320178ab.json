@@ -1,0 +1,39 @@
+{
+  "title": "Taperstick",
+  "creation_date": "c. 1715",
+  "creation_date_earliest": "1710-01-01",
+  "creation_date_latest": "1720-01-01",
+  "medium": "silver",
+  "accession_number": "70.7.153",
+  "id": "cmoa:things/5c411526-f19a-4876-b7f3-0c5a320178ab",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.188,
+  "item_height": 4.625,
+  "item_depth": 3.62,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015961",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8528&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e459b23-9382-48c9-b707-54bb459b4634",
+      "party_type": "Person",
+      "full_name": "Matthew Cooper I",
+      "cited_name": "Cooper, Matthew",
+      "role": "attributed to",
+      "nationality": "English",
+      "birth_date": "1702-01-01",
+      "death_date": "1731-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "Qianlong period (1736-1795)",
+  "creation_date_earliest": "1736-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2443",
+  "id": "cmoa:things/cb3a8d12-b993-4ffd-b5a1-1fb79f90270a",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.812,
+  "item_depth": 0.0,
+  "item_diameter": 5.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014660",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2830&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

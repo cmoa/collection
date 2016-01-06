@@ -1,0 +1,39 @@
+{
+  "title": "Harvest (B)",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1172",
+  "id": "cmoa:things/4a8ebed5-190e-4456-b5d8-8ea2e2a1345b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.5,
+  "item_height": 33.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026947",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34966&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa82574b-420c-4d3a-a80a-ed3d955bed14",
+      "party_type": "Person",
+      "full_name": "Saitô Kiyoshi",
+      "cited_name": "Saitô Kiyoshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1907-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

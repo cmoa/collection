@@ -1,0 +1,39 @@
+{
+  "title": "Duet",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "engraving and drypoint on paper",
+  "accession_number": "46.2",
+  "id": "cmoa:things/74eb572f-238f-4266-bb0e-19063d7f2cff",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1946-01-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008000",
+  "provenance_text": "Niels Yde Andersen",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76451&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/363df82e-fb3d-4c72-8be6-e0e539f94e1c",
+      "party_type": "Person",
+      "full_name": "Niels Yde Andersen",
+      "cited_name": "Andersen, Niels Yde",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

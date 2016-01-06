@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1760-1775",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "porcelain",
+  "accession_number": "2000.67.2.A-B",
+  "id": "cmoa:things/3d7b55fa-1b49-46e1-9df3-092afc760417",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "2000-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 3.562,
+  "item_depth": 3.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004122",
+  "provenance_text": "Mrs. Fred C. Foy, Ligonier, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3141&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3567cb10-4801-4fc9-a029-c889edd20a66",
+      "party_type": "Organization",
+      "full_name": "Gotha Porcelain Factory",
+      "cited_name": "Gotha Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1757-01-01",
+      "death_date": "1782-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

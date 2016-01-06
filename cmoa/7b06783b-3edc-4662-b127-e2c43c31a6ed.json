@@ -1,0 +1,39 @@
+{
+  "title": "Running White Ducks",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "gum bichromate print",
+  "accession_number": "2007.89.13",
+  "id": "cmoa:things/7b06783b-3edc-4662-b127-e2c43c31a6ed",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2008-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 26.688,
+  "item_height": 23.812,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49097",
+  "provenance_text": "Sotheby's (5/4/88)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112884&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/830bb9df-a309-43aa-9e29-beb54263ed69",
+      "party_type": "Person",
+      "full_name": "George H. Seeley",
+      "cited_name": "Seeley, George H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

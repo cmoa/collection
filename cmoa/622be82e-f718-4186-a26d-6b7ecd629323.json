@@ -1,0 +1,39 @@
+{
+  "title": "Untitled Bowl",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "Norfolk Island pine",
+  "accession_number": "2008.97",
+  "id": "cmoa:things/622be82e-f718-4186-a26d-6b7ecd629323",
+  "credit_line": "Gift of Daniel Greenberg and Susan Steinhauser",
+  "date_acquired": "2009-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 7.5,
+  "item_depth": 0.0,
+  "item_diameter": 14.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=78885",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=74865&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f052c246-9fe7-429d-89d3-9f337a5f7356",
+      "party_type": "Person",
+      "full_name": "Ron Kent",
+      "cited_name": "Kent, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

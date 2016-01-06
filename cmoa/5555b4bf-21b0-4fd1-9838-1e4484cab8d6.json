@@ -1,0 +1,51 @@
+{
+  "title": "Morihisu at the temple Shum no Hanken, no. 16 of the Western Tour, from the  series Miracles of Kannon (Kannon reigenki)",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "89.28.347",
+  "id": "cmoa:things/5555b4bf-21b0-4fd1-9838-1e4484cab8d6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 13.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027989",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105829&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c6b28cf-c7bb-40f7-a610-9dd4fd9c3076",
+      "party_type": "Person",
+      "full_name": "Hiroshige II",
+      "cited_name": "Hiroshige II",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1826-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": "Japan",
+      "death_place": "Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/ceb3bd03-2fc1-46dc-98e1-77eaa203b1d5",
+      "party_type": "Person",
+      "full_name": "Kunisada (Toyokuni III)",
+      "cited_name": "Kunisada (Toyokuni III)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    }
+  ]
+}

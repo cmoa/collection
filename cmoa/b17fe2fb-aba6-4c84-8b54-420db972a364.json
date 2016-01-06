@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Three Men",
+  "creation_date": "1870s",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "tintype",
+  "accession_number": "1998.28",
+  "id": "cmoa:things/b17fe2fb-aba6-4c84-8b54-420db972a364",
+  "credit_line": "Gift of Michael Malley",
+  "date_acquired": "1998-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.062,
+  "item_height": 4.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003729",
+  "provenance_text": "Gift of Michael Malley, Pittsburgh, PA, 1998.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106328&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/759ca5df-d335-4b24-959e-c343960a8820",
+      "party_type": "Person",
+      "full_name": "W. M. Fonner",
+      "cited_name": "Fonner, W. M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

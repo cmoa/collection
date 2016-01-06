@@ -1,0 +1,37 @@
+{
+  "title": "Composition",
+  "creation_date": null,
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "58.12",
+  "id": "cmoa:things/1cf4cf83-f569-4651-9bb5-630dfa6c2a70",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 48th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1958-04-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010674",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c9952e8-6568-4d6e-8f22-e84770332794",
+      "party_type": "Person",
+      "full_name": "Leonard Lieb",
+      "cited_name": "Lieb, Leonard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": null,
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

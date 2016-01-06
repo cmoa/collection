@@ -1,0 +1,42 @@
+{
+  "title": "Evening",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "terracotta",
+  "accession_number": "68.28",
+  "id": "cmoa:things/616afd84-aee3-4684-a0e4-c62e3e53e267",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1968-10-16",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 18.0,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012428",
+  "provenance_text": "Benno de Terey, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11624&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11628&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79166219-8dc4-4e66-81a0-209f3bc8307f",
+      "party_type": "Person",
+      "full_name": "Niccolò Tribolo",
+      "cited_name": "Tribolo, Niccolò",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1500-01-01",
+      "death_date": "1550-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

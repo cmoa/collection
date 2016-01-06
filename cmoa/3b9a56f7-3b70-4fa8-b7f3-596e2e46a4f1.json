@@ -1,0 +1,39 @@
+{
+  "title": "Rest at Noon",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "66.6",
+  "id": "cmoa:things/3b9a56f7-3b70-4fa8-b7f3-596e2e46a4f1",
+  "credit_line": "Mrs. George Liggett Craig, Jr. Fund",
+  "date_acquired": "1966-04-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 32.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012277",
+  "provenance_text": "G. David Thompson; (sale, Parke-Bernet Galleries, Inc., New York, 23-24 March 1966, lot 65); purchased by Museum, April 1966.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126339&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ac13c8a-4ff6-41f7-9c26-87c37eea91e0",
+      "party_type": "Person",
+      "full_name": "Marcel Gromaire",
+      "cited_name": "Gromaire, Marcel",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1892-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

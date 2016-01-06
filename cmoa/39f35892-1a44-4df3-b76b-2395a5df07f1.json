@@ -1,0 +1,39 @@
+{
+  "title": "Stainless Steel Monument",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "stainless steel",
+  "accession_number": "67.25",
+  "id": "cmoa:things/39f35892-1a44-4df3-b76b-2395a5df07f1",
+  "credit_line": "Mr. and Mrs. Arthur J. Kobacker Purchase Award",
+  "date_acquired": "1967-12-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 79.625,
+  "item_depth": 19.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012326",
+  "provenance_text": "The Artist via 1967 Pittsburgh International Exhibition",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105155&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1e11b3d-3451-4241-b0c7-36e12527c326",
+      "party_type": "Person",
+      "full_name": "Attilio Pierelli",
+      "cited_name": "Pierelli, Attilio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Sasso di Serra San Quirico, Ancona, Italy",
+      "death_place": null
+    }
+  ]
+}

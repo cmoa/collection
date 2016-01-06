@@ -1,0 +1,39 @@
+{
+  "title": "Reclining Figure",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "bronze",
+  "accession_number": "59.12",
+  "id": "cmoa:things/5604e9fe-32e0-421a-afed-77a0694a1d67",
+  "credit_line": "Gift of Mr. and Mrs. G. David Thompson, in memory of David",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 94.0,
+  "item_height": 55.0,
+  "item_depth": 48.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010952",
+  "provenance_text": "1958 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18603&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28ee2a86-08e3-4812-bdec-abdc7441e068",
+      "party_type": "Person",
+      "full_name": "Henry Moore",
+      "cited_name": "Moore, Henry",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1898-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Castleford (England, United Kingdom)",
+      "death_place": "Much Hadham (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

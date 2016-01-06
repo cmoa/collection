@@ -1,0 +1,39 @@
+{
+  "title": "Walasse Ting (His Studio, New York)",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "75.8.68",
+  "id": "cmoa:things/71416a0b-067a-4376-a977-1885d78ae3aa",
+  "credit_line": "Gift of John Lefebre",
+  "date_acquired": "1975-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017970",
+  "provenance_text": "Gift of John Lefebre, New York, NY, 1975.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=14278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/662be2ad-6fca-49db-9cc2-9612b66d3ba4",
+      "party_type": "Person",
+      "full_name": "John Lefebre",
+      "cited_name": "Lefebre, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "New York"
+    }
+  ]
+}

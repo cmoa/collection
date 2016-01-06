@@ -1,0 +1,39 @@
+{
+  "title": "Tile, Wall",
+  "creation_date": "13th-14th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1398-12-24",
+  "medium": "Earthenware",
+  "accession_number": "71.5.2",
+  "id": "cmoa:things/3da95ab1-5d6e-453a-bb5b-e2089def31af",
+  "credit_line": "Mrs. Fred C. Foy Purchase Fund",
+  "date_acquired": "1971-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 11.875,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016255",
+  "provenance_text": "Parke Bernet Galleries, NY, New York, sale 3139, 12/18/70, lot 126",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1752&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1a07359-1917-403d-b5c3-a3a3f29934ee",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Kashan",
+      "cited_name": "unknown Persian, Kashan",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

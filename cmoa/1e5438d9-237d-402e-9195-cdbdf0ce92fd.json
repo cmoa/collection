@@ -1,0 +1,42 @@
+{
+  "title": "Petunias",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "color etching on paper",
+  "accession_number": "69.48.237",
+  "id": "cmoa:things/1e5438d9-237d-402e-9195-cdbdf0ce92fd",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012822",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103594&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75871&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9eb9eee-8e9b-482e-bed9-cc99dbec2955",
+      "party_type": "Person",
+      "full_name": "Margaret J. Patterson",
+      "cited_name": "Patterson, Margaret J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Java",
+      "death_place": "Boston"
+    }
+  ]
+}

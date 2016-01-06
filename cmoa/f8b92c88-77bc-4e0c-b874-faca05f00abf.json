@@ -1,0 +1,63 @@
+{
+  "title": "Dining armchair with Eiffel-Tower base",
+  "creation_date": "designed c. 1950; manufactured 1963-1965",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "fiberglass, fabric and varnished wire",
+  "accession_number": "1998.50.2.1",
+  "id": "cmoa:things/f8b92c88-77bc-4e0c-b874-faca05f00abf",
+  "credit_line": "Gift of Georges and Violet Pardo",
+  "date_acquired": "1998-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 31.312,
+  "item_depth": 21.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003764",
+  "provenance_text": "Georges And Violet Pardo, Pittsburgh, PA",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=184&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/dea0d1c3-288c-42ff-84c1-c75c9ccdc236",
+      "party_type": "Person",
+      "full_name": "Ray Eames",
+      "cited_name": "Eames, Ray",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Sacramento (Sacramento county, California, United States)",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Joseph Cornell (Flushing)",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "75.8.32",
+  "id": "cmoa:things/6de7d1d4-e464-45ca-816c-4cc232ed8861",
+  "credit_line": "Gift of John Lefebre",
+  "date_acquired": "1975-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017931",
+  "provenance_text": "Gift of John Lefebre, New York, NY, 1975.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13461&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/662be2ad-6fca-49db-9cc2-9612b66d3ba4",
+      "party_type": "Person",
+      "full_name": "John Lefebre",
+      "cited_name": "Lefebre, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "New York"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Urn of Dreams",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "82.90.1",
+  "id": "cmoa:things/6e40c332-45fb-43d8-8774-27c97b8f40fb",
+  "credit_line": "Gift of Dana Robineau Kelley, grandson of the artist, and family",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 10, Scaife Galleries",
+  "item_width": 8.75,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 8.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023246",
+  "provenance_text": "Dana R. Kelley, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11665&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4088&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa395cb6-cd65-4a09-b365-287d826a3a12",
+      "party_type": "Person",
+      "full_name": "Adelaide A. Robineau",
+      "cited_name": "Robineau, Adelaide A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "Middletown, CT",
+      "death_place": "Syracuse, New York"
+    }
+  ]
+}

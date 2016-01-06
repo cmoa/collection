@@ -1,0 +1,45 @@
+{
+  "title": "Kandor 20",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "mixed media with video projection",
+  "accession_number": "2008.29.A-F",
+  "id": "cmoa:things/229f8c29-334e-428e-954c-a9fd9c351b69",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 96.0,
+  "item_height": 57.063,
+  "item_depth": 60.125,
+  "item_diameter": 38.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=58565",
+  "provenance_text": null,
+  "classification": "Video installations",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65061&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65517&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65518&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3cb714ea-12c2-4ccc-87fa-4a761d13c4eb",
+      "party_type": "Person",
+      "full_name": "Mike Kelley",
+      "cited_name": "Kelley, Mike",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Detroit, Michigan",
+      "death_place": "Los Angeles, CA"
+    }
+  ]
+}

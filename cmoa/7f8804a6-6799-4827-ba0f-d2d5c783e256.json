@@ -1,0 +1,39 @@
+{
+  "title": "Covered jar",
+  "creation_date": "c. 1990",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "porcelain",
+  "accession_number": "1996.88.1.A-.B",
+  "id": "cmoa:things/7f8804a6-6799-4827-ba0f-d2d5c783e256",
+  "credit_line": "Gift of Carol Pollock",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 10.188,
+  "item_depth": 7.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002910",
+  "provenance_text": "Carol Pollock, Latrobe, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1092&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38a62851-9c2b-40a2-965b-05b86ff8add7",
+      "party_type": "Person",
+      "full_name": "Kim, Jinsong",
+      "cited_name": "Kim, Jinsong",
+      "role": null,
+      "nationality": "Korean",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

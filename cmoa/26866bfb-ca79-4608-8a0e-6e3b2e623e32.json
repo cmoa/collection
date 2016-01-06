@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1993-1994",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "95.3.3",
+  "id": "cmoa:things/26866bfb-ca79-4608-8a0e-6e3b2e623e32",
+  "credit_line": "Mr. and Mrs. Charles Denby Fund",
+  "date_acquired": "1995-01-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 41.625,
+  "item_height": 28.875,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035707",
+  "provenance_text": "Brooke Alexander Editions, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119272&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5b54319-4325-4a41-a14b-90217309730c",
+      "party_type": "Person",
+      "full_name": "Donald Judd",
+      "cited_name": "Judd, Donald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Excelsior Springs (Clay county, Missouri, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

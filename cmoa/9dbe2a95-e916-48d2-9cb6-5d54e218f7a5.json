@@ -1,0 +1,51 @@
+{
+  "title": "Military Grand Parade",
+  "creation_date": "12/25/1929",
+  "creation_date_earliest": "1929-12-25",
+  "creation_date_latest": "1929-12-25",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1313.3",
+  "id": "cmoa:things/9dbe2a95-e916-48d2-9cb6-5d54e218f7a5",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027127",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27663&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b15e50-434a-40b5-8e7a-d6e8580acc48",
+      "party_type": "Person",
+      "full_name": "Kawakami Sumio",
+      "cited_name": "Kawakami Sumio",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Japan, Yokohama",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

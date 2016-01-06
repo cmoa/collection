@@ -1,0 +1,42 @@
+{
+  "title": "Horizontes",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "45 wooden boxes",
+  "accession_number": "2010.4.1-.45",
+  "id": "cmoa:things/25744a2f-2014-4be7-adbd-8193b574aac0",
+  "credit_line": "Mr. and Mrs. Peter Denby Fund, Second Century Acquisition Fund, and Gumberg Family Fund",
+  "date_acquired": "2010-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 492.0,
+  "item_height": 23.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89053",
+  "provenance_text": "The artist by way of Galeria Fortes Vilaça, São Paulo",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99837&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99838&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/45996b8e-8b85-4fc1-95b5-03bed70d8787",
+      "party_type": "Person",
+      "full_name": "Valeska Soares",
+      "cited_name": "Soares, Valeska",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "Belo Horizonte, Brazil",
+      "death_place": null
+    }
+  ]
+}

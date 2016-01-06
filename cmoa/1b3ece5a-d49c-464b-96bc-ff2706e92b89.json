@@ -1,0 +1,39 @@
+{
+  "title": "El at Battery",
+  "creation_date": "1930s, printed 1980s",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "Gelatin silver print",
+  "accession_number": "2007.89.2",
+  "id": "cmoa:things/1b3ece5a-d49c-464b-96bc-ff2706e92b89",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2008-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 30.25,
+  "item_height": 27.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48278",
+  "provenance_text": "Acquired by George Ebbs from Christie's, 10/29/1987",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=130465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c54cb3c-a68c-447f-a6ab-4e6c8aea5f51",
+      "party_type": "Person",
+      "full_name": "Berenice Abbott",
+      "cited_name": "Abbott, Berenice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Springfield (Clark county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

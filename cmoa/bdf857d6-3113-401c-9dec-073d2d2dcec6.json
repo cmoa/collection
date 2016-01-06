@@ -1,0 +1,39 @@
+{
+  "title": "The Madonna with the Swaddled Infant",
+  "creation_date": "1520",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1519-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.91",
+  "id": "cmoa:things/bdf857d6-3113-401c-9dec-073d2d2dcec6",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017646",
+  "provenance_text": "Unknown, F.B. or B.F. and the date 1602.  \nP. Mariette, 1668,  Paris 1634-1716  (Lugt 1787).  \nK.F.F. von Nagler, 1770-1846 (Lugt 2529).  \nKupferstichkabinett der Staatlichen Museen, Berlin (Lugt 1606).  \nCortland F. Bishop, NY 1870-1935, (Lugt Suppl. 2770b).  \nCharles J. Rosenbloom (Lugt Suppl 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129354&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

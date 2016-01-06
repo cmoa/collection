@@ -1,0 +1,49 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1908-1912",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "relief molded, glazed or painted",
+  "accession_number": "73.41",
+  "id": "cmoa:things/f3e9da0a-4f2b-4e49-8ccc-cda2a42fe251",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1973-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 3.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016729",
+  "provenance_text": "Taylor B. Williams, IL, Chicago",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7075bf1e-ec6a-4d15-800a-b83b3fda37bb",
+      "party_type": "Person",
+      "full_name": "Karl Kipp",
+      "cited_name": "Kipp, Karl",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Austria, Vienna",
+      "death_place": "East Aurora, NY"
+    },
+    {
+      "artist_id": "cmoa:parties/b73c460d-dda5-437e-8e96-16183730ec39",
+      "party_type": "Organization",
+      "full_name": "Roycroft Community",
+      "cited_name": "Roycroft Community",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

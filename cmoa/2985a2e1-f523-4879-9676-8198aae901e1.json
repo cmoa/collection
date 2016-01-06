@@ -1,0 +1,51 @@
+{
+  "title": "The Opening of the Sixth Seal",
+  "creation_date": "1830",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "mezzotint engraving and aquatint, etching",
+  "accession_number": "2006.83.72",
+  "id": "cmoa:things/2985a2e1-f523-4879-9676-8198aae901e1",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.25,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34540",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39654&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd4d03d9-d517-4ccc-8370-a311c116b025",
+      "party_type": "Person",
+      "full_name": "George Henry Phillips",
+      "cited_name": "Phillips, George Henry",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0c7b9c2f-5ba1-4b55-add3-f070c29f8b91",
+      "party_type": "Person",
+      "full_name": "Francis Danby",
+      "cited_name": "Danby, Francis",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": "1861-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

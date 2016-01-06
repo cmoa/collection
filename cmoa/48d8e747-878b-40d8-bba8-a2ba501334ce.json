@@ -1,0 +1,39 @@
+{
+  "title": "Alex Katz",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "etching",
+  "accession_number": "1999.62.3",
+  "id": "cmoa:things/48d8e747-878b-40d8-bba8-a2ba501334ce",
+  "credit_line": "Gift of Michael and Sherle Berger",
+  "date_acquired": "2000-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 42.0,
+  "item_height": 31.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003951",
+  "provenance_text": "The Donor, Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119321&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2a9adad4-e33a-40af-840f-e74cf86ec59f",
+      "party_type": "Person",
+      "full_name": "Theo Wujcik",
+      "cited_name": "Wujcik, Theo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Detroit, Michigan",
+      "death_place": null
+    }
+  ]
+}

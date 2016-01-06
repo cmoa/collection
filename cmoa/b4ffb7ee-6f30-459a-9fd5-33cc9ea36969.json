@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "paper collage",
+  "accession_number": "78.21.2",
+  "id": "cmoa:things/b4ffb7ee-6f30-459a-9fd5-33cc9ea36969",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus",
+  "date_acquired": "1978-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019279",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Anthony Arkus, Pittsburgh, PA, 1978.",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103565&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89460&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68d76139-e878-426b-8db1-784c5a9600a2",
+      "party_type": "Person",
+      "full_name": "Jack Massey",
+      "cited_name": "Massey, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

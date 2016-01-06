@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1997.30.3",
+  "id": "cmoa:things/ec5b56f6-bc31-490d-b2d3-b7cfc1edb560",
+  "credit_line": "Gift of Lannan Foundation",
+  "date_acquired": "1997-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.5,
+  "item_height": 30.562,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003266",
+  "provenance_text": "Lannan Foundation, Los Angeles, CA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27877&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8010&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b7a7c47-6766-43af-a291-2348044d5165",
+      "party_type": "Person",
+      "full_name": "Peter Campus",
+      "cited_name": "Campus, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "New York State (United States)",
+      "death_place": null
+    }
+  ]
+}

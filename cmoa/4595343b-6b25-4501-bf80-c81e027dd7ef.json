@@ -1,0 +1,39 @@
+{
+  "title": "Henry IV, King of France",
+  "creation_date": "late 16th - early 17th century",
+  "creation_date_earliest": "1577-12-22",
+  "creation_date_latest": "1617-01-01",
+  "medium": "engraving",
+  "accession_number": "16.34.3",
+  "id": "cmoa:things/4595343b-6b25-4501-bf80-c81e027dd7ef",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-01-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001248",
+  "provenance_text": "F. Meder, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

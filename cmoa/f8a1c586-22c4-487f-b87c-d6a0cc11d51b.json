@@ -1,0 +1,39 @@
+{
+  "title": "Ornament with Foliage and Two Children",
+  "creation_date": "1549",
+  "creation_date_earliest": "1548-12-22",
+  "creation_date_latest": "1548-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.3",
+  "id": "cmoa:things/f8a1c586-22c4-487f-b87c-d6a0cc11d51b",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000998",
+  "provenance_text": "Alexander Emil Posonyi (1839-1899) [pencil inscription]; Adalbert Freiherr von Lanna (Prague 1836-1909), Lugt 2773 (coll. mark twice, in blue and in bloom); Frederick Keppel & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101691&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2b65623-c4d8-40d7-a37c-6b66f58f1d38",
+      "party_type": "Person",
+      "full_name": "Heinrich Aldegrever",
+      "cited_name": "Aldegrever, Heinrich",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1555-01-01",
+      "birth_place": "Paderborn (Detmold district, North Rhine-Westphalia, Germany)",
+      "death_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

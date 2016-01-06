@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Red Butterfly Over Green)",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "oil on linen",
+  "accession_number": "2003.45.2",
+  "id": "cmoa:things/fd736632-a677-45e2-8358-51f16f6b8ccb",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2003-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 41.0,
+  "item_height": 51.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6545",
+  "provenance_text": "Anton Kern Gallery, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111898&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/75f8225f-2eec-4f19-ad54-5abf1d2d07ae",
+      "party_type": "Person",
+      "full_name": "Mark Grotjahn",
+      "cited_name": "Grotjahn, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1968-01-01",
+      "death_date": null,
+      "birth_place": "Pasadena, CA",
+      "death_place": null
+    }
+  ]
+}

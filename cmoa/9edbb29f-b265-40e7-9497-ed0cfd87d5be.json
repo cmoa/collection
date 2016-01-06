@@ -1,0 +1,39 @@
+{
+  "title": "Hot",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "color lithograph",
+  "accession_number": "74.39.3",
+  "id": "cmoa:things/9edbb29f-b265-40e7-9497-ed0cfd87d5be",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 30.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016992",
+  "provenance_text": "Bill and Deborah Struve, East Haddam, CT.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125052&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b527d416-7fa9-43dc-b5a3-e058ccb74342",
+      "party_type": "Person",
+      "full_name": "Robert Cottingham",
+      "cited_name": "Cottingham, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn, NY",
+      "death_place": null
+    }
+  ]
+}

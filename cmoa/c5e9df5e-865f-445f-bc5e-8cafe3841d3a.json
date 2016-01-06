@@ -1,0 +1,39 @@
+{
+  "title": "Les Masques",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "four-color lithograph on paper",
+  "accession_number": "54.13.6",
+  "id": "cmoa:things/c5e9df5e-865f-445f-bc5e-8cafe3841d3a",
+  "credit_line": "Edward Duff Balken Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009227",
+  "provenance_text": "Raymond & Raymond",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63850&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0db6a354-0188-4e68-8534-a14f80a8c95a",
+      "party_type": "Person",
+      "full_name": "Max Ernst",
+      "cited_name": "Ernst, Max",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1891-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": " Brühl (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

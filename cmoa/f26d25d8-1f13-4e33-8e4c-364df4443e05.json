@@ -1,0 +1,39 @@
+{
+  "title": "Cat in Sunset (Yûyake no neko)",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.443",
+  "id": "cmoa:things/f26d25d8-1f13-4e33-8e4c-364df4443e05",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028224",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34232&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19cdc552-a303-4235-ab64-97b620db4993",
+      "party_type": "Person",
+      "full_name": "Inagaki Tomoo",
+      "cited_name": "Inagaki Tomoo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

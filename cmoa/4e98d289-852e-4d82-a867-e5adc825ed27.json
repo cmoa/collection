@@ -1,0 +1,39 @@
+{
+  "title": "Collage No. 8",
+  "creation_date": "c. 1922",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "paper, paint and mud on paper",
+  "accession_number": "61.11",
+  "id": "cmoa:things/4e98d289-852e-4d82-a867-e5adc825ed27",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1961-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.938,
+  "item_height": 22.875,
+  "item_depth": 0.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011361",
+  "provenance_text": "Zabriskie Gallery, New York; Print Purchase Fund",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19390&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a0e100d-9906-4077-9993-71afeb51f3f1",
+      "party_type": "Person",
+      "full_name": "Joseph Stella",
+      "cited_name": "Stella, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Muro Lucano (Potenza province, Basilicata, Italy)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

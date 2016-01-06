@@ -1,0 +1,45 @@
+{
+  "title": "Grande Capsule de Coquelicot",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "wheel-thrown and smoke-fired terra sigillata",
+  "accession_number": "2003.7.1.A-B",
+  "id": "cmoa:things/279f42b3-824d-4885-aaab-e1d9061e9256",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2003-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 20.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=522",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5906&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5907&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5905&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d28efbd-50c2-4800-922d-e247d9ff7ca9",
+      "party_type": "Person",
+      "full_name": "Pierre Bayle",
+      "cited_name": "Bayle, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1945-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

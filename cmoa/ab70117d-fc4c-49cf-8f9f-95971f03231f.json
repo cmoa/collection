@@ -1,0 +1,39 @@
+{
+  "title": "Vista #40",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.1",
+  "id": "cmoa:things/ab70117d-fc4c-49cf-8f9f-95971f03231f",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 11.75,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=369",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/968ec747-130a-4cdf-b39c-b472e2f60149",
+      "party_type": "Person",
+      "full_name": "Giles Bettison",
+      "cited_name": "Bettison, Giles",
+      "role": null,
+      "nationality": "Australian",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

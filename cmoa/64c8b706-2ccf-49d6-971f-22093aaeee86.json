@@ -1,0 +1,39 @@
+{
+  "title": "Creamer (Grape and Festoon)",
+  "creation_date": "1870-1889",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.12",
+  "id": "cmoa:things/64c8b706-2ccf-49d6-971f-22093aaeee86",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 6.25,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007745",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=924&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7bdb8fbb-461e-4dd4-a28b-8bacdc368591",
+      "party_type": "Organization",
+      "full_name": "Doyle and Company",
+      "cited_name": "Doyle and Company",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": "1891-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

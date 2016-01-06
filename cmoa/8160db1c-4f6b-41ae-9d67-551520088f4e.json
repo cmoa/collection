@@ -1,0 +1,39 @@
+{
+  "title": "Pagliacci",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.245",
+  "id": "cmoa:things/8160db1c-4f6b-41ae-9d67-551520088f4e",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012831",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107996&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b4e4d74-ece9-4ea7-ad5e-b70eec3f4da9",
+      "party_type": "Person",
+      "full_name": "Umberto Romano",
+      "cited_name": "Romano, Umberto",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Naples, Italy",
+      "death_place": null
+    }
+  ]
+}

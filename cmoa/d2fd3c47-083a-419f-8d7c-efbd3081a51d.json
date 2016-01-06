@@ -1,0 +1,51 @@
+{
+  "title": "Streets of Mexico",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "92.2",
+  "id": "cmoa:things/d2fd3c47-083a-419f-8d7c-efbd3081a51d",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 36.188,
+  "item_height": 27.188,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032093",
+  "provenance_text": "Ronald Bourgeault Antiques through Northeast Auctions, Hampton, NH",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d6130bcc-843f-47ec-8687-a0e0345d9ffc",
+      "party_type": "Organization",
+      "full_name": "Dunnavalt & Thompson",
+      "cited_name": "Dunnavalt & Thompson",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3ed0344f-da17-49d2-baa0-030f54646487",
+      "party_type": "Person",
+      "full_name": "H.F. McGarvie, Conecessionaire",
+      "cited_name": "McGarvie, H.F., Conecessionaire",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Study for Arcadia: Youth Playing Pipes",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "oil on wood panel",
+  "accession_number": "86.40",
+  "id": "cmoa:things/d649cd92-fe89-42d7-94fd-aca1bd43520f",
+  "credit_line": "Gift of Maurice Horwitz",
+  "date_acquired": "1986-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 13.0,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026084",
+  "provenance_text": "Sale of Eakins estate, 1939; Babcock Galleries, New York, 1939; Maurice Horwitz, Butler, Pa., 1947; Gift of Maurice Horwitz, 1986",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6417&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdddde95-77b6-4bbe-87b2-7cd9f55d0283",
+      "party_type": "Person",
+      "full_name": "Thomas Eakins",
+      "cited_name": "Eakins, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

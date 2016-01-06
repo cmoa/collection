@@ -1,0 +1,51 @@
+{
+  "title": "Sebastiano del Piombo",
+  "creation_date": "c. 1655-1660",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1660-01-01",
+  "medium": "engraving",
+  "accession_number": "16.34.11",
+  "id": "cmoa:things/187b926f-aa23-46ff-b42e-c940fe080767",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-01-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001245",
+  "provenance_text": "F. Meder, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102167&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/485294c7-9e35-445f-b1f0-adf3c887bb28",
+      "party_type": "Person",
+      "full_name": "Cornelis Van Dalen II",
+      "cited_name": "Van Dalen, Cornelis",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1642-01-01",
+      "death_date": "1660-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c0c90d0-6ad5-4f90-9082-7391549ae1a8",
+      "party_type": "Person",
+      "full_name": "Jacopo Robusti (called Tintoretto)",
+      "cited_name": "Robusti, Jacopo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1518-01-01",
+      "death_date": "1594-01-01",
+      "birth_place": "Venice (Venezia province, Veneto, Italy)",
+      "death_place": "Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

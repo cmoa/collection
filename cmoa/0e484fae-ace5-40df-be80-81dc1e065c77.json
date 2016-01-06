@@ -1,0 +1,37 @@
+{
+  "title": "St. Agatha",
+  "creation_date": "c. 1630-1660",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1660-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.20",
+  "id": "cmoa:things/0e484fae-ace5-40df-be80-81dc1e065c77",
+  "credit_line": "Gift of David Tynberg",
+  "date_acquired": "1961-09-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.375,
+  "item_height": 45.125,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011392",
+  "provenance_text": "David Tynberg, Pittsburgh; gift to Museum, September 1961.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25b0aee-eb02-452e-a492-b9042646fa90",
+      "party_type": "Person",
+      "full_name": "Carlo Francesco Nuvolone",
+      "cited_name": "Nuvolone, Carlo F.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1608-01-01",
+      "death_date": "1661-01-01",
+      "birth_place": "Milan (Milano province, Lombardy, Italy)",
+      "death_place": "Milan (Milano province, Lombardy, Italy)"
+    }
+  ]
+}

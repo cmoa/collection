@@ -1,0 +1,42 @@
+{
+  "title": "Fauxkoto",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "porcelain with china paint glaze",
+  "accession_number": "2004.38",
+  "id": "cmoa:things/d5325aa3-4b11-4614-a851-a87e43be0281",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 6.0,
+  "item_height": 9.0,
+  "item_depth": 3.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9093",
+  "provenance_text": "Rena Bransten Gallery, San Francisco",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97760&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27319&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ef48bc5-ab27-452e-abc7-a9006d285dfe",
+      "party_type": "Person",
+      "full_name": "Ron Nagle",
+      "cited_name": "Nagle, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "San Francisco, California",
+      "death_place": null
+    }
+  ]
+}

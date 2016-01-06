@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil and acrylic on paper",
+  "accession_number": "1998.76.1",
+  "id": "cmoa:things/69bc34e2-c0de-407b-8a64-96182e8cd012",
+  "credit_line": "Gift of the James Corcoran Gallery",
+  "date_acquired": "1999-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.188,
+  "item_height": 38.938,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003832",
+  "provenance_text": "Gift of The James Corcoran Gallery, Los Angeles, CA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119472&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d5c4b7d4-8340-41ed-bbd6-b54eba2af357",
+      "party_type": "Person",
+      "full_name": "Tomoharu Murakami",
+      "cited_name": "Murakami, Tomoharu",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Tokyo",
+      "death_place": null
+    }
+  ]
+}

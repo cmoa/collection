@@ -1,0 +1,39 @@
+{
+  "title": "Pinkerton Riot, Pittsburgh",
+  "creation_date": "c. 1935-1940",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2008.74.6",
+  "id": "cmoa:things/fde6d29e-34ef-47e4-bbc0-d6d1bf73db96",
+  "credit_line": "Gift of Daniel McFadden and Beverlee Tito Simboli McFadden",
+  "date_acquired": "2008-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.5,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=70918",
+  "provenance_text": "The artist; inherited by Beverlee Simboli",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70652&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89c2e623-a0fb-458f-a0a7-83daa50eb6c7",
+      "party_type": "Person",
+      "full_name": "Raymond Simboli",
+      "cited_name": "Simboli, Raymond",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pescina (L'Aquila province, Abruzzi, Italy)",
+      "death_place": "Neenah (Winnebago county, Wisconsin, United States)"
+    }
+  ]
+}

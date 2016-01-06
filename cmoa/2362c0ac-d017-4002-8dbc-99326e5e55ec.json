@@ -1,0 +1,39 @@
+{
+  "title": "Maize",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "color lithograph",
+  "accession_number": "51.27.30",
+  "id": "cmoa:things/2362c0ac-d017-4002-8dbc-99326e5e55ec",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1951-11-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008956",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115895&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08fa6f90-0f00-419f-b77a-154fdc3c77ff",
+      "party_type": "Person",
+      "full_name": "Graham Vivan Sutherland",
+      "cited_name": "Sutherland, Graham V.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1903-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

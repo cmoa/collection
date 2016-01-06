@@ -1,0 +1,51 @@
+{
+  "title": "Welhem di Wel Wil",
+  "creation_date": "c. 1687",
+  "creation_date_earliest": "1672-01-01",
+  "creation_date_latest": "1702-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.63",
+  "id": "cmoa:things/0731a1b9-70b3-4642-b911-db74fb77a1d2",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34504",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA, by February 2007; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102179&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9708b2d7-84c0-48de-837f-ba8a217c1861",
+      "party_type": "Person",
+      "full_name": "Abraham Blooteling",
+      "cited_name": "Blooteling, Abraham",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1640-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": " Amsterdam (North Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/59819894-9437-4f5c-8df2-4a8b4dff8b61",
+      "party_type": "Person",
+      "full_name": "Jan van Mieris",
+      "cited_name": "Mieris, Jan van",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1660-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

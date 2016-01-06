@@ -1,0 +1,39 @@
+{
+  "title": "The Vase",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "color lithograph",
+  "accession_number": "55.4",
+  "id": "cmoa:things/9edba8cd-a2a1-4e53-a03e-5ca529e239ee",
+  "credit_line": "Gift of Peter H. Deitsch",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.25,
+  "item_height": 30.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009492",
+  "provenance_text": "Ferdnand Léger [1881-1955], France. Peter H. Deitsch; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, February 1955.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64579&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8510356-8abc-4fee-9400-6db82fdcc89b",
+      "party_type": "Person",
+      "full_name": "Fernand Léger",
+      "cited_name": "Léger, Fernand",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1881-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Argentan (Orne, Basse-Normandie, France)",
+      "death_place": "Gif-sur-Yvette (Département de l'Essonne, Ile-de-France, France)"
+    }
+  ]
+}

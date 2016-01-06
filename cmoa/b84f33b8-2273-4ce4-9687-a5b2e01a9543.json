@@ -1,0 +1,57 @@
+{
+  "title": "Desk",
+  "creation_date": "c. 1958",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "walnut, mahogany, Micarta, and aluminum",
+  "accession_number": "2015.24",
+  "id": "cmoa:things/b84f33b8-2273-4ce4-9687-a5b2e01a9543",
+  "credit_line": "Edgar J. Levenson Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Charity Randall Gallery",
+  "item_width": 42.0,
+  "item_height": 37.25,
+  "item_depth": 24.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108255",
+  "provenance_text": "Concept Art Gallery, Pittsburgh to CMOA, April 2015.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148882&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148883&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148875&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b381f15-d436-450a-a1f3-b06f5b30d9d4",
+      "party_type": "Person",
+      "full_name": "Donald Deskey",
+      "cited_name": "Deskey, Donald",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7f107d59-298d-42eb-9667-03ab42d398b9",
+      "party_type": "Organization",
+      "full_name": "Charak Furniture Company",
+      "cited_name": "Charak Furniture Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

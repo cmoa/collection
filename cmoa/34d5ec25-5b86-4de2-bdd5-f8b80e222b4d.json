@@ -1,0 +1,39 @@
+{
+  "title": "Horatius Cocles Leaping into the River",
+  "creation_date": "1520-1526",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1525-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.5",
+  "id": "cmoa:things/34d5ec25-5b86-4de2-bdd5-f8b80e222b4d",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001000",
+  "provenance_text": "Bernhard Keller (1789-1870), Switzerland (L.384); Ivan Izaklevitch de Kouriss, Odessa (L.2722); Adalbert Freiherr von Lanna (1836-1909), Prague (L.2773); Frederick Keppel (1845-1912), New York (see L.1023)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101680&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72ac4435-3c08-4226-a34c-c13f6cf12cc5",
+      "party_type": "Person",
+      "full_name": "Albrecht Altdorfer",
+      "cited_name": "Altdorfer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1480-01-01",
+      "death_date": "1538-01-01",
+      "birth_place": " Regensburg (Oberpfalz, Bavaria, Germany)",
+      "death_place": " Regensburg (Oberpfalz, Bavaria, Germany)"
+    }
+  ]
+}

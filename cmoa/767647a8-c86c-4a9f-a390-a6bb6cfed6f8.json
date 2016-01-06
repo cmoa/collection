@@ -1,0 +1,51 @@
+{
+  "title": "Yuranosuke's House at Yamashima, Act IX  from the Chushingura Drama",
+  "creation_date": "1798",
+  "creation_date_earliest": "1798-01-01",
+  "creation_date_latest": "1798-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.398",
+  "id": "cmoa:things/767647a8-c86c-4a9f-a390-a6bb6cfed6f8",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.25,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028160",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Edythe Polster, New York, 8/26/1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105842&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/4a76225f-aef7-4b5c-a900-4390009d8524",
+      "party_type": "Person",
+      "full_name": "Iseya Rihei",
+      "cited_name": "Iseya Rihei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

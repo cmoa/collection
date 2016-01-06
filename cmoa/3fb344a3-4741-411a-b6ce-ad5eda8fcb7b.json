@@ -1,0 +1,42 @@
+{
+  "title": "Davidia",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2007.51.28",
+  "id": "cmoa:things/3fb344a3-4741-411a-b6ce-ad5eda8fcb7b",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 7.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48885",
+  "provenance_text": "Acquired by Mr. George Ebbs from Grapestake Gallery on 09/11/1979 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99940&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56024&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2b0f1ed-3ac9-471d-acbf-0b1bc755d9c1",
+      "party_type": "Person",
+      "full_name": "Imogen Cunningham",
+      "cited_name": "Cunningham, Imogen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Portland, Oregon, USA",
+      "death_place": null
+    }
+  ]
+}

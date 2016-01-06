@@ -1,0 +1,49 @@
+{
+  "title": "Armchair, \"Classmate\"",
+  "creation_date": "c. 1958",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "molded plastic and painted metal",
+  "accession_number": "84.112.14",
+  "id": "cmoa:things/97826622-43f6-4a3c-ba33-309f33d6e110",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.75,
+  "item_height": 30.25,
+  "item_depth": 18.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024503",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Plastic/Synthetic",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/633bb15c-ec3d-477a-af30-d427805ef11f",
+      "party_type": "Person",
+      "full_name": "Russel Wright",
+      "cited_name": "Wright, Russel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Lebanon, OH",
+      "death_place": "New York"
+    },
+    {
+      "artist_id": "cmoa:parties/2d9acc92-d3b9-48fb-8beb-98f20c3872ff",
+      "party_type": "Organization",
+      "full_name": "American Seating",
+      "cited_name": "American Seating",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

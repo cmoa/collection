@@ -1,0 +1,42 @@
+{
+  "title": "Forest Rocks and Tree",
+  "creation_date": "c. 1872",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1877-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "76.22",
+  "id": "cmoa:things/63bd696a-cc66-4cd5-8014-e5c3d9b0c0f8",
+  "credit_line": "Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1976-05-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 15.0,
+  "item_height": 23.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018030",
+  "provenance_text": "Ira Spanierman [1928-], New York, by 1975; purchased by Museum, 1976.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113314&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=193&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43aad878-5c07-4799-bd57-9b4b37f33e3a",
+      "party_type": "Person",
+      "full_name": "Worthington Whittredge",
+      "cited_name": "Whittredge, Worthington",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1820-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "Springfield (Clark county, Ohio, United States)",
+      "death_place": "Summit (Union county, New Jersey, United States)"
+    }
+  ]
+}

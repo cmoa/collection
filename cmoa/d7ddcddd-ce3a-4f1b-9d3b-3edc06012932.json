@@ -1,0 +1,51 @@
+{
+  "title": "Palladio Window I from Palazzo Thiene in Vicenza, Italy",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "92.122.1",
+  "id": "cmoa:things/d7ddcddd-ce3a-4f1b-9d3b-3edc06012932",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030186",
+  "provenance_text": "Hugh Colvin, Knighton, Powys, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3094b8fd-88a3-456c-9f70-45d1ba241001",
+      "party_type": "Person",
+      "full_name": "Andrea Palladio",
+      "cited_name": "Palladio, Andrea",
+      "role": "architect",
+      "nationality": "Italian",
+      "birth_date": "1508-01-01",
+      "death_date": "1580-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

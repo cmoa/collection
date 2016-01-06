@@ -1,0 +1,51 @@
+{
+  "title": "Evening Moon at Chidori Castle (Chidori jo yûzuki)",
+  "creation_date": "January 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.7",
+  "id": "cmoa:things/08d768eb-c388-4b30-a9b5-df6548bfaf67",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028767",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T.Z. Shiota, San Francisco, CA., 9/14/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34227&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68f804dc-682d-4642-94a4-7e363866b7bc",
+      "party_type": "Person",
+      "full_name": "Hiratsuka Un'ichi",
+      "cited_name": "Hiratsuka Un'ichi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Japan, Matsue",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

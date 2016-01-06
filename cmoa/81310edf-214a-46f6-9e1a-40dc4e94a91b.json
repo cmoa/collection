@@ -1,0 +1,39 @@
+{
+  "title": "Many Moons",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "gelatin silver print with hand-applied text",
+  "accession_number": "2010.25.8",
+  "id": "cmoa:things/81310edf-214a-46f6-9e1a-40dc4e94a91b",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 7.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91815",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100590&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

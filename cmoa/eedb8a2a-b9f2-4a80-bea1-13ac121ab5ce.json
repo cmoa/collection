@@ -1,0 +1,39 @@
+{
+  "title": "A study for Elizabeth Warren as Hebe",
+  "creation_date": "1776",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1776-01-01",
+  "medium": "pen and brown ink wash over graphite on paper",
+  "accession_number": "2012.2.2",
+  "id": "cmoa:things/eedb8a2a-b9f2-4a80-bea1-13ac121ab5ce",
+  "credit_line": "J. Willis Dalzell Memorial Collection, bequest of Mrs. J. Willis Dalzell, by exchange",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98283",
+  "provenance_text": "Maas Gallery, London, England in early 1970s; private collection, UK, until 2011; Lowell Libson, Ltd., London, England, 2011; purchased by Museum, February 2012.\n\nUnder review by CGK",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113335&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c762d0a-aaa4-42c1-a7fa-52d23ed3c4d5",
+      "party_type": "Person",
+      "full_name": "George Romney",
+      "cited_name": "Romney, George",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1734-01-01",
+      "death_date": "1802-01-01",
+      "birth_place": "Dalton-in-Furness, Lancs, England",
+      "death_place": "Kendal, Cumbria, England"
+    }
+  ]
+}

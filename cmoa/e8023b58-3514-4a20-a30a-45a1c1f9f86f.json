@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Woman",
+  "creation_date": "1809",
+  "creation_date_earliest": "1809-01-01",
+  "creation_date_latest": "1809-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.102",
+  "id": "cmoa:things/e8023b58-3514-4a20-a30a-45a1c1f9f86f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 3.75,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005535",
+  "provenance_text": "George S. Palmer, New London, CT; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, October 9, 1922; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73520&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73521&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/07ca9e1c-a5e8-4287-bba4-64274d05ac08",
+      "party_type": "Person",
+      "full_name": "William M. S. Doyle",
+      "cited_name": "Doyle, William M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1769-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

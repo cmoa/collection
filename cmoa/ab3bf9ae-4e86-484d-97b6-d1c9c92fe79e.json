@@ -1,0 +1,42 @@
+{
+  "title": "White Top Mountain, New Hampshire",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "oil on Upson® board",
+  "accession_number": "92.113",
+  "id": "cmoa:things/ab3bf9ae-4e86-484d-97b6-d1c9c92fe79e",
+  "credit_line": "Fellows Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 40.0,
+  "item_height": 30.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030167",
+  "provenance_text": "Maurice Horwitz, Butler, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147189&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147190&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6119bdab-2c33-4f8d-b343-489c96571872",
+      "party_type": "Person",
+      "full_name": "Marsden Hartley",
+      "cited_name": "Hartley, Marsden",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

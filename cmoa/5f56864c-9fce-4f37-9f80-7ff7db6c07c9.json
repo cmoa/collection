@@ -1,0 +1,39 @@
+{
+  "title": "Bowl, Saturn",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "recycled aluminum street signs and bottle caps",
+  "accession_number": "95.55",
+  "id": "cmoa:things/5f56864c-9fce-4f37-9f80-7ff7db6c07c9",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Robert Brandegee, by exchange",
+  "date_acquired": "1995-05-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.938,
+  "item_depth": 0.0,
+  "item_diameter": 15.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035751",
+  "provenance_text": "Boris Bally, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11d897b5-6bb2-4881-a9dd-f2f1372c9f46",
+      "party_type": "Person",
+      "full_name": "Boris Bally",
+      "cited_name": "Bally, Boris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

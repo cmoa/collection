@@ -1,0 +1,42 @@
+{
+  "title": "Winter Image",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "color lithograph",
+  "accession_number": "67.3.9",
+  "id": "cmoa:things/4e4dfe87-63a5-4bc7-b246-79f32a398b12",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1967-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012353",
+  "provenance_text": "Robert E. Gardner",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103598&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75052&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf1c0c74-e65d-4d29-9a5a-1264854a95d9",
+      "party_type": "Person",
+      "full_name": "Robert E. Gardner",
+      "cited_name": "Gardner, Robert E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

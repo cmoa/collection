@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "ink and mixed media on paper with collaged magazine pages",
+  "accession_number": "2005.33.5",
+  "id": "cmoa:things/c80b7fbe-366e-49d2-be43-20b3f8c91428",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2005-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.813,
+  "item_height": 11.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15448",
+  "provenance_text": "The artist, John Bock",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147622&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/adb76811-8277-4083-951a-1ed994678fb8",
+      "party_type": "Person",
+      "full_name": "John Bock",
+      "cited_name": "Bock, John",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Gribbohm, Germany",
+      "death_place": null
+    }
+  ]
+}

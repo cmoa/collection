@@ -1,0 +1,39 @@
+{
+  "title": "On the Way to Bessemer",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "etching",
+  "accession_number": "16.37.5",
+  "id": "cmoa:things/25eaccfd-930d-4a04-b7a4-04a83f88da5c",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-02-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 13.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001262",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72609&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ca436360-a40d-49fb-ae98-e1ff9531f74a",
+      "party_type": "Person",
+      "full_name": "Joseph Pennell",
+      "cited_name": "Pennell, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

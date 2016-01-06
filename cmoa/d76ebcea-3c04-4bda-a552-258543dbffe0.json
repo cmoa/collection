@@ -1,0 +1,39 @@
+{
+  "title": "Girl Under Apple Tree",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.16",
+  "id": "cmoa:things/d76ebcea-3c04-4bda-a552-258543dbffe0",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife and family",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 39.688,
+  "item_height": 43.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011868",
+  "provenance_text": "H. Nobel Roede [1877-1963], Oslo; Schlesisches Museum für bildende Künst, Breslau, Germany [1]; Nasjonalgalleriet, Oslo, 1939? until 1945? [2]; Ragnar Moltzau [1901-], Oslo, 1949? [3]; Marlborough-Gerson Gallery, Inc., New York, by 1965; purchased by Museum, May 1965. \nNOTES:1. It is unspecified if the painting was on loan or owned by the museum. 2. on deposit 3. purchased from the Norwegian government.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117145&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/619e5fe5-be73-49a3-b273-7f8b23f2a296",
+      "party_type": "Person",
+      "full_name": "Edvard Munch",
+      "cited_name": "Munch, Edvard",
+      "role": null,
+      "nationality": "Norwegian",
+      "birth_date": "1863-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": " Løten (Hedmark, Norway)",
+      "death_place": " Oslo (Oslo county, Norway)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Red Petunias",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "color monoprint",
+  "accession_number": "2006.12",
+  "id": "cmoa:things/cc22d18a-4514-4794-92b9-82c4581393aa",
+  "credit_line": "Gift of Susan Heineman Shapera in memory of Dr. Arthur C. Heineman, Jr., by exchange",
+  "date_acquired": "2006-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=21143",
+  "provenance_text": "purchased from Concept Art Gallery, Pittsburgh\nConcept reports acquiring it \"by direct descent through the Lazzell family\"",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75897&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e70132f7-c4b7-4c51-a4f9-2fa1e07daa17",
+      "party_type": "Person",
+      "full_name": "Blanche Lazzell",
+      "cited_name": "Lazzell, Blanche",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": " Maidsville (Monongalia county, West Virginia, United States)",
+      "death_place": null
+    }
+  ]
+}

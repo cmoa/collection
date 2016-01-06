@@ -1,0 +1,42 @@
+{
+  "title": "Crosspot",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "1997.4",
+  "id": "cmoa:things/fde2c46e-e1ed-4d8c-892e-d0ae5723b4cd",
+  "credit_line": "DuPuy Fund and Second Century Acquisition Fund",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003407",
+  "provenance_text": "Franklin Parrasch Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27805&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4048&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1bdff41-5310-4c9d-a05d-a9cfe151664a",
+      "party_type": "Person",
+      "full_name": "John Mason",
+      "cited_name": "Mason, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Madrid (Perkins county, Nebraska, United States)",
+      "death_place": null
+    }
+  ]
+}

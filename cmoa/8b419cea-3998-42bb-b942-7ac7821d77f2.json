@@ -1,0 +1,39 @@
+{
+  "title": "Nocturne",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.235",
+  "id": "cmoa:things/8b419cea-3998-42bb-b942-7ac7821d77f2",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012820",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107986&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13e09a52-8ba6-4a35-abe1-0ee2ed8d7915",
+      "party_type": "Person",
+      "full_name": "Frederick L. Owen",
+      "cited_name": "Owen, Frederick L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

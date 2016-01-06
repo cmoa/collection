@@ -1,0 +1,51 @@
+{
+  "title": "Creamer (Actress)",
+  "creation_date": "1880s",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.7",
+  "id": "cmoa:things/d1878c9a-ef5f-43f3-b838-4a3db8767f5b",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.25,
+  "item_height": 5.625,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007977",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=44&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/847e7cbd-c85e-4f5d-9f04-06caaf1e53d5",
+      "party_type": "Organization",
+      "full_name": "La Belle Glass Company",
+      "cited_name": "La Belle Glass Company",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f3fe67d7-ecbe-41c8-a644-5efe8dd20e05",
+      "party_type": "Organization",
+      "full_name": "Crystal Glass Company",
+      "cited_name": "Crystal Glass Company",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1908-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

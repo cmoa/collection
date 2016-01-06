@@ -1,0 +1,39 @@
+{
+  "title": "Portrait (Italian)",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "55.71.1",
+  "id": "cmoa:things/91fc163f-671e-4b6d-a78d-6e43d11775ed",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009585",
+  "provenance_text": "Carl-Henning Pedersen",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a8048d6-95de-44b8-a9bf-9489086ead0e",
+      "party_type": "Person",
+      "full_name": "Carl-Henning Pedersen",
+      "cited_name": "Pedersen, Carl-Henning",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1913-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Copenhagen, Denmark",
+      "death_place": null
+    }
+  ]
+}

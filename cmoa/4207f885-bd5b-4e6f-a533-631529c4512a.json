@@ -1,0 +1,42 @@
+{
+  "title": "At the Piano",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "etching",
+  "accession_number": "48.17.5",
+  "id": "cmoa:things/4207f885-bd5b-4e6f-a533-631529c4512a",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008245",
+  "provenance_text": "Anders Leonard Zorn [1860-1920]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1948.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110564&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110563&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f37e57b-226e-4233-af00-0d0ff894a20c",
+      "party_type": "Person",
+      "full_name": "Anders Leonard Zorn",
+      "cited_name": "Zorn, Anders L.",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1860-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Mora (Dalarna, Sweden)",
+      "death_place": "Mora (Dalarna, Sweden)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Shimôsa Province: Kasane and Yoemon, from the series The Sixty-odd Provinces of Great Japan (Dai Nihon rokujûyoshû no uchi)",
+  "creation_date": "1845",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "89.28.916",
+  "id": "cmoa:things/2bcd44ee-0e6c-42e2-a4f5-7a8039bdef8a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029155",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120569&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ceb3bd03-2fc1-46dc-98e1-77eaa203b1d5",
+      "party_type": "Person",
+      "full_name": "Kunisada (Toyokuni III)",
+      "cited_name": "Kunisada (Toyokuni III)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/dece99e3-ee7c-46a8-9181-9f4eaf219f95",
+      "party_type": "Person",
+      "full_name": "Utagawa Kunishige II (Kunimichi II)",
+      "cited_name": "Utagawa Kunishige II (Kunimichi II)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

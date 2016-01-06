@@ -1,0 +1,39 @@
+{
+  "title": "Crate chair",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "pine",
+  "accession_number": "2001.7",
+  "id": "cmoa:things/29221105-24c3-4b37-bb55-b0fb80eb2d00",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.125,
+  "item_height": 24.5,
+  "item_depth": 29.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004421",
+  "provenance_text": "Phillips Auction House, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3996&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03ac6519-6681-48a1-803b-62f6862d668a",
+      "party_type": "Person",
+      "full_name": "Gerrit Thomas Rietveld",
+      "cited_name": "Rietveld, Gerrit Thomas",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1888-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Utrecht",
+      "death_place": "Utrecht"
+    }
+  ]
+}

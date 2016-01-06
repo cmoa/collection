@@ -1,0 +1,39 @@
+{
+  "title": "Design in Wire",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "50.10",
+  "id": "cmoa:things/49cfa6da-b479-4409-9209-537b64cba7e9",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1950-10-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008788",
+  "provenance_text": "Louis Lozowick",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100563&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1ea5715-cb52-4814-8344-39917de90911",
+      "party_type": "Person",
+      "full_name": "Louis Lozowick",
+      "cited_name": "Lozowick, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

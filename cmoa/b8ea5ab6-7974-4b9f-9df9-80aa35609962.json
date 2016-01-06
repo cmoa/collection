@@ -1,0 +1,39 @@
+{
+  "title": "Serving spoon",
+  "creation_date": "c. 1785",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "silver",
+  "accession_number": "27.10.1051.4",
+  "id": "cmoa:things/b8ea5ab6-7974-4b9f-9df9-80aa35609962",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.875,
+  "item_height": 8.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005550",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9230bb5-1649-4107-bfe9-f57f7eb48bdc",
+      "party_type": "Person",
+      "full_name": "James Byrne",
+      "cited_name": "Byrne, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1700-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

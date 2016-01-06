@@ -1,0 +1,39 @@
+{
+  "title": "Fish",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "86.46.2",
+  "id": "cmoa:things/41ae3e1d-d14a-45da-a2fc-17b37a52079e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1986-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.688,
+  "item_height": 34.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026118",
+  "provenance_text": "Marian Goodman Gallery, New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113591&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1bda41b5-acb2-416c-a10d-e4aedba5c978",
+      "party_type": "Person",
+      "full_name": "Lothar Baumgarten",
+      "cited_name": "Baumgarten, Lothar",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Rheinsberg (Potsdam district, Brandenburg, Germany)",
+      "death_place": null
+    }
+  ]
+}

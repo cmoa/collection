@@ -1,0 +1,39 @@
+{
+  "title": "View of Kitayama",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1322",
+  "id": "cmoa:things/3561e93a-9a84-460f-a598-8eec166e95d5",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.625,
+  "item_height": 24.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027144",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35882&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5f93f462-435b-441b-bab1-61cd7306fb35",
+      "party_type": "Person",
+      "full_name": "Tajima Hiroyuki",
+      "cited_name": "Tajima Hiroyuki",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1911-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

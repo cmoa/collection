@@ -1,0 +1,39 @@
+{
+  "title": "Suspended Artifact",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "glass: blown, with steel stand",
+  "accession_number": "2002.51.20",
+  "id": "cmoa:things/dbe9750c-8756-490d-ab37-303e34730f21",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.25,
+  "item_height": 32.5,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=392",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23523&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c5a71b4-1de1-4f0a-bf31-0e8b38ef911b",
+      "party_type": "Person",
+      "full_name": "William Morris",
+      "cited_name": "Morris, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

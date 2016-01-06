@@ -1,0 +1,39 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "porcelain",
+  "accession_number": "2003.58.4.4.A-B",
+  "id": "cmoa:things/d9f39da1-2bca-47e6-a58d-a074ee0cc285",
+  "credit_line": "Gift of Sam and Debbie Berkovitz",
+  "date_acquired": "2004-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.438,
+  "item_height": 4.562,
+  "item_depth": 3.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7282",
+  "provenance_text": "Sam and Deborah Berkovitz, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9682&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/517caa0f-22a7-45f9-8828-bf34d67f2f66",
+      "party_type": "Organization",
+      "full_name": "Società Ceramica Italiana",
+      "cited_name": "Società Ceramica Italiana",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1856-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

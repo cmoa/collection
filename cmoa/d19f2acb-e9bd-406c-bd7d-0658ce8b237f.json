@@ -1,0 +1,51 @@
+{
+  "title": "Robert de Cotte",
+  "creation_date": "c. 1720",
+  "creation_date_earliest": "1710-01-01",
+  "creation_date_latest": "1730-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "16.41.1",
+  "id": "cmoa:things/d19f2acb-e9bd-406c-bd7d-0658ce8b237f",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001280",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114687&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de11b0f3-39e9-4e20-bce2-3e672653cab9",
+      "party_type": "Person",
+      "full_name": "Pierre-Imbert Drevet",
+      "cited_name": "Drevet, Pierre-Imbert",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1697-01-01",
+      "death_date": "1739-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/6e2b827d-6077-4933-bf87-f3130fe7571c",
+      "party_type": "Person",
+      "full_name": "Hyacinthe Rigaud",
+      "cited_name": "Rigaud, Hyacinthe",
+      "role": "painter",
+      "nationality": "French",
+      "birth_date": "1659-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": "Perpignan, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

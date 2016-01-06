@@ -1,0 +1,39 @@
+{
+  "title": "Maunder's Fish Shop, Chelsea",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "transfer lithograph on paper",
+  "accession_number": "16.1.1",
+  "id": "cmoa:things/9979a933-be77-4b1b-bed9-8c3da1ba9ad4",
+  "credit_line": "Gift of the Pittsburgh Etching Club",
+  "date_acquired": "1916-01-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001039",
+  "provenance_text": "Pittsburgh Etching Club",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66731&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

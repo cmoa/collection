@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "screen print",
+  "accession_number": "1996.1",
+  "id": "cmoa:things/b1b7bf27-c50b-4e8a-8301-c7956ffd60bd",
+  "credit_line": "Carol R. Brown Acquisition Fund, Oxford Development Fund, and gift of Mr. and Mrs. John Diederich",
+  "date_acquired": "1996-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 56.5,
+  "item_height": 67.0,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002099",
+  "provenance_text": "Pace Prints, New York, NY; Carnegie Museum of Art, Pittsburgh; Carol Brown Acquisition Fund, Oxford Development Fund, and Gift of Mr. and Mrs. John Diederich",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8464&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36d440c0-c581-426a-8413-4de66d9dfd91",
+      "party_type": "Person",
+      "full_name": "Chuck Close",
+      "cited_name": "Close, Chuck",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Monroe (Snohomish County, Washington, United States)",
+      "death_place": null
+    }
+  ]
+}

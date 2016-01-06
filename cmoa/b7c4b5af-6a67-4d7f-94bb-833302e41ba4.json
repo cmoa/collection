@@ -1,0 +1,39 @@
+{
+  "title": "Old St. Etienne, Caen",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "etching",
+  "accession_number": "18.9.1",
+  "id": "cmoa:things/b7c4b5af-6a67-4d7f-94bb-833302e41ba4",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001853",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110940&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6316effb-637c-4784-9883-fefe78a30747",
+      "party_type": "Person",
+      "full_name": "David Young Cameron",
+      "cited_name": "Cameron, David Young",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1865-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Glasgow (Glasgow, Scotland, United Kingdom)",
+      "death_place": " Perth (Perth and Kinross, Scotland, United Kingdom)"
+    }
+  ]
+}

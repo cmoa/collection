@@ -1,0 +1,57 @@
+{
+  "title": "Biscuit Box",
+  "creation_date": "1903",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "pewter",
+  "accession_number": "1999.49.1.A-B",
+  "id": "cmoa:things/68ee6e05-b61c-4bc3-b6d6-c6991f32e245",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1999-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.625,
+  "item_height": 4.625,
+  "item_depth": 4.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003918",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11289&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11290&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35ef7d22-1380-4b1b-b090-fa19d2ac6311",
+      "party_type": "Person",
+      "full_name": "Archibald Knox",
+      "cited_name": "Knox, Archibald",
+      "role": "designer",
+      "nationality": "English",
+      "birth_date": "1864-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/74185178-19fc-4f26-806f-12fd41a3dc67",
+      "party_type": "Organization",
+      "full_name": "Liberty and Company",
+      "cited_name": "Liberty and Company",
+      "role": "retailer",
+      "nationality": "British",
+      "birth_date": "1875-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

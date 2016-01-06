@@ -1,0 +1,39 @@
+{
+  "title": "Still Life",
+  "creation_date": null,
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "85.24.4",
+  "id": "cmoa:things/7ba23c11-6047-43a6-bd3e-ea0af612b4bf",
+  "credit_line": "Gift of Eugene Canade",
+  "date_acquired": "1985-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025469",
+  "provenance_text": "Mr. Eugene Canade, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89488&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f698131-6a61-48a8-a293-085d94ab5c19",
+      "party_type": "Person",
+      "full_name": "Vincent Canadé",
+      "cited_name": "Canadé, Vincent",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Italy",
+      "death_place": "New York City"
+    }
+  ]
+}

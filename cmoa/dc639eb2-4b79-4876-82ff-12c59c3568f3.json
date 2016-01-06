@@ -1,0 +1,51 @@
+{
+  "title": "Side table",
+  "creation_date": "c. 1715-1725; c. 1700",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1730-01-01",
+  "medium": "gilt wood pedestal with inlaid marble top",
+  "accession_number": "76.17",
+  "id": "cmoa:things/dc639eb2-4b79-4876-82ff-12c59c3568f3",
+  "credit_line": "Purchase: Sarah Mellon Scaife Foundation Grant",
+  "date_acquired": "1976-05-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 40.25,
+  "item_height": 33.875,
+  "item_depth": 21.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018010",
+  "provenance_text": "Jeremy Ltd. London",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

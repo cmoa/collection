@@ -1,0 +1,81 @@
+{
+  "title": "Blow Inflatable Armchair",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "PVC plastic",
+  "accession_number": "2008.43.1",
+  "id": "cmoa:things/621c442a-f0d4-4a2d-a216-a1cc3c08841e",
+  "credit_line": "Gift of Dr. Richard L. Simmons",
+  "date_acquired": "2008-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 47.125,
+  "item_height": 33.0,
+  "item_depth": 40.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=65184",
+  "provenance_text": null,
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96341&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96346&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96351&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c86c6ffe-0cc4-4d4b-946f-3046dd4c8c5f",
+      "party_type": "Person",
+      "full_name": "Jonathan De Pas",
+      "cited_name": "De Pas, Jonathan",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1932-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0ed615a4-7a7d-4f87-b02e-2354bb624fc3",
+      "party_type": "Person",
+      "full_name": "Donato D'Urbino",
+      "cited_name": "D'Urbino, Donato",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1be9207e-39ea-4a45-9a3e-729a2a108df6",
+      "party_type": "Person",
+      "full_name": "Paolo Lomazzi",
+      "cited_name": "Lomazzi, Paolo",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a26babe8-b202-4f4e-a286-53674a22d492",
+      "party_type": "Organization",
+      "full_name": "Zanotta S.p.A.",
+      "cited_name": "Zanotta S.p.A.",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

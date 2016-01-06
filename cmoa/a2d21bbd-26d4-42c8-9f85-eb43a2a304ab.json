@@ -1,0 +1,39 @@
+{
+  "title": "Flowers",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "79.2.1",
+  "id": "cmoa:things/a2d21bbd-26d4-42c8-9f85-eb43a2a304ab",
+  "credit_line": "Gift of Steingrim Laursen",
+  "date_acquired": "1979-02-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020263",
+  "provenance_text": "Gift of Steingrim Laursen, Copenhagen, Denmark",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94615&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c36ad53d-9d33-44a2-bb2a-12e128f2ce6b",
+      "party_type": "Person",
+      "full_name": "Betty Parsons",
+      "cited_name": "Parsons, Betty",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "New York",
+      "death_place": "New York"
+    }
+  ]
+}

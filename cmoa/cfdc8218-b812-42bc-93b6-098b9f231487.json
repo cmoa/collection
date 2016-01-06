@@ -1,0 +1,54 @@
+{
+  "title": "Formosa1140 Presentation Model",
+  "creation_date": "2012",
+  "creation_date_earliest": "2012-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "mixed media",
+  "accession_number": "2014.56",
+  "id": "cmoa:things/cfdc8218-b812-42bc-93b6-098b9f231487",
+  "credit_line": "Mr. and Mrs. William Boyd,  Jr. Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 20.0,
+  "item_depth": 32.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=105667",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133864&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133865&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/906ec141-c437-4289-a036-7cc90125f213",
+      "party_type": "Person",
+      "full_name": "Lorcan O'Herlihy",
+      "cited_name": "O'Herlihy, Lorcan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8ae8d440-a822-4c47-bd74-c002b7415237",
+      "party_type": "Organization",
+      "full_name": "Lorcan O'Herlihy Architects",
+      "cited_name": "Lorcan O'Herlihy Architects",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1990-01-01",
+      "death_date": null,
+      "birth_place": "Culver City (Los Angeles county, California, United States)",
+      "death_place": null
+    }
+  ]
+}

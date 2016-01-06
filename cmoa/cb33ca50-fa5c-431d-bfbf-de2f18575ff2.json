@@ -1,0 +1,51 @@
+{
+  "title": "Manuscript",
+  "creation_date": "1445-1529",
+  "creation_date_earliest": "1444-12-23",
+  "creation_date_latest": "1528-12-22",
+  "medium": "ink on vellum",
+  "accession_number": "59.25.1",
+  "id": "cmoa:things/cb33ca50-fa5c-431d-bfbf-de2f18575ff2",
+  "credit_line": "Edward Duff Balken Fund",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 13.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010978",
+  "provenance_text": "Duven Brothers, NY, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115018&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6ebf9a54-4acf-4e24-a7a6-0ec44e66e3c9",
+      "party_type": "Person",
+      "full_name": "Liberale da Verona",
+      "cited_name": "Verona, Liberale da",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1445-01-01",
+      "death_date": "1529-01-01",
+      "birth_place": "Verona (Verone province, Veneto, Italy)",
+      "death_place": "Verona (Verone province, Veneto, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Coffee Line",
+  "creation_date": "1905",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.29",
+  "id": "cmoa:things/afb77bc1-3dac-48bf-957a-b520a4822344",
+  "credit_line": "Fellows of the Museum of Art Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 31.625,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023662",
+  "provenance_text": "The artist, until 1951; his estate; Kraushaar Galleries, New York, by 1983; Fellows of the Museum of Art Fund, 1983",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2914&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56880&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aaf3191-56f4-4bed-bbcc-a9e68b02c6a6",
+      "party_type": "Person",
+      "full_name": "John Sloan",
+      "cited_name": "Sloan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Lock Haven, Pennsylvania",
+      "death_place": "Hanover, New Hampshire"
+    }
+  ]
+}

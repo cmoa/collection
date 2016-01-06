@@ -1,0 +1,39 @@
+{
+  "title": "Bagpiper",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "faience",
+  "accession_number": "69.57",
+  "id": "cmoa:things/ffe8951d-a474-497c-bc41-dfad799b6a2c",
+  "credit_line": "Decorative Arts Discretionary Fund",
+  "date_acquired": "1969-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 10.375,
+  "item_depth": 3.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012989",
+  "provenance_text": "Nicolier, Paris, France",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4234&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

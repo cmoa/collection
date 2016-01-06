@@ -1,0 +1,42 @@
+{
+  "title": "Extended Family",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "83.44",
+  "id": "cmoa:things/659dff63-f7b7-4dfc-a941-beb1ee4d3a89",
+  "credit_line": "Gift of Harold H. Stream III",
+  "date_acquired": "1983-06-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 86.0,
+  "item_height": 56.75,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023823",
+  "provenance_text": "Gift of Harold H. Stream, III, 1983.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149516&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25032&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f35635c-8c8c-45f2-adc4-8387401d7879",
+      "party_type": "Person",
+      "full_name": "David Armstrong",
+      "cited_name": "Armstrong, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Arlington (Middlesex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

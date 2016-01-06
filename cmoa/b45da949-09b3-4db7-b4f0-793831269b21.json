@@ -1,0 +1,39 @@
+{
+  "title": "March White",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "70.62.2",
+  "id": "cmoa:things/b45da949-09b3-4db7-b4f0-793831269b21",
+  "credit_line": "National Endowment for the Arts Matching Grant and Fellows Fund",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 115.25,
+  "item_height": 105.25,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015900",
+  "provenance_text": "The Pace Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101359&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9836d8a7-16ac-4c9a-9832-ba4640878bcd",
+      "party_type": "Person",
+      "full_name": "Jack Youngerman",
+      "cited_name": "Youngerman, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Louisville, Kentucky",
+      "death_place": null
+    }
+  ]
+}

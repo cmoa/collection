@@ -1,0 +1,61 @@
+{
+  "title": "Boalum lamp",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "metal, thermoplastic resin, glass",
+  "accession_number": "2004.30.A-C",
+  "id": "cmoa:things/82b5b4da-1663-444b-bc15-3822e3b095cc",
+  "credit_line": "Gift of Mr. and Mrs. Alexander C. Speyer III",
+  "date_acquired": "2004-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 72.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9031",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8a2f0a7-c420-4574-90e1-9532687c7fc8",
+      "party_type": "Person",
+      "full_name": "Livio Castiglioni",
+      "cited_name": "Castiglioni, Livio",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1911-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Milan",
+      "death_place": "Milan"
+    },
+    {
+      "artist_id": "cmoa:parties/b9057105-16d7-4435-91f3-45ee343449f3",
+      "party_type": "Person",
+      "full_name": "Gianfranco Frattini",
+      "cited_name": "Frattini, Gianfranco",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/561a3ecb-21b7-4a47-a06b-6cc2daf06eb5",
+      "party_type": "Organization",
+      "full_name": "Artemide",
+      "cited_name": "Artemide",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

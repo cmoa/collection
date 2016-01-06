@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Personnage)",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.58.5",
+  "id": "cmoa:things/6160f85b-c592-48c6-ba19-c5bb8e7b65f2",
+  "credit_line": "Gift of Benjamin D. Bernstein",
+  "date_acquired": "1977-12-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.625,
+  "item_height": 28.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018946",
+  "provenance_text": "Benjamin D. Bernstein; purchased in Paris in 1957",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149762&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a6eb295-06c3-4e62-961e-359437534312",
+      "party_type": "Person",
+      "full_name": "Maryan S. Maryan",
+      "cited_name": "Maryan, Maryan S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Nowy Sacz (Malopolskie voivodship, Poland)",
+      "death_place": null
+    }
+  ]
+}

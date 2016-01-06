@@ -1,0 +1,63 @@
+{
+  "title": "Foglie de Ninfee n. 21 - Torsione: Rigadin",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "glass, blown, with cane, murrine, and powder, carved, and polished",
+  "accession_number": "2006.55",
+  "id": "cmoa:things/37ceb490-3381-44f4-acc9-424aef7a7c8c",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=27868",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35338&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6f1874a-6b16-42f0-98b2-77503bda4bbd",
+      "party_type": "Person",
+      "full_name": "Ohira, Yoichi",
+      "cited_name": "Ohira, Yoichi",
+      "role": "maestro",
+      "nationality": "Japanese",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/be1e9243-5150-4c65-bc5e-0f67aac22026",
+      "party_type": "Person",
+      "full_name": "Giacomo Barbini",
+      "cited_name": "Barbini, Giacomo",
+      "role": "maestro",
+      "nationality": "Italian",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/af6fb04e-d432-443f-82b7-20449e482cea",
+      "party_type": "Person",
+      "full_name": "Andrea Zilio",
+      "cited_name": "Zilio, Andrea",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

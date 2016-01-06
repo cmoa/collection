@@ -1,0 +1,39 @@
+{
+  "title": "The Overturned Carriage",
+  "creation_date": "c. 1859-1864",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.54.1",
+  "id": "cmoa:things/ed016d5b-6d23-4f64-bda6-ef7acda7fcdd",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1956-12-21",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 30.0,
+  "item_height": 21.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009928",
+  "provenance_text": "Gustav D. Klimann, Boston; G. David Thompson, Pittsburgh, by 1956; gift to Museum, 1956.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

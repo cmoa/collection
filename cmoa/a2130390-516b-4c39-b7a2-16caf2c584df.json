@@ -1,0 +1,39 @@
+{
+  "title": "Bob Labobgah",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "etching",
+  "accession_number": "94.249.1",
+  "id": "cmoa:things/a2130390-516b-4c39-b7a2-16caf2c584df",
+  "credit_line": "Gift of Millie Sucov",
+  "date_acquired": "1995-01-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035133",
+  "provenance_text": "Millie Sucov, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114381&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c80902e5-e704-4bb8-96ac-b2f08d7791b2",
+      "party_type": "Person",
+      "full_name": "Leonard Leibowitz",
+      "cited_name": "Leibowitz, Leonard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "The Rockefeller Apartments, New York; [exterior perspective]",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "crayon on paper",
+  "accession_number": "93.84",
+  "id": "cmoa:things/d5f5e87a-1875-4246-a604-495aa08acd22",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-05-27",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 19.125,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033720",
+  "provenance_text": "Vanderwood Tannebaum, NY, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9740&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1d0ef62-69c8-4bcc-8be0-55077ef4c1e9",
+      "party_type": "Organization",
+      "full_name": "Harrison & Fouilhoux",
+      "cited_name": "Harrison & Fouilhoux",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f6fc17b3-7b88-47fe-9358-d67ca0c5fff6",
+      "party_type": "Person",
+      "full_name": "Hugh Ferriss",
+      "cited_name": "Ferriss, Hugh",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

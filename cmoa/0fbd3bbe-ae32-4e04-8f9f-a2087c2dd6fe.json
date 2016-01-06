@@ -1,0 +1,51 @@
+{
+  "title": "Tom Vac chair",
+  "creation_date": "1999 (manufactured)",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "molded polypropylene, chrome",
+  "accession_number": "1999.31.1",
+  "id": "cmoa:things/0fbd3bbe-ae32-4e04-8f9f-a2087c2dd6fe",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "1999-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.5,
+  "item_height": 29.75,
+  "item_depth": 24.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003878",
+  "provenance_text": "Vitra, Allentown, PA",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7034&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab2b0e3b-5d64-42e8-a892-a824c91d76bd",
+      "party_type": "Person",
+      "full_name": "Ron Arad",
+      "cited_name": "Arad, Ron",
+      "role": null,
+      "nationality": "Israeli",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Tel Aviv-Jaffa (Tel Aviv district, Israel)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1c430cba-f2f6-44a8-97dd-8d885f056450",
+      "party_type": "Organization",
+      "full_name": "Vitra AG",
+      "cited_name": "Vitra AG",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Industry: Spangler Mine Disaster)",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "85.11.9",
+  "id": "cmoa:things/4844e85a-8419-45c1-b229-22706f347aa5",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1985-04-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025434",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103870&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a95b5f52-7f9a-42b5-b95d-a21e824a734a",
+      "party_type": "Person",
+      "full_name": "Raymond L. Baird",
+      "cited_name": "Baird, Raymond L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

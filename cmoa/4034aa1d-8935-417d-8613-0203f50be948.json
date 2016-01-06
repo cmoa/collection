@@ -1,0 +1,51 @@
+{
+  "title": "Adrienne le Couvreur",
+  "creation_date": "c. 1730",
+  "creation_date_earliest": "1730-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "engraving",
+  "accession_number": "49.2.10",
+  "id": "cmoa:things/4034aa1d-8935-417d-8613-0203f50be948",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008483",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100075&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de11b0f3-39e9-4e20-bce2-3e672653cab9",
+      "party_type": "Person",
+      "full_name": "Pierre-Imbert Drevet",
+      "cited_name": "Drevet, Pierre-Imbert",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1697-01-01",
+      "death_date": "1739-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/aedcbeb2-28cb-4cf5-a7c9-0b6c8b2d31eb",
+      "party_type": "Person",
+      "full_name": "Charles Antoine Coypel",
+      "cited_name": "Coypel, Charles A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1694-01-01",
+      "death_date": "1752-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

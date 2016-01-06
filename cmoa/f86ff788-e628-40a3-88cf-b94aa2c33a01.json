@@ -1,0 +1,39 @@
+{
+  "title": "John Brown",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.47",
+  "id": "cmoa:things/f86ff788-e628-40a3-88cf-b94aa2c33a01",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1982-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022976",
+  "provenance_text": "Weyhe Gallery, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76887&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c33917b2-e39d-4c81-a4e3-c6eacc1b4775",
+      "party_type": "Person",
+      "full_name": "John Stuart Curry",
+      "cited_name": "Curry, John S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": " Dunavant (Jefferson county, Kansas, United States)",
+      "death_place": " Madison (Dane county, Wisconsin, United States)"
+    }
+  ]
+}

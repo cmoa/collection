@@ -1,0 +1,39 @@
+{
+  "title": "The Sea",
+  "creation_date": "c. 1896-1925",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "pencil",
+  "accession_number": "25.6.2",
+  "id": "cmoa:things/458e843b-7e1c-4121-817d-f307e5ea52ae",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1925-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005295",
+  "provenance_text": "Gift of Kenneth Seaver, Pittsburgh, PA, 1925.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89428&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/907582d2-83f6-445d-8a66-79983eb6261c",
+      "party_type": "Person",
+      "full_name": "Boardman Robinson",
+      "cited_name": "Robinson, Boardman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Nova Scotia (Canada)",
+      "death_place": "Colorado Springs (El Paso county, Colorado, United States)"
+    }
+  ]
+}

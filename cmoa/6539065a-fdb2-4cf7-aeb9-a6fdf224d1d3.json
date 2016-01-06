@@ -1,0 +1,39 @@
+{
+  "title": "Woman Kneeling",
+  "creation_date": null,
+  "creation_date_earliest": "1578-12-22",
+  "creation_date_latest": "1613-01-01",
+  "medium": "chalk, black with white on blue-grey paper",
+  "accession_number": "23.12.5",
+  "id": "cmoa:things/6539065a-fdb2-4cf7-aeb9-a6fdf224d1d3",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004860",
+  "provenance_text": "Sir Joshua Reynolds (1723-1792), London (Lugt 2364); Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126304&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/48f88a01-4d96-4a3d-93f7-1c818c1d68fe",
+      "party_type": "Person",
+      "full_name": "Lodovico Cardi",
+      "cited_name": "Cardi, Lodovico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1559-01-01",
+      "death_date": "1613-01-01",
+      "birth_place": null,
+      "death_place": " Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

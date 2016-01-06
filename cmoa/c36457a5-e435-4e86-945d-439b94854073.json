@@ -1,0 +1,39 @@
+{
+  "title": "We are Outside",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "powder coated steel",
+  "accession_number": "2004.34.1",
+  "id": "cmoa:things/c36457a5-e435-4e86-945d-439b94854073",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.0,
+  "item_height": 74.75,
+  "item_depth": 16.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12816",
+  "provenance_text": "Galerie Eva Presnebuber, Zurich",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29129&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c3e6e93-c250-47cf-a6da-4b825d4ad20a",
+      "party_type": "Person",
+      "full_name": "Martin Boyce",
+      "cited_name": "Boyce, Martin",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": "Glasgow (Glasgow, Scotland, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

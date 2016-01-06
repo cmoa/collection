@@ -1,0 +1,39 @@
+{
+  "title": "Roses and Red Kimono",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "85.18",
+  "id": "cmoa:things/9462db03-b84e-4768-b90a-149aae93a788",
+  "credit_line": "Purchase: gifts of Margarete Schultz and Benedict I. Lubell",
+  "date_acquired": "1985-06-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 74.625,
+  "item_height": 53.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025450",
+  "provenance_text": "Fischbach Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25109&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ed7c20b-d18c-4e10-a3bc-7f4d77227fe2",
+      "party_type": "Person",
+      "full_name": "Warren Brandt",
+      "cited_name": "Brandt, Warren",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Greensboro (Guilford county, North Carolina, United States)",
+      "death_place": "Sykesville, Maryland"
+    }
+  ]
+}

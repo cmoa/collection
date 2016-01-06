@@ -1,0 +1,49 @@
+{
+  "title": "Gibbs Temple V",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.23.4",
+  "id": "cmoa:things/745737f0-645c-4567-964b-bb4056d76de3",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-12-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029648",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/15653100-bc42-4d1a-bd34-4ce9f34cfca7",
+      "party_type": "Person",
+      "full_name": "James Gibbs",
+      "cited_name": "Gibbs, James",
+      "role": "architect",
+      "nationality": "British",
+      "birth_date": "1682-01-01",
+      "death_date": "1754-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

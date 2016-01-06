@@ -1,0 +1,63 @@
+{
+  "title": "Bust of Newton",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.7.A-B",
+  "id": "cmoa:things/c19dca3d-64e0-4356-b8bb-a068c71ce7af",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 18.0,
+  "item_depth": 9.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023527",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=548&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8682882-8880-4b7c-9c26-90322bf88039",
+      "party_type": "Person",
+      "full_name": "Josiah Wedgwood",
+      "cited_name": "Wedgwood, Josiah",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1730-01-01",
+      "death_date": "1795-01-01",
+      "birth_place": "Burslem, England",
+      "death_place": "Burslem, England"
+    },
+    {
+      "artist_id": "cmoa:parties/8af5a62d-47fa-4da5-8583-e8d7e423b421",
+      "party_type": "Person",
+      "full_name": "Thomas Bentley",
+      "cited_name": "Bentley, Thomas",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1730-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2a37856f-e0eb-45c0-80fa-ce251e292c25",
+      "party_type": "Collaboration",
+      "full_name": "Wedgwood and Bentley",
+      "cited_name": "Wedgwood and Bentley",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1769-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of Oliver Cromwell",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "watercolor on ivory; gold metal frame",
+  "accession_number": "64.13.10",
+  "id": "cmoa:things/fbd52b1f-82aa-4a75-a7c5-6a8396de4090",
+  "credit_line": "Gift of Miss Thompson, Mesdames Reed, Van Cleef, and Eddy in memory of Mrs. William Reed Thompson",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 2.875,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011763",
+  "provenance_text": "Miss Thompson; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1964.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73923&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32b47ed3-d330-4cd7-aa62-86ca2ca24486",
+      "party_type": "Person",
+      "full_name": "Mariano Nicolini",
+      "cited_name": "Nicolini, Mariano",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1769-01-01",
+      "death_date": null,
+      "birth_place": "Piacenza, Italy",
+      "death_place": null
+    }
+  ]
+}

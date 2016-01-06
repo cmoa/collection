@@ -1,0 +1,37 @@
+{
+  "title": "Vessel",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.10",
+  "id": "cmoa:things/db05de71-5056-4ae0-8d12-40b82687827b",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 17.5,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61764",
+  "provenance_text": "Purchased from the Habatat Gallery, Michigan 12/19/89",
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60056816-50e7-437c-bdda-7277d1501ddb",
+      "party_type": "Person",
+      "full_name": "Joel Philip Myers",
+      "cited_name": "Myers, Joel P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Patterson, New Jersey",
+      "death_place": null
+    }
+  ]
+}

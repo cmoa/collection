@@ -1,0 +1,54 @@
+{
+  "title": "Shepherd's Meal",
+  "creation_date": "1803",
+  "creation_date_earliest": "1803-01-01",
+  "creation_date_latest": "1803-01-01",
+  "medium": "mezzotint",
+  "accession_number": "19.1.120",
+  "id": "cmoa:things/6aa63cbc-d472-471b-b626-b692ecc8db10",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001885",
+  "provenance_text": "Mrs. Healsey, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111096&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99224&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caacabc4-6d59-48c0-8d04-a60606fd172e",
+      "party_type": "Person",
+      "full_name": "John Raphael Smith",
+      "cited_name": "Smith, John R.",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1752-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

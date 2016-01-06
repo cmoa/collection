@@ -1,0 +1,39 @@
+{
+  "title": "The Nativity",
+  "creation_date": "late 15th century",
+  "creation_date_earliest": "1444-12-23",
+  "creation_date_latest": "1490-12-23",
+  "medium": "engraving",
+  "accession_number": "74.7.213",
+  "id": "cmoa:things/b37064ae-3ce2-4c3e-be5a-98151a0c1b66",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 10.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017375",
+  "provenance_text": "Bequest of Charles J. Rosenbloom (Lugt Suppl. 633b), Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102149&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b38a76d2-9c58-44cf-a0e6-d9664f51d7ac",
+      "party_type": "Person",
+      "full_name": "Martin Schongauer",
+      "cited_name": "Schongauer, Martin",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1450-01-01",
+      "death_date": "1491-01-01",
+      "birth_place": "Colmar (Haut-Rhin, Alsace, France)",
+      "death_place": "Breisach am Rhein (Freiburg district, Baden-Württemberg, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "title": "Tennyson Vase",
+  "creation_date": "1867",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "SIlver and gilded silver with velvet",
+  "accession_number": "2007.57.A-.B",
+  "id": "cmoa:things/83db2db0-1775-4135-a7d0-8e27a7d7b052",
+  "credit_line": "Ailsa Mellon Bruce Fund and Berdan Memorial Trust Fund",
+  "date_acquired": "2007-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 42.5,
+  "item_depth": 13.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49918",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96257&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96258&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96269&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96270&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96271&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96273&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96275&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b8c901c-8b38-4245-a636-7d79be705091",
+      "party_type": "Person",
+      "full_name": "Henry Hugh Armstead",
+      "cited_name": "Armstead, Henry Hugh",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1828-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c6fb1a1f-1f89-436f-99a7-969adfc66fda",
+      "party_type": "Organization",
+      "full_name": "C. F. Hancock & Sons",
+      "cited_name": "C. F. Hancock & Sons",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1849-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

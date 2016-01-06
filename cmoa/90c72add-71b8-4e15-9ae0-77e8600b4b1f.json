@@ -1,0 +1,39 @@
+{
+  "title": "The Adoration of the Magi",
+  "creation_date": "1625",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1625-01-01",
+  "medium": "oil on panel",
+  "accession_number": "74.7.6",
+  "id": "cmoa:things/90c72add-71b8-4e15-9ae0-77e8600b4b1f",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.75,
+  "item_height": 15.75,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017600",
+  "provenance_text": "Mme. Vv Kuhn, Brunn, Czechoslovakia; (sale, Amsterdam (Fred. Muller), 4 June 1929, no. 3); P. de Boer, 1934; Charles J. Rosenbloom, Pittsburgh, c. 1946-1974; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8d55268-b952-4f35-8eee-59fbcb560bd3",
+      "party_type": "Person",
+      "full_name": "Pieter Brueghel The Younger",
+      "cited_name": "Brueghel The Younger, Pieter",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1564-01-01",
+      "death_date": "1638-01-01",
+      "birth_place": " Brussels (Bruxelles region, Belgium)",
+      "death_place": " Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Head of a Girl)",
+  "creation_date": "c. 1858",
+  "creation_date_earliest": "1853-01-01",
+  "creation_date_latest": "1863-01-01",
+  "medium": "graphite heightened with white on brown paper mounted on card",
+  "accession_number": "13.9.2",
+  "id": "cmoa:things/efd0ad31-fdc8-43b6-90e2-42a244aa0b23",
+  "credit_line": "Purchase",
+  "date_acquired": "1913-04-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.875,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000929",
+  "provenance_text": "Grace Edith Barnes, (executrix of artist's estate), New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48037&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c359036-66e7-40c2-a178-5d188e9af469",
+      "party_type": "Person",
+      "full_name": "John La Farge",
+      "cited_name": "La Farge, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1835-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "New York City",
+      "death_place": "Newport, Rhode Island"
+    }
+  ]
+}

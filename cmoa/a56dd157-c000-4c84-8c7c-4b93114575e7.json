@@ -1,0 +1,39 @@
+{
+  "title": "Watchtower",
+  "creation_date": "c. 1939-1940",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "wood, plastic, metal, and paint",
+  "accession_number": "82.23",
+  "id": "cmoa:things/a56dd157-c000-4c84-8c7c-4b93114575e7",
+  "credit_line": "Fine Arts Discretionary Fund",
+  "date_acquired": "1982-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.375,
+  "item_height": 23.062,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022297",
+  "provenance_text": "Estate of the artist; Zabriskie Gallery, New York, by 1982; Fine Arts Discretionary Fund, 1982",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107750&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5a9a895-f6db-42c4-b770-fa7abf730820",
+      "party_type": "Person",
+      "full_name": "Theodore Roszak",
+      "cited_name": "Roszak, Theodore",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Poznan (Wielkopolskie voivodship, Poland)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

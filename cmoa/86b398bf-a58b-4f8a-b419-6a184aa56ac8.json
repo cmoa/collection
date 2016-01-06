@@ -1,0 +1,39 @@
+{
+  "title": "Untitled III",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "painted wood",
+  "accession_number": "1997.83.2",
+  "id": "cmoa:things/86b398bf-a58b-4f8a-b419-6a184aa56ac8",
+  "credit_line": "Gift of B. Z. and Michael Schwartz",
+  "date_acquired": "1998-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.5,
+  "item_height": 18.875,
+  "item_depth": 16.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003499",
+  "provenance_text": "B. Z. And Michael Schwartz, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127814&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f873eb39-90cd-46c2-919b-b818bd7fbec7",
+      "party_type": "Person",
+      "full_name": "Chris MacDonald",
+      "cited_name": "MacDonald, Chris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "Lynn (Essex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

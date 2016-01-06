@@ -1,0 +1,39 @@
+{
+  "title": "Divergent Evolution 2",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.10",
+  "id": "cmoa:things/7c17d3a3-087d-4d6d-8452-0218be516acb",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 13.25,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=380",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11355&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6ef745f-b4ea-413f-8346-a3ff992843da",
+      "party_type": "Person",
+      "full_name": "Michael Glancy",
+      "cited_name": "Glancy, Michael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "USA, Michigan, Detroit",
+      "death_place": null
+    }
+  ]
+}

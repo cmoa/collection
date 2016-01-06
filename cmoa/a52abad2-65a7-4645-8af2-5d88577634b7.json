@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1937-1939",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "gelatin silver print (photogram)",
+  "accession_number": "84.44",
+  "id": "cmoa:things/a52abad2-65a7-4645-8af2-5d88577634b7",
+  "credit_line": "Gift of Virginia M. Zabriskie",
+  "date_acquired": "1984-06-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 4.25,
+  "item_height": 3.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024902",
+  "provenance_text": "Zabriskie Gallery, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113288&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5a9a895-f6db-42c4-b770-fa7abf730820",
+      "party_type": "Person",
+      "full_name": "Theodore Roszak",
+      "cited_name": "Roszak, Theodore",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Poznan (Wielkopolskie voivodship, Poland)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

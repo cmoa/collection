@@ -1,0 +1,39 @@
+{
+  "title": "Abandoned",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on panel",
+  "accession_number": "55.31",
+  "id": "cmoa:things/ed05c82d-f2a3-4d36-8a7b-211481c67393",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.5,
+  "item_height": 40.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009435",
+  "provenance_text": "Roger Dudant",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149924&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/167adf52-3e48-4423-bed5-2fdab33bdc10",
+      "party_type": "Person",
+      "full_name": "Roger Dudant",
+      "cited_name": "Dudant, Roger",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1929-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "porcelain",
+  "accession_number": "55.77.2",
+  "id": "cmoa:things/ef6f695d-5d32-411f-a869-264a074ae98f",
+  "credit_line": "Purchase: gift in memory of George H. Taber",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 11.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009599",
+  "provenance_text": "R. Stora and Company, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13313&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ba22b3-060e-4a3b-bd75-385716e77b3e",
+      "party_type": "Person",
+      "full_name": "unknown Venetian",
+      "cited_name": "unknown Venetian",
+      "role": null,
+      "nationality": "Venetian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

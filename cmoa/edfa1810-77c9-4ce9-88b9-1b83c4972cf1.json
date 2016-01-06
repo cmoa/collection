@@ -1,0 +1,39 @@
+{
+  "title": "Moonlight Sea",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.965",
+  "id": "cmoa:things/edfa1810-77c9-4ce9-88b9-1b83c4972cf1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 18.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029222",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan;  5/31/1968.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35771&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a860797-7308-4f20-ab45-997773e1ade7",
+      "party_type": "Person",
+      "full_name": "Maeda Toshiro",
+      "cited_name": "Maeda Toshiro",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Foolish Virgins Denied Because They Arrived Late",
+  "creation_date": "1606",
+  "creation_date_earliest": "1606-01-01",
+  "creation_date_latest": "1606-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.9",
+  "id": "cmoa:things/e5f7b410-de7e-40ca-9d45-9c4c18cd3c95",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005187",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102146&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ef68600-4822-43c5-a5b6-1d0a59b48180",
+      "party_type": "Person",
+      "full_name": "Jan Saenredam",
+      "cited_name": "Saenredam, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1607-01-01",
+      "birth_place": "Zaandam (North Holland, Netherlands)",
+      "death_place": " Assendelft (North Holland, Netherlands)"
+    }
+  ]
+}

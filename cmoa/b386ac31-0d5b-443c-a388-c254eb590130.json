@@ -1,0 +1,42 @@
+{
+  "title": "Stack Pot",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "stoneware with porcelain pellets and oxide glaze",
+  "accession_number": "93.34",
+  "id": "cmoa:things/b386ac31-0d5b-443c-a388-c254eb590130",
+  "credit_line": "Heinz Family Acquisition Fund",
+  "date_acquired": "1993-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 41.0,
+  "item_depth": 0.0,
+  "item_diameter": 11.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033589",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/954c23e6-e86f-46a4-bf60-a5da3cc1e546",
+      "party_type": "Person",
+      "full_name": "Peter Voulkos",
+      "cited_name": "Voulkos, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Bozeman, Montana",
+      "death_place": "Bowling Green, Ohio"
+    }
+  ]
+}

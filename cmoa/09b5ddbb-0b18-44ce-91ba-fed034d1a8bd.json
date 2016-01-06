@@ -1,0 +1,48 @@
+{
+  "title": "Tureen",
+  "creation_date": "c. 1760",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "tin-glazed earthenware with metallic oxide decoration",
+  "accession_number": "60.10.2.A-B",
+  "id": "cmoa:things/09b5ddbb-0b18-44ce-91ba-fed034d1a8bd",
+  "credit_line": "Purchase: gift of Sarah Mellon Scaife Foundation",
+  "date_acquired": "1960-02-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 13.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011150",
+  "provenance_text": "Rosenberg and Stiebel, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97509&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97510&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11747&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1976&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c6c223a-f186-42a3-b524-26a26b891f39",
+      "party_type": "Organization",
+      "full_name": "Niderviller Porcelain Manufactory",
+      "cited_name": "Niderviller Porcelain Manufactory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1754-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Carnegie Museum Poster",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "hand-colored offset poster",
+  "accession_number": "88.5",
+  "id": "cmoa:things/02f9f792-427a-4848-a63b-acf6af6bb9aa",
+  "credit_line": "Bechman Art Fund",
+  "date_acquired": "1988-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 50.312,
+  "item_height": 35.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026571",
+  "provenance_text": "Marian Goodman Gallery, New York, New York",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1bda41b5-acb2-416c-a10d-e4aedba5c978",
+      "party_type": "Person",
+      "full_name": "Lothar Baumgarten",
+      "cited_name": "Baumgarten, Lothar",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Rheinsberg (Potsdam district, Brandenburg, Germany)",
+      "death_place": null
+    }
+  ]
+}

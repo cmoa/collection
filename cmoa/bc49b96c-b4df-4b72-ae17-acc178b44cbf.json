@@ -1,0 +1,45 @@
+{
+  "title": "Standing Nude",
+  "creation_date": "c. 1906",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "oil on paper mounted on paper board",
+  "accession_number": "65.17.4",
+  "id": "cmoa:things/bc49b96c-b4df-4b72-ae17-acc178b44cbf",
+  "credit_line": "Purchased through the generosity of Mrs. Alan M. Scaife and family",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 23.75,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011877",
+  "provenance_text": "Edouard Vuillard [1868-1940]. Gaston Bernheim de Villers [1870-1953], Paris, France [1]; Bernheim Family Collection, Paris, France; M. Knoedler & Company, Inc., New York, NY; Grant J. Pick [1910-1963], Chicago, IL, until 1963; bequest to Art Institute of Chicago [1879-], Chicago, IL, 1963; (sold at Parke-Bernet Galleries, New York, NY, April 14, 1965, lot 79) [2]; purchased by Museum, May 1965 [3]. \nNOTES:1. Also referred to as Gaston de Villers, Gaston Bernheim-Jeune, and Gaston Bernheim.  2. Sale no. 2344, \"Impressionist and Modern Paintings, Sculptures, Drawings\" listed as \"Property of a Midwestern Educational Institution\" 3. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103540&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37480&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=240&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbe8bcac-78aa-4681-8d9e-2bd63de3c8a8",
+      "party_type": "Person",
+      "full_name": "Edouard Vuillard",
+      "cited_name": "Vuillard, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1868-11-11",
+      "death_date": "1940-06-21",
+      "birth_place": "Cuiseaux (Saône-et-Loire, Burgundy region, France)",
+      "death_place": "Baule, la (Loire-Atlantique, Pays de la Loire, France)"
+    }
+  ]
+}

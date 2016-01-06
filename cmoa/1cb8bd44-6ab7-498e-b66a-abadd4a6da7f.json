@@ -1,0 +1,39 @@
+{
+  "title": "Le rossignol (The Nightingale)",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "58.61",
+  "id": "cmoa:things/1cb8bd44-6ab7-498e-b66a-abadd4a6da7f",
+  "credit_line": "Charles J. Rosenbloom Purchase Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010899",
+  "provenance_text": "Rene Magritte",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99657&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/77617150-3bd0-400e-8a64-67f287ea275c",
+      "party_type": "Person",
+      "full_name": "René Magritte",
+      "cited_name": "Magritte, René",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1898-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Lessines (Province de Hainaut, Wallonia, Belgium)",
+      "death_place": "Schaerbeek (Bruxelles region, Belgium)"
+    }
+  ]
+}

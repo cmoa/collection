@@ -1,0 +1,39 @@
+{
+  "title": "(Carnegie Institute: Permanent Collection of Paintings, Gallery I)",
+  "creation_date": "1916 or later",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.84.54",
+  "id": "cmoa:things/2f580fb6-8466-430e-83b8-632e9a815c95",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-12-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.688,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024320",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11024&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d505d21-720d-4bb0-ad64-44ecd98754b9",
+      "party_type": "Person",
+      "full_name": "David J. Hess",
+      "cited_name": "Hess, David J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

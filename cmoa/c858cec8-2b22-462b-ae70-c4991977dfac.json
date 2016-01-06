@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh 2007",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "five-plate daguerreotype panorama",
+  "accession_number": "2009.12",
+  "id": "cmoa:things/c858cec8-2b22-462b-ae70-c4991977dfac",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 35.75,
+  "item_height": 12.75,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80684",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82735&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2518923b-3dbb-48b7-9edc-a770fb00c7a0",
+      "party_type": "Person",
+      "full_name": "Mike Robinson",
+      "cited_name": "Robinson, Mike",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

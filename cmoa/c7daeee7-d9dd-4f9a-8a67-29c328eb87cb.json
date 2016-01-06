@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "1750-1775",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "enamel on copper",
+  "accession_number": "70.32.1982.A-B",
+  "id": "cmoa:things/c7daeee7-d9dd-4f9a-8a67-29c328eb87cb",
+  "credit_line": "Bequest of Ailsa Mellon Bruce",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 12.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014153",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2826&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c24b3081-12ab-4188-87a7-befc9d2e6c2d",
+      "party_type": "Person",
+      "full_name": "unknown British",
+      "cited_name": "unknown British",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

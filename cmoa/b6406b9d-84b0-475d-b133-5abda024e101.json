@@ -1,0 +1,39 @@
+{
+  "title": "Head of a Bearded Man",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "2000.68",
+  "id": "cmoa:things/b6406b9d-84b0-475d-b133-5abda024e101",
+  "credit_line": "Gift of Leon and Jane Arkus",
+  "date_acquired": "2000-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 24.125,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004135",
+  "provenance_text": "The Donors, Gift of Leon and Jane Arkus, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37486&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

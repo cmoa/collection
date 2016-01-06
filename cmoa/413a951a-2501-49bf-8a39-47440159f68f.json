@@ -1,0 +1,39 @@
+{
+  "title": "Invitation; [document]",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "etching",
+  "accession_number": "93.176",
+  "id": "cmoa:things/413a951a-2501-49bf-8a39-47440159f68f",
+  "credit_line": "Gift of Graham Shearing",
+  "date_acquired": "1993-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033188",
+  "provenance_text": "Graham Shearing, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115885&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72469697-a6e8-4cb2-b930-bb886d130337",
+      "party_type": "Person",
+      "full_name": "Bertram Grosvenor Goodhue",
+      "cited_name": "Goodhue, Bertram G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

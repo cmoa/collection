@@ -1,0 +1,42 @@
+{
+  "title": "Jones and Laughlin Mill, Pittsburgh",
+  "creation_date": "c. 1925-1930",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.5.8",
+  "id": "cmoa:things/47c03eb0-bf53-483a-b4f7-6a32912c26dd",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 56.125,
+  "item_height": 41.25,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011097",
+  "provenance_text": "The artist, Johanna K. W. Hailman, Pittsburgh, until 1958; bequest to museum, 1959",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147683&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eaa0bbc2-5013-4c80-b484-f3029732c790",
+      "party_type": "Person",
+      "full_name": "Johanna K. Hailman",
+      "cited_name": "Hailman, Johanna K.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

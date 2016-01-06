@@ -1,0 +1,39 @@
+{
+  "title": "Rocky Coastline, New England",
+  "creation_date": "c. 1865",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "graphite and ink wash on paper",
+  "accession_number": "83.34",
+  "id": "cmoa:things/f7e60530-2c7a-4853-b52c-ede38e01bb11",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023678",
+  "provenance_text": "Davis and Langdale Company, Inc., New York; Gift of Robert S. Waters Charitable Trust",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25031&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ddaf4f2-8de5-4ef7-82b3-488e4c1e9f2b",
+      "party_type": "Person",
+      "full_name": "William Stanley Haseltine",
+      "cited_name": "Haseltine, William S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1835-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": " Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

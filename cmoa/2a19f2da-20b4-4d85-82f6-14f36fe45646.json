@@ -1,0 +1,39 @@
+{
+  "title": "Place of Sorrow",
+  "creation_date": "1943-1948",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "91.56.3",
+  "id": "cmoa:things/2a19f2da-20b4-4d85-82f6-14f36fe45646",
+  "credit_line": "Gift of Dr. and Mrs. Leonard Schwartz",
+  "date_acquired": "1992-01-23",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030066",
+  "provenance_text": "Dr. And Mrs. Leonard Schwartz, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113575&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d277c87-4174-4e29-b81b-08781f9b8ce0",
+      "party_type": "Person",
+      "full_name": "Bill Witt",
+      "cited_name": "Witt, Bill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": "Newark, New Jersey",
+      "death_place": null
+    }
+  ]
+}

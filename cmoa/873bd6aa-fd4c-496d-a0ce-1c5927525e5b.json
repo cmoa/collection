@@ -1,0 +1,51 @@
+{
+  "title": "The Hon. Sir George Wood, Knight",
+  "creation_date": "1824",
+  "creation_date_earliest": "1824-01-01",
+  "creation_date_latest": "1824-01-01",
+  "medium": "mezzotint",
+  "accession_number": "19.1.125",
+  "id": "cmoa:things/873bd6aa-fd4c-496d-a0ce-1c5927525e5b",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.625,
+  "item_height": 19.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001890",
+  "provenance_text": "Mrs. Heasley, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110921&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b20f67a-676c-4f8f-b61c-77000ba28425",
+      "party_type": "Person",
+      "full_name": "G. Hodgetts",
+      "cited_name": "Hodgetts, G.",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/24662baa-d742-4162-a015-3913ccfb8d3d",
+      "party_type": "Person",
+      "full_name": "James Lonsdale",
+      "cited_name": "Lonsdale, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1777-01-01",
+      "death_date": "1839-01-01",
+      "birth_place": "Lancaster (Lancashire, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

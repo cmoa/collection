@@ -1,0 +1,39 @@
+{
+  "title": "Pointed Rock by the Water",
+  "creation_date": "1660",
+  "creation_date_earliest": "1660-01-01",
+  "creation_date_latest": "1660-01-01",
+  "medium": "etching",
+  "accession_number": "16.26.2",
+  "id": "cmoa:things/eefc3ff9-54c4-4455-987a-432681200666",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001163",
+  "provenance_text": "Frederick Keppel & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102177&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11bfef5d-c8f8-42d7-adb6-7187afed37dc",
+      "party_type": "Person",
+      "full_name": "Allart van Everdingen",
+      "cited_name": "Everdingen, Allart van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1621-01-01",
+      "death_date": "1675-01-01",
+      "birth_place": "Alkmaar (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

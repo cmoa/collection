@@ -1,0 +1,42 @@
+{
+  "title": "Sadak in Search of the Waters of Oblivion",
+  "creation_date": "1860",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "graphite on cardboard",
+  "accession_number": "07.10",
+  "id": "cmoa:things/505b2afa-a4c8-4b3c-86fb-f0f8f01716d1",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-01-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000262",
+  "provenance_text": "Caroline Rimmer, Museum of Fine Arts, Boston; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108428&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48032&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3501ca84-08e9-4ed6-a7f9-b974d9e42a95",
+      "party_type": "Person",
+      "full_name": "William Rimmer",
+      "cited_name": "Rimmer, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": "Liverpool urban district (England, United Kingdom)",
+      "death_place": "Massachusetts (United States)"
+    }
+  ]
+}

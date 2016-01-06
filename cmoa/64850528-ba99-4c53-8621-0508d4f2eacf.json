@@ -1,0 +1,42 @@
+{
+  "title": "Resting within the Shadows",
+  "creation_date": "c. 1884-1887",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "06.19.17",
+  "id": "cmoa:things/64850528-ba99-4c53-8621-0508d4f2eacf",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000182",
+  "provenance_text": "Theodore Robinson [1852-1896]. Charles Scribner's Sons [1846-], New York, by 1906; purchased by Museum, 1906.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114952&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107633&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f15f62c-5022-4887-8d5f-50b54289d850",
+      "party_type": "Person",
+      "full_name": "Theodore Robinson",
+      "cited_name": "Robinson, Theodore",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "Irasburg (Orleans county, Vermont, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

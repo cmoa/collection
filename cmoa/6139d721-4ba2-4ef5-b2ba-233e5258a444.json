@@ -1,0 +1,39 @@
+{
+  "title": "Night in the Square",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.24.6",
+  "id": "cmoa:things/6139d721-4ba2-4ef5-b2ba-233e5258a444",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 46.5,
+  "item_height": 29.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009424",
+  "provenance_text": "Galerie Craven, Paris, France",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23534&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32412931-218e-435b-ad56-c3c9db2debb8",
+      "party_type": "Person",
+      "full_name": "Sugaï Kumi",
+      "cited_name": "Sugaï Kumi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1919-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Kobe (Hyogo prefecture, Kinki, Japan)",
+      "death_place": "Paris"
+    }
+  ]
+}

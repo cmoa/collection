@@ -1,0 +1,37 @@
+{
+  "title": "Monkey",
+  "creation_date": null,
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "81.85",
+  "id": "cmoa:things/950c9755-27b5-4657-b0b3-7a22bc2dcaac",
+  "credit_line": "Gift of Mr. and Mrs. James M. Walton",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 29.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022086",
+  "provenance_text": "Gift of Mr. and Mrs. James M. Walton, Pittsburgh, PA, 1981.",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23887a54-449f-4a28-8f3b-0981424e16b8",
+      "party_type": "Person",
+      "full_name": "Sidney Nolan",
+      "cited_name": "Nolan, Sidney",
+      "role": null,
+      "nationality": "Australian",
+      "birth_date": "1917-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Melbourne (Victoria, Australia)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

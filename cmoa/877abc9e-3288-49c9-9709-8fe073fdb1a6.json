@@ -1,0 +1,51 @@
+{
+  "title": "Ewer",
+  "creation_date": "1892",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "glazed pottery",
+  "accession_number": "81.94",
+  "id": "cmoa:things/877abc9e-3288-49c9-9709-8fe073fdb1a6",
+  "credit_line": "Gift of Dr. Morris Saffron",
+  "date_acquired": "1981-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.938,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 6.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022217",
+  "provenance_text": "Jordan-Volpe Gallery, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3496&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b466dcd1-cc34-4e65-b35d-613d8f881eb6",
+      "party_type": "Person",
+      "full_name": "Artus Van Briggle",
+      "cited_name": "Briggle, Artus Van",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Felicity, Ohio",
+      "death_place": "Colorodo Springs, CO"
+    },
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

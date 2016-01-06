@@ -1,0 +1,39 @@
+{
+  "title": "Souvenir",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "27.8.3",
+  "id": "cmoa:things/a83b30a7-f61c-415f-8144-fcf5001c8e07",
+  "credit_line": "Bequest of Henry Buhl, Jr.",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 27.0,
+  "item_height": 45.5,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006090",
+  "provenance_text": "Adolphe-William Bouguereau [1825-1905]; Knoedler & Co. or Tooth & Sons? [1]. Henry Buhl, Jr. [1848-1927], Pittsburgh, PA, until June 11, 1927; Estate of Henry Buhl, Jr., until November 1927; bequest to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] This information comes from \"William Bouguereau: Catalog Raisonné of his Painted Work.\" page 304, where this work is listed as 1895/18. Work on determining the exact dealer is ongoing.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10181&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/646d4da4-e1ef-47fa-8bf6-7451c8fcf825",
+      "party_type": "Person",
+      "full_name": "Adolphe-William Bouguereau",
+      "cited_name": "Bouguereau, Adolphe-William",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1825-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "La Rochelle (Charente-Maritime, Poitou-Charentes, France)",
+      "death_place": "La Rochelle (Charente-Maritime, Poitou-Charentes, France)"
+    }
+  ]
+}

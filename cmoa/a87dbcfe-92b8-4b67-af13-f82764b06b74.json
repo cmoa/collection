@@ -1,0 +1,39 @@
+{
+  "title": "Nein",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "collage and mixed media on paper",
+  "accession_number": "77.89.12",
+  "id": "cmoa:things/a87dbcfe-92b8-4b67-af13-f82764b06b74",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.25,
+  "item_height": 29.0,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019149",
+  "provenance_text": "James L. Winokur, Pittsburgh, PA",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121481&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40e9ba97-9046-40dd-a0b7-2603ad399f81",
+      "party_type": "Person",
+      "full_name": "Lucebert",
+      "cited_name": "Lucebert",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1924-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Alkmaar (North Holland, Netherlands)"
+    }
+  ]
+}

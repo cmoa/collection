@@ -1,0 +1,42 @@
+{
+  "title": "The French Portfolio: Trompe L'Oeil Park",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "83.61.2",
+  "id": "cmoa:things/4dcfcdef-90df-4910-a263-430815bb17fe",
+  "credit_line": "Gift of Dr. Herman Babad",
+  "date_acquired": "1983-10-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023873",
+  "provenance_text": "Metropolitan Image Management, Inc",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99208&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98671&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a4a1dc9-ab9f-4f7d-b72a-c59d8e40ed77",
+      "party_type": "Person",
+      "full_name": "Joel Meyerowitz",
+      "cited_name": "Meyerowitz, Joel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

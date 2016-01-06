@@ -1,0 +1,42 @@
+{
+  "title": "Cruxes",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "salt, lead  (3 pieces)",
+  "accession_number": "89.3.A-C",
+  "id": "cmoa:things/a69f41b7-608f-4b0f-9f05-919f6aa07002",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1989-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 3.0,
+  "item_diameter": 8.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029286",
+  "provenance_text": "Milford Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149925&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149926&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8de9107c-470c-4712-98e6-a00b331bd93a",
+      "party_type": "Person",
+      "full_name": "Dana Duff",
+      "cited_name": "Duff, Dana",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

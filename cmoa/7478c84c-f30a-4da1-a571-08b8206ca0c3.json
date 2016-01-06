@@ -1,0 +1,39 @@
+{
+  "title": "Fall-front desk",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oak",
+  "accession_number": "83.55.1",
+  "id": "cmoa:things/7478c84c-f30a-4da1-a571-08b8206ca0c3",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1983-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 39.0,
+  "item_height": 44.0,
+  "item_depth": 17.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023848",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6768&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9a1ef7b-fe47-42c9-b2e5-9407c4554b88",
+      "party_type": "Organization",
+      "full_name": "Roycroft Studios",
+      "cited_name": "Roycroft Studios",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Balzac",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "painted mahogany",
+  "accession_number": "83.15",
+  "id": "cmoa:things/55c74fcf-5cb9-45ff-b2dc-81793fe140c5",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Richard Manney, by exchange, and A. W. Mellon Acquisition Fund",
+  "date_acquired": "1983-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.0,
+  "item_height": 71.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023602",
+  "provenance_text": "Robert Bourdon",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25028&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b19b897-fcde-49df-b303-750022fc9a9b",
+      "party_type": "Person",
+      "full_name": "Robert Bourdon",
+      "cited_name": "Bourdon, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "West Chester (Chester county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

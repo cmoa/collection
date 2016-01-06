@@ -1,0 +1,39 @@
+{
+  "title": "Man Putting on Boots",
+  "creation_date": "1856-1860",
+  "creation_date_earliest": "1856-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.37.1",
+  "id": "cmoa:things/13928f0a-48c0-4304-b33c-817298c41f2b",
+  "credit_line": "Purchase: gift of Mrs. James H. Beal",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 11.0,
+  "item_height": 14.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009450",
+  "provenance_text": "Henry Rees Scully [1852-1932], Pittsburgh, by 1932; Margaret Jackson Townsend Scully [1881-1953], Pittsburgh; Donald Cadwalader Scully, her brother [1895-1975], Pittsburgh, by 1955; purchased by Museum, 1955.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113172&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

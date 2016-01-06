@@ -1,0 +1,47 @@
+{
+  "title": "House; [floor plan] (en suite with 92.3.157)",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "pencil on tracing paper",
+  "accession_number": "92.3.156",
+  "id": "cmoa:things/d5d55401-2481-409e-be8a-125d709bd426",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032161",
+  "provenance_text": "F.P. Wood-Books, ME, Saco",
+  "classification": "drawings and watercolors",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/671c5523-aa55-4b2f-bd94-5f6c2f0ec1aa",
+      "party_type": "Person",
+      "full_name": "C.W. Allen",
+      "cited_name": "Allen, C.W.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f6ceb4a4-be08-4579-8bee-a372d05bfde8",
+      "party_type": "Person",
+      "full_name": "Frederick P. L. Mills",
+      "cited_name": "Mills, Frederick P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

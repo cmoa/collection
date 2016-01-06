@@ -1,0 +1,39 @@
+{
+  "title": "Windy Day",
+  "creation_date": "1950s",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "79.24.3",
+  "id": "cmoa:things/2e06b348-b60e-4a38-9b78-c55658b85a9e",
+  "credit_line": "Bequest of Felicia Meyer Marsh",
+  "date_acquired": "1979-10-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 28.125,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020271",
+  "provenance_text": "Felicia Meyer Marsh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149757&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba6f52a-093a-4c97-b05b-5cf31bdabfbe",
+      "party_type": "Person",
+      "full_name": "Reginald Marsh",
+      "cited_name": "Marsh, Reginald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dorset (Bennington county, Vermont, United States)"
+    }
+  ]
+}

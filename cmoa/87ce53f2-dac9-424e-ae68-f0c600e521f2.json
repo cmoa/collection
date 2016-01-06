@@ -1,0 +1,39 @@
+{
+  "title": "Don't Be Cruel",
+  "creation_date": "1985-1986",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.20",
+  "id": "cmoa:things/87ce53f2-dac9-424e-ae68-f0c600e521f2",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1986-06-12",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 116.5,
+  "item_height": 115.0,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026021",
+  "provenance_text": "Paula Cooper Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh;  The Henry L. Hillman Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10210&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8e63e7f0-2fd2-47c0-89e8-8473c365ac41",
+      "party_type": "Person",
+      "full_name": "Elizabeth Murray",
+      "cited_name": "Murray, Elizabeth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": "2007-08-12",
+      "birth_place": "Chicago (Cook county, Illinois, United States)",
+      "death_place": "New York State (United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dead Sea",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "62.18",
+  "id": "cmoa:things/553c14e5-b0bc-45f7-9076-391058d33111",
+  "credit_line": "Gift of Alexander R. Raydon",
+  "date_acquired": "1962-07-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011513",
+  "provenance_text": "Mordechai Avniel",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99770&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e37322ff-b383-4ebf-8f35-67947c9799bb",
+      "party_type": "Person",
+      "full_name": "Mordechai Avniel",
+      "cited_name": "Avniel, Mordechai",
+      "role": null,
+      "nationality": "Israeli",
+      "birth_date": "1900-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

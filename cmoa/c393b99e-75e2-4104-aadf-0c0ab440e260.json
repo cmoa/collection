@@ -1,0 +1,39 @@
+{
+  "title": "Joan of Arc",
+  "creation_date": "modeled c. 1910-1915, cast after 1917",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "bronze",
+  "accession_number": "38.3",
+  "id": "cmoa:things/c393b99e-75e2-4104-aadf-0c0ab440e260",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1938-06-16",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 11.5,
+  "item_height": 50.5,
+  "item_depth": 27.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007058",
+  "provenance_text": "Anna Vaughn Hyatt Huntington [1876-1973], until 1938. Gift to Museum, 1938 [1]. \nNOTES:1. From Gorham Company [1831-2005], Providence, RI.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135627&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd0c15a9-dd5a-40f0-9cea-0dac2b31f9fc",
+      "party_type": "Person",
+      "full_name": "Anna Vaughn Hyatt Huntington",
+      "cited_name": "Huntington, Anna V. H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Cambridge (Worcester county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

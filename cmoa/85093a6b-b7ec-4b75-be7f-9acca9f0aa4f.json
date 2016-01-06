@@ -1,0 +1,51 @@
+{
+  "title": "Doge Desk Lamp for Signing Decrees",
+  "creation_date": "c. 1961",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "glass, blown; and brass plated bronze",
+  "accession_number": "2004.40",
+  "id": "cmoa:things/85093a6b-b7ec-4b75-be7f-9acca9f0aa4f",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12017",
+  "provenance_text": "Lamp was consigned to Sotheby's by artist, Thomas Stearns, and has been in his collection since it was made.  It was a prototype made for Venini but never put into production as it would have been too expensive to make.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35351&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74bff88f-fd4e-42ef-b660-9820ee80e2ab",
+      "party_type": "Person",
+      "full_name": "Thomas Stearns",
+      "cited_name": "Stearns, Thomas",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Oklahoma City, OK",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c5d08c0-e7dd-4e76-a08d-7f702956c789",
+      "party_type": "Organization",
+      "full_name": "Venini & C.",
+      "cited_name": "Venini & C.",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1929-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

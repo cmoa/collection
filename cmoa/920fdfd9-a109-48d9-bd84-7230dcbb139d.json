@@ -1,0 +1,42 @@
+{
+  "title": "The Woman with the Pear",
+  "creation_date": "1651",
+  "creation_date_earliest": "1651-01-01",
+  "creation_date_latest": "1651-01-01",
+  "medium": "etching and drypoint",
+  "accession_number": "2004.54",
+  "id": "cmoa:things/920fdfd9-a109-48d9-bd84-7230dcbb139d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2004-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12847",
+  "provenance_text": "Alexander C. Groome, Philadelphia",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115435&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102170&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/490e7044-5007-4de0-8ac0-12ba4d7f7689",
+      "party_type": "Person",
+      "full_name": "Ferdinand Bol",
+      "cited_name": "Bol, Ferdinand",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1616-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": "Dordrecht (South Holland, Netherlands)",
+      "death_place": "Amsterdam"
+    }
+  ]
+}

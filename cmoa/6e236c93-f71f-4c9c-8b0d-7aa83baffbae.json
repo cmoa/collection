@@ -1,0 +1,39 @@
+{
+  "title": "Hartwig House, Truro",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2007.51.64",
+  "id": "cmoa:things/6e236c93-f71f-4c9c-8b0d-7aa83baffbae",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.125,
+  "item_height": 20.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49045",
+  "provenance_text": "Grapestake Gallery (5/28/80)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98680&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a4a1dc9-ab9f-4f7d-b72a-c59d8e40ed77",
+      "party_type": "Person",
+      "full_name": "Joel Meyerowitz",
+      "cited_name": "Meyerowitz, Joel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

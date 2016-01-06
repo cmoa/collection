@@ -1,0 +1,39 @@
+{
+  "title": "Passed By",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "Inkjet print",
+  "accession_number": "2013.8.7",
+  "id": "cmoa:things/e24a8688-cb35-4359-9504-e9ad5814c6bf",
+  "credit_line": "Gift of The Heinz Endowments",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93610",
+  "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106775&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24f62098-97c1-43c2-849d-991d113119f1",
+      "party_type": "Person",
+      "full_name": "Kenneth Neely",
+      "cited_name": "Neely, Kenneth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1971-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

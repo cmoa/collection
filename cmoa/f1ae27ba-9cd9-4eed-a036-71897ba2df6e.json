@@ -1,0 +1,39 @@
+{
+  "title": "No Title (Seeing it Wasn't)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "Pen and ink on paper",
+  "accession_number": "2006.22",
+  "id": "cmoa:things/f1ae27ba-9cd9-4eed-a036-71897ba2df6e",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2006-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.625,
+  "item_height": 36.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=22663",
+  "provenance_text": "Regen Projects, Los Angeles, California",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49989&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0737d2a-5354-4370-8b2a-e3196c9313bd",
+      "party_type": "Person",
+      "full_name": "Raymond Pettibon",
+      "cited_name": "Pettibon, Raymond",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "Tuscon, Arizona",
+      "death_place": null
+    }
+  ]
+}

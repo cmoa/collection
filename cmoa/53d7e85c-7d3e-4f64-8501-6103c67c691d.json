@@ -1,0 +1,37 @@
+{
+  "title": "Cock",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "color lithograph",
+  "accession_number": "53.14",
+  "id": "cmoa:things/53d7e85c-7d3e-4f64-8501-6103c67c691d",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009134",
+  "provenance_text": "Andre Masson",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5d505ac-bb32-4b42-a92e-f864cd8f0241",
+      "party_type": "Person",
+      "full_name": "André Masson",
+      "cited_name": "Masson, André",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1896-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Balagne (Haute-Corse, Corsica, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

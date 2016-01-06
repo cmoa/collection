@@ -1,0 +1,39 @@
+{
+  "title": "Chair",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "walnut and leather",
+  "accession_number": "1999.9",
+  "id": "cmoa:things/0e850de4-8a11-467d-b0ca-295e7c4f3dc2",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1999-04-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 27.75,
+  "item_height": 67.5,
+  "item_depth": 22.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003962",
+  "provenance_text": "H. Blairman & Sons, London, England",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8747&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b939213-b02a-4002-98a9-c4eadf5030af",
+      "party_type": "Person",
+      "full_name": "G. Fisseux",
+      "cited_name": "Fisseux, G.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1893-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

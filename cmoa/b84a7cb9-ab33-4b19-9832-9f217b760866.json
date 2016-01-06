@@ -1,0 +1,39 @@
+{
+  "title": "Crescent Moon",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "73.15",
+  "id": "cmoa:things/b84a7cb9-ab33-4b19-9832-9f217b760866",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus, in honor of the Sarah Scaife Gallery",
+  "date_acquired": "1973-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 48.25,
+  "item_height": 26.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016629",
+  "provenance_text": "Bernard Danenberg Galleries, New York, by 1972; Mr. and Mrs. Leon Anthony Arkus, Pittsburgh, 1972; gift to museum in honor of the Sarah Scaife Gallery, 1973",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149759&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ea4ec0a3-98e7-41f8-9123-39f76894b044",
+      "party_type": "Person",
+      "full_name": "Homer D. Martin",
+      "cited_name": "Martin, Homer D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1897-01-01",
+      "birth_place": "Albany (Albany county, New York state, United States)",
+      "death_place": "Saint Paul (Ramsey county, Minnesota, United States)"
+    }
+  ]
+}

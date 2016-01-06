@@ -1,0 +1,39 @@
+{
+  "title": "The Apple Pickers",
+  "creation_date": "no date",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "Two types of charcoal heightened with white on wove paper",
+  "accession_number": "76.49.3",
+  "id": "cmoa:things/40b0b051-61d3-4e59-8d05-cd33e63d277d",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018146",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23159&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/63c0c63b-3876-4410-abcf-cb11eca54e2d",
+      "party_type": "Person",
+      "full_name": "Eugène Louis Boudin",
+      "cited_name": "Boudin, Eugène Louis",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-07-12",
+      "death_date": "1898-08-08",
+      "birth_place": "Honfleur (Calvados, Basse-Normandie, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

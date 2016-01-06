@@ -1,0 +1,45 @@
+{
+  "title": "Miniature Portrait of Thomas Jefferson (1743-1826)",
+  "creation_date": "c. 1800-1819",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "oil on paper; gilt wood frame",
+  "accession_number": "27.10.111",
+  "id": "cmoa:things/a87970cc-741c-4429-a60d-e6b2f375a7a9",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 6.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005590",
+  "provenance_text": "Charles Henry Hart [1847-1918], Philadelphia, PA; George S. Palmer, New London, CT; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, October 9, 1922; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73541&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73543&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73542&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f02d8670-6aff-4252-ba42-827aecfa3df5",
+      "party_type": "Person",
+      "full_name": "Robert Field",
+      "cited_name": "Field, Robert",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1819-01-01",
+      "birth_place": "Gloucestershire (England, United Kingdom)",
+      "death_place": " Kingston (Kingston parish, Surrey, Jamaica)"
+    }
+  ]
+}

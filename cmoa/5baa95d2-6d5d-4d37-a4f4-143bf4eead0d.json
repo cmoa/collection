@@ -1,0 +1,39 @@
+{
+  "title": "Theme Song",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "video; black and white, sound; 33:15 min",
+  "accession_number": "92.112.1",
+  "id": "cmoa:things/5baa95d2-6d5d-4d37-a4f4-143bf4eead0d",
+  "credit_line": "Video Purchase Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Film and Video",
+  "physical_location": "Not on View",
+  "item_width": 0.75,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030161",
+  "provenance_text": "Electronic Arts Intermix, New York, NY",
+  "classification": "Video",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a7d1442a-8ca5-4cb3-8f27-da26d8bbe0fd",
+      "party_type": "Person",
+      "full_name": "Vito Acconci",
+      "cited_name": "Acconci, Vito",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "USA, New York, New York",
+      "death_place": null
+    }
+  ]
+}

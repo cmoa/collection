@@ -1,0 +1,39 @@
+{
+  "title": "Umbria #1",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "oil on linen",
+  "accession_number": "2008.48.2",
+  "id": "cmoa:things/03fdb56d-f8bf-442e-84eb-7edc42445257",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2008-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.75,
+  "item_height": 36.375,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=733",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67020&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f9348a2-c992-4cb5-8cab-11d99611f125",
+      "party_type": "Person",
+      "full_name": "Philip Pearlstein",
+      "cited_name": "Pearlstein, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

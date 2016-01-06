@@ -1,0 +1,39 @@
+{
+  "title": "Robin",
+  "creation_date": "c. 1940-1941",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "oil on board",
+  "accession_number": "93.189.33",
+  "id": "cmoa:things/2d478c84-2e89-472b-ba77-f05a30b864a3",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 16.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033314",
+  "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh PA; bequest to museum, February 1994",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13820&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6119bdab-2c33-4f8d-b343-489c96571872",
+      "party_type": "Person",
+      "full_name": "Marsden Hartley",
+      "cited_name": "Hartley, Marsden",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

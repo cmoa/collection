@@ -1,0 +1,63 @@
+{
+  "title": "Evening View of the Eight Famous Sites at Kanazawa in Musashino Prefecture (Buyō Kanazawa hasshō yakei)",
+  "creation_date": "1857",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1857-01-01",
+  "medium": "color woodblock print (oban, triptych)",
+  "accession_number": "18.14.10",
+  "id": "cmoa:things/6c0f10f3-a0f9-4e2f-86b9-3b4a46ae8d86",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.25,
+  "item_height": 13.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001677",
+  "provenance_text": "Yamanaka & Company, New York, 1918",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118356&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118357&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118358&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118359&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24320&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/0894c24a-2711-4587-95e4-d8556d1ab7fb",
+      "party_type": "Person",
+      "full_name": "Taheiji Okasawaya",
+      "cited_name": "Taheiji Okasawaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

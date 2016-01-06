@@ -1,0 +1,39 @@
+{
+  "title": "Boston Massacre",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "Silkscreen",
+  "accession_number": "79.73.3.8",
+  "id": "cmoa:things/42a04a99-1e68-4da5-99dc-76b865ea0115",
+  "credit_line": "Gift of Samuel E. Hunter",
+  "date_acquired": "1980-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.375,
+  "item_height": 19.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020941",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113836&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd4166bf-5697-4eda-9765-22fe5a0b255e",
+      "party_type": "Person",
+      "full_name": "Larry Rivers",
+      "cited_name": "Rivers, Larry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Bronx (New York City, New York State, United States)",
+      "death_place": "Southampton (Suffolk county, New York state, United State)"
+    }
+  ]
+}

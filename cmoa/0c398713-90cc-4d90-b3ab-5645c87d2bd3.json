@@ -1,0 +1,39 @@
+{
+  "title": "Miniature portrait of a Man in 17th-century dress",
+  "creation_date": null,
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1834-01-01",
+  "medium": "enamel on copper; gold frame",
+  "accession_number": "27.10.124",
+  "id": "cmoa:things/0c398713-90cc-4d90-b3ab-5645c87d2bd3",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.75,
+  "item_height": 2.5,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005601",
+  "provenance_text": "(Sold at Duveen Brothers, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, October 31, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73568&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/911a4dbd-0322-4cd1-b296-9473cdd61861",
+      "party_type": "Person",
+      "full_name": "William Russell Birch",
+      "cited_name": "Birch, William R.",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1755-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": "Warwickshire (England, United Kingdom)",
+      "death_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

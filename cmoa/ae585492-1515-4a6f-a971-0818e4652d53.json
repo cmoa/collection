@@ -1,0 +1,39 @@
+{
+  "title": "Sketch",
+  "creation_date": "January 1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "2013.64.1",
+  "id": "cmoa:things/ae585492-1515-4a6f-a971-0818e4652d53",
+  "credit_line": "Gift of Thomas and Donna Weaverling Daley",
+  "date_acquired": "2013-12-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102749",
+  "provenance_text": "Collection of Thomas and Donna Daley (son of the artist)",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125910&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/92d34b9d-6cdc-4386-9666-7116df938735",
+      "party_type": "Person",
+      "full_name": "William Daley",
+      "cited_name": "Daley, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

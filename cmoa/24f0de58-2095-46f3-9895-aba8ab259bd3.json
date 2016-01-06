@@ -1,0 +1,39 @@
+{
+  "title": "Settling Day at Tattersall's",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "engraving",
+  "accession_number": "72.14.16.2",
+  "id": "cmoa:things/24f0de58-2095-46f3-9895-aba8ab259bd3",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016326",
+  "provenance_text": "Robert S. Waters Estate, Johnstown, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118726&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c24b3081-12ab-4188-87a7-befc9d2e6c2d",
+      "party_type": "Person",
+      "full_name": "unknown British",
+      "cited_name": "unknown British",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Three Sisters",
+  "creation_date": "c. 1868",
+  "creation_date_earliest": "1863-01-01",
+  "creation_date_latest": "1873-01-01",
+  "medium": "etching",
+  "accession_number": "16.38.3",
+  "id": "cmoa:things/fb86402f-6748-4c6a-aa71-60b6bfbdf65d",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001269",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105232&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Watch, Musical",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "metal",
+  "accession_number": "27.10.870",
+  "id": "cmoa:things/cab49bc4-0024-4362-9408-630f220130c9",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.188,
+  "item_height": 1.625,
+  "item_depth": 0.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005987",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2765&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59d018b5-8fd4-4764-b686-cb8f16b8769c",
+      "party_type": "Person",
+      "full_name": "unknown",
+      "cited_name": "unknown",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

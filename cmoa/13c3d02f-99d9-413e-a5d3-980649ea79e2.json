@@ -1,0 +1,39 @@
+{
+  "title": "India No.1",
+  "creation_date": "1854",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2009.73.17",
+  "id": "cmoa:things/13c3d02f-99d9-413e-a5d3-980649ea79e2",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88854",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111658&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7daa61e0-de91-4edd-96ec-654d4a2dd870",
+      "party_type": "Person",
+      "full_name": "Joseph Nash",
+      "cited_name": "Nash, Joseph",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1808-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": "Great Marlow, England",
+      "death_place": null
+    }
+  ]
+}

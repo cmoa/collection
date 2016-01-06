@@ -1,0 +1,42 @@
+{
+  "title": "Bottle",
+  "creation_date": "1911-1937",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "glass",
+  "accession_number": "71.38.7.A-B",
+  "id": "cmoa:things/d50e6d17-9369-4d29-94cc-ce2b7b6ab364",
+  "credit_line": "Gift of Mlle. Florence Marinot",
+  "date_acquired": "1971-10-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 10.563,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016197",
+  "provenance_text": "Florence Marinot, Troyes Aube, France",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97983&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=750&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b6ef202-2e09-4f1d-8b6b-c24b7e0b16a6",
+      "party_type": "Person",
+      "full_name": "Maurice Marinot",
+      "cited_name": "Marinot, Maurice",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1882-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Troyes, France",
+      "death_place": "Troyes, France"
+    }
+  ]
+}

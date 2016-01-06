@@ -1,0 +1,39 @@
+{
+  "title": "Painting No. 47",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.24.2",
+  "id": "cmoa:things/e5ee70b4-3b23-48ea-acbc-993aa7eee1ef",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.875,
+  "item_height": 45.375,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009414",
+  "provenance_text": "Galerie Craven, Paris, France",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8fed7bc9-258a-408e-9140-7d6c4eadf38b",
+      "party_type": "Person",
+      "full_name": "Jacques Doucet",
+      "cited_name": "Doucet, Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1924-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Boulougne",
+      "death_place": "Paris"
+    }
+  ]
+}

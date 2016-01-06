@@ -1,0 +1,39 @@
+{
+  "title": "Enchantment",
+  "creation_date": "c. 1926",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "73.53",
+  "id": "cmoa:things/30542612-dea9-4e26-b721-5dcb4d76007d",
+  "credit_line": "Gift of the Estate of Louis Ritman in memory of the artist's mother, Rebecca Ritman",
+  "date_acquired": "1973-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 58.625,
+  "item_height": 46.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016856",
+  "provenance_text": "Louis Ritman [1889-1963], until 1963; Estate of Louis Ritman, until 1973; gift to Museum, in 1973 [1]. \nNOTES:1. Acquired through Mrs. Marguerita Ritman.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107698&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a699b454-af28-40bc-95d8-f8a81b662766",
+      "party_type": "Person",
+      "full_name": "Louis Ritman",
+      "cited_name": "Ritman, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "Chmel'nickij oblast (Ukraine)",
+      "death_place": "Winona (Winona county, Minnesota, United States)"
+    }
+  ]
+}

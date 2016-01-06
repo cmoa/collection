@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of the Artist and His Wife",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "51.6",
+  "id": "cmoa:things/bdccccbe-3b80-4d9c-bc52-6fbab3a8cbc5",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1951-05-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 27.875,
+  "item_height": 20.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009038",
+  "provenance_text": "Weyhe Gallery, New York, NY, 1926. G. David Thompson, Pittsburgh, PA, by December 1950 [1]; his gift to Museum, May 1951.\n\nNotes:\n[1]. See correspondence in curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149582&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f698131-6a61-48a8-a293-085d94ab5c19",
+      "party_type": "Person",
+      "full_name": "Vincent Canadé",
+      "cited_name": "Canadé, Vincent",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Italy",
+      "death_place": "New York City"
+    }
+  ]
+}

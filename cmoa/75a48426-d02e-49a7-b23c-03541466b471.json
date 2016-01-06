@@ -1,0 +1,39 @@
+{
+  "title": "Stool",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "Bilanga wood with sparterie (riveted leather straps)",
+  "accession_number": "2010.23",
+  "id": "cmoa:things/75a48426-d02e-49a7-b23c-03541466b471",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 19.75,
+  "item_depth": 14.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91826",
+  "provenance_text": "Galerie Historismus, Brussels, Belgium.\nPrivate art dealer, Brussels, Belgium.\nPrivate collection, Belgium.\nDesigned and executed for the Peeters house and pharmacy, rue Lebeau, Ixelles, Belgium, 1896.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100389&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/374743ac-26fb-4355-b9a9-3cb53e540bf9",
+      "party_type": "Person",
+      "full_name": "Paul Hankar",
+      "cited_name": "Hankar, Paul",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1859-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

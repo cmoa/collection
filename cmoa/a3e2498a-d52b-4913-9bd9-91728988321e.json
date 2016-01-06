@@ -1,0 +1,51 @@
+{
+  "title": "Cornice from Carnegie Institute",
+  "creation_date": "c. 1904-1907",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "copper",
+  "accession_number": "79.18.5",
+  "id": "cmoa:things/a3e2498a-d52b-4913-9bd9-91728988321e",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 63.0,
+  "item_height": 37.0,
+  "item_depth": 18.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020245",
+  "provenance_text": "Carnegie Institute Building, PA, Pittsburgh",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13205&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3711e39f-874f-4ae4-b146-b5e45ca8e2ce",
+      "party_type": "Person",
+      "full_name": "John Massey Rhind",
+      "cited_name": "Rhind, John M.",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Edinburgh, Scotland",
+      "death_place": "New York, NY"
+    },
+    {
+      "artist_id": "cmoa:parties/dbebcd93-16c6-43a7-935b-4c95cd473c5d",
+      "party_type": "Organization",
+      "full_name": "Alden & Harlow",
+      "cited_name": "Alden & Harlow",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

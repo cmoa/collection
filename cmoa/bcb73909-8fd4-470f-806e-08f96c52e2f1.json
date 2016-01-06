@@ -1,0 +1,51 @@
+{
+  "title": "The British Museum",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "installation sculpture of wood, glass, paint and photography",
+  "accession_number": "2003.41.a-.h",
+  "id": "cmoa:things/bcb73909-8fd4-470f-806e-08f96c52e2f1",
+  "credit_line": "Gift of Dr. and Mrs. Konrad M. Weis",
+  "date_acquired": "2003-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5841",
+  "provenance_text": "Konrad Weis, Pittsburgh",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38147&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/653d5009-1e90-4fe2-93ae-9f1b0ecd4168",
+      "party_type": "Person",
+      "full_name": "Nikki Bell",
+      "cited_name": "Bell, Nikki",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "London, England",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e6485861-5808-4406-b440-5acc7e569979",
+      "party_type": "Person",
+      "full_name": "Ben Langlands",
+      "cited_name": "Langlands, Ben",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "London",
+      "death_place": null
+    }
+  ]
+}

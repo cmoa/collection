@@ -1,0 +1,39 @@
+{
+  "title": "Tureen",
+  "creation_date": "c. 1953",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "stoneware with slip decoration",
+  "accession_number": "2004.39.A-B",
+  "id": "cmoa:things/a3d2d810-560f-42c1-96a9-af17d04343f1",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 15.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=11696",
+  "provenance_text": "Per Garth Clark Gallery - it was offered to them (through a middleman consultant) by someone who lives in Montana and purchased it directly from Voulkos at the time it was made.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10518&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/954c23e6-e86f-46a4-bf60-a5da3cc1e546",
+      "party_type": "Person",
+      "full_name": "Peter Voulkos",
+      "cited_name": "Voulkos, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Bozeman, Montana",
+      "death_place": "Bowling Green, Ohio"
+    }
+  ]
+}

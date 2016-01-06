@@ -1,0 +1,63 @@
+{
+  "title": "Entropia, Part 1: HOMEOFFICE",
+  "creation_date": "2000, project date: 1996",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "resin model, made by process of stereolithography",
+  "accession_number": "2002.5",
+  "id": "cmoa:things/f49cb9b3-57d7-474b-8311-96eae8a5d67d",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "2002-02-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 10.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004452",
+  "provenance_text": "Henry Urbach Architecture, New York",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133763&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d722d463-b42c-4e48-8d65-b64d61ea39f4",
+      "party_type": "Person",
+      "full_name": "Reinhold Martin",
+      "cited_name": "Martin, Reinhold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/64020746-7290-4834-82fa-60093fb3e587",
+      "party_type": "Person",
+      "full_name": "Kadambari Baxi",
+      "cited_name": "Baxi, Kadambari",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3db71cfb-a05a-4dda-b689-f793ba67e93d",
+      "party_type": "Organization",
+      "full_name": "Martin / Baxi Architects",
+      "cited_name": "Martin / Baxi Architects",
+      "role": null,
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

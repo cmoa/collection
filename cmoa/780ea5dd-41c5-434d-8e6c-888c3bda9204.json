@@ -1,0 +1,39 @@
+{
+  "title": "Peacock",
+  "creation_date": "c. 1962",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "leaf print on paper",
+  "accession_number": "2008.27.1",
+  "id": "cmoa:things/780ea5dd-41c5-434d-8e6c-888c3bda9204",
+  "credit_line": "Gift of Janice Sidehamer Ridenour in memory of Charles J. and Ardella V. Sidehamer",
+  "date_acquired": "2008-04-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 52.25,
+  "item_height": 26.75,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=55910",
+  "provenance_text": "Matsubara Naoko [1937-]; gift to Janice Sidehamer Ridenour, Wexford, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, April 2008.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76072&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9285b51-f897-4cc8-b8bc-778421478961",
+      "party_type": "Person",
+      "full_name": "Matsubara Naoko",
+      "cited_name": "Matsubara Naoko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

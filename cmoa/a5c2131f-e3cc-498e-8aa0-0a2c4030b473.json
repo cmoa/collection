@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.33.1",
+  "id": "cmoa:things/a5c2131f-e3cc-498e-8aa0-0a2c4030b473",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 4.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001235",
+  "provenance_text": "D. L. Passavant, Zelienople, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133264&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08c59456-bd80-44ea-8eec-a7011424282b",
+      "party_type": "Person",
+      "full_name": "Albert W. Graham",
+      "cited_name": "Graham, Albert W.",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1858-01-01",
+      "death_date": "1871-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

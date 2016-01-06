@@ -1,0 +1,39 @@
+{
+  "title": "Box (Chasse)",
+  "creation_date": "13th century",
+  "creation_date_earliest": "1199-12-25",
+  "creation_date_latest": "1298-12-25",
+  "medium": "copper and enamel",
+  "accession_number": "55.3.2",
+  "id": "cmoa:things/bf0f3ddb-81b5-42af-a695-1c550ada4b1b",
+  "credit_line": "Gift of Mrs. J. Frederic Byers",
+  "date_acquired": "1956-02-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 4.0,
+  "item_depth": 4.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009438",
+  "provenance_text": "Gift of Mrs. J. Frederic Byers, 1955.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4180&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "probably by",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

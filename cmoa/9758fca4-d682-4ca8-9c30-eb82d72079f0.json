@@ -1,0 +1,39 @@
+{
+  "title": "Terpsichore, Muse of Lyric Poetry",
+  "creation_date": "1812",
+  "creation_date_earliest": "1812-01-01",
+  "creation_date_latest": "1812-01-01",
+  "medium": "plaster and brass",
+  "accession_number": "2010.56",
+  "id": "cmoa:things/9758fca4-d682-4ca8-9c30-eb82d72079f0",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "2010-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 31.5,
+  "item_height": 72.0,
+  "item_depth": 17.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92521",
+  "provenance_text": "Private Collection, Rouen, until 2009. Private Collection, France, by 2010 [1]; purchased by Museum. \nNOTES:1. Represented by Charles Janoray.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106346&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17755106-c9b1-4e6a-ac42-2bb420dbf234",
+      "party_type": "Person",
+      "full_name": "Antonio Canova",
+      "cited_name": "Canova, Antonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1757-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

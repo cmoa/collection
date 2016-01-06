@@ -1,0 +1,39 @@
+{
+  "title": "The Keeper of the Threshold",
+  "creation_date": "1897-1898",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "01.1",
+  "id": "cmoa:things/c72205a7-4a17-4885-aa62-33e5831748f1",
+  "credit_line": "Purchase",
+  "date_acquired": "1901-03-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 52.0,
+  "item_height": 52.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000058",
+  "provenance_text": "Elihu Vedder [1836-1923], until 1901; purchased by Museum, 1901.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29304&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fcba34b-2619-4432-ad80-fa326e7d443d",
+      "party_type": "Person",
+      "full_name": "Elihu Vedder",
+      "cited_name": "Vedder, Elihu",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

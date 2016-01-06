@@ -1,0 +1,39 @@
+{
+  "title": "Figures on a Beach",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "81.6",
+  "id": "cmoa:things/9e18d863-13fa-4543-a390-e9ee55b7d6b6",
+  "credit_line": "Gift of Richard M. Scaife",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022032",
+  "provenance_text": "Gift of Richard M. Scaife, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90900&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b671b84-1d88-47f2-9d52-041bbb985d61",
+      "party_type": "Person",
+      "full_name": "William Samuel Horton",
+      "cited_name": "Horton, William S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Grand Rapids (Kent county, Michigan, United States)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

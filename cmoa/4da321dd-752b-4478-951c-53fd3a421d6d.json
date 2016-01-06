@@ -1,0 +1,39 @@
+{
+  "title": "(Carnegie Institute: Interior, Carnegie Music Hall)",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.17.86",
+  "id": "cmoa:things/4da321dd-752b-4478-951c-53fd3a421d6d",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-04-05",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024628",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9800&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/18ec3725-6ed3-42e9-afce-fce5dcf67267",
+      "party_type": "Organization",
+      "full_name": "Trinity Court Studios",
+      "cited_name": "Trinity Court Studios",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

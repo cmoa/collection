@@ -1,0 +1,39 @@
+{
+  "title": "Harvesting",
+  "creation_date": "c. 1863-1864",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.31.2",
+  "id": "cmoa:things/1a3f39eb-febb-45de-a6ab-75f6cd4f4548",
+  "credit_line": "Purchase: gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1954-10-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 14.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009293",
+  "provenance_text": "Thomas Blythe, brother of the artist, East Liverpool, Ohio, by 1864; Heber H. Blythe, his son, East Liverpool, Ohio, by 1947; Estate of Herber H. Blythe, East Liverpool, OH, 1954; purchased by Museum, October 20, 1954.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113170&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

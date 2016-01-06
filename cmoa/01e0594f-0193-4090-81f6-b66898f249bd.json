@@ -1,0 +1,39 @@
+{
+  "title": "The Miracle of St. Michael on Mt. Gargano",
+  "creation_date": "c. 1526-1528",
+  "creation_date_earliest": "1510-12-22",
+  "creation_date_latest": "1542-12-22",
+  "medium": "tempera on panel",
+  "accession_number": "69.9.1",
+  "id": "cmoa:things/01e0594f-0193-4090-81f6-b66898f249bd",
+  "credit_line": "Howard A. Noble Fund",
+  "date_acquired": "1969-04-24",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 17.5,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013005",
+  "provenance_text": "Church of Santa Maria del Carmine, Siena [1]. Private Collection, Switzerland; Wildenstein & Company, Inc., New York, by 1969; purchased by Museum, April 1969. \nNOTES:1. Until sometime in the 17th century when the altarpiece was dismantled.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10084&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97cc43ac-4f6b-4c36-bafb-a7a0f42e5bab",
+      "party_type": "Person",
+      "full_name": "Domenico Beccafumi",
+      "cited_name": "Beccafumi, Domenico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1486-01-01",
+      "death_date": "1551-01-01",
+      "birth_place": null,
+      "death_place": " Siena (Siena province, Tuscany, Italy)"
+    }
+  ]
+}

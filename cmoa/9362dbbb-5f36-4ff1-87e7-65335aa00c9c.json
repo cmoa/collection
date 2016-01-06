@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "stainless steel and Plexiglas",
+  "accession_number": "94.219",
+  "id": "cmoa:things/9362dbbb-5f36-4ff1-87e7-65335aa00c9c",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Charles Denby, by exchange",
+  "date_acquired": "1994-12-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 194.5,
+  "item_height": 8.0,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035004",
+  "provenance_text": "Paula Cooper Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh; Purchase: gift of Mr. and Mrs. Charles Denby, by exchange",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24425&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5b54319-4325-4a41-a14b-90217309730c",
+      "party_type": "Person",
+      "full_name": "Donald Judd",
+      "cited_name": "Judd, Donald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Excelsior Springs (Clay county, Missouri, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

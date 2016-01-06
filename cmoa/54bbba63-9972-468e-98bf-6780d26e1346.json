@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh Plate",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "aluminum",
+  "accession_number": "2001.21",
+  "id": "cmoa:things/54bbba63-9972-468e-98bf-6780d26e1346",
+  "credit_line": "Gift of the Manufacturer",
+  "date_acquired": "2001-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 0.5,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004187",
+  "provenance_text": "Wendell August Forge, Grove City, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5254&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90741ade-2e5f-496f-aa97-0387bad1132e",
+      "party_type": "Organization",
+      "full_name": "Wendell August Forge",
+      "cited_name": "Wendell August Forge",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

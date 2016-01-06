@@ -1,0 +1,39 @@
+{
+  "title": "Départ pour le travail (Going to Work)",
+  "creation_date": "1863",
+  "creation_date_earliest": "1863-01-01",
+  "creation_date_latest": "1863-01-01",
+  "medium": "Etching on paper",
+  "accession_number": "74.7.148",
+  "id": "cmoa:things/70019a69-e864-471a-b1d2-2050875d1297",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017298",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19016&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29264da8-7fee-4ac1-8849-82ec39147f2e",
+      "party_type": "Person",
+      "full_name": "Jean François Millet",
+      "cited_name": "Millet, Jean F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1814-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Gruchy, nr Gréville, France",
+      "death_place": "Barbizon, France"
+    }
+  ]
+}

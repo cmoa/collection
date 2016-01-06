@@ -1,0 +1,39 @@
+{
+  "title": "The Rich Man on his Deathbed",
+  "creation_date": "1554",
+  "creation_date_earliest": "1553-12-22",
+  "creation_date_latest": "1553-12-22",
+  "medium": "engraving on paper",
+  "accession_number": "15.7.1",
+  "id": "cmoa:things/57d195c9-e475-4ac2-a174-e3f542dc7ac4",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000994",
+  "provenance_text": "Ivan Izaklevitch de Kouriss, Odessa (L.2722); Adalbert Freiherr von Lanna (1836-1909), Prague (L.2773); Frederick Keppel & Co, New York (see L.1023)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101673&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2b65623-c4d8-40d7-a37c-6b66f58f1d38",
+      "party_type": "Person",
+      "full_name": "Heinrich Aldegrever",
+      "cited_name": "Aldegrever, Heinrich",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1555-01-01",
+      "birth_place": "Paderborn (Detmold district, North Rhine-Westphalia, Germany)",
+      "death_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

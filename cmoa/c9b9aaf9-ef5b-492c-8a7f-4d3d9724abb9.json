@@ -1,0 +1,39 @@
+{
+  "title": "Day's End",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "48.5.2",
+  "id": "cmoa:things/c9b9aaf9-ef5b-492c-8a7f-4d3d9724abb9",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008374",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c416d62-6646-4668-9ca4-38dded8a7348",
+      "party_type": "Person",
+      "full_name": "Martin Lewis",
+      "cited_name": "Lewis, Martin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Castlemaine (Victoria, Australia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

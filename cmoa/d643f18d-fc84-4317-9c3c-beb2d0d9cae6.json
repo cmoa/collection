@@ -1,0 +1,54 @@
+{
+  "title": "Miniature Portrait of Sir Kenelm Digby (1603-1665)",
+  "creation_date": "c. 1645",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "watercolor on card or vellum; gold frame",
+  "accession_number": "27.10.15",
+  "id": "cmoa:things/d643f18d-fc84-4317-9c3c-beb2d0d9cae6",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 4.0,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005626",
+  "provenance_text": "Digby family, Wales; purchased by Horace Walpole [1717-1797], Strawberry Hill, London, England, until 1797; Estate of Horace Walpole, until 1842; Walpole sale, Strawberry Hill, London, England, May 6, 1842 [1]; C. H. T. Hawkins; E. M. Hodgkins, New York, NY; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, March 21, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] Lot 24. The auction was held at Strawberry Hill, with George Robins presiding. The preface of the auction catalog says that the auction is being conducted under the permission of the Earl of Waldegrave.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73407&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73408&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

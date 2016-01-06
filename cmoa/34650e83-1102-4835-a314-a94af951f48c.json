@@ -1,0 +1,39 @@
+{
+  "title": "Leda",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "bronze",
+  "accession_number": "74.7.33",
+  "id": "cmoa:things/34650e83-1102-4835-a314-a94af951f48c",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 5.875,
+  "item_height": 17.5,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017501",
+  "provenance_text": "Possibly gift to Jo and Florence Davidson [1941-1952], New York, 1952 [1]. By descent to Florence Lucius Davidson [1887-1962], New York; gift to Lucille Rosenbloom, Pittsburgh, PA, the 1950s [2]; gift to Charles J. Rosenbloom [1848-1973], Pittsburgh, PA; bequest to Museum of Art, Carnegie Institute, February 14, 1974. \nNOTES: [1] from curatorial file, \"gift of Maillol?\" [2] note in curatorial file \"Gift from Florence Davidson to Mrs. Lucille Rosenbloom, who gave sculpture to Charles R.\"",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116074&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce984934-bff0-4c62-b1d8-014631d2399c",
+      "party_type": "Person",
+      "full_name": "Aristide Maillol",
+      "cited_name": "Maillol, Aristide",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1861-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Banyuls-sur-Mer (Pyrénées-Orientales, Languedoc-Roussillon, France)",
+      "death_place": "Perpignan (Pyrénées-Orientales, Languedoc-Roussillon, France)"
+    }
+  ]
+}

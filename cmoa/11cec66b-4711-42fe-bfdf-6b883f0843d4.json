@@ -1,0 +1,75 @@
+{
+  "title": "Koro-en (Kôroen)",
+  "creation_date": "Autumn 1916",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.712.11",
+  "id": "cmoa:things/11cec66b-4711-42fe-bfdf-6b883f0843d4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028730",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35260&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0f83858-9319-477e-936a-489cd21452b7",
+      "party_type": "Person",
+      "full_name": "Hata Tsuneharu",
+      "cited_name": "Hata Tsuneharu",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1883-01-01",
+      "death_date": null,
+      "birth_place": "Miyazu, Hyogo prefecture",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bb59c4fe-208b-4101-9f9f-3f1f25e0906c",
+      "party_type": "Organization",
+      "full_name": "Bunendô",
+      "cited_name": "Bunendô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b5e6e331-37fd-469e-b89f-fe9bd76137c6",
+      "party_type": "Person",
+      "full_name": "Nishimura Kumakichi II",
+      "cited_name": "Nishimura Kumakichi II",
+      "role": "Printer",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c26635ac-d33e-49ef-88c8-380cb964110d",
+      "party_type": "Person",
+      "full_name": "Okura",
+      "cited_name": "Okura",
+      "role": "Carver",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": "1925-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

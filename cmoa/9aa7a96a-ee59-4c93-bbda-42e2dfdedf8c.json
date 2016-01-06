@@ -1,0 +1,39 @@
+{
+  "title": "Vera",
+  "creation_date": "1916",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "76.30.2",
+  "id": "cmoa:things/9aa7a96a-ee59-4c93-bbda-42e2dfdedf8c",
+  "credit_line": "Gift of Oscar W. Demmler",
+  "date_acquired": "1976-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.938,
+  "item_height": 43.0,
+  "item_depth": 2.062,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018067",
+  "provenance_text": "Frederick A. Demmler [1888-1918], Pittsburgh, PA; Board of Public Education, Pittsburgh, PA, 1916 [1]; the artist's brother, Oscar W. Demmler, Pittsburgh, PA, probably by 1974 until October 7, 1976 [2]; his gift to Museum, October 1976.\n\nNotes:\n[1]. First canvas purchased by the One Hundred Friends of Pittsburgh Art (founded in 1916) and presented to the Board of Public Education.\n[2]. See entry in \"American Paintings and Sculpture to 1945 in the Carnegie Museum of Art,\" p. 164. Oscar W. Demmler's two letters of July 7, 1976 (in curatorial file) state that he had acquired the painting \"recently\" and that it was \"turned over to me by the Board of Education.\"",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149698&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2ab4a30-47ff-4d32-9a2b-710cabe5c875",
+      "party_type": "Person",
+      "full_name": "Frederick A. Demmler",
+      "cited_name": "Demmler, Frederick A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Belgium"
+    }
+  ]
+}

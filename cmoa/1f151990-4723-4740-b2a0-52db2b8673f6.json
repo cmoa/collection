@@ -1,0 +1,39 @@
+{
+  "title": "The Promised Land",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.5",
+  "id": "cmoa:things/1f151990-4723-4740-b2a0-52db2b8673f6",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.125,
+  "item_height": 18.125,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017583",
+  "provenance_text": "Kraushaar Galleries, New York, 1939; Louise and Roland P. Murdock, Wichita, KS, 1940; Kraushaar Galleries, New York, NY, 1942; Charles J. Rosenbloom, Pittsburgh, PA, 1943; bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149574&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24cc0d38-3773-4db7-82e1-df33f396248e",
+      "party_type": "Person",
+      "full_name": "Louis Bouché",
+      "cited_name": "Bouché, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Pittsfield (Berkshire county, Massachusetts, United States)"
+    }
+  ]
+}

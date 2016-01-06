@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "blue-glazed ceramic",
+  "accession_number": "57.8.19",
+  "id": "cmoa:things/27ebcff6-103b-43c1-b6c0-575be4a4147f",
+  "credit_line": "Gift of Mildred Taber Keally",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.75,
+  "item_depth": 0.0,
+  "item_diameter": 3.562,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010637",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1284&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

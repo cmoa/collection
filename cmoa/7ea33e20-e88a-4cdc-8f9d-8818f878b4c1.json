@@ -1,0 +1,45 @@
+{
+  "title": "Le Vieux port de Rotterdam (The Old Port of Rotterdam)",
+  "creation_date": "1863",
+  "creation_date_earliest": "1863-01-01",
+  "creation_date_latest": "1863-01-01",
+  "medium": "Etching on paper",
+  "accession_number": "16.42.1",
+  "id": "cmoa:things/7ea33e20-e88a-4cdc-8f9d-8818f878b4c1",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001283",
+  "provenance_text": "Albert Roullier, Chicago",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110919&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23062&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a65290d5-57c1-43cb-98cb-a3fd2699eaa1",
+      "party_type": "Person",
+      "full_name": "Johan Barthold Jongkind",
+      "cited_name": "Jongkind, Johan B.",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1819-01-01",
+      "death_date": "1891-01-01",
+      "birth_place": null,
+      "death_place": " La Côte-Saint-André (Isère, Rhône-Alpes, France)"
+    }
+  ]
+}

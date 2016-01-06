@@ -1,0 +1,39 @@
+{
+  "title": "Antique Frieze",
+  "creation_date": "c. 16th century",
+  "creation_date_earliest": "1520-12-22",
+  "creation_date_latest": "1555-12-22",
+  "medium": "pen, ink and wash over black chalk on white paper",
+  "accession_number": "23.12.35",
+  "id": "cmoa:things/49385837-e497-4ae9-aeac-2c6ebbabaf5a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004844",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99475&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aaf197c-62c0-4ac0-9bc4-0b049e9422f0",
+      "party_type": "Person",
+      "full_name": "Girolamo Da Carpi",
+      "cited_name": "Da Carpi, Girolamo",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1501-01-01",
+      "death_date": "1556-01-01",
+      "birth_place": "Ferrara (Ferrara province, Emilia-Romagna, Italy)",
+      "death_place": "Ferrara (Ferrara province, Emilia-Romagna, Italy)"
+    }
+  ]
+}

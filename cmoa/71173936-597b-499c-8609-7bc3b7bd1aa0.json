@@ -1,0 +1,39 @@
+{
+  "title": "A Suburb of Antwerp",
+  "creation_date": null,
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "05.4",
+  "id": "cmoa:things/71173936-597b-499c-8609-7bc3b7bd1aa0",
+  "credit_line": "Purchase",
+  "date_acquired": "1905-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 50.625,
+  "item_height": 40.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000127",
+  "provenance_text": "M. Knoedler and Company [1848-2011], New York, by 1905. Purchased by Museum, 1905.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149587&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72c7c230-1fd1-41d0-993f-c2e776fcccb0",
+      "party_type": "Person",
+      "full_name": "Jean Charles Cazin",
+      "cited_name": "Cazin, Jean Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1841-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": " Samer (Pas-de-Calais, Nord-Pas-de-Calais, France)",
+      "death_place": " le Lavandou (Var, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

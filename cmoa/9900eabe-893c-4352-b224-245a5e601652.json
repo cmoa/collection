@@ -1,0 +1,39 @@
+{
+  "title": "Abstract",
+  "creation_date": "c. 1928",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "oil and graphite on canvas",
+  "accession_number": "56.47",
+  "id": "cmoa:things/9900eabe-893c-4352-b224-245a5e601652",
+  "credit_line": "Purchase: gift of G. David Thompson",
+  "date_acquired": "1956-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 45.75,
+  "item_height": 35.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009889",
+  "provenance_text": "Henri-Pierre Roché [1879-1959], Paris, by 1933; Rose Fried Gallery, New York, 1956; gift to Museum, 1956.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17869&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/09022497-d313-48e7-9d0a-b1b8ff5313b1",
+      "party_type": "Person",
+      "full_name": "Patrick Henry Bruce",
+      "cited_name": "Bruce, Patrick Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Campbell (Mahoning county, Ohio, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

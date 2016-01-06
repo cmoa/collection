@@ -1,0 +1,51 @@
+{
+  "title": "Henry Scott, 3rd Duke of Buccleuch",
+  "creation_date": "1771",
+  "creation_date_earliest": "1771-01-01",
+  "creation_date_latest": "1771-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.87",
+  "id": "cmoa:things/5be2712f-dd4f-499d-a6e9-e44767bdd2dd",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34559",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53587&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8537b107-c2f5-44c5-81b9-1c802e0087db",
+      "party_type": "Person",
+      "full_name": "John Dixon",
+      "cited_name": "Dixon, John",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": null,
+      "death_date": "1811-01-01",
+      "birth_place": " Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/8969679a-64cd-4e1d-840d-f0c2043d164f",
+      "party_type": "Person",
+      "full_name": "Thomas Gainsborough",
+      "cited_name": "Gainsborough, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1727-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": " Sudbury (Suffolk, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

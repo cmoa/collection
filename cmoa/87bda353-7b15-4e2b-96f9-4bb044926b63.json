@@ -1,0 +1,39 @@
+{
+  "title": "River Rouge Industrial Plant",
+  "creation_date": "1928",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "57.12.7",
+  "id": "cmoa:things/87bda353-7b15-4e2b-96f9-4bb044926b63",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.875,
+  "item_height": 16.875,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010372",
+  "provenance_text": "Gift of G. David Thompson, 1957.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17987&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/45a03d90-0413-41a0-8f2e-77e502154c91",
+      "party_type": "Person",
+      "full_name": "Charles Sheeler",
+      "cited_name": "Sheeler, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "Dobbs County, New York"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Colors from the Center",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "watercolor and gouache",
+  "accession_number": "87.35",
+  "id": "cmoa:things/4e02835b-39af-4a81-8cdc-d9102eeed1f6",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1987-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.5,
+  "item_height": 25.25,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026350",
+  "provenance_text": "John Weber Gallery, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149742&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b3c1a22-c453-4329-b2d7-fd054549c635",
+      "party_type": "Person",
+      "full_name": "Sol LeWitt",
+      "cited_name": "LeWitt, Sol",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

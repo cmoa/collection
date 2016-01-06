@@ -1,0 +1,39 @@
+{
+  "title": "We",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "acrylic on canvas mural",
+  "accession_number": "1999.22.2",
+  "id": "cmoa:things/93d4ec13-451c-41f7-bf7b-d75dce432a7b",
+  "credit_line": "Gift of Frank H. and Nancy L. Porter",
+  "date_acquired": "1999-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 258.0,
+  "item_height": 84.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003859",
+  "provenance_text": "Frank H. And Nancy L. Porter, Cleveland, OH",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a04f505d-95b0-4af5-be8f-d402cf61d569",
+      "party_type": "Person",
+      "full_name": "Al Held",
+      "cited_name": "Held, Al",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": "Brooklyn, New York",
+      "death_place": "Italy"
+    }
+  ]
+}

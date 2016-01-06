@@ -1,0 +1,39 @@
+{
+  "title": "(Personal Family Photograph - Early Portrait of Swank)",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.76.9",
+  "id": "cmoa:things/c356e973-99ba-410f-9351-95bdb6288dec",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-10-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 3.438,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024201",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10083&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da0dc49a-3710-4606-a67e-f4cb84acb487",
+      "party_type": "Person",
+      "full_name": "Burggraf",
+      "cited_name": "Burggraf",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

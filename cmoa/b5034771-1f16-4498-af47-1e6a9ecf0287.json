@@ -1,0 +1,39 @@
+{
+  "title": "Red Tulips",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "watercolor screen",
+  "accession_number": "81.48",
+  "id": "cmoa:things/b5034771-1f16-4498-af47-1e6a9ecf0287",
+  "credit_line": "Purchase: gift of the Hunt Foundation",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 95.25,
+  "item_height": 25.5,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021925",
+  "provenance_text": "The Artist, San Francisco; Museum purchase: gift of the Hunt Foundation",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24956&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ff9879d-0fe0-4d99-80c6-73f058c3baaf",
+      "party_type": "Person",
+      "full_name": "Gary A. Bukovnik",
+      "cited_name": "Bukovnik, Gary A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Painesville (Lake county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

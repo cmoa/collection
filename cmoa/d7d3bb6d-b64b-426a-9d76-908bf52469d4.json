@@ -1,0 +1,39 @@
+{
+  "title": "John Hunter (After Reynolds)",
+  "creation_date": "1788",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.21",
+  "id": "cmoa:things/d7d3bb6d-b64b-426a-9d76-908bf52469d4",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011265",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119771&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1d7fb6f-7c5a-4209-ad08-ecde99b4311e",
+      "party_type": "Person",
+      "full_name": "William Sharp",
+      "cited_name": "Sharp, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1749-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chiswick (Greater London, England, United Kingdom)"
+    }
+  ]
+}

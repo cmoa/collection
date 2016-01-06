@@ -1,0 +1,51 @@
+{
+  "title": "Henry Bathurst, 3rd Earl Bathurst; Apsley Bathurst (when Viscout Apsley and a boy)",
+  "creation_date": "1775-1776",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1776-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.86",
+  "id": "cmoa:things/106a2500-b5e1-426b-9319-6da6fe9bcca0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34558",
+  "provenance_text": "David Alexander (from label on back of frame)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53586&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/866f346c-349f-4544-9f05-d004e02d3a9c",
+      "party_type": "Person",
+      "full_name": "Thomas Watson",
+      "cited_name": "Watson, Thomas",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1743-01-01",
+      "death_date": "1781-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/857e787c-78a1-43d8-b790-c7a1b459b5b1",
+      "party_type": "Person",
+      "full_name": "Nathaniel Dance",
+      "cited_name": "Dance, Nathaniel",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1735-01-01",
+      "death_date": "1811-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Winchester (Hampshire, England, United Kingdom)"
+    }
+  ]
+}

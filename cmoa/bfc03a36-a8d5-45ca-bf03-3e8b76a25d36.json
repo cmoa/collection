@@ -1,0 +1,39 @@
+{
+  "title": "Midsummer",
+  "creation_date": null,
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "69.48.228",
+  "id": "cmoa:things/bfc03a36-a8d5-45ca-bf03-3e8b76a25d36",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012812",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107985&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9142ad69-faa0-4fac-833a-fe8d6092acfc",
+      "party_type": "Person",
+      "full_name": "Thomas W. Nason",
+      "cited_name": "Nason, Thomas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Dracut (Middlesex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Airport; [site plan]",
+  "creation_date": null,
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "blackline print",
+  "accession_number": "93.124.37",
+  "id": "cmoa:things/e88c4041-a75b-4185-8cfd-6e958d892885",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-10-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032879",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116844&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/34fafef9-0d9d-4766-8579-6c43afc7f4ca",
+      "party_type": "Organization",
+      "full_name": "Holden and Stott",
+      "cited_name": "Holden and Stott",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

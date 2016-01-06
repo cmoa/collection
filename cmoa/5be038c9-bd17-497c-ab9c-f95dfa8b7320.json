@@ -1,0 +1,51 @@
+{
+  "title": "Super Graphic 45 camera",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "aluminum, plastic, and imitation leather",
+  "accession_number": "2014.44.1-.9",
+  "id": "cmoa:things/5be038c9-bd17-497c-ab9c-f95dfa8b7320",
+  "credit_line": "Richard L. Simmons Acquisition Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 7.75,
+  "item_depth": 9.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100796",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132164&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab73977f-bfaf-4bb8-b30e-f785cff4789f",
+      "party_type": "Organization",
+      "full_name": "Peter Muller-Munk Associates",
+      "cited_name": "Peter Muller-Munk Associates",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c1327b68-36e5-4b79-bc2d-81eaea87649d",
+      "party_type": "Organization",
+      "full_name": "Graflex, Inc.",
+      "cited_name": "Graflex, Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

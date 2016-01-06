@@ -1,0 +1,39 @@
+{
+  "title": "Potpourri jar",
+  "creation_date": "c. 1760-1765",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1852.A-B",
+  "id": "cmoa:things/f788610c-1ee1-449b-b090-7dabdb3cc8d1",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.75,
+  "item_depth": 0.0,
+  "item_diameter": 5.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014004",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121195&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba75338-b76d-41c8-ae91-ecb12c225931",
+      "party_type": "Organization",
+      "full_name": "Derby Porcelain Factory",
+      "cited_name": "Derby Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

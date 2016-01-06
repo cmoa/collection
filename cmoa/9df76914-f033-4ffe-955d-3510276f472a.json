@@ -1,0 +1,39 @@
+{
+  "title": "Late Night Snack",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.3",
+  "id": "cmoa:things/9df76914-f033-4ffe-955d-3510276f472a",
+  "credit_line": "Purchase: gift of R. K. Mellon Family Foundation",
+  "date_acquired": "1983-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 22.062,
+  "item_height": 16.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023686",
+  "provenance_text": "Private collection; Kennedy Galleries, New York, by 1979; Willard G. Clark, Hanford, Calif., by 1980; D. Wigmore Fine Art, New York, 1982; Museum Purchase: gift of R. K. Mellon Family Foundation, 1983",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120521&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10b6ba5c-5937-44d1-810a-6f036a7999be",
+      "party_type": "Person",
+      "full_name": "Albert Francis King",
+      "cited_name": "King, Albert F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1854-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Jesus Sleeping",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "stencil on paper",
+  "accession_number": "89.28.1451",
+  "id": "cmoa:things/e12dc217-03be-4e2e-b1e8-f40f2c7c2d2d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 26.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027361",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 12/31/1964.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34018&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a7274316-1b71-44f6-8146-6beaea8f3085",
+      "party_type": "Person",
+      "full_name": "Watanabe Sadao",
+      "cited_name": "Watanabe Sadao",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sculpture No. 1, 1962",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "welded steel",
+  "accession_number": "69.28.1",
+  "id": "cmoa:things/da282497-2f07-4bcd-8281-71f8d961b3a8",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1969-09-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 9.0,
+  "item_depth": 9.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012550",
+  "provenance_text": "James L. Winokur, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127742&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13e9aa6b-9639-4d25-bb2a-73651fc488c7",
+      "party_type": "Person",
+      "full_name": "Joseph Goto",
+      "cited_name": "Goto, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Hawaii (United States)",
+      "death_place": "Pawtucket, RI"
+    }
+  ]
+}

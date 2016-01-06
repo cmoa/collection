@@ -1,0 +1,39 @@
+{
+  "title": "Manuscript guest-book kept by John W. Beatty",
+  "creation_date": "1903-1938",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "leather bound volume containing drawings, autographs, and inserts of letters, drawings, photographs, and printed material",
+  "accession_number": "2006.42",
+  "id": "cmoa:things/ca527fef-06df-4f9f-ad1f-0977e0c8bb48",
+  "credit_line": "Joseph E. and Sally M. Imbriglia Fund",
+  "date_acquired": "2006-06-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 11.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9594",
+  "provenance_text": "John W. Beatty; Mrs. John W. Beatty until c. 1945; her estate; Caliban Book Store, Pittsburgh, 2006.",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146384&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a8a78d54-b459-41ce-b608-ad448bd9babc",
+      "party_type": "Person",
+      "full_name": "John Wesley Beatty",
+      "cited_name": "Beatty, John Wesley",
+      "role": "compiler",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Clifton Springs, New York"
+    }
+  ]
+}

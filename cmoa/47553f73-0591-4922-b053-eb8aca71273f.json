@@ -1,0 +1,39 @@
+{
+  "title": "Pensive Girl",
+  "creation_date": "1946-1947",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "48.1",
+  "id": "cmoa:things/47553f73-0591-4922-b053-eb8aca71273f",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.25,
+  "item_height": 40.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008255",
+  "provenance_text": "Raphael Soyer [1899-1987]; (Associated American Artists, Inc., New York, NY, until April 1948); purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 23, 1948.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17025&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5510c31d-db57-4773-bce6-a4806afe90c3",
+      "party_type": "Person",
+      "full_name": "Raphael Soyer",
+      "cited_name": "Soyer, Raphael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Borisoglebsk (Voronezhskaya Oblast', Rossiya republic, Russia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

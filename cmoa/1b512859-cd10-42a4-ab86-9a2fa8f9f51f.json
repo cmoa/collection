@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Ricochet)",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2012.46.3",
+  "id": "cmoa:things/1b512859-cd10-42a4-ab86-9a2fa8f9f51f",
+  "credit_line": "Gift of Dr. and Mrs. Nathan Stockhamer",
+  "date_acquired": "2012-12-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.375,
+  "item_height": 23.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=99573",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e68bc81-0aaf-4422-bf8f-18a3ae0a82b5",
+      "party_type": "Person",
+      "full_name": "Mel Bochner",
+      "cited_name": "Bochner, Mel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Dinner plate",
+  "creation_date": "1755-1756",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1756-01-01",
+  "medium": "sterling silver",
+  "accession_number": "70.32.2317",
+  "id": "cmoa:things/41090e23-3839-42ef-9c34-87f0180c8a22",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.5,
+  "item_depth": 0.0,
+  "item_diameter": 9.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014512",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8259&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8777d91-d757-46b7-9bfd-3ffc0de83b3c",
+      "party_type": "Person",
+      "full_name": "Peter Archambo II",
+      "cited_name": "Archambo, Peter",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1721-01-01",
+      "death_date": "1768-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e9b0ebac-238b-46df-8225-06145eea991c",
+      "party_type": "Person",
+      "full_name": "Peter Meure",
+      "cited_name": "Meure, Peter",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1750-01-01",
+      "death_date": "1755-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

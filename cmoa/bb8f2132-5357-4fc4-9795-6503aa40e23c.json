@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithograph with plates and silkscreens as well",
+  "accession_number": "76.67.17",
+  "id": "cmoa:things/bb8f2132-5357-4fc4-9795-6503aa40e23c",
+  "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018232",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106477&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee1ced5b-4fff-4eaf-83bd-124d2c987062",
+      "party_type": "Person",
+      "full_name": "Louise Nevelson",
+      "cited_name": "Nevelson, Louise",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Kiev, Russia, present-day Ukraine",
+      "death_place": "New York"
+    }
+  ]
+}

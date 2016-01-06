@@ -1,0 +1,42 @@
+{
+  "title": "Ideal Pastoral Life",
+  "creation_date": "1829",
+  "creation_date_earliest": "1829-01-01",
+  "creation_date_latest": "1829-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.17.13",
+  "id": "cmoa:things/d13b87d9-7afb-4bbc-9b4a-ef398dd14b3b",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008236",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110549&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110548&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40bf3941-93d6-472b-86f5-344dee26ada5",
+      "party_type": "Person",
+      "full_name": "Edward Calvert",
+      "cited_name": "Calvert, Edward",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1799-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": " Devon (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Rover Chair",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "\"Kee-Klamps\" tubular steel and original Rover car seat with leather upholstery",
+  "accession_number": "2006.5",
+  "id": "cmoa:things/8154b027-e8d1-4c2c-8957-1c0523e42514",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2006-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 27.125,
+  "item_height": 31.125,
+  "item_depth": 36.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=19250",
+  "provenance_text": "Dorotheum Auction House, Vienna",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24986&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24983&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96209&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab2b0e3b-5d64-42e8-a892-a824c91d76bd",
+      "party_type": "Person",
+      "full_name": "Ron Arad",
+      "cited_name": "Arad, Ron",
+      "role": "designer",
+      "nationality": "Israeli",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Tel Aviv-Jaffa (Tel Aviv district, Israel)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c7155d1-cde6-475d-ab25-fae7079ebea2",
+      "party_type": "Organization",
+      "full_name": "One Off Ltd",
+      "cited_name": "One Off Ltd",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1981-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

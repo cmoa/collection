@@ -1,0 +1,39 @@
+{
+  "title": "Girl Wearing Cross",
+  "creation_date": "1940s",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "93.71",
+  "id": "cmoa:things/2a854cd6-7835-47ba-8e76-316e9dd5bfea",
+  "credit_line": "Gift of Maurice Horwitz",
+  "date_acquired": "1993-04-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 23.625,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033661",
+  "provenance_text": "Gift of Maurice Horwitz, Butler, PA, 1993.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21956&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5510c31d-db57-4773-bce6-a4806afe90c3",
+      "party_type": "Person",
+      "full_name": "Raphael Soyer",
+      "cited_name": "Soyer, Raphael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Borisoglebsk (Voronezhskaya Oblast', Rossiya republic, Russia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

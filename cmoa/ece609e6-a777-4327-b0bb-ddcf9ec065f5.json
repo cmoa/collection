@@ -1,0 +1,42 @@
+{
+  "title": "St. Guenole, 1959",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "pen and ink",
+  "accession_number": "61.50.2",
+  "id": "cmoa:things/ece609e6-a777-4327-b0bb-ddcf9ec065f5",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.438,
+  "item_height": 9.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011459",
+  "provenance_text": "American Federation of Arts, New York City, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99703&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2359b07-0ead-4e1b-bc6f-7cc0e7f70979",
+      "party_type": "Person",
+      "full_name": "Jean René Bazaine",
+      "cited_name": "Bazaine, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1904-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

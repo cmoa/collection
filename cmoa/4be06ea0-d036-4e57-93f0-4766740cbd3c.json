@@ -1,0 +1,39 @@
+{
+  "title": "First Sketch for Three Panelled Window, One Done in Color",
+  "creation_date": "1896",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "graphite, colored pencil, and gouache on paper",
+  "accession_number": "22.10.6",
+  "id": "cmoa:things/4be06ea0-d036-4e57-93f0-4766740cbd3c",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-05-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004652",
+  "provenance_text": "Grace Edith Barnes (executrix of the artist's estate), New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48010&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c359036-66e7-40c2-a178-5d188e9af469",
+      "party_type": "Person",
+      "full_name": "John La Farge",
+      "cited_name": "La Farge, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1835-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "New York City",
+      "death_place": "Newport, Rhode Island"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1791",
+  "creation_date_earliest": "1791-01-01",
+  "creation_date_latest": "1791-01-01",
+  "medium": "pencil and graphite on paper prepared with gesso",
+  "accession_number": "26.5.2",
+  "id": "cmoa:things/53d12493-3e81-4276-938b-71492346673d",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1926-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 3.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005494",
+  "provenance_text": "from the artist to M. Fayot in 1791 (according to inscription in margin); Herbert Dupuy, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94780&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/526eb8cc-2b13-475e-954b-eaba0a86318a",
+      "party_type": "Person",
+      "full_name": "Jean-Michel le Jeune Moreau",
+      "cited_name": "Moreau, Jean-Michel le Jeune",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1741-01-01",
+      "death_date": "1814-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

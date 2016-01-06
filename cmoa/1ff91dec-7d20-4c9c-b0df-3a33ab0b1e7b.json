@@ -1,0 +1,51 @@
+{
+  "title": "Katayamazu",
+  "creation_date": "1/8/1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.109.3",
+  "id": "cmoa:things/1ff91dec-7d20-4c9c-b0df-3a33ab0b1e7b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 7.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026845",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35315&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/48c2d5cd-b829-4835-a50a-6ea213b98805",
+      "party_type": "Person",
+      "full_name": "Ishii Hakutei",
+      "cited_name": "Ishii Hakutei",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1882-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9736e158-c9b3-4bf1-b4f8-8f0917068d02",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô",
+      "cited_name": "Nakajima Jûtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

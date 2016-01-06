@@ -1,0 +1,45 @@
+{
+  "title": "The Bathers (Les Baigneurs), Small Plate",
+  "creation_date": "1896-1897",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "lithograph on laid paper",
+  "accession_number": "81.26.10",
+  "id": "cmoa:things/28b8f092-588b-4821-89bf-a01ecd0d382c",
+  "credit_line": "Bequest of C. Hale Matthews III",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021783",
+  "provenance_text": "Paul Cézanne [1839-1906]. C. Hale Matthews III, New York, NY; bequest to Museum, April, 1981 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110961&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110962&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23163&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3273d5ed-4842-4910-86a1-b60d760329dc",
+      "party_type": "Person",
+      "full_name": "Paul Cézanne",
+      "cited_name": "Cézanne, Paul",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1839-01-19",
+      "death_date": "1906-10-23",
+      "birth_place": "Aix-en-Provence, France",
+      "death_place": "Aix-en-Provence, France"
+    }
+  ]
+}

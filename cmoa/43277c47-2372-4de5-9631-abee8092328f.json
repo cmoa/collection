@@ -1,0 +1,49 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1785",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "silver with wood handle",
+  "accession_number": "27.10.964",
+  "id": "cmoa:things/43277c47-2372-4de5-9631-abee8092328f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.375,
+  "item_height": 6.25,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006015",
+  "provenance_text": "Laura Williams Colwell, Weymouth, NJ; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/212f4045-ecb2-4dac-85c9-a3626d42497d",
+      "party_type": "Person",
+      "full_name": "John Brown",
+      "cited_name": "Brown, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1785-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ebf27d23-45df-42d8-a2b8-8a3b3bf04e60",
+      "party_type": "Person",
+      "full_name": "James Black",
+      "cited_name": "Black, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1820-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

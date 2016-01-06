@@ -1,0 +1,39 @@
+{
+  "title": "Cup",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1862",
+  "id": "cmoa:things/4f55cfd3-a341-409c-b946-7ba53b369629",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 3.0,
+  "item_depth": 2.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014015",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1328&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ec9c7503-a772-449d-8f9f-96ce87776e54",
+      "party_type": "Organization",
+      "full_name": "Spode Pottery and Porcelain Factory",
+      "cited_name": "Spode Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1776-01-01",
+      "death_date": "1833-01-01",
+      "birth_place": "England, Stoke-on-Trent, Staffordshire",
+      "death_place": null
+    }
+  ]
+}

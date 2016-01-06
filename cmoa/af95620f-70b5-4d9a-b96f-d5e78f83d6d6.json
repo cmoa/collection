@@ -1,0 +1,39 @@
+{
+  "title": "Master Orde",
+  "creation_date": "c. 1806",
+  "creation_date_earliest": "1801-01-01",
+  "creation_date_latest": "1811-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "26.4.2",
+  "id": "cmoa:things/af95620f-70b5-4d9a-b96f-d5e78f83d6d6",
+  "credit_line": "J. Willis Dalzell Memorial Collection, gift of Mrs. J. Willis Dalzell",
+  "date_acquired": "1926-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 30.0,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005487",
+  "provenance_text": "Mrs. J. Willis Dalzell (Mary Beer Dalzell) [c.1849-1929], Pittsburgh, PA until June 13, 1926; her gift to Museum, June 1926.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16810&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a77375f-b3d7-4b11-92ad-6937011fa53b",
+      "party_type": "Person",
+      "full_name": "John Hoppner",
+      "cited_name": "Hoppner, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1758-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

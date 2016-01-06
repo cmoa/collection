@@ -1,0 +1,39 @@
+{
+  "title": "The Lovers Heaven",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "78.30",
+  "id": "cmoa:things/e3042a7b-e677-4d65-a384-c90bc7a189cb",
+  "credit_line": "Gift of Leon Thorpe",
+  "date_acquired": "1978-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 25.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019933",
+  "provenance_text": "Donor, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149591&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7dc2396-45be-44e3-a243-18a285c1ac64",
+      "party_type": "Person",
+      "full_name": "Marc Chagall",
+      "cited_name": "Chagall, Marc",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1887-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Vitebsk (Vitebsk province, Belarus)",
+      "death_place": " Saint-Paul (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

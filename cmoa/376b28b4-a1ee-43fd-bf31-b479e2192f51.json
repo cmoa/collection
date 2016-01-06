@@ -1,0 +1,48 @@
+{
+  "title": "Chair",
+  "creation_date": "1987-1990",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "red oak wood, plastic laminate, cowhide, painted steel",
+  "accession_number": "91.3",
+  "id": "cmoa:things/376b28b4-a1ee-43fd-bf31-b479e2192f51",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1991-04-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 39.0,
+  "item_depth": 52.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029738",
+  "provenance_text": "Daniel Weinberg Gallery, CA, Santa Monica",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101837&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101838&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6746&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

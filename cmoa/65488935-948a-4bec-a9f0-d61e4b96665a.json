@@ -1,0 +1,42 @@
+{
+  "title": "House of Knights Templars, Rhodes",
+  "creation_date": null,
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "82.80.5",
+  "id": "cmoa:things/65488935-948a-4bec-a9f0-d61e4b96665a",
+  "credit_line": "Gift of Mrs. Alfred Bendiner",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023148",
+  "provenance_text": "ift of Mrs. Alfred Bendiner, Philadelphia",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103281&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89489&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f570adcf-6d6d-463a-91a4-1663c637f0e7",
+      "party_type": "Person",
+      "full_name": "Alfred Bendiner",
+      "cited_name": "Bendiner, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Philadelphia, Pennsylvania"
+    }
+  ]
+}

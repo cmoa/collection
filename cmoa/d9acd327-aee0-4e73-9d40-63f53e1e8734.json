@@ -1,0 +1,39 @@
+{
+  "title": "Camouflage",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1495",
+  "id": "cmoa:things/d9acd327-aee0-4e73-9d40-63f53e1e8734",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.625,
+  "item_height": 27.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027419",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 5/29/1986.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34020&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/002a33e6-7273-4791-8345-2182850fc2ec",
+      "party_type": "Person",
+      "full_name": "Yoshida Tôshi",
+      "cited_name": "Yoshida Tôshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1911-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

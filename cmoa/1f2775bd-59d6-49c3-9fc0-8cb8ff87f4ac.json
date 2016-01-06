@@ -1,0 +1,39 @@
+{
+  "title": "George Bernard Shaw",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "gilt bronze",
+  "accession_number": "48.19",
+  "id": "cmoa:things/1f2775bd-59d6-49c3-9fc0-8cb8ff87f4ac",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 24.25,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008254",
+  "provenance_text": "Gift of Mr. and Mrs. Charles J. Rosenbloom, Pittsburgh, PA, 1948.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117485&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e461217a-32a5-4944-8041-72cf438d6c1d",
+      "party_type": "Person",
+      "full_name": "Sir Jacob Epstein",
+      "cited_name": "Epstein, Jacob",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1880-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

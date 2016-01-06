@@ -1,0 +1,42 @@
+{
+  "title": "Wisteria Bridge",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "90.18.6",
+  "id": "cmoa:things/3bd7dfce-f2b1-460e-851c-28b944234ac9",
+  "credit_line": "Gift of Mrs. Edith C. Thompson",
+  "date_acquired": "1990-09-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.75,
+  "item_height": 16.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029349",
+  "provenance_text": "\nGift of Mrs. Edith C. Thompson, Springfield, Ohio, 9/27/1990.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103128&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83551&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9dfaa66-e57d-4728-bce2-0fa87b4016a6",
+      "party_type": "Person",
+      "full_name": "Elizabeth Keith",
+      "cited_name": "Keith, Elizabeth",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1887-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Aberdeenshire, Scotland",
+      "death_place": "England"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Katherine May Edwards",
+  "creation_date": "c. 1916-1918",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1997.42.3.40",
+  "id": "cmoa:things/e2cb3cfb-1672-4d5f-96dd-c6c0ece9407b",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 1.562,
+  "item_height": 2.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003354",
+  "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106294&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93c7f58a-ec86-4f5d-b309-7773cf296c15",
+      "party_type": "Person",
+      "full_name": "Rembrandt",
+      "cited_name": "Rembrandt",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1916-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Untitled",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "1999.35",
+  "id": "cmoa:things/345ebe51-f0d7-4316-9389-b09b6add99e6",
+  "credit_line": "Gift of Mark Francis",
+  "date_acquired": "1999-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.5,
+  "item_height": 26.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003885",
+  "provenance_text": "MarkFrancis, London, England",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5cb7ad2-50ca-4c5b-8a80-74202ddfb9c2",
+      "party_type": "Person",
+      "full_name": "Jo Baer",
+      "cited_name": "Baer, Jo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Seattle (King County, Washington, United States)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/278be559-d08d-4bfd-9554-a8e71d7724fd",
+      "party_type": "Person",
+      "full_name": "Bruce Robbins",
+      "cited_name": "Robbins, Bruce",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia",
+      "death_place": null
+    }
+  ]
+}

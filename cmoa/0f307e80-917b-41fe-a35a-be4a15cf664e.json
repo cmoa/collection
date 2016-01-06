@@ -1,0 +1,39 @@
+{
+  "title": "The Martyrdom of Saint Lucy",
+  "creation_date": "after 1613",
+  "creation_date_earliest": "1614-01-01",
+  "creation_date_latest": "1616-01-01",
+  "medium": "etching and engraving",
+  "accession_number": "2005.30",
+  "id": "cmoa:things/0f307e80-917b-41fe-a35a-be4a15cf664e",
+  "credit_line": "Patrons Art Fund in honor of Linda Batis, associate curator of fine arts",
+  "date_acquired": "2005-06-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15314",
+  "provenance_text": "Jacques Bellange [1575-1616]. (Hill-Stone, Inc., New York, NY, by June 2005); purchased by Carnegie Museum of Art, Pittsburgh, PA, June 2005.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101948&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ef81cf0-1287-4f60-a197-7e40d3b2a7c3",
+      "party_type": "Person",
+      "full_name": "Jacques Bellange",
+      "cited_name": "Bellange, Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1560-01-01",
+      "death_date": "1616-01-01",
+      "birth_place": null,
+      "death_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Sugar Bowl",
+  "creation_date": "c. 1815",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "silver",
+  "accession_number": "72.21.1.A-B",
+  "id": "cmoa:things/43d6041d-a47b-4b1e-b710-74ad734524ee",
+  "credit_line": "Purchase: gift of Mrs. B. F. Jones III",
+  "date_acquired": "1972-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 8.0,
+  "item_height": 7.125,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016392",
+  "provenance_text": "Bryce George Muir, CT, Higganum",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4885&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96151&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d78ebf9-6d2d-4f15-849f-d26823ce55cc",
+      "party_type": "Person",
+      "full_name": "Andrew Osthoff",
+      "cited_name": "Osthoff, Andrew",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1809-01-01",
+      "death_date": "1818-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

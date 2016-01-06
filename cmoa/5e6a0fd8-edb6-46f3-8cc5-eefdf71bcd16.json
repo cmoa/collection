@@ -1,0 +1,39 @@
+{
+  "title": "Woolworth Building",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "pencil on white wove paper",
+  "accession_number": "1998.61",
+  "id": "cmoa:things/5e6a0fd8-edb6-46f3-8cc5-eefdf71bcd16",
+  "credit_line": "Foster Charitable Trust Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003798",
+  "provenance_text": "Richard York Gallery, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32248&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55a409bf-26ee-4b7d-89a6-c225e86ad711",
+      "party_type": "Person",
+      "full_name": "John Marin",
+      "cited_name": "Marin, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Rutherford (Bergen county, New Jersey, United States)",
+      "death_place": "Addison (Washington county, Maine, United States)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Wallpaper maquette",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "block-printed paper, ink, and silver leaf",
+  "accession_number": "2008.87",
+  "id": "cmoa:things/b70fc74c-ceb8-4342-be93-35758852b25b",
+  "credit_line": "Purchase: Gift of Sybil A. Pickett Charitable Trust",
+  "date_acquired": "2008-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 33.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=76322",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114562&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72957&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0bf9a742-ddfc-4873-a0f9-63dcff757c06",
+      "party_type": "Person",
+      "full_name": "Henri Stephany",
+      "cited_name": "Stephany, Henri",
+      "role": "attributed designer",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6ae48d16-c60f-4634-b938-a90c3ac2a0f0",
+      "party_type": "Organization",
+      "full_name": "Desfossé & Karth",
+      "cited_name": "Desfossé & Karth",
+      "role": "attributed manufacturer",
+      "nationality": "French",
+      "birth_date": "1864-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

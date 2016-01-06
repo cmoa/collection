@@ -1,0 +1,39 @@
+{
+  "title": "Diana",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "bronze on onyx base",
+  "accession_number": "25.3.2",
+  "id": "cmoa:things/0e5132be-9508-41af-a46a-a6f8a8a62bbd",
+  "credit_line": "Purchase",
+  "date_acquired": "1925-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 10, Scaife Galleries",
+  "item_width": 27.25,
+  "item_height": 37.875,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005280",
+  "provenance_text": "Paul Howard Manship, New York, NY, until 1925; purchased by Museum, 1925.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126408&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4bb2ed1-04d9-4832-843c-a4fcd39fca13",
+      "party_type": "Person",
+      "full_name": "Paul Howard Manship",
+      "cited_name": "Manship, Paul H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Saint Paul (Ramsey county, Minnesota, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

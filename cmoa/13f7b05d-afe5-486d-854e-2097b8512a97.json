@@ -1,0 +1,39 @@
+{
+  "title": "3-1994 #7",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "glass",
+  "accession_number": "95.7",
+  "id": "cmoa:things/13f7b05d-afe5-486d-854e-2097b8512a97",
+  "credit_line": "Purchase: gift of Baroness Cassel Van Doorn, by exchange",
+  "date_acquired": "1995-01-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 17.562,
+  "item_height": 17.562,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035815",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105136&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a0ce8841-89a6-42e8-a3f2-bf35930503e3",
+      "party_type": "Person",
+      "full_name": "Klaus Moje",
+      "cited_name": "Moje, Klaus",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Hamburg, Germany",
+      "death_place": null
+    }
+  ]
+}

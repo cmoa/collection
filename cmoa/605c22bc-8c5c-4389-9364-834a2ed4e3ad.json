@@ -1,0 +1,39 @@
+{
+  "title": "Still Life with Fruit",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "67.17",
+  "id": "cmoa:things/605c22bc-8c5c-4389-9364-834a2ed4e3ad",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1967-11-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.625,
+  "item_height": 20.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012312",
+  "provenance_text": "Winston Collection, Paris; Hirschl and Adler, New York, NY; Mr. and Mrs. James L. Winokur, Pittsburgh; gift to Museum, November 1967.\n\nUpdated by CGK\nJuly 2012",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103531&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2968a37-5a4e-404b-be36-c6d16af20dab",
+      "party_type": "Person",
+      "full_name": "Suzanne Valadon",
+      "cited_name": "Valadon, Suzanne",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1865-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "France, Bessines",
+      "death_place": "France, Paris"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Saint John Preaching in the Desert",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "pen and brown ink",
+  "accession_number": "74.39.1",
+  "id": "cmoa:things/85ca35a0-5264-47cb-afab-87e4c6ecba89",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016990",
+  "provenance_text": "Jean-Pierre Selz, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99093&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17a6bced-a8e2-41b9-ae74-b11ced721f15",
+      "party_type": "Person",
+      "full_name": "Luca Cambiaso",
+      "cited_name": "Cambiaso, Luca",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1527-01-01",
+      "death_date": "1585-01-01",
+      "birth_place": "Genoa, Italy",
+      "death_place": "Madrid, Spain"
+    }
+  ]
+}

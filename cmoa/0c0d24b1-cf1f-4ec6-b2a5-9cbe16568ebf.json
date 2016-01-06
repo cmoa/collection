@@ -1,0 +1,39 @@
+{
+  "title": "Still Life with Chelsea Buns",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "oil on plywood",
+  "accession_number": "80.68",
+  "id": "cmoa:things/0c0d24b1-cf1f-4ec6-b2a5-9cbe16568ebf",
+  "credit_line": "Gift of Mary C. Hazard in honor of Leland Hazard (1893-1980",
+  "date_acquired": "1981-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.0,
+  "item_height": 22.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021287",
+  "provenance_text": "Mary C. Hazard, Pittsburgh, 1956/1957-1981; gift to Museum, February 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21470&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/160d2fa7-5585-414b-aca7-0f78786ff7c5",
+      "party_type": "Person",
+      "full_name": "Lucian Freud",
+      "cited_name": "Freud, Lucian",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1922-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Berlin (Berlin State, Germany)",
+      "death_place": "London"
+    }
+  ]
+}

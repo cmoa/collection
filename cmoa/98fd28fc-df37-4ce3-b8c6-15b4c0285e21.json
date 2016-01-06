@@ -1,0 +1,39 @@
+{
+  "title": "Bottle cooler",
+  "creation_date": "1781",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1781-01-01",
+  "medium": "soft paste porcelain, gilt",
+  "accession_number": "70.32.1411.2",
+  "id": "cmoa:things/98fd28fc-df37-4ce3-b8c6-15b4c0285e21",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 7.312,
+  "item_depth": 8.63,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013524",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1689&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

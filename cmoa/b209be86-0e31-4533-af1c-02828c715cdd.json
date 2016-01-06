@@ -1,0 +1,51 @@
+{
+  "title": "Centerpiece",
+  "creation_date": "c. 1788-1789",
+  "creation_date_earliest": "1783-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "silver stand & basket, cut glass bowl",
+  "accession_number": "76.62.3.A-C",
+  "id": "cmoa:things/b209be86-0e31-4533-af1c-02828c715cdd",
+  "credit_line": "Gift of Mrs. Paul Block",
+  "date_acquired": "1977-02-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.125,
+  "item_height": 7.125,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018214",
+  "provenance_text": "Mrs. Paul Block, New York, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1565&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/84816c12-13c6-4138-ad06-7ff39f5986bc",
+      "party_type": "Person",
+      "full_name": "John Wakelin",
+      "cited_name": "Wakelin, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1792-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ad669039-8a5d-439f-94d3-a46a458b12d8",
+      "party_type": "Person",
+      "full_name": "William Taylor",
+      "cited_name": "Taylor, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

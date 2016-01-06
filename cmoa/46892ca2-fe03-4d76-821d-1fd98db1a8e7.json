@@ -1,0 +1,42 @@
+{
+  "title": "Structure",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "pine",
+  "accession_number": "57.42.7",
+  "id": "cmoa:things/46892ca2-fe03-4d76-821d-1fd98db1a8e7",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 14.0,
+  "item_height": 53.0,
+  "item_depth": 22.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010585",
+  "provenance_text": "G. David Thompson, Pittsburgh, by 1957; gift to Museum, December 1957.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18128&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57289&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fc3453c-e9b9-4407-ba34-32998fa42d5b",
+      "party_type": "Person",
+      "full_name": "Isamu Noguchi",
+      "cited_name": "Noguchi, Isamu",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Los Angeles, CA",
+      "death_place": "New York, NY"
+    }
+  ]
+}

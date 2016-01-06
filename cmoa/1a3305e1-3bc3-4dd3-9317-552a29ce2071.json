@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "12th-13th century",
+  "creation_date_earliest": "1099-12-26",
+  "creation_date_latest": "1298-12-25",
+  "medium": "porcelain",
+  "accession_number": "57.12.10",
+  "id": "cmoa:things/1a3305e1-3bc3-4dd3-9317-552a29ce2071",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.125,
+  "item_depth": 0.0,
+  "item_diameter": 7.438,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010344",
+  "provenance_text": "G. David Thompson",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1679&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4faa896-b566-45ac-b1d4-258f598ad997",
+      "party_type": "Person",
+      "full_name": "unknown Persian",
+      "cited_name": "unknown Persian",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

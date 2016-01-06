@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1895 - 1915",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "blown glass with silver overlay",
+  "accession_number": "77.43.12",
+  "id": "cmoa:things/47037fd2-9c63-49bd-82ce-af6573c60c03",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.125,
+  "item_depth": 0.0,
+  "item_diameter": 2.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018643",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3060&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/112c463b-6b4e-4997-b73e-5cb3a47748e5",
+      "party_type": "Organization",
+      "full_name": "Loetz-Witwe",
+      "cited_name": "Loetz-Witwe",
+      "role": "attributed manufacturer",
+      "nationality": "Bohemian",
+      "birth_date": "1836-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

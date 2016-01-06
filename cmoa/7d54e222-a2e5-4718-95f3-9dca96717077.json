@@ -1,0 +1,39 @@
+{
+  "title": "Figure in a Boat",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "pencil",
+  "accession_number": "63.1.4",
+  "id": "cmoa:things/7d54e222-a2e5-4718-95f3-9dca96717077",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1963-03-28",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011625",
+  "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh; gift to museum, March 1963",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/308ba94f-4066-457d-afee-18340f371426",
+      "party_type": "Person",
+      "full_name": "Reg Butler",
+      "cited_name": "Butler, Reg",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1913-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": " Buntingford (Hertfordshire, England, United Kingdom)",
+      "death_place": " Berkhamsted (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

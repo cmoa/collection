@@ -1,0 +1,39 @@
+{
+  "title": "Stage Door Canteen",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2009.49.1",
+  "id": "cmoa:things/fc07b568-8d5e-430b-80ed-61ca43fc7ffb",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-10-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82635",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c9e883e-e91e-46b3-b095-44925f571bbb",
+      "party_type": "Person",
+      "full_name": "Rosalie Gwathmey",
+      "cited_name": "Gwathmey, Rosalie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

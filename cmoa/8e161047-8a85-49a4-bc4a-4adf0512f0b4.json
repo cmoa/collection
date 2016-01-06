@@ -1,0 +1,47 @@
+{
+  "title": "Scroll, Bird and Flower Painting",
+  "creation_date": "1568-1615",
+  "creation_date_earliest": "1567-12-22",
+  "creation_date_latest": "1615-01-01",
+  "medium": "linen, ivory, wood, and paint",
+  "accession_number": "63.15.2",
+  "id": "cmoa:things/8e161047-8a85-49a4-bc4a-4adf0512f0b4",
+  "credit_line": "Gift of Merlin C. Hamilton",
+  "date_acquired": "1963-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011626",
+  "provenance_text": "Merlin C. Hamilton, Pittsburgh,PA",
+  "classification": "Textiles",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

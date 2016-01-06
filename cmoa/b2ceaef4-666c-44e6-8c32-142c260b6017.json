@@ -1,0 +1,51 @@
+{
+  "title": "The Jew Rabbi [King Uzziah stricken by leprosy]",
+  "creation_date": "1778",
+  "creation_date_earliest": "1778-01-01",
+  "creation_date_latest": "1778-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.55",
+  "id": "cmoa:things/b2ceaef4-666c-44e6-8c32-142c260b6017",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34480",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39637&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eb69fb9b-0dd2-479d-9f45-f3b7b0207f83",
+      "party_type": "Person",
+      "full_name": "William Pether",
+      "cited_name": "Pether, William",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1739-01-01",
+      "death_date": "1821-01-01",
+      "birth_place": "Carlisle (Cumbria, England, United Kingdom)",
+      "death_place": "Bristol (Bristol, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

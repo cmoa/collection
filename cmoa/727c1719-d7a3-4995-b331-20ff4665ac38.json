@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Woman",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "watercolor on ivory; gold and enamel frame with leather back",
+  "accession_number": "27.10.238",
+  "id": "cmoa:things/727c1719-d7a3-4995-b331-20ff4665ac38",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 3.812,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005673",
+  "provenance_text": "Edmund F. Bonaventure [-1918], New York, NY, until September 10, 1918; Estate of Edmund F. Bonaventure, until November 2, 1918; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, November 2, 1918; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73687&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06ad785b-efd0-4912-9a86-9fa1835cbf32",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Isabey",
+      "cited_name": "Isabey, Jean-Baptiste",
+      "role": "school of",
+      "nationality": "French",
+      "birth_date": "1767-01-01",
+      "death_date": "1855-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

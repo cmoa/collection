@@ -1,0 +1,39 @@
+{
+  "title": "The Departure After the Party",
+  "creation_date": "1860",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "gouache and watercolor with gum arabic",
+  "accession_number": "92.8",
+  "id": "cmoa:things/a6a089f6-35ef-4d44-b58d-db787900dfd4",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "1992-01-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 17.0,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032716",
+  "provenance_text": "Ex-collection; Prof. Alfred Chatain, Chicago (c. 1929);  Mr. Stout;  Mrs. August Kern nee Struby, family Struby by descent, Denver, CO;  Mrs. August Kern, Denver, CO;   Denver Art Museum 1946;  Wheelock, Whitney & Company, NY, New York;",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/77501a50-b3f1-4686-9c50-4d760ca9eb9c",
+      "party_type": "Person",
+      "full_name": "Adolf von Menzel",
+      "cited_name": "Menzel, Adolf von",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1815-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "Wroclaw (Dolnoslaskie voivodship, Poland)",
+      "death_place": "Berlin, Germany"
+    }
+  ]
+}

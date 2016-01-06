@@ -1,0 +1,39 @@
+{
+  "title": "Landscape with Cows",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.34",
+  "id": "cmoa:things/3a79b62b-cabb-4f20-90be-c9fe96b3e8c9",
+  "credit_line": "Gift of Mrs. Grant McCargo",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 28.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011219",
+  "provenance_text": "Mrs. Grant McCargo, Laughlintown, Pennsylvania; gift to Museum, September 1960.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149577&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c24b3081-12ab-4188-87a7-befc9d2e6c2d",
+      "party_type": "Person",
+      "full_name": "unknown British",
+      "cited_name": "unknown British",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

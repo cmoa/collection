@@ -1,0 +1,39 @@
+{
+  "title": "Drawing for Untitled Painting",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "pencil and chalk on paper",
+  "accession_number": "2001.27",
+  "id": "cmoa:things/7c1c5fe0-a8f8-4400-beab-e3894e28f1b9",
+  "credit_line": "Gift of Emily Mason Kahn and Joan T. Washburn",
+  "date_acquired": "2001-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004230",
+  "provenance_text": "Washburn Gallery, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65537&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/853ce35a-4913-45b6-9c63-cf789e7d70a9",
+      "party_type": "Person",
+      "full_name": "Alice Trumbull Mason",
+      "cited_name": "Mason, Alice T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Litchfield, CT",
+      "death_place": "New York"
+    }
+  ]
+}

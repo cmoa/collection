@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Robert Adam",
+  "creation_date": "c. 1780",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.60",
+  "id": "cmoa:things/1ca9548d-e4bc-478d-8357-f253bb55c7dc",
+  "credit_line": "Gift of Sylvia R. Brooks",
+  "date_acquired": "1987-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.625,
+  "item_height": 37.875,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026219",
+  "provenance_text": "Harold H. Robertson; Sylvia R. Brooks, Sewickley, Pennsylvania, daughter of previous; gift to Museum, February 1987.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119892&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6b852bde-15f8-475a-9e9e-176f03858840",
+      "party_type": "Person",
+      "full_name": "Sir Henry Raeburn",
+      "cited_name": "Raeburn, Henry",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1823-01-01",
+      "birth_place": "Scotland (United Kingdom)",
+      "death_place": "Edinburgh (Edinburgh, Scotland, United Kingdom)"
+    }
+  ]
+}

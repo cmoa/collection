@@ -1,0 +1,39 @@
+{
+  "title": "The Sleeve",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.12.3",
+  "id": "cmoa:things/3d2ad11a-cdd0-41e9-b7a5-01191fa73a6b",
+  "credit_line": "Gift through the Museum Donor Program of the American Federation of the Arts",
+  "date_acquired": "1961-09-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 68.0,
+  "item_height": 79.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011366",
+  "provenance_text": "Robert Natikin [1930-]. Poindexter Gallery, New York, NY; purchased by American Federation of the Arts, New York, NY; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1961.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19391&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8f44634-4674-4f74-bfc3-e1fa91844f58",
+      "party_type": "Person",
+      "full_name": "Robert Natkin",
+      "cited_name": "Natkin, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Chicago, Illinois",
+      "death_place": null
+    }
+  ]
+}

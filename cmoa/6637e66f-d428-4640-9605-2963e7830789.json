@@ -1,0 +1,39 @@
+{
+  "title": "Feno",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "71.55",
+  "id": "cmoa:things/6637e66f-d428-4640-9605-2963e7830789",
+  "credit_line": "Gift of Mr. and Mrs. Arthur A. Goldberg",
+  "date_acquired": "1971-12-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 51.375,
+  "item_height": 67.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016261",
+  "provenance_text": "Samuel M. Kootz Gallery, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5eb5208e-b7f3-4e3b-9fde-bcb5e0680277",
+      "party_type": "Person",
+      "full_name": "Emil Schumacher",
+      "cited_name": "Schumacher, Emil",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1912-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Hagen, Nordrhein-Westfalen",
+      "death_place": null
+    }
+  ]
+}

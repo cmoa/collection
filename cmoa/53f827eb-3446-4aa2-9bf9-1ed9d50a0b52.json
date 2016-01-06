@@ -1,0 +1,45 @@
+{
+  "title": "The Passing Freight, Danbury",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "drypoint and sand ground on paper",
+  "accession_number": "48.9.4",
+  "id": "cmoa:things/53f827eb-3446-4aa2-9bf9-1ed9d50a0b52",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008435",
+  "provenance_text": "Arthur H. Harlow & Co., Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103668&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103665&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75884&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c416d62-6646-4668-9ca4-38dded8a7348",
+      "party_type": "Person",
+      "full_name": "Martin Lewis",
+      "cited_name": "Lewis, Martin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Castlemaine (Victoria, Australia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

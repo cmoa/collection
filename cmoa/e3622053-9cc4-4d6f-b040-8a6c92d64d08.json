@@ -1,0 +1,42 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1980",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "stoneware",
+  "accession_number": "1997.21.2",
+  "id": "cmoa:things/e3622053-9cc4-4d6f-b040-8a6c92d64d08",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1997-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003043",
+  "provenance_text": "Babcock Galleries, New York City, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101413&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101414&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff5f24ea-242d-49bb-8d2a-7bbf8e04611a",
+      "party_type": "Person",
+      "full_name": "Lucie Rie",
+      "cited_name": "Rie, Lucie",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1902-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

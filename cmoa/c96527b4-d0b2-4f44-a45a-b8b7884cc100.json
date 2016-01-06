@@ -1,0 +1,57 @@
+{
+  "title": "Beauty Applying Powder (Keshô)",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.855",
+  "id": "cmoa:things/c96527b4-d0b2-4f44-a45a-b8b7884cc100",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029046",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 8/25/1982.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32935&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32918&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a88127c5-7d98-4279-8221-40861db4e944",
+      "party_type": "Person",
+      "full_name": "Torii Kotondo",
+      "cited_name": "Torii Kotondo",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1900-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8907321e-bb59-4a81-8b25-915ae8b94b1d",
+      "party_type": "Organization",
+      "full_name": "Sekai/Kawaguchi",
+      "cited_name": "Sekai/Kawaguchi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

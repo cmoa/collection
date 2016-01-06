@@ -1,0 +1,42 @@
+{
+  "title": "The Dead Oak",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "etching",
+  "accession_number": "49.3.4",
+  "id": "cmoa:things/2b4f732c-e7ea-4a80-b756-02ce39c6e9f2",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008733",
+  "provenance_text": "Allen Lewis [1873-1953]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100542&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100541&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aeb4a952-fd31-4e15-9a65-8cfba0812d6f",
+      "party_type": "Person",
+      "full_name": "Allen Lewis",
+      "cited_name": "Lewis, Allen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dawn",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "52.20",
+  "id": "cmoa:things/acaa51f7-fcb4-4cba-b90f-3f234fc7fedc",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1952-12-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.375,
+  "item_height": 23.625,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009078",
+  "provenance_text": "Galerie Maeght, Paris, through 1952 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149524&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2359b07-0ead-4e1b-bc6f-7cc0e7f70979",
+      "party_type": "Person",
+      "full_name": "Jean René Bazaine",
+      "cited_name": "Bazaine, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1904-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

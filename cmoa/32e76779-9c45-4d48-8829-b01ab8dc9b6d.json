@@ -1,0 +1,39 @@
+{
+  "title": "Huntington Harbor II",
+  "creation_date": "c. 1926",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "sand, cloth, wood chips, and oil on metal support",
+  "accession_number": "93.189.25",
+  "id": "cmoa:things/32e76779-9c45-4d48-8829-b01ab8dc9b6d",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 12.75,
+  "item_height": 10.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033291",
+  "provenance_text": "Estate of the artist; The Downtown Gallery, Inc., New York; Mr. and Mrs. James H. Beal, Pittsburgh, 1955; bequest to museum, February 1994",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3606&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6af62b1e-4bb7-4c98-9833-a0d4f41d79c6",
+      "party_type": "Person",
+      "full_name": "Arthur Garfield Dove",
+      "cited_name": "Dove, Arthur G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Canandaigua (Ontario county, New York state, United States)",
+      "death_place": "Long Island, New York"
+    }
+  ]
+}

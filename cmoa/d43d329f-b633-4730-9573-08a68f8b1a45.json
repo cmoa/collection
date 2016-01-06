@@ -1,0 +1,39 @@
+{
+  "title": "Stock Certificate of Rockwell Kent, Inc.",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "impression from zinc plate",
+  "accession_number": "43.4.72",
+  "id": "cmoa:things/d43d329f-b633-4730-9573-08a68f8b1a45",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007465",
+  "provenance_text": "Rockwell Kent [1882-1971]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101090&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c93b85a2-9f1f-4e02-bf54-090918fe7976",
+      "party_type": "Person",
+      "full_name": "Rockwell Kent",
+      "cited_name": "Kent, Rockwell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " Tarrytown (Albany county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

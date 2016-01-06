@@ -1,0 +1,39 @@
+{
+  "title": "Michel le Tellier",
+  "creation_date": "1658",
+  "creation_date_earliest": "1658-01-01",
+  "creation_date_latest": "1658-01-01",
+  "medium": "engraving",
+  "accession_number": "49.2.28",
+  "id": "cmoa:things/c951dc04-aff2-48f4-844e-512bb5c91c10",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008533",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

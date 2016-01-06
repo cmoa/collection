@@ -1,0 +1,39 @@
+{
+  "title": "Wakayama Castle",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.139.2",
+  "id": "cmoa:things/e20411b2-e02e-48bc-9267-2cdc963c436d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 12.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027277",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T. Z. Shiota, San Francisco, CA., 9/18/1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34207&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f505b046-c89f-4640-beb5-0d6685b83055",
+      "party_type": "Person",
+      "full_name": "Hashimoto Okiie",
+      "cited_name": "Hashimoto Okiie",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1899-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Japan, Tottori-ken",
+      "death_place": null
+    }
+  ]
+}

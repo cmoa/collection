@@ -1,0 +1,39 @@
+{
+  "title": "Sword and Pistols",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "pen",
+  "accession_number": "06.3.7",
+  "id": "cmoa:things/339af13c-c99a-4cf9-8c4d-37f1c662d1e4",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-11-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000240",
+  "provenance_text": "The Century Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36146&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f03d730b-95cb-4316-af2f-4105363ec207",
+      "party_type": "Person",
+      "full_name": "Alfred Laurens  Brennan",
+      "cited_name": "Brennan, Alfred L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1921-01-01",
+      "birth_place": " Louisville (Jefferson county, Kentucky, United States)",
+      "death_place": " Brooklyn (New York City, New York state, United States)"
+    }
+  ]
+}

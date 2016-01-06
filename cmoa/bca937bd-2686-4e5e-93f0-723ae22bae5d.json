@@ -1,0 +1,42 @@
+{
+  "title": "The Cathedral of Learning",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.9",
+  "id": "cmoa:things/bca937bd-2686-4e5e-93f0-723ae22bae5d",
+  "credit_line": "John O'Connor, Jr. Fund",
+  "date_acquired": "1972-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 30.125,
+  "item_height": 24.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016598",
+  "provenance_text": "Valentine Gallery [1924-1948], New York, 1935; Adelaide Milton de Groot [1876-1967], New York, 1935; Metropolitan Museum of Art [1870-], New York, 1967; Harold Diamond [-1982], New York, 1972; purchased by Museum, 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115364&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

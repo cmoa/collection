@@ -1,0 +1,48 @@
+{
+  "title": "Boy Hairdresser",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "mirror, wood, metal, paint, and glass beads",
+  "accession_number": "2001.45.2.A-.Z",
+  "id": "cmoa:things/f4dba0a6-f834-40ba-8fdb-524fd5e9cfa9",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2001-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 149.0,
+  "item_height": 87.0,
+  "item_depth": 27.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004345",
+  "provenance_text": "Anton Kern Gallery, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117557&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117558&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17741&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57646&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ee3b48c-1891-416f-8243-1c9742c6a606",
+      "party_type": "Person",
+      "full_name": "Jim Lambie",
+      "cited_name": "Lambie, Jim",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Airdrie (North Lanarkshire, Scotland, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1800-1864",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "48.3.1",
+  "id": "cmoa:things/19d9aa80-5d8b-4b22-9f5f-4560f3f69c8c",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.125,
+  "item_depth": 0.0,
+  "item_diameter": 1.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008345",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eb4b95ac-0fd2-46c1-950b-745a9fcc9728",
+      "party_type": "Organization",
+      "full_name": "William Adams and Sons",
+      "cited_name": "Adams, William and Sons",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1769-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

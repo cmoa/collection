@@ -1,0 +1,39 @@
+{
+  "title": "Lighthouse",
+  "creation_date": "c. 1912",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "ink and pencil",
+  "accession_number": "57.30",
+  "id": "cmoa:things/5b50458c-3c0d-4dcd-b84d-b4e685e40f0d",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010455",
+  "provenance_text": "Kirchner estate;  sold by Kirchner's brother to Stuttgarter Kunstkabinett auction house;  Bought at auction by Dr. Charlotte Weidler, NYC;  Purchased by museum from Charlotte Weidler, 1957",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99808&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d07bc025-039d-4dde-a4c9-ad634aa08794",
+      "party_type": "Person",
+      "full_name": "Ernst Ludwig Kirchner",
+      "cited_name": "Kirchner, Ernst L.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1880-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Aschaffenburg (Unterfranken, Bavaria, Germany)",
+      "death_place": "Frauenkirch (Graubünden, Switzerland)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "History (So I Yellow)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "Screen print",
+  "accession_number": "2006.2.3",
+  "id": "cmoa:things/3e8fd3fb-283c-4030-8a01-0b4bc0a158cf",
+  "credit_line": "Davenport Fund",
+  "date_acquired": "2006-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.125,
+  "item_height": 30.375,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=20638",
+  "provenance_text": "Artist\nRoberts & Tilton (gallery), Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23206&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff6706d4-ccbd-487e-99fb-e6fa22a32998",
+      "party_type": "Person",
+      "full_name": "Adam Pendleton",
+      "cited_name": "Pendleton, Adam",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1980-01-01",
+      "death_date": null,
+      "birth_place": "Richmond, Virginia",
+      "death_place": null
+    }
+  ]
+}

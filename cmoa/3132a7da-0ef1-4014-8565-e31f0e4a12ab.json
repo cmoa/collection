@@ -1,0 +1,42 @@
+{
+  "title": "Radierung für \"24 Essais de Jakovski\"",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "drypoint",
+  "accession_number": "2002.23",
+  "id": "cmoa:things/3132a7da-0ef1-4014-8565-e31f0e4a12ab",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=63",
+  "provenance_text": "Vassily Kandinsky [1866-1944]. (Sold at Charles M. Young Fine Prints and Drawings, LLC, Glastonbury, CT); purchased by Carnegie Museum of Art, Pittsburgh, PA, June 2002.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29669&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32174&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/85b674a4-7f05-41f2-b13c-b47821b8ca5a",
+      "party_type": "Person",
+      "full_name": "Vassily Kandinsky",
+      "cited_name": "Kandinsky, Vassily",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1866-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": " Moscow (Moskva autonomous city, Rossiya republic, Russia)",
+      "death_place": "Neuilly-sur-Seine (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "The Bell Tower at Todaiji in Nara (Nara Tôdaiji Ôgane tô)",
+  "creation_date": "October 1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.713.29",
+  "id": "cmoa:things/5dc8c4f1-ecc1-4a38-bbe9-e6b8356ffae4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.563,
+  "item_height": 9.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028761",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from C. H. Mitchell, Tokyo, Japan, 1970's.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b66a413-a559-45c7-a0bb-0cd0d1f66832",
+      "party_type": "Person",
+      "full_name": "Kotozuka Eiichi",
+      "cited_name": "Kotozuka Eiichi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1906-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Osaka",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Head of a Boy",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "pencil",
+  "accession_number": "18.25.3",
+  "id": "cmoa:things/eae78eec-5b1d-451d-afc8-f58e1611a715",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001773",
+  "provenance_text": "American Artists' War Emergency Fund, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89493&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99222&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9df95319-1acf-4c15-8618-37406decbb23",
+      "party_type": "Person",
+      "full_name": "George de Forest Brush",
+      "cited_name": "Brush, George de Forest",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1855-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": "Shelbyville (Bedford county, Tennessee, United States)",
+      "death_place": "Hanover (Grafton county, New Hampshire, United States)"
+    }
+  ]
+}

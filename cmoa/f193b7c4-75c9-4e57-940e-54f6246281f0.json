@@ -1,0 +1,51 @@
+{
+  "title": "Margaret of Anjou (from Shakespeare, Henry VI, part 1)",
+  "creation_date": "January 20,1784",
+  "creation_date_earliest": "1784-01-20",
+  "creation_date_latest": "1784-01-20",
+  "medium": "etching and aquatint in color",
+  "accession_number": "19.1.113",
+  "id": "cmoa:things/f193b7c4-75c9-4e57-940e-54f6246281f0",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001876",
+  "provenance_text": "Mrs. Heasley, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100073&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a623dddf-d864-44a3-ae02-0d1a5d08fe54",
+      "party_type": "Person",
+      "full_name": "Charles White",
+      "cited_name": "White, Charles",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1751-01-01",
+      "death_date": "1785-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/51142d90-1b2a-43d8-a601-e7ca23cc7516",
+      "party_type": "Person",
+      "full_name": "Thomas Stothard",
+      "cited_name": "Stothard, Thomas",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1755-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Peony dish",
+  "creation_date": "1752-1756",
+  "creation_date_earliest": "1752-01-01",
+  "creation_date_latest": "1756-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1849",
+  "id": "cmoa:things/1d19aa0e-84f7-40b6-8af1-960a019c8d65",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.063,
+  "item_height": 2.875,
+  "item_depth": 8.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014000",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4243&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38e5b02d-043f-4256-b462-b8b639bf39e0",
+      "party_type": "Organization",
+      "full_name": "Chelsea Porcelain Factory",
+      "cited_name": "Chelsea Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1745-01-01",
+      "death_date": "1769-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

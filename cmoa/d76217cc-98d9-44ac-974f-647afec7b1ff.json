@@ -1,0 +1,42 @@
+{
+  "title": "M for Milkmaid",
+  "creation_date": "1898",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "proof (hand-colored)",
+  "accession_number": "25.16.13",
+  "id": "cmoa:things/d76217cc-98d9-44ac-974f-647afec7b1ff",
+  "credit_line": "Gift of Mr. Brown Caldwell and his sister, Mrs. Girard Fountain",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005212",
+  "provenance_text": "Brown Caldwell And Mrs. Girard Fountain",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104595&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104596&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/14e894cb-c5c3-4aaf-b357-20a6a00b3a60",
+      "party_type": "Person",
+      "full_name": "Sir William Nicholson",
+      "cited_name": "Nicholson, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1872-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Newark-on-Trent (Nottinghamshire, England, United Kingdom)",
+      "death_place": "Berkshire (England, United Kingdom)"
+    }
+  ]
+}

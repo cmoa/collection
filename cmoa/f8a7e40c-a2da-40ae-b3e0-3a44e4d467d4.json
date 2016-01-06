@@ -1,0 +1,39 @@
+{
+  "title": "Cast medal",
+  "creation_date": "1892",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "plaster in cardboard mount",
+  "accession_number": "78.34.34",
+  "id": "cmoa:things/f8a7e40c-a2da-40ae-b3e0-3a44e4d467d4",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.313,
+  "item_depth": 0.0,
+  "item_diameter": 2.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019978",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5107&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3fcba34b-2619-4432-ad80-fa326e7d443d",
+      "party_type": "Person",
+      "full_name": "Elihu Vedder",
+      "cited_name": "Vedder, Elihu",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

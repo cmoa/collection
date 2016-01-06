@@ -1,0 +1,39 @@
+{
+  "title": "Ikarigaseki",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1243",
+  "id": "cmoa:things/17da434d-5359-4fe0-afab-ffaad87d1c24",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027032",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 10/5/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7fc4ae83-053a-4125-8357-c1d7121851c3",
+      "party_type": "Person",
+      "full_name": "Shimozawa Kihachirô",
+      "cited_name": "Shimozawa Kihachirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1901-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

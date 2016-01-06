@@ -1,0 +1,42 @@
+{
+  "title": "Horus, Falcon-Form",
+  "creation_date": "26th Dynasty, 664-525 BCE",
+  "creation_date_earliest": "-0664-01-08",
+  "creation_date_latest": "-0525-01-07",
+  "medium": "bronze",
+  "accession_number": "73.45.2",
+  "id": "cmoa:things/d66dff7a-ff1b-43ff-980f-f0423f38cb75",
+  "credit_line": "Anonymous gift",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 7.875,
+  "item_height": 9.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016735",
+  "provenance_text": "Anonymous donor, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, December, 1973.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28272&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2df2db8-1e91-43b6-ab5b-39970eb1cf51",
+      "party_type": "Person",
+      "full_name": "unknown Egyptian",
+      "cited_name": "unknown Egyptian",
+      "role": null,
+      "nationality": "Egyptian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Geometry",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "amboyna burl",
+  "accession_number": "2008.24.8",
+  "id": "cmoa:things/f12df90e-e5a4-4909-b985-842c7006e465",
+  "credit_line": "Gift of P. McCauley",
+  "date_acquired": "2008-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 5.0,
+  "item_height": 1.125,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57213",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61827&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32725e5d-b251-4381-9852-b948387f40d2",
+      "party_type": "Person",
+      "full_name": "Norm Sartorius",
+      "cited_name": "Sartorius, Norm",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Salisbury, Maryland",
+      "death_place": null
+    }
+  ]
+}

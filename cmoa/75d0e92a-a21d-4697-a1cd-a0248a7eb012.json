@@ -1,0 +1,51 @@
+{
+  "title": "Square Basket",
+  "creation_date": "1976 (designed) 1984 (manufactured)",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "stainless steel and rubber",
+  "accession_number": "85.53.2",
+  "id": "cmoa:things/75d0e92a-a21d-4697-a1cd-a0248a7eb012",
+  "credit_line": "Purchase: gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.438,
+  "item_height": 3.5,
+  "item_depth": 11.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025684",
+  "provenance_text": "D. F. Sanders and Company, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3748&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c855ebc5-3bdc-4702-a35d-0b4247348262",
+      "party_type": "Person",
+      "full_name": "Silvio Coppola",
+      "cited_name": "Coppola, Silvio",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1920-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": " Brindisi (Brindisi province, Apulia, Italy)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7370a757-5466-4e84-9072-11c9c19b35d4",
+      "party_type": "Organization",
+      "full_name": "Alessi",
+      "cited_name": "Alessi",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Industrial Landscape, Latrobe, Pennsylvania, 1990",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "90.15.2",
+  "id": "cmoa:things/4a599fe1-4b63-431e-9f39-238f90f2fc8d",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 80th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1990-09-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.25,
+  "item_height": 24.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029338",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114861&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f16c0c19-3f93-471d-9bc3-6fa4ac8f7d42",
+      "party_type": "Person",
+      "full_name": "Richard A. Stoner",
+      "cited_name": "Stoner, Richard A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

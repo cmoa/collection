@@ -1,0 +1,49 @@
+{
+  "title": "Stacking chair (\"the Ant\")",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "plywood and chromed steel",
+  "accession_number": "84.112.4",
+  "id": "cmoa:things/31f71f2a-0a43-4d37-8d2d-48b880e376a7",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 20.125,
+  "item_height": 30.375,
+  "item_depth": 18.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024512",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e514797-d356-4cf1-b1b1-9ad823b695a3",
+      "party_type": "Person",
+      "full_name": "Arne Jacobsen",
+      "cited_name": "Jacobsen, Arne",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1902-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Copenhagen (København commune, Denmark)",
+      "death_place": "Copenhagen (København commune, Denmark)"
+    },
+    {
+      "artist_id": "cmoa:parties/d0cafc9c-b15d-481c-981a-f3bd11056854",
+      "party_type": "Organization",
+      "full_name": "Fritz Hansen, A/S",
+      "cited_name": "Fritz Hansen, A/S",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1872-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

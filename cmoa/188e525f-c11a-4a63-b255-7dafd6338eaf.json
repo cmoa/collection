@@ -1,0 +1,45 @@
+{
+  "title": "Two Panels: Green Orange",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2002.32.3",
+  "id": "cmoa:things/188e525f-c11a-4a63-b255-7dafd6338eaf",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 107.25,
+  "item_height": 70.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=362",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119271&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48327&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57640&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d546b0cb-517a-4856-a087-9f6d12087851",
+      "party_type": "Person",
+      "full_name": "Ellsworth Kelly",
+      "cited_name": "Kelly, Ellsworth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": "Newburgh (Orange county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

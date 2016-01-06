@@ -1,0 +1,42 @@
+{
+  "title": "(offerings)",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "glass vitrine, metal, wax",
+  "accession_number": "92.6.1",
+  "id": "cmoa:things/b7a3d596-a5b8-4b48-a65d-af69cd39e78a",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1992-01-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 84.25,
+  "item_height": 42.0,
+  "item_depth": 35.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032651",
+  "provenance_text": "Louver Gallery, NY, New York through the 51st Carnegie International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147069&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147062&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e92d744-4eb4-4792-b5c4-6fd2dc4039ef",
+      "party_type": "Person",
+      "full_name": "Ann Hamilton",
+      "cited_name": "Hamilton, Ann",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": "Lima, Ohio, USA",
+      "death_place": null
+    }
+  ]
+}

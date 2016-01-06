@@ -1,0 +1,42 @@
+{
+  "title": "Blue Cocoon #1, Hong Kong",
+  "creation_date": "2008, printed in 2010",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2011.14.1",
+  "id": "cmoa:things/5dbc41ee-e519-4fa1-8a3a-6f0f2d666c6b",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2011-04-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 50.0,
+  "item_height": 40.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92800",
+  "provenance_text": "Peter Steinhauer, Hong Kong (2010)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118715&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103789&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db78780c-b90b-4289-93f2-c8d132d82166",
+      "party_type": "Person",
+      "full_name": "Peter Steinhauer",
+      "cited_name": "Steinhauer, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "Boulder, Colorado",
+      "death_place": null
+    }
+  ]
+}

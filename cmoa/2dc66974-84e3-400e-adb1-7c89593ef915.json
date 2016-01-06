@@ -1,0 +1,39 @@
+{
+  "title": "Abe Lincoln's First Book",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "68.20",
+  "id": "cmoa:things/2dc66974-84e3-400e-adb1-7c89593ef915",
+  "credit_line": "Gift of Mr. and Mrs. James L. Winokur",
+  "date_acquired": "1968-10-16",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 30.0,
+  "item_height": 24.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012407",
+  "provenance_text": "Downtown Gallery, New York, 1944; Mr. and Mrs. Alvin P. Fenderson, Paoli, PA, by 1947. (Makler Gallery [1960-1989], Philadelphia); Mr. and Mrs. James L. Winokur, Pittsburgh, 1965? until 1968. Gift to museum, 1968.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133312&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/918013c9-6072-4732-afd7-7ca6687e057d",
+      "party_type": "Person",
+      "full_name": "Horace Pippin",
+      "cited_name": "Pippin, Horace",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "West Chester (Chester county, Pennsylvania, United States)",
+      "death_place": "West Chester (Chester county, Pennsylvania, United States)"
+    }
+  ]
+}

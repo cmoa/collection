@@ -1,0 +1,42 @@
+{
+  "title": "An Indian Chief",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "graphite, pen and ink and ink wash on paper",
+  "accession_number": "18.25.2",
+  "id": "cmoa:things/9d855c2a-7137-4ca9-bb99-c1ff9b97ce72",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001771",
+  "provenance_text": "American Artists' War Emergency Fund, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84820&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47733&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1932c9c4-c6d3-467f-8239-b4bf88651241",
+      "party_type": "Person",
+      "full_name": "Ernest L. Blumenschein",
+      "cited_name": "Blumenschein, Ernest L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Taos"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Wise Virgins Prepare for the Wedding",
+  "creation_date": "1606",
+  "creation_date_earliest": "1606-01-01",
+  "creation_date_latest": "1606-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.12",
+  "id": "cmoa:things/c6e03cc7-4b7d-4c39-a388-2484050f9323",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005168",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102145&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ef68600-4822-43c5-a5b6-1d0a59b48180",
+      "party_type": "Person",
+      "full_name": "Jan Saenredam",
+      "cited_name": "Saenredam, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1607-01-01",
+      "birth_place": "Zaandam (North Holland, Netherlands)",
+      "death_place": " Assendelft (North Holland, Netherlands)"
+    }
+  ]
+}

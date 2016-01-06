@@ -1,0 +1,39 @@
+{
+  "title": "Fruit",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "laminated wood and galvanized steel",
+  "accession_number": "85.60",
+  "id": "cmoa:things/12ddd526-81be-4c40-8215-2a9327289884",
+  "credit_line": "Purchase: gift of Robert S. Waters Charitable Trust Fund, Mary Hillman Jennings Foundation, and Mr. and Mrs. William M. Donnelly",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 175.0,
+  "item_height": 39.375,
+  "item_depth": 86.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025708",
+  "provenance_text": "Lisson Gallery, London; ; Carnegie Museum of Art, Pittsburgh; Purchase: gift of Roert S. Waters Charitable Trust, the Mary Hillman Jennings Foundation, and Mr. and Mrs. William M. Donnelly",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8060&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a601e1af-c193-43c2-a994-e9f5389e8fa0",
+      "party_type": "Person",
+      "full_name": "Richard Deacon",
+      "cited_name": "Deacon, Richard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Wales",
+      "death_place": null
+    }
+  ]
+}

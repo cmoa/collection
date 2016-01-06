@@ -1,0 +1,51 @@
+{
+  "title": "Chaise lounge",
+  "creation_date": "1956 (designed) 1975 (manufactured)",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "rosewood, plywood, aluminum base, leather upholstery, polydacron filling",
+  "accession_number": "77.47.1",
+  "id": "cmoa:things/f1295543-4195-43a2-8e3c-46e2a93ad229",
+  "credit_line": "Roy A. Hunt Foundation Fund",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 33.25,
+  "item_depth": 33.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018911",
+  "provenance_text": "Herman Miller, Zeeland, Michigan",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56511&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

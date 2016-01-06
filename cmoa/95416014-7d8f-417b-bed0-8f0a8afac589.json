@@ -1,0 +1,39 @@
+{
+  "title": "Two Slender Lines",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "stainless steel",
+  "accession_number": "81.29.1",
+  "id": "cmoa:things/95416014-7d8f-417b-bed0-8f0a8afac589",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1981-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 30.0,
+  "item_height": 279.0,
+  "item_depth": 0.0,
+  "item_diameter": 288.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021820",
+  "provenance_text": "George Rickey, East Chatham, NJ",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37208&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c35561b8-cb24-4f12-b12b-eb56d628136e",
+      "party_type": "Person",
+      "full_name": "George Rickey",
+      "cited_name": "Rickey, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "South Bend (Saint Joseph county, Indiana, United States)",
+      "death_place": "Saint Paul (Ramsey county, Minnesota, United States)"
+    }
+  ]
+}

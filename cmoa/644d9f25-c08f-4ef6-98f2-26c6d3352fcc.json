@@ -1,0 +1,51 @@
+{
+  "title": "Landi chair",
+  "creation_date": "designed 1939, manufactured before 1962",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "molded, heat-treated and stained aluminum and rubber",
+  "accession_number": "2000.9.1.1",
+  "id": "cmoa:things/644d9f25-c08f-4ef6-98f2-26c6d3352fcc",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.25,
+  "item_height": 30.0,
+  "item_depth": 24.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004142",
+  "provenance_text": "Phillips Son & Neale Limited, London",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54625&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab9a1438-8a31-44fd-9427-2bba3be89b95",
+      "party_type": "Person",
+      "full_name": "Hans Coray",
+      "cited_name": "Coray, Hans",
+      "role": "designer",
+      "nationality": "Swiss",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7cabb330-3587-4904-a8a2-b93591143bac",
+      "party_type": "Organization",
+      "full_name": "Blattmann Metallwarenfabrik AG",
+      "cited_name": "Blattmann Metallwarenfabrik AG",
+      "role": "manufacturer",
+      "nationality": "Swiss",
+      "birth_date": "1838-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

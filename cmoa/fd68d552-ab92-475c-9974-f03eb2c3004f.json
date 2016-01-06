@@ -1,0 +1,51 @@
+{
+  "title": "Vase de Chevilly (a Pans)",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "porcelain with enameled decoration and gilt-bronze mount",
+  "accession_number": "92.104",
+  "id": "cmoa:things/fd68d552-ab92-475c-9974-f03eb2c3004f",
+  "credit_line": "Vivian W. Lehman Bequest and Schoonmaker Memorial Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030111",
+  "provenance_text": "Le Pavillon de Sevres Ltd., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11983&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c33ac25b-39a4-4f99-9d9d-4d856842be61",
+      "party_type": "Person",
+      "full_name": "Alexandre Sandier",
+      "cited_name": "Sandier, Alexandre",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1843-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Night",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "bronze, skin renewed by cold chiseling",
+  "accession_number": "60.49",
+  "id": "cmoa:things/a6c60fea-7751-43ec-b247-81b30e39469e",
+  "credit_line": "Gift of the A. W. Mellon Educational and Charitable Trust",
+  "date_acquired": "1960-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Museum Grounds",
+  "item_width": 43.5,
+  "item_height": 41.5,
+  "item_depth": 24.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011326",
+  "provenance_text": "Lucian Maillol, the artist's son [1896-], after 1944?; Billy Rose; G. David Thompson, Pittsburgh, PA. Galerie Beyeler, Basel, Switzerland, by 1960 [1]. Purchased by Museum, by 1960. \nNOTES:1. Ernst Beyeler may have acted as agent.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100682&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce984934-bff0-4c62-b1d8-014631d2399c",
+      "party_type": "Person",
+      "full_name": "Aristide Maillol",
+      "cited_name": "Maillol, Aristide",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1861-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Banyuls-sur-Mer (Pyrénées-Orientales, Languedoc-Roussillon, France)",
+      "death_place": "Perpignan (Pyrénées-Orientales, Languedoc-Roussillon, France)"
+    }
+  ]
+}

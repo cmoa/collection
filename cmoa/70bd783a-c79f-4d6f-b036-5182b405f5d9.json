@@ -1,0 +1,37 @@
+{
+  "title": "Barn Landscape",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "85.74",
+  "id": "cmoa:things/70bd783a-c79f-4d6f-b036-5182b405f5d9",
+  "credit_line": "Gift of Ben Wunsch",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.875,
+  "item_height": 25.25,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025775",
+  "provenance_text": "Martin S. Ackerman, Barst and Mukamal, NYC",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b669ffb-b03c-4a08-91fd-7dd624a54a77",
+      "party_type": "Person",
+      "full_name": "Ben Benn",
+      "cited_name": "Benn, Ben",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Bialystok (Podlaskie voivodship, Poland)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Gellius de Bouma",
+  "creation_date": "c. 1656",
+  "creation_date_earliest": "1651-01-01",
+  "creation_date_latest": "1661-01-01",
+  "medium": "engraving",
+  "accession_number": "18.17.1",
+  "id": "cmoa:things/e81d178d-3592-4341-a189-e6be3636c344",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001696",
+  "provenance_text": "M. Knoedler & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125724&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04144fa8-8c16-4a41-8a7c-875b9fd07077",
+      "party_type": "Person",
+      "full_name": "Cornelis Visscher",
+      "cited_name": "Visscher, Cornelis",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1629-01-01",
+      "death_date": "1658-01-01",
+      "birth_place": "possibly Haarlem, Netherlands",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

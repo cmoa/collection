@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "1827-1828",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1828-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "72.60.7.1",
+  "id": "cmoa:things/ef3f9580-de86-4090-bd7f-a8648a6465c5",
+  "credit_line": "Gift of Mr. and Mrs. R. C. Ernst",
+  "date_acquired": "1973-07-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.313,
+  "item_height": 6.75,
+  "item_depth": 6.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016507",
+  "provenance_text": "Gift of Mr. and Mrs. R. C. Ernst, 1972.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6027&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5a969a9-3a70-4173-8b3f-2c36115db171",
+      "party_type": "Person",
+      "full_name": "John Edward Terrey",
+      "cited_name": "Terrey, John E.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1816-01-01",
+      "death_date": null,
+      "birth_place": "London",
+      "death_place": null
+    }
+  ]
+}

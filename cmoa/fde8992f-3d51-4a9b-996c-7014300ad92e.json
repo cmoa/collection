@@ -1,0 +1,39 @@
+{
+  "title": "Check",
+  "creation_date": null,
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "black ink on ledger paper",
+  "accession_number": "42.10.1",
+  "id": "cmoa:things/fde8992f-3d51-4a9b-996c-7014300ad92e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007286",
+  "provenance_text": "M. A. McDonald",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76453&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3ea3cdc-b72b-40af-a2e1-1c3a96cfbb80",
+      "party_type": "Person",
+      "full_name": "Frank Hartley Anderson",
+      "cited_name": "Anderson, Frank Hartley",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Mountain Hall, Georgia"
+    }
+  ]
+}

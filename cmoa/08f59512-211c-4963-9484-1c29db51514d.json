@@ -1,0 +1,51 @@
+{
+  "title": "Yokohama International Port Terminal, Yokohama, Japan; [model]",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "molded plastic and metal",
+  "accession_number": "95.87.1",
+  "id": "cmoa:things/08f59512-211c-4963-9484-1c29db51514d",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1995-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 70.0,
+  "item_height": 13.0,
+  "item_depth": 25.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035841",
+  "provenance_text": "Andrew Ingham & Associates, London, England",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e3cde009-0528-4cca-9034-89134f09ef26",
+      "party_type": "Organization",
+      "full_name": "Foreign Office Architects",
+      "cited_name": "Foreign Office Architects",
+      "role": "architects",
+      "nationality": "British",
+      "birth_date": "1992-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f2216618-d771-4590-a19e-99f82c65f878",
+      "party_type": "Organization",
+      "full_name": "Andrew Ingham & Associates",
+      "cited_name": "Ingham, Andrew & Associates",
+      "role": "maker",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

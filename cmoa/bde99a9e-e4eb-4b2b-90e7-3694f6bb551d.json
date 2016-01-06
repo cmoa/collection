@@ -1,0 +1,39 @@
+{
+  "title": "Guardian figure",
+  "creation_date": "Tang Dynasty, 618-906",
+  "creation_date_earliest": "0617-12-29",
+  "creation_date_latest": "0905-12-27",
+  "medium": "earthenware",
+  "accession_number": "73.48.30",
+  "id": "cmoa:things/bde99a9e-e4eb-4b2b-90e7-3694f6bb551d",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 0.0,
+  "item_height": 32.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016770",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3307&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

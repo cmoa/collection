@@ -1,0 +1,39 @@
+{
+  "title": "Scalisi: The Mystery of Mushrooms",
+  "creation_date": "2/8/2008",
+  "creation_date_earliest": "2008-02-08",
+  "creation_date_latest": "2008-02-08",
+  "medium": "chromogenic print with hand applied text",
+  "accession_number": "2008.30.13",
+  "id": "cmoa:things/b17049a9-504e-4a0a-8965-780a38e469cf",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=63807",
+  "provenance_text": "The artist, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72604&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

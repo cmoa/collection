@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "1751-1783",
+  "creation_date_earliest": "1751-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "porcelain",
+  "accession_number": "23.10.8-.9",
+  "id": "cmoa:things/6ceaaf36-50af-4a1a-aa2a-81e23c40b28c",
+  "credit_line": "Gift of Reverend Alfred Duane Pell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15321",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3164&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Costume Study of a Man",
+  "creation_date": "1876",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "etching",
+  "accession_number": "23.1.1",
+  "id": "cmoa:things/51ec334e-4b9d-45ae-b493-7eee8e0c6f9c",
+  "credit_line": "Gift of the Cincinnati Museum Association",
+  "date_acquired": "1923-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.438,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004816",
+  "provenance_text": "Cincinnati Museum Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/31cd6bf2-b230-4cd8-9534-9658420d4cf7",
+      "party_type": "Person",
+      "full_name": "Robert Frederick  Blum",
+      "cited_name": "Blum, Robert F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1903-01-01",
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

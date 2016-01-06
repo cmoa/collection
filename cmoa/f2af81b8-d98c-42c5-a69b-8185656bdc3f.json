@@ -1,0 +1,42 @@
+{
+  "title": "Girl's Head",
+  "creation_date": null,
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.11",
+  "id": "cmoa:things/f2af81b8-d98c-42c5-a69b-8185656bdc3f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.813,
+  "item_height": 21.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008133",
+  "provenance_text": "Max Kahn",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103749&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75907&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eecc2050-f95b-4faa-9a3b-d838e219798b",
+      "party_type": "Person",
+      "full_name": "Max Kahn",
+      "cited_name": "Kahn, Max",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

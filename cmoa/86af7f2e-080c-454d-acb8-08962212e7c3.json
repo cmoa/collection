@@ -1,0 +1,39 @@
+{
+  "title": "A Fast Time",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "glass, blown and cut",
+  "accession_number": "2007.17.5",
+  "id": "cmoa:things/86af7f2e-080c-454d-acb8-08962212e7c3",
+  "credit_line": "Gift of Maxine H. Block",
+  "date_acquired": "2007-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 12.5,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=36849",
+  "provenance_text": "collection of Willam & Maxine Block",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49516&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c3b7a75-d288-4098-9398-578d58cabba3",
+      "party_type": "Person",
+      "full_name": "Lisbeth Sterling",
+      "cited_name": "Sterling, Lisbeth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

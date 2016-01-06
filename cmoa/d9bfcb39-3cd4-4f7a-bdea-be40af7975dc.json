@@ -1,0 +1,39 @@
+{
+  "title": "Man with a Lion",
+  "creation_date": "c. 1660",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1675-01-01",
+  "medium": "terracotta",
+  "accession_number": "69.34.4",
+  "id": "cmoa:things/d9bfcb39-3cd4-4f7a-bdea-be40af7975dc",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1969-09-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 11.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012562",
+  "provenance_text": "Collection of George Swarzenski\nParke-Bernet Galleries, New York, NY. Sale #2855, May 8, 1969, lot 140",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2962&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b82714-0021-4457-a978-328985bada6e",
+      "party_type": "Person",
+      "full_name": "Melchiore Cafa",
+      "cited_name": "Cafa, Melchiore",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1630-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

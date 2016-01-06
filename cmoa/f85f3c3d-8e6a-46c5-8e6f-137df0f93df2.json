@@ -1,0 +1,42 @@
+{
+  "title": "Lenore",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "photogravure",
+  "accession_number": "74.42.8",
+  "id": "cmoa:things/f85f3c3d-8e6a-46c5-8e6f-137df0f93df2",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017039",
+  "provenance_text": "The 831 Gallery, Birmingham, MI; purchased by Museum, 1974.\n\nUpdated by CGK\nJuly 2012",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107426&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107425&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b7c57c7-51b5-46d3-be89-ebb2f12416be",
+      "party_type": "Person",
+      "full_name": "Joseph T. Keiley",
+      "cited_name": "Keiley, Joseph T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

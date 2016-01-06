@@ -1,0 +1,39 @@
+{
+  "title": "Innkeeper",
+  "creation_date": "c. 1720",
+  "creation_date_earliest": "1715-01-01",
+  "creation_date_latest": "1725-01-01",
+  "medium": "terracotta, glass, wood, wire, and fabric",
+  "accession_number": "56.55.4.8",
+  "id": "cmoa:things/1daa2ea0-107b-4571-bc9b-5ab2697a6bce",
+  "credit_line": "Gift of Mr. and Mrs. George Magee Wyckoff",
+  "date_acquired": "1956-12-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Architecture",
+  "item_width": 7.25,
+  "item_height": 17.25,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010027",
+  "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=44512&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cd1eef80-e2be-44b5-9697-f5415aba83b7",
+      "party_type": "Person",
+      "full_name": "Domenico Antonio Vaccaro",
+      "cited_name": "Vaccaro, Domenico A.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1680-01-01",
+      "death_date": "1750-01-01",
+      "birth_place": "Naples (Napoli province, Campania, Italy)",
+      "death_place": "Naples (Napoli province, Campania, Italy)"
+    }
+  ]
+}

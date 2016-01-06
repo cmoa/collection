@@ -1,0 +1,47 @@
+{
+  "title": "Museum; Walters Art Gallery, Baltimore, MD; [floor plan]",
+  "creation_date": "1969-1970",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "ink and pencil on board",
+  "accession_number": "94.161.1.4",
+  "id": "cmoa:things/af3bd52b-b4af-4325-a133-b2db9384ba9e",
+  "credit_line": "Gift of Richard Randall, Jr.",
+  "date_acquired": "1994-09-24",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034163",
+  "provenance_text": "Richard Randall, Jr., Pittsburgh, PA",
+  "classification": "prints",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69116a52-55ee-4344-95d2-20e016418791",
+      "party_type": "Organization",
+      "full_name": "Shepley, Bulfinch, Richardson & Abbott, Associated",
+      "cited_name": "Shepley, Bulfinch, Richardson & Abbott, Associated",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/873517d2-6c26-4401-ac16-54d330f71ef3",
+      "party_type": "Organization",
+      "full_name": "Meyer, Ayers and Saint",
+      "cited_name": "Meyer, Ayers and Saint",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1963-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

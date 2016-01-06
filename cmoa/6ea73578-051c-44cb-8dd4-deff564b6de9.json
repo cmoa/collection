@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.16",
+  "id": "cmoa:things/6ea73578-051c-44cb-8dd4-deff564b6de9",
+  "credit_line": "Gift of Miss Mabel Gillespie",
+  "date_acquired": "1961-09-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.5,
+  "item_height": 26.125,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011381",
+  "provenance_text": "Mabel Lindsay Gillespie, Pittsburgh; gift to Museum, September 1961.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126347&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ff7efdb-4829-44f3-af9e-6ffa6e8badf2",
+      "party_type": "Person",
+      "full_name": "Henri-Joseph Harpignies",
+      "cited_name": "Harpignies, Henri-Joseph",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1819-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

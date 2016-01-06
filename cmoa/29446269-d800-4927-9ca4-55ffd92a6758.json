@@ -1,0 +1,39 @@
+{
+  "title": "Union Soldiers Accepting a Drink",
+  "creation_date": "c. 1865",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1996.45",
+  "id": "cmoa:things/29446269-d800-4927-9ca4-55ffd92a6758",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "1996-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 21.5,
+  "item_height": 17.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002143",
+  "provenance_text": "Richard York Gallery, New York, NY. Purchased by Museum, 1996.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22584&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e1507c6-dbef-4d08-829a-ec90248de0c0",
+      "party_type": "Person",
+      "full_name": "Eastman Johnson",
+      "cited_name": "Johnson, Eastman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1824-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": "Lovell (Oxford county, Maine, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

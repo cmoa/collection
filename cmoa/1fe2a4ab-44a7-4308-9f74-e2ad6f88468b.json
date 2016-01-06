@@ -1,0 +1,54 @@
+{
+  "title": "Necklace",
+  "creation_date": "1976 (designed)  1978 (manufactured)",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "sterling silver and agate",
+  "accession_number": "79.17",
+  "id": "cmoa:things/1fe2a4ab-44a7-4308-9f74-e2ad6f88468b",
+  "credit_line": "Gift of Reed and Barton Silversmiths",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 7.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020240",
+  "provenance_text": "Reed and Barton Silversmiths, Taunton, MA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4909&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4868&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cfe08370-8032-43ef-9296-11f208f7d180",
+      "party_type": "Person",
+      "full_name": "Mary Ann Scherr",
+      "cited_name": "Scherr, Mary Ann",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/580be9da-6784-4007-a258-da3fa7dc492e",
+      "party_type": "Organization",
+      "full_name": "Reed & Barton",
+      "cited_name": "Reed & Barton",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

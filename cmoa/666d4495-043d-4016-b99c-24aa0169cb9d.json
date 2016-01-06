@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1780",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "glass",
+  "accession_number": "71.51.9.A-B",
+  "id": "cmoa:things/666d4495-043d-4016-b99c-24aa0169cb9d",
+  "credit_line": "Gift of Mr. and Mrs. Henry Oliver Rea in memory of Edith Oliver Rea",
+  "date_acquired": "1971-12-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016251",
+  "provenance_text": "Gift of Mr. and Mrs. Henry Oliver Rea, 1971.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

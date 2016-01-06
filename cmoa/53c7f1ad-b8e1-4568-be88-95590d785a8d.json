@@ -1,0 +1,54 @@
+{
+  "title": "Napkin holder",
+  "creation_date": "1930-1932",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "enameled steel",
+  "accession_number": "2015.1.4",
+  "id": "cmoa:things/53c7f1ad-b8e1-4568-be88-95590d785a8d",
+  "credit_line": "Richard L. Simmons Acquisition Fund",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 4.5,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108177",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148863&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/116a8f0d-5364-444d-880a-e58167ef31d9",
+      "party_type": "Person",
+      "full_name": "Marianne Brandt",
+      "cited_name": "Brandt, Marianne",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1893-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5745a7e5-857f-453a-9f96-9e5337f1aa1b",
+      "party_type": "Organization",
+      "full_name": "Ruppelwerk GmbH",
+      "cited_name": "Ruppelwerk GmbH",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1921-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

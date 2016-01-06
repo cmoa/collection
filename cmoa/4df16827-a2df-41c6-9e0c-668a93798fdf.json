@@ -1,0 +1,39 @@
+{
+  "title": "Armchair",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "lacquered steel tubing, lacquered wood, and upholstery",
+  "accession_number": "1999.18.2",
+  "id": "cmoa:things/4df16827-a2df-41c6-9e0c-668a93798fdf",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "1999-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 33.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003851",
+  "provenance_text": "Nicholas Brown, Camden, ME",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54457&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5ded203-712c-4d88-910c-4af632e4417f",
+      "party_type": "Person",
+      "full_name": "Warren McArthur",
+      "cited_name": "McArthur, Warren",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

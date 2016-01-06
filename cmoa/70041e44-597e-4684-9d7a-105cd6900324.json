@@ -1,0 +1,39 @@
+{
+  "title": "Horse",
+  "creation_date": "c. 1750",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "wood, glass, gilt metal, and fabric",
+  "accession_number": "56.55.2.4",
+  "id": "cmoa:things/70041e44-597e-4684-9d7a-105cd6900324",
+  "credit_line": "Gift of Mr. and Mrs. George Magee Wyckoff",
+  "date_acquired": "1956-12-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Architecture",
+  "item_width": 18.5,
+  "item_height": 18.75,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009962",
+  "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103715&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dbe8988-4a63-440f-bcf9-69bae5d33096",
+      "party_type": "Person",
+      "full_name": "Nicola Vassallo",
+      "cited_name": "Vassallo, Nicola",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1756-01-01",
+      "death_date": "1759-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

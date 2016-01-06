@@ -1,0 +1,42 @@
+{
+  "title": "Christ Healing the Blind Man",
+  "creation_date": "c. 1640",
+  "creation_date_earliest": "1635-01-01",
+  "creation_date_latest": "1645-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "90.10",
+  "id": "cmoa:things/c9991834-dcf0-4f57-839d-f1b519b5ada5",
+  "credit_line": "Purchase: gift of Mrs. Thomas S. Knight, Jr. in memory of her mother, Mrs. George L. Craig, Jr.",
+  "date_acquired": "1990-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 54.25,
+  "item_height": 38.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029332",
+  "provenance_text": "possibly Willy Mowinckel, Paris (?) and Genoa; possibly Bortolasco Collection, Genoa; Mrs. Thomas S. Knight Jr., Greenwich, Connecticut, through Piero Corsini Gallery, Inc., New York; purchased by Museum, June 1990.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10337&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56848&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2654e20b-4388-4b28-8528-7cc7386d4f82",
+      "party_type": "Person",
+      "full_name": "Gioachino Assereto",
+      "cited_name": "Assereto, Gioachino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1600-01-01",
+      "death_date": "1649-01-01",
+      "birth_place": "Genoa (Genova province, Liguria. Italy)",
+      "death_place": "Genoa (Genova province, Liguria, Italy)"
+    }
+  ]
+}

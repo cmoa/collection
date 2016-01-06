@@ -1,0 +1,39 @@
+{
+  "title": "White Russians",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "india ink",
+  "accession_number": "70.21.2",
+  "id": "cmoa:things/c120f2d3-143e-4278-b4d4-cfdc172f094f",
+  "credit_line": "Director's Discretionary Fund: gift of Mrs. Alexander C. Speyer, Sr.",
+  "date_acquired": "1970-05-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013039",
+  "provenance_text": "Lucebert, Holland",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40e9ba97-9046-40dd-a0b7-2603ad399f81",
+      "party_type": "Person",
+      "full_name": "Lucebert",
+      "cited_name": "Lucebert",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1924-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Alkmaar (North Holland, Netherlands)"
+    }
+  ]
+}

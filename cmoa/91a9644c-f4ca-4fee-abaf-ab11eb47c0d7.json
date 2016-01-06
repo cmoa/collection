@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "color lithograph poster",
+  "accession_number": "58.64",
+  "id": "cmoa:things/91a9644c-f4ca-4fee-abaf-ab11eb47c0d7",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.938,
+  "item_height": 51.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010902",
+  "provenance_text": "Frankfurter Kunstkabinett, Borenplatz 13-15, Frankfurt am Main",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114058&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b77f88e1-e411-4eba-a021-d1118afe6a42",
+      "party_type": "Person",
+      "full_name": "Oskar Kokoschka",
+      "cited_name": "Kokoschka, Oskar",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1886-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pöchlarn (Niederösterreich, Austria)",
+      "death_place": "Montreux (Vaud, Switzerland)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Fan of Many Colors",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "computer imaging print",
+  "accession_number": "2004.33",
+  "id": "cmoa:things/daae75b3-3310-4b4c-99db-648d4809e5b0",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 94th Annual Exhibition of the Associated Artists of Pittsburgh through the Second Century Acquisition Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.75,
+  "item_height": 20.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12813",
+  "provenance_text": "Gavin Brown's enterprise, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115084&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d561495f-5c11-481f-bc21-67b10ab18959",
+      "party_type": "Person",
+      "full_name": "Martha Fairchils Shepler",
+      "cited_name": "Shepler, Martha F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

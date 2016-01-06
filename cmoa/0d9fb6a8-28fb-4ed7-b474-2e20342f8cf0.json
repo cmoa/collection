@@ -1,0 +1,51 @@
+{
+  "title": "The Honorable Mrs. Henrietta North",
+  "creation_date": "1782",
+  "creation_date_earliest": "1782-01-01",
+  "creation_date_latest": "1782-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.53",
+  "id": "cmoa:things/0d9fb6a8-28fb-4ed7-b474-2e20342f8cf0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34476",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39635&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caacabc4-6d59-48c0-8d04-a60606fd172e",
+      "party_type": "Person",
+      "full_name": "John Raphael Smith",
+      "cited_name": "Smith, John R.",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1752-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c762d0a-aaa4-42c1-a7fa-52d23ed3c4d5",
+      "party_type": "Person",
+      "full_name": "George Romney",
+      "cited_name": "Romney, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1734-01-01",
+      "death_date": "1802-01-01",
+      "birth_place": "Dalton-in-Furness, Lancs, England",
+      "death_place": "Kendal, Cumbria, England"
+    }
+  ]
+}

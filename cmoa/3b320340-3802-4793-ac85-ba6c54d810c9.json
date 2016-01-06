@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1820-1830",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "transfer-printed earthenware",
+  "accession_number": "92.156.38.3",
+  "id": "cmoa:things/3b320340-3802-4793-ac85-ba6c54d810c9",
+  "credit_line": "Gift of the Estate of Donald C McVay, Jr.",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.75,
+  "item_depth": 0.0,
+  "item_diameter": 8.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031286",
+  "provenance_text": "Estate of Donald C McVay, Jr., Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1543&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7504104b-8ddc-4606-bf94-df1f9a923d38",
+      "party_type": "Organization",
+      "full_name": "P&H Choisy",
+      "cited_name": "P&H Choisy",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": "France",
+      "death_place": null
+    }
+  ]
+}

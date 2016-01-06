@@ -1,0 +1,39 @@
+{
+  "title": "Cake Basket",
+  "creation_date": "1782-1783",
+  "creation_date_earliest": "1782-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "sterling silver",
+  "accession_number": "78.36.14",
+  "id": "cmoa:things/4fc22f96-8a3b-4696-9d7a-d753fa0dba5d",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 11.125,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019996",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a749f89b-c5c7-4048-9846-1543ac553358",
+      "party_type": "Person",
+      "full_name": "Hester Bateman",
+      "cited_name": "Bateman, Hester",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1709-01-01",
+      "death_date": "1794-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    }
+  ]
+}

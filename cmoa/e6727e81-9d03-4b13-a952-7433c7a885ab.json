@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1755",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "porcelain with enamel decoration",
+  "accession_number": "70.32.1842",
+  "id": "cmoa:things/e6727e81-9d03-4b13-a952-7433c7a885ab",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 8.75,
+  "item_height": 2.5,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013993",
+  "provenance_text": "Ailsa Mellon Bruce, before 1970; Gift to Carnegie Museum of Art, 1970. \n\nTBF November 4, 2014",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11642&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38e5b02d-043f-4256-b462-b8b639bf39e0",
+      "party_type": "Organization",
+      "full_name": "Chelsea Porcelain Factory",
+      "cited_name": "Chelsea Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1745-01-01",
+      "death_date": "1769-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

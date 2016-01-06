@@ -1,0 +1,39 @@
+{
+  "title": "Portugal",
+  "creation_date": null,
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "22.7.5",
+  "id": "cmoa:things/5bcfac07-501f-4b1f-8284-05f28ffdfe5a",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004756",
+  "provenance_text": "Fitzroy Carrington, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99610&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb7e13ea-3f6b-48dc-8897-145b87feaa3a",
+      "party_type": "Person",
+      "full_name": "Muirhead Bone",
+      "cited_name": "Bone, Muirhead",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1876-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Partick, Glasgow, Scotland",
+      "death_place": " Oxford (Oxfordshire, England, United Kingdom)"
+    }
+  ]
+}

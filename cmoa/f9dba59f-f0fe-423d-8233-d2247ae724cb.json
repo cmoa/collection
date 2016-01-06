@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "1815",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.44.1",
+  "id": "cmoa:things/f9dba59f-f0fe-423d-8233-d2247ae724cb",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1972-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 24.125,
+  "item_height": 29.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016432",
+  "provenance_text": "Joseph Katz, Baltimore, until 1957; Mrs. James H. Beal, the artist's great-granddaughter, Pittsburgh, 1957; gift to Museum, 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38148&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f00f063b-cf04-4559-a461-3475bc6c5c1d",
+      "party_type": "Person",
+      "full_name": "Jacob Eichholtz",
+      "cited_name": "Eichholtz, Jacob",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1776-01-01",
+      "death_date": "1842-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

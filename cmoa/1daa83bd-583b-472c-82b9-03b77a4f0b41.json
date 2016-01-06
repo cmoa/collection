@@ -1,0 +1,51 @@
+{
+  "title": "Grounded",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "glass and earthenware",
+  "accession_number": "2008.69.A-.B",
+  "id": "cmoa:things/1daa83bd-583b-472c-82b9-03b77a4f0b41",
+  "credit_line": "Gift of the Artists",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 23.0,
+  "item_depth": 10.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=60672",
+  "provenance_text": "Pittsburgh Glass Center, Pittsburgh, PA\nExhibited in Recollection at the Pittsburgh Glass Center from November 2, 2007 through March 30, 2008.",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64548&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a079027-1f92-4b4f-b940-6d665c37ecc0",
+      "party_type": "Person",
+      "full_name": "Richard Hirsch",
+      "cited_name": "Hirsch, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a4750ec2-b83d-4c0c-86b3-ac693dd937e7",
+      "party_type": "Person",
+      "full_name": "Michael Rogers",
+      "cited_name": "Rogers, Michael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

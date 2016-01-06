@@ -1,0 +1,39 @@
+{
+  "title": "Claude Regnauldin",
+  "creation_date": "1658",
+  "creation_date_earliest": "1658-01-01",
+  "creation_date_latest": "1658-01-01",
+  "medium": "engraving",
+  "accession_number": "60.43.2",
+  "id": "cmoa:things/86ccec5e-2e62-4f61-92d6-af597ba7581e",
+  "credit_line": "Gift of Mr. and Mrs. Jacob Davis in memory of David Davis",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011251",
+  "provenance_text": "Robert Nanteuil [1623-1678], France. Mr. and Mrs. Jacob Davis; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101925&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

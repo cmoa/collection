@@ -1,0 +1,63 @@
+{
+  "title": "Swan",
+  "creation_date": "c. 1747 with later 18th century mounts",
+  "creation_date_earliest": "1737-01-01",
+  "creation_date_latest": "1757-01-01",
+  "medium": "porcelain with enamel decoration and gilded bronze",
+  "accession_number": "70.7.41",
+  "id": "cmoa:things/3682c9a9-8a79-4f3e-adb9-806c19ac9521",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 8.625,
+  "item_height": 12.25,
+  "item_depth": 7.187,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016034",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2408&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa45e57c-157e-4657-bfd1-8ca9307cdaeb",
+      "party_type": "Person",
+      "full_name": "Johann Joachim Kändler",
+      "cited_name": "Kändler, Johann J.",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1706-01-01",
+      "death_date": "1774-01-01",
+      "birth_place": "Germany",
+      "death_place": " Meissen (Dresden district, Saxony, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/59e42232-0c77-4aa8-8646-f9852bd46c8e",
+      "party_type": "Person",
+      "full_name": "Peter Reineke",
+      "cited_name": "Reineke, Peter",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1711-01-01",
+      "death_date": "1768-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

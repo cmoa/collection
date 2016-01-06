@@ -1,0 +1,51 @@
+{
+  "title": "Chaise Longue no.313",
+  "creation_date": "1932, manufactured 1934",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "aluminum and beech",
+  "accession_number": "1997.41",
+  "id": "cmoa:things/f8b917bc-737e-4ca2-985d-e17b6b2c02f2",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 56.188,
+  "item_height": 28.938,
+  "item_depth": 23.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003317",
+  "provenance_text": "Galerie Ulrich Fiedler, Koln, Germany",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90156&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a5d09bae-4e22-481f-9008-35dcf205466c",
+      "party_type": "Person",
+      "full_name": "Marcel Breuer",
+      "cited_name": "Breuer, Marcel",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Pécs (Baranya, Hungary)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/522b5292-5e06-4968-802f-ffc5882541da",
+      "party_type": "Organization",
+      "full_name": "Embru-Werke AG",
+      "cited_name": "Embru-Werke AG",
+      "role": "manufacturer",
+      "nationality": "Swiss",
+      "birth_date": "1904-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

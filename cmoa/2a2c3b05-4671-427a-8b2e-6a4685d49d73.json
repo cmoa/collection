@@ -1,0 +1,39 @@
+{
+  "title": "(Industry: Locomotive and Crew)",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.62.83",
+  "id": "cmoa:things/2a2c3b05-4671-427a-8b2e-6a4685d49d73",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025045",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13400&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/82595877-abc0-4cff-8418-651d7d52d52c",
+      "party_type": "Person",
+      "full_name": "Abram M. Brown",
+      "cited_name": "Brown, Abram M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "stoneware",
+  "accession_number": "2000.14.1",
+  "id": "cmoa:things/031bf682-f331-4181-8eef-1baf0963140f",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2000-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 16.0,
+  "item_depth": 13.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003993",
+  "provenance_text": "Sotheby's, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56844&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1bdff41-5310-4c9d-a05d-a9cfe151664a",
+      "party_type": "Person",
+      "full_name": "John Mason",
+      "cited_name": "Mason, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Madrid (Perkins county, Nebraska, United States)",
+      "death_place": null
+    }
+  ]
+}

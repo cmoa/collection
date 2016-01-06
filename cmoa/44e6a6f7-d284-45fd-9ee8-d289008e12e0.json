@@ -1,0 +1,39 @@
+{
+  "title": "Pierre Gillet",
+  "creation_date": "1713",
+  "creation_date_earliest": "1713-01-01",
+  "creation_date_latest": "1713-01-01",
+  "medium": "engraving",
+  "accession_number": "47.11.9",
+  "id": "cmoa:things/44e6a6f7-d284-45fd-9ee8-d289008e12e0",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1947-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008056",
+  "provenance_text": "The F. H. Bresler Co., Milwaukee, WI [1]; sold to Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, on February 20, 1926 until June 4, 1947 [2]; his gift to Museum, June 1947.\n\nNotes:\n[1]. Located at 423 Milwaukee St.in Milwaukee.\n[2]. Purchased for $36; see invoice information in curatorial file.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de11b0f3-39e9-4e20-bce2-3e672653cab9",
+      "party_type": "Person",
+      "full_name": "Pierre-Imbert Drevet",
+      "cited_name": "Drevet, Pierre-Imbert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1697-01-01",
+      "death_date": "1739-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

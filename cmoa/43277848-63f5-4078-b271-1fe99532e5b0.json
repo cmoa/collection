@@ -1,0 +1,39 @@
+{
+  "title": "Daedalus",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "gilt bronze on marble base",
+  "accession_number": "81.56.5",
+  "id": "cmoa:things/43277848-63f5-4078-b271-1fe99532e5b0",
+  "credit_line": "Bequest of Mary Callery",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 28.375,
+  "item_depth": 9.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021949",
+  "provenance_text": "Bequest of Mary Callery, New York, NY, 1981.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac04dc38-6e87-4ec5-9a5f-a6a6b4d04845",
+      "party_type": "Person",
+      "full_name": "Mary Callery",
+      "cited_name": "Callery, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

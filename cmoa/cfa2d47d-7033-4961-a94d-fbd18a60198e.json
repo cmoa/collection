@@ -1,0 +1,39 @@
+{
+  "title": "The Life of the Virgin: The Death of the Virgin",
+  "creation_date": "1510",
+  "creation_date_earliest": "1509-12-22",
+  "creation_date_latest": "1509-12-22",
+  "medium": "woodcut on paper",
+  "accession_number": "15.9.18",
+  "id": "cmoa:things/cfa2d47d-7033-4961-a94d-fbd18a60198e",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1915-12-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.125,
+  "item_height": 11.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001017",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49108&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Flask",
+  "creation_date": "c. 1820-1830",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "pattern-molded glass",
+  "accession_number": "20.4.16",
+  "id": "cmoa:things/604005b5-8eda-4ad3-b0e5-d94ecb443f65",
+  "credit_line": "Gift of Miss Alice C. McConnell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 4.125,
+  "item_height": 6.625,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004573",
+  "provenance_text": "Alice C. McConnell; gift to Carnegie Institute, Pittsburgh, PA, 1920.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

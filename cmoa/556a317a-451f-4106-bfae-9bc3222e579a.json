@@ -1,0 +1,51 @@
+{
+  "title": "Fighting Bulls of Iyo (Iyo no tôgyû)",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.19",
+  "id": "cmoa:things/556a317a-451f-4106-bfae-9bc3222e579a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027701",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33827&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97e375ee-ff86-492c-a95d-2ef870d38dcf",
+      "party_type": "Person",
+      "full_name": "Azechi Umetaro",
+      "cited_name": "Azechi Umetaro",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/83bfa32a-e952-4e75-9c10-cd7a3ca2ec86",
+      "party_type": "Person",
+      "full_name": "Uemura Masuo of Fugaku Shuppanshu, Tokyo",
+      "cited_name": "Uemura Masuo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

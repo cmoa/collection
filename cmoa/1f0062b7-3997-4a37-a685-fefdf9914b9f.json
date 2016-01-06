@@ -1,0 +1,51 @@
+{
+  "title": "Washington Raising the British Flag at Fort Duquesne",
+  "creation_date": "c. 1859",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1864-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.33.11",
+  "id": "cmoa:things/1f0062b7-3997-4a37-a685-fefdf9914b9f",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001234",
+  "provenance_text": "D.L. Passavant",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72407&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/07ed4dc3-4fd6-4f34-84aa-c5c5a2f3bae8",
+      "party_type": "Person",
+      "full_name": "J. R. Chapin",
+      "cited_name": "Chapin, J. R.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/62ad96df-c332-4497-8d24-ddb8323333f2",
+      "party_type": "Person",
+      "full_name": "T. B. Smith",
+      "cited_name": "Smith, T. B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

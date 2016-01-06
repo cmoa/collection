@@ -1,0 +1,49 @@
+{
+  "title": "Her Majesty's Retiring Room",
+  "creation_date": "September 1, 1851",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1851-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2009.73.16",
+  "id": "cmoa:things/ec7eb246-848a-49b8-bc07-180b45239cb5",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88993",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8a2d89d1-36bc-41f3-b007-f7cc2a267a6a",
+      "party_type": "Person",
+      "full_name": "Walter Goodall",
+      "cited_name": "Goodall, Walter",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1830-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fd15c362-7edd-4e09-b508-e835b2b8d9c8",
+      "party_type": "Organization",
+      "full_name": "Day & Son",
+      "cited_name": "Day & Son",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1845-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

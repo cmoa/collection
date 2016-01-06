@@ -1,0 +1,63 @@
+{
+  "title": "The Conservatory, Carlton House",
+  "creation_date": "August 1, 1817",
+  "creation_date_earliest": "1817-01-01",
+  "creation_date_latest": "1817-01-01",
+  "medium": "color aquatint with etching",
+  "accession_number": "2009.73.33",
+  "id": "cmoa:things/af2b4c9f-4769-4820-ae5f-265aa780e819",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.563,
+  "item_height": 15.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88846",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99564&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/96b55eec-c468-4712-8cb8-8bc046572a67",
+      "party_type": "Person",
+      "full_name": "Charles Wild",
+      "cited_name": "Wild, Charles",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1781-01-01",
+      "death_date": "1835-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/50092bd7-e126-427b-be28-bb7afbb8aa96",
+      "party_type": "Person",
+      "full_name": "William Henry Pyne",
+      "cited_name": "Pyne, William Henry",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1769-01-01",
+      "death_date": null,
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/1eca6467-f458-4bb4-a515-f627f62846c0",
+      "party_type": "Person",
+      "full_name": "Thomas Sutherland",
+      "cited_name": "Sutherland, Thomas",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1785-01-01",
+      "death_date": "1838-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

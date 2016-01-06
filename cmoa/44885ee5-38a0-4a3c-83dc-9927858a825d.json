@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of a man",
+  "creation_date": null,
+  "creation_date_earliest": "1598-01-01",
+  "creation_date_latest": "1630-01-01",
+  "medium": "engraving",
+  "accession_number": "23.14.2",
+  "id": "cmoa:things/44885ee5-38a0-4a3c-83dc-9927858a825d",
+  "credit_line": "Gift of Fitzroy Carrington",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.562,
+  "item_height": 5.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004884",
+  "provenance_text": "Fitzroy Carrington, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100897&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100898&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d45a63f-f734-421d-9c7c-c9e34e151fac",
+      "party_type": "Person",
+      "full_name": "Ottavio Leoni",
+      "cited_name": "Leoni, Ottavio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1578-01-01",
+      "death_date": "1630-01-01",
+      "birth_place": "Rome",
+      "death_place": "Rome"
+    }
+  ]
+}

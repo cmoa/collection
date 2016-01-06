@@ -1,0 +1,39 @@
+{
+  "title": "A White Hare",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.90",
+  "id": "cmoa:things/30b4f39f-ad97-49cd-8444-9a21980c4b47",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.813,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029148",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, Ill., 1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110925&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f23ef50-dec8-406c-8d4a-58ceac65c1d1",
+      "party_type": "Person",
+      "full_name": "Gekko Ogata",
+      "cited_name": "Gekko Ogata",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1859-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Japan, Nagasaki?",
+      "death_place": null
+    }
+  ]
+}

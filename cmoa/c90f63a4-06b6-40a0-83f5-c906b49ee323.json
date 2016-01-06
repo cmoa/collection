@@ -1,0 +1,51 @@
+{
+  "title": "Two Cruet Bottles on Stand",
+  "creation_date": "c. 1851",
+  "creation_date_earliest": "1846-01-01",
+  "creation_date_latest": "1856-01-01",
+  "medium": "rock crystal and gilded copper",
+  "accession_number": "2002.20.1.A-.C",
+  "id": "cmoa:things/c90f63a4-06b6-40a0-83f5-c906b49ee323",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 6.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=30",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11111&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d212f14-4e5f-4cee-aff8-4cdc6c737a1c",
+      "party_type": "Person",
+      "full_name": "Augustus Welby Northmore Pugin",
+      "cited_name": "Pugin, Augustus Welby Northmore",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1812-01-01",
+      "death_date": "1852-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Ramsgate (Kent, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/59773f34-4ffc-43fe-8dce-f792fb4b730c",
+      "party_type": "Organization",
+      "full_name": "John Hardman & Co.",
+      "cited_name": "Hardman, John & Co.",
+      "role": "manufacturer",
+      "nationality": "Scottish",
+      "birth_date": "1838-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

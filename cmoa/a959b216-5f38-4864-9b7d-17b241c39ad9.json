@@ -1,0 +1,42 @@
+{
+  "title": "Silenus Supported by a Young Bacchant",
+  "creation_date": "c. 1520-1525",
+  "creation_date_earliest": "1514-12-22",
+  "creation_date_latest": "1529-12-22",
+  "medium": "engraving",
+  "accession_number": "16.15.12",
+  "id": "cmoa:things/a959b216-5f38-4864-9b7d-17b241c39ad9",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 7.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001061",
+  "provenance_text": "American Art Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101627&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3dcec87-61c7-44b6-a488-bd3e6a605c09",
+      "party_type": "Person",
+      "full_name": "Marcantonio Raimondi",
+      "cited_name": "Raimondi, Marcantonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1480-01-01",
+      "death_date": "1530-01-01",
+      "birth_place": "Argini, nr Bologna, Italy?",
+      "death_place": "Bologna, Italy?"
+    }
+  ]
+}

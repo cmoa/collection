@@ -1,0 +1,39 @@
+{
+  "title": "Summer Benediction",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "53.7.3",
+  "id": "cmoa:things/ea7101bc-5dc0-4201-a44b-83b17e86bf31",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009178",
+  "provenance_text": "Charles E. Burchfield",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75055&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7d38d22-cde8-48f1-adf0-215f19bea834",
+      "party_type": "Person",
+      "full_name": "Charles Ephraim  Burchfield",
+      "cited_name": "Burchfield, Charles E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": " Ashtabula (Ashtabula county, Ohio, United States)",
+      "death_place": " West Seneca (Erie county, New York state, United States)"
+    }
+  ]
+}

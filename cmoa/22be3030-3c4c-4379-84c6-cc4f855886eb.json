@@ -1,0 +1,45 @@
+{
+  "title": "The Groom",
+  "creation_date": null,
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.11.2",
+  "id": "cmoa:things/22be3030-3c4c-4379-84c6-cc4f855886eb",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008454",
+  "provenance_text": "Associated American Artists, Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103671&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103670&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76877&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/57556352-efd1-4dfc-a91d-fae95ce4026e",
+      "party_type": "Person",
+      "full_name": "Federico Castellon",
+      "cited_name": "Castellon, Federico",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Almería (Almería province, Andalusia, Spain)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

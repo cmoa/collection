@@ -1,0 +1,39 @@
+{
+  "title": "Sunset",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "etching",
+  "accession_number": "49.8",
+  "id": "cmoa:things/2d4c031d-57ad-4fd2-8104-ecc3b2255ae4",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008770",
+  "provenance_text": "Douglas Warner Gorsline",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100362&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9494af51-fedd-459a-8c65-70495140c193",
+      "party_type": "Person",
+      "full_name": "Douglas Warner Gorsline",
+      "cited_name": "Gorsline, Douglas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Rochester (Monroe county, New York state, United States)",
+      "death_place": "Dijon (Côte-d'Or, Burgundy region, France)"
+    }
+  ]
+}

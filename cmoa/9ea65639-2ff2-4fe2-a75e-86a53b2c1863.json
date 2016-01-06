@@ -1,0 +1,51 @@
+{
+  "title": "The Honorable Henry Erskine",
+  "creation_date": "c. 1780-1800",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.52",
+  "id": "cmoa:things/9ea65639-2ff2-4fe2-a75e-86a53b2c1863",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34472",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39634&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/160c2d99-b9f9-4fa3-a2c0-6dcf991770a2",
+      "party_type": "Person",
+      "full_name": "James Ward",
+      "cited_name": "Ward, James",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1769-01-01",
+      "death_date": "1859-01-01",
+      "birth_place": "London, England",
+      "death_place": " Cheshunt (Hertfordshire, England)"
+    },
+    {
+      "artist_id": "cmoa:parties/6b852bde-15f8-475a-9e9e-176f03858840",
+      "party_type": "Person",
+      "full_name": "Sir Henry Raeburn",
+      "cited_name": "Raeburn, Henry",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1823-01-01",
+      "birth_place": "Scotland (United Kingdom)",
+      "death_place": "Edinburgh (Edinburgh, Scotland, United Kingdom)"
+    }
+  ]
+}

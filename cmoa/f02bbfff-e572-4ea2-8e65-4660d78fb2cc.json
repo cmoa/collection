@@ -1,0 +1,51 @@
+{
+  "title": "Suburb; [exterior perspective]",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "pen and ink with colored crayon",
+  "accession_number": "94.234.2",
+  "id": "cmoa:things/f02bbfff-e572-4ea2-8e65-4660d78fb2cc",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1994-12-01",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 22.5,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035038",
+  "provenance_text": "Gallery Lingard, London, England",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102962&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d5ebf9b-3bef-4a00-8dad-6fe35d17f686",
+      "party_type": "Person",
+      "full_name": "Arthur Smith",
+      "cited_name": "Smith, Arthur",
+      "role": "architect",
+      "nationality": "English",
+      "birth_date": "1880-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f0a95c27-760f-423d-8709-a2cff030326d",
+      "party_type": "Person",
+      "full_name": "T. Raffles Davison",
+      "cited_name": "Davison, T. R.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

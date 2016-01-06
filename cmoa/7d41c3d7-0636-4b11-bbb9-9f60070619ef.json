@@ -1,0 +1,39 @@
+{
+  "title": "The Weakling (recto); Sketch (verso)",
+  "creation_date": null,
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "17.4.21.A-.B",
+  "id": "cmoa:things/7d41c3d7-0636-4b11-bbb9-9f60070619ef",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001593",
+  "provenance_text": "Charles A. Walker, Boston, MA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94852&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5729e58-ee59-4abf-8655-c1eac5d4d388",
+      "party_type": "Person",
+      "full_name": "Anton Mauve",
+      "cited_name": "Mauve, Anton",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1838-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": "Zaandam, North Holland, Netherlands",
+      "death_place": "Arnhem, Netherlands"
+    }
+  ]
+}

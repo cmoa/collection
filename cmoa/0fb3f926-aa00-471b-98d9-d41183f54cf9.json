@@ -1,0 +1,51 @@
+{
+  "title": "Couple on a Raft",
+  "creation_date": "c. 1795",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.1407",
+  "id": "cmoa:things/0fb3f926-aa00-471b-98d9-d41183f54cf9",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027295",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby & Co., London, 2/19/1962, Lot 75, through Bluett & Sons, London.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106188&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ea1c2c5-f4a5-469d-b531-42dcdd8f156e",
+      "party_type": "Person",
+      "full_name": "Toyokuni Utagawa",
+      "cited_name": "Toyokuni Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1769-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/18a05e0a-6184-445d-a31d-64e343230504",
+      "party_type": "Person",
+      "full_name": "Tsuruya Kinsuke",
+      "cited_name": "Tsuruya Kinsuke",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

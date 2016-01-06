@@ -1,0 +1,39 @@
+{
+  "title": "Manufacturer's Trust",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.12.3",
+  "id": "cmoa:things/308bcd8d-0588-4dcb-b9fc-6f10d0e056c3",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "2012-04-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98368",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114606&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1c8fe21-cd02-4bff-a4ae-00221da4047b",
+      "party_type": "Person",
+      "full_name": "Ezra Stoller",
+      "cited_name": "Stoller, Ezra",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

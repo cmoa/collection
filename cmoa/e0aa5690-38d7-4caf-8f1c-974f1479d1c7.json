@@ -1,0 +1,39 @@
+{
+  "title": "Ibiza",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "multiple collage",
+  "accession_number": "87.43.3",
+  "id": "cmoa:things/e0aa5690-38d7-4caf-8f1c-974f1479d1c7",
+  "credit_line": "Gift of Frances and Harry Blum",
+  "date_acquired": "1988-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.375,
+  "item_height": 22.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026377",
+  "provenance_text": "Gift of Frances and Harry Blum, Pittsburgh, PA, 1988.",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25685&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69d9e7bd-b6be-408a-bc7e-993de323f412",
+      "party_type": "Person",
+      "full_name": "Conrad Marca-Relli",
+      "cited_name": "Marca-Relli, Conrad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Parma, Italy"
+    }
+  ]
+}

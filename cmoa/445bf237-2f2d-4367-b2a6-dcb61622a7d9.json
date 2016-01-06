@@ -1,0 +1,39 @@
+{
+  "title": "Reapers Overtaken by the Storm",
+  "creation_date": "late 19th century",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "Etching on paper",
+  "accession_number": "20.1.3",
+  "id": "cmoa:things/445bf237-2f2d-4367-b2a6-dcb61622a7d9",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004496",
+  "provenance_text": "C. W. Kraushaar Art Galleries, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23123&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c687199-38d7-4233-8fc6-7fd8366a1f06",
+      "party_type": "Person",
+      "full_name": "Alphonse Legros",
+      "cited_name": "Legros, Alphonse",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1837-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Dijon (Côte-d'Or, Burgundy region, France)",
+      "death_place": "Watford (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

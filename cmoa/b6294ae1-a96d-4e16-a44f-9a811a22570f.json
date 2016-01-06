@@ -1,0 +1,39 @@
+{
+  "title": "Acacias",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "93.7",
+  "id": "cmoa:things/b6294ae1-a96d-4e16-a44f-9a811a22570f",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "1993-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 15.0,
+  "item_height": 23.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033703",
+  "provenance_text": "Frederick Gossage, 1894; Sir W.H. Tate, 1922; (sale, Christie's, London, 25-26 July 1974, lot 216); Pre-Raphaelite Trust, 1974-?; purchased by Museum through Julian Hartnoll, London, England, February 1993.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132428&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f20cb0fe-4918-4cd7-a788-6b8719b97edf",
+      "party_type": "Person",
+      "full_name": "Albert Moore",
+      "cited_name": "Moore, Albert",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1841-01-01",
+      "death_date": "1893-01-01",
+      "birth_place": "York (York, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

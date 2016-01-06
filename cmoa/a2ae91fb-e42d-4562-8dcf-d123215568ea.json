@@ -1,0 +1,39 @@
+{
+  "title": "Scimitar",
+  "creation_date": "16th-18th century",
+  "creation_date_earliest": "1524-12-22",
+  "creation_date_latest": "1750-01-01",
+  "medium": "steel, brass, and velvet",
+  "accession_number": "70.32.2623",
+  "id": "cmoa:things/a2ae91fb-e42d-4562-8dcf-d123215568ea",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.812,
+  "item_height": 29.062,
+  "item_depth": 3.62,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014857",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7472&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d0e4e4e-5454-4493-8617-023ca718a6f7",
+      "party_type": "Person",
+      "full_name": "unknown Turkish",
+      "cited_name": "unknown Turkish",
+      "role": null,
+      "nationality": "Turkish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

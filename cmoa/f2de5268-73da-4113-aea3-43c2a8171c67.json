@@ -1,0 +1,39 @@
+{
+  "title": "Giverny Winter",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2000.51.1",
+  "id": "cmoa:things/f2de5268-73da-4113-aea3-43c2a8171c67",
+  "credit_line": "Purchase with funds from an anonymous donor in honor of the late Adolph W. Schmidt",
+  "date_acquired": "2000-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 17.75,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004081",
+  "provenance_text": "John Leslie Breck [1860-1899]; Gaston and Clarisse Baudy, Giverny, France, in 1888; by descent through the Baudy Family, until 1993; sold at auction, Laurin, Guilloux, Buffetaux, Paris, June 14, 1993, lot B2; Jordan-Volpe Gallery, New York, NY; John and Mary McGuigan, Texas; Debra Force Fine Art, Inc., New York, NY; purchased by Museum, October 2000.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10335&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aaebfed8-920a-49d8-a5e8-b96923bae76a",
+      "party_type": "Person",
+      "full_name": "John Leslie Breck",
+      "cited_name": "Breck, John Leslie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": " Hong Kong (China)",
+      "death_place": " Boston (Suffolk county, Massachusetts, United States)"
+    }
+  ]
+}

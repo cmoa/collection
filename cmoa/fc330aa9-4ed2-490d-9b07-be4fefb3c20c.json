@@ -1,0 +1,39 @@
+{
+  "title": "Sunrise Synchromy in Violet",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.16",
+  "id": "cmoa:things/fc330aa9-4ed2-490d-9b07-be4fefb3c20c",
+  "credit_line": "Living Arts Foundation Fund and Patrons Art Fund",
+  "date_acquired": "1956-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 54.125,
+  "item_height": 35.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009625",
+  "provenance_text": "Deward Collection, New York, by 1955; (Rose Fried Gallery as agent, New York, by 1955); purchased by Museum, 1956.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df31f629-8d71-4bde-ae4b-d8064fdc765f",
+      "party_type": "Person",
+      "full_name": "Stanton MacDonald-Wright",
+      "cited_name": "MacDonald-Wright, Stanton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Charlottesville, Virginia",
+      "death_place": "Pacific Palisades (Los Angeles county, California, United States)"
+    }
+  ]
+}

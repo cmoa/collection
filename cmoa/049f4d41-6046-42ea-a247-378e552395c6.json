@@ -1,0 +1,39 @@
+{
+  "title": "Saint Catherine in the Clouds",
+  "creation_date": "early 1620s",
+  "creation_date_earliest": "1597-01-01",
+  "creation_date_latest": "1640-01-01",
+  "medium": "etching",
+  "accession_number": "68.10.5",
+  "id": "cmoa:things/049f4d41-6046-42ea-a247-378e552395c6",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1968-04-29",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012385",
+  "provenance_text": "Gift of Charles J. Rosenbloom,  Pittsburgh, PA, 1968.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101806&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

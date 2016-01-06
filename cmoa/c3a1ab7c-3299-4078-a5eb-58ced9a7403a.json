@@ -1,0 +1,39 @@
+{
+  "title": "Happy Christmas (Greeting Card)",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "etching",
+  "accession_number": "43.4.71",
+  "id": "cmoa:things/c3a1ab7c-3299-4078-a5eb-58ced9a7403a",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007464",
+  "provenance_text": "Jerome Myers [1867-1940]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4b2dde8-5501-4671-875e-00ccfd19c94d",
+      "party_type": "Person",
+      "full_name": "Jerome Myers",
+      "cited_name": "Myers, Jerome",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": "Petersburg (Petersburg Indep. City, Virginia, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

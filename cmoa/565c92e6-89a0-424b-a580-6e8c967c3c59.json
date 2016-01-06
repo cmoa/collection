@@ -1,0 +1,39 @@
+{
+  "title": "The Red House, Paimpol",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "transfer lithograph, printed in three colors on thin Japanese paper",
+  "accession_number": "93.82",
+  "id": "cmoa:things/565c92e6-89a0-424b-a580-6e8c967c3c59",
+  "credit_line": "Leisser Art Fund and Charles J. Rosenbloom Fund",
+  "date_acquired": "1993-05-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033710",
+  "provenance_text": "Susan Sheehan Gallery, NY, New York; Gift of Charles J. Rosenbloom; Leisser Art Fund",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65964&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

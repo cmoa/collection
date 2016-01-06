@@ -1,0 +1,39 @@
+{
+  "title": "Park Lane",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "etching",
+  "accession_number": "81.59.5",
+  "id": "cmoa:things/29b4a0fc-5ca9-430c-9172-3fb838877e15",
+  "credit_line": "Gift of Edith and Milton Lowenthal",
+  "date_acquired": "1981-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021964",
+  "provenance_text": "Gift of Edith and Milton Lowenthal, New York, NY, 1981.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ca436360-a40d-49fb-ae98-e1ff9531f74a",
+      "party_type": "Person",
+      "full_name": "Joseph Pennell",
+      "cited_name": "Pennell, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

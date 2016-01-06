@@ -1,0 +1,39 @@
+{
+  "title": "Under the Umbrella",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "27.5",
+  "id": "cmoa:things/a1898789-d7bd-486f-912c-b1db7bcf5372",
+  "credit_line": "Gift of the Garden Club of Allegheny County",
+  "date_acquired": "1927-02-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 47.5,
+  "item_height": 47.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006058",
+  "provenance_text": "Johanna K. W. Hailman [1871-1958], until 1927; Garden Club of Allegheny County [1914-], 1927; gift to Museum, 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107653&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eaa0bbc2-5013-4c80-b484-f3029732c790",
+      "party_type": "Person",
+      "full_name": "Johanna K. Hailman",
+      "cited_name": "Hailman, Johanna K.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Circe II (From American Portfolio, 1979)",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "80.74.1",
+  "id": "cmoa:things/2f36fc1a-9b98-4790-ad00-93fe71a7dc70",
+  "credit_line": "Gift of John Onodi",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.875,
+  "item_height": 29.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021305",
+  "provenance_text": "The London Arts Group, Detroit, MI",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114338&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e63429bf-34e2-4f10-8e10-e0a1096167fb",
+      "party_type": "Person",
+      "full_name": "Will Barnet",
+      "cited_name": "Barnet, Will",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": null,
+      "birth_place": "Beverly (Essex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

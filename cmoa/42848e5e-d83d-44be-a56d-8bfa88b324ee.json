@@ -1,0 +1,54 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1915",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "glass",
+  "accession_number": "2002.44",
+  "id": "cmoa:things/42848e5e-d83d-44be-a56d-8bfa88b324ee",
+  "credit_line": "Mary Murtland Wurts Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=444",
+  "provenance_text": "Malletts, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8373&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/84638ce5-fab8-4d20-b54b-a88180707806",
+      "party_type": "Organization",
+      "full_name": "Val Saint Lambert",
+      "cited_name": "Val Saint Lambert",
+      "role": "manufacturer",
+      "nationality": "Belgian",
+      "birth_date": "1825-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/669652de-df53-446f-9cb4-446564f8fcc7",
+      "party_type": "Person",
+      "full_name": "Leon Ledru",
+      "cited_name": "Ledru, Leon",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1855-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

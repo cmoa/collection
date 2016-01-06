@@ -1,0 +1,42 @@
+{
+  "title": "Commemorative medal (the Admission of Indiana to the Union)",
+  "creation_date": "1916",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "Bronze",
+  "accession_number": "78.34.18",
+  "id": "cmoa:things/bdbcfd15-eb2d-4cd3-913b-d409f9b2dffb",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.188,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019960",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5639&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5638&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed98799f-d50a-4cfa-820c-17942850d053",
+      "party_type": "Person",
+      "full_name": "Janet Scudder",
+      "cited_name": "Scudder, Janet",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": "Terre Haute, IN",
+      "death_place": "Rockport, MA"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Chandelier",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "brass, copper, and glass",
+  "accession_number": "2012.26",
+  "id": "cmoa:things/1389acf3-4dbd-49cc-91d0-5ab068685a28",
+  "credit_line": "Ailsa Mellon Bruce Fund, Berdan Memorial Trust Fund, Women's Committee Acquisition Fund, Second Century Acquisition Fund, Decorative Arts Purchase Fund, Helen Johnston Acquisition Fund, DuPuy Fund, and Martha Mack Lewis Fund",
+  "date_acquired": "2012-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 56.0,
+  "item_depth": 0.0,
+  "item_diameter": 28.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98677",
+  "provenance_text": "Acquired from Galerie Historismus, Brussels\nProcured from the descendants of the original owners\nCommissioned by Peter Hermann Harkort and Elizabeth Funcke Harkort in 1904, Wetter, Germany",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128142&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128143&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06e293bb-c04e-4778-bb8b-c42bb094bff8",
+      "party_type": "Person",
+      "full_name": "Henry van de Velde",
+      "cited_name": "Velde, Henry van de",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1863-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": "Antwerp, Belgium",
+      "death_place": "Zurich, Switzerland"
+    },
+    {
+      "artist_id": "cmoa:parties/3e0be6e5-7462-4038-b984-1c3e44f9b374",
+      "party_type": "Organization",
+      "full_name": "Otto Seyffart Werkstätten für Kunstgewerbliche Metallarbeiten",
+      "cited_name": "Otto Seyffart Werkstätten für Kunstgewerbliche Metallarbeiten",
+      "role": "maker",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "River Maas",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "red chalk on paper",
+  "accession_number": "07.13.4",
+  "id": "cmoa:things/7e117634-2029-4698-9736-09779ce253a9",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-03-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000269",
+  "provenance_text": "The artist, Dwight William Tryon; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85939&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c196b89-8e21-4617-a568-48719992afbb",
+      "party_type": "Person",
+      "full_name": "Dwight William Tryon",
+      "cited_name": "Tryon, Dwight W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1849-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": "South Dartmouth (Bristol county, Massachusetts, United States)"
+    }
+  ]
+}

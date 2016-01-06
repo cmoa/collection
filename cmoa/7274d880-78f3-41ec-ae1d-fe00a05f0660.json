@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1930-1935",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "95.80",
+  "id": "cmoa:things/7274d880-78f3-41ec-ae1d-fe00a05f0660",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1995-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 1.25,
+  "item_depth": 0.0,
+  "item_diameter": 13.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035817",
+  "provenance_text": "Bonham's, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102759&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/61501e06-8dc5-438a-b131-f5212b26a4f6",
+      "party_type": "Person",
+      "full_name": "Michael Cardew",
+      "cited_name": "Cardew, Michael",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1901-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Wimbledon (Greater London, England, United Kingdom)",
+      "death_place": "Truro (Cornwall, England, United Kingdom)"
+    }
+  ]
+}

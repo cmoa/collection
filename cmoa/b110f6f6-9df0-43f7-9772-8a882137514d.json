@@ -1,0 +1,39 @@
+{
+  "title": "Seiltanzer",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2015.20",
+  "id": "cmoa:things/b110f6f6-9df0-43f7-9772-8a882137514d",
+  "credit_line": "Lehman Fine Arts Acquisitions Fund, Frances G. Scaife Fund, and Joseph E. & Sally M. Imbriglia Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 18.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108833",
+  "provenance_text": "Charles M. Young Fine Prints and Drawings, LLC, Portland, CT to CMOA, June 2015.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147889&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f319830-1ad0-49b2-8bad-20b6a4e35d95",
+      "party_type": "Person",
+      "full_name": "Paul Klee",
+      "cited_name": "Klee, Paul",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1879-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": "Münchenbuchsee (Bern canton, Switzerland)",
+      "death_place": "Muralto (Ticino, Switzerland)"
+    }
+  ]
+}

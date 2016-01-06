@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "glass with enameled decoration, mounted in silver w/ivory knob",
+  "accession_number": "82.40.1",
+  "id": "cmoa:things/f14637f7-ce67-4bfc-9b92-b5d6343aba57",
+  "credit_line": "Gift of Mr. and Mrs. Alan G. Lehman",
+  "date_acquired": "1982-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 12.875,
+  "item_depth": 0.0,
+  "item_diameter": 3.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022953",
+  "provenance_text": "Mr. And Mrs. Alan G. Lehman, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3515&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/92fe6800-9308-4b7e-93a4-916c322bc18c",
+      "party_type": "Person",
+      "full_name": "Lotte Fink",
+      "cited_name": "Fink, Lotte",
+      "role": "decorator",
+      "nationality": "Austrian",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

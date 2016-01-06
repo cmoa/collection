@@ -1,0 +1,39 @@
+{
+  "title": "Pour Jorn",
+  "creation_date": "1976",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "79.6.12",
+  "id": "cmoa:things/1a76a35c-2aeb-426a-a6fb-793971d8dcb1",
+  "credit_line": "Gift of the Asger Jorn Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020591",
+  "provenance_text": "Galerie van de Loo, Munich, Germany",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121746&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36c84e38-9e01-46be-9f50-2a16f9a01d10",
+      "party_type": "Person",
+      "full_name": "Bram van Velde",
+      "cited_name": "Velde, Bram van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1895-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Zoeterwoude, nr Leiden",
+      "death_place": "Grimaud (Var, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

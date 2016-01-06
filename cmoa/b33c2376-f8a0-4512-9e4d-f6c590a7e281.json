@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1825-1832",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1832-01-01",
+  "medium": "transfer printed glazed earthenware",
+  "accession_number": "55.37.3",
+  "id": "cmoa:things/b33c2376-f8a0-4512-9e4d-f6c590a7e281",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.125,
+  "item_depth": 0.0,
+  "item_diameter": 9.438,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009452",
+  "provenance_text": "Gift of Mrs. James H. Beal, 1955.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4418&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9db5b8df-5a0b-4a76-adf4-32898f7d1927",
+      "party_type": "Person",
+      "full_name": "Ralph Stevenson",
+      "cited_name": "Stevenson, Ralph",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1810-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

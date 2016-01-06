@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "c. 1785-1800",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.8",
+  "id": "cmoa:things/dd54069b-94a0-4f12-9493-19218d23526f",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.562,
+  "item_height": 26.188,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019260",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad2fa377-41ae-45da-bed9-f343d2dee7d0",
+      "party_type": "Person",
+      "full_name": "John S. Copley",
+      "cited_name": "Copley, John S.",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1738-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "London"
+    }
+  ]
+}

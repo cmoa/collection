@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of Sir Arthur Wellesley, Duke of Wellington (1769-1852)",
+  "creation_date": "1816",
+  "creation_date_earliest": "1816-01-01",
+  "creation_date_latest": "1816-01-01",
+  "medium": "watercolor on ivory; gold metal frame",
+  "accession_number": "27.10.184",
+  "id": "cmoa:things/6dd8a0b6-3a5e-45b5-b2a8-1d25d7d73a50",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.562,
+  "item_height": 3.875,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005641",
+  "provenance_text": "Sir Philip Rose, 1st Baronet of Rayners [1816-1883], Buckinghamshire, England; Collection d'Allegre sale, Paris, France, on May 13, 1872. (Sold at J. E. Barr & Co., Philadelphia, PA, by 1907); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, 1907; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06ad785b-efd0-4912-9a86-9fa1835cbf32",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Isabey",
+      "cited_name": "Isabey, Jean-Baptiste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1767-01-01",
+      "death_date": "1855-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

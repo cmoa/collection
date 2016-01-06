@@ -1,0 +1,39 @@
+{
+  "title": "Aubade",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.70",
+  "id": "cmoa:things/34bc4285-1106-46cd-b6b7-8346c4cde531",
+  "credit_line": "Richard Mace Feldman Memorial Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 80.0,
+  "item_height": 80.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010911",
+  "provenance_text": "Betty Parsons Gallery, NYC, 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18856&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d546b0cb-517a-4856-a087-9f6d12087851",
+      "party_type": "Person",
+      "full_name": "Ellsworth Kelly",
+      "cited_name": "Kelly, Ellsworth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": "Newburgh (Orange county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

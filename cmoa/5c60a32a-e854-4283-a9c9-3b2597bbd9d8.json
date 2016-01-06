@@ -1,0 +1,39 @@
+{
+  "title": "Cross I",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "stoneware with slip, engobes, oxides and glazes",
+  "accession_number": "2004.3.1",
+  "id": "cmoa:things/5c60a32a-e854-4283-a9c9-3b2597bbd9d8",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2004-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 15.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6290",
+  "provenance_text": "Purchased from Adrian Sassoon, London.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10883&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bc5f167-3b68-4982-abd3-bb866a4ac92f",
+      "party_type": "Person",
+      "full_name": "Gordon Baldwin",
+      "cited_name": "Baldwin, Gordon",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

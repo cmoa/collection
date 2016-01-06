@@ -1,0 +1,51 @@
+{
+  "title": "Tall case clock",
+  "creation_date": "c. 1805",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "walnut and cherry veneers on pine, various inlaid woods",
+  "accession_number": "73.27",
+  "id": "cmoa:things/0baa2e1d-df9f-426b-be85-742f332811aa",
+  "credit_line": "Gift of Mr. and Mrs. James A. Drain",
+  "date_acquired": "1973-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 96.0,
+  "item_depth": 11.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016696",
+  "provenance_text": "Mr. And Mrs. James A. Drain, Ligonier, PA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4e3dd0e-2633-4c1d-be79-b85730ed87c5",
+      "party_type": "Person",
+      "full_name": "John Johnston",
+      "cited_name": "Johnston, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5f108349-0d71-4b67-879a-bf0c11748dfd",
+      "party_type": "Person",
+      "full_name": "Samuel Davis",
+      "cited_name": "Davis, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1806-01-01",
+      "birth_place": "Ireland",
+      "death_place": "USA"
+    }
+  ]
+}

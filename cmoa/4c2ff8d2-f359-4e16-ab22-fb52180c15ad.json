@@ -1,0 +1,39 @@
+{
+  "title": "Spirit stand",
+  "creation_date": "1732",
+  "creation_date_earliest": "1732-01-01",
+  "creation_date_latest": "1732-01-01",
+  "medium": "silver",
+  "accession_number": "70.7.155.A-B",
+  "id": "cmoa:things/4c2ff8d2-f359-4e16-ab22-fb52180c15ad",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 4.125,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015963",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8783&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/235010d3-356e-4c6f-8217-30f21824a782",
+      "party_type": "Person",
+      "full_name": "Benjamin Godfrey",
+      "cited_name": "Godfrey, Benjamin",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1741-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

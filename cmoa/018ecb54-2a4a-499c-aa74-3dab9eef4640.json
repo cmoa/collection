@@ -1,0 +1,54 @@
+{
+  "title": "The Courtesan Konosato of the Takeya (Takeya uchi Konosato)",
+  "creation_date": "1794-1795",
+  "creation_date_earliest": "1794-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.16",
+  "id": "cmoa:things/018ecb54-2a4a-499c-aa74-3dab9eef4640",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.813,
+  "item_height": 14.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001191",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100287&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16690&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e21dcae9-1cd6-4311-b2bc-2c3e813e498e",
+      "party_type": "Person",
+      "full_name": "Eishi Chôbunsai",
+      "cited_name": "Eishi Chôbunsai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1756-01-01",
+      "death_date": "1829-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c0db8dca-4094-4239-b160-e155781c3572",
+      "party_type": "Person",
+      "full_name": "Yohachi Nishimuraya",
+      "cited_name": "Yohachi Nishimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Greek Head III",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "cast glass and lead",
+  "accession_number": "2000.46.2.A-B",
+  "id": "cmoa:things/8fcf9603-2d79-48b9-bc61-e8fe15816d2f",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 15.75,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004067",
+  "provenance_text": "Mr. And Mrs. William Block, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16048&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b45dc36-3348-4a61-83d9-7e7dfc94dd96",
+      "party_type": "Person",
+      "full_name": "David Reekie",
+      "cited_name": "Reekie, David",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Hackney, London",
+      "death_place": null
+    }
+  ]
+}

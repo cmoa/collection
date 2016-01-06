@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "cream-colored earthenware, transfer printed and painted decoration with lead glaze",
+  "accession_number": "92.106",
+  "id": "cmoa:things/8e2f6f0e-be9d-435b-91cf-7a31bc131b6a",
+  "credit_line": "Schoonmaker Memorial Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 5.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030116",
+  "provenance_text": "Corey Daniels, Wells, ME",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2133&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6209b120-e00e-4f7e-9245-9d5fa7dc9e39",
+      "party_type": "Organization",
+      "full_name": "Herculaneum Factory",
+      "cited_name": "Herculaneum Factory",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1796-01-01",
+      "death_date": "1841-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

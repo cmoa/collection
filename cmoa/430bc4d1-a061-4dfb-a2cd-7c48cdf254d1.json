@@ -1,0 +1,39 @@
+{
+  "title": "House in the Courtyard (Maison dans la cour)",
+  "creation_date": "1896-1899",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "color lithograph on wove paper",
+  "accession_number": "54.34.2",
+  "id": "cmoa:things/430bc4d1-a061-4dfb-a2cd-7c48cdf254d1",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-10-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009318",
+  "provenance_text": "Pierre Bonnard [1867-1947]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, October 1954 [1]. \nNOTES:1. Updated by CGK August 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23139&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3aedcb4-9d47-49ac-b1d8-10212d4818d5",
+      "party_type": "Person",
+      "full_name": "Pierre Bonnard",
+      "cited_name": "Bonnard, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-10-03",
+      "death_date": "1947-01-27",
+      "birth_place": "Fontenay-aux-Roses, France",
+      "death_place": "Cannet, France"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Traité des Negres",
+  "creation_date": "1794",
+  "creation_date_earliest": "1794-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "stipple engraving on paper",
+  "accession_number": "19.21",
+  "id": "cmoa:things/91414455-1334-498e-a04d-2538fc06fb38",
+  "credit_line": "Probably Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002046",
+  "provenance_text": "Mrs. Jessie Porterfield Heasley",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114705&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6f9677b9-3094-47bc-91ac-1bb25a0af391",
+      "party_type": "Person",
+      "full_name": "Mme. Louis-René-Lucien Rollet",
+      "cited_name": "Rollet, Louis-René-Lucien",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1809-01-01",
+      "death_date": "1862-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

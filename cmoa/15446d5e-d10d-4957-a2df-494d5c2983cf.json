@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "acrylic on paper",
+  "accession_number": "2008.22.3",
+  "id": "cmoa:things/15446d5e-d10d-4957-a2df-494d5c2983cf",
+  "credit_line": "Gift of Mr. and Mrs. James L. Winokur",
+  "date_acquired": "2008-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=59351",
+  "provenance_text": "Collection Mr. and Mrs. James Winokur, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72592&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9836d8a7-16ac-4c9a-9832-ba4640878bcd",
+      "party_type": "Person",
+      "full_name": "Jack Youngerman",
+      "cited_name": "Youngerman, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Louisville, Kentucky",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Juliet's Shadow Caged",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.46",
+  "id": "cmoa:things/446b0765-b093-4034-809d-1ae5c25edce3",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104975",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132211&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132212&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e468c4ce-1167-41c9-b737-8dec64ab2a2b",
+      "party_type": "Person",
+      "full_name": "György Kepes",
+      "cited_name": "Kepes, György",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": "Lőrinci, Hungary",
+      "death_place": null
+    }
+  ]
+}

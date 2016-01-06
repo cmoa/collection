@@ -1,0 +1,39 @@
+{
+  "title": "The Hunter",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "plaster, wood base",
+  "accession_number": "2006.60",
+  "id": "cmoa:things/99833394-1da8-46d1-976c-e1c8971fc436",
+  "credit_line": "Frances G. Scaife Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 15.625,
+  "item_height": 7.5,
+  "item_depth": 7.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=31638",
+  "provenance_text": "Cecile Singer [1930-], New York; Conner Rosenkranz, LLC [1980-], New York, until 2006. Purchased by Museum, October 5, 2006.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117248&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db941296-bfc2-41f4-82bf-c70aa8f07984",
+      "party_type": "Person",
+      "full_name": "Albert Laessle",
+      "cited_name": "Laessle, Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

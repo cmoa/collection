@@ -1,0 +1,42 @@
+{
+  "title": "Mom and Her Boyfriend Mr. Art",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.27.2",
+  "id": "cmoa:things/7c0bb822-d838-46ee-b380-2cb1e1bf9dd4",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2014-06-26",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 28.875,
+  "item_height": 24.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103930",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129223&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129222&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff9955b5-0bcf-4101-9682-d93ed5e30ce2",
+      "party_type": "Person",
+      "full_name": "LaToya Ruby Frazier",
+      "cited_name": "LaToya Ruby Frazier",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1982-01-01",
+      "death_date": null,
+      "birth_place": "Braddock, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

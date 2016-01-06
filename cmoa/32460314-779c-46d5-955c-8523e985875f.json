@@ -1,0 +1,51 @@
+{
+  "title": "Wine glass",
+  "creation_date": "1925 (designed), c. 1979 (manufactured)",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "glass",
+  "accession_number": "80.15",
+  "id": "cmoa:things/32460314-779c-46d5-955c-8523e985875f",
+  "credit_line": "Gift of J & L Lobmeyr",
+  "date_acquired": "1980-05-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.875,
+  "item_depth": 0.0,
+  "item_diameter": 3.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021084",
+  "provenance_text": "J & L Lobmeyr, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2562&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e22facf8-f254-4ce2-88fb-caea1c628cc3",
+      "party_type": "Person",
+      "full_name": "Oswald Haerdtl",
+      "cited_name": "Haerdtl, Oswald",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1899-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

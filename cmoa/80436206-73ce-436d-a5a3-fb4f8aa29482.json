@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "c. 1760",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "stoneware",
+  "accession_number": "93.116.1.A-B",
+  "id": "cmoa:things/80436206-73ce-436d-a5a3-fb4f8aa29482",
+  "credit_line": "Mary Murtland Wurts Fund of the Pittsburgh Foundation",
+  "date_acquired": "1993-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 7.5,
+  "item_height": 8.813,
+  "item_depth": 5.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032811",
+  "provenance_text": "Lindsay Grigsby, VA, Richland",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=588&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e476995b-ef16-4afd-bd2a-b2f28e197c94",
+      "party_type": "Person",
+      "full_name": "unknown British, Staffordshire",
+      "cited_name": "unknown British, Staffordshire",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

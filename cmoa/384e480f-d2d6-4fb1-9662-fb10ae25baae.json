@@ -1,0 +1,51 @@
+{
+  "title": "Frontispiece",
+  "creation_date": "1636",
+  "creation_date_earliest": "1636-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "engraving",
+  "accession_number": "74.7.50.1",
+  "id": "cmoa:things/384e480f-d2d6-4fb1-9662-fb10ae25baae",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017554",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94793&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5d1f6cf-c279-4236-872c-4491137f586e",
+      "party_type": "Person",
+      "full_name": "Jacques Callot",
+      "cited_name": "Callot, Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1592-01-01",
+      "death_date": "1635-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/a95f8983-c9fc-42a9-8ffb-42df890b2416",
+      "party_type": "Person",
+      "full_name": "Abraham Bosse",
+      "cited_name": "Bosse, Abraham",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1676-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

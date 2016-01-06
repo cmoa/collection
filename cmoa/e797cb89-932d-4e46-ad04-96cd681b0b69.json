@@ -1,0 +1,39 @@
+{
+  "title": "Blackbird",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.24.3",
+  "id": "cmoa:things/e797cb89-932d-4e46-ad04-96cd681b0b69",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 52.0,
+  "item_height": 41.0,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009415",
+  "provenance_text": "Marjorie Eklind",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150078&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/887db8b5-0e93-4ea8-bc66-774822032897",
+      "party_type": "Person",
+      "full_name": "Marjorie Eklind",
+      "cited_name": "Eklind, Marjorie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

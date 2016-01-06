@@ -1,0 +1,42 @@
+{
+  "title": "Wine jug",
+  "creation_date": "3rd century",
+  "creation_date_earliest": "0200-01-02",
+  "creation_date_latest": "0299-01-01",
+  "medium": "blown glass",
+  "accession_number": "74.52",
+  "id": "cmoa:things/57b06bf7-b024-4e6d-9bac-a70c9ce1d9d7",
+  "credit_line": "Gift of Mr. and Mrs. Donald M. Robinson",
+  "date_acquired": "1974-12-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 4.5,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017071",
+  "provenance_text": "Donald Robinson",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28299&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3044&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cc21a8-4939-4c01-a3ca-27c9d46ab896",
+      "party_type": "Person",
+      "full_name": "unknown Roman",
+      "cited_name": "unknown Roman",
+      "role": null,
+      "nationality": "Ancient Roman",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Platter la Normandie",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "porcelain",
+  "accession_number": "1997.5",
+  "id": "cmoa:things/eaedeead-85f8-41e0-9e84-e53a0ce60f65",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 2.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003427",
+  "provenance_text": "Le Pavillon de Sevres Ltd., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12041&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6f2c58e-e060-49fe-b61b-71eff360ae4a",
+      "party_type": "Person",
+      "full_name": "Jean Beaumont",
+      "cited_name": "Beaumont, Jean",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1925-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/22cffc1c-0e57-4040-932c-d89c1f88fb3e",
+      "party_type": "Person",
+      "full_name": "Charles Fritz",
+      "cited_name": "Fritz, Charles",
+      "role": "decorator",
+      "nationality": "French",
+      "birth_date": "1902-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

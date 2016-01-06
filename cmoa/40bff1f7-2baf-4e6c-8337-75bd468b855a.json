@@ -1,0 +1,39 @@
+{
+  "title": "Syncline",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "casein on wall",
+  "accession_number": "80.24",
+  "id": "cmoa:things/40bff1f7-2baf-4e6c-8337-75bd468b855a",
+  "credit_line": "William G. Bechman Charitable Trust in memory of William G. and Beatrice M. Bechman",
+  "date_acquired": "1980-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 245.0,
+  "item_height": 113.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021110",
+  "provenance_text": "Mel Bochner, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112944&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e68bc81-0aaf-4422-bf8f-18a3ae0a82b5",
+      "party_type": "Person",
+      "full_name": "Mel Bochner",
+      "cited_name": "Bochner, Mel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

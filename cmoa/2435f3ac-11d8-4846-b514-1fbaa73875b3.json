@@ -1,0 +1,39 @@
+{
+  "title": "Drawing No. 2 (\"Study\")",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "red chalk on paper",
+  "accession_number": "16.27.12",
+  "id": "cmoa:things/2435f3ac-11d8-4846-b514-1fbaa73875b3",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001172",
+  "provenance_text": "Martin Birnbaum, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115478&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/460360f4-5580-4d28-b625-822b38a1877c",
+      "party_type": "Person",
+      "full_name": "Charles H. Shannon",
+      "cited_name": "Shannon, Charles H.",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1863-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": "Quarrington (Lincolnshire, England, United Kingdom)",
+      "death_place": "Kew (Greater London, England, United Kingdom)"
+    }
+  ]
+}

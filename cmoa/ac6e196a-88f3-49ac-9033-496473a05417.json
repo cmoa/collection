@@ -1,0 +1,39 @@
+{
+  "title": "Armchair",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "wood",
+  "accession_number": "73.18.5",
+  "id": "cmoa:things/ac6e196a-88f3-49ac-9033-496473a05417",
+  "credit_line": "Gift of Mr. R. C. Ernst",
+  "date_acquired": "1973-05-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 31.75,
+  "item_depth": 28.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016676",
+  "provenance_text": "Gift of Mr. R. C. Ernst,1973.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54155&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfba5ceb-de88-4ecb-82a5-f51c818d8ccd",
+      "party_type": "Person",
+      "full_name": "Charles Locke Eastlake",
+      "cited_name": "Eastlake, Charles L.",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1836-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": "England",
+      "death_place": "England"
+    }
+  ]
+}

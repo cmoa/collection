@@ -1,0 +1,57 @@
+{
+  "title": "Celanese House, New Canaan, CT",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "plastic, metal, foam, and flocking",
+  "accession_number": "2014.67",
+  "id": "cmoa:things/6902f469-de71-4dd8-8966-bb871d3e282e",
+  "credit_line": "Purchase: Women's Committee Fund for Architecture",
+  "date_acquired": "2014-12-11",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 9.0,
+  "item_depth": 41.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106291",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147256&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147265&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147257&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/107e3570-73c4-4fc9-9f38-6acfdc14498e",
+      "party_type": "Person",
+      "full_name": "Theodore Conrad",
+      "cited_name": "Conrad, Theodore",
+      "role": "modelmaker",
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2d8b8fbb-2528-41f7-970f-50ad4d765c17",
+      "party_type": "Person",
+      "full_name": "Edward D. Stone",
+      "cited_name": "Stone, Edward D.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1902-03-09",
+      "death_date": "1978-08-06",
+      "birth_place": "Fayetteville (Washington county, Arkansas, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

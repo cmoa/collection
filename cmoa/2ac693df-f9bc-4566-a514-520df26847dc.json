@@ -1,0 +1,39 @@
+{
+  "title": "Symphony No. 2",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "record covers and cotton thread",
+  "accession_number": "2006.50",
+  "id": "cmoa:things/2ac693df-f9bc-4566-a514-520df26847dc",
+  "credit_line": "Mr. and Mrs. James H. Rich Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.188,
+  "item_height": 26.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=29570",
+  "provenance_text": null,
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c29968af-fb17-468e-a196-77ef34687379",
+      "party_type": "Person",
+      "full_name": "Christian Marclay",
+      "cited_name": "Marclay, Christian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "San Rafael, California",
+      "death_place": null
+    }
+  ]
+}

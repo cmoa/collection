@@ -1,0 +1,51 @@
+{
+  "title": "John Reskimer",
+  "creation_date": "March 1, 1793",
+  "creation_date_earliest": "1793-03-01",
+  "creation_date_latest": "1793-03-01",
+  "medium": "stipple engraving in color",
+  "accession_number": "17.25.54",
+  "id": "cmoa:things/22feb6b6-ae10-4c27-a4a4-80f565bb4a8b",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-01-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001488",
+  "provenance_text": "James Tregaskis, London",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108026&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1153e13c-e0d2-4c49-b4a6-fdd6ce1ea3e4",
+      "party_type": "Person",
+      "full_name": "Charles Knight",
+      "cited_name": "Knight, Charles",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1743-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0f025e69-aecd-4742-9e21-ff76f31cd486",
+      "party_type": "Person",
+      "full_name": "Hans Holbein the Younger",
+      "cited_name": "Holbein, Hans, the Younger",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1543-01-01",
+      "birth_place": "Augsburg, Germany",
+      "death_place": "London, England"
+    }
+  ]
+}

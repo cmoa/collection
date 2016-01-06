@@ -1,0 +1,39 @@
+{
+  "title": "Sailing",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.14",
+  "id": "cmoa:things/69afaf37-07c4-426b-86d0-55c0ef36aa19",
+  "credit_line": "Purchase: gift of the Hunt Foundation",
+  "date_acquired": "1965-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 52.0,
+  "item_height": 58.125,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011863",
+  "provenance_text": "Hann Trier via 1964 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19394&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5e31451-5134-45aa-8d92-8288390eb853",
+      "party_type": "Person",
+      "full_name": "Hann Trier",
+      "cited_name": "Trier, Hann",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1915-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Kaiserswerth, nr Düsseldorf",
+      "death_place": null
+    }
+  ]
+}

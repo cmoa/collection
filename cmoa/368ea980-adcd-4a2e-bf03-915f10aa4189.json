@@ -1,0 +1,39 @@
+{
+  "title": "Colonel Thomas Miller",
+  "creation_date": "c. 1834",
+  "creation_date_earliest": "1829-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "oil on canvas on board",
+  "accession_number": "77.39",
+  "id": "cmoa:things/368ea980-adcd-4a2e-bf03-915f10aa4189",
+  "credit_line": "Howard N. Eavenson Fund And Director's Discretionary Fund",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.188,
+  "item_height": 35.312,
+  "item_depth": 3.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018626",
+  "provenance_text": "Colonel Thomas Miller, until 1841; unknown collection, Booneville, MO, 1881; possibly Maj. James Sydney Rollins, Colombia, Mo., by 1881; possibly Julius P. Miller (nephew of Thomas Miller), Colombia, MO.; Dr. C. J. McNulty, Washington, PA, by 1937; Washington County Historical Society, Washington, PA, by 1977; Howard N. Eavenson Memorial Fund and director's discretionary fund, 1977",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68118&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2bd38584-d8fe-41b0-9bd1-b9f58629ef93",
+      "party_type": "Person",
+      "full_name": "George Caleb Bingham",
+      "cited_name": "Bingham, George Caleb",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1811-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": "Augusta county (Virginia, United States)",
+      "death_place": "Kansas City (Jackson county, Missouri, United States)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1930s",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "finnish blond, molded and bent, birch plywood",
+  "accession_number": "77.42",
+  "id": "cmoa:things/bfa719ee-d7e9-4b93-a153-ba1dba5b5b92",
+  "credit_line": "Gift of Mr. and Mrs. Grant Curry, Jr., in honor of John Knox Shear, Jr., Ann Shear Salsbury, Thomas Stewart Shear and in memory of John Knox Shear",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.75,
+  "item_height": 25.25,
+  "item_depth": 36.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018638",
+  "provenance_text": "Ex-collection: John Knox Shear, Pittsburgh, who bought it in 1946 at Artek-Pasco, New York City (it was a floor sample and on sale)\nMrs. Grant Curry, PA, Pittsburgh",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56510&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fa52deb-8316-479d-8000-1cad223a31f0",
+      "party_type": "Person",
+      "full_name": "Alvar Aalto",
+      "cited_name": "Aalto, Alvar",
+      "role": "designer",
+      "nationality": "Finnish",
+      "birth_date": "1898-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": " Kuortane (Länsi-Suomen Lääni, Finland)",
+      "death_place": " Helsinki (Etelä-Suomen Lääni, Finland)"
+    },
+    {
+      "artist_id": "cmoa:parties/3beb5c52-548d-454c-86c6-e17a213e63e2",
+      "party_type": "Organization",
+      "full_name": "Artek Oy",
+      "cited_name": "Artek Oy",
+      "role": "probably by",
+      "nationality": "Finnish",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Helsinki, Finland",
+      "death_place": null
+    }
+  ]
+}

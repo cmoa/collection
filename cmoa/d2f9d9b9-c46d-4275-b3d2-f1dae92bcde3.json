@@ -1,0 +1,39 @@
+{
+  "title": "Ornament with Two Couples of Satyrs",
+  "creation_date": "1549",
+  "creation_date_earliest": "1548-12-22",
+  "creation_date_latest": "1548-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.2",
+  "id": "cmoa:things/d2f9d9b9-c46d-4275-b3d2-f1dae92bcde3",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000997",
+  "provenance_text": "Count Giacomo Durazzo (1717-1794) (see L.174); Adalbert Frieherr von Lanna (1836-1909), Prague (L.2773) (stamped twice, in blue and in black); Frederick Keppel (1845-1912), New York (see L.1023)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101692&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2b65623-c4d8-40d7-a37c-6b66f58f1d38",
+      "party_type": "Person",
+      "full_name": "Heinrich Aldegrever",
+      "cited_name": "Aldegrever, Heinrich",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1555-01-01",
+      "birth_place": "Paderborn (Detmold district, North Rhine-Westphalia, Germany)",
+      "death_place": "Soest (Arnsberg district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

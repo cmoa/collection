@@ -1,0 +1,39 @@
+{
+  "title": "The Billionaire",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "modified television set",
+  "accession_number": "2000.36",
+  "id": "cmoa:things/d10add06-5049-4ffc-aa15-f8658c9631f9",
+  "credit_line": "Marhoefer Family Fund",
+  "date_acquired": "2000-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.125,
+  "item_height": 11.0,
+  "item_depth": 14.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004049",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107612&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74912c38-e9f0-4d05-a0be-ceadd7f121d0",
+      "party_type": "Person",
+      "full_name": "Edward Kienholz",
+      "cited_name": "Kienholz, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Fairfield (Spokane county, Washington, United States)",
+      "death_place": "Hope (Bonner county, Idaho, United States)"
+    }
+  ]
+}

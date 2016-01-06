@@ -1,0 +1,39 @@
+{
+  "title": "Miss Kitty",
+  "creation_date": "1897",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "97.4",
+  "id": "cmoa:things/6768f16e-61e8-4dc3-bce4-867e383bd729",
+  "credit_line": "Purchase",
+  "date_acquired": "1897-11-22",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 43.625,
+  "item_height": 71.75,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035925",
+  "provenance_text": "James Jebusa Shannon [1862-1923], until 1897; purchased by Museum, December 1897 [1]. \nNOTES:1. Updated by CGK May 2014",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128230&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8b7392af-e77d-4336-a2db-56c21aa5b7f8",
+      "party_type": "Person",
+      "full_name": "James Jebusa Shannon",
+      "cited_name": "Shannon, James J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "Auburn (Cayuga county, New York state, United States)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Roundel, Virgin",
+  "creation_date": "1210-1225",
+  "creation_date_earliest": "1209-12-25",
+  "creation_date_latest": "1224-12-25",
+  "medium": "stained glass",
+  "accession_number": "69.17",
+  "id": "cmoa:things/9e4e604d-5052-42c1-960b-11050d7a0640",
+  "credit_line": "Eleanor McCargo Standish Fund",
+  "date_acquired": "1969-04-24",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 12.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012533",
+  "provenance_text": "Parke-Bernet Galleries, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27322&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4be4b156-10fa-4c02-9abd-66a624b9529a",
+      "party_type": "Person",
+      "full_name": "unknown French, Soissons",
+      "cited_name": "unknown French, Soissons",
+      "role": "possibly by",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

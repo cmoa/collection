@@ -1,0 +1,42 @@
+{
+  "title": "A Woman Churning",
+  "creation_date": "c. 1855",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "etching",
+  "accession_number": "43.4.70",
+  "id": "cmoa:things/55d2d58f-1956-48d8-a735-7d709577b1f0",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007463",
+  "provenance_text": "Jean François Millet [1814-1875], France. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110903&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110904&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29264da8-7fee-4ac1-8849-82ec39147f2e",
+      "party_type": "Person",
+      "full_name": "Jean François Millet",
+      "cited_name": "Millet, Jean F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1814-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Gruchy, nr Gréville, France",
+      "death_place": "Barbizon, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Two Figures",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.23",
+  "id": "cmoa:things/31a286c2-9c42-49dd-b6fd-128acc2ae292",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 45.875,
+  "item_height": 52.625,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016947",
+  "provenance_text": "Mr. And Mrs. William Block, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71797&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/622ac6b4-ffbd-4446-8b1a-2511b8260562",
+      "party_type": "Person",
+      "full_name": "Raymond Jennings Saunders",
+      "cited_name": "Saunders, Raymond Jennings",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

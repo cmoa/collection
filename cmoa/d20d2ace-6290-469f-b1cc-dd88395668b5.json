@@ -1,0 +1,39 @@
+{
+  "title": "Elephant Shadow Cup",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "porcelain",
+  "accession_number": "94.116",
+  "id": "cmoa:things/d20d2ace-6290-469f-b1cc-dd88395668b5",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Samuel M. Bell",
+  "date_acquired": "1994-09-22",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 2.375,
+  "item_depth": 2.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033860",
+  "provenance_text": "Rena Bransten Gallery, San Francisco, CA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ef48bc5-ab27-452e-abc7-a9006d285dfe",
+      "party_type": "Person",
+      "full_name": "Ron Nagle",
+      "cited_name": "Nagle, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "San Francisco, California",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Georgics",
+  "creation_date": "1947-1948",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "Etching",
+  "accession_number": "56.39.5",
+  "id": "cmoa:things/9973c946-83ff-4c63-9b1c-8cacd95417fa",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1956-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009750",
+  "provenance_text": "Il Milione, Gallerie d'Arte Moderna, via Bigli 2, Milan, Italy",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ace37eb2-6d13-4e32-a121-31489fc4e6cc",
+      "party_type": "Person",
+      "full_name": "Giacomo Manzù",
+      "cited_name": "Manzù, Giacomo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1908-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Bergamo (Bergamo province, Lombardy, Italy)",
+      "death_place": "Rome, Italy"
+    }
+  ]
+}

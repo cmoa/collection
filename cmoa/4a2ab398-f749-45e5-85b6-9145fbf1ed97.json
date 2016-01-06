@@ -1,0 +1,42 @@
+{
+  "title": "Teapot",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "stoneware with shino glaze",
+  "accession_number": "86.13.1.A-B",
+  "id": "cmoa:things/4a2ab398-f749-45e5-85b6-9145fbf1ed97",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1986-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 23.25,
+  "item_depth": 0.0,
+  "item_diameter": 1.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025831",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97684&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f492db2-39c6-48f8-af19-8e0600a80435",
+      "party_type": "Person",
+      "full_name": "Kenneth Ferguson",
+      "cited_name": "Ferguson, Kenneth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

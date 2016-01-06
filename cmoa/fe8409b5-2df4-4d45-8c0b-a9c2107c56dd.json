@@ -1,0 +1,39 @@
+{
+  "title": "A. and I.",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "83.82.17",
+  "id": "cmoa:things/fe8409b5-2df4-4d45-8c0b-a9c2107c56dd",
+  "credit_line": "Gift of Arline Miller and Artlink, Inc.",
+  "date_acquired": "1983-12-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024255",
+  "provenance_text": "Henry Koerner, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98394&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/314e0e00-47ef-4910-a9ca-af8356302318",
+      "party_type": "Person",
+      "full_name": "Henry Koerner",
+      "cited_name": "Koerner, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": null
+    }
+  ]
+}

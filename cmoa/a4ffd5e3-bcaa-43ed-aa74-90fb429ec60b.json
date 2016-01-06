@@ -1,0 +1,39 @@
+{
+  "title": "Les statues de l'avenir (Statues of the Future)",
+  "creation_date": "1868",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "lithograph on newspaper",
+  "accession_number": "69.48.73",
+  "id": "cmoa:things/a4ffd5e3-bcaa-43ed-aa74-90fb429ec60b",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012943",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=77273&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b104a29c-7e1c-42a3-8e02-68919c92b99a",
+      "party_type": "Person",
+      "full_name": "Honoré Daumier",
+      "cited_name": "Daumier, Honoré",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1808-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

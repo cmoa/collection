@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Elderly Jew with Fur Hat",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1650-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "oil on panel",
+  "accession_number": "75.5",
+  "id": "cmoa:things/4890de90-23cb-4da6-acc8-920e217a070c",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1975-02-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 8.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017830",
+  "provenance_text": "Charles J. Rosenbloom [1898-1973], Pittsburgh, by 1946; Israel Museum of Art; Museum by exchange, February 1975 [1]. \nNOTES:1. Exchanged for \"Picnic\" by Thomas Hart Benton",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126437&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": "school of",
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

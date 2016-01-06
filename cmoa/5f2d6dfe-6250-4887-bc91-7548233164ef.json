@@ -1,0 +1,39 @@
+{
+  "title": "Yoshiwara Benkei",
+  "creation_date": "c. 1705-1706",
+  "creation_date_earliest": "1695-01-01",
+  "creation_date_latest": "1706-01-01",
+  "medium": "woodblock print",
+  "accession_number": "89.28.1001",
+  "id": "cmoa:things/5f2d6dfe-6250-4887-bc91-7548233164ef",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.625,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026690",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118313&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f77a6d01-9daa-400b-abe2-28993e178a79",
+      "party_type": "Person",
+      "full_name": "Masanobu Okumura",
+      "cited_name": "Masanobu Okumura",
+      "role": "possibly by",
+      "nationality": "Japanese",
+      "birth_date": "1686-01-01",
+      "death_date": "1764-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Thousand and One Nights",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gouache on cut-and-pasted paper",
+  "accession_number": "71.23",
+  "id": "cmoa:things/c5864a0a-c9e2-4e64-9751-3a275e3cbb13",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1971-10-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 147.25,
+  "item_height": 54.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016135",
+  "provenance_text": "The artist's collection; Contemporary Art Establishment, Zurich; Pierre Matisse Gallery, New York, NY (as agent); purchased by Museum, October 1971.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146431&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da609856-ab28-468f-b694-27e326e084f1",
+      "party_type": "Person",
+      "full_name": "Henri Matisse",
+      "cited_name": "Matisse, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1869-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Le Cateau-Cambrésis (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Nice (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

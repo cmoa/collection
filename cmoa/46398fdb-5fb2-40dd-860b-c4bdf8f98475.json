@@ -1,0 +1,42 @@
+{
+  "title": "Bastienne's Eye",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.28",
+  "id": "cmoa:things/46398fdb-5fb2-40dd-860b-c4bdf8f98475",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 12.063,
+  "item_height": 17.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91919",
+  "provenance_text": "Purchased from Silver Eye Center for Photography 2010 Auction (donated by Anna Marcasiano)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118711&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100661&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/be345ba3-c0e5-462d-bba5-d1ca6f5490d7",
+      "party_type": "Person",
+      "full_name": "Ralph Gibson",
+      "cited_name": "Gibson, Ralph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "Los Angeles, California, USA",
+      "death_place": null
+    }
+  ]
+}

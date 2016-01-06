@@ -1,0 +1,42 @@
+{
+  "title": "[Train]",
+  "creation_date": "not dated",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "photograph mounted on board",
+  "accession_number": "2007.51.43",
+  "id": "cmoa:things/a012a10c-5949-4a56-873c-0a8ed149f117",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49887",
+  "provenance_text": "George Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99941&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55979&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2708f297-f7b9-43aa-ba1f-17aead0a8404",
+      "party_type": "Person",
+      "full_name": "F. L. Huff",
+      "cited_name": "Huff, F. L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

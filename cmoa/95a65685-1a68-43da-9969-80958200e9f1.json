@@ -1,0 +1,45 @@
+{
+  "title": "Blue/Lemon Sliced Descending Form",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.5.A-.B",
+  "id": "cmoa:things/95a65685-1a68-43da-9969-80958200e9f1",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 12.5,
+  "item_height": 13.25,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61615",
+  "provenance_text": "Purchased from the Littleton Gallery DC 1/8/90",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97738&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97741&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97742&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ec5e135c-cd90-41a6-8b21-3faa6cb5ee90",
+      "party_type": "Person",
+      "full_name": "Harvey K. Littleton",
+      "cited_name": "Littleton, Harvey K.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

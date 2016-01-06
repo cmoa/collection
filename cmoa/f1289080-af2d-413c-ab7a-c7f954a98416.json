@@ -1,0 +1,51 @@
+{
+  "title": "Rembrandt's Mother",
+  "creation_date": "1764",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1764-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.57",
+  "id": "cmoa:things/f1289080-af2d-413c-ab7a-c7f954a98416",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34489",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dc5a0423-26fd-40ae-8236-7bef92c0302b",
+      "party_type": "Person",
+      "full_name": "Johann Gottfried Haid",
+      "cited_name": "Haid, Johann Gottfried",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1710-01-01",
+      "death_date": "1776-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

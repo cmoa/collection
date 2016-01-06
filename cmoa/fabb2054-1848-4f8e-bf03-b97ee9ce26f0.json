@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Richard Weston, First Earl of Portland",
+  "creation_date": "1630s",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1641-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "29.2.25",
+  "id": "cmoa:things/fabb2054-1848-4f8e-bf03-b97ee9ce26f0",
+  "credit_line": "Bequest of Mrs. J. Willis Dalzell",
+  "date_acquired": "1929-02-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 25.0,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006189",
+  "provenance_text": "Mrs. J. Willis Dalzell (Mary Beer Dalzell) [c.1849-1929], Pittsburgh, PA, until February 13, 1929; her bequest to Museum, February 1929.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126320&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": "studio of",
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

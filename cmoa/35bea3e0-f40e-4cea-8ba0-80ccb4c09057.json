@@ -1,0 +1,39 @@
+{
+  "title": "Small Black Woodcut (Petit bois noir)",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "woodcut on laid paper",
+  "accession_number": "2002.65",
+  "id": "cmoa:things/35bea3e0-f40e-4cea-8ba0-80ccb4c09057",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "2002-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=681",
+  "provenance_text": "Henri Matisse [1869-1954]. Susan Schulman, New York, NY, by 2002; purchased by Museum, December 2002 [1]. \nNOTES:1. Updated by CGK August 2012.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37487&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da609856-ab28-468f-b694-27e326e084f1",
+      "party_type": "Person",
+      "full_name": "Henri Matisse",
+      "cited_name": "Matisse, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1869-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Le Cateau-Cambrésis (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Nice (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

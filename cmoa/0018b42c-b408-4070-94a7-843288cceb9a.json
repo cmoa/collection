@@ -1,0 +1,39 @@
+{
+  "title": "Pouring Steel",
+  "creation_date": null,
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.6.2",
+  "id": "cmoa:things/0018b42c-b408-4070-94a7-843288cceb9a",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.375,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023910",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72723&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3f37fac-6c9a-4e19-8f54-a64611b9d303",
+      "party_type": "Person",
+      "full_name": "F. Ross Altwater",
+      "cited_name": "Altwater, F. Ross",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

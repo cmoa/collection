@@ -1,0 +1,37 @@
+{
+  "title": "Protected",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.261",
+  "id": "cmoa:things/4b104ba9-b456-4bb0-859d-c572141369b7",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012849",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5510c31d-db57-4773-bce6-a4806afe90c3",
+      "party_type": "Person",
+      "full_name": "Raphael Soyer",
+      "cited_name": "Soyer, Raphael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Borisoglebsk (Voronezhskaya Oblast', Rossiya republic, Russia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

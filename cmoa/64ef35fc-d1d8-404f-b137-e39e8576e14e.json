@@ -1,0 +1,39 @@
+{
+  "title": "Study for Steamboat on the Ohio",
+  "creation_date": "c. 1896",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "oil on cardboard",
+  "accession_number": "2002.64",
+  "id": "cmoa:things/64ef35fc-d1d8-404f-b137-e39e8576e14e",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "2002-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 15.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=558",
+  "provenance_text": "Vance Jordan Fine Arts, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23525&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/332e7ada-6841-4fec-9ce4-6832af63b67f",
+      "party_type": "Person",
+      "full_name": "Thomas Pollock Anshutz",
+      "cited_name": "Anshutz, Thomas Pollock",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1851-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Newport (Campbell county, Kentucky, United States)",
+      "death_place": "Pennsylvania"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "2006.74",
+  "id": "cmoa:things/34840f58-6eeb-46c7-9ab7-09daa9b33fce",
+  "credit_line": "Gift of Mr. and Mrs. James H. Rich",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 42.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33845",
+  "provenance_text": "Mr. and Mrs. James Rich, Pittsburgh, who purchased from Daniel Weinberg Gallery, Los Angeles, 1989.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39677&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aba4d3d3-0c4e-4366-89fb-e29e9d03501d",
+      "party_type": "Person",
+      "full_name": "Ross Bleckner",
+      "cited_name": "Bleckner, Ross",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "New York City (New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Coupe",
+  "creation_date": "c. 1867",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1872-01-01",
+  "medium": "agate with gilded and enameled brass",
+  "accession_number": "2008.76",
+  "id": "cmoa:things/4ef9e27e-83d0-4d47-8d42-1cce071badf4",
+  "credit_line": "Women's Committee Acquisition Fund, Gift of Baroness Cassel Van Doorn, by exchange, and Ailsa Mellon Bruce Fund",
+  "date_acquired": "2008-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 7.25,
+  "item_height": 5.0,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=74106",
+  "provenance_text": "Charles Duron [1814-1872], Paris; Alfred Morrison [1821-1897], after 1867; by descent to Lord Margadale, his grandson; (sold at Christie's, London, November 30, 1971, lot 104); purchased by Gorevic. (Hotel Drouot, Paris, on November 9, 1975, lot 63) [1]. (Bonhamns and Butterfields, Los Angeles, September 10, 2007) [2]; (H. Blairman & Sons [1884-], London); purchased by Museum, December 2008. \nNOTES:1. Listed as Austrian. 2. Sold again as Austrian.",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71503&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71504&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71505&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d7dcdeb-4021-4e02-8333-bc97f0448e77",
+      "party_type": "Person",
+      "full_name": "Charles Duron",
+      "cited_name": "Duron, Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1814-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Sconce",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "patinated copper, silver-plated brass, and glass",
+  "accession_number": "2011.9",
+  "id": "cmoa:things/ce4678ec-67cb-48f3-813c-3b14c40b2512",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2011-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 13.0,
+  "item_height": 18.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93197",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105552&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105553&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8e3c1b4-dd61-4403-88e9-0641edee12ee",
+      "party_type": "Organization",
+      "full_name": "Bradley & Hubbard Manufacturing Company",
+      "cited_name": "Bradley & Hubbard Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1854-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

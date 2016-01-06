@@ -1,0 +1,39 @@
+{
+  "title": "Architecture",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "graphite and watercolor on paper",
+  "accession_number": "93.189.18",
+  "id": "cmoa:things/b02cbd77-8831-40cf-b917-7066c767574c",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.625,
+  "item_height": 21.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033250",
+  "provenance_text": "Robert Locher, Lancaster, Pennsylvania, 1935; Robert Kraushaar Galleries, New York, by 1939 until 1948; Mr. and Mrs. James H. Beal, Pittsburgh; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06aff35c-4cfd-48f3-a21c-c1b9e06a7aaa",
+      "party_type": "Person",
+      "full_name": "Charles Demuth",
+      "cited_name": "Demuth, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Lancaster, Pennsylvania",
+      "death_place": "Lancaster, Pennsylvania"
+    }
+  ]
+}

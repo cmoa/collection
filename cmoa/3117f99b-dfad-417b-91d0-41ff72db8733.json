@@ -1,0 +1,51 @@
+{
+  "title": "Candlestick",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "pewter",
+  "accession_number": "89.15.2",
+  "id": "cmoa:things/3117f99b-dfad-417b-91d0-41ff72db8733",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Stanley R. Gumberg",
+  "date_acquired": "1989-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026596",
+  "provenance_text": "John Jesse and Irina Laski, Ltd., England, London",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4716&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35ef7d22-1380-4b1b-b090-fa19d2ac6311",
+      "party_type": "Person",
+      "full_name": "Archibald Knox",
+      "cited_name": "Knox, Archibald",
+      "role": "designer",
+      "nationality": "English",
+      "birth_date": "1864-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/74185178-19fc-4f26-806f-12fd41a3dc67",
+      "party_type": "Organization",
+      "full_name": "Liberty and Company",
+      "cited_name": "Liberty and Company",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1875-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

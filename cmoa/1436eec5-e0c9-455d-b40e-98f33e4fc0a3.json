@@ -1,0 +1,54 @@
+{
+  "title": "Copy of Canova's \"Dancer with hands on hips\" of 1805-12",
+  "creation_date": "c. 1860",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "marble",
+  "accession_number": "78.28",
+  "id": "cmoa:things/1436eec5-e0c9-455d-b40e-98f33e4fc0a3",
+  "credit_line": "Gift of Dr. and Mrs. Sidney A. Rosenburg",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.25,
+  "item_height": 63.0,
+  "item_depth": 29.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019929",
+  "provenance_text": "Donors, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147022&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147025&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/545588cf-9e4a-4eb2-840b-d400c7a2882d",
+      "party_type": "Person",
+      "full_name": "Antonio Frilli",
+      "cited_name": "Frilli, Antonio",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": "1902-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/17755106-c9b1-4e6a-ac42-2bb420dbf234",
+      "party_type": "Person",
+      "full_name": "Antonio Canova",
+      "cited_name": "Canova, Antonio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1757-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

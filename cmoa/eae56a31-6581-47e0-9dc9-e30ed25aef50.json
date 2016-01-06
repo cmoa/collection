@@ -1,0 +1,49 @@
+{
+  "title": "Gardening Bench",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "plywood, hay, resin",
+  "accession_number": "2014.43.A-.B",
+  "id": "cmoa:things/eae56a31-6581-47e0-9dc9-e30ed25aef50",
+  "credit_line": "Helen Johnston Acquisition Fund, Martha Mack Lewis Fund, and the G. Christian Lantzsch and Duquesne Light Fund of the Pittsburgh Foundation",
+  "date_acquired": "2014-10-30",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 111.5,
+  "item_height": 48.0,
+  "item_depth": 29.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=105280",
+  "provenance_text": "Collection of Barry Friedman/Friedman Benda, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2954b91d-d4b2-4af3-bacf-d7a5b9f448fc",
+      "party_type": "Person",
+      "full_name": "Jurgen Bey",
+      "cited_name": "Bey, Jurgen",
+      "role": "designer",
+      "nationality": "Dutch",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Netherlands",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/91374de8-c084-468f-bd80-f28b4ef391b9",
+      "party_type": "Organization",
+      "full_name": "Droog Design",
+      "cited_name": "Droog Design",
+      "role": "design collaborative",
+      "nationality": "Dutch",
+      "birth_date": "1993-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

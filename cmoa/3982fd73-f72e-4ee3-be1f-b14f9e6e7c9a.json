@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.27",
+  "id": "cmoa:things/3982fd73-f72e-4ee3-be1f-b14f9e6e7c9a",
+  "credit_line": "Gift of Edgar Kaufmann, Jr.",
+  "date_acquired": "1956-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 53.875,
+  "item_height": 78.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009688",
+  "provenance_text": "Hanover Gallery, London;\nDurlacher Bros, New York\nE.J. Kauffman, Pittsburgh\nHaugh and Keenan Galleries, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5518&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb4f65c9-c62c-4204-99ee-26dfe7beba53",
+      "party_type": "Person",
+      "full_name": "Francis Bacon",
+      "cited_name": "Bacon, Francis",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1909-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Ireland)",
+      "death_place": "Madrid, Spain"
+    }
+  ]
+}

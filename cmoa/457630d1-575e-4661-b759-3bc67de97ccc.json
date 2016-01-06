@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "painted aluminum and steel",
+  "accession_number": "95.72",
+  "id": "cmoa:things/457630d1-575e-4661-b759-3bc67de97ccc",
+  "credit_line": "Gift of Aluminum Company of America",
+  "date_acquired": "1995-05-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 126.0,
+  "item_height": 126.0,
+  "item_depth": 44.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035784",
+  "provenance_text": "Aluminum Company Of America, Pittsburgh, PA, until 1995; gift to Museum, May 25, 1995.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8437&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a17821f1-3395-40aa-8bc6-398679b2fb68",
+      "party_type": "Person",
+      "full_name": "Alexander Calder",
+      "cited_name": "Calder, Alexander",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

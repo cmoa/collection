@@ -1,0 +1,39 @@
+{
+  "title": "The Infant St. John",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "red chalk on white paper faded to cream color",
+  "accession_number": "23.12.16",
+  "id": "cmoa:things/0323df1b-1424-457f-8144-945862aef3d7",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.625,
+  "item_height": 12.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004823",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99539&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d251a96d-8edf-4273-a2f4-bc447365ee20",
+      "party_type": "Person",
+      "full_name": "Domenico Cresti",
+      "cited_name": "Cresti, Domenico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1559-01-01",
+      "death_date": "1638-01-01",
+      "birth_place": null,
+      "death_place": "Florence"
+    }
+  ]
+}

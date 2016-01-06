@@ -1,0 +1,39 @@
+{
+  "title": "Esther Before Ahasuerus",
+  "creation_date": "1518",
+  "creation_date_earliest": "1517-12-22",
+  "creation_date_latest": "1517-12-22",
+  "medium": "engraving",
+  "accession_number": "18.37.6",
+  "id": "cmoa:things/f0f1828d-0c06-457c-ac22-63b029665497",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001811",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/436a09c7-0720-4051-af7a-e56469515e06",
+      "party_type": "Person",
+      "full_name": "Lucas van Leyden",
+      "cited_name": "Leyden, Lucas van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1494-01-01",
+      "death_date": "1533-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Leyden (South Holland, Netherlands)"
+    }
+  ]
+}

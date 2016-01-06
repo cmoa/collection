@@ -1,0 +1,54 @@
+{
+  "title": "Sir George Bridges Rodney, Bt., Admiral of the White",
+  "creation_date": "1780",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.3",
+  "id": "cmoa:things/beaed4c8-99c6-49d6-b31c-4b3f59505d36",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34298",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94608&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39204&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2502da4-0653-4daf-87a7-aa8217e9027a",
+      "party_type": "Person",
+      "full_name": "James Watson",
+      "cited_name": "Watson, James",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1740-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

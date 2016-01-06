@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of Unknown Banker from Augsburg",
+  "creation_date": null,
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1837-01-01",
+  "medium": "oil on metal; gilt metal frame",
+  "accession_number": "27.10.253",
+  "id": "cmoa:things/2162cc23-2325-4ab3-947e-96e776c2745b",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.312,
+  "item_height": 3.25,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005684",
+  "provenance_text": "Godfrey Manheimer; Leonard A. Dessar [1864-], New York, NY [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, June 21, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] In the 1900 US Census, Dessar's mother, Carrie Manheimer, is listed as being part of Dessar's household. It is possible that Dessar inherited this item through the Manheimer family.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73705&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b61fa8ea-63f2-482e-8cd3-e78a5eb64aba",
+      "party_type": "Person",
+      "full_name": "Joseph Heigel",
+      "cited_name": "Heigel, Joseph",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1780-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

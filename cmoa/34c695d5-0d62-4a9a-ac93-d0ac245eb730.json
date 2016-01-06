@@ -1,0 +1,47 @@
+{
+  "title": "Museum for the National Galleries Company, Washington, DC; [section]",
+  "creation_date": "1898",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "watercolor and ink on paper",
+  "accession_number": "93.158.8",
+  "id": "cmoa:things/34c695d5-0d62-4a9a-ac93-d0ac245eb730",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 60.5,
+  "item_height": 31.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033007",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ae8238b-ac25-4dea-9218-799ab950c0a7",
+      "party_type": "Person",
+      "full_name": "Franklin Webster Smith",
+      "cited_name": "Smith, Franklin W.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7ae63807-5faa-41ab-ba7d-0aa75a098d3f",
+      "party_type": "Person",
+      "full_name": "William F. Wagner",
+      "cited_name": "Wagner, William F.",
+      "role": "Delineator",
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

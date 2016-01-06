@@ -1,0 +1,39 @@
+{
+  "title": "The Life of the Virgin: The Flight into Egypt",
+  "creation_date": "c. 1504",
+  "creation_date_earliest": "1510-12-22",
+  "creation_date_latest": "1518-12-22",
+  "medium": "proof",
+  "accession_number": "15.9.14",
+  "id": "cmoa:things/18c32a6e-6c0b-4c6b-816e-5a6c54f06f8e",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1915-12-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001013",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=50286&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

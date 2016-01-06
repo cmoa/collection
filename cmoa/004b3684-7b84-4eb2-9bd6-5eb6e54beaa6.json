@@ -1,0 +1,39 @@
+{
+  "title": "TV Rodin",
+  "creation_date": "1976-1978",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "plaster, video camera, tripod, monitor, pedestal",
+  "accession_number": "2000.27.A-.F",
+  "id": "cmoa:things/004b3684-7b84-4eb2-9bd6-5eb6e54beaa6",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2000-06-01",
+  "department": "Film and Video",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 53.0,
+  "item_depth": 43.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004024",
+  "provenance_text": "René Block, Berlin; Private Collection, Germany; James Cohan Gallery, New York",
+  "classification": "Video installations",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/39dd5ab8-4539-4212-9921-dc98f2923206",
+      "party_type": "Person",
+      "full_name": "Nam June Paik",
+      "cited_name": "Paik, Nam June",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": "2006-01-29",
+      "birth_place": "Seoul, South Korea",
+      "death_place": "Miami, Florida"
+    }
+  ]
+}

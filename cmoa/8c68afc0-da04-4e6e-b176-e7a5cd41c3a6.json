@@ -1,0 +1,51 @@
+{
+  "title": "Trutec: Office and Showrooms, Seoul, Republic of Korea",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "pencil on white paper",
+  "accession_number": "2007.15",
+  "id": "cmoa:things/8c68afc0-da04-4e6e-b176-e7a5cd41c3a6",
+  "credit_line": "Mr. and Mrs. William Boyd,  Jr. Fund and Women's Committee Fund for Architecture",
+  "date_acquired": "2007-04-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 24.75,
+  "item_height": 35.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=39468",
+  "provenance_text": "Barkow Leibinger Architekten, Berlin, Germany",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127775&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71419b0d-f8b3-4c62-a9e5-7c58c7f6d84c",
+      "party_type": "Person",
+      "full_name": "Frank Barkow",
+      "cited_name": "Barkow, Frank",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "Kansas City, USA",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/40a51d89-eeee-499e-baab-308ff178d8d3",
+      "party_type": "Organization",
+      "full_name": "Barkow Leibinger Architekten",
+      "cited_name": "Barkow Leibinger Architekten",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1993-01-01",
+      "death_date": null,
+      "birth_place": "Berlin, Germany",
+      "death_place": null
+    }
+  ]
+}

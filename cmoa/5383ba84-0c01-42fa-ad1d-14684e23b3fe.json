@@ -1,0 +1,45 @@
+{
+  "title": "Figure Study, May 14, 1953",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "opaque water color",
+  "accession_number": "61.49.2",
+  "id": "cmoa:things/5383ba84-0c01-42fa-ad1d-14684e23b3fe",
+  "credit_line": "Purchase: gift of David Smith - Purchased with Money Artist Returned from Third Prize for Sculpture in 1961 Carnegie International",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.5,
+  "item_height": 35.063,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011453",
+  "provenance_text": "David Smith, Bolton Landing, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126452&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126453&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126454&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a826d799-df37-41ba-8320-524028649d84",
+      "party_type": "Person",
+      "full_name": "David Smith",
+      "cited_name": "Smith, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Decatur (Adams county, Indiana, United States)",
+      "death_place": "Bennington (Bennington county, Vermont, United States)"
+    }
+  ]
+}

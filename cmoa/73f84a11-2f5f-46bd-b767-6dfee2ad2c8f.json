@@ -1,0 +1,51 @@
+{
+  "title": "Table clock",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "black enameled metal, gold, diamonds, and jade",
+  "accession_number": "72.27",
+  "id": "cmoa:things/73f84a11-2f5f-46bd-b767-6dfee2ad2c8f",
+  "credit_line": "Gift of Edith P. Davis in memory of Harry Davis",
+  "date_acquired": "1972-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.375,
+  "item_height": 5.5,
+  "item_depth": 2.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016401",
+  "provenance_text": "Bequest of Edith P. Davis",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=180&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22102fd6-5d1c-407c-9130-000ad7baaa73",
+      "party_type": "Person",
+      "full_name": "unknown French, Paris",
+      "cited_name": "unknown French, Paris",
+      "role": "retailer",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8e882d6c-6fa1-42d8-8c66-daff08aa7a2b",
+      "party_type": "Organization",
+      "full_name": "Grogan Company",
+      "cited_name": "Grogan Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1839-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

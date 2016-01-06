@@ -1,0 +1,49 @@
+{
+  "title": "Vase, Florian Ware, \"Poppy\"",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "92.93",
+  "id": "cmoa:things/b415c73b-d724-49dd-a49b-549762707aa8",
+  "credit_line": "Gift in memory of Mrs. Madge Nichols",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 4.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032723",
+  "provenance_text": "Sarah Nichols, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0796dccb-ab99-4095-92cb-b333ae12fd92",
+      "party_type": "Person",
+      "full_name": "William Moorcroft",
+      "cited_name": "Moorcroft, William",
+      "role": "designer",
+      "nationality": "English",
+      "birth_date": "1872-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Burslem, Staffordshire, England",
+      "death_place": "Cobridge, Stafforshire, England?"
+    },
+    {
+      "artist_id": "cmoa:parties/13e5313a-36cf-4cb7-b7f7-1efe6b3e03dc",
+      "party_type": "Organization",
+      "full_name": "James Macintyre & Co.",
+      "cited_name": "Macintyre, James & Co.",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1830-01-01",
+      "death_date": "1913-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

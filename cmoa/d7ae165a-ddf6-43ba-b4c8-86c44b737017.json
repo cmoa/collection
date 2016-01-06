@@ -1,0 +1,39 @@
+{
+  "title": "Bud Vase",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "hand wrought aluminum",
+  "accession_number": "2003.51",
+  "id": "cmoa:things/d7ae165a-ddf6-43ba-b4c8-86c44b737017",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2003-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 5.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5933",
+  "provenance_text": "Wright Auction House, Chicago",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11299&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90741ade-2e5f-496f-aa97-0387bad1132e",
+      "party_type": "Organization",
+      "full_name": "Wendell August Forge",
+      "cited_name": "Wendell August Forge",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

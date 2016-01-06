@@ -1,0 +1,42 @@
+{
+  "title": "Number 4",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "oil, enamel, and aluminum paint on canvas",
+  "accession_number": "54.15",
+  "id": "cmoa:things/e60063d8-de20-428d-8925-24a914c1ba77",
+  "credit_line": "Gift of Frank R. S. Kaplan",
+  "date_acquired": "1954-03-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 37.875,
+  "item_height": 48.875,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009233",
+  "provenance_text": "Sidney Janis Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10324&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57637&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eca72974-f0a1-4bbc-ac00-053b460252c2",
+      "party_type": "Person",
+      "full_name": "Jackson Pollock",
+      "cited_name": "Pollock, Jackson",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Cody (Park county, Wyoming, United States)",
+      "death_place": "East Hampton (Suffolk county, New York state, United States)"
+    }
+  ]
+}

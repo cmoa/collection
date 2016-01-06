@@ -1,0 +1,51 @@
+{
+  "title": "Nicolas Chrystin",
+  "creation_date": "c. 1640-1650",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "46.16.9",
+  "id": "cmoa:things/40ee6b88-3a6f-401d-9743-fe3a1a4da2ee",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.188,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007661",
+  "provenance_text": "Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1946.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105595&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6165f90-44af-4c56-b3dd-4e3ea0079c6f",
+      "party_type": "Person",
+      "full_name": "Jean Morin",
+      "cited_name": "Morin, Jean",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1590-01-01",
+      "death_date": "1650-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

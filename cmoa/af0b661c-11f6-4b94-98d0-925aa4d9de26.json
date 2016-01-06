@@ -1,0 +1,39 @@
+{
+  "title": "An African",
+  "creation_date": "1833",
+  "creation_date_earliest": "1833-01-01",
+  "creation_date_latest": "1833-01-01",
+  "medium": "oil on panel",
+  "accession_number": "2004.53",
+  "id": "cmoa:things/af0b661c-11f6-4b94-98d0-925aa4d9de26",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "2004-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 11.625,
+  "item_height": 14.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12339",
+  "provenance_text": "Ferdinand Georg Waldmüller [1793-1865]. Herr von Hüfler, by 1865. Dr. August Heymann, Vienna, Austria. (Sold at Glückselig & Wärndorfer, Vienna, Austria, May 17, 1921, lot 679) [1]. Private collection, Paris, France. (Sold at Neumeister, Munich, Germany, December 1965, lot 1597). Private collection, Vienna, Austria. (Sold at Sotheby's, London, England, March 29, 2001). (Sold at French & Company, New York, NY, 2004); purchased by Carnegie Museum of Art, December 2004. \nNOTES: [1] This work is listed as \"Der Mohrenfürst\".",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3366&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d05afb97-15fa-4cac-891f-5f9272ca8c68",
+      "party_type": "Person",
+      "full_name": "Ferdinand Georg Waldmüller",
+      "cited_name": "Waldmüller, Ferdinand Georg",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1793-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "Hinterbrühl (Niederösterreich, Austria)"
+    }
+  ]
+}

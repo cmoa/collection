@@ -1,0 +1,39 @@
+{
+  "title": "Hat",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.5",
+  "id": "cmoa:things/688a9675-a74d-4140-b603-8e356dc2b54f",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 4.5,
+  "item_depth": 10.75,
+  "item_diameter": 10.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=373",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11349&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a7972d74-9075-4ab0-b6a2-63cd0b1f85f9",
+      "party_type": "Person",
+      "full_name": "Brian Brenno",
+      "cited_name": "Brenno, Brian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

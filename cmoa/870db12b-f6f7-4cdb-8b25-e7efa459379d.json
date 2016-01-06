@@ -1,0 +1,39 @@
+{
+  "title": "Running Man",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "bronze",
+  "accession_number": "83.92",
+  "id": "cmoa:things/870db12b-f6f7-4cdb-8b25-e7efa459379d",
+  "credit_line": "Gift of Benjamin D. Bernstein in honor of Robin Joan Bernstein and Herbert L. Seigle",
+  "date_acquired": "1984-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.75,
+  "item_height": 85.0,
+  "item_depth": 34.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024389",
+  "provenance_text": "Benjamin D. Bernstein, Philadelphia, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105143&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52064a48-8e12-428d-abb6-8beeb3679f4d",
+      "party_type": "Person",
+      "full_name": "Elisabeth Frink",
+      "cited_name": "Frink, Elisabeth",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1930-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Suffolk (England, United Kingdom)",
+      "death_place": "Blandford Forum, Dorset"
+    }
+  ]
+}

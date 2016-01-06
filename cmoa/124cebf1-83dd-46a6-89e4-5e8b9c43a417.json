@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Cleveland",
+  "creation_date": "1868",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1997.55",
+  "id": "cmoa:things/124cebf1-83dd-46a6-89e4-5e8b9c43a417",
+  "credit_line": "Gift of Mrs. Philip Hamilton",
+  "date_acquired": "1997-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 40.0,
+  "item_height": 54.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003416",
+  "provenance_text": "Mrs. Philip Hamilton [1909-2001], Beaver, Pennsylvania, by October 1997 [1]; gift to Museum, October 1997. \nNOTES:1. Jean Richardson Hamilton",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114578&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/57deefd9-ebea-4cfe-9d8f-20826fcf9a0e",
+      "party_type": "Person",
+      "full_name": "Guglielmo de Sanctis",
+      "cited_name": "Sanctis, Guglielmo de",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1829-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Rome (Roma province, Lazio, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

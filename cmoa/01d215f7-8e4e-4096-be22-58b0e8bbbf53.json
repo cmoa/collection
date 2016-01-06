@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "206 BCE-220 CE",
+  "creation_date_earliest": "-0206-01-05",
+  "creation_date_latest": "0220-01-01",
+  "medium": "Ceramic",
+  "accession_number": "25.1.14",
+  "id": "cmoa:things/01d215f7-8e4e-4096-be22-58b0e8bbbf53",
+  "credit_line": "Gift of Charles D. Armstrong",
+  "date_acquired": "1925-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005176",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3177&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

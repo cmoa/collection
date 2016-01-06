@@ -1,0 +1,49 @@
+{
+  "title": "Louis XIII",
+  "creation_date": "c. 1640-1650",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "28.9",
+  "id": "cmoa:things/24c9e077-9096-46f6-a5ba-76abab6df769",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1928-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 12.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006157",
+  "provenance_text": "Kenneth Seaver [-1969], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1928.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6165f90-44af-4c56-b3dd-4e3ea0079c6f",
+      "party_type": "Person",
+      "full_name": "Jean Morin",
+      "cited_name": "Morin, Jean",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1590-01-01",
+      "death_date": "1650-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/8404a038-c1e2-4b71-8560-a7cef67a249d",
+      "party_type": "Person",
+      "full_name": "Philippe de Champaigne",
+      "cited_name": "Champaigne, Philippe de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

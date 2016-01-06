@@ -1,0 +1,51 @@
+{
+  "title": "Vase (Form Number Four: Amphora of Dreams)",
+  "creation_date": "c. 1966-1968",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "biscuit porcelain",
+  "accession_number": "70.3",
+  "id": "cmoa:things/a6bfd429-45df-4cca-986f-4b5753389540",
+  "credit_line": "Purchase: gift of Mrs. Alan G. Lehman",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 19.5,
+  "item_depth": 0.0,
+  "item_diameter": 6.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015793",
+  "provenance_text": "Mrs. Alan G. Lehman",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1978&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/71678606-2447-459d-addb-1e2975aa9664",
+      "party_type": "Person",
+      "full_name": "Jean Arp",
+      "cited_name": "Arp, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Strasburg (Neubrandenburg district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": " Basel (Basel-Stadt, Switzerland)"
+    },
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

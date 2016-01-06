@@ -1,0 +1,39 @@
+{
+  "title": "The Puritan",
+  "creation_date": "1883-1886 cast 1899",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "bronze",
+  "accession_number": "19.5.1",
+  "id": "cmoa:things/df5cbc30-8200-4c9e-b834-f4ef3f46afa6",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 19.5,
+  "item_height": 31.25,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002064",
+  "provenance_text": "Tiffany and Co., New York, by 1919; purchased by Museum, by 1919.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

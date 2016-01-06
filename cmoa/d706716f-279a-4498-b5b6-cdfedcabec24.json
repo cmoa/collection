@@ -1,0 +1,39 @@
+{
+  "title": "Vessel, Animal-Form",
+  "creation_date": "9 BCE-8 BCE",
+  "creation_date_earliest": "-0009-01-03",
+  "creation_date_latest": "-0008-01-03",
+  "medium": "earthenware",
+  "accession_number": "72.61.2",
+  "id": "cmoa:things/d706716f-279a-4498-b5b6-cdfedcabec24",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.188,
+  "item_height": 8.75,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016541",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3289&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/498f9a0e-522d-43b9-a0dd-6368cb05621d",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Amlash",
+      "cited_name": "unknown Persian, Amlash",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

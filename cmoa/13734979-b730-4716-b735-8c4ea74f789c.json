@@ -1,0 +1,54 @@
+{
+  "title": "Ascension of St. John the Evangelist, by Giotto",
+  "creation_date": "1892",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "unbound wood engraving in clothbound book",
+  "accession_number": "1996.82.1.13",
+  "id": "cmoa:things/13734979-b730-4716-b735-8c4ea74f789c",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1996-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002837",
+  "provenance_text": "By conversion, to Carnegie Museum of Art, Pittsburgh, PA, December 1996.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113643&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113642&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/413da34d-19da-4c40-a3e7-0a56849a6386",
+      "party_type": "Person",
+      "full_name": "Timothy Cole",
+      "cited_name": "Cole, Timothy",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Poughkeepsie (Dutchess county, New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/f9b457a4-681b-460e-9af0-65ac3df8e672",
+      "party_type": "Organization",
+      "full_name": "Century Company",
+      "cited_name": "Century Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

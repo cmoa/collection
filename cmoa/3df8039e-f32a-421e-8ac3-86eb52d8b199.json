@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1745-1780",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.565",
+  "id": "cmoa:things/3df8039e-f32a-421e-8ac3-86eb52d8b199",
+  "credit_line": "Bequest of Ailsa Mellon Bruce",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.875,
+  "item_depth": 0.0,
+  "item_diameter": 11.563,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015276",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2382&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

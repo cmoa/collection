@@ -1,0 +1,42 @@
+{
+  "title": "Joannes Paulus Oliva (after Giovanni Battista Gaulli)",
+  "creation_date": null,
+  "creation_date_earliest": "1660-01-01",
+  "creation_date_latest": "1740-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.14",
+  "id": "cmoa:things/b110d50c-91bb-4031-a1e3-8cc829c2ffee",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.938,
+  "item_height": 15.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005170",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101923&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101924&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bcab936-991d-4608-89c8-03733a947cfc",
+      "party_type": "Person",
+      "full_name": "Pierre Simon",
+      "cited_name": "Simon, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1640-01-01",
+      "death_date": "1710-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

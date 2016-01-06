@@ -1,0 +1,60 @@
+{
+  "title": "Complete Picture of the Newly Opened Port of Yokohama (Gokaiko Yokohama no zenzu)",
+  "creation_date": "1859-1860",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "Color woodblock print, printed on eight sheets, joined and folded",
+  "accession_number": "89.28.487",
+  "id": "cmoa:things/83cf135f-e942-4f28-81c0-9138aaec9436",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 9.375,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028311",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from  Bluett & Sons, London, 8/18/1964.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20616&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21573&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21572&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21574&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/221b4a46-7ac5-4712-bd96-cf1fb73cc51e",
+      "party_type": "Person",
+      "full_name": "Sadahide Utagawa",
+      "cited_name": "Sadahide Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1807-01-01",
+      "death_date": "1873-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3022e7b8-ad89-4d91-a67d-666e3c95cec2",
+      "party_type": "Person",
+      "full_name": "Maruya Tokuzo",
+      "cited_name": "Maruya Tokuzo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

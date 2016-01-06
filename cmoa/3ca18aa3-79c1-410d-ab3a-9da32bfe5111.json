@@ -1,0 +1,42 @@
+{
+  "title": "Mary's Pet",
+  "creation_date": "c. 1927",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "oil on board",
+  "accession_number": "77.35",
+  "id": "cmoa:things/3ca18aa3-79c1-410d-ab3a-9da32bfe5111",
+  "credit_line": "Gift of Philip H. Permar in memory of Dr. and Mrs. H. H. Permar",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.375,
+  "item_height": 21.5,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018611",
+  "provenance_text": "Dr. Howard H. Permar, Pittsburgh, PA, 1936; Grace K. Permar, Pittsburgh, PA, by 1971; Philip K. Permar, Aiken, SC, by 1977; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1977.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115368&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=237&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

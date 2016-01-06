@@ -1,0 +1,39 @@
+{
+  "title": "Try to Remember Tree",
+  "creation_date": "1998/2000",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2009.50.1",
+  "id": "cmoa:things/89620d8b-4eab-4995-94a5-a7c89b7993d1",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-10-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82580",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97934&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8836c0f9-c589-4e30-84e0-94e4295c315d",
+      "party_type": "Person",
+      "full_name": "Elijah Gowin",
+      "cited_name": "Gowin, Elijah",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

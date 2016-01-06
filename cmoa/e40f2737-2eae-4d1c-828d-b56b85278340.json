@@ -1,0 +1,39 @@
+{
+  "title": "Fontainebleau",
+  "creation_date": "c. 1860",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on panel",
+  "accession_number": "52.21.3",
+  "id": "cmoa:things/e40f2737-2eae-4d1c-828d-b56b85278340",
+  "credit_line": "Bequest of Henry Lee Mason, Jr.",
+  "date_acquired": "1952-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.875,
+  "item_height": 15.625,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009081",
+  "provenance_text": "Henry Lee Mason, Jr., Pittsburgh; bequest to Museum, February 1952.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52cbb6be-9abf-42f8-91ff-4f836a0728db",
+      "party_type": "Person",
+      "full_name": "Theodore Rousseau",
+      "cited_name": "Rousseau, Theodore",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1812-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Barbizon (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

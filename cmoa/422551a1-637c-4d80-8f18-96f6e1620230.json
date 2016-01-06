@@ -1,0 +1,39 @@
+{
+  "title": "Animal Study, a Goat, (Holland)",
+  "creation_date": "c. last half of the 19th century",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "17.4.37",
+  "id": "cmoa:things/422551a1-637c-4d80-8f18-96f6e1620230",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001610",
+  "provenance_text": "Charles A. Walker, Boston, MA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99468&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5729e58-ee59-4abf-8655-c1eac5d4d388",
+      "party_type": "Person",
+      "full_name": "Anton Mauve",
+      "cited_name": "Mauve, Anton",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1838-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": "Zaandam, North Holland, Netherlands",
+      "death_place": "Arnhem, Netherlands"
+    }
+  ]
+}

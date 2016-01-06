@@ -1,0 +1,39 @@
+{
+  "title": "Lidded jar",
+  "creation_date": "1810-1846",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1846-01-01",
+  "medium": "glass",
+  "accession_number": "51.28.1.A-B",
+  "id": "cmoa:things/d7b90d75-67a0-48e9-b9ec-84b38efbf3ac",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1951-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.375,
+  "item_depth": 0.0,
+  "item_diameter": 4.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008965",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=992&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bridge",
+  "creation_date": "c. 1908",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "charcoal on laid paper",
+  "accession_number": "58.62",
+  "id": "cmoa:things/6f44787c-77cf-4957-bc9e-d0ad8918802f",
+  "credit_line": "Howard N. Eavenson Memorial Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010900",
+  "provenance_text": "Rabin & Krueger Gallery, Newark, New Jersey; Zabriskie Gallery, New York; Howard N. Eavenson Memorial Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89436&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a0e100d-9906-4077-9993-71afeb51f3f1",
+      "party_type": "Person",
+      "full_name": "Joseph Stella",
+      "cited_name": "Stella, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Muro Lucano (Potenza province, Basilicata, Italy)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

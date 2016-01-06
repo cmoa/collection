@@ -1,0 +1,42 @@
+{
+  "title": "Bird",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "woodcut with colored inks on cream wove lightweight japan paper",
+  "accession_number": "77.77",
+  "id": "cmoa:things/df12515c-cf09-45f0-a8d3-a8f29effec23",
+  "credit_line": "Gift of Stanley Bernstein",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019025",
+  "provenance_text": "Stanley Bernstein",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103566&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76455&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22f98209-2efd-43ee-afef-87e0dd3d509f",
+      "party_type": "Person",
+      "full_name": "Milton Avery",
+      "cited_name": "Avery, Milton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Altmar (Oswego county, New York state, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

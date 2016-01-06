@@ -1,0 +1,39 @@
+{
+  "title": "Cactus Forms",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "China ink on paper",
+  "accession_number": "60.44",
+  "id": "cmoa:things/0de6d2aa-7586-4eaf-ae27-c8280ae19fec",
+  "credit_line": "Gift of the Estate of Robert D. Kaufmann",
+  "date_acquired": "1960-09-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.75,
+  "item_height": 20.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011252",
+  "provenance_text": "Estate of Robert D. Kaufmann; Bequest of the artist",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=239&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f8cd6e0d-12a5-4488-bf2d-ea7374a28956",
+      "party_type": "Person",
+      "full_name": "Robert D. Kaufmann",
+      "cited_name": "Kaufmann, Robert D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

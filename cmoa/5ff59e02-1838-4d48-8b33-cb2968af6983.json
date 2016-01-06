@@ -1,0 +1,39 @@
+{
+  "title": "Virgin and Child with bird",
+  "creation_date": "1500-1520",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1519-12-22",
+  "medium": "engraving",
+  "accession_number": "48.22.5",
+  "id": "cmoa:things/5ff59e02-1838-4d48-8b33-cb2968af6983",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1948-12-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008296",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until December 8, 1948; his gift to Museum, December 1948.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5068aa76-41eb-4e1a-b205-3442416bd241",
+      "party_type": "Person",
+      "full_name": "Benedetto Montagna",
+      "cited_name": "Montagna, Benedetto",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1470-01-01",
+      "death_date": "1540-01-01",
+      "birth_place": "Vicenza, Italy",
+      "death_place": "Vicenza, Italy"
+    }
+  ]
+}

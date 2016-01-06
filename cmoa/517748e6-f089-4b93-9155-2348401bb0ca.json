@@ -1,0 +1,42 @@
+{
+  "title": "Child's chair",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "deal and original leather",
+  "accession_number": "90.20",
+  "id": "cmoa:things/517748e6-f089-4b93-9155-2348401bb0ca",
+  "credit_line": "Fellows Fund",
+  "date_acquired": "1990-12-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 35.375,
+  "item_depth": 17.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029356",
+  "provenance_text": "Barry Friedman, New York City, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96852&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03ac6519-6681-48a1-803b-62f6862d668a",
+      "party_type": "Person",
+      "full_name": "Gerrit Thomas Rietveld",
+      "cited_name": "Rietveld, Gerrit Thomas",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1888-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Utrecht",
+      "death_place": "Utrecht"
+    }
+  ]
+}

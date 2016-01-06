@@ -1,0 +1,51 @@
+{
+  "title": "Ono no Tofu",
+  "creation_date": "1886",
+  "creation_date_earliest": "1886-01-01",
+  "creation_date_latest": "1886-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.801",
+  "id": "cmoa:things/9ac8500d-74d5-4258-9369-70d6e9f6097d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028962",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35368&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/971d665d-57e0-454a-93fc-ee811b781ee2",
+      "party_type": "Person",
+      "full_name": "Kobayashi Kiyochika",
+      "cited_name": "Kobayashi Kiyochika",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1847-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Japan, Edo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e69b59b3-fadf-4ad5-9c15-931b97e146d5",
+      "party_type": "Person",
+      "full_name": "Matsuki Heikichi",
+      "cited_name": "Matsuki Heikichi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1890-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

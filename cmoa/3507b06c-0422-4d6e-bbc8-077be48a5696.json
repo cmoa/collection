@@ -1,0 +1,39 @@
+{
+  "title": "Halbakt von vorne",
+  "creation_date": "c. 1913",
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "60.38.2",
+  "id": "cmoa:things/3507b06c-0422-4d6e-bbc8-077be48a5696",
+  "credit_line": "Gift of Mr. and Mrs. J. Alfred Wilner",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011239",
+  "provenance_text": "Gift of Mr and Mrs. J. Alfred Wilner, 1960.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115532&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28c49d5c-f42a-4d74-8506-5e8dc47a2b9a",
+      "party_type": "Person",
+      "full_name": "Gustav Klimt",
+      "cited_name": "Klimt, Gustav",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1862-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": " Wien state (Austria)",
+      "death_place": " Vienna (Wien state, Austria)"
+    }
+  ]
+}

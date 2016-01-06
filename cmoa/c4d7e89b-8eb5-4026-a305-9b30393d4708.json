@@ -1,0 +1,39 @@
+{
+  "title": "A View of Rome with the Colosseum",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "ink and gouache",
+  "accession_number": "75.47.30",
+  "id": "cmoa:things/c4d7e89b-8eb5-4026-a305-9b30393d4708",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.625,
+  "item_height": 18.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017794",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72713&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89f7ecbd-a690-4588-8460-990f0bca7c75",
+      "party_type": "Person",
+      "full_name": "Francesco Pannini",
+      "cited_name": "Pannini, Francesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1745-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": "Rome (Roma province, Lazio, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

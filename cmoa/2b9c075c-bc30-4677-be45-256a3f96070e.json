@@ -1,0 +1,39 @@
+{
+  "title": "Hanging Shirt",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "pen and ink with black wash on paper",
+  "accession_number": "93.189.1",
+  "id": "cmoa:things/2b9c075c-bc30-4677-be45-256a3f96070e",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.375,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033255",
+  "provenance_text": "Durlacher Brothers Gallery, New York; Mr. and Mrs. James H. Beal, Pittsburgh, 1958;\nbequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84827&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40cfbcd3-9ac6-46e9-9c91-0f1bf2a62a1e",
+      "party_type": "Person",
+      "full_name": "Peter Blume",
+      "cited_name": "Blume, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

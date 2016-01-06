@@ -1,0 +1,39 @@
+{
+  "title": "The Engraver and the Etcher",
+  "creation_date": "1643",
+  "creation_date_earliest": "1643-01-01",
+  "creation_date_latest": "1643-01-01",
+  "medium": "engraving",
+  "accession_number": "65.18.1",
+  "id": "cmoa:things/411b95b6-95d4-47ff-b803-d37e2d904ec0",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011878",
+  "provenance_text": "William H. Schab, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101637&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a95f8983-c9fc-42a9-8ffb-42df890b2416",
+      "party_type": "Person",
+      "full_name": "Abraham Bosse",
+      "cited_name": "Bosse, Abraham",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1676-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

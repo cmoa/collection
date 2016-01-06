@@ -1,0 +1,42 @@
+{
+  "title": "Enfants sur la plage (Children on a beach)",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "etching",
+  "accession_number": "16.20.8",
+  "id": "cmoa:things/5490aef4-33de-41ad-bc1b-a6d106a0cf7c",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 8.813,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001114",
+  "provenance_text": "George Busse, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104797&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104798&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/498b00a8-09fd-4a2d-9f3d-c1af84b60d2c",
+      "party_type": "Person",
+      "full_name": "Jozef Israëls",
+      "cited_name": "Israëls, Jozef",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1824-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Groningen (Groningen province, Netherlands)",
+      "death_place": null
+    }
+  ]
+}

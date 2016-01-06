@@ -1,0 +1,42 @@
+{
+  "title": "Going to the Meet",
+  "creation_date": "before 1836",
+  "creation_date_earliest": "1814-01-01",
+  "creation_date_latest": "1836-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.14.1",
+  "id": "cmoa:things/d004b7c1-0d48-4ff5-a756-cef5d03ad775",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.125,
+  "item_height": 12.25,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016338",
+  "provenance_text": "The Sporting Gallery and Bookshop, Inc., New York; Robert S. Waters, Johnstown, Pennsylvania; bequest to Museum, May 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36776&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/09a53253-b42b-4e06-9205-9adc3954f23f",
+      "party_type": "Person",
+      "full_name": "David Dalby of York",
+      "cited_name": "Dalby of York, David",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1794-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": " Clifton (England, United Kingdom)"
+    }
+  ]
+}

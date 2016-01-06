@@ -1,0 +1,51 @@
+{
+  "title": "Pitcher",
+  "creation_date": "c. 1934",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "silver, silver gilt, and rosewood",
+  "accession_number": "94.240.1",
+  "id": "cmoa:things/830bd43f-4d31-47b3-bf6c-619879f4fb64",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1994-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.625,
+  "item_height": 5.5,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035047",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8285&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6aab9724-8209-4377-9554-620b938913d1",
+      "party_type": "Person",
+      "full_name": "Valéry Bizouard",
+      "cited_name": "Bizouard, Valéry",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1875-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/30bd4367-4aa5-4141-93e3-ae9cb125f122",
+      "party_type": "Organization",
+      "full_name": "Tétard Frères",
+      "cited_name": "Tétard Frères",
+      "role": "Maker",
+      "nationality": "French",
+      "birth_date": "1851-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

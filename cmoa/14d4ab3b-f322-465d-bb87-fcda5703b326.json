@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "etching, aquatint with airbrush on paper",
+  "accession_number": "2004.32",
+  "id": "cmoa:things/14d4ab3b-f322-465d-bb87-fcda5703b326",
+  "credit_line": "Alan D. and Marsha W. Bramowitz Contemporary Print Acquisition Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 29.25,
+  "item_height": 33.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12809",
+  "provenance_text": "Gavin Brown's enterprise, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12812&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee20e3e1-e665-4624-8634-412860beabc7",
+      "party_type": "Person",
+      "full_name": "Laura Owens",
+      "cited_name": "Owens, Laura",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1970-01-01",
+      "death_date": null,
+      "birth_place": "Euclid, Ohio",
+      "death_place": null
+    }
+  ]
+}

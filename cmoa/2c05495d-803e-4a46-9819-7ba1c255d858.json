@@ -1,0 +1,39 @@
+{
+  "title": "Sir John Fredrick William Herschel",
+  "creation_date": "1869",
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "albumen print",
+  "accession_number": "74.58",
+  "id": "cmoa:things/2c05495d-803e-4a46-9819-7ba1c255d858",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-12-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.063,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017085",
+  "provenance_text": "The 831 Gallery, Birmingham, Mich",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82729&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff866d32-f89d-4e00-a62c-4a8a05e28e8a",
+      "party_type": "Person",
+      "full_name": "Julia Margaret Cameron",
+      "cited_name": "Cameron, Julia Margaret",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1815-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": "Kolkata (West Bengal, India) (Calcutta)",
+      "death_place": "Sri Lanka (Asia)"
+    }
+  ]
+}

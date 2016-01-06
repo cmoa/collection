@@ -1,0 +1,49 @@
+{
+  "title": "Stool",
+  "creation_date": "1961 (designed)  c. 1980 (manufactured)",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "stainless steel and black leather upholstery",
+  "accession_number": "81.102",
+  "id": "cmoa:things/b3b5b4f3-9357-4e7b-b463-d8408fdc0e16",
+  "credit_line": "Gift of Cumberland Furniture Corporation",
+  "date_acquired": "1981-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 29.5,
+  "item_depth": 15.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021508",
+  "provenance_text": "Cumberland Furniture Corporation, NY, New York",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08bb2de1-a0d0-40b4-a71f-9ccf8c90605f",
+      "party_type": "Person",
+      "full_name": "Jacob Epstein",
+      "cited_name": "Epstein, Jacob",
+      "role": "Designer",
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9ac35be5-718c-4bc5-a386-5bc067e831c8",
+      "party_type": "Organization",
+      "full_name": "Cumberland Furniture Corporation",
+      "cited_name": "Cumberland Furniture Corporation",
+      "role": "Manufacturer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

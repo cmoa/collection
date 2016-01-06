@@ -1,0 +1,51 @@
+{
+  "title": "Industry",
+  "creation_date": "1788",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "mezzotint in color",
+  "accession_number": "70.32.2523",
+  "id": "cmoa:things/1ea62e21-476e-41d1-a4ed-73a81b38e68d",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014752",
+  "provenance_text": "Estate of Mrs. Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126398&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1153e13c-e0d2-4c49-b4a6-fdd6ce1ea3e4",
+      "party_type": "Person",
+      "full_name": "Charles Knight",
+      "cited_name": "Knight, Charles",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1743-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

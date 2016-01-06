@@ -1,0 +1,39 @@
+{
+  "title": "Bag",
+  "creation_date": "1920-1950",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "grass",
+  "accession_number": "93.169.103",
+  "id": "cmoa:things/ed34ecc9-8dad-437b-8865-da36072f9a26",
+  "credit_line": "Bishop Walter H. Overs Collection: gift of Dr. Helen Overs, Dr. Robert Overs and Gareth Griffiths",
+  "date_acquired": "1993-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 14.75,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033022",
+  "provenance_text": "Gift of Dr. Helen Overs, Dr. Robert Overs and Gareth Griffiths, Chautaqua, NY, 1993.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5122&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/adca732d-c656-465f-a904-efd4761a4722",
+      "party_type": "Person",
+      "full_name": "unknown African",
+      "cited_name": "unknown African",
+      "role": null,
+      "nationality": "African",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

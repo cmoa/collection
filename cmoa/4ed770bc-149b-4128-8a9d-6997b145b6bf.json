@@ -1,0 +1,39 @@
+{
+  "title": "Two Figures",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "bronze",
+  "accession_number": "73.17.5",
+  "id": "cmoa:things/4ed770bc-149b-4128-8a9d-6997b145b6bf",
+  "credit_line": "Gift of Benjamin D. Bernstein",
+  "date_acquired": "1973-05-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 6.125,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016668",
+  "provenance_text": "Benjamin D. Bernstein",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10017&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f15aaf66-f548-4a75-8c61-6bfc957e14cd",
+      "party_type": "Person",
+      "full_name": "unknown African, Dahomey",
+      "cited_name": "unknown African, Dahomey",
+      "role": null,
+      "nationality": "African",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

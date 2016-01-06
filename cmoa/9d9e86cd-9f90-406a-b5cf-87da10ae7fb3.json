@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Korean Mother and Child)",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "90.18.4",
+  "id": "cmoa:things/9d9e86cd-9f90-406a-b5cf-87da10ae7fb3",
+  "credit_line": "Gift of Mrs. Edith C. Thompson",
+  "date_acquired": "1990-09-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.563,
+  "item_height": 16.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029347",
+  "provenance_text": "Gift of Mrs. Edith C. Thompson, Springfield, Ohio, 9/27/1990.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103130&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83550&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9dfaa66-e57d-4728-bce2-0fa87b4016a6",
+      "party_type": "Person",
+      "full_name": "Elizabeth Keith",
+      "cited_name": "Keith, Elizabeth",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1887-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Aberdeenshire, Scotland",
+      "death_place": "England"
+    }
+  ]
+}

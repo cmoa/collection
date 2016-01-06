@@ -1,0 +1,39 @@
+{
+  "title": "Greta Garbo",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.84.3",
+  "id": "cmoa:things/68fbd63e-338c-454b-9ea3-83232feba95e",
+  "credit_line": "Gift of Stan Babbitt",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 16.125,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025210",
+  "provenance_text": "The Martin S. Ackerman Foundation, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82720&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8bbf10f8-e85b-4505-8214-4432691a9250",
+      "party_type": "Person",
+      "full_name": "George Hurrell",
+      "cited_name": "Hurrell, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

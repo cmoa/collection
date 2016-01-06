@@ -1,0 +1,51 @@
+{
+  "title": "Platter, \"Swan Service\"",
+  "creation_date": "1738",
+  "creation_date_earliest": "1738-01-01",
+  "creation_date_latest": "1738-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "60.9.3",
+  "id": "cmoa:things/eae35269-8b54-427b-bf8d-7e127110a35b",
+  "credit_line": "Purchase: gift of Sarah Mellon Scaife Foundation",
+  "date_acquired": "1960-02-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 2.938,
+  "item_depth": 0.0,
+  "item_diameter": 16.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011352",
+  "provenance_text": "Antique Porcelain Company, New York City, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121191&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa45e57c-157e-4657-bfd1-8ca9307cdaeb",
+      "party_type": "Person",
+      "full_name": "Johann Joachim Kändler",
+      "cited_name": "Kändler, Johann J.",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1706-01-01",
+      "death_date": "1774-01-01",
+      "birth_place": "Germany",
+      "death_place": " Meissen (Dresden district, Saxony, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mask",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.59",
+  "id": "cmoa:things/91ace3bf-96b6-4ea1-a77e-c910ceb1d454",
+  "credit_line": "Charles J. Rosenbloom Purchase Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.625,
+  "item_height": 30.5,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010896",
+  "provenance_text": "Galerie Birch, Copenhagen",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126359&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4f1d5c1-76de-4f17-8b6e-5b6c194897fe",
+      "party_type": "Person",
+      "full_name": "Egill Jacobsen",
+      "cited_name": "Jacobsen, Egill",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1910-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Copenhagen (København commune, Denmark)",
+      "death_place": null
+    }
+  ]
+}

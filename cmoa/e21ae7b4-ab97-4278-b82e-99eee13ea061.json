@@ -1,0 +1,42 @@
+{
+  "title": "Elterwater Stone Ring",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "113 stones",
+  "accession_number": "86.4.1.-.113",
+  "id": "cmoa:things/e21ae7b4-ab97-4278-b82e-99eee13ea061",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Edward N. Haskell",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 11.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026133",
+  "provenance_text": "Anthony D'Offay, London",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120680&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/585ae497-a504-4940-a63b-ec501fa03a29",
+      "party_type": "Person",
+      "full_name": "Richard Long",
+      "cited_name": "Long, Richard",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "Bristol (Bristol, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

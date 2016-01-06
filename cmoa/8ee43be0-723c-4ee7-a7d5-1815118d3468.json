@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "alkyd on rice paper",
+  "accession_number": "88.26.1",
+  "id": "cmoa:things/8ee43be0-723c-4ee7-a7d5-1815118d3468",
+  "credit_line": "Fine Arts Acquisition Fund",
+  "date_acquired": "1988-09-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.625,
+  "item_height": 68.875,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026490",
+  "provenance_text": "Luhring, Augustine and Hodes Gallery, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115450&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",
+      "party_type": "Person",
+      "full_name": "Christopher Wool",
+      "cited_name": "Wool, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    }
+  ]
+}

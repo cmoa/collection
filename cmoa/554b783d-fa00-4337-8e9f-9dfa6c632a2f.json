@@ -1,0 +1,39 @@
+{
+  "title": "Madonna and Child",
+  "creation_date": "late 15th - early 16th century",
+  "creation_date_earliest": "1479-12-23",
+  "creation_date_latest": "1524-12-22",
+  "medium": "tempera, on linen",
+  "accession_number": "54.24",
+  "id": "cmoa:things/554b783d-fa00-4337-8e9f-9dfa6c632a2f",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1954-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.125,
+  "item_height": 14.75,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009257",
+  "provenance_text": "Mr. and Mrs. Charles J. Rosenbloom, Pittsburgh; gift to Museum, May 1954.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149826&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c63b846-3145-4b7c-bbac-b2f901393a9b",
+      "party_type": "Person",
+      "full_name": "Benedetto Diana",
+      "cited_name": "Diana, Benedetto",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1445-01-01",
+      "death_date": "1525-01-01",
+      "birth_place": null,
+      "death_place": "Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

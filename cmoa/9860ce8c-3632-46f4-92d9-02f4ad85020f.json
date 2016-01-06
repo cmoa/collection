@@ -1,0 +1,39 @@
+{
+  "title": "Dinner plate",
+  "creation_date": "1972-1973",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "earthenware with lustre-glaze",
+  "accession_number": "86.43.1",
+  "id": "cmoa:things/9860ce8c-3632-46f4-92d9-02f4ad85020f",
+  "credit_line": "Gift of Garth Clark Gallery",
+  "date_acquired": "1986-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.375,
+  "item_depth": 0.0,
+  "item_diameter": 1.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026109",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a89612e2-1f93-4866-98fd-fe41ae42518d",
+      "party_type": "Person",
+      "full_name": "Beatrice Wood",
+      "cited_name": "Wood, Beatrice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "San Francisco (San Francisco county, California, United States)",
+      "death_place": "Ojai (Ventura county, California, United States)"
+    }
+  ]
+}

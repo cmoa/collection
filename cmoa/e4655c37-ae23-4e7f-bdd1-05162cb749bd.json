@@ -1,0 +1,39 @@
+{
+  "title": "Along the Way",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "87.42",
+  "id": "cmoa:things/e4655c37-ae23-4e7f-bdd1-05162cb749bd",
+  "credit_line": "Gift of Dr. and Mrs. Laibe A. Kessler",
+  "date_acquired": "1988-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 75.125,
+  "item_height": 75.125,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026370",
+  "provenance_text": "Dr. And Mrs. Laibe A. Kessler, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31962&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ecaae7b7-5e00-4c29-bd9b-714de1fdefbb",
+      "party_type": "Person",
+      "full_name": "Shusaku Arakawa",
+      "cited_name": "Arakawa, Shusaku",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1936-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Nagoya (Aichi prefecture, Chubu, Japan)",
+      "death_place": "New York, NY"
+    }
+  ]
+}

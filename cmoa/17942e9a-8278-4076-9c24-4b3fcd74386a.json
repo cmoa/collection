@@ -1,0 +1,39 @@
+{
+  "title": "Sons of Morning",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "bronze",
+  "accession_number": "81.56.8",
+  "id": "cmoa:things/17942e9a-8278-4076-9c24-4b3fcd74386a",
+  "credit_line": "Bequest of Mary Callery",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 85.5,
+  "item_height": 13.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021955",
+  "provenance_text": "Bequest of Mary Callery, New York, NY, 1981.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47099&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac04dc38-6e87-4ec5-9a5f-a6a6b4d04845",
+      "party_type": "Person",
+      "full_name": "Mary Callery",
+      "cited_name": "Callery, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

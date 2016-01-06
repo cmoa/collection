@@ -1,0 +1,39 @@
+{
+  "title": "The Crucifixion",
+  "creation_date": "c. 1465",
+  "creation_date_earliest": "1449-12-23",
+  "creation_date_latest": "1479-12-23",
+  "medium": "engraving",
+  "accession_number": "15.7.16",
+  "id": "cmoa:things/5c2b7f83-e0ce-439c-bdc8-396e900b278b",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000990",
+  "provenance_text": "John Talman (English 1677-1726) Lugt, Supplement, 2918a; Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7e403041-8054-4883-9020-905909fb237c",
+      "party_type": "Person",
+      "full_name": "Israhel van Meckenem",
+      "cited_name": "Meckenem, Israhel van",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1440-01-01",
+      "death_date": "1503-01-01",
+      "birth_place": "Meckenheim (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Bocholt (Münster district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

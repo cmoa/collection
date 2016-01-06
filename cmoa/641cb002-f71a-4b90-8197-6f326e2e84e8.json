@@ -1,0 +1,51 @@
+{
+  "title": "Let Him Roar, Mr. Speaker",
+  "creation_date": "March 6, 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "wood block",
+  "accession_number": "14.9",
+  "id": "cmoa:things/641cb002-f71a-4b90-8197-6f326e2e84e8",
+  "credit_line": "Gift of Harper and Brothers",
+  "date_acquired": "1915-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.125,
+  "item_height": 13.625,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000965",
+  "provenance_text": "Harper And Brothers, New York, NY",
+  "classification": "printing blocks",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115694&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/392a2cfd-8000-440d-a337-b2c5d9aad7be",
+      "party_type": "Person",
+      "full_name": "Thomas Nast",
+      "cited_name": "Nast, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": "Landau (Niederbayern, Bavaria, Germany)",
+      "death_place": "Guayaquil (Guayas, Costa, Ecuador)"
+    },
+    {
+      "artist_id": "cmoa:parties/fc3e73f8-8a34-4038-8f08-401245581134",
+      "party_type": "Organization",
+      "full_name": "Harper's Weekly, Engraving Department",
+      "cited_name": "Harper's Weekly, Engraving Department",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

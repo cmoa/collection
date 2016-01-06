@@ -1,0 +1,51 @@
+{
+  "title": "Mochizuki",
+  "creation_date": "1835",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.328",
+  "id": "cmoa:things/5030e16e-0245-43c1-a85e-1bc895ea25fe",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.375,
+  "item_height": 9.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027942",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/fb30d65b-b07c-4851-8650-9e5d1ad75619",
+      "party_type": "Person",
+      "full_name": "Ikeda Eisen",
+      "cited_name": "Ikeda Eisen",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1790-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": null
+    }
+  ]
+}

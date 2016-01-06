@@ -1,0 +1,39 @@
+{
+  "title": "Venus Reclining in a Landscape",
+  "creation_date": "1517",
+  "creation_date_earliest": "1516-12-22",
+  "creation_date_latest": "1516-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.52",
+  "id": "cmoa:things/ad26114c-0519-45ad-b437-229800f85f6a",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017564",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101621&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e8d7898-f080-44e2-b0ff-22c61794c7cd",
+      "party_type": "Person",
+      "full_name": "Domenico Campagnola",
+      "cited_name": "Campagnola, Domenico",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1485-01-01",
+      "death_date": "1552-01-01",
+      "birth_place": "Venice?, Italy",
+      "death_place": "Padua, Italy"
+    }
+  ]
+}

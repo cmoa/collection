@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "vinyl paint on tarpaulin",
+  "accession_number": "1997.30.4",
+  "id": "cmoa:things/13e4e9f1-cdc3-45b0-a38f-5a119839b257",
+  "credit_line": "Gift of Lannan Foundation",
+  "date_acquired": "1997-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 145.0,
+  "item_height": 148.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003268",
+  "provenance_text": "Tony Shafrazi Gallery, New York, sold to Lannan Foundation, Los Angeles, CA on October 24, 1981",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26520&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f9a635e-a5a2-4a27-8e34-90e6db263c3d",
+      "party_type": "Person",
+      "full_name": "Keith Haring",
+      "cited_name": "Haring, Keith",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": " Reading (Berks county, Pennsylvania, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

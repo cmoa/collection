@@ -1,0 +1,39 @@
+{
+  "title": "The Old Fence",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2000.4.1",
+  "id": "cmoa:things/d65c23bb-1d52-4787-8fde-e5404b8fbb9a",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2000-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 40.0,
+  "item_height": 76.125,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004060",
+  "provenance_text": "Andrea Rosen Gallery, New York; Carnegie Museum of Art, Pittsburgh; A. W. Mellon Acquisition Endowment Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8077&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/172d69b0-fc54-4bc1-984f-5a826d6755e3",
+      "party_type": "Person",
+      "full_name": "John Currin",
+      "cited_name": "Currin, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": "Boulder, Colorado",
+      "death_place": null
+    }
+  ]
+}

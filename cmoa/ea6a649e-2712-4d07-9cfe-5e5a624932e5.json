@@ -1,0 +1,35 @@
+{
+  "title": "Museum of French Monuments",
+  "creation_date": "1803",
+  "creation_date_earliest": "1803-01-01",
+  "creation_date_latest": "1803-01-01",
+  "medium": null,
+  "accession_number": "93.141",
+  "id": "cmoa:things/ea6a649e-2712-4d07-9cfe-5e5a624932e5",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-10-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032973",
+  "provenance_text": "Bernard Quaritch Ltd., England, London",
+  "classification": "books",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e826f851-33b1-4566-9244-be8eb8c707e3",
+      "party_type": "Person",
+      "full_name": "Alexandre Lenoir",
+      "cited_name": "Lenoir, Alexandre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1761-01-01",
+      "death_date": "1839-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

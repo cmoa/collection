@@ -1,0 +1,54 @@
+{
+  "title": "The Sun Rising in the Mist",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "color aquatint",
+  "accession_number": "2014.75.6",
+  "id": "cmoa:things/ac0927a5-2ad7-49d3-ab7b-ec3eae2a1537",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2014-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.125,
+  "item_height": 16.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106184",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, December 2014.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134064&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ca7c730-6236-47f8-bde2-354a1797d155",
+      "party_type": "Person",
+      "full_name": "Joseph Mallord William Turner",
+      "cited_name": "Turner, Joseph M.",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1775-01-01",
+      "death_date": "1851-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/fbf400c8-151a-4746-8964-82dcecf5be7e",
+      "party_type": "Person",
+      "full_name": "James Charles Armytage",
+      "cited_name": "Armytage, James Charles",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1802-01-01",
+      "death_date": "1897-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

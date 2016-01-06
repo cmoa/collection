@@ -1,0 +1,42 @@
+{
+  "title": "The Imperial Theater",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1096",
+  "id": "cmoa:things/74c8bbb9-b401-4e3f-b20f-e11511630030",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 9.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026850",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32617&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08d40da3-14f8-46e4-bbf0-520b74e5aca0",
+      "party_type": "Person",
+      "full_name": "Nomura Toshihiko",
+      "cited_name": "Nomura Toshihiko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

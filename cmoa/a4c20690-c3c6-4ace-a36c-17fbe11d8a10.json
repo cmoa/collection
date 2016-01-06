@@ -1,0 +1,39 @@
+{
+  "title": "Bench",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "wood",
+  "accession_number": "2000.26",
+  "id": "cmoa:things/a4c20690-c3c6-4ace-a36c-17fbe11d8a10",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2000-06-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 40.25,
+  "item_height": 30.875,
+  "item_depth": 16.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004022",
+  "provenance_text": "Solomon Suchard Antiques, Shaker Heights, OH",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8746&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ea7f904-d982-46a5-a9da-9c15efd1e619",
+      "party_type": "Person",
+      "full_name": "Paul Fouillen",
+      "cited_name": "Fouillen, Paul",
+      "role": "maker",
+      "nationality": "French",
+      "birth_date": "1899-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

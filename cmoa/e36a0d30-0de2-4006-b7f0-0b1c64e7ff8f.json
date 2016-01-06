@@ -1,0 +1,42 @@
+{
+  "title": "Constantin L'Empereur",
+  "creation_date": "c. 1641",
+  "creation_date_earliest": "1626-01-01",
+  "creation_date_latest": "1656-01-01",
+  "medium": "engraving",
+  "accession_number": "16.34.7",
+  "id": "cmoa:things/e36a0d30-0de2-4006-b7f0-0b1c64e7ff8f",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-01-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001252",
+  "provenance_text": "F. Meder, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102141&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a83bc6c6-72f0-471a-a2e5-a59709420059",
+      "party_type": "Person",
+      "full_name": "Jonas Suyderhoef",
+      "cited_name": "Jonas Suyderhoef",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1686-01-01",
+      "birth_place": "Haarlem, Netherlands",
+      "death_place": "Haarlem, Netherlands"
+    }
+  ]
+}

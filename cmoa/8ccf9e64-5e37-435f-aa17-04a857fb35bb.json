@@ -1,0 +1,51 @@
+{
+  "title": "Ceres Bearing Her Torch into the Kingdom of Pluto",
+  "creation_date": "c. 1550-1600",
+  "creation_date_earliest": "1534-12-22",
+  "creation_date_latest": "1615-01-01",
+  "medium": "pen and iron gall ink wash on white paper",
+  "accession_number": "23.12.24",
+  "id": "cmoa:things/8ccf9e64-5e37-435f-aa17-04a857fb35bb",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004832",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99445&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f4f65f8f-2ac2-4c6e-a55f-47bcd7d22b46",
+      "party_type": "Person",
+      "full_name": "Francesco",
+      "cited_name": "Salviati, Francesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1510-01-01",
+      "death_date": "1563-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

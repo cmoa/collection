@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "oil and paper on canvas",
+  "accession_number": "2010.8",
+  "id": "cmoa:things/2338f8f2-e8db-4923-b824-b3b87ae458ac",
+  "credit_line": "Mr. and Mrs. Charles Denby Fund",
+  "date_acquired": "2010-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 39.5,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89046",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99839&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56c30cfb-cd61-4979-8ed0-eb46e1020d83",
+      "party_type": "Person",
+      "full_name": "Zak Prekop",
+      "cited_name": "Prekop, Zak",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1979-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

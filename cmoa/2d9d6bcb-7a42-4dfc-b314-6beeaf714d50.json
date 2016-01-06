@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "18th-early 19th century",
+  "creation_date_earliest": "1756-01-01",
+  "creation_date_latest": "1824-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.92.A-B",
+  "id": "cmoa:things/2d9d6bcb-7a42-4dfc-b314-6beeaf714d50",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 3.562,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015686",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2507&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d4b8284-3e24-4e02-b42f-40d126ace384",
+      "party_type": "Organization",
+      "full_name": "Ludwigsburg Pottery and Porcelain Factory",
+      "cited_name": "Ludwigsburg Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1758-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

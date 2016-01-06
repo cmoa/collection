@@ -1,0 +1,39 @@
+{
+  "title": "Figurine, Pug Dog",
+  "creation_date": "c. 1760-1765",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1907",
+  "id": "cmoa:things/b0c9ef12-e5ce-40a1-8da3-4af41b5adc7c",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.375,
+  "item_height": 2.062,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014067",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1332&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba75338-b76d-41c8-ae91-ecb12c225931",
+      "party_type": "Organization",
+      "full_name": "Derby Porcelain Factory",
+      "cited_name": "Derby Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

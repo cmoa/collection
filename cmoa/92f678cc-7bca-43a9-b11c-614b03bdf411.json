@@ -1,0 +1,66 @@
+{
+  "title": "Plate",
+  "creation_date": "1793",
+  "creation_date_earliest": "1793-01-01",
+  "creation_date_latest": "1793-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "63.16.2.1",
+  "id": "cmoa:things/92f678cc-7bca-43a9-b11c-614b03bdf411",
+  "credit_line": "Jennie B. and Lois E. Scaife Fund",
+  "date_acquired": "1963-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 13.875,
+  "item_height": 1.75,
+  "item_depth": 9.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011640",
+  "provenance_text": "The Antique Porcelain Co., Ltd, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4205&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97513&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/022c3367-733d-4c53-b117-1d85829208f6",
+      "party_type": "Person",
+      "full_name": "François-Marie Barrat",
+      "cited_name": "Barrat, François-Marie",
+      "role": "painter",
+      "nationality": "French",
+      "birth_date": "1751-01-01",
+      "death_date": "1796-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/81240464-3b68-4b99-8bf4-d623fc6f67ec",
+      "party_type": "Person",
+      "full_name": "Jean Chauvaux le Jeune",
+      "cited_name": "Chauvaux, Jean, le jeune",
+      "role": "gilder",
+      "nationality": "French",
+      "birth_date": "1735-01-01",
+      "death_date": "1802-01-01",
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Sèvres (Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

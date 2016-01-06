@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "screen print on acrylic",
+  "accession_number": "2008.85",
+  "id": "cmoa:things/47303c3f-8fe5-4f02-9456-9842387d3bce",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2008-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.75,
+  "item_height": 35.125,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=77537",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76449&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/618183d3-5724-4d93-b8b4-bf9d4fe95ea3",
+      "party_type": "Collaboration",
+      "full_name": "Raqs Media Collective",
+      "cited_name": "Raqs Media Collective",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Delhi",
+      "death_place": null
+    }
+  ]
+}

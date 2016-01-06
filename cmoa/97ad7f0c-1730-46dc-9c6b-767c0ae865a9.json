@@ -1,0 +1,54 @@
+{
+  "title": "Consolidated Edison Tower, New York; [exterior perspective]",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "pen and ink and watercolor on paper",
+  "accession_number": "92.145",
+  "id": "cmoa:things/97ad7f0c-1730-46dc-9c6b-767c0ae865a9",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 13.625,
+  "item_height": 20.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031207",
+  "provenance_text": "Stubbs Books and Prints, Inc., New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=123&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3b4348a-ec10-465e-943b-d29e5aff3553",
+      "party_type": "Organization",
+      "full_name": "Warren & Wetmore",
+      "cited_name": "Warren & Wetmore",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e6bf08c5-883f-48f8-b133-de0ffedaca87",
+      "party_type": "Person",
+      "full_name": "Nicholas Vassielieve",
+      "cited_name": "Vassielieve, Nicholas",
+      "role": "Delineator",
+      "nationality": "Russian",
+      "birth_date": "1876-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

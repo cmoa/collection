@@ -1,0 +1,42 @@
+{
+  "title": "Goblet",
+  "creation_date": "1836-1837",
+  "creation_date_earliest": "1836-01-01",
+  "creation_date_latest": "1837-01-01",
+  "medium": "silver gilt",
+  "accession_number": "1998.56",
+  "id": "cmoa:things/54835a6a-e0c7-46e6-a43c-2d73f5cbabdd",
+  "credit_line": "Berdan Memorial Trust Fund and Decorative Arts Purchase Fund",
+  "date_acquired": "1998-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 13.688,
+  "item_depth": 7.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003787",
+  "provenance_text": "Blairman's, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27927&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1150&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/99c0fe7d-4397-41ad-8179-7081d0966134",
+      "party_type": "Person",
+      "full_name": "John Tapley",
+      "cited_name": "Tapley, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1833-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Churner",
+  "creation_date": "1855",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "etching",
+  "accession_number": "74.7.149",
+  "id": "cmoa:things/a301db1f-0e05-4fec-a58b-4dc6563b4991",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017299",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29264da8-7fee-4ac1-8849-82ec39147f2e",
+      "party_type": "Person",
+      "full_name": "Jean François Millet",
+      "cited_name": "Millet, Jean F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1814-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Gruchy, nr Gréville, France",
+      "death_place": "Barbizon, France"
+    }
+  ]
+}

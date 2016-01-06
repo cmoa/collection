@@ -1,0 +1,39 @@
+{
+  "title": "Tanner Point Housing, Newham",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "Architectural Model",
+  "accession_number": "2007.34",
+  "id": "cmoa:things/db9cafcf-9ae0-4809-93dd-18325b61db41",
+  "credit_line": "Purchase",
+  "date_acquired": "2007-06-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 38.25,
+  "item_depth": 14.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=23520",
+  "provenance_text": null,
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126113&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/80dc03b3-4c64-4099-835c-6595b2c6a6fc",
+      "party_type": "Organization",
+      "full_name": "FAT",
+      "cited_name": "FAT",
+      "role": "architects",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

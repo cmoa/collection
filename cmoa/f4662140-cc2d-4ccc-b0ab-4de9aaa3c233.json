@@ -1,0 +1,39 @@
+{
+  "title": "Ploughing",
+  "creation_date": "c. 1870-1880",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "charcoal with white heightening",
+  "accession_number": "04.5.5",
+  "id": "cmoa:things/f4662140-cc2d-4ccc-b0ab-4de9aaa3c233",
+  "credit_line": "Carnegie Special Fund",
+  "date_acquired": "1904-12-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000118",
+  "provenance_text": "William MacBeth",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94847&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5729e58-ee59-4abf-8655-c1eac5d4d388",
+      "party_type": "Person",
+      "full_name": "Anton Mauve",
+      "cited_name": "Mauve, Anton",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1838-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": "Zaandam, North Holland, Netherlands",
+      "death_place": "Arnhem, Netherlands"
+    }
+  ]
+}

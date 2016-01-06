@@ -1,0 +1,49 @@
+{
+  "title": "Lidded pot",
+  "creation_date": "early 20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.6.A-B",
+  "id": "cmoa:things/c287ec5c-95ad-49ce-81be-e7b0e4a370a6",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 12.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003688",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cde2b814-b3d0-4ec6-a79b-f8af67aaa1f2",
+      "party_type": "Person",
+      "full_name": "Werner Burri",
+      "cited_name": "Burri, Werner",
+      "role": "manufacturer",
+      "nationality": "Swiss",
+      "birth_date": "1898-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/208ff607-1450-46c6-9055-dcc6daae3f91",
+      "party_type": "Organization",
+      "full_name": "Velten-Vordamm",
+      "cited_name": "Velten-Vordamm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1908-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

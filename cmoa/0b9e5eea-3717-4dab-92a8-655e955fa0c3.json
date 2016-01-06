@@ -1,0 +1,39 @@
+{
+  "title": "Adontoid Pegs",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "wood, plastic, rubber, stone and metal",
+  "accession_number": "86.22.A-.C",
+  "id": "cmoa:things/0b9e5eea-3717-4dab-92a8-655e955fa0c3",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1986-06-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 108.0,
+  "item_height": 75.5,
+  "item_depth": 88.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026026",
+  "provenance_text": "Marian Goodman Gallery, New York, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8061&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/be4aee13-fa00-4afb-abd5-27f5f9619725",
+      "party_type": "Person",
+      "full_name": "Tony Cragg",
+      "cited_name": "Cragg, Tony",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Liverpool (England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Fountain of Youth",
+  "creation_date": "c.1863",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "oil on panel",
+  "accession_number": "03.3",
+  "id": "cmoa:things/367e6d69-30c1-4625-bfbb-dd8715fec96d",
+  "credit_line": "Purchase",
+  "date_acquired": "1903-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.375,
+  "item_height": 15.375,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000105",
+  "provenance_text": "Cottier and Co. [1869-], New York, by 1903. Purchased by Museum, 1903.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=15882&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5ca3ff6-2b4f-4314-8510-3352953ee3d2",
+      "party_type": "Person",
+      "full_name": "Adolphe Monticelli",
+      "cited_name": "Monticelli, Adolphe",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Marseilles (Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France)",
+      "death_place": "Marseilles (Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Haying",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.262",
+  "id": "cmoa:things/80880baf-abc7-4e0d-b722-ab6e42e205ea",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012850",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100442&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6a62d9c4-314e-420a-80ac-a3e8a92b97ee",
+      "party_type": "Person",
+      "full_name": "Bernard Steffen",
+      "cited_name": "Steffen, Bernard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Neodesha (Wilson county, Kansas, United States)",
+      "death_place": null
+    }
+  ]
+}

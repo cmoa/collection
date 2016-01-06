@@ -1,0 +1,51 @@
+{
+  "title": "Saucer (Chantilly Sprig)",
+  "creation_date": "c. 1785",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "porcelain",
+  "accession_number": "75.26.1.6",
+  "id": "cmoa:things/50aec168-b6d4-4fce-9a07-34dfcdfdda57",
+  "credit_line": "Gift of Mr. and Mrs. H. E. Hoelscher",
+  "date_acquired": "1975-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.125,
+  "item_depth": 0.0,
+  "item_diameter": 5.187,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017703",
+  "provenance_text": "Mr. And Mrs. H.E. Hoelscher",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1426&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5ca341c6-4ae1-46c9-b2ba-7bac9f28eb17",
+      "party_type": "Organization",
+      "full_name": "Duc d'Angoulême Factory",
+      "cited_name": "Duc d'Angoulême Factory",
+      "role": "modeler",
+      "nationality": "French",
+      "birth_date": "1781-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/dc36b06f-3610-46cd-9acd-b3d6cc2a4571",
+      "party_type": "Person",
+      "full_name": "Christophe Dihl",
+      "cited_name": "Dihl, Christophe",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1753-01-01",
+      "death_date": "1830-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

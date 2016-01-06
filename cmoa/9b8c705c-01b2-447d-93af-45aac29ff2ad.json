@@ -1,0 +1,51 @@
+{
+  "title": "Ottoman",
+  "creation_date": "1956 (designed) 1975 (manufactured)",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "rosewood, aluminum base, leather upholstery, polydacron filling",
+  "accession_number": "77.47.2",
+  "id": "cmoa:things/9b8c705c-01b2-447d-93af-45aac29ff2ad",
+  "credit_line": "Roy A. Hunt Foundation Fund",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 26.25,
+  "item_height": 17.25,
+  "item_depth": 21.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018912",
+  "provenance_text": "Herman Miller, Zeeland, Michigan",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56511&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

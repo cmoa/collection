@@ -1,0 +1,42 @@
+{
+  "title": "The Mares of Amague",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "51.9",
+  "id": "cmoa:things/5d8c0661-3f82-4352-a604-80caca3ba40e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009048",
+  "provenance_text": "Lawrence Barrett",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103751&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80240&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17313445-5f9a-49c0-b450-3e83b04e2fe9",
+      "party_type": "Person",
+      "full_name": "Lawrence Barrett",
+      "cited_name": "Barrett, Lawrence",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Guthrie, Oklahoma",
+      "death_place": "Colorado Springs, Colorado"
+    }
+  ]
+}

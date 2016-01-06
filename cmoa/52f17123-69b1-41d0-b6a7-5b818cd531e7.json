@@ -1,0 +1,45 @@
+{
+  "title": "Virgin and Child",
+  "creation_date": "14th-15th century",
+  "creation_date_earliest": "1299-12-25",
+  "creation_date_latest": "1498-12-23",
+  "medium": "alabaster",
+  "accession_number": "60.53.1",
+  "id": "cmoa:things/52f17123-69b1-41d0-b6a7-5b818cd531e7",
+  "credit_line": "James H. Beal Fund",
+  "date_acquired": "1960-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 4.75,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5256",
+  "provenance_text": "Formerly in the Sinzheimer Collection of New York \nFrench and Company, New York City, NY",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98065&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98068&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98069&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Old Masters",
+  "creation_date": "c. 1850-1890",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "brown ink and white wash",
+  "accession_number": "22.2.2",
+  "id": "cmoa:things/206707f9-135a-48ce-85aa-9ca506339ae5",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-05-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 4.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004731",
+  "provenance_text": "Ernest, Brown, and Phillips, London",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94774&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/017610c7-d533-484b-b0ec-09c19aae58a0",
+      "party_type": "Person",
+      "full_name": "Charles Samuel Keene",
+      "cited_name": "Keene, Charles Samuel",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1823-01-01",
+      "death_date": "1891-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Horseshoe Bend",
+  "creation_date": "before 1876",
+  "creation_date_earliest": "1846-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.69",
+  "id": "cmoa:things/5ab45540-786d-43a4-92a3-139fcd8ad8f9",
+  "credit_line": "Richard M. Scaife American Painting Fund",
+  "date_acquired": "1982-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 48.75,
+  "item_height": 38.75,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023068",
+  "provenance_text": "George R. Davis, by 1876; Martha Grovner Davis Browne, until 1972; Mr. and Mrs. M. B. Squires, Jr.; Mary Hope Blake, until 1982; Richard M. Scaife American Painting Fund, 1982",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113316&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

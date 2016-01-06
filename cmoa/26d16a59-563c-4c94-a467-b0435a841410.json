@@ -1,0 +1,42 @@
+{
+  "title": "The Black Hat",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "76.30.1",
+  "id": "cmoa:things/26d16a59-563c-4c94-a467-b0435a841410",
+  "credit_line": "Gift of Oscar W. Demmler",
+  "date_acquired": "1976-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.0,
+  "item_height": 32.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018066",
+  "provenance_text": "Frederick A. Demmler [1888-1918], Pittsburgh, PA; Mary Ethel Schreiner and her daughter, Mrs. Herbert H. Baer, Arcata, CA, until 1973 [1]; the artist's brother, Oscar W. Demmler and his wife, Dorothy Demmler, Pittsburgh, PA, 1973 until October 7, 1976; his gift to Museum, October 1976.\n\nNotes:\n[1]. See entry in \"American Paintings and Sculpture to 1945 in the Carnegie Museum of Art,\" p. 163. Oscar W. Demmler's two letters of July 7, 1976 (in curatorial file for 76.30.2) state that he had acquired the painting \"recently\" and that it was \"sent to me from California by the former owner.\"\n[2]. Dorothy Demmler is included in the provenance given in the reference above. Oscar W. Demmler, in the letters referenced above, states that he considers the painting \"to be my property\" and does not mention his wife as owner or  donor.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52208&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=168&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2ab4a30-47ff-4d32-9a2b-710cabe5c875",
+      "party_type": "Person",
+      "full_name": "Frederick A. Demmler",
+      "cited_name": "Demmler, Frederick A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Belgium"
+    }
+  ]
+}

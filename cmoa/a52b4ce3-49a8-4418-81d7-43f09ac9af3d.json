@@ -1,0 +1,39 @@
+{
+  "title": "Head of an Old Salt",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "transfer lithograph",
+  "accession_number": "18.25.9",
+  "id": "cmoa:things/a52b4ce3-49a8-4418-81d7-43f09ac9af3d",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.938,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001779",
+  "provenance_text": "Ernest L. Ipsen [1869-1951]. Purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1918.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72615&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ccc2772-3269-447f-a71d-ee7aedbc88d1",
+      "party_type": "Person",
+      "full_name": "Ernest L. Ipsen",
+      "cited_name": "Ipsen, Ernest L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Malden (Middlesex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

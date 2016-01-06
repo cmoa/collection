@@ -1,0 +1,42 @@
+{
+  "title": "The Great Shadow",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "etching",
+  "accession_number": "29.4.1",
+  "id": "cmoa:things/473436b0-c475-4892-82a6-34100622a8aa",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1929-10-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 15.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006217",
+  "provenance_text": "Kennedy & Co., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100538&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100537&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c416d62-6646-4668-9ca4-38dded8a7348",
+      "party_type": "Person",
+      "full_name": "Martin Lewis",
+      "cited_name": "Lewis, Martin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Castlemaine (Victoria, Australia)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

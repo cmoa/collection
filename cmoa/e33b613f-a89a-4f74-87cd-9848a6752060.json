@@ -1,0 +1,42 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1928",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "silver",
+  "accession_number": "87.11.1",
+  "id": "cmoa:things/e33b613f-a89a-4f74-87cd-9848a6752060",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1987-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 0.0,
+  "item_height": 3.938,
+  "item_depth": 0.0,
+  "item_diameter": 10.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026269",
+  "provenance_text": "William Core Duffy, ME, Kittery",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132135&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4797&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2bc5434-d4f8-4608-8733-cbdfdf01b477",
+      "party_type": "Person",
+      "full_name": "Peter Muller-Munk",
+      "cited_name": "Muller-Munk, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "Pittsburgh, PA, USA"
+    }
+  ]
+}

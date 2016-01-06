@@ -1,0 +1,39 @@
+{
+  "title": "Study for South of Scranton (Crow's Nest)",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "84.28.1",
+  "id": "cmoa:things/a52e6609-73e4-41ab-94d7-3b3dc97826fe",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1984-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024660",
+  "provenance_text": "James Maroney, Inc., New York; Patrons Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115081&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40cfbcd3-9ac6-46e9-9c91-0f1bf2a62a1e",
+      "party_type": "Person",
+      "full_name": "Peter Blume",
+      "cited_name": "Blume, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

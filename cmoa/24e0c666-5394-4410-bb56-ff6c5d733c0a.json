@@ -1,0 +1,73 @@
+{
+  "title": "The Long Room, Custom House",
+  "creation_date": "July 1, 1808",
+  "creation_date_earliest": "1808-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "color aquatint",
+  "accession_number": "2009.73.26",
+  "id": "cmoa:things/24e0c666-5394-4410-bb56-ff6c5d733c0a",
+  "credit_line": "Gift of BNY Mellon",
+  "date_acquired": "2010-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 10.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88844",
+  "provenance_text": "Bank of New York Mellon, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2010.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d415c3d9-4978-45d2-b9f8-a3dd2fcca9d5",
+      "party_type": "Person",
+      "full_name": "Thomas Rowlandson",
+      "cited_name": "Rowlandson, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/8427ff54-d11a-4d8b-939b-c49bf7438331",
+      "party_type": "Person",
+      "full_name": "Augustus Charles Pugin",
+      "cited_name": "Pugin, A. C.",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1769-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/6605948b-22f2-4295-8a8b-4a957c308ebd",
+      "party_type": "Person",
+      "full_name": "Rudolph Ackermann",
+      "cited_name": "Ackermann, Rudolph",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1764-01-01",
+      "death_date": "1834-01-01",
+      "birth_place": "Stollberg, Saxony",
+      "death_place": "Finchley, London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/7fddd107-e4b8-4c5f-b599-91268cd57473",
+      "party_type": "Person",
+      "full_name": "Joseph Constantine Stadler",
+      "cited_name": "Stadler, Joseph Constantine",
+      "role": "printmaker",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

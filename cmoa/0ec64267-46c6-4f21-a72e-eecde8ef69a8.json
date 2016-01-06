@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Man",
+  "creation_date": "1803",
+  "creation_date_earliest": "1803-01-01",
+  "creation_date_latest": "1803-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.94",
+  "id": "cmoa:things/0ec64267-46c6-4f21-a72e-eecde8ef69a8",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.062,
+  "item_height": 4.25,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006005",
+  "provenance_text": "(Sold at J. E. Barr & Co., Philadelphia, PA); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, July 14, 1914; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73507&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73508&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6699b26f-930f-40c2-890a-f85622600cef",
+      "party_type": "Person",
+      "full_name": "Raphaelle Peale",
+      "cited_name": "Peale, Raphaelle",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1774-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": "Annapolis (Anne Arundel county, Maryland, United States)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

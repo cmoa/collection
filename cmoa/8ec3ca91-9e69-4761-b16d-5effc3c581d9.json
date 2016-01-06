@@ -1,0 +1,39 @@
+{
+  "title": "Josina Hamels, Wife of Jacques de la Faille (a pair with 18.40.3)",
+  "creation_date": "1589",
+  "creation_date_earliest": "1589-01-01",
+  "creation_date_latest": "1589-01-01",
+  "medium": "engraving",
+  "accession_number": "18.40.2",
+  "id": "cmoa:things/8ec3ca91-9e69-4761-b16d-5effc3c581d9",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001839",
+  "provenance_text": "George Busse, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101759&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "The Lecture",
+  "creation_date": null,
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "color lithograph",
+  "accession_number": "85.80.11",
+  "id": "cmoa:things/04991b13-2feb-42f7-be52-b12a30572aab",
+  "credit_line": "Gift of Irene Pasinski",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.0,
+  "item_height": 27.375,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025789",
+  "provenance_text": "Irene Pasinski, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8510356-8abc-4fee-9400-6db82fdcc89b",
+      "party_type": "Person",
+      "full_name": "Fernand Léger",
+      "cited_name": "Léger, Fernand",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1881-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Argentan (Orne, Basse-Normandie, France)",
+      "death_place": "Gif-sur-Yvette (Département de l'Essonne, Ile-de-France, France)"
+    }
+  ]
+}

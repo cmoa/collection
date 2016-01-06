@@ -1,0 +1,51 @@
+{
+  "title": "Rachel, Countess of Middlesex",
+  "creation_date": "c. 1660",
+  "creation_date_earliest": "1655-01-01",
+  "creation_date_latest": "1665-01-01",
+  "medium": "engraving",
+  "accession_number": "49.2.19",
+  "id": "cmoa:things/600a9a61-fa57-4d28-9ae0-b98ce8ffe3c4",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008510",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101938&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25e54f83-e07b-42cd-85c7-d809b291b5c7",
+      "party_type": "Person",
+      "full_name": "Pierre Lombart",
+      "cited_name": "Lombart, Pierre",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1648-01-01",
+      "death_date": "1681-01-01",
+      "birth_place": null,
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

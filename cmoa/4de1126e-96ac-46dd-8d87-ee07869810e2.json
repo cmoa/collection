@@ -1,0 +1,39 @@
+{
+  "title": "American Man and Woman",
+  "creation_date": "1860",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "58.42.2",
+  "id": "cmoa:things/4de1126e-96ac-46dd-8d87-ee07869810e2",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010850",
+  "provenance_text": "C. T. Loo and Cie, Paris, France",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8b2f26c8-06b5-4c16-bf22-8dedd2f51fd1",
+      "party_type": "Person",
+      "full_name": "Yoshitora Utagawa",
+      "cited_name": "Yoshitora Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1850-01-01",
+      "death_date": "1880-01-01",
+      "birth_place": "Japan, Edo",
+      "death_place": null
+    }
+  ]
+}

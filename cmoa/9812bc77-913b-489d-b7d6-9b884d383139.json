@@ -1,0 +1,45 @@
+{
+  "title": "Illustrations for the Book of Job \"Behold Now Behemoth Which I Made With Thee\"",
+  "creation_date": "1825",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "engraving",
+  "accession_number": "34.4.16",
+  "id": "cmoa:things/9812bc77-913b-489d-b7d6-9b884d383139",
+  "credit_line": "Purchase",
+  "date_acquired": "1934-07-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006805",
+  "provenance_text": "Edward Duff Balken, Who Purchased Them from American Art Galleries in Winter of 1933",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110641&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110640&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e5a35ff-65da-47e0-9356-f2ff6644ffc9",
+      "party_type": "Person",
+      "full_name": "William Blake",
+      "cited_name": "Blake, William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1757-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "London",
+      "death_place": "London"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Hall settle",
+  "creation_date": "c. 1899",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "oak, pewter inlay, and brass",
+  "accession_number": "92.33",
+  "id": "cmoa:things/5f0f6879-c839-4503-8e79-e67be3b85bef",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1992-06-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 66.0,
+  "item_height": 72.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032271",
+  "provenance_text": "Simon Tracy Gallery, London, England",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135569&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4780d146-626e-400c-83b3-70bb68e0287c",
+      "party_type": "Person",
+      "full_name": "Charles Francis Annesley Voysey",
+      "cited_name": "Voysey, C. F. A.",
+      "role": "designer",
+      "nationality": "English",
+      "birth_date": "1857-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": "Hessle, England",
+      "death_place": "Winchester, England"
+    },
+    {
+      "artist_id": "cmoa:parties/2cbeafc6-8f83-4bd2-8fbb-66056358dda8",
+      "party_type": "Person",
+      "full_name": "J. S. Henry",
+      "cited_name": "Henry, J. S.",
+      "role": "maker",
+      "nationality": "English",
+      "birth_date": "1895-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

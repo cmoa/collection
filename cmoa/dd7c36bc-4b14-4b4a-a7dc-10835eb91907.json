@@ -1,0 +1,39 @@
+{
+  "title": "Angel",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "wood engraving on maple",
+  "accession_number": "43.4.42",
+  "id": "cmoa:things/dd7c36bc-4b14-4b4a-a7dc-10835eb91907",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007432",
+  "provenance_text": "Rockwell Kent [1882-1971]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101102&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c93b85a2-9f1f-4e02-bf54-090918fe7976",
+      "party_type": "Person",
+      "full_name": "Rockwell Kent",
+      "cited_name": "Kent, Rockwell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " Tarrytown (Albany county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

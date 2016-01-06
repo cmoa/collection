@@ -1,0 +1,39 @@
+{
+  "title": "Subscription ticket, Carlisle House masquerade",
+  "creation_date": "c. 1770-1780",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "engraving",
+  "accession_number": "2006.83.11",
+  "id": "cmoa:things/c5c9a0a1-4c0c-4776-9eee-491a3a4fd67a",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34324",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39228&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1d7fb6f-7c5a-4209-ad08-ecde99b4311e",
+      "party_type": "Person",
+      "full_name": "William Sharp",
+      "cited_name": "Sharp, William",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1749-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chiswick (Greater London, England, United Kingdom)"
+    }
+  ]
+}

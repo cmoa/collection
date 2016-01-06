@@ -1,0 +1,39 @@
+{
+  "title": "There is a woman in every color",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "lithograph",
+  "accession_number": "2008.60",
+  "id": "cmoa:things/fd2b131c-2337-4ae6-ab8e-2e0d3d049944",
+  "credit_line": "Nancy and Milton Washington Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.75,
+  "item_height": 29.75,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=63012",
+  "provenance_text": "The artist through E and S Gallery, Louisville, Kentucky",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76447&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/42fa20bd-043d-4805-8d15-818da6245779",
+      "party_type": "Person",
+      "full_name": "Elizabeth Catlett",
+      "cited_name": "Catlett, Elizabeth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Washington (DC, United States)",
+      "death_place": null
+    }
+  ]
+}

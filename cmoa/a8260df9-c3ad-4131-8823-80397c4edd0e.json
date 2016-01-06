@@ -1,0 +1,39 @@
+{
+  "title": "Clock",
+  "creation_date": "c. 1750-1760",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "wood",
+  "accession_number": "70.32.1764",
+  "id": "cmoa:things/a8260df9-c3ad-4131-8823-80397c4edd0e",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 20.5,
+  "item_height": 25.0,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013905",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6475&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f9d76ce7-5533-4270-a675-910e8d93fa28",
+      "party_type": "Organization",
+      "full_name": "Jno. Price and Son",
+      "cited_name": "Price, Jno. and Son",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

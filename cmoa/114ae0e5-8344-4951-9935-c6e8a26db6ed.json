@@ -1,0 +1,42 @@
+{
+  "title": "Turning out the Light",
+  "creation_date": "1905",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "etching",
+  "accession_number": "16.32.4",
+  "id": "cmoa:things/114ae0e5-8344-4951-9935-c6e8a26db6ed",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.938,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001230",
+  "provenance_text": "C. W. Kraushaar",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101267&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aaf3191-56f4-4bed-bbcc-a9e68b02c6a6",
+      "party_type": "Person",
+      "full_name": "John Sloan",
+      "cited_name": "Sloan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Lock Haven, Pennsylvania",
+      "death_place": "Hanover, New Hampshire"
+    }
+  ]
+}

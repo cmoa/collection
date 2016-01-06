@@ -1,0 +1,39 @@
+{
+  "title": "Retrospect",
+  "creation_date": null,
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "engraving",
+  "accession_number": "69.48.145",
+  "id": "cmoa:things/423869ed-f6ae-4d2b-9232-38f615c19044",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012720",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108199&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a8b104a5-85be-4f1d-a68b-da1d3b085bb3",
+      "party_type": "Person",
+      "full_name": "Chaim Koppelman",
+      "cited_name": "Koppelman, Chaim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York, NY"
+    }
+  ]
+}

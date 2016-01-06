@@ -1,0 +1,39 @@
+{
+  "title": "To Fritz Lang",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "acrylic on shaped canvas",
+  "accession_number": "1997.30.5",
+  "id": "cmoa:things/e9216a7d-4b90-49c7-b7f3-cc372af71e3a",
+  "credit_line": "Gift of Lannan Foundation",
+  "date_acquired": "1997-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 90.5,
+  "item_height": 74.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003269",
+  "provenance_text": "Lannan Foundation, Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120642&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d17303dd-b625-4a36-8676-f3cbb1e4772f",
+      "party_type": "Person",
+      "full_name": "Ralph Humphrey",
+      "cited_name": "Humphrey, Ralph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "Youngstown (Mahoning county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

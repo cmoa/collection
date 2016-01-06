@@ -1,0 +1,39 @@
+{
+  "title": "Source D'Information",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "ink and wash",
+  "accession_number": "79.19",
+  "id": "cmoa:things/ea144bf0-ebe3-44ad-a2c3-39560e0c221b",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1979-10-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 43.125,
+  "item_height": 31.25,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020247",
+  "provenance_text": "Alechinsky, Pierre, Bougival, France",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a3e6c66-6f37-4022-8e73-89fc3a171a05",
+      "party_type": "Person",
+      "full_name": "Pierre Alechinsky",
+      "cited_name": "Alechinsky, Pierre",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brussels, Belgium",
+      "death_place": null
+    }
+  ]
+}

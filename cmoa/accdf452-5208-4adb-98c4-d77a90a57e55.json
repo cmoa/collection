@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Don Jeronimo de Bran, Art Amateur",
+  "creation_date": null,
+  "creation_date_earliest": "1615-01-01",
+  "creation_date_latest": "1680-01-01",
+  "medium": "engraving",
+  "accession_number": "16.19.2",
+  "id": "cmoa:things/accdf452-5208-4adb-98c4-d77a90a57e55",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001101",
+  "provenance_text": "F. Meder, 15 East 40th St., New York City, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102166&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e919f9ba-6d88-4ede-8997-f0884ae49f63",
+      "party_type": "Person",
+      "full_name": "Lucas Vorsterman",
+      "cited_name": "Vorsterman, Lucas",
+      "role": "after",
+      "nationality": "Belgian",
+      "birth_date": "1595-01-01",
+      "death_date": "1675-01-01",
+      "birth_place": "Zaltbommel (Gelderland, Netherlands)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/5ca40fc6-1e1d-4739-83ec-1c8f788b6d34",
+      "party_type": "Person",
+      "full_name": "Jan Lievens",
+      "cited_name": "Lievens, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1607-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

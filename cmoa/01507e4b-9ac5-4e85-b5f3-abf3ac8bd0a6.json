@@ -1,0 +1,51 @@
+{
+  "title": "Four Part Combinations of Six Geometric Figures in Four Colors, I",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "color woodcut on handmade Japanese echizen-kizuki-hosho paper",
+  "accession_number": "81.69.2.3",
+  "id": "cmoa:things/01507e4b-9ac5-4e85-b5f3-abf3ac8bd0a6",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111487",
+  "provenance_text": "Multiples Inc., Marian Goodman Gallery, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112777&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b3c1a22-c453-4329-b2d7-fd054549c635",
+      "party_type": "Person",
+      "full_name": "Sol LeWitt",
+      "cited_name": "LeWitt, Sol",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/9796cb49-7442-4c1c-8ab4-9156750f860e",
+      "party_type": "Organization",
+      "full_name": "Galerie Watari",
+      "cited_name": "Galerie Watari",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lamp",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "bronze",
+  "accession_number": "72.61.43",
+  "id": "cmoa:things/2755f6a7-0469-46f9-8656-9a9c0c5b2de2",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.187,
+  "item_height": 4.875,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016556",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3301&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19b8a9c2-11c4-40b3-b232-bd77b46476a7",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Seljuk",
+      "cited_name": "unknown Persian, Seljuk",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

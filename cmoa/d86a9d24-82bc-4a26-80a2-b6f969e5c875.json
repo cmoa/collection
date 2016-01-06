@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": null,
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1745-01-01",
+  "medium": "brass",
+  "accession_number": "2004.62.16.1",
+  "id": "cmoa:things/d86a9d24-82bc-4a26-80a2-b6f969e5c875",
+  "credit_line": "Gift of C. Talbott Hiteshew, Jr.",
+  "date_acquired": "2005-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15362",
+  "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12916&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Frank Duveneck",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "bronze",
+  "accession_number": "17.18",
+  "id": "cmoa:things/f556110f-c00b-43e7-9c0e-de125a13a393",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 27.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001426",
+  "provenance_text": "Charles Grafly [1862-1929], until 1917; purchased by Museum, 1917.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105148&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/733f340d-d70f-400d-b9e3-fab8d8036c1f",
+      "party_type": "Person",
+      "full_name": "Charles Grafly",
+      "cited_name": "Grafly, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1862-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "In the Studio (Marty Cornelius)",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil Masonite",
+  "accession_number": "68.17",
+  "id": "cmoa:things/9da7981d-5535-4e00-8bc7-932233b3d947",
+  "credit_line": "Gift of Martha Cornelius Fitzpatrick (Marty Cornelius)",
+  "date_acquired": "1968-10-16",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012401",
+  "provenance_text": "Marty Cornelius (Martha Cornelius Fitzpatrick), Pittsburgh, 1945; gift to museum, 1968",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19697&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ba6f52a-093a-4c97-b05b-5cf31bdabfbe",
+      "party_type": "Person",
+      "full_name": "Reginald Marsh",
+      "cited_name": "Marsh, Reginald",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dorset (Bennington county, Vermont, United States)"
+    }
+  ]
+}

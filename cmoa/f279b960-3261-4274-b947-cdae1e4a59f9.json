@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Lady",
+  "creation_date": "c. 1840-1850",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.5.1",
+  "id": "cmoa:things/f279b960-3261-4274-b947-cdae1e4a59f9",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.875,
+  "item_height": 33.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011057",
+  "provenance_text": "Estate of Johanna K. W. Hailman, Pittsburgh, 1959; bequest to museum, March 1959",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149506&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

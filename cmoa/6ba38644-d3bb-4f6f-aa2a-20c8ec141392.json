@@ -1,0 +1,54 @@
+{
+  "title": "Hampstead Heath, Middlesex",
+  "creation_date": "1831",
+  "creation_date_earliest": "1822-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "16.24.13",
+  "id": "cmoa:things/6ba38644-d3bb-4f6f-aa2a-20c8ec141392",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.062,
+  "item_height": 13.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001150",
+  "provenance_text": "Basil Dighton, 3 Savile Row, W. London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110702&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110703&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fd52346-5b21-4c2e-aa07-a2d7c99e4954",
+      "party_type": "Person",
+      "full_name": "David Lucas",
+      "cited_name": "Lucas, David",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1802-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7b5884a6-e061-4a27-9e87-b2ff41d8b288",
+      "party_type": "Person",
+      "full_name": "John Constable",
+      "cited_name": "Constable, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1776-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": "East Bergholt (Suffolk, England, United Kingdom)",
+      "death_place": "Hampstead (Greater London, England, United Kingdom)"
+    }
+  ]
+}

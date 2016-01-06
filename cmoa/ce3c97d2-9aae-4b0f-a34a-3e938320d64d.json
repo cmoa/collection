@@ -1,0 +1,51 @@
+{
+  "title": "The actors Arashi Hinasuke II in the role of Minamoto no Raikō and Iwai Kumesaburō I as Princess Yosooi Hime in the kaomise drama Modoribashi Tsuna-ga-Kaomise, staged in the eleventh month of 1800 at the Kawarazaki-za (Kawarazaki theater)",
+  "creation_date": "1800",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "06.1.2",
+  "id": "cmoa:things/ce3c97d2-9aae-4b0f-a34a-3e938320d64d",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-05-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000150",
+  "provenance_text": "B.C. Brown in 1906",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32734&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ea1c2c5-f4a5-469d-b531-42dcdd8f156e",
+      "party_type": "Person",
+      "full_name": "Toyokuni Utagawa",
+      "cited_name": "Toyokuni Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1769-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c0db8dca-4094-4239-b160-e155781c3572",
+      "party_type": "Person",
+      "full_name": "Yohachi Nishimuraya",
+      "cited_name": "Yohachi Nishimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

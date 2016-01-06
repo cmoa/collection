@@ -1,0 +1,39 @@
+{
+  "title": "Yellow into Blue Color",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.73",
+  "id": "cmoa:things/08047f38-581d-4011-adc2-0e0d878c25b9",
+  "credit_line": "Gift of Edith and Milton Lowenthal Foundation",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.75,
+  "item_height": 17.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025145",
+  "provenance_text": "Mr. and Mrs. Milton Lowenthal, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48621&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/70ec3f93-048e-4644-bc7a-a362cf822433",
+      "party_type": "Person",
+      "full_name": "Paul Burlin",
+      "cited_name": "Burlin, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

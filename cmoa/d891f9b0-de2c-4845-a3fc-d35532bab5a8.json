@@ -1,0 +1,39 @@
+{
+  "title": "Green Jacket",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2001.62",
+  "id": "cmoa:things/d891f9b0-de2c-4845-a3fc-d35532bab5a8",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2001-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 48.0,
+  "item_height": 71.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57",
+  "provenance_text": "Gift of Alex Katz, 2001. \n\nTBF 10/31/14",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101353&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cc5bf0b-1297-42c2-93a1-cf2acfd9b5da",
+      "party_type": "Person",
+      "full_name": "Alex Katz",
+      "cited_name": "Katz, Alex",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn (New York City, New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

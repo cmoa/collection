@@ -1,0 +1,39 @@
+{
+  "title": "Going to the Wreck",
+  "creation_date": "c. 1883",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.18.1",
+  "id": "cmoa:things/b22c2a45-19f6-44ed-b455-f62a2e80b804",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 42.0,
+  "item_height": 30.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019271",
+  "provenance_text": "On loan to the museum by 1912; on loan to Carnegie Library of Pittsburgh, 1912-1978; museum appropriation, 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120571&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ad57d42-6898-47f1-acaf-b49ceba873ff",
+      "party_type": "Person",
+      "full_name": "Harry Chase",
+      "cited_name": "Chase, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": " Woodstock (Windsor county, Vermont, United States)",
+      "death_place": " Sewanee (Franklin county, Tennessee, United States)"
+    }
+  ]
+}

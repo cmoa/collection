@@ -1,0 +1,39 @@
+{
+  "title": "La Madeleine, Paris",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "bromoil print",
+  "accession_number": "2007.89.6",
+  "id": "cmoa:things/1d95938f-a5d3-4e39-931e-9bb028ff577a",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2008-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 20.875,
+  "item_height": 19.125,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48935",
+  "provenance_text": "Acquired by Mr. George Ebbs from Zur Stockeregg on 05/12/1989 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112866&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fe94ba4b-ff79-4cfc-9236-1bcfbc1a3d17",
+      "party_type": "Person",
+      "full_name": "Stefan Jasienski",
+      "cited_name": "Jasienski, Stefan",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1899-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

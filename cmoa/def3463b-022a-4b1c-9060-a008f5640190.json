@@ -1,0 +1,39 @@
+{
+  "title": "Zansetsu (Melting Snow)",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.424",
+  "id": "cmoa:things/def3463b-022a-4b1c-9060-a008f5640190",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.75,
+  "item_height": 14.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028196",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34980&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5c52b268-5302-4cd9-a415-9abaeb52eedd",
+      "party_type": "Person",
+      "full_name": "Ide Gakusui",
+      "cited_name": "Ide Gakusui",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1899-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "porcelain",
+  "accession_number": "2003.58.4.3.1.A-B",
+  "id": "cmoa:things/039053de-32b1-49a5-b72b-6784cf004f48",
+  "credit_line": "Gift of Sam and Debbie Berkovitz",
+  "date_acquired": "2004-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 5.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7278",
+  "provenance_text": "Sam and Deborah Berkovitz, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9658&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/517caa0f-22a7-45f9-8828-bf34d67f2f66",
+      "party_type": "Organization",
+      "full_name": "Società Ceramica Italiana",
+      "cited_name": "Società Ceramica Italiana",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1856-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

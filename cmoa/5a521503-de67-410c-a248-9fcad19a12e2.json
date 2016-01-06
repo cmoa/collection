@@ -1,0 +1,39 @@
+{
+  "title": "Nemesis (The Great Fortune)",
+  "creation_date": "1501-1502",
+  "creation_date_earliest": "1500-12-22",
+  "creation_date_latest": "1501-12-22",
+  "medium": "engraving on paper",
+  "accession_number": "74.7.108",
+  "id": "cmoa:things/5a521503-de67-410c-a248-9fcad19a12e2",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017251",
+  "provenance_text": "Conte G. Archinto, Milan 1783-1861 (Lugt 546).\nRudolf Busch, b. c.1875 Mainz (Lugt 2190).\nA. G. Gerson, d. c.1904 Vienna (Lugt Suppl. 1156a).\nCharles J. Rosenbloom (Lugt Suppl. 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49119&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

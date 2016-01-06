@@ -1,0 +1,39 @@
+{
+  "title": "Portrait medallion (Benjamin Franklin)",
+  "creation_date": "1777",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "terracotta",
+  "accession_number": "82.93.239",
+  "id": "cmoa:things/15513de9-d013-4d8e-a727-d86796a52b5c",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023415",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3671&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3afca4da-f047-47af-81e5-1a1dd0fb381a",
+      "party_type": "Person",
+      "full_name": "Giovanni Battista Nini",
+      "cited_name": "Nini, Giovanni Battista.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1717-01-01",
+      "death_date": "1786-01-01",
+      "birth_place": " Urbino (Pesaro e Urbino province, Marches, Italy)",
+      "death_place": " Chaumont-sur-Loire (Loir-et-Cher, Centre region, France)"
+    }
+  ]
+}

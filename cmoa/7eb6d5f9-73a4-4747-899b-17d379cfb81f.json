@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Woman",
+  "creation_date": "1807",
+  "creation_date_earliest": "1807-01-01",
+  "creation_date_latest": "1807-01-01",
+  "medium": "watercolor on ivory; enameled gold frame",
+  "accession_number": "27.10.245",
+  "id": "cmoa:things/7eb6d5f9-73a4-4747-899b-17d379cfb81f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.625,
+  "item_height": 3.812,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005680",
+  "provenance_text": "Edmund F. Bonaventure [-1918], New York, NY, until September 10, 1918; Estate of Edmund F. Bonaventure, until July 10, 1919; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, July 10, 1919; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73701&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73702&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d5ab98ac-cb76-4a94-9776-9b62c15552b7",
+      "party_type": "Person",
+      "full_name": "Thérèse Baudry de Balzac",
+      "cited_name": "Balzac, Thérèse Baudry de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1774-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

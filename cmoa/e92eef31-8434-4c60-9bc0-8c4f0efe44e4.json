@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "1760-1770",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "salt-glazed stoneware",
+  "accession_number": "89.25",
+  "id": "cmoa:things/e92eef31-8434-4c60-9bc0-8c4f0efe44e4",
+  "credit_line": "Gift of Mr. and Mrs. Stanley R. Gumberg",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 1.812,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026646",
+  "provenance_text": "Gift of Mr. and Mrs. Stanley R. Gumberg, 1989.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3753&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9714f4b-8d85-4046-b835-8bd21960539b",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire or Yorkshire",
+      "cited_name": "unknown English, Staffordshire or Yorkshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

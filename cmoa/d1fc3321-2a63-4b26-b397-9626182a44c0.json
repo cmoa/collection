@@ -1,0 +1,39 @@
+{
+  "title": "Drum with Flowers",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1252",
+  "id": "cmoa:things/d1fc3321-2a63-4b26-b397-9626182a44c0",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027042",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106200&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c124c43b-d628-48e0-b6f7-c84beaaa1581",
+      "party_type": "Person",
+      "full_name": "Shinsai Katsushika (Hokusai)",
+      "cited_name": "Shinsai Katsushika (Hokusai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1740-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

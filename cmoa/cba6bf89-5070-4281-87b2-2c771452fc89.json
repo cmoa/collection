@@ -1,0 +1,39 @@
+{
+  "title": "Teacup",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "lustre painted earthenware",
+  "accession_number": "79.15.17",
+  "id": "cmoa:things/cba6bf89-5070-4281-87b2-2c771452fc89",
+  "credit_line": "Gift of Mr. and Mrs. James H. Heroy",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.187,
+  "item_height": 2.375,
+  "item_depth": 3.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020208",
+  "provenance_text": "Gift of Mr. and Mrs. James H. Heroy, Sewickley, PA, 1979.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2550&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a80f181-f41e-40ef-81a6-e11f040d9329",
+      "party_type": "Organization",
+      "full_name": "Wedgwood",
+      "cited_name": "Wedgwood",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Flask",
+  "creation_date": "1840-1860",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "glass",
+  "accession_number": "50.7.1",
+  "id": "cmoa:things/5e77a913-f383-41eb-b1e3-5826b003492c",
+  "credit_line": "Gift of Mrs. J. B. McKillips",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 5.5,
+  "item_height": 8.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008896",
+  "provenance_text": "Collection of Mrs. J. B. McKillips, before 1950; Gift of Mrs. J. B. McKillips, 1950. \n\nTBF 11/3/14",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=991&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90650483-bc16-425d-9252-74c8a9513999",
+      "party_type": "Person",
+      "full_name": "unknown American, Midwestern",
+      "cited_name": "unknown American, Midwestern",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

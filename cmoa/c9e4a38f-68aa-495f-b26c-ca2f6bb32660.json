@@ -1,0 +1,39 @@
+{
+  "title": "New York Scene",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "80.65",
+  "id": "cmoa:things/c9e4a38f-68aa-495f-b26c-ca2f6bb32660",
+  "credit_line": "Gift of Dr. and Mrs. Frederic M. Chacker",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 55.0,
+  "item_height": 43.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021273",
+  "provenance_text": "Dr. Frederic M. Chacker, Philadelphia, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3818&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de21f63c-d840-4be5-94a0-78c04e724162",
+      "party_type": "Person",
+      "full_name": "Richard Estes",
+      "cited_name": "Estes, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Evanston (Cook county, Illinois, United States)",
+      "death_place": null
+    }
+  ]
+}

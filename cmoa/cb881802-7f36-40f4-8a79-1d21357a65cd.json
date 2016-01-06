@@ -1,0 +1,39 @@
+{
+  "title": "Indian Hunter",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "crayon on paper",
+  "accession_number": "18.25.5",
+  "id": "cmoa:things/cb881802-7f36-40f4-8a79-1d21357a65cd",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001775",
+  "provenance_text": "American Artists' War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89497&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/426aeb4b-1829-43b8-9eb7-80bed17a59c0",
+      "party_type": "Person",
+      "full_name": "Eanger Irving Couse",
+      "cited_name": "Couse, Eanger I.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1866-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": " Saginaw (Saginaw county, Michigan, United States)",
+      "death_place": " Albuquerque (Bernalillo county, New Mexico, United States)"
+    }
+  ]
+}

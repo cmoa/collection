@@ -1,0 +1,42 @@
+{
+  "title": "Kenarth, South Wales",
+  "creation_date": "1864",
+  "creation_date_earliest": "1864-01-01",
+  "creation_date_latest": "1864-01-01",
+  "medium": "etching",
+  "accession_number": "17.26.2",
+  "id": "cmoa:things/01485211-196f-4fdb-886d-1dda12244604",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001526",
+  "provenance_text": "American Art Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105213&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105214&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

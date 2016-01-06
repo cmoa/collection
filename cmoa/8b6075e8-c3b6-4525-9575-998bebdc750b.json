@@ -1,0 +1,39 @@
+{
+  "title": "Personnage (No. 5)",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.5",
+  "id": "cmoa:things/8b6075e8-c3b6-4525-9575-998bebdc750b",
+  "credit_line": "John Henry Craner Fund",
+  "date_acquired": "1965-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 61.0,
+  "item_height": 60.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011962",
+  "provenance_text": "The Artist via International, 1964",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18863&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a6eb295-06c3-4e62-961e-359437534312",
+      "party_type": "Person",
+      "full_name": "Maryan S. Maryan",
+      "cited_name": "Maryan, Maryan S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Nowy Sacz (Malopolskie voivodship, Poland)",
+      "death_place": null
+    }
+  ]
+}

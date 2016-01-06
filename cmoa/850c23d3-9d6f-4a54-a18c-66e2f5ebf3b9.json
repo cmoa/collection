@@ -1,0 +1,37 @@
+{
+  "title": "Reliquary",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": null,
+  "accession_number": "27.10.453",
+  "id": "cmoa:things/850c23d3-9d6f-4a54-a18c-66e2f5ebf3b9",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 3.125,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88753",
+  "provenance_text": "Unknown source, Amsterdam, Netherlands; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, July 10, 1910; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

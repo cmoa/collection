@@ -1,0 +1,51 @@
+{
+  "title": "L'Acropolis Athenes, from \"Fragments D'Architecture\" by G. Bourgerez",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "ink on tissue paper",
+  "accession_number": "91.15.2.29",
+  "id": "cmoa:things/dd5d3039-84f6-4abf-b19d-8e6f4a106794",
+  "credit_line": "Purchase: gift of J. L. Hillman Simonds",
+  "date_acquired": "1991-10-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029498",
+  "provenance_text": "Earle G. Shettleworth, Jr., ME, Augusta",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118081&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5d7321c-0094-483f-8b9f-5c93db966c21",
+      "party_type": "Person",
+      "full_name": "David C. Hale",
+      "cited_name": "Hale, David C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": "Ellsworth, ME"
+    },
+    {
+      "artist_id": "cmoa:parties/1c141240-d1f3-47ae-aed8-de7f876ff915",
+      "party_type": "Organization",
+      "full_name": "Office of Henry Hobson Richardson",
+      "cited_name": "Richardson, The Henry Hobson Office",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

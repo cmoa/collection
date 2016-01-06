@@ -1,0 +1,42 @@
+{
+  "title": "Magritte with Hat",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "Gelatin silver print with hand-applied text",
+  "accession_number": "2009.31.1",
+  "id": "cmoa:things/abb52a1b-8113-45e2-9bbc-21e79badc1a1",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 17.312,
+  "item_height": 14.313,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82325",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128191&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128190&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

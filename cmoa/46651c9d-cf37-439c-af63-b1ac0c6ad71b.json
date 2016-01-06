@@ -1,0 +1,39 @@
+{
+  "title": "Box",
+  "creation_date": "c. 1750",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1874.A-B",
+  "id": "cmoa:things/46651c9d-cf37-439c-af63-b1ac0c6ad71b",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.312,
+  "item_height": 3.625,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014030",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4252&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3863f39e-dd5b-47a0-91e7-12b5fab9e11b",
+      "party_type": "Organization",
+      "full_name": "Bow Porcelain Factory",
+      "cited_name": "Bow Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1735-01-01",
+      "death_date": "1776-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

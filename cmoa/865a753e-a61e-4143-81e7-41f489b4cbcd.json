@@ -1,0 +1,39 @@
+{
+  "title": "Mug (Cann)",
+  "creation_date": "1776-1777",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "silver",
+  "accession_number": "70.32.2415",
+  "id": "cmoa:things/865a753e-a61e-4143-81e7-41f489b4cbcd",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014626",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4685&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

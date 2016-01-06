@@ -1,0 +1,51 @@
+{
+  "title": "Dessert dish (Three Faces)",
+  "creation_date": "1878",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.247.1",
+  "id": "cmoa:things/ef2a5fec-eb54-4615-b745-0b838a5d2044",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.625,
+  "item_depth": 0.0,
+  "item_diameter": 6.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007879",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8141a10d-cb11-49bf-b963-e6d00327ff0d",
+      "party_type": "Person",
+      "full_name": "John Ernest Miller",
+      "cited_name": "Miller, John E.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1955-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0c49d1d1-88ef-4f60-87da-9bd43269f390",
+      "party_type": "Organization",
+      "full_name": "George Duncan and Sons",
+      "cited_name": "Duncan, George and Sons (Manufacturer)",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1892-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

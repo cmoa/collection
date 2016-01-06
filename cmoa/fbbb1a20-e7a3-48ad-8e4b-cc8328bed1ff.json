@@ -1,0 +1,51 @@
+{
+  "title": "Clutha Vase",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "glass",
+  "accession_number": "1996.4",
+  "id": "cmoa:things/fbbb1a20-e7a3-48ad-8e4b-cc8328bed1ff",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1996-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.625,
+  "item_depth": 0.0,
+  "item_diameter": 4.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002153",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113992&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c2e747ea-9b30-46a0-8a9b-fa182e624da8",
+      "party_type": "Organization",
+      "full_name": "James Couper & Sons",
+      "cited_name": "James Couper & Sons",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1865-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

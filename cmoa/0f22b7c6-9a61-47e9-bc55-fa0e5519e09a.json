@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of John Thurlow, Secretary to Oliver Cromwell",
+  "creation_date": "1738",
+  "creation_date_earliest": "1738-01-01",
+  "creation_date_latest": "1738-01-01",
+  "medium": "engraving",
+  "accession_number": "16.25",
+  "id": "cmoa:things/0f22b7c6-9a61-47e9-bc55-fa0e5519e09a",
+  "credit_line": "Gift of Colonel S. H. Church",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001161",
+  "provenance_text": "Colonel S.H. Church",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100074&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c51341f-2549-4f1c-8058-3de110ec37e1",
+      "party_type": "Person",
+      "full_name": "Jacobus Houbraken",
+      "cited_name": "Houbraken, Jacobus",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1698-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": " Dordrecht (South Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

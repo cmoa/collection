@@ -1,0 +1,42 @@
+{
+  "title": "Émigrants (The Emigrants)",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "Etching and drypoint on paper",
+  "accession_number": "83.52",
+  "id": "cmoa:things/a9aa754c-c96a-4034-a969-47e4de841760",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1983-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023839",
+  "provenance_text": "Kennedy Galleries, New York, NY.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107789&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23165&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/646fb21c-0916-4296-827e-a9de4aa91a1d",
+      "party_type": "Person",
+      "full_name": "James Tissot",
+      "cited_name": "Tissot, James",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1836-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": "Nantes, France",
+      "death_place": "Château de Buillon, Doubs, France"
+    }
+  ]
+}

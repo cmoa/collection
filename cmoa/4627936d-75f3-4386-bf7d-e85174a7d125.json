@@ -1,0 +1,42 @@
+{
+  "title": "Musical Chairs",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2003.30",
+  "id": "cmoa:things/4627936d-75f3-4386-bf7d-e85174a7d125",
+  "credit_line": "Purchase: gift of her family in honor of Aaronel de Roy Gruber",
+  "date_acquired": "2003-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 62.75,
+  "item_height": 49.875,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5943",
+  "provenance_text": "Janet Borden, Inc., New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98111&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84828&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2a41e1f7-0ef0-46a3-8e14-6553b936283d",
+      "party_type": "Person",
+      "full_name": "Tina Barney",
+      "cited_name": "Barney, Tina",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

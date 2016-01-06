@@ -1,0 +1,39 @@
+{
+  "title": "Three Tomatoes in Paris",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "94.71.2",
+  "id": "cmoa:things/cc94c9a2-ff01-4e3a-96d7-408023c353ac",
+  "credit_line": "John Caldwell Memorial Fund",
+  "date_acquired": "1994-06-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.625,
+  "item_height": 41.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035243",
+  "provenance_text": "Luhring Augustine Gallery, New York, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119326&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e29c637-e8eb-4036-8948-f2d1ad41aec1",
+      "party_type": "Person",
+      "full_name": "Jack Pierson",
+      "cited_name": "Pierson, Jack",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1960-01-01",
+      "death_date": null,
+      "birth_place": "Plymouth, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

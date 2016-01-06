@@ -1,0 +1,39 @@
+{
+  "title": "Hakone",
+  "creation_date": "c. 1833-1834",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "77.31.11",
+  "id": "cmoa:things/a7981d6f-a428-4457-86c9-2c68ae32f3e4",
+  "credit_line": "Gift of Dr. and Mrs. James B. Austin",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018562",
+  "provenance_text": "Gift of Dr. and Mrs. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby Parke Bernet, New York, 6/14/1977, No. 175, Lot 194.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98961&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

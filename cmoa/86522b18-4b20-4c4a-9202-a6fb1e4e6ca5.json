@@ -1,0 +1,39 @@
+{
+  "title": "(Health Care: Waiting Room at Montefiore Hospital)",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.17",
+  "id": "cmoa:things/86522b18-4b20-4c4a-9202-a6fb1e4e6ca5",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025912",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11517&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/532b2c99-f42a-4866-8ead-4ebc451fb547",
+      "party_type": "Person",
+      "full_name": "Esther Bubley",
+      "cited_name": "Bubley, Esther",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Phillips (Price county, Wisconson United States)",
+      "death_place": "Manhattan (New York City, New York state, United States)"
+    }
+  ]
+}

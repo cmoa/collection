@@ -1,0 +1,39 @@
+{
+  "title": "Still Life of Fruit",
+  "creation_date": "c. 1864",
+  "creation_date_earliest": "1859-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.5.14",
+  "id": "cmoa:things/bbb8506a-a385-4398-aba7-e94349812bf9",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 13.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011051",
+  "provenance_text": "Johanna K. W. Hailman, Pittsburgh, until 1958; bequest to museum, 1959",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113253&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Man Playing Piano",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "cyanotype",
+  "accession_number": "1998.29",
+  "id": "cmoa:things/28c0496f-f7da-43db-ad19-9304187f6e93",
+  "credit_line": "Gift of Graham Shearing",
+  "date_acquired": "1998-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003730",
+  "provenance_text": "Graham Shearing, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113562&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

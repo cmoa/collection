@@ -1,0 +1,51 @@
+{
+  "title": "Untitled, from the Series \"The Chushingura Drama\"",
+  "creation_date": "Edo period (1603-1867), 19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.466.3",
+  "id": "cmoa:things/177e9285-d4a3-4ca8-bbe3-edae99d9c3bb",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.875,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028271",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/41d80fea-49b6-4989-9ebd-fd0cc6f6c6c0",
+      "party_type": "Person",
+      "full_name": "Kichibei Eizakiya",
+      "cited_name": "Kichibei Eizakiya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

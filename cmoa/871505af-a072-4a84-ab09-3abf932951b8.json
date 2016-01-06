@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1964-1965",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2002.19",
+  "id": "cmoa:things/871505af-a072-4a84-ab09-3abf932951b8",
+  "credit_line": "Joseph Soffer Family Trust Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 60.25,
+  "item_height": 48.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2",
+  "provenance_text": "(Daniel Weinberg Gallery), Santa Monica, CA; Museum purchase, 2002.\n\nTBF 10/30/14",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98202&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5cb7ad2-50ca-4c5b-8a80-74202ddfb9c2",
+      "party_type": "Person",
+      "full_name": "Jo Baer",
+      "cited_name": "Baer, Jo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Seattle (King County, Washington, United States)",
+      "death_place": null
+    }
+  ]
+}

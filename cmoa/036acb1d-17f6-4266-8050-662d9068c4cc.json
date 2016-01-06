@@ -1,0 +1,51 @@
+{
+  "title": "Night View, Saruwaka Street (Saruwaka cho, Yoru no Kei)",
+  "creation_date": "1856",
+  "creation_date_earliest": "1856-01-01",
+  "creation_date_latest": "1856-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.346.3",
+  "id": "cmoa:things/036acb1d-17f6-4266-8050-662d9068c4cc",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 13.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027986",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 4/4/1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98954&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/7c6b28cf-c7bb-40f7-a610-9dd4fd9c3076",
+      "party_type": "Person",
+      "full_name": "Hiroshige II",
+      "cited_name": "Hiroshige II",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1826-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": "Japan",
+      "death_place": "Japan"
+    }
+  ]
+}

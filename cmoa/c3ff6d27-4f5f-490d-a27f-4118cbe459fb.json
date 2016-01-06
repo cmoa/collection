@@ -1,0 +1,45 @@
+{
+  "title": "Making Contact",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "linocut",
+  "accession_number": "91.20",
+  "id": "cmoa:things/c3ff6d27-4f5f-490d-a27f-4118cbe459fb",
+  "credit_line": "Gift of Michael Logan Teleha",
+  "date_acquired": "1991-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.938,
+  "item_height": 19.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029585",
+  "provenance_text": "Michael Logan Teleha, Dallas, TX",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115379&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115380&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115381&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/acbb9e63-34f4-40ac-bb70-58f4a1c70cf4",
+      "party_type": "Person",
+      "full_name": "Richard Mock",
+      "cited_name": "Mock, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Long Beach, California",
+      "death_place": "Brooklyn"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Deer in a Pine Forest (Vosges) (Biches dans une forêt de sapins [Vosges])",
+  "creation_date": "c. 1865",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "80.9",
+  "id": "cmoa:things/8e66c624-8e1b-4968-8b78-6af3acce6505",
+  "credit_line": "Gift of the family of Tillie S. Speyer in her memory",
+  "date_acquired": "1980-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 51.375,
+  "item_height": 76.875,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021479",
+  "provenance_text": "Doré Gallery, London [1]; Mrs. Suzette Morton Davidson [1911-1996], Chicago, IL [2]; A. James Speyer [1913-1986], Chicago, IL; Tillie S. Speyer [1890-1979], Pittsburgh, PA, until 1979; Estate of Tillie S. Speyer, 1979; gift to Museum, May 1980. \nNOTES:1. Information from label on stretcher 2. see correspondence  James Speyer",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6397&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56862&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2e180a7-ee43-47f1-ac98-bf321fb67b8c",
+      "party_type": "Person",
+      "full_name": "Gustave Doré",
+      "cited_name": "Doré, Gustave",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1832-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": " Strasbourg (Bas-Rhin, Alsace, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

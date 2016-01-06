@@ -1,0 +1,37 @@
+{
+  "title": "The Somme Front",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "18.39.8",
+  "id": "cmoa:things/44366056-9a45-43ea-8f6b-6ddac0dc92c1",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001834",
+  "provenance_text": "M. Knoedler & Co",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/70f6219c-37f0-4af0-b06c-b92c0bcaf94f",
+      "party_type": "Person",
+      "full_name": "James McBey",
+      "cited_name": "McBey, James",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1883-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Aberdeen (Aberdeen, Scotland, United Kingdom)",
+      "death_place": "Tanger (Tanger province, Al Maghrib)"
+    }
+  ]
+}

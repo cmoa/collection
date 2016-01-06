@@ -1,0 +1,54 @@
+{
+  "title": "Lady Elizabeth Compton",
+  "creation_date": "1781",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1781-01-01",
+  "medium": "mezzotint",
+  "accession_number": "70.32.2675",
+  "id": "cmoa:things/689d76c1-28b8-4555-a548-db02072087fc",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.25,
+  "item_height": 25.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014917",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94612&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54186&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aecb1721-bc64-4cb2-b126-9357d4c963ce",
+      "party_type": "Person",
+      "full_name": "Valentine Green",
+      "cited_name": "Green, Valentine",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1739-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": " Salford (Salford, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

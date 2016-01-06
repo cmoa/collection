@@ -1,0 +1,42 @@
+{
+  "title": "Lapwing and Teal",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "etching",
+  "accession_number": "81.20.3",
+  "id": "cmoa:things/cec5611b-4875-4565-9750-134b8e4372c0",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021742",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110887&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4813ace9-3b49-4838-afb1-cf33f059d054",
+      "party_type": "Person",
+      "full_name": "Félix Bracquemond",
+      "cited_name": "Bracquemond, Félix",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1833-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

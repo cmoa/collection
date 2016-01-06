@@ -1,0 +1,42 @@
+{
+  "title": "Venetian Interior",
+  "creation_date": "c. 1880-1882",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "20.7",
+  "id": "cmoa:things/600ae898-b3d5-4668-ab64-c2756390d72d",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-05-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 34.188,
+  "item_height": 26.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004608",
+  "provenance_text": "Henry Lerolle, Paris, until 1920; purchased by Museum, 1920.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8016&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129315&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fded4ae-3230-46bc-9e11-c9657970997e",
+      "party_type": "Person",
+      "full_name": "John Singer Sargent",
+      "cited_name": "Sargent, John S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Italy, Florence",
+      "death_place": "England, London"
+    }
+  ]
+}

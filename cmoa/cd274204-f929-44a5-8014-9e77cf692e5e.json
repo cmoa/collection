@@ -1,0 +1,51 @@
+{
+  "title": "Apartment House; Iroquois Apartments, Pittsburgh, PA; [exterior perspective]",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "94.78",
+  "id": "cmoa:things/cd274204-f929-44a5-8014-9e77cf692e5e",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1994-06-09",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 71.5,
+  "item_height": 47.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035256",
+  "provenance_text": "East End Galleries, PA, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9887&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44451bca-46fd-42ec-a66c-04040a6424ef",
+      "party_type": "Person",
+      "full_name": "Frederick J. Osterling",
+      "cited_name": "Osterling, Frederick J.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/595580c2-4fb7-4019-8689-f9e3d33b5aa9",
+      "party_type": "Person",
+      "full_name": "Hughson Hawley",
+      "cited_name": "Hawley, Hughson",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Brighton (England, United Kingdom)",
+      "death_place": "USA (probably)"
+    }
+  ]
+}

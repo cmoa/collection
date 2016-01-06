@@ -1,0 +1,39 @@
+{
+  "title": "Icarus",
+  "creation_date": null,
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "bronze",
+  "accession_number": "66.8",
+  "id": "cmoa:things/c0e1023a-dbd8-4b28-99e3-141fb832aa70",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 56th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1966-04-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 8.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012281",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105260&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/297571e6-7e22-42b4-8531-fe590011255a",
+      "party_type": "Person",
+      "full_name": "George M. Koren",
+      "cited_name": "Koren, George M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

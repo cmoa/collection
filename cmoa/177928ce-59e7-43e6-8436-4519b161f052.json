@@ -1,0 +1,45 @@
+{
+  "title": "Fully Elastic Armchair",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "painted wood (probably white oak, soft maple, and hickory)",
+  "accession_number": "2006.72",
+  "id": "cmoa:things/177928ce-59e7-43e6-8436-4519b161f052",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "2006-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 19.875,
+  "item_height": 33.75,
+  "item_depth": 25.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33922",
+  "provenance_text": "Hirschl & Adler Galleries, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47381&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47380&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39679&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d2a68ed-be08-4694-8382-94df86e44ec7",
+      "party_type": "Person",
+      "full_name": "Samuel Gragg",
+      "cited_name": "Gragg, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1772-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": "Peterborough, New Hampshire",
+      "death_place": null
+    }
+  ]
+}

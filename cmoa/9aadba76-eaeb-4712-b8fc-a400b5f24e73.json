@@ -1,0 +1,45 @@
+{
+  "title": "Candlestick",
+  "creation_date": "1762-1763",
+  "creation_date_earliest": "1762-01-01",
+  "creation_date_latest": "1763-01-01",
+  "medium": "sterling silver",
+  "accession_number": "70.32.2370.A-.B",
+  "id": "cmoa:things/9aadba76-eaeb-4712-b8fc-a400b5f24e73",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.438,
+  "item_height": 9.875,
+  "item_depth": 4.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014571",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5844&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5845&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5843&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05c979e2-4d8a-4094-a37a-bf045a3737cd",
+      "party_type": "Person",
+      "full_name": "Ebenezer Coker or Elizabeth Cooke",
+      "cited_name": "Coker, Ebenezer Or Cooke, Elizabeth",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

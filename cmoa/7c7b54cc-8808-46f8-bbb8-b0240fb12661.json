@@ -1,0 +1,39 @@
+{
+  "title": "The Brooklyn Museum Master Plan (project)",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "pencil and crayon on yellow trace",
+  "accession_number": "2007.16",
+  "id": "cmoa:things/7c7b54cc-8808-46f8-bbb8-b0240fb12661",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "2007-04-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=39175",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72585&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8cfbdba-b46b-4f2a-aaed-f71d226cb8fe",
+      "party_type": "Person",
+      "full_name": "Arata Isozaki",
+      "cited_name": "Isozaki, Arata",
+      "role": "architect",
+      "nationality": "Japanese",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Oita City, Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Robert Louis Stevenson",
+  "creation_date": "1899-1900",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "bronze relief mounted on wood",
+  "accession_number": "18.15",
+  "id": "cmoa:things/7adde14f-39a8-4a06-93ce-dc2e5c47c397",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-03-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.625,
+  "item_height": 17.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001694",
+  "provenance_text": "The Gorham Co., Providence, RI, until 1918; purchased by Museum, 1918.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68119&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

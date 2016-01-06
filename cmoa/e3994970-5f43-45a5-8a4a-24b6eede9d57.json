@@ -1,0 +1,66 @@
+{
+  "title": "Interior of a Peasant's Cottage",
+  "creation_date": "1772-1787",
+  "creation_date_earliest": "1772-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "etching and roulette",
+  "accession_number": "49.2.34",
+  "id": "cmoa:things/e3994970-5f43-45a5-8a4a-24b6eede9d57",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008591",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104004&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104005&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b5ee20b4-0b39-41a5-97af-1be9d1e1765e",
+      "party_type": "Person",
+      "full_name": "Bernhard Schreuder",
+      "cited_name": "Schreuder, Bernhard",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": "Hoorn (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/e3f2038c-fa8a-4a20-be61-ce42be5827a0",
+      "party_type": "Person",
+      "full_name": "Cornelis Bega",
+      "cited_name": "Bega, Cornelis",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1631-01-01",
+      "death_date": "1664-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Goblet",
+  "creation_date": "c. 1800 BCE",
+  "creation_date_earliest": "-1900-01-18",
+  "creation_date_latest": "-1700-01-16",
+  "medium": "painted earthenware",
+  "accession_number": "72.61.1",
+  "id": "cmoa:things/d93710a4-cead-47a6-8a25-32e690be5a61",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 6.312,
+  "item_depth": 5.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016530",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3286&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69b9e783-05cf-4f84-86da-b2ae3455b08e",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Susa",
+      "cited_name": "unknown Persian, Susa",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Zanfirico Pear",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "glass",
+  "accession_number": "2002.51.17",
+  "id": "cmoa:things/878cc576-f3ab-4c67-91f0-dc78337ba7cc",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 12.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=388",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11365&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/88f7e3ac-8523-404f-ad66-9f0f1e31f6af",
+      "party_type": "Person",
+      "full_name": "Flora Mace",
+      "cited_name": "Mace, Flora",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8328028a-780f-4e88-a03b-b24c0f256d31",
+      "party_type": "Person",
+      "full_name": "Joey Kirkpatrick",
+      "cited_name": "Kirkpatrick, Joey",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

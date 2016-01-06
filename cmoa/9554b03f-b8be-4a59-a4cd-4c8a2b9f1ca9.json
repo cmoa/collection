@@ -1,0 +1,42 @@
+{
+  "title": "Aunt Tabithy",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "charcoal and ink wash",
+  "accession_number": "10.6.6",
+  "id": "cmoa:things/9554b03f-b8be-4a59-a4cd-4c8a2b9f1ca9",
+  "credit_line": "Purchase",
+  "date_acquired": "1910-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 18.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000522",
+  "provenance_text": "The Art Society of Pittsburgh; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126461&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126462&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/408fbbb1-530e-4617-9ef2-61dcc0290531",
+      "party_type": "Person",
+      "full_name": "Frederic Dorr Steele",
+      "cited_name": "Steele, Frederic D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "USA, Michigan, Marquette",
+      "death_place": null
+    }
+  ]
+}

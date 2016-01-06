@@ -1,0 +1,39 @@
+{
+  "title": "Capstan",
+  "creation_date": "c. 1660",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1675-01-01",
+  "medium": "brass",
+  "accession_number": "2000.71.66",
+  "id": "cmoa:things/90fdd929-1580-409c-aad9-4266c5dba623",
+  "credit_line": "Gift of C. Talbott Hiteshew, Jr.",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.438,
+  "item_depth": 0.0,
+  "item_diameter": 4.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7044",
+  "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

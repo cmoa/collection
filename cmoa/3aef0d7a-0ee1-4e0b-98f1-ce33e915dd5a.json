@@ -1,0 +1,39 @@
+{
+  "title": "The Piazzetta",
+  "creation_date": "1879-1880",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "etching and drypoint printed in black ink on laid paper",
+  "accession_number": "16.49",
+  "id": "cmoa:things/3aef0d7a-0ee1-4e0b-98f1-ce33e915dd5a",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-04-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.125,
+  "item_height": 10.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001302",
+  "provenance_text": "George Busse; Museum Purchase",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56356&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Boulevards near the Gate of St. Denis (Les boulevards près de la porte St. Denis, Paris)",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "wood engraving on Chinese paper",
+  "accession_number": "20.15.5",
+  "id": "cmoa:things/e4278321-0e4b-4bd1-aa6c-4d8a5b6b6ec4",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-07-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004523",
+  "provenance_text": "M. Knoedler & Co., New York, NY; purchased by Museum, July 1920.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111024&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23125&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12214363-c054-4bce-8883-26046f05323b",
+      "party_type": "Person",
+      "full_name": "Auguste Lepère",
+      "cited_name": "Lepère, Auguste L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Domme, France"
+    }
+  ]
+}

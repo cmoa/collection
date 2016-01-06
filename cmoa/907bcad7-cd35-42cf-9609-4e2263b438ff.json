@@ -1,0 +1,39 @@
+{
+  "title": "Herr Graf Sie Sind Charmand! From Die Fledermaus  (The Count is so Charming)",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "pencil",
+  "accession_number": "62.34.2",
+  "id": "cmoa:things/907bcad7-cd35-42cf-9609-4e2263b438ff",
+  "credit_line": "Gift of Thomas Corinth",
+  "date_acquired": "1962-12-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011568",
+  "provenance_text": "Thomas Corinth, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99185&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7481740e-766a-4bc7-99c3-aa765b91bca8",
+      "party_type": "Person",
+      "full_name": "Lovis Corinth",
+      "cited_name": "Corinth, Lovis",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1858-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": " Gvardeysk (Kaliningrad oblast, Rossiya republic, Russia)",
+      "death_place": " Zandvoort (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Untitled fashion print",
+  "creation_date": "1844",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1844-01-01",
+  "medium": "color woodblock print (kakemono-e)",
+  "accession_number": "17.36.2",
+  "id": "cmoa:things/aef9254c-5f50-48a4-95d9-6d8c46d66980",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-31",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.5,
+  "item_height": 27.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001578",
+  "provenance_text": "Dr. Olaf N. Orlow, San Francisco (on loan to Carnegie Institute 1906-1917); held by CI as security for unpaid shipping bill 1910-1917.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107491&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ceb3bd03-2fc1-46dc-98e1-77eaa203b1d5",
+      "party_type": "Person",
+      "full_name": "Kunisada (Toyokuni III)",
+      "cited_name": "Kunisada (Toyokuni III)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1786-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/d04a2fd6-bf21-4b89-b6fd-2163742afac5",
+      "party_type": "Person",
+      "full_name": "Kiyoemon Aritaya",
+      "cited_name": "Kiyoemon Aritaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Back view of houses on Frazier St. near Ward St.",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.122",
+  "id": "cmoa:things/8f36772a-2941-4a41-a3ee-007e86414f47",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025861",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2088&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d663e6f7-7482-4d72-a6b9-d46a18c69962",
+      "party_type": "Person",
+      "full_name": "Russell Lee",
+      "cited_name": "Lee, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Ottawa, IL",
+      "death_place": "Austin, TX"
+    }
+  ]
+}

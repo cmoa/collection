@@ -1,0 +1,39 @@
+{
+  "title": "Black Reef",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "40.6.1",
+  "id": "cmoa:things/28b38de9-769b-48bf-b512-18445df53b36",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1940-12-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 50.25,
+  "item_height": 38.0,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007239",
+  "provenance_text": "Frank K. M. Rehn Gallery, New York, as agent, 1940; Patrons Art Fund, 1940",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149767&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fe34ea9-5ef4-46d8-90f2-f113f0da92b7",
+      "party_type": "Person",
+      "full_name": "Henry E. Mattson",
+      "cited_name": "Mattson, Henry E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Göteborg (Västra Götaland, Sweden)",
+      "death_place": "Woodstock (Greene county, New York state, United States)"
+    }
+  ]
+}

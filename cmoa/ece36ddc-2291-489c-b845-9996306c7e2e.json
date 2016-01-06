@@ -1,0 +1,39 @@
+{
+  "title": "St. Joseph with the Infant Christ",
+  "creation_date": null,
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1680-01-01",
+  "medium": "chalk, red on white paper",
+  "accession_number": "23.12.11",
+  "id": "cmoa:things/ece36ddc-2291-489c-b845-9996306c7e2e",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004818",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99102&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b6776fa7-5ac1-40c9-8f27-7749022f1ae8",
+      "party_type": "Person",
+      "full_name": "Bolognese School",
+      "cited_name": "Bolognese School",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1650-01-01",
+      "death_date": "1680-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

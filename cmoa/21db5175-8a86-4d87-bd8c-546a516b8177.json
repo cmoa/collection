@@ -1,0 +1,39 @@
+{
+  "title": "Sea Change (Bound Volume)",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "colored ink on paper",
+  "accession_number": "90.15.1",
+  "id": "cmoa:things/21db5175-8a86-4d87-bd8c-546a516b8177",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 80th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1990-09-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 16.875,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029337",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115315&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/247f8190-48b1-4f01-afb2-7ac64853cd6f",
+      "party_type": "Person",
+      "full_name": "Wilhelmina J. Garver",
+      "cited_name": "Garver, Wilhelmina J.",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

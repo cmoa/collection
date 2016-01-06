@@ -1,0 +1,39 @@
+{
+  "title": "Bank",
+  "creation_date": "c. 1813",
+  "creation_date_earliest": "1808-01-01",
+  "creation_date_latest": "1818-01-01",
+  "medium": "painted earthenware",
+  "accession_number": "95.81",
+  "id": "cmoa:things/1751a594-3c77-4a8e-8f12-c8703d4a24e9",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "1995-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.438,
+  "item_height": 8.875,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035818",
+  "provenance_text": "Art Trading (U.S.) Ltd., New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1558&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

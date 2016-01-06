@@ -1,0 +1,39 @@
+{
+  "title": "The House of Gerberoy: Evening",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "94.241",
+  "id": "cmoa:things/282f8b8d-d054-480a-8cfe-60bd0ef37b71",
+  "credit_line": "Gift of Elizabeth Bascom in memory of her parents Ida and T. Raymond Evans",
+  "date_acquired": "1994-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 38.125,
+  "item_height": 45.75,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035049",
+  "provenance_text": "Mrs. T. Raymond Evans, purchased 1931; Elizabeth Bascom, by descent, St. Louis, Missouri; gift to Museum, December 1994.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98939&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8f3ca7d-7a07-4f0f-a9ff-b9c1a04a310e",
+      "party_type": "Person",
+      "full_name": "Henri Le Sidaner",
+      "cited_name": "Le Sidaner, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1862-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": "Port-Louis, Mauritius, France",
+      "death_place": "Versailles, France"
+    }
+  ]
+}

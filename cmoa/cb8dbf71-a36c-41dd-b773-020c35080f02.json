@@ -1,0 +1,39 @@
+{
+  "title": "Third Theme",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "crayon and pencil",
+  "accession_number": "81.3.6",
+  "id": "cmoa:things/cb8dbf71-a36c-41dd-b773-020c35080f02",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021854",
+  "provenance_text": "Meredith Long Company, Houston; Leisser Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100311&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ddb863e-4a46-4741-840a-0a8a5349259b",
+      "party_type": "Person",
+      "full_name": "Burgoyne Diller",
+      "cited_name": "Diller, Burgoyne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "New York",
+      "death_place": "New York"
+    }
+  ]
+}

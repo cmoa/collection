@@ -1,0 +1,39 @@
+{
+  "title": "Saint Andrew",
+  "creation_date": "late 18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "Wood",
+  "accession_number": "66.11.2",
+  "id": "cmoa:things/2af3c800-8303-46da-bb92-fe31ab569fd4",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1966-09-20",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 12.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012195",
+  "provenance_text": "The Estate of Howard A. Noble\n\nUnder review by CGK",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4213&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/43e25ea5-cb8b-4a3d-a5e5-d0362d4bd031",
+      "party_type": "Person",
+      "full_name": "unknown Austrian",
+      "cited_name": "unknown Austrian",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

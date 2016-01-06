@@ -1,0 +1,39 @@
+{
+  "title": "Calton Road, Edinburgh",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "89.10.4",
+  "id": "cmoa:things/fdced5f2-b593-4aa6-910b-cdc4ac62e0d5",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1989-10-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.0,
+  "item_height": 25.375,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026586",
+  "provenance_text": "Multiples Inc., Marian Goodman Gallery, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119320&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4e9984be-f631-485b-94a8-2307f83188af",
+      "party_type": "Person",
+      "full_name": "Thomas Struth",
+      "cited_name": "Struth, Thomas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Geldern (Düsseldorf district, North Rhine-Westphalia, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Peabody High School, Pittsburgh (exterior perspective)",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "watercolor, pencil, and wash on paper mounted on pressboard",
+  "accession_number": "2008.75",
+  "id": "cmoa:things/ad32bd16-6543-4dba-a50e-6ee796194a2f",
+  "credit_line": "Gift of Harley Trice",
+  "date_acquired": "2008-10-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 35.5,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=78839",
+  "provenance_text": "Harley Trice purchased from antiques dealer in Pittsburgh area.  Vendor and date TBD.",
+  "classification": "drawings and watercolors",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/595580c2-4fb7-4019-8689-f9e3d33b5aa9",
+      "party_type": "Person",
+      "full_name": "Hughson Hawley",
+      "cited_name": "Hawley, Hughson",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Brighton (England, United Kingdom)",
+      "death_place": "USA (probably)"
+    },
+    {
+      "artist_id": "cmoa:parties/4d46171f-f055-435f-9f4d-f313faf101ab",
+      "party_type": "Person",
+      "full_name": "Charles M. Bartberger",
+      "cited_name": "Bartberger, Charles M.",
+      "role": "Architect",
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Pittsburgh, PA"
+    },
+    {
+      "artist_id": "cmoa:parties/9523c2f0-6d0e-417a-8643-95b7fbce98bc",
+      "party_type": "Organization",
+      "full_name": "Bartberger, Cooley & Bartberger",
+      "cited_name": "Bartberger, Cooley & Bartberger",
+      "role": "Architect",
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

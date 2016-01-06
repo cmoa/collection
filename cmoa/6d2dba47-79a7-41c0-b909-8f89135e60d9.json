@@ -1,0 +1,39 @@
+{
+  "title": "For Green",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "acrylic emulsion on canvas",
+  "accession_number": "2002.32.4",
+  "id": "cmoa:things/6d2dba47-79a7-41c0-b909-8f89135e60d9",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 108.0,
+  "item_height": 17.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=363",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26935&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f44654b0-849d-4282-b4cc-bf76f34ca833",
+      "party_type": "Person",
+      "full_name": "Kenneth Noland",
+      "cited_name": "Noland, Kenneth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Asheville (Buncombe county, North Carolina, United States)",
+      "death_place": "Port Clyde (Knox county, Maine, United states)"
+    }
+  ]
+}

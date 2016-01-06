@@ -1,0 +1,49 @@
+{
+  "title": "House for an Art Collector, Therwill",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "graphite and charcoal on paper",
+  "accession_number": "1997.46.3",
+  "id": "cmoa:things/15ec9da0-e55e-4e04-95c5-f461cf07b4f0",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1997-10-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003385",
+  "provenance_text": "Blumarts Inc., New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fdda1794-1790-4ef9-95de-f04479f4282f",
+      "party_type": "Person",
+      "full_name": "Jacques Herzog",
+      "cited_name": "Herzog, Jacques",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Basel, Switzerland",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db6079fe-4311-43b5-b1c6-7e909342f022",
+      "party_type": "Person",
+      "full_name": "Pierre de Meuron",
+      "cited_name": "Meuron, Pierre de",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Basel, Switzerland",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Game pie dish",
+  "creation_date": "c. 1815",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "caneware",
+  "accession_number": "21.1.1.A-.C",
+  "id": "cmoa:things/9e01f2a4-5c4c-4ec6-92b5-20e3e3d54c8f",
+  "credit_line": "Gift of Isabel Wallace",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 5.875,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004617",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3155&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa73cf21-ad85-4e79-9fc3-bfa787b75771",
+      "party_type": "Organization",
+      "full_name": "Josiah Wedgwood & Sons Ltd.",
+      "cited_name": "Wedgwood, Josiah & Sons Ltd.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

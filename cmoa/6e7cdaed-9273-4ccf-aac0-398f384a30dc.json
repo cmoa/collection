@@ -1,0 +1,39 @@
+{
+  "title": "White Painting",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.69",
+  "id": "cmoa:things/6e7cdaed-9273-4ccf-aac0-398f384a30dc",
+  "credit_line": "James M. Bovard Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 53.0,
+  "item_height": 65.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010908",
+  "provenance_text": "Jiro Yoshihara, via 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119774&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8bb90a3d-4af3-40be-8af7-06e08509a34d",
+      "party_type": "Person",
+      "full_name": "Jiro Yoshihara",
+      "cited_name": " Yoshihara, Jiro",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1905-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": " Osaka (Gifu prefecture, Chu-bu, Japan)",
+      "death_place": " Ashiya (Hyo-go prefecture, Kinki, Japan)"
+    }
+  ]
+}

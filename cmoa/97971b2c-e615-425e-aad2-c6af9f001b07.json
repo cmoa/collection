@@ -1,0 +1,51 @@
+{
+  "title": "Dish",
+  "creation_date": "1764-1765",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "silver, sterling standard",
+  "accession_number": "48.1.33",
+  "id": "cmoa:things/97971b2c-e615-425e-aad2-c6af9f001b07",
+  "credit_line": "Bequest of Eleanore E. Stoney and Mary L. Edwards Collection of Georgian Silver",
+  "date_acquired": "1948-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.687,
+  "item_height": 1.5,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008155",
+  "provenance_text": "Estate of Mary L. Edwards, c/o Mellon Bank, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4939&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4512a049-8077-4fe9-a5c7-c5228e79afb7",
+      "party_type": "Person",
+      "full_name": "Thomas Whipham",
+      "cited_name": "Whipham, Thomas",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1756-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d0c92f50-6e25-4172-a34a-4163fe00a085",
+      "party_type": "Person",
+      "full_name": "Charles Wright",
+      "cited_name": "Wright, Charles",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1757-01-01",
+      "death_date": "1776-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Chaumieres de Paysant (Peasant Cottages)",
+  "creation_date": "1849",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1849-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.137",
+  "id": "cmoa:things/97aad659-a382-412d-a3f8-20101d0c34f2",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012711",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105008&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105009&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df41cb07-590c-4341-8dc5-1d2aff9e851c",
+      "party_type": "Person",
+      "full_name": "Charles Émile Jacque",
+      "cited_name": "Jacque, Charles Émile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1813-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

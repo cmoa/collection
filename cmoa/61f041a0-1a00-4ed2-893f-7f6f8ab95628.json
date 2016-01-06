@@ -1,0 +1,39 @@
+{
+  "title": "A Walk with Isobel",
+  "creation_date": "2014",
+  "creation_date_earliest": "2014-01-01",
+  "creation_date_latest": "2014-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2015.4",
+  "id": "cmoa:things/61f041a0-1a00-4ed2-893f-7f6f8ab95628",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2015-02-11",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 23.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106808",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135120&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2abcc586-e369-4866-ad16-eb7bece479c7",
+      "party_type": "Person",
+      "full_name": "Karen Glaser",
+      "cited_name": "Glaser, Karen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

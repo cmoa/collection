@@ -1,0 +1,39 @@
+{
+  "title": "Christ in Landscape",
+  "creation_date": "c. 1518",
+  "creation_date_earliest": "1512-12-22",
+  "creation_date_latest": "1522-12-22",
+  "medium": "oil on canvas",
+  "accession_number": "27.9.1",
+  "id": "cmoa:things/7ab7e6e1-8e20-4ada-897f-876fd3b2d8c7",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.5,
+  "item_height": 35.125,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006099",
+  "provenance_text": "Herbert DuPuy [1856-1930], Pittsburgh, PA, by 1927; gift to Museum, 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118317&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3179311a-3eab-4702-98e5-db56c0ce0dfb",
+      "party_type": "Person",
+      "full_name": "Francesco Bissolo",
+      "cited_name": "Bissolo, Francesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1492-01-01",
+      "death_date": "1554-01-01",
+      "birth_place": null,
+      "death_place": " Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

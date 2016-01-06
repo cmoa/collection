@@ -1,0 +1,39 @@
+{
+  "title": "Caricature; [sketch]",
+  "creation_date": null,
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "ink on paper",
+  "accession_number": "94.99.40",
+  "id": "cmoa:things/2ee37855-a590-419a-8632-09430de508ac",
+  "credit_line": "Gift of the Alfred and Elizabeth Bendiner Foundation",
+  "date_acquired": "1994-06-09",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 5.375,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035314",
+  "provenance_text": "Alfred and Elizabeth Bendiner Foundation, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115865&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f570adcf-6d6d-463a-91a4-1663c637f0e7",
+      "party_type": "Person",
+      "full_name": "Alfred Bendiner",
+      "cited_name": "Bendiner, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "Philadelphia, Pennsylvania"
+    }
+  ]
+}

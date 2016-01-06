@@ -1,0 +1,51 @@
+{
+  "title": "Sir Richard Rainsford",
+  "creation_date": "1678-1679",
+  "creation_date_earliest": "1678-01-01",
+  "creation_date_latest": "1679-01-01",
+  "medium": "mezzotint",
+  "accession_number": "19.1.124",
+  "id": "cmoa:things/7f4c1e5f-4771-4b97-a8a5-33b0c5df308a",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001889",
+  "provenance_text": "Mrs. Heasley, by Mr. Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54179&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c0a03a95-5c9f-41ba-b95e-2f45839b1e9f",
+      "party_type": "Person",
+      "full_name": "William Wolfgang Claret",
+      "cited_name": "Claret, William Wolfgang",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1635-01-01",
+      "death_date": "1706-01-01",
+      "birth_place": null,
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/23a9f743-0928-4fb9-99fb-029cf572d755",
+      "party_type": "Person",
+      "full_name": "Richard Tompson",
+      "cited_name": "Tompson, Richard",
+      "role": "publisher",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1693-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

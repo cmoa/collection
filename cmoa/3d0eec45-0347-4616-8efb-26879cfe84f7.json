@@ -1,0 +1,39 @@
+{
+  "title": "Celadon Bowl",
+  "creation_date": "c. 2000",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "celadon",
+  "accession_number": "2008.71.3",
+  "id": "cmoa:things/3d0eec45-0347-4616-8efb-26879cfe84f7",
+  "credit_line": "Gift of Larry Gabriel",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 8.0,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=70544",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f01c8f8f-a902-423f-bf07-b903ad9b9ed8",
+      "party_type": "Person",
+      "full_name": "Mary Roehm",
+      "cited_name": "Roehm, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

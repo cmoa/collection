@@ -1,0 +1,39 @@
+{
+  "title": "Chelsea Shops",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "transfer lithograph on paper",
+  "accession_number": "16.1.13",
+  "id": "cmoa:things/e6465c22-e02d-4672-b776-ad1c344bece6",
+  "credit_line": "Gift of the Pittsburgh Etching Club",
+  "date_acquired": "1916-01-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.063,
+  "item_height": 5.187,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001037",
+  "provenance_text": "Pittsburgh Etching Club",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

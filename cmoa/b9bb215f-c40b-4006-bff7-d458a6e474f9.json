@@ -1,0 +1,51 @@
+{
+  "title": "Tohoku District (Tôhoku no bu)",
+  "creation_date": "8/20/1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.422.1",
+  "id": "cmoa:things/b9bb215f-c40b-4006-bff7-d458a6e474f9",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.875,
+  "item_height": 5.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028191",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, CA., 7/20/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35385&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7b16f4ee-3c4c-42d0-badc-7614d3c4a9ad",
+      "party_type": "Person",
+      "full_name": "Hirafuku Hyakusui",
+      "cited_name": "Hirafuku Hyakusui",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1877-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Japan, Akita-ken",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9736e158-c9b3-4bf1-b4f8-8f0917068d02",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô",
+      "cited_name": "Nakajima Jûtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

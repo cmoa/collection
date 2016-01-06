@@ -1,0 +1,39 @@
+{
+  "title": "Goblet",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "gilded bronze",
+  "accession_number": "86.54",
+  "id": "cmoa:things/42eb00a5-5e5d-4ea0-b4a1-5ab8492884e7",
+  "credit_line": "Purchase: gift of Edgar L. Levenson",
+  "date_acquired": "1986-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.687,
+  "item_depth": 0.0,
+  "item_diameter": 4.312,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026153",
+  "provenance_text": "Dwight P. Lanmon, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4294&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74d4ee3e-b18f-46e9-822b-85e081a81cb5",
+      "party_type": "Organization",
+      "full_name": "Tiffany & Co.",
+      "cited_name": "Tiffany & Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Trophy of the Hunt",
+  "creation_date": "1885",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "41.5",
+  "id": "cmoa:things/43c70a50-c1d8-415f-9758-96f97043baf3",
+  "credit_line": "Purchase",
+  "date_acquired": "1941-11-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 21.812,
+  "item_height": 42.438,
+  "item_depth": 3.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007259",
+  "provenance_text": "Downtown Gallery, New York, by 1941; Purchase, 1941",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120522&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/27e4af6e-8f06-4c3e-a31f-812bf8e54dcc",
+      "party_type": "Person",
+      "full_name": "William Michael  Harnett",
+      "cited_name": "Harnett, William M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1892-01-01",
+      "birth_place": "Clonakilty (County Cork, Munster, Ireland)",
+      "death_place": "New York City"
+    }
+  ]
+}

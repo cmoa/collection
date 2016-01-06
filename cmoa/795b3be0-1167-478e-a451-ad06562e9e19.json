@@ -1,0 +1,39 @@
+{
+  "title": "Lawyer Speaking to a Prisoner",
+  "creation_date": null,
+  "creation_date_earliest": "1872-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "etching",
+  "accession_number": "74.7.134",
+  "id": "cmoa:things/795b3be0-1167-478e-a451-ad06562e9e19",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017282",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107589&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/49a00780-8909-4e6c-ac0b-a7975714663e",
+      "party_type": "Person",
+      "full_name": "Jean Louis Forain",
+      "cited_name": "Forain, Jean L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1852-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

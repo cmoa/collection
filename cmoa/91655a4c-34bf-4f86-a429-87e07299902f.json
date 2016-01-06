@@ -1,0 +1,39 @@
+{
+  "title": "Paysages Légendaires",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "74.7.208",
+  "id": "cmoa:things/91655a4c-34bf-4f86-a429-87e07299902f",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017369",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f7f488b0-cf82-4295-a190-7643a7718ecb",
+      "party_type": "Person",
+      "full_name": "Georges Rouault",
+      "cited_name": "Rouault, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1871-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

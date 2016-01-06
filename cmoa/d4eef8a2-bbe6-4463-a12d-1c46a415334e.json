@@ -1,0 +1,51 @@
+{
+  "title": "Horace Beckford",
+  "creation_date": "1792",
+  "creation_date_earliest": "1792-01-01",
+  "creation_date_latest": "1792-01-01",
+  "medium": "engraving",
+  "accession_number": "2006.83.22",
+  "id": "cmoa:things/d4eef8a2-bbe6-4463-a12d-1c46a415334e",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34357",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA, by February 2007; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39290&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/663797e1-04bf-4085-8ee8-a672e58e8042",
+      "party_type": "Person",
+      "full_name": "Jean Condé",
+      "cited_name": "Condé, Jean",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1767-01-01",
+      "death_date": "1794-01-01",
+      "birth_place": "France",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/ea5a05ae-89ab-46b8-a7fc-45c8a38d78cf",
+      "party_type": "Person",
+      "full_name": "Richard Cosway",
+      "cited_name": "Cosway, Richard",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1742-01-01",
+      "death_date": "1821-01-01",
+      "birth_place": " Devon (England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

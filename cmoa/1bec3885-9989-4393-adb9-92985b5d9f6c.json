@@ -1,0 +1,51 @@
+{
+  "title": "Louis XVII",
+  "creation_date": "c. 1825-1850",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.50",
+  "id": "cmoa:things/1bec3885-9989-4393-adb9-92985b5d9f6c",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34434",
+  "provenance_text": "Rolf and Magda Loeber, by February 2007; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48346&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/110bd62c-7a97-4f1b-95a9-776d99aeee8d",
+      "party_type": "Person",
+      "full_name": "Noel Bertrand",
+      "cited_name": "Bertrand, Noel",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1784-01-01",
+      "death_date": "1852-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/30c16662-0204-4a81-b335-032cd692f98f",
+      "party_type": "Person",
+      "full_name": "Auguste François Laby",
+      "cited_name": "Laby, Auguste François",
+      "role": "artist",
+      "nationality": "French",
+      "birth_date": "1784-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Saint John the Baptist",
+  "creation_date": "c. 1505",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1509-12-22",
+  "medium": "engraving",
+  "accession_number": "49.2.6",
+  "id": "cmoa:things/af18e8dd-1947-472f-9373-a3cf64c8cfad",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008693",
+  "provenance_text": "The F. H. Bresler Co.,  Milwaukee, WI; purchased by Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, on October 6, 1924 until January 24, 1949 [1]; his gift to Museum, January 1949.\n\nNotes:\n[1]. Purchased for $1400; see copy of invoice in curatorial file.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101617&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a46efb7-abd8-4fda-95f5-e686b78604c4",
+      "party_type": "Person",
+      "full_name": "Giulio Campagnola",
+      "cited_name": "Campagnola, Giulio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1482-01-01",
+      "death_date": "1515-01-01",
+      "birth_place": "Padua, Italy",
+      "death_place": "Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

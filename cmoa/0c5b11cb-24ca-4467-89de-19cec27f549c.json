@@ -1,0 +1,42 @@
+{
+  "title": "Portrait (Futago)",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "chromogenic print with acrylic paint and gel medium",
+  "accession_number": "92.108.A-D",
+  "id": "cmoa:things/0c5b11cb-24ca-4467-89de-19cec27f549c",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 119.0,
+  "item_height": 83.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030121",
+  "provenance_text": "Luhring Augustine Gallery, New York, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26554&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129351&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f7ab8c3f-a804-4d4f-bc90-4350726ac2c0",
+      "party_type": "Person",
+      "full_name": "Yasumasa Morimura",
+      "cited_name": "Morimura, Yasumasa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Japan, Osaka",
+      "death_place": null
+    }
+  ]
+}

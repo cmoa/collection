@@ -1,0 +1,61 @@
+{
+  "title": "Leg splint",
+  "creation_date": "1941-1942, manufactured c. 1943",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "plywood",
+  "accession_number": "84.112.15",
+  "id": "cmoa:things/ff53c1f2-6cdc-4d11-a195-4820afa974cd",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 7.75,
+  "item_height": 42.5,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024504",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/dea0d1c3-288c-42ff-84c1-c75c9ccdc236",
+      "party_type": "Person",
+      "full_name": "Ray Eames",
+      "cited_name": "Eames, Ray",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Sacramento (Sacramento county, California, United States)",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/0a162a75-b51a-4c73-b6de-671d4f14af45",
+      "party_type": "Organization",
+      "full_name": "Evans Products Company, Molded Plywood Products Division",
+      "cited_name": "Evans Products Company, Molded Plywood Products Division",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

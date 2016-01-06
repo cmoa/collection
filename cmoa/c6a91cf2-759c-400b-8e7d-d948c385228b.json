@@ -1,0 +1,51 @@
+{
+  "title": "Armchair",
+  "creation_date": "1891-1892",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "oak and silk velvet upholstery",
+  "accession_number": "2015.7",
+  "id": "cmoa:things/c6a91cf2-759c-400b-8e7d-d948c385228b",
+  "credit_line": "Ailsa Mellon Bruce Fund and Berdan Memorial Trust Fund",
+  "date_acquired": "2015-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 29.0,
+  "item_height": 45.0,
+  "item_depth": 30.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107283",
+  "provenance_text": "Mr. Henry Osborne Havemeyer (1847-1907) and Mrs. Louisine Havemeyer (1855 - 1929), ca.1891/2 until 1929. Sale, American Art Association, New York, 22 Apr. 1930, no. 3841, lot 47. Lillian Nassau LLC, New York, early 1960s; Peter Grant, London, early 1960s-1992; Paul Reeves Limited, London, 1992; Margot Johnson, New York, 1992; The Louis C. Tiffany Garden Museum, Matsue, Japan, 1992 until 2013; sale, Michaan’s Auction’s, Alameda, CA, May 2013. Margot Johnson, New York, 2014 until May 7, 2015; Museum purchased from Margot Johnson, May 7, 2015.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146914&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aaf1b25a-4951-4fd9-abb9-f2c9bd59efe4",
+      "party_type": "Person",
+      "full_name": "Louis Comfort Tiffany",
+      "cited_name": "Tiffany, Louis C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/1a03a9cb-c279-4da1-ab72-9f023e423df4",
+      "party_type": "Person",
+      "full_name": "Samuel Colman",
+      "cited_name": "Colman, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1832-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Portland (Cumberland county, Maine, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

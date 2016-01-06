@@ -1,0 +1,39 @@
+{
+  "title": "Western University of Pennsylvania",
+  "creation_date": "1833",
+  "creation_date_earliest": "1833-01-01",
+  "creation_date_latest": "1833-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "75.19.6",
+  "id": "cmoa:things/9dccee1b-307b-4a83-9646-e42a25ad90f9",
+  "credit_line": "Received from the Carnegie Museum of Natural History in exchange for Works from the Robert S. Waters Estate",
+  "date_acquired": "1975-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 18.125,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017679",
+  "provenance_text": "Russell Smith [1812-1896], until 1885; Historical Society of Western Pennsylvania [1859-], Pittsburgh, 1885 until 1897; Carnegie Institute Museum of Natural History, Pittsburgh, by 1916 until 1975 [1]; Museum by exchange, in 1975 [2]. \nNOTES:1. On loan to Carnegie Library, Pittsburgh, 1916-1975 2. Recieved from the Carnegie Museum of Natural History in exchange for works from the Robert S. Waters Estate, 1975",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38154&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c586573-c1d9-4b99-bb76-4b9d863b0977",
+      "party_type": "Person",
+      "full_name": "Russell Smith",
+      "cited_name": "Smith, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1812-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

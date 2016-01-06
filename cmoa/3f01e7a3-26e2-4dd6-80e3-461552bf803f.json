@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1896",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.32",
+  "id": "cmoa:things/3f01e7a3-26e2-4dd6-80e3-461552bf803f",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023475",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3703&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5efe43d-689a-4dcb-88d9-414f9c0535c5",
+      "party_type": "Person",
+      "full_name": "Adams",
+      "cited_name": "Adams",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

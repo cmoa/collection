@@ -1,0 +1,39 @@
+{
+  "title": "How many women artists had one-person exhibitions in NYC art museums last year?",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "offset laser or inkjet print poster",
+  "accession_number": "2013.3.3",
+  "id": "cmoa:things/edb3318e-87cd-499d-a615-f916d03a74e6",
+  "credit_line": "Alan D. and Marsha W. Bramowitz Contemporary Print Acquisition Fund",
+  "date_acquired": "2013-02-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.75,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101277",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120362&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0312fc7-29a9-4400-9cda-20688fae1806",
+      "party_type": "Organization",
+      "full_name": "Guerrilla Girls",
+      "cited_name": "Guerrilla Girls",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1985-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

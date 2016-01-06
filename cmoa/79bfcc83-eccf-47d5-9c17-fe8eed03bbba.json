@@ -1,0 +1,45 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "silver",
+  "accession_number": "2.26.A-B.UN",
+  "id": "cmoa:things/79bfcc83-eccf-47d5-9c17-fe8eed03bbba",
+  "credit_line": "Collection of Mr. and Mrs. George T. Haldeman",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.5,
+  "item_depth": 0.0,
+  "item_diameter": 7.312,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000080",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5908&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5910&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5909&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11bf99fa-e1b8-4938-8e60-6af2fd90a710",
+      "party_type": "Organization",
+      "full_name": "R. & W. Wilson",
+      "cited_name": "Wilson, R. & W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1846-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

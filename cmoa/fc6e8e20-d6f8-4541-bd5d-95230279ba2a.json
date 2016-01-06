@@ -1,0 +1,39 @@
+{
+  "title": "Formation des Gammes",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "ink drawing",
+  "accession_number": "62.40",
+  "id": "cmoa:things/fc6e8e20-d6f8-4541-bd5d-95230279ba2a",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1962-12-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011584",
+  "provenance_text": "Peter Deitsch, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94778&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3aedcb4-9d47-49ac-b1d8-10212d4818d5",
+      "party_type": "Person",
+      "full_name": "Pierre Bonnard",
+      "cited_name": "Bonnard, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-10-03",
+      "death_date": "1947-01-27",
+      "birth_place": "Fontenay-aux-Roses, France",
+      "death_place": "Cannet, France"
+    }
+  ]
+}

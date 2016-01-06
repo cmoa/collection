@@ -1,0 +1,39 @@
+{
+  "title": "James Stiles, son of John and Hannah Stiles",
+  "creation_date": "1830",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2007.70",
+  "id": "cmoa:things/a845a199-365a-41b0-9e36-2721d32f8f05",
+  "credit_line": "Gift of Mr. and Mrs. Charles H. Harff in honor of Ethel Stiles Tefft",
+  "date_acquired": "2007-12-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 24.0,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=50063",
+  "provenance_text": "Charles Harff, Sewickley, PA, until 2007. Gift to Museum, 2007.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57980&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/97407585-f7b8-434b-8d7a-1fa0c628c0ac",
+      "party_type": "Person",
+      "full_name": "Robert Street",
+      "cited_name": "Street, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1796-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "Germantown (Pike county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

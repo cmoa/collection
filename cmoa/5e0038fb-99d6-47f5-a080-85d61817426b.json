@@ -1,0 +1,37 @@
+{
+  "title": "Bowl",
+  "creation_date": "1920-1924",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "glass",
+  "accession_number": "2006.38",
+  "id": "cmoa:things/5e0038fb-99d6-47f5-a080-85d61817426b",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2006-06-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 10.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26980",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c54109aa-6ab3-41bd-97b2-17d54fbdfdf2",
+      "party_type": "Organization",
+      "full_name": "Steuben Glass Works",
+      "cited_name": "Steuben Glass Works",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "The Right Honorable William Pitt",
+  "creation_date": "1898",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "14.5.2",
+  "id": "cmoa:things/c9ed37d2-13f1-46e1-9013-f3758bd4445a",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-03-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000953",
+  "provenance_text": "The Century Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110892&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110893&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/413da34d-19da-4c40-a3e7-0a56849a6386",
+      "party_type": "Person",
+      "full_name": "Timothy Cole",
+      "cited_name": "Cole, Timothy",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Poughkeepsie (Dutchess county, New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/5a77375f-b3d7-4b11-92ad-6937011fa53b",
+      "party_type": "Person",
+      "full_name": "John Hoppner",
+      "cited_name": "Hoppner, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1758-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

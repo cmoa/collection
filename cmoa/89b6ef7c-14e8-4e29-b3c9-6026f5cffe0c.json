@@ -1,0 +1,39 @@
+{
+  "title": "Cathedral of Learning",
+  "creation_date": "1930s",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "etching",
+  "accession_number": "39.4",
+  "id": "cmoa:things/89b6ef7c-14e8-4e29-b3c9-6026f5cffe0c",
+  "credit_line": "Gift of University of Pittsburgh",
+  "date_acquired": "1939-04-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007104",
+  "provenance_text": "Louis Orr [1879-1961]. University of Pittsburgh, Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80987&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de305a0d-f058-45bd-97d3-7a718fe9d993",
+      "party_type": "Person",
+      "full_name": "Louis Orr",
+      "cited_name": "Orr, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": null
+    }
+  ]
+}

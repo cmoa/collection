@@ -1,0 +1,39 @@
+{
+  "title": "Bust",
+  "creation_date": "100-199",
+  "creation_date_earliest": "0100-01-03",
+  "creation_date_latest": "0199-01-02",
+  "medium": "terracotta, modern bronze mount and wooden pedestal",
+  "accession_number": "75.27.3",
+  "id": "cmoa:things/5666d382-0e03-419a-af12-dc3d0e9afb18",
+  "credit_line": "Walter Read Hovey Collection",
+  "date_acquired": "1975-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.125,
+  "item_depth": 0.0,
+  "item_diameter": 1.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017730",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3050&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0163d202-acef-4160-a7ff-73bf17c9a8ed",
+      "party_type": "Person",
+      "full_name": "unknown Greek, Alexandria",
+      "cited_name": "unknown Greek, Alexandria",
+      "role": null,
+      "nationality": "Greek",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

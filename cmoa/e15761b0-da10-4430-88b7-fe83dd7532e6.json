@@ -1,0 +1,54 @@
+{
+  "title": "Pilgrim bottle",
+  "creation_date": "1867",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "94.1",
+  "id": "cmoa:things/e15761b0-da10-4430-88b7-fe83dd7532e6",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1994-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 5.5,
+  "item_height": 6.0,
+  "item_depth": 2.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034686",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97581&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1570&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eff7a010-f38d-4a7d-bd64-285a87d83522",
+      "party_type": "Organization",
+      "full_name": "Minton & Co.",
+      "cited_name": "Minton & Co.",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

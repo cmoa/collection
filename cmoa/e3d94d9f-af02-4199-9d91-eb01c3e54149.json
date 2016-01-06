@@ -1,0 +1,48 @@
+{
+  "title": "Brass Sculpture No. 23",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "brass",
+  "accession_number": "62.38",
+  "id": "cmoa:things/e3d94d9f-af02-4199-9d91-eb01c3e54149",
+  "credit_line": "Patrons Art Fund: anonymous gift",
+  "date_acquired": "1962-12-20",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 27.5,
+  "item_depth": 11.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011578",
+  "provenance_text": "Kent Bloomer",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126258&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126259&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126260&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126261&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e310a927-ceb6-4dba-ba4e-565cf2e04c0d",
+      "party_type": "Person",
+      "full_name": "Kent C. Bloomer",
+      "cited_name": "Bloomer, Kent C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Mount Vernon, NY",
+      "death_place": null
+    }
+  ]
+}

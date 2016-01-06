@@ -1,0 +1,39 @@
+{
+  "title": "Tourelle, Rue de la Tixéranderie",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "pencil",
+  "accession_number": "17.30.2",
+  "id": "cmoa:things/3e17b6d8-fa46-4e84-b420-63479b5f033a",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001549",
+  "provenance_text": "M. Knoedler & Company, Inc",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84814&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab6edf6d-1e81-4147-8def-aadd0e531b16",
+      "party_type": "Person",
+      "full_name": "Charles Meryon",
+      "cited_name": "Meryon, Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1821-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Charenton-le-Pont (Val-de-Marne, Ile-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Mies",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "chromed steel, rubber, and hide",
+  "accession_number": "2001.8.1.A-B",
+  "id": "cmoa:things/a712ec2d-7679-43da-8493-699337cb38ce",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 29.0,
+  "item_height": 31.5,
+  "item_depth": 51.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004422",
+  "provenance_text": "Urban Architecture, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=20599&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c00915b-9eda-443a-853a-2745ea7658a6",
+      "party_type": "Organization",
+      "full_name": "Archizoom Associates",
+      "cited_name": "Archizoom Associates",
+      "role": "designers",
+      "nationality": "Italian",
+      "birth_date": "1966-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c68b4f9c-3615-4895-bbde-878be6a08522",
+      "party_type": "Organization",
+      "full_name": "Poltronova",
+      "cited_name": "Poltronova",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

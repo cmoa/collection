@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Nobleman",
+  "creation_date": "c. 1550",
+  "creation_date_earliest": "1544-12-22",
+  "creation_date_latest": "1554-12-22",
+  "medium": "oil on panel",
+  "accession_number": "74.7.10",
+  "id": "cmoa:things/3af21c90-a252-46e5-800a-b15ef3b0a06e",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.375,
+  "item_height": 20.375,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017253",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23541&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/984a3fe3-df16-4391-bb6a-1d1de3f8ab86",
+      "party_type": "Person",
+      "full_name": "Lucas Cranach the Younger",
+      "cited_name": "Cranach the younger, Lucas",
+      "role": "manner of",
+      "nationality": "German",
+      "birth_date": "1515-01-01",
+      "death_date": "1586-01-01",
+      "birth_place": "Wittenberg (Halle district, Saxony-Anhalt, Germany)",
+      "death_place": "Weimar (Erfurt district, Thuringia, Germany)"
+    }
+  ]
+}

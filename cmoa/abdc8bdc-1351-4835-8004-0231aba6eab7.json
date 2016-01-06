@@ -1,0 +1,39 @@
+{
+  "title": "Country Scene",
+  "creation_date": null,
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.273",
+  "id": "cmoa:things/abdc8bdc-1351-4835-8004-0231aba6eab7",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012862",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108288&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a36a7a8-e036-4d16-b04e-e8704ff33903",
+      "party_type": "Person",
+      "full_name": "Stow Wengenroth",
+      "cited_name": "Wengenroth, Stow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Brooklyn, NY",
+      "death_place": "Rockport, MA"
+    }
+  ]
+}

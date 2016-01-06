@@ -1,0 +1,42 @@
+{
+  "title": "Busses in the Square (Sic)",
+  "creation_date": "1925",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "etching",
+  "accession_number": "83.81.13",
+  "id": "cmoa:things/e090cbf8-f7c2-4d8a-9ff6-d00836865f53",
+  "credit_line": "Gift of John D. Egan, Jr.",
+  "date_acquired": "1983-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024232",
+  "provenance_text": "John D. Egan, Jr., Wilmington, Delaware",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101212&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101213&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aaf3191-56f4-4bed-bbcc-a9e68b02c6a6",
+      "party_type": "Person",
+      "full_name": "John Sloan",
+      "cited_name": "Sloan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Lock Haven, Pennsylvania",
+      "death_place": "Hanover, New Hampshire"
+    }
+  ]
+}

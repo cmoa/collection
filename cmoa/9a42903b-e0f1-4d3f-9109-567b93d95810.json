@@ -1,0 +1,39 @@
+{
+  "title": "Florence",
+  "creation_date": "1875",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.14",
+  "id": "cmoa:things/9a42903b-e0f1-4d3f-9109-567b93d95810",
+  "credit_line": "Richard K. Mellon Family Foundation, Pre-Twentieth-century Painting Fund; Mrs. George R. Gibbons Fund; and Painting Acquisition Fund",
+  "date_acquired": "1982-04-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 20.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022280",
+  "provenance_text": "James Maroney, New York, by 1982; purchased by Museum, 1982.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8052&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/817f8e91-05e5-41ae-aac3-c647ee35821e",
+      "party_type": "Person",
+      "full_name": "Jasper Francis Cropsey",
+      "cited_name": "Cropsey, Jasper F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1823-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": " Rossville (Orange county, New York state, United States)",
+      "death_place": " Hastings-on-Hudson (Westchester county, New York state, United States)"
+    }
+  ]
+}

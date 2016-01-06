@@ -1,0 +1,39 @@
+{
+  "title": "Snow Valley",
+  "creation_date": "1960s?",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "69.48.196",
+  "id": "cmoa:things/db446473-14fb-4471-9260-177c2c9b928f",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012776",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108122&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/370b424e-3a37-49e1-bf9f-86ecd8984dc0",
+      "party_type": "Person",
+      "full_name": "William MacLean",
+      "cited_name": "MacLean, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

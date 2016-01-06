@@ -1,0 +1,39 @@
+{
+  "title": "Kyoto, Gajo-Bashi",
+  "creation_date": "1860",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1501.26",
+  "id": "cmoa:things/fe234a7e-59c1-47fd-ac61-362713d0a704",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.125,
+  "item_height": 15.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027444",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fcaf3c09-9cc0-4475-9593-f6d964b93d07",
+      "party_type": "Person",
+      "full_name": "Yoshi-ikku Ichiyûsai",
+      "cited_name": "Yoshi-ikku Ichiyûsai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1833-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

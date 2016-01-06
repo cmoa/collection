@@ -1,0 +1,39 @@
+{
+  "title": "Tumuli",
+  "creation_date": null,
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "woodcut in color",
+  "accession_number": "55.12.2",
+  "id": "cmoa:things/92cf09ad-9fa5-4867-9470-495add3db3da",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.062,
+  "item_height": 12.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009368",
+  "provenance_text": "Kraushaar Galleries, New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103740&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/812d738c-2862-4e53-9c1f-adc2f774c8ad",
+      "party_type": "Person",
+      "full_name": "Wörden Day",
+      "cited_name": "Day, Wörden",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Ohio",
+      "death_place": "Montclair, New Jersey"
+    }
+  ]
+}

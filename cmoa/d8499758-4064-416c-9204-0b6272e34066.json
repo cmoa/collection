@@ -1,0 +1,39 @@
+{
+  "title": "Arabesque",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "glass",
+  "accession_number": "2009.34",
+  "id": "cmoa:things/d8499758-4064-416c-9204-0b6272e34066",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 20.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82114",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103004&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3f1c87a-06f6-466f-b019-26b3982ca623",
+      "party_type": "Person",
+      "full_name": "Kathleen Mulcahy",
+      "cited_name": "Mulcahy, Kathleen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Newark, NJ",
+      "death_place": null
+    }
+  ]
+}

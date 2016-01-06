@@ -1,0 +1,39 @@
+{
+  "title": "Cubist Composition #2",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "1999.12",
+  "id": "cmoa:things/0cb0e8a5-272f-43df-afdd-21d57e4855ea",
+  "credit_line": "Foster Charitable Trust Fund",
+  "date_acquired": "1999-04-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003841",
+  "provenance_text": "Kraushaar Galleries, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65536&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e70132f7-c4b7-4c51-a4f9-2fa1e07daa17",
+      "party_type": "Person",
+      "full_name": "Blanche Lazzell",
+      "cited_name": "Lazzell, Blanche",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": " Maidsville (Monongalia county, West Virginia, United States)",
+      "death_place": null
+    }
+  ]
+}

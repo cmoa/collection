@@ -1,0 +1,42 @@
+{
+  "title": "Relief of Outer Picket",
+  "creation_date": "1887",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "crayon and pen and ink on cardboard",
+  "accession_number": "06.3.13",
+  "id": "cmoa:things/be7af391-d946-4b38-82d5-dd308f7f0f70",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-11-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000225",
+  "provenance_text": "The Century Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89427&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d25df2d-ee53-407b-9727-3c77d390735f",
+      "party_type": "Person",
+      "full_name": "Winslow Homer",
+      "cited_name": "Homer, Winslow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-02-24",
+      "death_date": "1910-09-29",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "Prouts Neck (Cumberland county, Maine, United States)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Plantation Road",
+  "creation_date": "1944-1945",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil and tempera on canvas mounted on plywood",
+  "accession_number": "46.22",
+  "id": "cmoa:things/02b8b2cd-8f2a-4a91-9958-5e19b5e8e795",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1946-10-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 39.375,
+  "item_height": 28.5,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007925",
+  "provenance_text": "Thomas Hart Benton [1889-1975], until 1946; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1946.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132917&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56849&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156b5136-bf28-44b6-97fe-463da5796144",
+      "party_type": "Person",
+      "full_name": "Thomas Hart Benton",
+      "cited_name": "Benton, Thomas Hart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Neosho (Newton county, Missouri, United States)",
+      "death_place": "Kansas City (Jackson county, Missouri, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of E. Berry Wall",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "39.1",
+  "id": "cmoa:things/ae854e0e-4eb4-4ab5-82d0-668621b60fe9",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1939-01-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 38.0,
+  "item_height": 48.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007086",
+  "provenance_text": "purchased by Museum from the artist through the International Exhibition, December 1938.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24317&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29038f01-7604-4deb-aae4-8ccf568b4fef",
+      "party_type": "Person",
+      "full_name": "Kees van Dongen",
+      "cited_name": "Dongen, Kees van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1877-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Delfshaven",
+      "death_place": "Monte Carlo"
+    }
+  ]
+}

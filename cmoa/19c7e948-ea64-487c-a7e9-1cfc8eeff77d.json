@@ -1,0 +1,42 @@
+{
+  "title": "On Earth Peace",
+  "creation_date": "c. 1942",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "43.4.47",
+  "id": "cmoa:things/19c7e948-ea64-487c-a7e9-1cfc8eeff77d",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007437",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101095&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101096&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c93b85a2-9f1f-4e02-bf54-090918fe7976",
+      "party_type": "Person",
+      "full_name": "Rockwell Kent",
+      "cited_name": "Kent, Rockwell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " Tarrytown (Albany county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lines and Planes No. 1",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.16",
+  "id": "cmoa:things/6d5c23c6-57bc-4c0f-8e4b-8b82d2906ee7",
+  "credit_line": "Mary Oliver Robinson Memorial Fund",
+  "date_acquired": "1982-04-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.75,
+  "item_height": 35.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022282",
+  "provenance_text": "Martin Diamond Fine Arts, New York, by 1982; Mary Oliver Robinson Memorial Fund, 1982",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3277d9ea-671e-4fe3-afd1-09169491f008",
+      "party_type": "Person",
+      "full_name": "John Sennhauser",
+      "cited_name": "Sennhauser, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Rorschach, Switzerland",
+      "death_place": null
+    }
+  ]
+}

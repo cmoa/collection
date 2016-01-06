@@ -1,0 +1,39 @@
+{
+  "title": "Sugar basket",
+  "creation_date": "c. 1900-1901",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "silver",
+  "accession_number": "74.13.1.8",
+  "id": "cmoa:things/b525b1d8-a3cb-41cd-b078-7a36d3566869",
+  "credit_line": "Gift of Mrs. David Y. Cooper",
+  "date_acquired": "1974-05-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 8.75,
+  "item_depth": 5.187,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016916",
+  "provenance_text": "Ex-coll: Andrew Carnegie\nEx-coll: Florence Nightengale Carnegie, Andrew Carnegie's niece\nEx-coll: Cynthia Cooper (Mrs. David P.), Florence Nightengale Carnegie's granddaughter.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f20f931-6c20-471f-8daa-69c032b2722a",
+      "party_type": "Organization",
+      "full_name": "Samuel Kirk & Son",
+      "cited_name": "Kirk, Samuel & Son",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": null,
+      "birth_place": "Baltimore, MD",
+      "death_place": null
+    }
+  ]
+}

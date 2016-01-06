@@ -1,0 +1,47 @@
+{
+  "title": "Shelving Unit \"Ellen's Brackets\"",
+  "creation_date": "2000; designed 1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "extruded aluminum",
+  "accession_number": "2000.48.A-JJ",
+  "id": "cmoa:things/d4dc34df-a81f-4742-af40-cde9bd702c53",
+  "credit_line": "Gift Of Designer And Parallel Design Partnership",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.0,
+  "item_height": 3.5,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004071",
+  "provenance_text": "Ali Tayar And Parallel Design Partnership, New York, NY",
+  "classification": "Metals",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3b04c18-3f2d-4131-b149-18be33fc33e8",
+      "party_type": "Person",
+      "full_name": "Ali Tayar",
+      "cited_name": "Tayar, Ali",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "Istanbul, Turkey",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/591a590c-2bc9-46d2-a5e4-326348b20f91",
+      "party_type": "Organization",
+      "full_name": "Parallel Design Partnership",
+      "cited_name": "Parallel Design Partnership",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1992-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

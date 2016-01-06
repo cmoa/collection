@@ -1,0 +1,51 @@
+{
+  "title": "Title Page for Bible",
+  "creation_date": "1642",
+  "creation_date_earliest": "1642-01-01",
+  "creation_date_latest": "1642-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.113",
+  "id": "cmoa:things/c3d979c9-00af-4990-96a0-1a247325df45",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.313,
+  "item_height": 16.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005333",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102672&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/05a50466-ae4f-4b7f-9181-c5a5e821eae2",
+      "party_type": "Person",
+      "full_name": "Nicolas Poussin",
+      "cited_name": "Poussin, Nicolas",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1594-01-01",
+      "death_date": "1665-01-01",
+      "birth_place": "Les Andelys (Eure, Haute-Normandie, France)",
+      "death_place": "Rome, Italy"
+    }
+  ]
+}

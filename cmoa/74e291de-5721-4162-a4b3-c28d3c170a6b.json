@@ -1,0 +1,39 @@
+{
+  "title": "Madonna and Child from Venice Series",
+  "creation_date": "c. 1949-1951",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "85.80.14",
+  "id": "cmoa:things/74e291de-5721-4162-a4b3-c28d3c170a6b",
+  "credit_line": "Gift of Irene Pasinski",
+  "date_acquired": "1986-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025792",
+  "provenance_text": "Irene Pasinski, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111203&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da609856-ab28-468f-b694-27e326e084f1",
+      "party_type": "Person",
+      "full_name": "Henri Matisse",
+      "cited_name": "Matisse, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1869-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": "Le Cateau-Cambrésis (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Nice (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

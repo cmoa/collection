@@ -1,0 +1,51 @@
+{
+  "title": "Office Building; \"Rockefeller Building,\" Cleveland, OH; [exterior perspective]",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "watercolor and pencil on paper",
+  "accession_number": "92.51",
+  "id": "cmoa:things/a497ddbf-56a4-43b0-a3fb-b30135f4b60d",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-06-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032510",
+  "provenance_text": "Wolf's Auctioneers and Appraisers, OH, Cleveland",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103079&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8b4d2eca-af50-43dd-a2fc-8c1fda6f09c1",
+      "party_type": "Person",
+      "full_name": "Frank Walker",
+      "cited_name": "Walker, Frank",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/32c049ab-a8f5-4913-800e-ab15bc541a09",
+      "party_type": "Person",
+      "full_name": "Harry Weeks",
+      "cited_name": "Weeks, Harry",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

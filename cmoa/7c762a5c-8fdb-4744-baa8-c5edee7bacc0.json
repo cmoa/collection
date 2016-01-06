@@ -1,0 +1,49 @@
+{
+  "title": "Book stand",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oak",
+  "accession_number": "83.46",
+  "id": "cmoa:things/7c762a5c-8fdb-4744-baa8-c5edee7bacc0",
+  "credit_line": "Gift of Jordan Volpe Gallery",
+  "date_acquired": "1983-06-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.75,
+  "item_height": 43.0,
+  "item_depth": 13.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023830",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/325de0aa-dfa8-4e8b-a275-08d98ff81c40",
+      "party_type": "Person",
+      "full_name": "Gustav Stickley",
+      "cited_name": "Stickley, Gustav",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": "Osceola, WI",
+      "death_place": "Syracuse, NY"
+    },
+    {
+      "artist_id": "cmoa:parties/77cf599e-45c8-49fd-bf99-e09b087f918e",
+      "party_type": "Organization",
+      "full_name": "Tobey Furniture Company",
+      "cited_name": "Tobey Furniture Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

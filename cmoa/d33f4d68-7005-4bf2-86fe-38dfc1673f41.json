@@ -1,0 +1,39 @@
+{
+  "title": "Roofs",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "stencil print on paper",
+  "accession_number": "89.28.1045",
+  "id": "cmoa:things/d33f4d68-7005-4bf2-86fe-38dfc1673f41",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.188,
+  "item_height": 18.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026760",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35834&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a46be07e-863e-42a3-a4a0-4f1761df6151",
+      "party_type": "Person",
+      "full_name": "Mori Yoshitoshi",
+      "cited_name": "Mori Yoshitoshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1898-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    }
+  ]
+}

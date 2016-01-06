@@ -1,0 +1,39 @@
+{
+  "title": "Pink Leaf",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "wood painted black",
+  "accession_number": "57.1",
+  "id": "cmoa:things/223ea97d-00f0-4f3e-b35d-99ecd403788d",
+  "credit_line": "Anonymous gift",
+  "date_acquired": "1957-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 26.25,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010436",
+  "provenance_text": "Anonymous donor, by April 1957; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1957.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=46807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee1ced5b-4fff-4eaf-83bd-124d2c987062",
+      "party_type": "Person",
+      "full_name": "Louise Nevelson",
+      "cited_name": "Nevelson, Louise",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Kiev, Russia, present-day Ukraine",
+      "death_place": "New York"
+    }
+  ]
+}

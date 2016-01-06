@@ -1,0 +1,39 @@
+{
+  "title": "Magritte with hydrangeas",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "chromogenic print with hand applied text",
+  "accession_number": "2009.31.8",
+  "id": "cmoa:things/e296714e-e8a2-4395-9509-394ff8e2fc3b",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.875,
+  "item_height": 5.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82340",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94528&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

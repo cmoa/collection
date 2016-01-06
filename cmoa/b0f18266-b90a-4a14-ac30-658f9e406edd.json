@@ -1,0 +1,42 @@
+{
+  "title": "Christ at the Home of Mary and Martha",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "07.3",
+  "id": "cmoa:things/b0f18266-b90a-4a14-ac30-658f9e406edd",
+  "credit_line": "Purchase",
+  "date_acquired": "1907-11-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 41.5,
+  "item_height": 51.5,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000313",
+  "provenance_text": "Henry Ossawa Tanner [1859-1937], until November 19, 1907; purchased by Museum, November 19, 1907.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16444&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57274&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/413a893a-9ebc-46eb-afee-39a438f96a97",
+      "party_type": "Person",
+      "full_name": "Henry Ossawa Tanner",
+      "cited_name": "Tanner, Henry O.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

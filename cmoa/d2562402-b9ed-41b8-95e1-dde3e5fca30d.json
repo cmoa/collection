@@ -1,0 +1,39 @@
+{
+  "title": "Hanukkah lamp",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "silver",
+  "accession_number": "77.83.46",
+  "id": "cmoa:things/d2562402-b9ed-41b8-95e1-dde3e5fca30d",
+  "credit_line": "Gift of Stanley and Charlotte Bernstein",
+  "date_acquired": "1978-02-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 12.375,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019085",
+  "provenance_text": "Stanley and Charlotte Bernstein",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9091&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/615ca46a-c362-486b-8579-b6b75a086dea",
+      "party_type": "Person",
+      "full_name": "unknown Jewish, North African",
+      "cited_name": "unknown Jewish, North African",
+      "role": "probably by",
+      "nationality": "African",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

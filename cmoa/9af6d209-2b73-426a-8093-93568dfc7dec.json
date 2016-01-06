@@ -1,0 +1,39 @@
+{
+  "title": "Australia II",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "steel",
+  "accession_number": "2002.32.8",
+  "id": "cmoa:things/9af6d209-2b73-426a-8093-93568dfc7dec",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 48.0,
+  "item_height": 65.0,
+  "item_depth": 36.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=367",
+  "provenance_text": "Collection of Charles H. Carpenter, Jr., before 2002; Partial gift of Charles H. Carpenter and museum purchase, 2002. \n\nTBF 10/31/14",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100684&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/134dc90b-e2ac-45a4-93fc-81f398c09458",
+      "party_type": "Person",
+      "full_name": "Richard Peter Stankiewicz",
+      "cited_name": "Stankiewicz, Richard P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Worthington, MA"
+    }
+  ]
+}

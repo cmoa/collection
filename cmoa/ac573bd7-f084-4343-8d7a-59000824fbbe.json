@@ -1,0 +1,42 @@
+{
+  "title": "L'Isle de la Cite",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "etching on paper",
+  "accession_number": "49.5.3",
+  "id": "cmoa:things/ac573bd7-f084-4343-8d7a-59000824fbbe",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008750",
+  "provenance_text": "Roi Partridge [1888-1984]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103754&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72678&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/781aa32e-802c-4c97-9107-8034d03971f2",
+      "party_type": "Person",
+      "full_name": "Roi Partridge",
+      "cited_name": "Partridge, Roi",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Centralia (Lewis county, Washington, United States)",
+      "death_place": "Walnut Creek (Contra Costa county, California, United States)"
+    }
+  ]
+}

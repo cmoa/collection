@@ -1,0 +1,45 @@
+{
+  "title": "The Garden in the Rue Cortot, Montmartre",
+  "creation_date": "1876",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1876-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.35",
+  "id": "cmoa:things/47822a57-46d7-4e4f-9ffb-6e72cce533f8",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife",
+  "date_acquired": "1965-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 60.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011959",
+  "provenance_text": "Pierre Auguste Renoir [1841-1919], France; Eugène Murer [1846-1906], Paris, France and Auvers-sur-Oise, France, until 1884; with Galerie Durand-Ruel, Paris, France, 1884 until 1886 [1]; possibly Pierre Auguste Renoir [1841-1919], Paris, France [2]; acquired by Galerie Durand-Ruel, Paris, France, on April 29, 1890 [3]; Durand-Ruel Gallery, New York, NY, 1917; Sam Salz, New York, NY [4]; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, December 1965. \n\nNotes:\n[1]. Livre de depôt no. D. 10078, with no indication of provenance, but ‘Murer, sans doute’, as per letter from Charles Durand-Ruel to Sam Salz, November 2, 1965 in curatorial file. \n[2]. See \"Renoir: Catalogue raisonné des tableaux, pastels, dessins et aquarelles\" by Guy-Patrice et Michel Dauberville avec la collaboration de Camille Fremontier-Murphy, volume 1, no. 96.\n[3]. Acquired for 500 F, as per reference in note [2] above; Durand-Ruel no. 1530, D. 13796.\n[4]. Sam Salz was President of 19th and 20th Century French Art, Inc. in New York.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132413&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129329&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129330&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44cf7f5e-cf2f-4ad6-ba20-97fabb279d29",
+      "party_type": "Person",
+      "full_name": "Pierre Auguste Renoir",
+      "cited_name": "Renoir, Pierre A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1841-02-25",
+      "death_date": "1919-12-03",
+      "birth_place": "Limoges, France",
+      "death_place": "Cagnes-sur-Mer, France"
+    }
+  ]
+}

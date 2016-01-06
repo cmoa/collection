@@ -1,0 +1,51 @@
+{
+  "title": "François Servien, Bishop de Bayeux",
+  "creation_date": "1656",
+  "creation_date_earliest": "1656-01-01",
+  "creation_date_latest": "1656-01-01",
+  "medium": "engraving",
+  "accession_number": "19.11.3",
+  "id": "cmoa:things/abb9c320-f264-4cf3-8724-d99b303d2d9e",
+  "credit_line": "Purchase (F.A.C.)",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 13.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001895",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105601&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/194624ba-1b43-4910-9daa-19bddd73c69c",
+      "party_type": "Person",
+      "full_name": "Robert Nanteuil",
+      "cited_name": "Nanteuil, Robert",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1623-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/8404a038-c1e2-4b71-8560-a7cef67a249d",
+      "party_type": "Person",
+      "full_name": "Philippe de Champaigne",
+      "cited_name": "Champaigne, Philippe de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

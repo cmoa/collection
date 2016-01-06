@@ -1,0 +1,39 @@
+{
+  "title": "Head of George Sotter",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "bronze",
+  "accession_number": "69.26",
+  "id": "cmoa:things/22db6123-b83d-46c8-af74-16f870b6f868",
+  "credit_line": "Bequest of Alice B. Sotter",
+  "date_acquired": "1969-09-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 19.75,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012547",
+  "provenance_text": "Charles Hargens, Executor of Sotter Estate, Doylestown, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/980dcfcd-f2ae-4060-adfd-537a39a8bd71",
+      "party_type": "Person",
+      "full_name": "Charles Rudy",
+      "cited_name": "Rudy, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "York (York county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

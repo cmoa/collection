@@ -1,0 +1,39 @@
+{
+  "title": "The Bath (Le bain)",
+  "creation_date": "c. 1895",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.37.1",
+  "id": "cmoa:things/cf6350dd-23fc-4c01-b13d-442a47fc84f4",
+  "credit_line": "Acquired through the generosity of Mrs. Alan M. Scaife",
+  "date_acquired": "1962-12-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 45.75,
+  "item_height": 33.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011575",
+  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917], France, until 1917; Atelier Degas, Paris, France, after 1917; (sold at Galerie Georges Petit, Paris, France, May 6, 1918 until May 8, 1918, no. 39, illustrated) [1]; purchased by Ambroise Vollard, Paris, France [2]. Purchased by Sam Salz, Inc., New York, NY, May 6, 1940?, stock no. 11301 [3]; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, December 1962. \nNOTES: [1] This was the first sale of Atelier Degas. [2] possibly in shares with Durand-Ruel, Paris for 10,100 francs. [3] This work was possibly purchased on May 6, 1940.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8038&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23a88d6c-02e1-46e5-97a4-8246ca906f93",
+      "party_type": "Person",
+      "full_name": "Hilaire-Germain-Edgar Degas",
+      "cited_name": "Degas, Hilaire-Germain-Edgar",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1834-07-19",
+      "death_date": "1917-09-27",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

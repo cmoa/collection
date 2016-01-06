@@ -1,0 +1,63 @@
+{
+  "title": "Father and Son on a Night Train",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.711.1",
+  "id": "cmoa:things/af28c241-7e89-47c2-8537-3ea0d1334ae1",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 7.687,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028720",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35944&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a4e5b4d2-af09-410f-af23-4885b4aae0fb",
+      "party_type": "Person",
+      "full_name": "Kitaoka Fumio",
+      "cited_name": "Kitaoka Fumio",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1918-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/68f804dc-682d-4642-94a4-7e363866b7bc",
+      "party_type": "Person",
+      "full_name": "Hiratsuka Un'ichi",
+      "cited_name": "Hiratsuka Un'ichi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Japan, Matsue",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/adff254f-adc8-4973-b839-b8b0b4bc0eb4",
+      "party_type": "Organization",
+      "full_name": "Kitsutsukikai",
+      "cited_name": "Kitsutsukikai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

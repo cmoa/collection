@@ -1,0 +1,39 @@
+{
+  "title": "The Lido",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "etching",
+  "accession_number": "81.20.2",
+  "id": "cmoa:things/814ef9a6-303f-4cc6-b243-3538128f9254",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.312,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021741",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72717&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/61b8a05f-3450-44fc-a56f-2926996c6af3",
+      "party_type": "Person",
+      "full_name": "Otto Henry  Bacher",
+      "cited_name": "Bacher, Otto H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1909-01-01",
+      "birth_place": " Cleveland (Cuyahoga county, Ohio, United States)",
+      "death_place": " Bronxville (Westchester county, New York state, United States)"
+    }
+  ]
+}

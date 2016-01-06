@@ -1,0 +1,51 @@
+{
+  "title": "Pittsburgh from the North-West",
+  "creation_date": "c. 1845-1847",
+  "creation_date_earliest": "1840-01-01",
+  "creation_date_latest": "1852-01-01",
+  "medium": "engraving",
+  "accession_number": "16.33.3",
+  "id": "cmoa:things/d6de6681-a347-4a2d-a83a-7036b56d0239",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.562,
+  "item_height": 5.312,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001237",
+  "provenance_text": "D. L. Passavant",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56484&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c2e0a29-ff18-46cf-b24a-02c650b4d988",
+      "party_type": "Organization",
+      "full_name": "Illman & Sons",
+      "cited_name": "Illman & Sons",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

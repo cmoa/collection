@@ -1,0 +1,47 @@
+{
+  "title": "[exercise]",
+  "creation_date": "c. 1990",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "94.189.2",
+  "id": "cmoa:things/8ba14dd0-10cb-4cbd-80d6-fa5bebf27b9d",
+  "credit_line": "Gift of Claire Gallagher",
+  "date_acquired": "1994-09-22",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034561",
+  "provenance_text": "Claire Gallagher, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c70450a-ce14-4976-a1c2-eba2c36a23d5",
+      "party_type": "Person",
+      "full_name": "Brett Bernardo",
+      "cited_name": "Bernardo, Brett",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d5413e55-fe38-463c-9172-0fde4bc71c7e",
+      "party_type": "Person",
+      "full_name": "Claire Gallagher",
+      "cited_name": "Gallagher, Claire",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Philippe D'Orleans, Duc d'Anjou (after Jean Nocret)",
+  "creation_date": null,
+  "creation_date_earliest": "1642-01-01",
+  "creation_date_latest": "1693-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.2",
+  "id": "cmoa:things/6312c4d8-4afe-4ad6-9a3a-64a64de8d642",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.813,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005173",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101934&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101935&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/54e6ec10-2533-4d7a-9b72-9b3d84441b04",
+      "party_type": "Person",
+      "full_name": "François de Poilly",
+      "cited_name": "de Poilly, François",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1622-01-01",
+      "death_date": "1693-01-01",
+      "birth_place": " Abbeville (Somme, Picardy, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

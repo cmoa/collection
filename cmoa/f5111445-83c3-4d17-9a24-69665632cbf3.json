@@ -1,0 +1,39 @@
+{
+  "title": "Boxed 1",
+  "creation_date": "1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "cast glass",
+  "accession_number": "2003.7.6",
+  "id": "cmoa:things/f5111445-83c3-4d17-9a24-69665632cbf3",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2003-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 24.5,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=532",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5566&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23601edb-4a54-4c01-bdc0-74d4a87f45d9",
+      "party_type": "Person",
+      "full_name": "Bruno Romanelli",
+      "cited_name": "Romanelli, Bruno",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1968-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

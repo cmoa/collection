@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh at Night",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "oil on canvas mounted on Masonite",
+  "accession_number": "1996.42",
+  "id": "cmoa:things/ad8bcf87-ac05-43aa-bef5-3547d2dc68f3",
+  "credit_line": "Gift of Milton Porter, by exchange",
+  "date_acquired": "1996-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 62.75,
+  "item_height": 48.5,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002139",
+  "provenance_text": "Aaron Henry Gorson [1872-1933]. University Club, Pittsburgh, PA, until 1996; purchased by Museum, June 1996.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=276&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a0585ba0-b64e-4f32-be54-74b8e1d36531",
+      "party_type": "Person",
+      "full_name": "Aaron Henry Gorson",
+      "cited_name": "Gorson, Aaron H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Russia",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Venice",
+  "creation_date": "1878",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "Watercolor",
+  "accession_number": "74.7.40",
+  "id": "cmoa:things/d0b5a9da-fe1d-4d44-a767-355aa784751d",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017516",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79e9ab4d-b856-41c5-af44-5c3f3a5a2457",
+      "party_type": "Person",
+      "full_name": "Edouard Manet",
+      "cited_name": "Manet, Edouard",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1832-01-01",
+      "death_date": "1883-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Swirl bottle",
+  "creation_date": "1815-1830",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.27",
+  "id": "cmoa:things/0fe5b7d7-2b65-435c-a30b-b14d6e4dd5dd",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 7.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103019",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128218&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fc822fa-a253-4c22-82c4-2a8c14a30154",
+      "party_type": "Person",
+      "full_name": "unknown American, OH, Zanesville",
+      "cited_name": "unknown American, OH, Zanesville",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Miniature Portrait of the Baron de Prangins",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1714-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "watercolor on ivoryor vellum; wood frame",
+  "accession_number": "27.10.148",
+  "id": "cmoa:things/c21d653f-6ff0-4002-ac23-f04928aab66d",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 7.312,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005617",
+  "provenance_text": "Marcel Camus, Cannes France; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, April 1, 1912; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73594&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73596&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73597&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f68bfb30-80b9-47e0-ae51-87c32d7ba7a5",
+      "party_type": "Person",
+      "full_name": "Nicolas de Largillière",
+      "cited_name": "Largillière, Nicolas de",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1656-01-01",
+      "death_date": "1746-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Kamigano Gate - Kyoto",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.734",
+  "id": "cmoa:things/0a91d875-55af-4358-9960-d79eb812c923",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.875,
+  "item_height": 18.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028873",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103145&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83548&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1bc721a9-f08b-44af-bc7a-6ed6465c0879",
+      "party_type": "Person",
+      "full_name": "Clifton Karhu",
+      "cited_name": "Karhu, Clifton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Duluth, Minnesota",
+      "death_place": "Kanazawa, Japan"
+    }
+  ]
+}

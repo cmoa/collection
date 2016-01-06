@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Eloise Sherin",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.16",
+  "id": "cmoa:things/c7fe209b-b052-4ecb-90f0-63a14386f4b5",
+  "credit_line": "Gift of Mrs. James H. Knowles, Jr.",
+  "date_acquired": "1974-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 51.375,
+  "item_height": 69.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016933",
+  "provenance_text": "Mrs. James H. Knowles, Jr., Pittsburgh, PA ",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116040&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30ab2729-f4b3-4d2a-9106-3845f7ff5f59",
+      "party_type": "Person",
+      "full_name": "Howard Chandler Christy",
+      "cited_name": "Christy, Howard Chandler",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": " Morgan county (Ohio, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

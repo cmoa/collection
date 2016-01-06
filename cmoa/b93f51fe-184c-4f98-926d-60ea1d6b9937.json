@@ -1,0 +1,39 @@
+{
+  "title": "Ruelle des Pigeons",
+  "creation_date": null,
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "etching",
+  "accession_number": "43.4.68",
+  "id": "cmoa:things/b93f51fe-184c-4f98-926d-60ea1d6b9937",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007460",
+  "provenance_text": "Donald Shaw MacLaughlan [1876-1938]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100421&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ae30c52-6894-4e3f-bb37-239c81f27ad2",
+      "party_type": "Person",
+      "full_name": "Donald Shaw MacLaughlan",
+      "cited_name": "MacLaughlan, Donald S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Charlottetown (Prince Edward Island, Canada)",
+      "death_place": "Marakesh (Marrakech province, Al Maghrib)"
+    }
+  ]
+}

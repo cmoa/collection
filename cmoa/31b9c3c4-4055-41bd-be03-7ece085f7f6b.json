@@ -1,0 +1,51 @@
+{
+  "title": "Jesse Foot, Surgeon",
+  "creation_date": "c. 1780-1800",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "mezzotint",
+  "accession_number": "60.45.34",
+  "id": "cmoa:things/31b9c3c4-4055-41bd-be03-7ece085f7f6b",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011279",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107783&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5475f80e-264f-4e95-ae71-8e516700f0b0",
+      "party_type": "Person",
+      "full_name": "William Ward",
+      "cited_name": "Ward, William",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1766-01-01",
+      "death_date": "1826-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/26f93937-5766-4e73-a6fd-049974766576",
+      "party_type": "Person",
+      "full_name": "John Opie",
+      "cited_name": "Opie, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1761-01-01",
+      "death_date": "1807-01-01",
+      "birth_place": "St. Agnes, Cornwall",
+      "death_place": "London"
+    }
+  ]
+}

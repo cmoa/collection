@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1871",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1871-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "52.21.2",
+  "id": "cmoa:things/f4f7890c-9c3a-4de7-bdcf-1279d7baa3a7",
+  "credit_line": "Bequest of Henry Lee Mason, Jr.",
+  "date_acquired": "1952-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 25.25,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009080",
+  "provenance_text": "Jasper Holman Lawman [1825-1906]. Henry Lee Mason, Jr. [1868-1952?]; bequest to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, February 1952.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132055&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8f4d585-b31a-4b38-8ed2-fa0f2715d75e",
+      "party_type": "Person",
+      "full_name": "Jasper Holman Lawman",
+      "cited_name": "Lawman, Jasper H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": " Ohio (United States)",
+      "death_place": " Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

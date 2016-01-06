@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1830-1840",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "lacy pressed glass",
+  "accession_number": "46.2.186",
+  "id": "cmoa:things/83492b05-6d55-4662-8f61-e3fd66bf4d1f",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.562,
+  "item_depth": 0.0,
+  "item_diameter": 5.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007807",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1208&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d5591a6-212d-4750-9f3d-c7b8e1a03f92",
+      "party_type": "Organization",
+      "full_name": "Boston & Sandwich Glass Co.",
+      "cited_name": "Boston & Sandwich Glass Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1823-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

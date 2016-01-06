@@ -1,0 +1,51 @@
+{
+  "title": "Tray",
+  "creation_date": "1760",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "glazed soft-paste porcelain",
+  "accession_number": "77.68",
+  "id": "cmoa:things/4c194a73-65b9-4965-a8c6-8b37bad06d0e",
+  "credit_line": "Purchase: Ailsa Mellon Bruce Collection, by exchange",
+  "date_acquired": "1977-12-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 1.125,
+  "item_depth": 6.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019000",
+  "provenance_text": "Christie, Manson & Woods International Inc., NY, 11/11/77, lot 29",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/91c2ab26-92ee-4c20-9aa6-74ddf55a2c41",
+      "party_type": "Person",
+      "full_name": "François Aloncle",
+      "cited_name": "Aloncle, François",
+      "role": "decorator",
+      "nationality": "French",
+      "birth_date": "1758-01-01",
+      "death_date": "1781-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

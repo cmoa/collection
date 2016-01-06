@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh, Aerial View",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.6.22",
+  "id": "cmoa:things/71cd8b59-b6c3-4491-b843-13aa3f735c6f",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023896",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7141&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e83d8f4d-f997-45e9-a4e9-c1a868f0cb2f",
+      "party_type": "Person",
+      "full_name": "Margaret Bourke-White",
+      "cited_name": "Bourke-White, Margaret",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Stamford (Fairfield county, Connecticut, United States)"
+    }
+  ]
+}

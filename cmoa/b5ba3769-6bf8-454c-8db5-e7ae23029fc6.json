@@ -1,0 +1,39 @@
+{
+  "title": "The Stoker",
+  "creation_date": "1905",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "crayon on paper mounted on board",
+  "accession_number": "06.5",
+  "id": "cmoa:things/b5ba3769-6bf8-454c-8db5-e7ae23029fc6",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000246",
+  "provenance_text": "Walter Appleton Clark, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7b655a23-6da7-485d-8194-ac4634141c93",
+      "party_type": "Person",
+      "full_name": "Walter Appleton Clark",
+      "cited_name": "Clark, Walter A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": " Worcester (Worcester county, Massachusetts, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

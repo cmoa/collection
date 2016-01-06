@@ -1,0 +1,39 @@
+{
+  "title": "The Lighthouse of Fehmarn",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.56",
+  "id": "cmoa:things/62b63807-c8f0-430a-9e55-defca0c80e48",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1955-12-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.812,
+  "item_height": 47.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009530",
+  "provenance_text": "Artist's Collection, until 1938; Stuttgarter Kunstkabinett through Roman Norbet Ketterer, Germany; purchased by Museum, March 1955.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17637&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d07bc025-039d-4dde-a4c9-ad634aa08794",
+      "party_type": "Person",
+      "full_name": "Ernst Ludwig Kirchner",
+      "cited_name": "Kirchner, Ernst L.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1880-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Aschaffenburg (Unterfranken, Bavaria, Germany)",
+      "death_place": "Frauenkirch (Graubünden, Switzerland)"
+    }
+  ]
+}

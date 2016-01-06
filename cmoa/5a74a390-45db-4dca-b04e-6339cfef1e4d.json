@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "cased blown glass",
+  "accession_number": "80.42.17",
+  "id": "cmoa:things/5a74a390-45db-4dca-b04e-6339cfef1e4d",
+  "credit_line": "Gift of Vira I. Heinz",
+  "date_acquired": "1980-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 4.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021187",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2563&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db8d83aa-4eaa-4ac8-a65d-2e6cf6fe12be",
+      "party_type": "Person",
+      "full_name": "Edward Hald",
+      "cited_name": "Hald, Edward",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1883-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": " Stockholm (Stockholm, Sweden)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8987cae5-7610-47ec-96f8-cb4f9fc6cceb",
+      "party_type": "Organization",
+      "full_name": "Orrefors Glassworks",
+      "cited_name": "Orrefors Glassworks",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1898-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

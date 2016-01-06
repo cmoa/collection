@@ -1,0 +1,39 @@
+{
+  "title": "Composition",
+  "creation_date": "1925-1927",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.16.1",
+  "id": "cmoa:things/740aff1e-a994-4610-ac1e-a63d9c682cba",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 64.0,
+  "item_height": 53.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009234",
+  "provenance_text": "Mr. and Mrs. Alexander Lieberman, Elkins Park, Pa., c. 1925-27; G. David Thompson, Pittsburgh, by 1953; gift to museum, 1954",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149584&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05bd6432-2db8-45b2-9c06-35a881e1a9df",
+      "party_type": "Person",
+      "full_name": "Arthur B. Carles",
+      "cited_name": "Carles, Arthur B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Philadelphia",
+      "death_place": "Philadelphia"
+    }
+  ]
+}

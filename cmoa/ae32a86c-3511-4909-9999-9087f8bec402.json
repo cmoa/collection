@@ -1,0 +1,39 @@
+{
+  "title": "A Rectangle Not Totally within a Triangle (Orange)",
+  "creation_date": "1975-1976",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "acrylic and pencil on canvas",
+  "accession_number": "2000.53",
+  "id": "cmoa:things/ae32a86c-3511-4909-9999-9087f8bec402",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2000-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 96.0,
+  "item_height": 83.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004088",
+  "provenance_text": "John Berggruen Gallery, San Francisco, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26776&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a49e4d7e-7a5d-4694-84dc-68e0745a9637",
+      "party_type": "Person",
+      "full_name": "Robert Mangold",
+      "cited_name": "Mangold, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "North Tonawanda (Niagara county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

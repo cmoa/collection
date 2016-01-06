@@ -1,0 +1,39 @@
+{
+  "title": "The Fair",
+  "creation_date": "c. 1655-1660",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1660-01-01",
+  "medium": "etching",
+  "accession_number": "19.13",
+  "id": "cmoa:things/8088d72a-fa48-477a-bb99-d2cccaf2ab46",
+  "credit_line": "Purchase (F.A.C.)",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001932",
+  "provenance_text": "Kennedy and Company, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101706&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ffd5e859-c286-4839-831f-3c7a55518471",
+      "party_type": "Person",
+      "full_name": "Adriaen Van Ostade",
+      "cited_name": "Ostade, Adriaen Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1610-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

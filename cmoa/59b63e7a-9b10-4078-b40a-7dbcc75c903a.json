@@ -1,0 +1,39 @@
+{
+  "title": "Cat",
+  "creation_date": "26th Dynasty, 664 BCE-525 BCE",
+  "creation_date_earliest": "-0664-01-08",
+  "creation_date_latest": "-0525-01-07",
+  "medium": "bronze",
+  "accession_number": "77.49",
+  "id": "cmoa:things/59b63e7a-9b10-4078-b40a-7dbcc75c903a",
+  "credit_line": "Egyptian Art Fund: anonymous gift",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 2.125,
+  "item_height": 9.625,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018917",
+  "provenance_text": "Sotheby Parke Bernet, NY, sale #3994, 5/21/77, lot 301",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2df2db8-1e91-43b6-ab5b-39970eb1cf51",
+      "party_type": "Person",
+      "full_name": "unknown Egyptian",
+      "cited_name": "unknown Egyptian",
+      "role": null,
+      "nationality": "Egyptian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

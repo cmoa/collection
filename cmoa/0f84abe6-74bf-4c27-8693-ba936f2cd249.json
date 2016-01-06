@@ -1,0 +1,42 @@
+{
+  "title": "Three Kuhn Children",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "gum bichromate print",
+  "accession_number": "2007.51.61",
+  "id": "cmoa:things/0f84abe6-74bf-4c27-8693-ba936f2cd249",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.125,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49019",
+  "provenance_text": "Christis's (4/26/88)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99923&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55964&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a7f9853-4ead-46de-9152-1be47b7231cc",
+      "party_type": "Person",
+      "full_name": "Heinrich Kühn",
+      "cited_name": "Kühn, Heinrich",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1866-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Dresden (Dresden district, Saxony, Germany)",
+      "death_place": "Birgitz (Tyrol, Austria)"
+    }
+  ]
+}

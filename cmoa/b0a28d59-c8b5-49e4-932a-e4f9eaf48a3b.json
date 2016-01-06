@@ -1,0 +1,42 @@
+{
+  "title": "The Sleigh Ride",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "21.3.2",
+  "id": "cmoa:things/b0a28d59-c8b5-49e4-932a-e4f9eaf48a3b",
+  "credit_line": "Gift of Mrs. Albert C. Lehman",
+  "date_acquired": "1921-03-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.75,
+  "item_height": 5.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004626",
+  "provenance_text": "Mrs. Albert C. Lehman",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100552&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100553&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1e64e18-9e74-4f37-8525-2ce492357559",
+      "party_type": "Person",
+      "full_name": "Julius J. Lankes",
+      "cited_name": "Lankes, Julius J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "USA, New York, Buffalo",
+      "death_place": "USA, NC, DURAHAM"
+    }
+  ]
+}

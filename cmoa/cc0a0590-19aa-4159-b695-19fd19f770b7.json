@@ -1,0 +1,39 @@
+{
+  "title": "Cut Slate",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "cut slate relief",
+  "accession_number": "58.49",
+  "id": "cmoa:things/cc0a0590-19aa-4159-b695-19fd19f770b7",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 27.0,
+  "item_height": 27.25,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010869",
+  "provenance_text": "Aime Maeght, Paris, for 1958 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5436aedf-bfe7-4fa4-a55f-a5b5d172cb40",
+      "party_type": "Person",
+      "full_name": "Raoul Ubac",
+      "cited_name": "Ubac, Raoul",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1910-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Malmédy (Liège province, Wallonia, Belgium)",
+      "death_place": null
+    }
+  ]
+}

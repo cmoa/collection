@@ -1,0 +1,51 @@
+{
+  "title": "Dokudami",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.711.11",
+  "id": "cmoa:things/166fe7af-495c-45bd-a86e-864cd7da1f8c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.562,
+  "item_height": 7.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028711",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35937&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93e8b24e-f33a-4561-80a8-13842eff667f",
+      "party_type": "Person",
+      "full_name": "Kuroki Sadao",
+      "cited_name": "Kuroki Sadao",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1908-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/adff254f-adc8-4973-b839-b8b0b4bc0eb4",
+      "party_type": "Organization",
+      "full_name": "Kitsutsukikai",
+      "cited_name": "Kitsutsukikai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

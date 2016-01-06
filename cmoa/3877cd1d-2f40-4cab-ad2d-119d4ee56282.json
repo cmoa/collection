@@ -1,0 +1,39 @@
+{
+  "title": "Zen",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.100",
+  "id": "cmoa:things/3877cd1d-2f40-4cab-ad2d-119d4ee56282",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 21.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026707",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 7/9/1963.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33831&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e8c13e0-e50f-467c-bce1-f1227ce38527",
+      "party_type": "Person",
+      "full_name": "Hagiwara Hideo",
+      "cited_name": "Hagiwara Hideo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": "Kofu, Yamanashi prefecture",
+      "death_place": null
+    }
+  ]
+}

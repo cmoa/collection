@@ -1,0 +1,42 @@
+{
+  "title": "Sword",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "steel, lacquer, partly gilded bronze, ivory and silk",
+  "accession_number": "89.27.2",
+  "id": "cmoa:things/3918e42f-d1d9-4078-a09e-901957103ed7",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.625,
+  "item_height": 14.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026671",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3759&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3764&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eee5712a-2617-476a-b62a-84d9e3b7895d",
+      "party_type": "Person",
+      "full_name": "unknown Japanese, Mino School",
+      "cited_name": "unknown Japanese, Mino School",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

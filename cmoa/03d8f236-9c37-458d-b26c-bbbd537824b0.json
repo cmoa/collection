@@ -1,0 +1,51 @@
+{
+  "title": "House; House for Mrs. Foster, Bedford Park, Chiswick, England; [exterior perspective]",
+  "creation_date": "1891",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "pencil and sepia ink on paper",
+  "accession_number": "92.127.2",
+  "id": "cmoa:things/03d8f236-9c37-458d-b26c-bbbd537824b0",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 6.187,
+  "item_height": 8.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031153",
+  "provenance_text": "Kelmscott Gallery, Chicago, IL",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0a95c27-760f-423d-8709-a2cff030326d",
+      "party_type": "Person",
+      "full_name": "T. Raffles Davison",
+      "cited_name": "Davison, T. R.",
+      "role": "delineator",
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4780d146-626e-400c-83b3-70bb68e0287c",
+      "party_type": "Person",
+      "full_name": "Charles Francis Annesley Voysey",
+      "cited_name": "Voysey, C. F. A.",
+      "role": "architect",
+      "nationality": "English",
+      "birth_date": "1857-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": "Hessle, England",
+      "death_place": "Winchester, England"
+    }
+  ]
+}

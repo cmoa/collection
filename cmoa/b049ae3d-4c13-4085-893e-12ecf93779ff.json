@@ -1,0 +1,51 @@
+{
+  "title": "Bird and Poppy",
+  "creation_date": "Edo period (1603-1867), c. 1770",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.705",
+  "id": "cmoa:things/b049ae3d-4c13-4085-893e-12ecf93779ff",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028679",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106009&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/28f3a8c7-2c41-4ecd-a8d1-e284948285b9",
+      "party_type": "Person",
+      "full_name": "Murataya Jirobei",
+      "cited_name": "Murataya Jirobei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

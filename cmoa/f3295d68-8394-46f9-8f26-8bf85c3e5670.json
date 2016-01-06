@@ -1,0 +1,42 @@
+{
+  "title": "St. Paul's, New York City",
+  "creation_date": null,
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "37.4.36",
+  "id": "cmoa:things/f3295d68-8394-46f9-8f26-8bf85c3e5670",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1937-06-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007001",
+  "provenance_text": "Rudolph Ruzicka [1883-1978]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1937.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101138&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101139&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87abf60e-4faf-4eb0-97c6-a749d6462d00",
+      "party_type": "Person",
+      "full_name": "Rudolph Ruzicka",
+      "cited_name": "Ruzicka, Rudolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Bohemia (Czech Republic)",
+      "death_place": "Hanover (Grafton county, New Hampshire, United States)"
+    }
+  ]
+}

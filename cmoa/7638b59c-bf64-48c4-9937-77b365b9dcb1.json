@@ -1,0 +1,42 @@
+{
+  "title": "Conference",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "etching and drypoint on paper",
+  "accession_number": "85.66.3",
+  "id": "cmoa:things/7638b59c-bf64-48c4-9937-77b365b9dcb1",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1985-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025723",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76901&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103234&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/245269b5-8cd5-4858-ae4f-a77240aaed4f",
+      "party_type": "Person",
+      "full_name": "Thomas R. Hood Jr.",
+      "cited_name": "Hood, Thomas R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Model for Point Project Fountain",
+  "creation_date": "c. 1930-1940",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "plaster",
+  "accession_number": "95.106.2",
+  "id": "cmoa:things/2a69f3ff-846e-4bf9-9529-98fcd3a7d92a",
+  "credit_line": "Gift of Pittsburgh History & Landmarks Foundation",
+  "date_acquired": "1995-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 27.5,
+  "item_height": 35.5,
+  "item_depth": 28.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035483",
+  "provenance_text": "Pittsburgh History & Landmarks Foundation, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103821&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10f18868-e9b8-4d5f-af99-eac633035b42",
+      "party_type": "Person",
+      "full_name": "Frank Vittor",
+      "cited_name": "Vittor, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Italy",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

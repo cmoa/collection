@@ -1,0 +1,39 @@
+{
+  "title": "The Wise Virgins Present Themselves with Lamps Lighted",
+  "creation_date": "1605",
+  "creation_date_earliest": "1605-01-01",
+  "creation_date_latest": "1605-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.13",
+  "id": "cmoa:things/dd47b50f-7fc1-4361-afbf-c7cc9713a6b6",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005169",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102164&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ef68600-4822-43c5-a5b6-1d0a59b48180",
+      "party_type": "Person",
+      "full_name": "Jan Saenredam",
+      "cited_name": "Saenredam, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1607-01-01",
+      "birth_place": "Zaandam (North Holland, Netherlands)",
+      "death_place": " Assendelft (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Fork",
+  "creation_date": "mid-20th century",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "black chrome",
+  "accession_number": "85.53.3.1",
+  "id": "cmoa:things/ef02dca8-be0e-4000-aacf-81654ee33209",
+  "credit_line": "Purchase: gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.25,
+  "item_height": 7.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025685",
+  "provenance_text": "D. F. Sanders and Company, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5271&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d0f2237-08b4-43e3-9e04-3a35e7a0cbe6",
+      "party_type": "Person",
+      "full_name": "Carl Aubock",
+      "cited_name": "Aubock, Carl",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1900-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6c352cf3-ced5-48fa-9c65-aef4fe05cba2",
+      "party_type": "Organization",
+      "full_name": "Collini",
+      "cited_name": "Collini",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bottle",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "pattern-molded glass (blown-molded and expanded)",
+  "accession_number": "50.7.2",
+  "id": "cmoa:things/0bc28c29-a905-469b-9691-a76890c99e21",
+  "credit_line": "Gift of Mrs. J. B. McKillips",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008897",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=984&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/90650483-bc16-425d-9252-74c8a9513999",
+      "party_type": "Person",
+      "full_name": "unknown American, Midwestern",
+      "cited_name": "unknown American, Midwestern",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

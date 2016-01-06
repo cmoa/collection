@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Grand Duke of Oldenburg",
+  "creation_date": "1861",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": null,
+  "accession_number": "27.10.276",
+  "id": "cmoa:things/fda067af-0601-47e8-b1f9-c15c59bdee6e",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.375,
+  "item_height": 1.5,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88752",
+  "provenance_text": "Godfrey Manheimer; Leonard A. Dessar [1864-], New York, NY [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, June 21, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] In the 1900 US Census, Dessar's mother, Carrie Manheimer, is listed as being part of Dessar's household. It is possible that Dessar inherited this item through the Manheimer family.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff850c32-6b1d-478b-9b6c-93d7256cbcd3",
+      "party_type": "Person",
+      "full_name": "Pokanyak",
+      "cited_name": "Pokanyak",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

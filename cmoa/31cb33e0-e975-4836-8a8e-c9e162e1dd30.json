@@ -1,0 +1,39 @@
+{
+  "title": "Macle 001",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "optical glass, carved: with lead  and paint",
+  "accession_number": "2002.51.22",
+  "id": "cmoa:things/31cb33e0-e975-4836-8a8e-c9e162e1dd30",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 24.75,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=394",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12068&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/61753525-0e8e-49f6-954b-be77353d46fc",
+      "party_type": "Person",
+      "full_name": "Matei Negreanu",
+      "cited_name": "Negreanu, Matei",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Romania",
+      "death_place": null
+    }
+  ]
+}

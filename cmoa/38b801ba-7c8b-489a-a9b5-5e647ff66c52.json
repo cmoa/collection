@@ -1,0 +1,42 @@
+{
+  "title": "Water decanter",
+  "creation_date": "1818-1819",
+  "creation_date_earliest": "1818-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "glass",
+  "accession_number": "2011.8.A-.B",
+  "id": "cmoa:things/38b801ba-7c8b-489a-a9b5-5e647ff66c52",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2011-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 5.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93038",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116198&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116184&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b61d3d9-27b4-419d-bec1-0c2b963d6797",
+      "party_type": "Organization",
+      "full_name": "Bakewell, Page and Bakewell",
+      "cited_name": "Bakewell, Page and Bakewell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1813-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

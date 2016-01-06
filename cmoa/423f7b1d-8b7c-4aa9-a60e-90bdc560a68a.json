@@ -1,0 +1,54 @@
+{
+  "title": "Elizabeth, Lady Hobby",
+  "creation_date": "March 1, 1793",
+  "creation_date_earliest": "1793-03-01",
+  "creation_date_latest": "1793-03-01",
+  "medium": "etching and stipple engraving printed in color on pink paper",
+  "accession_number": "17.25.51",
+  "id": "cmoa:things/423f7b1d-8b7c-4aa9-a60e-90bdc560a68a",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-01-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001485",
+  "provenance_text": "James Tregaskis, London",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104245&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104246&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a202fc52-b50a-4e91-8787-31f247dd46a4",
+      "party_type": "Person",
+      "full_name": "Francesco Bartolozzi",
+      "cited_name": "Bartolozzi, Francesco",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Lisbon (Distrito de Lisboa, Portugal)"
+    },
+    {
+      "artist_id": "cmoa:parties/0f025e69-aecd-4742-9e21-ff76f31cd486",
+      "party_type": "Person",
+      "full_name": "Hans Holbein the Younger",
+      "cited_name": "Holbein, Hans, the Younger",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1543-01-01",
+      "birth_place": "Augsburg, Germany",
+      "death_place": "London, England"
+    }
+  ]
+}

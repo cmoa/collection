@@ -1,0 +1,51 @@
+{
+  "title": "1991 Pennsylvania Governor's Award for Excellence in the Humanities",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "glass",
+  "accession_number": "1998.23",
+  "id": "cmoa:things/22de26a1-f663-4468-bb3e-bebfb436992b",
+  "credit_line": "Gift of Samuel P. Hays and Barbara D. Hays",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.875,
+  "item_height": 19.5,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003621",
+  "provenance_text": "Samuel P. And Barbara D. Hays, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2679&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a43348e-0117-46e6-9ddb-0f7b8ad610b7",
+      "party_type": "Person",
+      "full_name": "Christopher Ries",
+      "cited_name": "Ries, Christopher",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e12509e8-bfd6-4b96-a721-f9abe72dba81",
+      "party_type": "Organization",
+      "full_name": "Schott Glass Technologies",
+      "cited_name": "Schott Glass Technologies",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

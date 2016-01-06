@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "aquatint on paper with plate finish",
+  "accession_number": "2005.14",
+  "id": "cmoa:things/7b26f896-d882-4938-9fc0-3851836647fd",
+  "credit_line": "Purchase: gift of friends in honor of Marcia Gumberg",
+  "date_acquired": "2005-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15050",
+  "provenance_text": "The Art Show, Henry Street Settlement, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7284&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",
+      "party_type": "Person",
+      "full_name": "Christopher Wool",
+      "cited_name": "Wool, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    }
+  ]
+}

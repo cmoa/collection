@@ -1,0 +1,39 @@
+{
+  "title": "The Wheel underneath the Haybarn",
+  "creation_date": "c. 1650-1660",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1665-01-01",
+  "medium": "etching",
+  "accession_number": "16.45.2",
+  "id": "cmoa:things/aebbdebe-5392-4e5c-b92d-3fc3d27b5c25",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-03-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001288",
+  "provenance_text": "Albert Roullier, Chicago",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102182&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11bfef5d-c8f8-42d7-adb6-7187afed37dc",
+      "party_type": "Person",
+      "full_name": "Allart van Everdingen",
+      "cited_name": "Everdingen, Allart van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1621-01-01",
+      "death_date": "1675-01-01",
+      "birth_place": "Alkmaar (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

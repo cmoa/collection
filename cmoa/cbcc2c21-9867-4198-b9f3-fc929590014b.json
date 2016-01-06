@@ -1,0 +1,39 @@
+{
+  "title": "Hoeing",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "44.2",
+  "id": "cmoa:things/cbcc2c21-9867-4198-b9f3-fc929590014b",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 60.25,
+  "item_height": 40.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007508",
+  "provenance_text": "ACA Galleries as agent, New York, by 1943; purchased by Museum, 1943.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=288&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fc4de7d-bbd2-4b7f-bba9-a90280a018c3",
+      "party_type": "Person",
+      "full_name": "Robert Gwathmey",
+      "cited_name": "Gwathmey, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Richmond (Richmond Indep. City, Virginia, United States)",
+      "death_place": "Southhampton, NY"
+    }
+  ]
+}

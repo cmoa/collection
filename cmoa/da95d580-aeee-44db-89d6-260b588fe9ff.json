@@ -1,0 +1,39 @@
+{
+  "title": "Pink Waterfall",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.28",
+  "id": "cmoa:things/da95d580-aeee-44db-89d6-260b588fe9ff",
+  "credit_line": "Gift of Morton D. May",
+  "date_acquired": "1956-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 45.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009692",
+  "provenance_text": "Midtown Galleries, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126327&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a54cc6db-0b1a-4991-9099-fdb529df27d8",
+      "party_type": "Person",
+      "full_name": "Maurice Freedman",
+      "cited_name": "Freedman, Maurice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

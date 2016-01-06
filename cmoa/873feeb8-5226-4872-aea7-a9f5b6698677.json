@@ -1,0 +1,54 @@
+{
+  "title": "Cup",
+  "creation_date": "1758",
+  "creation_date_earliest": "1758-01-01",
+  "creation_date_latest": "1758-01-01",
+  "medium": "soft paste porcelain",
+  "accession_number": "63.28.1",
+  "id": "cmoa:things/873feeb8-5226-4872-aea7-a9f5b6698677",
+  "credit_line": "Decorative Arts Purchase Fund: gift of P. C. Wolff",
+  "date_acquired": "1963-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 2.5,
+  "item_depth": 0.0,
+  "item_diameter": 2.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011672",
+  "provenance_text": "Sotheby and Co., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3214&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": "decorator",
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3e145ce4-8813-4dae-bf83-b901cc789d19",
+      "party_type": "Person",
+      "full_name": "Jacques Fontaine",
+      "cited_name": "Fontaine, Jacques",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1752-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

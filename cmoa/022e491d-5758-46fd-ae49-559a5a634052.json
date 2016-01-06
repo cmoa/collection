@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "1855",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "transfer printed earthenware",
+  "accession_number": "22.6.5",
+  "id": "cmoa:things/022e491d-5758-46fd-ae49-559a5a634052",
+  "credit_line": "Gift of A. P. Dysart",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 1.0,
+  "item_depth": 7.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004748",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1915&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f01f9eb1-f440-472b-adfe-102e55493acc",
+      "party_type": "Person",
+      "full_name": "John Wedge Wood",
+      "cited_name": "Wood, John W.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1841-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

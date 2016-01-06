@@ -1,0 +1,39 @@
+{
+  "title": "Madonna",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "glass, blown; with paint",
+  "accession_number": "2002.51.29",
+  "id": "cmoa:things/401bd7b8-6079-405f-8332-b562ff2a305f",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 21.75,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=402",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27153&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1dc9da3c-98f9-4436-a42c-032eec8075a0",
+      "party_type": "Person",
+      "full_name": "Liubov Savelyeva",
+      "cited_name": "Savelyeva, Liubov",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Manhattan (Blue)",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "Lithograph",
+  "accession_number": "79.65.4",
+  "id": "cmoa:things/ec0621a9-9298-403d-a09c-85460416b7b3",
+  "credit_line": "Gift of Robert Levenberg",
+  "date_acquired": "1979-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020641",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b77f88e1-e411-4eba-a021-d1118afe6a42",
+      "party_type": "Person",
+      "full_name": "Oskar Kokoschka",
+      "cited_name": "Kokoschka, Oskar",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1886-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pöchlarn (Niederösterreich, Austria)",
+      "death_place": "Montreux (Vaud, Switzerland)"
+    }
+  ]
+}

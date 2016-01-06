@@ -1,0 +1,39 @@
+{
+  "title": "Milk jug",
+  "creation_date": "c. 1860",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.31",
+  "id": "cmoa:things/1028d963-4082-49f8-a197-3abb39aaa9ac",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 5.375,
+  "item_height": 5.0,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103023",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126625&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/732ae7fe-a9eb-40b2-87ff-e8628dce04c7",
+      "party_type": "Organization",
+      "full_name": "McKee and Brothers",
+      "cited_name": "McKee and Brothers",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": "1829-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

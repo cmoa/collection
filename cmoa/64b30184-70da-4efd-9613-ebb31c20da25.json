@@ -1,0 +1,42 @@
+{
+  "title": "Horsley's Cottages",
+  "creation_date": "1865",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "etching",
+  "accession_number": "18.38.1",
+  "id": "cmoa:things/64b30184-70da-4efd-9613-ebb31c20da25",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.625,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001816",
+  "provenance_text": "C. W. Kraushaar Art Galleries, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105225&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105226&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/468b3620-fd75-4c54-beed-b8a0fc8497da",
+      "party_type": "Person",
+      "full_name": "Sir Francis Seymour Haden",
+      "cited_name": "Haden, Seymour",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1818-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " Alresford (Essex, England, United Kingdom)"
+    }
+  ]
+}

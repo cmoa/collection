@@ -1,0 +1,39 @@
+{
+  "title": "métrica minima / minim metric",
+  "creation_date": "2015",
+  "creation_date_earliest": "2015-01-01",
+  "creation_date_latest": "2015-01-01",
+  "medium": "linen and paper",
+  "accession_number": "2015.18",
+  "id": "cmoa:things/0416c351-6b34-400e-8e1b-3eb5ac0ba6e9",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2015-09-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.89,
+  "item_height": 31.89,
+  "item_depth": 1.181,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108876",
+  "provenance_text": "From the artist to CMOA, June 2015",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147657&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8914d7d6-0b54-43e6-b2bb-0d76769e6aa1",
+      "party_type": "Person",
+      "full_name": "Jac Leirner",
+      "cited_name": "Leirner, Jac",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

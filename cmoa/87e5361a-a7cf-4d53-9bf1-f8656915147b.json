@@ -1,0 +1,39 @@
+{
+  "title": "The Red Carnation",
+  "creation_date": "c. 1944",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.29",
+  "id": "cmoa:things/87e5361a-a7cf-4d53-9bf1-f8656915147b",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.25,
+  "item_height": 30.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017497",
+  "provenance_text": "The artist, until 1944; Charles J. Rosenbloom, Pittsburgh, 1944; bequest to museum, 1974",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/937f9bd1-9b94-4e61-89ba-f937a0a1cada",
+      "party_type": "Person",
+      "full_name": "Max Weber",
+      "cited_name": "Weber, Max",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Bialystok (Podlaskie voivodship, Poland)",
+      "death_place": "Great Neck (Nassau county, New York state, United States)"
+    }
+  ]
+}

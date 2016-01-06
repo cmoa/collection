@@ -1,0 +1,42 @@
+{
+  "title": "Berkeley Heights, New Jersey",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.47.1",
+  "id": "cmoa:things/96ac5823-b42e-47a4-be3f-09a83fcc1b84",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-10-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 10.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92192",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103294&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/decd065c-48b5-4b5b-accc-68bcf2b189ed",
+      "party_type": "Person",
+      "full_name": "Philip Perkis",
+      "cited_name": "Perkis, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Boston, MA",
+      "death_place": null
+    }
+  ]
+}

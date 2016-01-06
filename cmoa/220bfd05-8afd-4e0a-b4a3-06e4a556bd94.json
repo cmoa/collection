@@ -1,0 +1,39 @@
+{
+  "title": "The Limehouse",
+  "creation_date": "1878",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "lithotint with scraping on paper",
+  "accession_number": "76.27",
+  "id": "cmoa:things/220bfd05-8afd-4e0a-b4a3-06e4a556bd94",
+  "credit_line": "Purchase",
+  "date_acquired": "1976-05-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018045",
+  "provenance_text": "By conversion, to Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1976.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55372&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

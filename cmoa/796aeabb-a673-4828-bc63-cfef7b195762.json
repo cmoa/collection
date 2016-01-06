@@ -1,0 +1,39 @@
+{
+  "title": "Fiacre, place Saint-Suplice",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.87.22",
+  "id": "cmoa:things/796aeabb-a673-4828-bc63-cfef7b195762",
+  "credit_line": "Gift of L. Bradley Camp",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025231",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98609&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bca38816-6f7e-423d-b070-e42e9cd3143d",
+      "party_type": "Person",
+      "full_name": "Eugène Atget",
+      "cited_name": "Atget, Eugène",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1857-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": "Libourne (Gironde, Aquitaine, France)",
+      "death_place": "Paris"
+    }
+  ]
+}

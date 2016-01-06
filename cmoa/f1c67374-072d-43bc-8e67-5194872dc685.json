@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "red maple burl",
+  "accession_number": "2009.38",
+  "id": "cmoa:things/f1c67374-072d-43bc-8e67-5194872dc685",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2009-06-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 8.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82113",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88272&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e4eb10f-3833-4e51-b269-0e10de6228aa",
+      "party_type": "Person",
+      "full_name": "John Jordan",
+      "cited_name": "Jordan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

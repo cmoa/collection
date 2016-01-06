@@ -1,0 +1,39 @@
+{
+  "title": "Figure Crouching",
+  "creation_date": null,
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "pencil with wash on paper",
+  "accession_number": "18.39.17",
+  "id": "cmoa:things/5531a330-dbd2-4fa0-bf97-e791358bd2ca",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1918-01-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001826",
+  "provenance_text": "M. Knoedler & Co",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99175&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dec87be6-b8ac-434e-afcb-c0e7c3e742be",
+      "party_type": "Person",
+      "full_name": "Auguste Rodin",
+      "cited_name": "Rodin, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Meudon (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

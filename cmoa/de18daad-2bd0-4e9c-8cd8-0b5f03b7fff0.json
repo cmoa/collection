@@ -1,0 +1,57 @@
+{
+  "title": "Orgone chair",
+  "creation_date": "designed 1993, manufactured 1999-present, 1999",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "plastic",
+  "accession_number": "2004.29.1",
+  "id": "cmoa:things/de18daad-2bd0-4e9c-8cd8-0b5f03b7fff0",
+  "credit_line": "Gift of Sarah Nichols",
+  "date_acquired": "2004-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 42.5,
+  "item_height": 37.75,
+  "item_depth": 32.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9966",
+  "provenance_text": "Purchased by Sarah Nichols in 1999 from a London shop (on Brick Lane) .  Lent to Aluminum by Design in Pittsburgh (did not travel) and then to Very Familiar: Celebrating 50 Years of Collecting Decorative Arts.",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127534&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127554&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127557&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3b587b52-1c38-459d-ac06-8f918e9b6e32",
+      "party_type": "Person",
+      "full_name": "Marc Newson",
+      "cited_name": "Newson, Marc",
+      "role": "designer",
+      "nationality": "Australian",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Sydney, Australia",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e4b08d30-04dd-420b-b119-990b4ccd97ba",
+      "party_type": "Organization",
+      "full_name": "Marc Newson, Ltd.",
+      "cited_name": "Newson, Marc, Ltd.",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1997-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

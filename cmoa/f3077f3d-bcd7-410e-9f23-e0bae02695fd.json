@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "1745-1780",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.602",
+  "id": "cmoa:things/f3077f3d-bcd7-410e-9f23-e0bae02695fd",
+  "credit_line": "Bequest of Ailsa Mellon Bruce",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.625,
+  "item_height": 1.375,
+  "item_depth": 5.687,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015315",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2390&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Portrait of John Liggett",
+  "creation_date": null,
+  "creation_date_earliest": "1812-01-01",
+  "creation_date_latest": "1866-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.10.37",
+  "id": "cmoa:things/dba8d55c-d489-4f37-ba10-df1c9d7126eb",
+  "credit_line": "Gift of Mr. and Mrs. James A. Drain",
+  "date_acquired": "1981-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.5,
+  "item_height": 36.5,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021517",
+  "provenance_text": "Mr. And Mrs. James A. Drain, Ligonier, PA",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b87233f-aa35-4291-af10-6273555ed476",
+      "party_type": "Person",
+      "full_name": "Chester Harding",
+      "cited_name": "Harding, Chester",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1792-01-01",
+      "death_date": "1866-01-01",
+      "birth_place": " Conway (Franklin county, Massachusetts, United States)",
+      "death_place": " Boston (Suffolk county, Massachusetts, United States)"
+    }
+  ]
+}

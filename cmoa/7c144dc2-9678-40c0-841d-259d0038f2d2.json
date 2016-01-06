@@ -1,0 +1,42 @@
+{
+  "title": "Ambush for Flamingoes",
+  "creation_date": "c. 1856-1857",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.7.2",
+  "id": "cmoa:things/7c144dc2-9678-40c0-841d-259d0038f2d2",
+  "credit_line": "Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1972-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 26.5,
+  "item_height": 19.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016585",
+  "provenance_text": "George Catlin [1796-1872], United States of America. Leopold I [1790-1865], King of the Belgians, Belgium, 1859; Richard Smithhill, Rockbeare, Hampshire, England; H. Williams Gallery, New York, by 1907; Sir Edmund Osler [1845-1924], Toronto, by 1912; Royal Ontario Museum, Toronto, by 1912; Lee Pritzer, Canada, by 1953; Hirschl and Adler Galleries [1952-], New York, by 1953; M. Knoedler and Co. [1848-2011], New York, 1953 until February 1972; purchased by Museum, February 10, 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8467&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d0d4718-a544-475a-a9f6-62557eef0c5c",
+      "party_type": "Person",
+      "full_name": "George Catlin",
+      "cited_name": "Catlin, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1796-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": " Wilkes-Barre (Luzerne county, Pennsylvania, United States)",
+      "death_place": " Jersey City (Hudson county, New Jersey, United States)"
+    }
+  ]
+}

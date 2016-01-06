@@ -1,0 +1,39 @@
+{
+  "title": "Nude",
+  "creation_date": "no date",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "graphite, charcoal and pastel on paper",
+  "accession_number": "83.62.2",
+  "id": "cmoa:things/10173d9d-c438-4c97-bf78-92c5d7218b47",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1983-10-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023895",
+  "provenance_text": "Frank K. M. Rehn, Inc., New York, until 1983; Gift of Mr. and Mrs. James H. Beal, Pittsburgh, PA, 1983.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89450&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40b466ea-c112-4ca3-9ed8-28f46b14dd39",
+      "party_type": "Person",
+      "full_name": "Eugene Speicher",
+      "cited_name": "Speicher, Eugene",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Buffalo (Erie county, New York state, United States)",
+      "death_place": "Woodstock (Greene county, New York state, United States)"
+    }
+  ]
+}

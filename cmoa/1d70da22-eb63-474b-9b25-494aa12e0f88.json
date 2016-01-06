@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "pottery",
+  "accession_number": "54.9.6",
+  "id": "cmoa:things/1d70da22-eb63-474b-9b25-494aa12e0f88",
+  "credit_line": "Gift of Allan Gerdau",
+  "date_acquired": "1954-03-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.25,
+  "item_depth": 0.0,
+  "item_diameter": 6.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009359",
+  "provenance_text": "Allan Gerdau",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4830&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4faa896-b566-45ac-b1d4-258f598ad997",
+      "party_type": "Person",
+      "full_name": "unknown Persian",
+      "cited_name": "unknown Persian",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

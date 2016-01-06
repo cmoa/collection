@@ -1,0 +1,39 @@
+{
+  "title": "Head of a Girl",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "56.34",
+  "id": "cmoa:things/ecbe5b0b-0bab-4eba-97f8-01fe89c5464a",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1956-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.75,
+  "item_height": 24.125,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009740",
+  "provenance_text": "Ella Rosenberger, Berlin, Germany; purchased from Heller Galerie, Berlin, Germany in 1925\nAnika Orienter (Mrs. Rosenberger's daughter) until 1953;  \nFeigle Gallery, NYC 1953 - 1956",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7d2453a-bd26-4582-9ee7-71252e9bb95c",
+      "party_type": "Person",
+      "full_name": "Emil Nolde",
+      "cited_name": "Nolde, Emil",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1867-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Nolde, Schleswig-Holstein, Germany",
+      "death_place": "Seebüll, Schleswig-Holstein, Germany"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Portrait of George Washington",
+  "creation_date": "c. 1800-1830",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.19.1",
+  "id": "cmoa:things/541e9328-7f8d-4f34-b3e4-68c9a792eb4d",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.313,
+  "item_height": 12.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001100",
+  "provenance_text": "F. Meder, 15 East 40th St., New York City, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118728&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99302&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68815&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/58beca8a-caf5-4682-aeb4-f05ce4fb20bf",
+      "party_type": "Person",
+      "full_name": "Giuseppe Longhi",
+      "cited_name": "Longhi, Giuseppe",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1766-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": "Monza (Milano province, Lombardy, Italy)",
+      "death_place": "Milan (Milano province, Lombardy, Italy)"
+    }
+  ]
+}

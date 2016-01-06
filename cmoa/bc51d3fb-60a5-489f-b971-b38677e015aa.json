@@ -1,0 +1,45 @@
+{
+  "title": "Anna Pearson Hall",
+  "creation_date": "c. 1903",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1908-01-01",
+  "medium": "oil on canvas on board",
+  "accession_number": "76.34.1",
+  "id": "cmoa:things/bc51d3fb-60a5-489f-b971-b38677e015aa",
+  "credit_line": "Bequest of Anna Pearson Hatch",
+  "date_acquired": "1976-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 38.5,
+  "item_height": 45.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018072",
+  "provenance_text": "Robert Calvin Hall, Pittsburgh, c. 1903; Anna Pearson Hall, his daughter, by descent; bequest to museum, October 1976",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146540&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146541&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10738ecf-8ba8-4f26-abab-d10c37d11eaf",
+      "party_type": "Person",
+      "full_name": "Frank D. Millet",
+      "cited_name": "Millet, Frank D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Mattapoisett (Plymouth County, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

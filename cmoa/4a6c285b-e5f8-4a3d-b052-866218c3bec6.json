@@ -1,0 +1,39 @@
+{
+  "title": "24 November '63",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.11",
+  "id": "cmoa:things/4a6c285b-e5f8-4a3d-b052-866218c3bec6",
+  "credit_line": "Gift of the Howard Heinz Endowment",
+  "date_acquired": "1965-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 80.75,
+  "item_height": 102.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011858",
+  "provenance_text": "The Artist via 1964 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19389&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23f5eaaa-7e5c-4d88-ba9b-d3188df92de4",
+      "party_type": "Person",
+      "full_name": "Pierre Soulages",
+      "cited_name": "Soulages, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1919-01-01",
+      "death_date": null,
+      "birth_place": "Rodez, Aveyron, France",
+      "death_place": null
+    }
+  ]
+}

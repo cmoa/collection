@@ -1,0 +1,39 @@
+{
+  "title": "Bottle Holder",
+  "creation_date": "c. 1740-1748",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1753-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.7.83",
+  "id": "cmoa:things/6a539b8c-c6e9-43c4-bc7f-5185c420b7f9",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 2.188,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016080",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3261&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fa5ff07-954c-4ad3-a9e7-35cff6282547",
+      "party_type": "Organization",
+      "full_name": "Mennecy Porcelain Factory",
+      "cited_name": "Mennecy Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1734-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

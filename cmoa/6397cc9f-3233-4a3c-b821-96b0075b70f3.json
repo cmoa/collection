@@ -1,0 +1,51 @@
+{
+  "title": "Tokyo Station, trial proof",
+  "creation_date": "1945",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.854.2",
+  "id": "cmoa:things/6397cc9f-3233-4a3c-b821-96b0075b70f3",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029041",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin as a gift from Charles H. Mitchell, Tokyo, Japan, 12/14/1982.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27644&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfd0d5c4-1cbd-4f25-8de2-1b62297fd4c7",
+      "party_type": "Person",
+      "full_name": "Onchi Kôshirô",
+      "cited_name": "Onchi Kôshirô",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9f9ab97e-a4de-4a27-a483-a80194456f0d",
+      "party_type": "Person",
+      "full_name": "Uemura Masuo",
+      "cited_name": "Uemura Masuo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

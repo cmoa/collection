@@ -1,0 +1,51 @@
+{
+  "title": "Around Mitsukoshi Department Store (Mitsukoshi fukin)",
+  "creation_date": "12/3/1931",
+  "creation_date_earliest": "1931-12-03",
+  "creation_date_latest": "1931-12-03",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.67.12",
+  "id": "cmoa:things/856d5f51-4ca6-4fc7-9ced-fb5db6ac7a76",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028631",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29236&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5115fa9-4d3b-4ce1-b4ab-665937b0f279",
+      "party_type": "Person",
+      "full_name": "Fujimori Shizuo",
+      "cited_name": "Fujimori Shizuo",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": "Japan, Kyushu",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

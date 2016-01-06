@@ -1,0 +1,39 @@
+{
+  "title": "Morning Glories",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "oil and canvas on three wood panels",
+  "accession_number": "73.3.1",
+  "id": "cmoa:things/e70fe5a1-7d08-4bf5-9d36-97c53fb330e8",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1973-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 72.0,
+  "item_height": 64.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016710",
+  "provenance_text": "Thomas Wilmer Dewing [1851-1938]. Col. Frank J. Hecker [1846-1927], Detroit; Louise H. Fletcher, his daughter, Detroit, 1928; (DuMouchelle Galleries, Detroit, 1959); Graham Williford, New York, 1971; (Hirschl and Adler Galleries, New York, 1972); purchased by Museum, 1973.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116060&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4664bab4-10f4-445b-a40e-d1c6942406ee",
+      "party_type": "Person",
+      "full_name": "Thomas Wilmer Dewing",
+      "cited_name": "Dewing, Thomas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1851-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Boston, Massachussets",
+      "death_place": "New York City"
+    }
+  ]
+}

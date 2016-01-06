@@ -1,0 +1,39 @@
+{
+  "title": "Origins",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "80.78",
+  "id": "cmoa:things/4dd0d705-8a29-40a2-95b1-d94b264be35c",
+  "credit_line": "Gift of Mr. and Mrs. Charles K. Silberstein",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.125,
+  "item_height": 14.375,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021318",
+  "provenance_text": "Andrew Crispo Gallery, New York City, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24900&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73b515c4-0c83-4e07-b00a-158b3eb1f2ff",
+      "party_type": "Person",
+      "full_name": "Charles Seliger",
+      "cited_name": "Seliger, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Manhattan (New York City, New York state, United States)",
+      "death_place": "Manhattan (New York City, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "title": "Tea Bowl and Saucer",
+  "creation_date": "1818-1834",
+  "creation_date_earliest": "1818-01-01",
+  "creation_date_latest": "1834-01-01",
+  "medium": "transfer printed glazed earthenware",
+  "accession_number": "19.1.12-.13",
+  "id": "cmoa:things/c234d242-c68b-4441-831c-23dbbc58e744",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=10655",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=862&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=863&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce90c42e-b673-4b1f-98fe-4b9c0e657af2",
+      "party_type": "Person",
+      "full_name": "James Clews",
+      "cited_name": "Clews, James",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1817-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c1318dd-fa52-4c79-9350-66b1c8339583",
+      "party_type": "Person",
+      "full_name": "Ralph Clews",
+      "cited_name": "Clews, Ralph",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1817-01-01",
+      "death_date": "1836-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

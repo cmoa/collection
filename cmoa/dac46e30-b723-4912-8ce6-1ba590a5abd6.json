@@ -1,0 +1,42 @@
+{
+  "title": "Still Life, Oval Theme",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "graphite on prepared paper",
+  "accession_number": "87.16",
+  "id": "cmoa:things/dac46e30-b723-4912-8ce6-1ba590a5abd6",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Edward N. Haskell in memory of Mary Haskell",
+  "date_acquired": "1987-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026281",
+  "provenance_text": "Sam Berkovitz, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99810&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65532&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4783e052-5b90-46ec-91e4-693e0d0b0f8c",
+      "party_type": "Person",
+      "full_name": "Ben Nicholson",
+      "cited_name": "Nicholson, Ben",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1894-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Denham (Buckinghamshire, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

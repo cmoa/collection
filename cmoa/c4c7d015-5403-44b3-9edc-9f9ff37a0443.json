@@ -1,0 +1,39 @@
+{
+  "title": "Sojo Henjo",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.931",
+  "id": "cmoa:things/c4c7d015-5403-44b3-9edc-9f9ff37a0443",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029181",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80519&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60354333-1fc2-4e38-88d7-6713320fa020",
+      "party_type": "Person",
+      "full_name": "Kuniyoshi Utagawa",
+      "cited_name": "Kuniyoshi Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1861-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

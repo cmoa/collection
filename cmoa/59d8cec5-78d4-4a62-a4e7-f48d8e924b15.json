@@ -1,0 +1,54 @@
+{
+  "title": "Berry Pomeroy Castle [Raglan Castle], plate 58 from the Liber Studiorum",
+  "creation_date": "1816",
+  "creation_date_earliest": "1816-01-01",
+  "creation_date_latest": "1816-01-01",
+  "medium": "etching and mezzotint",
+  "accession_number": "19.8.2",
+  "id": "cmoa:things/59d8cec5-78d4-4a62-a4e7-f48d8e924b15",
+  "credit_line": "Purchase (F.A.C.)",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002080",
+  "provenance_text": "James Tregaskis",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107790&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54181&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ca7c730-6236-47f8-bde2-354a1797d155",
+      "party_type": "Person",
+      "full_name": "Joseph Mallord William Turner",
+      "cited_name": "Turner, Joseph M.",
+      "role": "artist",
+      "nationality": "English",
+      "birth_date": "1775-01-01",
+      "death_date": "1851-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/41bd7dd9-1eda-4566-bdae-4e66a551f03a",
+      "party_type": "Person",
+      "full_name": "Henry Edward Dawe",
+      "cited_name": "Dawe, Henry Edward",
+      "role": "attributed to",
+      "nationality": "English",
+      "birth_date": "1790-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": "Kentish Town (London, Greater London, England, United Kingdom)",
+      "death_place": "Windsor (England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Ira (Wrath)",
+  "creation_date": "1558",
+  "creation_date_earliest": "1557-12-22",
+  "creation_date_latest": "1557-12-22",
+  "medium": "engraving",
+  "accession_number": "67.19.1",
+  "id": "cmoa:things/e41a6720-ea4b-49c8-afd0-d59564bb8652",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1967-12-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012314",
+  "provenance_text": "Charles J. Rosenbloom, Lugt Suppl. 633b, (two stamps)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94682&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a33c6519-ce05-422a-a0a3-28a4c1f20bda",
+      "party_type": "Person",
+      "full_name": "Pieter Bruegel I",
+      "cited_name": "Bruegel, Pieter, I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1520-01-01",
+      "death_date": "1569-01-01",
+      "birth_place": "Breda (North Brabant, Netherlands)",
+      "death_place": "Brussels (Bruxelles region, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/327781bb-aef7-42e9-9386-edf125ea9a22",
+      "party_type": "Person",
+      "full_name": "Pieter van der Heyden",
+      "cited_name": "Heyden, Pieter van der",
+      "role": "engraver",
+      "nationality": "Flemish",
+      "birth_date": "1515-01-01",
+      "death_date": "1573-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Berchem (Bruxelles region, Belgium)"
+    }
+  ]
+}

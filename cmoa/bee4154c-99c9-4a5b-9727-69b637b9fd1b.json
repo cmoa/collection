@@ -1,0 +1,39 @@
+{
+  "title": "Young Nobleman",
+  "creation_date": "c.1520-1570",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1569-12-22",
+  "medium": "oil on panel",
+  "accession_number": "53.26.1",
+  "id": "cmoa:things/bee4154c-99c9-4a5b-9727-69b637b9fd1b",
+  "credit_line": "Bequest of William J. Strassburger",
+  "date_acquired": "1953-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 23.5,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009157",
+  "provenance_text": "William J. Strassburger; bequest to Museum, October 1953.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149581&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af401ccc-5328-4859-9bd5-5577818afa06",
+      "party_type": "Person",
+      "full_name": "Giulio Campi",
+      "cited_name": "Campi, Giulio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1502-01-01",
+      "death_date": "1572-01-01",
+      "birth_place": " Cremona (Cremona province, Lombardy, Italy)",
+      "death_place": " Cremona (Cremona province, Lombardy, Italy)"
+    }
+  ]
+}

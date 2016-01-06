@@ -1,0 +1,39 @@
+{
+  "title": "The Wallflower",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "pen and ink",
+  "accession_number": "59.56",
+  "id": "cmoa:things/8e970bab-1b3d-456a-aa2a-23d6c582ea55",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1959-12-16",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011091",
+  "provenance_text": "Richard Feigen Gallery, Chicago",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90896&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/53533b1c-3223-41c9-8370-6e4da249c870",
+      "party_type": "Person",
+      "full_name": "George Grosz",
+      "cited_name": "Grosz, George",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1893-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "Berlin, Germany"
+    }
+  ]
+}

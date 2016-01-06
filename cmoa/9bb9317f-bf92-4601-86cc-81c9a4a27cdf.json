@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "1890s",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "glass",
+  "accession_number": "2005.29",
+  "id": "cmoa:things/9bb9317f-bf92-4601-86cc-81c9a4a27cdf",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2005-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.25,
+  "item_depth": 0.0,
+  "item_diameter": 22.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15095",
+  "provenance_text": "Weiss Gallery, Michigan",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27168&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ae5a4454-f771-4d9d-837e-0e8219dce35f",
+      "party_type": "Organization",
+      "full_name": "Salviati & C. S.p.a.",
+      "cited_name": "Salviati & C. S.p.a.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1877-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

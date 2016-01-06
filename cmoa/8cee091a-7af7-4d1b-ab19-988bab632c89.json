@@ -1,0 +1,51 @@
+{
+  "title": "The Pagoda at Yasaka (Yasako no tô)",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1098",
+  "id": "cmoa:things/8cee091a-7af7-4d1b-ab19-988bab632c89",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026852",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32619&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/636da64c-188d-49fb-a308-6f73cb991606",
+      "party_type": "Person",
+      "full_name": "Nomura Yoshimitsu",
+      "cited_name": "Nomura Yoshimitsu",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1850-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/82564cf2-913d-42fd-9df6-5a85f218d9ea",
+      "party_type": "Person",
+      "full_name": "Satô Shôtarô",
+      "cited_name": "Satô Shôtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bottle vase",
+  "creation_date": "c. 1862",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "tin-glazed earthenware with enamel decoration",
+  "accession_number": "2008.14",
+  "id": "cmoa:things/2d053860-add6-4460-86f0-08985eb74ae2",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2008-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 19.0,
+  "item_depth": 0.0,
+  "item_diameter": 10.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=56407",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=61161&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bd8dead-1787-45b4-ada6-f10e78839f63",
+      "party_type": "Person",
+      "full_name": "Joseph-Théodore Deck",
+      "cited_name": "Deck, Joseph-Théodore",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1823-01-01",
+      "death_date": "1891-01-01",
+      "birth_place": " Ober-Elsass, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Robert Louis Stevenson",
+  "creation_date": "1887-1888",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "bronze",
+  "accession_number": "25.10",
+  "id": "cmoa:things/37efeb67-986a-4233-94ec-a168711dcf24",
+  "credit_line": "Gift of Mr. Brown Caldwell",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 25.0,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005165",
+  "provenance_text": "Brown Caldwell, Pittsburgh; gift to Museum, 1925.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126439&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

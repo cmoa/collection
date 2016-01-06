@@ -1,0 +1,39 @@
+{
+  "title": "Siegfried",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.21",
+  "id": "cmoa:things/38e39227-dffc-487a-9c09-296fca72c497",
+  "credit_line": "Gift of Friends of the Museum",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 81.125,
+  "item_height": 102.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010974",
+  "provenance_text": "Sidney Janis Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18062&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/07285488-a764-4eff-866a-9b6677826667",
+      "party_type": "Person",
+      "full_name": "Franz Kline",
+      "cited_name": "Kline, Franz",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

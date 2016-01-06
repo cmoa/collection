@@ -1,0 +1,51 @@
+{
+  "title": "Office Building and Store; Brooks Brothers Building, New York, NY; [exterior perspective]",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "pencil and watercolor on paper, framed",
+  "accession_number": "92.133",
+  "id": "cmoa:things/5d9c4c66-f204-48cb-b4f2-7d2d45d367a8",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 32.25,
+  "item_height": 46.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031185",
+  "provenance_text": "Kelmscott Gallery, Chicago, IL",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbeb89c1-69e8-4622-8e4e-50453bbf330e",
+      "party_type": "Organization",
+      "full_name": "La Farge and Morris",
+      "cited_name": "La Farge and Morris",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ab3e6171-e75e-43fc-8f45-9cc7dbdfb79e",
+      "party_type": "Person",
+      "full_name": "Birch Burdette Long",
+      "cited_name": "Long, Birch B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

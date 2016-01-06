@@ -1,0 +1,39 @@
+{
+  "title": "Woman Waiting for Telephone at County Fair",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "88.22.1",
+  "id": "cmoa:things/98f06eb3-4db0-4395-8794-70fcff2ea8ec",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1988-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.938,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026458",
+  "provenance_text": "The Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113375&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce4cf6b2-35ac-40a4-b102-29c205739746",
+      "party_type": "Person",
+      "full_name": "James Blair",
+      "cited_name": "Blair, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia, PA",
+      "death_place": null
+    }
+  ]
+}

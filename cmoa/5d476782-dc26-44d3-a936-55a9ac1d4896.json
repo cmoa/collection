@@ -1,0 +1,39 @@
+{
+  "title": "Homage to the Square: Joy",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "79.77.1.10",
+  "id": "cmoa:things/5d476782-dc26-44d3-a936-55a9ac1d4896",
+  "credit_line": "Gift of A. James Speyer in memory of Tillie S. Speyer",
+  "date_acquired": "1980-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3141",
+  "provenance_text": "Gift of A. James Speyer, Pittsburgh, PA, 1980.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118312&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e04e28c9-4b3e-4206-9cd6-3bc1d96c5b20",
+      "party_type": "Person",
+      "full_name": "Josef Albers",
+      "cited_name": "Albers, Josef",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Bottrop (Münster district, North Rhine-Westphalia, Germany)",
+      "death_place": "New Haven"
+    }
+  ]
+}

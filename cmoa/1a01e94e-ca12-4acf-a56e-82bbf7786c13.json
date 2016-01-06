@@ -1,0 +1,42 @@
+{
+  "title": "[portfolio cover to] Zeit-Taster. Eine kleine Kollektion utopisch-phantastischer Maschinen und Apparate",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "color lithograph",
+  "accession_number": "2007.60.1",
+  "id": "cmoa:things/1a01e94e-ca12-4acf-a56e-82bbf7786c13",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2007-12-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 10.625,
+  "item_height": 13.5,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=60680",
+  "provenance_text": "private collection, Germany\nCharles M. Young, Fine Prints and Drawings LLC (Portland, CT)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64556&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64557&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebf3e65a-f28f-4644-8035-553a058e5a67",
+      "party_type": "Person",
+      "full_name": "Johannes Molzahn",
+      "cited_name": "Molzahn, Johannes",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1892-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Duisburg, Germany",
+      "death_place": "Munich, Germany"
+    }
+  ]
+}

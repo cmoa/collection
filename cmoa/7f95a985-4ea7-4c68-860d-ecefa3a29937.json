@@ -1,0 +1,39 @@
+{
+  "title": "Arizona",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "pencil and charcoal",
+  "accession_number": "06.8",
+  "id": "cmoa:things/7f95a985-4ea7-4c68-860d-ecefa3a29937",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000257",
+  "provenance_text": "Purchased by museum, 1906.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111199&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa87ae20-1f89-4ab8-a122-4bdae9b0fed2",
+      "party_type": "Person",
+      "full_name": "Albert Lorey Groll",
+      "cited_name": "Groll, Albert L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1866-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Aristotle and Phyllis",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": "1484-12-23",
+  "creation_date_latest": "1514-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.268",
+  "id": "cmoa:things/f230f86d-97fe-4a61-b40b-d40daec78d79",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017493",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102572&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/debeee09-1550-4ec0-b735-a58da1763377",
+      "party_type": "Person",
+      "full_name": "Master M. Z.",
+      "cited_name": "Master M. Z.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1485-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

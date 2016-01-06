@@ -1,0 +1,37 @@
+{
+  "title": "Orpheus",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "bronze",
+  "accession_number": "81.56.4",
+  "id": "cmoa:things/2e531a0f-df6f-452b-aae0-96c12400ee04",
+  "credit_line": "Bequest of Mary Callery",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 32.5,
+  "item_height": 39.75,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021947",
+  "provenance_text": "Bequest of Mary Callery, New York, NY, 1981.",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac04dc38-6e87-4ec5-9a5f-a6a6b4d04845",
+      "party_type": "Person",
+      "full_name": "Mary Callery",
+      "cited_name": "Callery, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

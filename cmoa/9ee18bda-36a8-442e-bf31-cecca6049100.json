@@ -1,0 +1,39 @@
+{
+  "title": "Cast medal (Carnegie Institute Medal of Honor)",
+  "creation_date": "c. 1895",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "Plaster",
+  "accession_number": "78.34.36",
+  "id": "cmoa:things/9ee18bda-36a8-442e-bf31-cecca6049100",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.5,
+  "item_depth": 0.0,
+  "item_diameter": 3.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019980",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Unclassified",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5109&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7bf0af92-c085-410c-90f4-88c8d5fa4caa",
+      "party_type": "Person",
+      "full_name": "August Zeller",
+      "cited_name": "Zeller, August",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

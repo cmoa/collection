@@ -1,0 +1,39 @@
+{
+  "title": "Lower Manhattan",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.15",
+  "id": "cmoa:things/4a25369e-ec86-4b68-80c1-7dd83fa65dbd",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 37.875,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017311",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh, 1943; bequest to museum, 1974",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149699&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06be5919-ac4a-41c7-966e-c7a569525af8",
+      "party_type": "Person",
+      "full_name": "Maxim Kopf",
+      "cited_name": "Kopf, Maxim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

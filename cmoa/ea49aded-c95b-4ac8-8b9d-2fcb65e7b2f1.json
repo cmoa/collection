@@ -1,0 +1,39 @@
+{
+  "title": "Walking",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "hydrastone",
+  "accession_number": "74.49",
+  "id": "cmoa:things/ea49aded-c95b-4ac8-8b9d-2fcb65e7b2f1",
+  "credit_line": "Gift of Mrs. Alexander Archipenko Gray",
+  "date_acquired": "1974-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 9.75,
+  "item_height": 27.0,
+  "item_depth": 8.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017066",
+  "provenance_text": "(Pace Gallery, New York); gift to Museum [1]. \nNOTES:1. gift of Mrs. Alexander Archipenko",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/76d61884-b1bb-4232-8e2b-be9a3dc06c9a",
+      "party_type": "Person",
+      "full_name": "Alexander Archipenko",
+      "cited_name": "Archipenko, Alexander",
+      "role": null,
+      "nationality": "Ukrainian",
+      "birth_date": "1887-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Russia",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

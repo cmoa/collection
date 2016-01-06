@@ -1,0 +1,39 @@
+{
+  "title": "Demogorgon in the Cave of Eternity",
+  "creation_date": "c. 1588",
+  "creation_date_earliest": "1583-01-01",
+  "creation_date_latest": "1593-01-01",
+  "medium": "chiaroscuro woodcut printed from three blocks",
+  "accession_number": "16.15.8",
+  "id": "cmoa:things/623334c5-bc21-4f13-80c3-f39ccf55cc78",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001068",
+  "provenance_text": "American Art Association, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102161&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

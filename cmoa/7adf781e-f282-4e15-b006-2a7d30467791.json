@@ -1,0 +1,39 @@
+{
+  "title": "Song",
+  "creation_date": "2011",
+  "creation_date_earliest": "2011-01-01",
+  "creation_date_latest": "2011-01-01",
+  "medium": "video; color, sound, 366 min.",
+  "accession_number": "2012.10",
+  "id": "cmoa:things/7adf781e-f282-4e15-b006-2a7d30467791",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2012-04-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98326",
+  "provenance_text": "i8 Gallery, Reykjavik, Iceland",
+  "classification": "Video",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114524&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2be513e-d7cb-47b5-8bbf-885a72400157",
+      "party_type": "Person",
+      "full_name": "Ragnar Kjartansson",
+      "cited_name": "Kjartansson, Ragnar",
+      "role": null,
+      "nationality": "Icelandic",
+      "birth_date": "1976-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

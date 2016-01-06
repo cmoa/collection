@@ -1,0 +1,39 @@
+{
+  "title": "Kinderbacchanal",
+  "creation_date": "1534",
+  "creation_date_earliest": "1533-12-22",
+  "creation_date_latest": "1533-12-22",
+  "medium": "engraving",
+  "accession_number": "15.7.21",
+  "id": "cmoa:things/9da1a06a-c97c-4fb4-a75c-f7cc97140e4a",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000996",
+  "provenance_text": "Frederick Keppel & Company, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49094&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce7d6aa5-717e-492b-9e5c-accf8127e400",
+      "party_type": "Person",
+      "full_name": "Nicolaus Wilborn",
+      "cited_name": "Wilborn, Nicolaus",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1531-01-01",
+      "death_date": "1537-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

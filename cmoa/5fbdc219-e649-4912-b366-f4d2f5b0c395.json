@@ -1,0 +1,42 @@
+{
+  "title": "Place des Lices, St. Tropez",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "66.24.2",
+  "id": "cmoa:things/5fbdc219-e649-4912-b366-f4d2f5b0c395",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1966-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 32.25,
+  "item_height": 25.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012263",
+  "provenance_text": "Paul Signac [1863-1935]; Atelier Paul Signac, 1893 until 1924; Marcel Kapferer, Paris, France, 1924. Raphaël Gérard, Paris, France, March 26, 1931 until at least December 1933 [1]. E. Raudag?, Glasgow, Scotland, by 1940 [2]. Alex Reid & Lefèvre, London, England, 1966; Sam Salz, Inc., New York, NY; purchased by Museum, December 1966.\n \nNotes:\n[1]. Exhibited in \"Seurat et ses Amis\", Paris, December 1933-January 1934. \n[2]. This name might also be \"Randag\". See Signac catalogue raisonné by Françoise Cachin, Gallimard, Paris, 2000.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132412&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56879&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0a0ba0a-db16-419a-addf-439fd0670a7a",
+      "party_type": "Person",
+      "full_name": "Paul Signac",
+      "cited_name": "Signac, Paul",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1863-11-11",
+      "death_date": "1935-08-15",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, Fance"
+    }
+  ]
+}

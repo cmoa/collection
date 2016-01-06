@@ -1,0 +1,54 @@
+{
+  "title": "L'Aretino",
+  "creation_date": "c. 1655-1660",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1660-01-01",
+  "medium": "engraving",
+  "accession_number": "16.34.8",
+  "id": "cmoa:things/893627df-b70c-4ed3-aecb-f08e7a145f37",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-01-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001253",
+  "provenance_text": "F. Meder, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102143&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102144&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/485294c7-9e35-445f-b1f0-adf3c887bb28",
+      "party_type": "Person",
+      "full_name": "Cornelis Van Dalen II",
+      "cited_name": "Van Dalen, Cornelis",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1642-01-01",
+      "death_date": "1660-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e93d521c-d443-4b0c-86fe-12e7df38b03b",
+      "party_type": "Person",
+      "full_name": "Titian",
+      "cited_name": "Titian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1488-01-01",
+      "death_date": "1576-01-01",
+      "birth_place": "Pieve di Cadore, Belluno province, Veneto, Italy",
+      "death_place": "Venice"
+    }
+  ]
+}

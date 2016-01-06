@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "85.43.2",
+  "id": "cmoa:things/9dd44808-d0e1-4a46-b63a-4ad9d89d53e2",
+  "credit_line": "Gift of Elaine A. King",
+  "date_acquired": "1985-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025572",
+  "provenance_text": "Elaine King, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113388&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/634516a0-07af-4946-a02f-187b4d0940df",
+      "party_type": "Person",
+      "full_name": "J. D. Sloan",
+      "cited_name": "Sloan, J. D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

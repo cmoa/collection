@@ -1,0 +1,39 @@
+{
+  "title": "The Good News",
+  "creation_date": "c.1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "charcoal on cardboard",
+  "accession_number": "10.6.2",
+  "id": "cmoa:things/069118ba-c3ab-4e9a-b795-eaa769da9f0f",
+  "credit_line": "Purchase",
+  "date_acquired": "1910-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000511",
+  "provenance_text": "W.S. Budworth and Son; Purchased through the Art Society of Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48335&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30df251f-2a70-40f0-96b8-aaff6806d628",
+      "party_type": "Person",
+      "full_name": "Arthur I. Keller",
+      "cited_name": "Keller, Arthur I.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

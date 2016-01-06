@@ -1,0 +1,39 @@
+{
+  "title": "At the Piano",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "crayon on paper",
+  "accession_number": "18.25.14",
+  "id": "cmoa:things/0cb0a319-e777-494b-b0f6-edef1964f39f",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001765",
+  "provenance_text": "American Artists' War Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebb74905-bbc9-4333-96ef-dd6e113dece6",
+      "party_type": "Person",
+      "full_name": "Julian Alden Weir",
+      "cited_name": "Weir, Julian A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "West Point (Orange county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Wolfe Reciting Gray's Elegy.",
+  "creation_date": "c. 1903",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1908-01-01",
+  "medium": "pencil",
+  "accession_number": "07.8",
+  "id": "cmoa:things/1c3d7184-f9f3-457f-be22-d0b5ae463a89",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-01-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 27.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000322",
+  "provenance_text": "William De Leftwich Dodge, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149829&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6673025d-ef9c-4c54-8605-f8d30784df18",
+      "party_type": "Person",
+      "full_name": "William De Leftwich Dodge",
+      "cited_name": "Dodge, William D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

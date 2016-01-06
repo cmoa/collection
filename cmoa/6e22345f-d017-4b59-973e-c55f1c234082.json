@@ -1,0 +1,42 @@
+{
+  "title": "Allegory of Spring and Summer",
+  "creation_date": "c. 1575-1585",
+  "creation_date_earliest": "1559-12-22",
+  "creation_date_latest": "1600-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "63.6",
+  "id": "cmoa:things/6e22345f-d017-4b59-973e-c55f1c234082",
+  "credit_line": "Gift of Baron Wilhelm Ofenheim",
+  "date_acquired": "1963-03-28",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 56.5,
+  "item_height": 63.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011679",
+  "provenance_text": "Baron Wilhelm Ofenheim, Schloss Jaispitz, Moravia; gift to Museum, March 1963.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=253&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101363&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c0c90d0-6ad5-4f90-9082-7391549ae1a8",
+      "party_type": "Person",
+      "full_name": "Jacopo Robusti (called Tintoretto)",
+      "cited_name": "Robusti, Jacopo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1518-01-01",
+      "death_date": "1594-01-01",
+      "birth_place": "Venice (Venezia province, Veneto, Italy)",
+      "death_place": "Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

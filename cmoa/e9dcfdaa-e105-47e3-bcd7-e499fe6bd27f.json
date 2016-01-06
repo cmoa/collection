@@ -1,0 +1,51 @@
+{
+  "title": "Ono waterfall on the Kisokaidō",
+  "creation_date": "c. 1832",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1837-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.10",
+  "id": "cmoa:things/e9dcfdaa-e105-47e3-bcd7-e499fe6bd27f",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.375,
+  "item_height": 14.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001185",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Assoc., NYC, at sale of Judson Metzgar's Collection",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105806&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/c0db8dca-4094-4239-b160-e155781c3572",
+      "party_type": "Person",
+      "full_name": "Yohachi Nishimuraya",
+      "cited_name": "Yohachi Nishimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

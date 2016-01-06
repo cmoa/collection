@@ -1,0 +1,39 @@
+{
+  "title": "A Dog Looking out of a Kennel",
+  "creation_date": "1837",
+  "creation_date_earliest": "1837-01-01",
+  "creation_date_latest": "1837-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "92.116",
+  "id": "cmoa:things/40443599-b9df-4f28-9512-bb2ea0ccdd71",
+  "credit_line": "Purchase: gift of Frances G. Scaife",
+  "date_acquired": "1992-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 9.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030174",
+  "provenance_text": "Sir John Milbanke; (sale, Sotheby's, New York, 5 June 1992, lot 151); Francis G. Scaife; gift to Museum, June 1992.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38f5064e-7df3-4f95-9e63-b7ab39cbc2fa",
+      "party_type": "Person",
+      "full_name": "Sir Edwin Landseer",
+      "cited_name": "Landseer, Edwin",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1802-01-01",
+      "death_date": "1873-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

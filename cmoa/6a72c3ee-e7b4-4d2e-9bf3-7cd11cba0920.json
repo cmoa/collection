@@ -1,0 +1,39 @@
+{
+  "title": "Dirty Mind",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "india ink",
+  "accession_number": "70.19",
+  "id": "cmoa:things/6a72c3ee-e7b4-4d2e-9bf3-7cd11cba0920",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1970-05-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013027",
+  "provenance_text": "Lucebert, Holland",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121519&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40e9ba97-9046-40dd-a0b7-2603ad399f81",
+      "party_type": "Person",
+      "full_name": "Lucebert",
+      "cited_name": "Lucebert",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1924-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Alkmaar (North Holland, Netherlands)"
+    }
+  ]
+}

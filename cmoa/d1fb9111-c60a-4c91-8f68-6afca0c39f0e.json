@@ -1,0 +1,54 @@
+{
+  "title": "Pesmes, Franche-Comté",
+  "creation_date": "1825",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "lithograph on india paper",
+  "accession_number": "24.4.15",
+  "id": "cmoa:things/d1fb9111-c60a-4c91-8f68-6afca0c39f0e",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1924-03-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005105",
+  "provenance_text": "Fitzroy Carrington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110590&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110589&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c75faeb9-ad8b-4010-b49c-ee13d027397e",
+      "party_type": "Person",
+      "full_name": "Richard  Parkes Bonington",
+      "cited_name": "Bonington, Richard  Parkes",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1801-01-01",
+      "death_date": "1828-01-01",
+      "birth_place": " Arnold (Nottinghamshire, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/d1d844ac-d35e-4e25-b303-86bad2271a32",
+      "party_type": "Person",
+      "full_name": "Ciceri",
+      "cited_name": "Ciceri",
+      "role": null,
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

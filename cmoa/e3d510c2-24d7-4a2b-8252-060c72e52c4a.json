@@ -1,0 +1,51 @@
+{
+  "title": "Decanter",
+  "creation_date": "c. 1906-1920",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "cut leaded glass",
+  "accession_number": "77.43.5.A-B",
+  "id": "cmoa:things/e3d510c2-24d7-4a2b-8252-060c72e52c4a",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 5.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018678",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2524&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dbf3608a-3fd6-4ce5-8048-2f3d880196c2",
+      "party_type": "Organization",
+      "full_name": "Eggington Rich Cut Glass Co.",
+      "cited_name": "Eggington Rich Cut Glass Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/afc736df-1609-4f27-b0e4-207271da58c0",
+      "party_type": "Organization",
+      "full_name": "O.F. Eggington Co.",
+      "cited_name": "Eggington, O.F. Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

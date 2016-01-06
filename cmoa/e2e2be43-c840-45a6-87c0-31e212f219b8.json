@@ -1,0 +1,39 @@
+{
+  "title": "Children's Curiosity",
+  "creation_date": "1943-1948",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "91.56.9",
+  "id": "cmoa:things/e2e2be43-c840-45a6-87c0-31e212f219b8",
+  "credit_line": "Gift of Dr. and Mrs. Leonard Schwartz",
+  "date_acquired": "1992-01-23",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030072",
+  "provenance_text": "Dr. And Mrs. Leonard Schwartz, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113568&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d277c87-4174-4e29-b81b-08781f9b8ce0",
+      "party_type": "Person",
+      "full_name": "Bill Witt",
+      "cited_name": "Witt, Bill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1921-01-01",
+      "death_date": null,
+      "birth_place": "Newark, New Jersey",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Forest Devil",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "stainless steel tubes and aircraft cable",
+  "accession_number": "78.11",
+  "id": "cmoa:things/da55fd09-7ceb-4736-b06f-bd306263f429",
+  "credit_line": "Gift of the Women's Committee",
+  "date_acquired": "1978-05-11",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 384.0,
+  "item_height": 216.0,
+  "item_depth": 426.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019262",
+  "provenance_text": "Kenneth Snelson, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125700&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/236cb395-df93-4f28-be3e-edbf2eb8b33c",
+      "party_type": "Person",
+      "full_name": "Kenneth Snelson",
+      "cited_name": "Snelson, Kenneth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Pendleton, Oregon",
+      "death_place": null
+    }
+  ]
+}

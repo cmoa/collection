@@ -1,0 +1,39 @@
+{
+  "title": "Creamer",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "57.12.14",
+  "id": "cmoa:things/471f069d-042c-4848-bbd6-852b0a137e63",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.438,
+  "item_height": 3.688,
+  "item_depth": 0.0,
+  "item_diameter": 3.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010347",
+  "provenance_text": "G. David Thompson",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4183&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

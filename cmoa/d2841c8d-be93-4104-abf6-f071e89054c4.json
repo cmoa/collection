@@ -1,0 +1,42 @@
+{
+  "title": "The Tulip Mania of Holland",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "oil, acrylic, and silkscreen on canvas and fabric",
+  "accession_number": "86.2",
+  "id": "cmoa:things/d2841c8d-be93-4104-abf6-f071e89054c4",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 204.188,
+  "item_height": 132.125,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026044",
+  "provenance_text": "Michael Werner Gallery, Koln",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37207&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5521582-7b79-4219-8df3-2febf3994af7",
+      "party_type": "Person",
+      "full_name": "David Salle",
+      "cited_name": "Salle, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Norman (Norman, Cleveland county, Oklahoma, United States)",
+      "death_place": null
+    }
+  ]
+}

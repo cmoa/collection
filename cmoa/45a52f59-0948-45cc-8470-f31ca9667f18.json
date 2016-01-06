@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1928",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "etched on blown or mechanically produced glass",
+  "accession_number": "50.6.1",
+  "id": "cmoa:things/45a52f59-0948-45cc-8470-f31ca9667f18",
+  "credit_line": "Gift of William Schuette",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.25,
+  "item_depth": 0.0,
+  "item_diameter": 11.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008886",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=988&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e3f49e5-12aa-4c0f-90dc-254ce03c5de0",
+      "party_type": "Person",
+      "full_name": "Joseph Locke",
+      "cited_name": "Locke, Joseph",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Worcester, England",
+      "death_place": null
+    }
+  ]
+}

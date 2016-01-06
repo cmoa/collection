@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "stoneware",
+  "accession_number": "2006.52",
+  "id": "cmoa:things/0ab06e03-b7bf-4f26-b696-a4f70ad37990",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=30588",
+  "provenance_text": "The vessel came directly to Frank Lloyd Gallery from Richard DeVore's studio.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=42825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da7f4686-252a-47d9-a393-8068a09aae72",
+      "party_type": "Person",
+      "full_name": "Richard DeVore",
+      "cited_name": "DeVore Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Toledo, Ohio",
+      "death_place": "Colorado"
+    }
+  ]
+}

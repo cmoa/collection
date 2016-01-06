@@ -1,0 +1,51 @@
+{
+  "title": "Milk jug",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.8",
+  "id": "cmoa:things/49f51bcb-f7fe-478a-b547-7b0c4604200c",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 6.062,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003692",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1901&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/99ca8ea6-bfc6-4b69-be27-f73d648fe67e",
+      "party_type": "Person",
+      "full_name": "Marthe Katzer",
+      "cited_name": "Katzer, Marthe",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c196c019-1ac0-4bab-ba55-ea985cc0454b",
+      "party_type": "Organization",
+      "full_name": "Staatliche Majolika-Manufaktur",
+      "cited_name": "Staatliche Majolika-Manufaktur",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

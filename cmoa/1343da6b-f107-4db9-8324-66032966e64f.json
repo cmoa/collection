@@ -1,0 +1,37 @@
+{
+  "title": "New York",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "Gelatin silver print",
+  "accession_number": "2007.51.14",
+  "id": "cmoa:things/1343da6b-f107-4db9-8324-66032966e64f",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 14.125,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48827",
+  "provenance_text": "Acquired by Mr. Geroge Ebbs from Center for Photography Auction on 10/07/1989",
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b647058-d0d6-4f4e-ae3a-14454dc72523",
+      "party_type": "Person",
+      "full_name": "Harry Bowden",
+      "cited_name": "Bowden, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": " Los Angeles (Los Angeles county, California, United States)",
+      "death_place": " Sausalito (Marin county, California, United States)"
+    }
+  ]
+}

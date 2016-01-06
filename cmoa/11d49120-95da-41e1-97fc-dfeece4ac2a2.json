@@ -1,0 +1,39 @@
+{
+  "title": "Tateyama Betsuzan",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1480",
+  "id": "cmoa:things/11d49120-95da-41e1-97fc-dfeece4ac2a2",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.813,
+  "item_height": 11.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027402",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from T. Z. Shiota, San Francisco, CA., 6/27/1972.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34911&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17eb67da-ba1a-468e-bbde-a229aa800c75",
+      "party_type": "Person",
+      "full_name": "Yoshida Hiroshi",
+      "cited_name": "Yoshida Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1876-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Kurume, Kyushu",
+      "death_place": null
+    }
+  ]
+}

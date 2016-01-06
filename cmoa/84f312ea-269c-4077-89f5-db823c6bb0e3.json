@@ -1,0 +1,39 @@
+{
+  "title": "Medallion, Flagpole (\"Primitive Construction\")",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "Plaster",
+  "accession_number": "91.34.1",
+  "id": "cmoa:things/84f312ea-269c-4077-89f5-db823c6bb0e3",
+  "credit_line": "Gift of Carnegie-Mellon University",
+  "date_acquired": "1991-12-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 15.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029724",
+  "provenance_text": "Carnegie-Mellon University, Pittsburgh, PA",
+  "classification": "casts",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102537&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24b206e9-27db-4cf9-b735-6e1f4c5a872b",
+      "party_type": "Person",
+      "full_name": "Sylvain Salieres",
+      "cited_name": "Salieres, Sylvain",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1865-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Auch Gers, France",
+      "death_place": null
+    }
+  ]
+}

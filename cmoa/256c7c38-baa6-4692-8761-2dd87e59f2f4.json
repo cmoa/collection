@@ -1,0 +1,39 @@
+{
+  "title": "Calf Chow",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "78.55.6",
+  "id": "cmoa:things/256c7c38-baa6-4692-8761-2dd87e59f2f4",
+  "credit_line": "Gift of Edward Dunay",
+  "date_acquired": "1979-02-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.812,
+  "item_height": 50.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020109",
+  "provenance_text": "Edward Dunay, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114192&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93fd9df5-e0db-41b7-84db-df3453159eb1",
+      "party_type": "Person",
+      "full_name": "Robert Rauschenberg",
+      "cited_name": "Rauschenberg, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "Port Arthur (Jefferson County, Texas, United States)",
+      "death_place": "Captiva Island, Florida"
+    }
+  ]
+}

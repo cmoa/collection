@@ -1,0 +1,39 @@
+{
+  "title": "Desk",
+  "creation_date": "c. 1884",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "oak and brass with modern wool",
+  "accession_number": "92.11",
+  "id": "cmoa:things/cf711a54-fc91-4fda-ba95-88fcdad6553b",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1992-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 75.5,
+  "item_height": 30.0,
+  "item_depth": 37.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030183",
+  "provenance_text": "S. Bernard Pare & Associates, Montreal, Quebec, Canada",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90158&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee0800d9-bbd2-45c8-86d7-d797e56a1f71",
+      "party_type": "Person",
+      "full_name": "Henry Hobson Richardson",
+      "cited_name": "Richardson, Henry H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Priestley Plantation, LA",
+      "death_place": "Brookline, MA"
+    }
+  ]
+}

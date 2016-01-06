@@ -1,0 +1,39 @@
+{
+  "title": "Walter's Feet",
+  "creation_date": "c. 1981",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "dye diffusion transfer print (Polaroid)",
+  "accession_number": "81.46.5.1",
+  "id": "cmoa:things/d6d4ac2e-350f-4627-ac38-0804858b4493",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 3.25,
+  "item_height": 3.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021908",
+  "provenance_text": "Jann Kwasneski, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112760&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce65dafd-7f52-4b20-88a8-a4dde361267c",
+      "party_type": "Person",
+      "full_name": "Jann Kwasneski",
+      "cited_name": "Kwasneski, Jann",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

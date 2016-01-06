@@ -1,0 +1,51 @@
+{
+  "title": "Window Panel",
+  "creation_date": "1908-1912",
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "leaded glass",
+  "accession_number": "70.47.2",
+  "id": "cmoa:things/7b6b1f1b-dbcc-4527-aa3a-ce1102db4288",
+  "credit_line": "Purchase: gift of Loyalhanna Foundation",
+  "date_acquired": "1970-12-17",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 26.25,
+  "item_height": 38.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015825",
+  "provenance_text": "Encore Gallery, PA, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32912&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aaf1b25a-4951-4fd9-abb9-f2c9bd59efe4",
+      "party_type": "Person",
+      "full_name": "Louis Comfort Tiffany",
+      "cited_name": "Tiffany, Louis C.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/c35a3ab5-c758-4b6c-87d0-495031c73524",
+      "party_type": "Organization",
+      "full_name": "Tiffany Studios",
+      "cited_name": "Tiffany Studios",
+      "role": "maker",
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

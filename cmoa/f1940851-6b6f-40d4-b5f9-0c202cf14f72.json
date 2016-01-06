@@ -1,0 +1,42 @@
+{
+  "title": "Pine Flat Portrait Studio: Dakota",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2006.70.4",
+  "id": "cmoa:things/f1940851-6b6f-40d4-b5f9-0c202cf14f72",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.75,
+  "item_height": 45.5,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=81513",
+  "provenance_text": "Blum and Poe, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=44601&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71500&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c01a2036-a3d5-473b-be17-6a9837db9673",
+      "party_type": "Person",
+      "full_name": "Sharon Lockhart",
+      "cited_name": "Lockhart, Sharon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Norwood, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

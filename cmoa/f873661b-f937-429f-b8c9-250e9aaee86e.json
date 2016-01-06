@@ -1,0 +1,39 @@
+{
+  "title": "Valmontana",
+  "creation_date": "1757",
+  "creation_date_earliest": "1757-01-01",
+  "creation_date_latest": "1757-01-01",
+  "medium": "pen, watercolor, white and red chalk",
+  "accession_number": "76.49.9",
+  "id": "cmoa:things/f873661b-f937-429f-b8c9-250e9aaee86e",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 20.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018152",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3498&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b0765e8-678b-4154-8b23-1e563e11aea8",
+      "party_type": "Person",
+      "full_name": "Charles A. Natoire",
+      "cited_name": "Natoire, Charles A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1700-01-01",
+      "death_date": "1777-01-01",
+      "birth_place": "Nîmes (Gard, Languedoc-Roussillon, France)",
+      "death_place": "Castel Gandolfo (Roma province, Lazio, Italy)"
+    }
+  ]
+}

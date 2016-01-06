@@ -1,0 +1,39 @@
+{
+  "title": "Medallion of Benjamin Franklin",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "bristol biscuit porcelain",
+  "accession_number": "27.10.430",
+  "id": "cmoa:things/13558dee-efb9-4771-9f79-3aecb5753f9a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.938,
+  "item_depth": 0.0,
+  "item_diameter": 4.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005777",
+  "provenance_text": "Herbert Dupuy, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8398&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

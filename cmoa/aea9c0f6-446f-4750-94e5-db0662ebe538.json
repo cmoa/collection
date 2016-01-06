@@ -1,0 +1,45 @@
+{
+  "title": "Fan",
+  "creation_date": "c. 1774-1789",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "mother of pearl and paint",
+  "accession_number": "27.10.421",
+  "id": "cmoa:things/aea9c0f6-446f-4750-94e5-db0662ebe538",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.25,
+  "item_height": 11.188,
+  "item_depth": 0.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005770",
+  "provenance_text": "Unknown, Havana, Cuba; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, February 1903; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75402&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75403&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4609&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

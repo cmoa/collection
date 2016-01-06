@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1796-1813",
+  "creation_date_earliest": "1791-01-01",
+  "creation_date_latest": "1818-01-01",
+  "medium": "Porcelain",
+  "accession_number": "70.32.2172",
+  "id": "cmoa:things/5c53bd68-2ca7-4123-9b40-ef7a2c83149d",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 4.75,
+  "item_depth": 8.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014367",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2845&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/340faf62-3e8a-4856-8fd3-3228d3f075f9",
+      "party_type": "Organization",
+      "full_name": "Pinxton Porcelain Factory",
+      "cited_name": "Pinxton Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1796-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

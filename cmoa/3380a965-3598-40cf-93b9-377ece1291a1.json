@@ -1,0 +1,51 @@
+{
+  "title": "Écuelle",
+  "creation_date": "c. 1730",
+  "creation_date_earliest": "1725-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "58.21.A-C",
+  "id": "cmoa:things/3380a965-3598-40cf-93b9-377ece1291a1",
+  "credit_line": "Gift of Charles D. Armstrong, by exchange",
+  "date_acquired": "1958-04-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 5.75,
+  "item_height": 4.5,
+  "item_depth": 0.0,
+  "item_diameter": 7.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010687",
+  "provenance_text": "J.J. Klejman, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/82a1ad22-dcee-4973-8ec2-83aab41989c2",
+      "party_type": "Person",
+      "full_name": "Johann Ehrenfried Stadler",
+      "cited_name": "Stadler, Johann E.",
+      "role": "decorator",
+      "nationality": "German",
+      "birth_date": "1701-01-01",
+      "death_date": "1741-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

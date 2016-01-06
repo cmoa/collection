@@ -1,0 +1,39 @@
+{
+  "title": "Sketch: A Canal",
+  "creation_date": "no date",
+  "creation_date_earliest": "1873-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "graphite on tan paper",
+  "accession_number": "06.25.2",
+  "id": "cmoa:things/9fee2167-a1a8-4393-b1d2-2d0ce4e4ea93",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000218",
+  "provenance_text": "Alden Twachtman, Greenwich, Connecticut; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48014&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c9b1daa9-f2a5-40b0-b80b-bfac4a038b9d",
+      "party_type": "Person",
+      "full_name": "John Henry Twachtman",
+      "cited_name": "Twachtman, John H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": "Cincinnati, Ohio",
+      "death_place": "Gloucester, Massachusetts"
+    }
+  ]
+}

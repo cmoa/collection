@@ -1,0 +1,42 @@
+{
+  "title": "Day Is Done",
+  "creation_date": "2005-2006",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "video; color, sound; 169 min.",
+  "accession_number": "2009.13.A-.B",
+  "id": "cmoa:things/ce4079f1-b5fb-4f96-a59b-bfbc7745668b",
+  "credit_line": "Joseph Soffer Family Trust Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80977",
+  "provenance_text": "The artist through Electronic Arts Intermix, New York, NY",
+  "classification": "Video",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88689&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88690&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3cb714ea-12c2-4ccc-87fa-4a761d13c4eb",
+      "party_type": "Person",
+      "full_name": "Mike Kelley",
+      "cited_name": "Kelley, Mike",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Detroit, Michigan",
+      "death_place": "Los Angeles, CA"
+    }
+  ]
+}

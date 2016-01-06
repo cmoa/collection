@@ -1,0 +1,39 @@
+{
+  "title": "Workers",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "Inkjet print",
+  "accession_number": "2013.8.16",
+  "id": "cmoa:things/c6e79f6e-67e9-4970-a2f3-50de89db598d",
+  "credit_line": "Gift of The Heinz Endowments",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93651",
+  "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106963&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dba6d078-817c-45bf-82e1-d2fc65e6185e",
+      "party_type": "Person",
+      "full_name": "Renee Rosensteel",
+      "cited_name": "Rosensteel, R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Greensburg, PA",
+      "death_place": null
+    }
+  ]
+}

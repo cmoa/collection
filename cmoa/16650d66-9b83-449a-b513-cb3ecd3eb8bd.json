@@ -1,0 +1,39 @@
+{
+  "title": "Weltschmerz",
+  "creation_date": "c. 1946",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.12",
+  "id": "cmoa:things/16650d66-9b83-449a-b513-cb3ecd3eb8bd",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008146",
+  "provenance_text": "Rockwell Kent",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101088&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c93b85a2-9f1f-4e02-bf54-090918fe7976",
+      "party_type": "Person",
+      "full_name": "Rockwell Kent",
+      "cited_name": "Kent, Rockwell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " Tarrytown (Albany county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

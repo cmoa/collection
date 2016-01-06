@@ -1,0 +1,39 @@
+{
+  "title": "Edge of the Cliff",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2007.51.108",
+  "id": "cmoa:things/0e72352d-c4bb-42e4-b65f-3a7eb532383f",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49148",
+  "provenance_text": "George Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6c03e9d-6dcd-487b-9bbe-01beb71181c5",
+      "party_type": "Person",
+      "full_name": "Myra Wiggins",
+      "cited_name": "Wiggins, Myra",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

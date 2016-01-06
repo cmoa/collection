@@ -1,0 +1,51 @@
+{
+  "title": "Tumbler",
+  "creation_date": "designed 1932, manufactured c. 1978",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "blown glass",
+  "accession_number": "79.32.1",
+  "id": "cmoa:things/140f351f-a357-40da-8ca9-a53bf38c8024",
+  "credit_line": "Gift of J & L Lobmeyr",
+  "date_acquired": "1979-10-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.375,
+  "item_depth": 0.0,
+  "item_diameter": 2.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020309",
+  "provenance_text": "J & L Lobmeyr, Vienna, Austria",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=692&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/188deae9-d00e-4b00-9508-ba694c6755fb",
+      "party_type": "Person",
+      "full_name": "Adolf Loos",
+      "cited_name": "Loos, Adolf",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1870-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Brünn [now Brno], Moravia",
+      "death_place": "Kalksburg, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

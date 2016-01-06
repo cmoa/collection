@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Abstract)",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "monotype on paper",
+  "accession_number": "89.28.1433",
+  "id": "cmoa:things/e74cebc5-1c43-4aac-bda3-fea7f008d4a5",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.062,
+  "item_height": 11.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027340",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from S. H. Mori (Mary Diamond), Chicago, Ill., 12/1/1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34699&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ccefc5ec-323b-481f-af18-96a273a5c1aa",
+      "party_type": "Person",
+      "full_name": "Ushiku Kenji",
+      "cited_name": "Ushiku Kenji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1922-01-01",
+      "death_date": null,
+      "birth_place": "Chiba prefecture",
+      "death_place": null
+    }
+  ]
+}

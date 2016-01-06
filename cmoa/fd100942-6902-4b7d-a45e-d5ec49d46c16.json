@@ -1,0 +1,37 @@
+{
+  "title": "Portrait of Mrs. Hoppner",
+  "creation_date": null,
+  "creation_date_earliest": "1778-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.14",
+  "id": "cmoa:things/fd100942-6902-4b7d-a45e-d5ec49d46c16",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.75,
+  "item_height": 36.875,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017300",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a77375f-b3d7-4b11-92ad-6937011fa53b",
+      "party_type": "Person",
+      "full_name": "John Hoppner",
+      "cited_name": "Hoppner, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1758-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

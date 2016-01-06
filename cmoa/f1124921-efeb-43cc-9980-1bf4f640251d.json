@@ -1,0 +1,39 @@
+{
+  "title": "Alya",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "oil and enamel on canvas",
+  "accession_number": "2002.1.1",
+  "id": "cmoa:things/f1124921-efeb-43cc-9980-1bf4f640251d",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2002-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 51.625,
+  "item_height": 66.625,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004426",
+  "provenance_text": "Lawrence Markey, Inc., New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10296&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7c1d3d6-4fb5-4453-965a-ad3893f412bc",
+      "party_type": "Person",
+      "full_name": "Paul Feeley",
+      "cited_name": "Feeley, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": " Des Moines (Polk county, Iowa, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

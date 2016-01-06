@@ -1,0 +1,54 @@
+{
+  "title": "Handle, Lever Door",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "aluminum",
+  "accession_number": "2001.23.3.1",
+  "id": "cmoa:things/51d8f295-5590-4178-a2ef-24b11b96c952",
+  "credit_line": "Gift of Franz Schneider Brakel Gmbh & Co.",
+  "date_acquired": "2001-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.688,
+  "item_height": 5.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004214",
+  "provenance_text": "The Donor, Brakel, Germany",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5560&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5559&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/be870b6e-8030-4326-a63f-ee08db213bd6",
+      "party_type": "Organization",
+      "full_name": "Franz Schneider Brakel GmbH + Co.",
+      "cited_name": "Franz Schneider Brakel GmbH + Co.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1881-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

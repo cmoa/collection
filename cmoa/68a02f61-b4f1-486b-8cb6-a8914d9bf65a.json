@@ -1,0 +1,51 @@
+{
+  "title": "Christ Giving the Keys to St. Peter",
+  "creation_date": "c. 1700",
+  "creation_date_earliest": "1690-01-01",
+  "creation_date_latest": "1710-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "63.24",
+  "id": "cmoa:things/68a02f61-b4f1-486b-8cb6-a8914d9bf65a",
+  "credit_line": "Gift of Mr. and Mrs. George L. Craig in memory of Samuel Brown Casey",
+  "date_acquired": "1963-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 57.125,
+  "item_height": 66.625,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011662",
+  "provenance_text": "Peter Casteel; James Stanley, 10th Earl of Derby, 1728; Collection of the Earls of Derby, Knowsley Hall, England; (sale, Christie, Manson & Woods, Ltd., London, 8 October 1954, no. 134); L. Loyd; F. Kleinberger & Company, Inc., New York, until 1963; Mr. and Mrs. George L. Craig; gift to Museum, December 1963.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19245&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36c94e3f-51b2-4727-8a11-b02cabc8e644",
+      "party_type": "Person",
+      "full_name": "Follower of Rubens",
+      "cited_name": "Rubens, Follower of",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Roger Anliker (in Leather Jacket)",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.42.5",
+  "id": "cmoa:things/28fad313-42c7-4931-a429-fcccbeecc36e",
+  "credit_line": "Gift of Elizabeth Wallace Hood in memory of her husband Samuel Stevens Hood",
+  "date_acquired": "1984-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 13.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024868",
+  "provenance_text": "Elizabeth Wallace Hood, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111740&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/557c4137-e3db-4a97-bfe7-2e2b1f72bf93",
+      "party_type": "Person",
+      "full_name": "Samuel Stevens Hood",
+      "cited_name": "Hood, Samuel S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1917-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

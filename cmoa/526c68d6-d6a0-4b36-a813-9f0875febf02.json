@@ -1,0 +1,47 @@
+{
+  "title": "Liber Veritatis or a Collection of Two Hundred Prints after Original Designs by Claude Lorrain, Volume 3",
+  "creation_date": "1819",
+  "creation_date_earliest": "1819-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "mezzotint engravings bound in one volume",
+  "accession_number": "95.98.3",
+  "id": "cmoa:things/526c68d6-d6a0-4b36-a813-9f0875febf02",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1995-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 16.25,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035880",
+  "provenance_text": "Edward Duff Balken, Pittsburgh, PA",
+  "classification": "books",
+  "images": null,
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ba15b87-03fe-4ada-bf28-ae6314207b99",
+      "party_type": "Person",
+      "full_name": "Richard Earlom",
+      "cited_name": "Earlom, Richard",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1743-01-01",
+      "death_date": "1822-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/f9c9fbfa-bad5-4c44-85a5-99e51081bb9f",
+      "party_type": "Person",
+      "full_name": "Claude Lorrain",
+      "cited_name": "Lorrain, Claude",
+      "role": "artist",
+      "nationality": "French",
+      "birth_date": "1604-01-01",
+      "death_date": "1682-01-01",
+      "birth_place": "Champagne (Ardèche, Rhône-Alpes, France)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cassandra, b. 1983",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2006.15.1",
+  "id": "cmoa:things/6f854fa5-8764-4b9b-8880-802fd477090b",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2006-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.625,
+  "item_height": 28.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=22702",
+  "provenance_text": "Greenberg Van Doren Gallery, New York City",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38737&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0f08a534-63e5-40cd-820c-74437a7789ac",
+      "party_type": "Person",
+      "full_name": "Katy Grannan",
+      "cited_name": "Grannan, Katy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": "Arlington, MA",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Faceted Planes in Red",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "glass, blown, with battuto",
+  "accession_number": "2001.33",
+  "id": "cmoa:things/8b609bef-d73d-45c2-8846-69dadddf57cd",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2001-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 7.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004238",
+  "provenance_text": "Galleria San Nicolo, Venice, Italy",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7e38492d-42ae-4e04-b814-082c7e4a6e21",
+      "party_type": "Person",
+      "full_name": "Philip Baldwin",
+      "cited_name": "Baldwin, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "New York",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eb3c2e4f-989e-42e2-aaed-964d8562a665",
+      "party_type": "Person",
+      "full_name": "Monica Guggisberg",
+      "cited_name": "Guggisberg, Monica",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

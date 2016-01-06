@@ -1,0 +1,37 @@
+{
+  "title": "Pour Jorn",
+  "creation_date": "1976",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "79.6.7",
+  "id": "cmoa:things/75d12b3e-e5c1-4cde-9e34-c82ea87fa5bc",
+  "credit_line": "Gift of the Asger Jorn Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020870",
+  "provenance_text": "Galerie van de Loo, Munich, Germany",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c46f98e7-73f2-4487-9ac5-b17d05492273",
+      "party_type": "Person",
+      "full_name": "Wifredo Lam",
+      "cited_name": "Lam, Wifredo",
+      "role": null,
+      "nationality": "Cuban",
+      "birth_date": "1902-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Sagua la Grande (Villa Clara, Cuba)",
+      "death_place": "Paris (Ville de Paris department, Ile-de-France, France)"
+    }
+  ]
+}

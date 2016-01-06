@@ -1,0 +1,51 @@
+{
+  "title": "Mausoleum in Blickling Park, Norfolk, England",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.23.6",
+  "id": "cmoa:things/d1e5dbb4-c592-4a19-854b-3a795ca609d2",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-12-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.5,
+  "item_depth": 9.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029650",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e2cace81-52b2-476c-a6be-8a6c6ce37fa2",
+      "party_type": "Person",
+      "full_name": "Joseph Bonomi",
+      "cited_name": "Bonomi, Joseph",
+      "role": "architect",
+      "nationality": "British",
+      "birth_date": "1739-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "Rome (Roma province, Lazio, Italy)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

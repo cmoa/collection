@@ -1,0 +1,39 @@
+{
+  "title": "August Showers",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.94",
+  "id": "cmoa:things/65f5e35f-d87b-4ecd-9f72-e84743664089",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012966",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124191&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9494af51-fedd-459a-8c65-70495140c193",
+      "party_type": "Person",
+      "full_name": "Douglas Warner Gorsline",
+      "cited_name": "Gorsline, Douglas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Rochester (Monroe county, New York state, United States)",
+      "death_place": "Dijon (Côte-d'Or, Burgundy region, France)"
+    }
+  ]
+}

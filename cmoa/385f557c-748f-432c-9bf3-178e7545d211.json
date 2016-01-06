@@ -1,0 +1,39 @@
+{
+  "title": "Light Construction I",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "shaped canvas with neon element and acrylic paint",
+  "accession_number": "2010.19",
+  "id": "cmoa:things/385f557c-748f-432c-9bf3-178e7545d211",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "2010-04-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 58.375,
+  "item_height": 49.375,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=90056",
+  "provenance_text": null,
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104170&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c9549c4-60a0-480a-bdff-74e5602c1c89",
+      "party_type": "Person",
+      "full_name": "Jane Haskell",
+      "cited_name": "Haskell, Jane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Cedarhurst, NY",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

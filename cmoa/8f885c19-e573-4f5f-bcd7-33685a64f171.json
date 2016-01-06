@@ -1,0 +1,39 @@
+{
+  "title": "Vesta",
+  "creation_date": null,
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "49.10",
+  "id": "cmoa:things/8f885c19-e573-4f5f-bcd7-33685a64f171",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008452",
+  "provenance_text": "Jacob Kainen",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100396&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d6e46e0-56d6-4d5a-82e3-2b0bfd975783",
+      "party_type": "Person",
+      "full_name": "Jacob Kainen",
+      "cited_name": "Kainen, Jacob",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": "Waterbury (New Haven county, Connecticut, United States)",
+      "death_place": null
+    }
+  ]
+}

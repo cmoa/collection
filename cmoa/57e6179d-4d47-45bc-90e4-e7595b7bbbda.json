@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "ink and gouache on paper",
+  "accession_number": "2014.80.2",
+  "id": "cmoa:things/57e6179d-4d47-45bc-90e4-e7595b7bbbda",
+  "credit_line": "Gift of the James and Charlotte Park Brooks Foundation",
+  "date_acquired": "2015-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106949",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135613&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135614&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56b44293-ca3f-46ad-93d5-77e275d8b947",
+      "party_type": "Person",
+      "full_name": "James Brooks",
+      "cited_name": "Brooks, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Chatter Table",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "Fountainhead (countertop) and white oak, with painted decoration",
+  "accession_number": "2011.35",
+  "id": "cmoa:things/fd1ac7fc-96fc-4bf6-bae3-136dbb4216fb",
+  "credit_line": "Gift of Deena and Jerome Kaplan",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 43.0,
+  "item_height": 35.0,
+  "item_depth": 20.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92224",
+  "provenance_text": "Collection of Deena and Jerome Kaplan, Bethesda, MD\nCommissioned directly from the artist, December 16, 1989.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106121&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9691113-6a30-48bc-80eb-16ae83c37823",
+      "party_type": "Person",
+      "full_name": "Mark Sfirri",
+      "cited_name": "Sfirri, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

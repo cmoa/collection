@@ -1,0 +1,37 @@
+{
+  "title": "Multi Case",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "80.87.2",
+  "id": "cmoa:things/98ac1919-7cc5-4ada-8369-7f067c07231d",
+  "credit_line": "Gift of Marjorie Dorman",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.5,
+  "item_height": 19.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021376",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3ce4865-8db9-426c-a119-6640164d657f",
+      "party_type": "Person",
+      "full_name": "Gordon House",
+      "cited_name": "House, Gordon",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1932-01-01",
+      "death_date": "2004-01-01",
+      "birth_place": "Pontardawe (Neath and Port Talbot, Wales, United Kingdom)",
+      "death_place": "London"
+    }
+  ]
+}

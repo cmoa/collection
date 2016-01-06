@@ -1,0 +1,42 @@
+{
+  "title": "Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "etching",
+  "accession_number": "49.3.2",
+  "id": "cmoa:things/8731adcd-7d6c-4e47-80e5-ae1358041482",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008730",
+  "provenance_text": "Henry Winslow [1874-1953?]. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100619&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100620&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6df3f2c-a6ef-4eca-b847-baced2679620",
+      "party_type": "Person",
+      "full_name": "Henry Winslow",
+      "cited_name": "Winslow, Henry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Tarantino chair",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "E.V.A. closed cell foam",
+  "accession_number": "2005.60",
+  "id": "cmoa:things/da943232-b42a-42f0-8633-c608849a4f1e",
+  "credit_line": "Purchase",
+  "date_acquired": "2005-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 17.75,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=17486",
+  "provenance_text": "This chair was purchased directly from Sharon and Lawrence Tarantino.  It was on display in the kid size: The Material World of Childhood exhibition.",
+  "classification": "Plastic/Synthetic",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e9f2611-fd12-4fae-951b-2a7a4c715d32",
+      "party_type": "Person",
+      "full_name": "Sharon Tarantino",
+      "cited_name": "Tarantino, Sharon",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1004be80-ceda-4ba8-9a02-30a8b5f581f8",
+      "party_type": "Person",
+      "full_name": "Lawrence J. Tarantino",
+      "cited_name": "Tarantino, Lawrence J.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/04d39d64-48ea-4fa5-9777-280f382df9e7",
+      "party_type": "Organization",
+      "full_name": "Tarantino Studio",
+      "cited_name": "Tarantino Studio",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "2001-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b7c505b3-1ddf-459e-bd03-5f1773349319",
+      "party_type": "Organization",
+      "full_name": "Design Ideas",
+      "cited_name": "Design Ideas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1984-01-01",
+      "death_date": null,
+      "birth_place": "Springfield, IL",
+      "death_place": null
+    }
+  ]
+}

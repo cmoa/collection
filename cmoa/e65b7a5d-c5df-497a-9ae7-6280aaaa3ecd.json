@@ -1,0 +1,39 @@
+{
+  "title": "The Arch of Constantine. Veduta dell' Arco Costantino (View of the Arch of Constantine)",
+  "creation_date": "1771",
+  "creation_date_earliest": "1771-01-01",
+  "creation_date_latest": "1771-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "60.45.19",
+  "id": "cmoa:things/e65b7a5d-c5df-497a-9ae7-6280aaaa3ecd",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011262",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72705&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/017745c5-df0f-479b-ae66-abca5c09671d",
+      "party_type": "Person",
+      "full_name": "Giovanni Battista Piranesi",
+      "cited_name": "Piranesi, Giovanni B.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1720-01-01",
+      "death_date": "1778-01-01",
+      "birth_place": "Mogliano (Macerata province, Marches, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

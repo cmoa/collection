@@ -1,0 +1,51 @@
+{
+  "title": "Narcissus at the Well",
+  "creation_date": "1520-1550",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1549-12-22",
+  "medium": "woodcut on paper",
+  "accession_number": "16.15.7",
+  "id": "cmoa:things/048fbd76-a39c-41b8-a3bb-40c86896800d",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001067",
+  "provenance_text": "American Art Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101628&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f07b7e3-da52-49d7-bfe8-0c6ebc5ca34a",
+      "party_type": "Person",
+      "full_name": "Antonio da Trento",
+      "cited_name": "Trento, Antonio da",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1495-01-01",
+      "death_date": "1535-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4bdee88b-0e02-4973-ab26-f730dd3ddddf",
+      "party_type": "Person",
+      "full_name": "Parmigianino",
+      "cited_name": "Parmigianino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1503-01-01",
+      "death_date": "1540-01-01",
+      "birth_place": "Parma, Emilia-Romagna, Italy",
+      "death_place": "Casalmaggiore, Lombardy, Italy"
+    }
+  ]
+}

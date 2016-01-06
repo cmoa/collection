@@ -1,0 +1,39 @@
+{
+  "title": "Mulcord's Orchard, East Hampton",
+  "creation_date": "1883",
+  "creation_date_earliest": "1883-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "etching",
+  "accession_number": "53.6",
+  "id": "cmoa:things/dbfa12fe-26d0-402b-9527-94862dca8f2f",
+  "credit_line": "Gift of Mr. and Mrs. Gordon B. Washburn",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009174",
+  "provenance_text": "Thomas Moran [1837-1926]. Mr. and Mrs. Gordon Bailey Washburn, Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1953.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72480&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/758eeff1-9995-43c5-8524-ca1b8a8c257c",
+      "party_type": "Person",
+      "full_name": "Thomas Moran",
+      "cited_name": "Moran, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Bolton (Bolton, England, United Kingdom)",
+      "death_place": "Santa Barbara (Santa Barbara county, California, United States)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Francis Scott",
+  "creation_date": null,
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1871-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.187",
+  "id": "cmoa:things/ffb78671-badf-4c30-b3e4-b1d59c4d23ac",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.75,
+  "item_height": 2.375,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005644",
+  "provenance_text": "(Clara Millard, Teddington, England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, September 27, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73652&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73653&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8688e2e-e02b-4f95-8bdb-60ea1d7914ef",
+      "party_type": "Person",
+      "full_name": "Pierre Edouard Gautier-D'Agoty",
+      "cited_name": "Gautier-D'Agoty, Pierre E.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1775-01-01",
+      "death_date": "1871-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

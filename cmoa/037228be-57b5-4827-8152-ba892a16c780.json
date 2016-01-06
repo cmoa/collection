@@ -1,0 +1,39 @@
+{
+  "title": "Industrie-Denkmäler",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "etching on Van Gelder Zonen wove paper",
+  "accession_number": "2007.60.3",
+  "id": "cmoa:things/037228be-57b5-4827-8152-ba892a16c780",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2007-12-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=51744",
+  "provenance_text": "private collection, Germany\nCharles M. Young, Fine Prints and Drawings LLC (Portland, CT)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=64559&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebf3e65a-f28f-4644-8035-553a058e5a67",
+      "party_type": "Person",
+      "full_name": "Johannes Molzahn",
+      "cited_name": "Molzahn, Johannes",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1892-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Duisburg, Germany",
+      "death_place": "Munich, Germany"
+    }
+  ]
+}

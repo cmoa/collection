@@ -1,0 +1,51 @@
+{
+  "title": "Camera Work, Vol. 7",
+  "creation_date": "1904",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "printed book with photogravures",
+  "accession_number": "2007.51.86.3",
+  "id": "cmoa:things/92557026-16d4-44f5-bd19-83e83859e92f",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 12.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89382",
+  "provenance_text": "George Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56118&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111031&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111029&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111030&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111032&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55843eef-94d3-45e1-befd-734c6805acdd",
+      "party_type": "Person",
+      "full_name": "Alfred Stieglitz",
+      "cited_name": "Stieglitz, Alfred",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1864-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Hoboken (Hudson county, New Jersey, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

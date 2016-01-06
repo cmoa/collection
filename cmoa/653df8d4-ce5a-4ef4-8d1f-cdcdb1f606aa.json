@@ -1,0 +1,39 @@
+{
+  "title": "Mädchenkopf (Head of a Girl)",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "woodcut on medium weight cream wove paper",
+  "accession_number": "2008.64",
+  "id": "cmoa:things/653df8d4-ce5a-4ef4-8d1f-cdcdb1f606aa",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=65397",
+  "provenance_text": "Charles M. Young, Portland, CT",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107554&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0767b1f2-b66a-4b65-901e-89e45112bf3f",
+      "party_type": "Person",
+      "full_name": "Max Kaus",
+      "cited_name": "Kaus, Max",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1891-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Berlin",
+      "death_place": "Berlin"
+    }
+  ]
+}

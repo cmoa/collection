@@ -1,0 +1,39 @@
+{
+  "title": "Kleine Welten IV",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "color lithograph",
+  "accession_number": "85.80.6",
+  "id": "cmoa:things/09a003b5-ec08-45b7-aafd-be95b5ba7c90",
+  "credit_line": "Gift of Irene Pasinski",
+  "date_acquired": "1986-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025801",
+  "provenance_text": "Irene Pasinski, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65540&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/85b674a4-7f05-41f2-b13c-b47821b8ca5a",
+      "party_type": "Person",
+      "full_name": "Vassily Kandinsky",
+      "cited_name": "Kandinsky, Vassily",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1866-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": " Moscow (Moskva autonomous city, Rossiya republic, Russia)",
+      "death_place": "Neuilly-sur-Seine (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

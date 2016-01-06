@@ -1,0 +1,39 @@
+{
+  "title": "Facecut Lookout - Policy",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "ballpoint pen on paper",
+  "accession_number": "87.38",
+  "id": "cmoa:things/4d4fe8d4-097f-4dea-a861-fc764e4bb7e1",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1987-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 10.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026364",
+  "provenance_text": "Jim Denney, McKenzie Bridge, OR",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89473&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee2cc0d5-3d81-476b-9bb5-a434fd77e44a",
+      "party_type": "Person",
+      "full_name": "Jim Denney",
+      "cited_name": "Denney, Jim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

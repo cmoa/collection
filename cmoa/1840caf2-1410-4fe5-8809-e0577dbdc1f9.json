@@ -1,0 +1,39 @@
+{
+  "title": "Harbor Mole",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.106",
+  "id": "cmoa:things/1840caf2-1410-4fe5-8809-e0577dbdc1f9",
+  "credit_line": "Gift of Frances L. Drew, M.D.",
+  "date_acquired": "1985-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 39.75,
+  "item_height": 31.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024480",
+  "provenance_text": "F. R. Schon, Switzerland and Toronto, by 1936-40; Dominion Gallery, Montreal, 1943 or 1944; Mr. and Mrs. John Drew, Pittsburgh, by 1946; Fractional gift of  Frances L. Drew, M.D. (Mrs. John Drew), 1984",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10223&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10dcef74-2855-43d3-948c-96d03822ba17",
+      "party_type": "Person",
+      "full_name": "Lyonel Feininger",
+      "cited_name": "Feininger, Lyonel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "New York City",
+      "death_place": "New York City"
+    }
+  ]
+}

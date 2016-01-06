@@ -1,0 +1,39 @@
+{
+  "title": "From My Studio Window",
+  "creation_date": null,
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "65.25",
+  "id": "cmoa:things/6f239696-ef40-4940-b799-fa7a2a823d2d",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1965-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.75,
+  "item_height": 18.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011917",
+  "provenance_text": "Gift of Sara M. Winokur and James L. Winokur",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99829&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5abffa78-a90e-436f-bb22-6f392c088164",
+      "party_type": "Person",
+      "full_name": "Joseph Zaritsky",
+      "cited_name": "Zaritsky, Joseph",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1891-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Borispol (Kijev oblast, Ukraine)",
+      "death_place": "Tel Aviv-Jaffa (Tel Aviv district, Israel)"
+    }
+  ]
+}

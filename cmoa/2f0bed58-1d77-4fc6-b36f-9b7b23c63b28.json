@@ -1,0 +1,39 @@
+{
+  "title": "Dish, Leaf",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "earthenware",
+  "accession_number": "70.32.1967",
+  "id": "cmoa:things/2f0bed58-1d77-4fc6-b36f-9b7b23c63b28",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 1.375,
+  "item_depth": 6.187,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014136",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2350&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8e2939a-b385-441f-a6f6-c38dfcfeec95",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire or Leeds",
+      "cited_name": "unknown English, Staffordshire or Leeds",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

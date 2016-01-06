@@ -1,0 +1,42 @@
+{
+  "title": "Go Away",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2009.1",
+  "id": "cmoa:things/9ddcd51d-3f6b-4a1e-8cbe-5f6a21fec4ac",
+  "credit_line": "Purchase: Gift of Jill and Peter Kraus in honor of Richard Armstrong",
+  "date_acquired": "2009-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 60.0,
+  "item_height": 80.125,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=78165",
+  "provenance_text": "The artist through Peter Freeman, Inc., New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98113&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88682&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e68bc81-0aaf-4422-bf8f-18a3ae0a82b5",
+      "party_type": "Person",
+      "full_name": "Mel Bochner",
+      "cited_name": "Bochner, Mel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

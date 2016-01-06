@@ -1,0 +1,51 @@
+{
+  "title": "Interior hall, possibly House in Collingham Gardens, London, England; [interior perspective]",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "pencil and ink on board",
+  "accession_number": "92.127.7",
+  "id": "cmoa:things/062bf50c-29da-4284-a8c4-c1d99a8fc017",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 11.375,
+  "item_height": 18.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031158",
+  "provenance_text": "Kelmscott Gallery, Chicago, IL",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98920&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0a95c27-760f-423d-8709-a2cff030326d",
+      "party_type": "Person",
+      "full_name": "T. Raffles Davison",
+      "cited_name": "Davison, T. R.",
+      "role": "delineator",
+      "nationality": "British",
+      "birth_date": "1853-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5663f2f2-c665-4a58-93aa-6f63229339da",
+      "party_type": "Collaboration",
+      "full_name": "Ernest George and Harold Peto",
+      "cited_name": "George, Ernest and Peto, Harold",
+      "role": "possible architects",
+      "nationality": "British",
+      "birth_date": "1876-01-01",
+      "death_date": "1892-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

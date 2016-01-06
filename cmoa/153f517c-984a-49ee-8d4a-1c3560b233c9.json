@@ -1,0 +1,42 @@
+{
+  "title": "Furniture for New York State Capitol, Albany, New York (design for chair, front, side, and rear view)",
+  "creation_date": "1875-1886",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1886-01-01",
+  "medium": "graphite on tissue paper",
+  "accession_number": "91.15.2.55",
+  "id": "cmoa:things/153f517c-984a-49ee-8d4a-1c3560b233c9",
+  "credit_line": "Purchase: gift of J. L. Hillman Simonds",
+  "date_acquired": "1991-10-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 10.938,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029527",
+  "provenance_text": "Earle G. Shettleworth, Jr., ME, Augusta",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118277&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118120&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee0800d9-bbd2-45c8-86d7-d797e56a1f71",
+      "party_type": "Person",
+      "full_name": "Henry Hobson Richardson",
+      "cited_name": "Richardson, Henry H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-01-01",
+      "death_date": "1886-01-01",
+      "birth_place": "Priestley Plantation, LA",
+      "death_place": "Brookline, MA"
+    }
+  ]
+}

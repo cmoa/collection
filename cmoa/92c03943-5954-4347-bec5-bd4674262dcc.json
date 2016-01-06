@@ -1,0 +1,42 @@
+{
+  "title": "Maud, Standing",
+  "creation_date": "1876 - 1878",
+  "creation_date_earliest": "1876-01-01",
+  "creation_date_latest": "1878-01-01",
+  "medium": "etching and drypoint printed in black-brown ink on laid paper",
+  "accession_number": "74.7.240",
+  "id": "cmoa:things/92c03943-5954-4347-bec5-bd4674262dcc",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017436",
+  "provenance_text": "Charles J. Rosenbloom (Lugt Suppl. 633b); bequest to museum",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55405&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=246&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

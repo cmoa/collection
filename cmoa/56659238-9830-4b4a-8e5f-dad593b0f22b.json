@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "gouache and ink on paper",
+  "accession_number": "91.8",
+  "id": "cmoa:things/56659238-9830-4b4a-8e5f-dad593b0f22b",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "1991-06-27",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 18.625,
+  "item_height": 16.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030098",
+  "provenance_text": "Robert Miller Gallery, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148823&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26783&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c75f0cb0-bbf6-4be1-9d8e-c4f32d38aad4",
+      "party_type": "Person",
+      "full_name": "Eva Hesse",
+      "cited_name": "Hesse, Eva",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Hamburg (Hamburg state, Germany)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

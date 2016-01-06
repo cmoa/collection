@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1750-1765",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "61.41.18",
+  "id": "cmoa:things/1f35dd48-53e6-4f83-8c96-9229bab83a05",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1961-09-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.25,
+  "item_depth": 0.0,
+  "item_diameter": 6.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011430",
+  "provenance_text": "Mrs. Fred C. Foy, Rector, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4198&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ae78c566-7e28-4f00-9611-9c17bad1105a",
+      "party_type": "Organization",
+      "full_name": "Hochst Pottery and Porcelain Factory",
+      "cited_name": "Hochst Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1746-01-01",
+      "death_date": "1796-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Landscape - Winter",
+  "creation_date": "1908",
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1908-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.101",
+  "id": "cmoa:things/2d67530e-3110-4d99-a322-edd92cd53240",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 17.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49138",
+  "provenance_text": "Sotheby's New York (10/15/92)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112867&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed0cef9e-21db-420b-a456-7a9a8c9c1657",
+      "party_type": "Person",
+      "full_name": "Clarence H. White",
+      "cited_name": "White, Clarence H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "West Carlisle, Ohio",
+      "death_place": null
+    }
+  ]
+}

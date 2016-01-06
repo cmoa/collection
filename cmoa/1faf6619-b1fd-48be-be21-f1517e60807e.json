@@ -1,0 +1,42 @@
+{
+  "title": "Commemorative medal (Fritz Holm)",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "bronze",
+  "accession_number": "78.34.16",
+  "id": "cmoa:things/1faf6619-b1fd-48be-be21-f1517e60807e",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.25,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019958",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5635&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5634&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/245ac622-e43b-432f-b2cf-e5f9f22b8402",
+      "party_type": "Person",
+      "full_name": "Albert Bruce-Joy",
+      "cited_name": "Bruce-Joy, Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1842-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "unglazed porcelain",
+  "accession_number": "86.44",
+  "id": "cmoa:things/79c4ff71-c066-4b7f-b2bf-b19d37d49c9f",
+  "credit_line": "Gift of Helen Drutt Gallery",
+  "date_acquired": "1986-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.125,
+  "item_depth": 8.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026114",
+  "provenance_text": "Helen Drutt Gallery, PA, Philadelphia",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1380&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e00fe22d-6193-45c3-8e3d-eae2c7da5adc",
+      "party_type": "Person",
+      "full_name": "Rudolf Staffel",
+      "cited_name": "Staffel, Rudolf",
+      "role": "ceramicist",
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Texas, San Antonio",
+      "death_place": null
+    }
+  ]
+}

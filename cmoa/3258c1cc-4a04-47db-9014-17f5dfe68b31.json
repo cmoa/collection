@@ -1,0 +1,39 @@
+{
+  "title": "Sir Nicholas Bacon",
+  "creation_date": "1738",
+  "creation_date_earliest": "1738-01-01",
+  "creation_date_latest": "1738-01-01",
+  "medium": "engraving",
+  "accession_number": "81.20.9",
+  "id": "cmoa:things/3258c1cc-4a04-47db-9014-17f5dfe68b31",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021748",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c51341f-2549-4f1c-8058-3de110ec37e1",
+      "party_type": "Person",
+      "full_name": "Jacobus Houbraken",
+      "cited_name": "Houbraken, Jacobus",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1698-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": " Dordrecht (South Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

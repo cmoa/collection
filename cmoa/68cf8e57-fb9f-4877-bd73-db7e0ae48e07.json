@@ -1,0 +1,42 @@
+{
+  "title": "Dish",
+  "creation_date": "1764",
+  "creation_date_earliest": "1764-01-01",
+  "creation_date_latest": "1764-01-01",
+  "medium": "porcelain",
+  "accession_number": "69.35.1",
+  "id": "cmoa:things/68cf8e57-fb9f-4877-bd73-db7e0ae48e07",
+  "credit_line": "Decorative Arts Discretionary Fund",
+  "date_acquired": "1969-09-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.188,
+  "item_height": 1.25,
+  "item_depth": 9.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012564",
+  "provenance_text": "Parke-Bernet Galleries, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4883&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101739&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0dd1215f-ee21-42a8-be10-3b49cdf897e8",
+      "party_type": "Organization",
+      "full_name": "Sèvres Porcelain Factory",
+      "cited_name": "Sèvres Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1756-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

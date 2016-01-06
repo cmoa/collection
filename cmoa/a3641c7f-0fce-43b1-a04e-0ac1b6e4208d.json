@@ -1,0 +1,39 @@
+{
+  "title": "Mazarine",
+  "creation_date": "18th-20th century",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.2078",
+  "id": "cmoa:things/a3641c7f-0fce-43b1-a04e-0ac1b6e4208d",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.438,
+  "item_depth": 0.0,
+  "item_diameter": 9.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014262",
+  "provenance_text": "Ailsa Mellon Bruce, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1851&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a80f181-f41e-40ef-81a6-e11f040d9329",
+      "party_type": "Organization",
+      "full_name": "Wedgwood",
+      "cited_name": "Wedgwood",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

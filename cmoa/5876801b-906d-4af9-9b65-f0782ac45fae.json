@@ -1,0 +1,45 @@
+{
+  "title": "Fashion Plate",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "glass, blown, with cane and murrine",
+  "accession_number": "2006.9",
+  "id": "cmoa:things/5876801b-906d-4af9-9b65-f0782ac45fae",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2006-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 11.0,
+  "item_height": 10.5,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=20623",
+  "provenance_text": "William Traver Gallery, Tacoma, WA (in exhibition \"Undulation\")",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35340&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39667&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39668&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/31e18965-29a6-4894-bb70-bb233bb16f5f",
+      "party_type": "Person",
+      "full_name": "Kait Rhoads",
+      "cited_name": "Rhoads, Kait",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1968-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

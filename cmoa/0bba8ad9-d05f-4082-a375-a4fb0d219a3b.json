@@ -1,0 +1,51 @@
+{
+  "title": "Champagne glass",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "glass with gilded decoration",
+  "accession_number": "2003.2.1",
+  "id": "cmoa:things/0bba8ad9-d05f-4082-a375-a4fb0d219a3b",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2003-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.5,
+  "item_depth": 0.0,
+  "item_diameter": 3.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=546",
+  "provenance_text": "Udo Schroder, Hamburg, Germany",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9613&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/14b38210-3ea3-416b-ab8d-9294daec2452",
+      "party_type": "Person",
+      "full_name": "Peter Behrens",
+      "cited_name": "Behrens, Peter",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1868-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d52192e4-4cbd-40fc-9c43-de7bac6ed3d5",
+      "party_type": "Organization",
+      "full_name": "Benedikt von Poschinger Kristallglasfabrik Oberzwieselau",
+      "cited_name": "Benedikt von Poschinger Kristallglasfabrik Oberzwieselau",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": "1925-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

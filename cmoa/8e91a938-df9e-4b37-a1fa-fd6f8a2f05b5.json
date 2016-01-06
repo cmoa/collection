@@ -1,0 +1,39 @@
+{
+  "title": "House; [exterior perspective]",
+  "creation_date": null,
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "93.179",
+  "id": "cmoa:things/8e91a938-df9e-4b37-a1fa-fd6f8a2f05b5",
+  "credit_line": "Gift of Harley Trice",
+  "date_acquired": "1993-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 14.125,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033194",
+  "provenance_text": "Harley Trice, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115840&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1df7dda-b99b-4e34-aede-69fd5a20da28",
+      "party_type": "Person",
+      "full_name": "Raymond Antonio Fisher",
+      "cited_name": "Fisher, Raymond A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

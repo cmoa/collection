@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2006.21",
+  "id": "cmoa:things/bd1d793b-a009-4071-b6a4-360790373ed7",
+  "credit_line": "Joseph Soffer Family Trust Fund",
+  "date_acquired": "2006-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 90.75,
+  "item_height": 72.0,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=22701",
+  "provenance_text": "Blum & Poe Gallery, Los Angeles, California",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34348&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a7b5f8ba-671e-40a2-94f1-4b5fd8e3b420",
+      "party_type": "Person",
+      "full_name": "Florian Maier-Aichen",
+      "cited_name": "Maier-Aichen, Florian",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1973-01-01",
+      "death_date": null,
+      "birth_place": "Stuttgart, Germany",
+      "death_place": null
+    }
+  ]
+}

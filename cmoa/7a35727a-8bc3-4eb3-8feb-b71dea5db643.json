@@ -1,0 +1,42 @@
+{
+  "title": "The Balsam Tree",
+  "creation_date": null,
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "43.4.1",
+  "id": "cmoa:things/7a35727a-8bc3-4eb3-8feb-b71dea5db643",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007407",
+  "provenance_text": "Pamela Bianco [1906-1994]. Anonymous, by May 1943; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100275&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/da4a16d8-ccf2-459a-993f-f9971c16a63c",
+      "party_type": "Person",
+      "full_name": "Pamela Bianco",
+      "cited_name": "Bianco, Pamela",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "England (United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

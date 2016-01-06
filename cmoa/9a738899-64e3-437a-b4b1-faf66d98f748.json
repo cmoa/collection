@@ -1,0 +1,39 @@
+{
+  "title": "Bacchanalian Group with Wine Press",
+  "creation_date": "1465-1470",
+  "creation_date_earliest": "1464-12-23",
+  "creation_date_latest": "1469-12-23",
+  "medium": "engraving",
+  "accession_number": "74.7.143",
+  "id": "cmoa:things/9a738899-64e3-437a-b4b1-faf66d98f748",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.562,
+  "item_height": 12.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017292",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94683&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8032efd1-9407-4368-9de4-8541c096ad39",
+      "party_type": "Person",
+      "full_name": "Andrea Mantegna",
+      "cited_name": "Mantegna, Andrea",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1430-01-01",
+      "death_date": "1506-01-01",
+      "birth_place": "Padova province (Veneto, Italy)",
+      "death_place": "Mantua (Mantova province, Lombardy, Italy)"
+    }
+  ]
+}

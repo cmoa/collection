@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "porcelain",
+  "accession_number": "2000.67.8.A-B",
+  "id": "cmoa:things/03b4088d-64d2-494b-ac46-d154bbc46b0a",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "2000-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.812,
+  "item_depth": 0.0,
+  "item_diameter": 5.187,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004133",
+  "provenance_text": "Mrs. Fred C. Foy, Ligonier, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3149&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4da33fa6-df8b-44e4-b5c7-c2fc55af6826",
+      "party_type": "Organization",
+      "full_name": "Nyon Porcelain Factory",
+      "cited_name": "Nyon Porcelain Factory",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1780-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

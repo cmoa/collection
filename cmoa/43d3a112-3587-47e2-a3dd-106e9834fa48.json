@@ -1,0 +1,39 @@
+{
+  "title": "Cafe Scene",
+  "creation_date": "c. 1906",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "ink and pencil",
+  "accession_number": "57.12.1",
+  "id": "cmoa:things/43d3a112-3587-47e2-a3dd-106e9834fa48",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010352",
+  "provenance_text": "G. David Thompson, Pittsburgh; gift to museum, April 1957",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108430&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bd08228-0402-4e45-9a98-98b72c44ec1d",
+      "party_type": "Person",
+      "full_name": "Jules Pascin",
+      "cited_name": "Pascin, Jules",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": "Vidin (Montana region, Bulgaria)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

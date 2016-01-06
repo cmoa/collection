@@ -1,0 +1,45 @@
+{
+  "title": "Écuelle",
+  "creation_date": "1735-1740",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1740-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "89.20.A-B",
+  "id": "cmoa:things/84cf43da-658c-4078-963f-c9b02bb99040",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 7.062,
+  "item_height": 2.188,
+  "item_depth": 5.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026604",
+  "provenance_text": "Frederick J. and Antoinette H. Van Slyke, Baltimore, Maryland; sold by Sotheby's, New York, September 16, 1989, lot 233\nBlumka Gallery, New York, New York\nArmin B. Allen, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96091&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3752&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12038&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5015b7e-1f23-457b-990e-8549d13eab76",
+      "party_type": "Organization",
+      "full_name": "Du Paquier Porcelain Factory",
+      "cited_name": "Du Paquier Porcelain Factory",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1718-01-01",
+      "death_date": "1744-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

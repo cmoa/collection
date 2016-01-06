@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Lady Chesterfield",
+  "creation_date": "c.1860-1900",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "watercolor on ivory or celluloid; gilt metal frame",
+  "accession_number": "64.13.9",
+  "id": "cmoa:things/1cdf9260-7f20-4a80-91a4-728420200b21",
+  "credit_line": "Gift of Miss Thompson, Mesdames Reed, Van Cleef, and Eddy in memory of Mrs. William Reed Thompson",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.312,
+  "item_height": 4.375,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011773",
+  "provenance_text": "Miss Thompson; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1964.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73922&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73921&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/88230b29-bc9a-4360-b418-2fe2f534e2e4",
+      "party_type": "Person",
+      "full_name": "Ozias Humphrey",
+      "cited_name": "Humphrey, Ozias",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1742-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " Honiton (Devon, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

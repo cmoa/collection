@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of Napoléon Bonaparte",
+  "creation_date": "c. 1815",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "watercolor on ivory; gold metal frame",
+  "accession_number": "27.10.182",
+  "id": "cmoa:things/6ba038e8-b909-498d-ba4e-b79a0e82d4c3",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.125,
+  "item_height": 3.562,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005640",
+  "provenance_text": "Godfrey Manheimer; Leonard A. Dessar [1864-], New York, NY [1]; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, June 21, 1917; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] In the 1900 US Census, Dessar's mother, Carrie Manheimer, is listed as being part of Dessar's household. It is possible that Dessar inherited this item through the Manheimer family.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73646&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06ad785b-efd0-4912-9a86-9fa1835cbf32",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Isabey",
+      "cited_name": "Isabey, Jean-Baptiste",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1767-01-01",
+      "death_date": "1855-01-01",
+      "birth_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

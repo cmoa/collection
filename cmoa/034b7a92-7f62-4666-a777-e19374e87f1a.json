@@ -1,0 +1,42 @@
+{
+  "title": "Decanter",
+  "creation_date": "1828",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1828-01-01",
+  "medium": "glass",
+  "accession_number": "46.1.1.A-B",
+  "id": "cmoa:things/034b7a92-7f62-4666-a777-e19374e87f1a",
+  "credit_line": "Gift of Alice A. Albree",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 4.75,
+  "item_height": 10.5,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007618",
+  "provenance_text": "Gift to George Albree and Martha Curling, March 27, 1828 [1]; by descent to Elizabeth Albree; by descent to Alice R. Albree, by 1946; gift to Carnegie Institute, Pittsburgh, PA, 1946. \nNOTES: [1] See letter from Alice A. Albree- this item was given to the couple as a wedding gift.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1205&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12327&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/67b13dca-3ca7-41b1-805d-40a74d49cbdf",
+      "party_type": "Organization",
+      "full_name": "R.B. Curling & Sons, Fort Pitt Glass Works",
+      "cited_name": "Curling, R.B. & Sons, Fort Pitt Glass Works",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1827-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

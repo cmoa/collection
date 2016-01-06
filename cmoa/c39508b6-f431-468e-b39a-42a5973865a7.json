@@ -1,0 +1,51 @@
+{
+  "title": "Dessert dish (Westward-Ho)",
+  "creation_date": "c. 1870-1880",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "pressed glass",
+  "accession_number": "46.2.177",
+  "id": "cmoa:things/c39508b6-f431-468e-b39a-42a5973865a7",
+  "credit_line": "Gift of Mrs. Lillian I. Ball",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 4.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007797",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f2b5fd6-7c57-4b97-9b3a-beff122e0fe5",
+      "party_type": "Person",
+      "full_name": "Jacobus",
+      "cited_name": "Jacobus",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f001c189-8e27-4ca6-a34a-639a4d78c063",
+      "party_type": "Organization",
+      "full_name": "Gillinder and Sons",
+      "cited_name": "Gillinder and Sons",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

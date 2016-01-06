@@ -1,0 +1,39 @@
+{
+  "title": "Two Beauties",
+  "creation_date": "c. 1820",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "Woodcut",
+  "accession_number": "89.28.1235.1",
+  "id": "cmoa:things/49725fdf-a06b-4443-9988-4c87f7d86428",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027022",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106202&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28008c85-03ea-4150-aeb9-23e937571618",
+      "party_type": "Person",
+      "full_name": "Shigenobu Yanagawa",
+      "cited_name": "Shigenobu Yanagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1787-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": "Japan, Yanagawa",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Mifflin Elementary School, Pittsburgh; [exterior perspective]",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "pencil and watercolor on card, framed",
+  "accession_number": "95.105.3",
+  "id": "cmoa:things/40c4526d-d6f7-45ce-80a3-a1b70c870bb1",
+  "credit_line": "Gift of Pittsburgh Public Schools",
+  "date_acquired": "1995-10-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035440",
+  "provenance_text": "Pittsburgh Public Schools, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13132&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/114c024f-f60c-496b-95b8-96109a82b383",
+      "party_type": "Organization",
+      "full_name": "Link, Weber, & Bowers",
+      "cited_name": "Link, Weber, & Bowers",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/42cfa052-4b43-46ca-b834-cd21a3fb2794",
+      "party_type": "Person",
+      "full_name": "Otto R. Eggers",
+      "cited_name": "Eggers, Otto R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

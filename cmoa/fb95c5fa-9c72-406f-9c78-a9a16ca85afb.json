@@ -1,0 +1,39 @@
+{
+  "title": "The Fall of Man",
+  "creation_date": "after 1560",
+  "creation_date_earliest": "1559-12-22",
+  "creation_date_latest": "1700-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "74.7.136",
+  "id": "cmoa:things/fb95c5fa-9c72-406f-9c78-a9a16ca85afb",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017284",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/abf4bcb8-9bcb-46cb-9ae9-cedbe76326e2",
+      "party_type": "Person",
+      "full_name": "Hans Glaser",
+      "cited_name": "Glaser, Hans",
+      "role": "publisher",
+      "nationality": "German",
+      "birth_date": "1540-01-01",
+      "death_date": "1561-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Commemorative medal (the Louisiana Purchase Exposition)",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "Bronze",
+  "accession_number": "78.34.12",
+  "id": "cmoa:things/305b1729-2b94-4e56-91b8-6f01ce654fe1",
+  "credit_line": "Gift of John W. Beatty, Jr.",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.25,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019954",
+  "provenance_text": "John W. Beatty, Jr.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5630&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5629&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0cd5defc-ac0e-4cba-846d-da865a416c23",
+      "party_type": "Person",
+      "full_name": "Adolph A. Weinman",
+      "cited_name": "Weinman, Adolph A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Karlsruhe (Karlsruhe district, Baden-Württemberg, Germany)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Several Drawings on Top of Each Other",
+  "creation_date": "1990-2002",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "graphite, paper, bronze",
+  "accession_number": "2002.50",
+  "id": "cmoa:things/71e503a8-5fa9-4993-a8d5-211c74f0ed4f",
+  "credit_line": "Purchase, with funds from The Buddy Taub Foundation, Dennis A. Roach and Jill Roach, Directors",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.688,
+  "item_height": 8.25,
+  "item_depth": 7.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=341",
+  "provenance_text": "Zeno X Gallery, Antwerp, Belgium",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26531&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129337&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/84676d54-c6ad-4129-8095-6fc4cd462e22",
+      "party_type": "Person",
+      "full_name": "Mark Manders",
+      "cited_name": "Manders, Mark",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1968-01-01",
+      "death_date": null,
+      "birth_place": "Volkel, The Netherlands",
+      "death_place": null
+    }
+  ]
+}

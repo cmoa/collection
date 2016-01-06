@@ -1,0 +1,42 @@
+{
+  "title": "Island Hay",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.11",
+  "id": "cmoa:things/eb7799d8-b036-471f-80d2-9a80beb16bd8",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012692",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103597&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76870&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156b5136-bf28-44b6-97fe-463da5796144",
+      "party_type": "Person",
+      "full_name": "Thomas Hart Benton",
+      "cited_name": "Benton, Thomas Hart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Neosho (Newton county, Missouri, United States)",
+      "death_place": "Kansas City (Jackson county, Missouri, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Milky Way (Ginga)",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.106",
+  "id": "cmoa:things/c1eca76a-a2bb-449a-bd7c-4f2899a3204f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026795",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from S.H. Mori, Mary Diamond, Chicago, ILL., 12/4/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33836&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e8c13e0-e50f-467c-bce1-f1227ce38527",
+      "party_type": "Person",
+      "full_name": "Hagiwara Hideo",
+      "cited_name": "Hagiwara Hideo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": "Kofu, Yamanashi prefecture",
+      "death_place": null
+    }
+  ]
+}

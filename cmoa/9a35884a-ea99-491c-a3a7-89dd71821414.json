@@ -1,0 +1,42 @@
+{
+  "title": "Downriver Plant",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "etching",
+  "accession_number": "79.21",
+  "id": "cmoa:things/9a35884a-ea99-491c-a3a7-89dd71821414",
+  "credit_line": "Gift of J. Fred Beamer",
+  "date_acquired": "1979-10-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020262",
+  "provenance_text": "J. Fred Beamer, Alexandria, VA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103560&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75898&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47712cfe-0230-4fa7-8ff8-8b6087c46f0c",
+      "party_type": "Person",
+      "full_name": "Mark Alan Leithauser",
+      "cited_name": "Leithauser, Mark A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Detroit, MI",
+      "death_place": null
+    }
+  ]
+}

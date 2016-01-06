@@ -1,0 +1,42 @@
+{
+  "title": "Sharecroppers",
+  "creation_date": "1940-1941",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "watercolor mounted on board",
+  "accession_number": "88.21",
+  "id": "cmoa:things/d58fff68-6f92-40f2-9b40-039aa2b8e09c",
+  "credit_line": "Gift of Edward Dobroski",
+  "date_acquired": "1988-06-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026455",
+  "provenance_text": "Edward Dobroski, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89468&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25698&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fc4de7d-bbd2-4b7f-bba9-a90280a018c3",
+      "party_type": "Person",
+      "full_name": "Robert Gwathmey",
+      "cited_name": "Gwathmey, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Richmond (Richmond Indep. City, Virginia, United States)",
+      "death_place": "Southhampton, NY"
+    }
+  ]
+}

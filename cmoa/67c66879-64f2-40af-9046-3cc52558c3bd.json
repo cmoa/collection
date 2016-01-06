@@ -1,0 +1,39 @@
+{
+  "title": "Manchester Bridge - star",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "cast iron",
+  "accession_number": "93.175.6",
+  "id": "cmoa:things/67c66879-64f2-40af-9046-3cc52558c3bd",
+  "credit_line": "Gift of Pittsburgh History & Landmarks Foundation",
+  "date_acquired": "1993-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 22.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92728",
+  "provenance_text": "Pittsburgh History & Landmarks Foundation, Pittsburgh, PA",
+  "classification": "architectural elements",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

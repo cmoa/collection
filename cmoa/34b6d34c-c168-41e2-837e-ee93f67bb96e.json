@@ -1,0 +1,42 @@
+{
+  "title": "Untitled ",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "1996.36.3",
+  "id": "cmoa:things/34b6d34c-c168-41e2-837e-ee93f67bb96e",
+  "credit_line": "Mr. and Mrs. James H. Rich Fund",
+  "date_acquired": "1996-06-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 4.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002126",
+  "provenance_text": "Julie Saul Gallery, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125682&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97370&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

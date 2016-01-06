@@ -1,0 +1,39 @@
+{
+  "title": "Bob Fine About 1950",
+  "creation_date": "c. 1950",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "80.23.1",
+  "id": "cmoa:things/3df61a86-4934-43c0-b352-34c57d3c8829",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1980-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.938,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021106",
+  "provenance_text": "Light Gallery, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112763&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b8638b8b-fa0c-44f8-b79a-057b71af974a",
+      "party_type": "Person",
+      "full_name": "Harry Callahan",
+      "cited_name": "Callahan, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Detroit (Wayne county, Michigan, United States)",
+      "death_place": "Atlanta (Fulton county, Georgia, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "80.54",
+  "id": "cmoa:things/2b49f58a-d578-4f90-9460-e38a07152cee",
+  "credit_line": "Decorative Arts Discretionary Fund",
+  "date_acquired": "1980-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021235",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1374&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/95a50595-4e63-4757-939d-c2f00b1e9830",
+      "party_type": "Person",
+      "full_name": "George E. Ohr",
+      "cited_name": "Ohr, George E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Biloxi, MS",
+      "death_place": "Biloxi, MS"
+    }
+  ]
+}

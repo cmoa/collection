@@ -1,0 +1,39 @@
+{
+  "title": "Young Woman Kneeling",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "bronze on marble base",
+  "accession_number": "2012.48",
+  "id": "cmoa:things/c193bc19-c820-4287-a8d8-df8404c8d0b8",
+  "credit_line": "Gift of Marshall and Wallis Katz",
+  "date_acquired": "2012-12-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 2.75,
+  "item_height": 7.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100089",
+  "provenance_text": "Possibly Galerie Herve, Paris, the 20th Century; Joseph Katz [1914-1991], New York; by descent to Marshall Katz, Pittsburgh, until 2012; gift to Museum, 2012.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119170&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce984934-bff0-4c62-b1d8-014631d2399c",
+      "party_type": "Person",
+      "full_name": "Aristide Maillol",
+      "cited_name": "Maillol, Aristide",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1861-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Banyuls-sur-Mer (Pyrénées-Orientales, Languedoc-Roussillon, France)",
+      "death_place": "Perpignan (Pyrénées-Orientales, Languedoc-Roussillon, France)"
+    }
+  ]
+}

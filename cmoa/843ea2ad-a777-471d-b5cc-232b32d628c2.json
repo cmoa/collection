@@ -1,0 +1,39 @@
+{
+  "title": "Solitude II",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "glass and iron",
+  "accession_number": "2008.70.16.A-.B",
+  "id": "cmoa:things/843ea2ad-a777-471d-b5cc-232b32d628c2",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 32.0,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61770",
+  "provenance_text": "Purchased from Heller Gallery, NY 11/1/96",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68852&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66067f17-94f0-401e-9692-8b90d0450cb1",
+      "party_type": "Person",
+      "full_name": "Bertil Vallien",
+      "cited_name": "Vallien, Bertil",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

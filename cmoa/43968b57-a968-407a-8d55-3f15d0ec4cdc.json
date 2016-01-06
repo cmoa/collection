@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1821-1850",
+  "creation_date_earliest": "1821-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "porcelain",
+  "accession_number": "59.7.9",
+  "id": "cmoa:things/43968b57-a968-407a-8d55-3f15d0ec4cdc",
+  "credit_line": "Gift of Mildred Taber Keally",
+  "date_acquired": "1959-03-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.625,
+  "item_depth": 0.0,
+  "item_diameter": 3.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011112",
+  "provenance_text": "Gift of Mildred Taber Keally, 1959.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4775&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

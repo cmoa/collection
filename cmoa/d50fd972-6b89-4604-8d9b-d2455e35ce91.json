@@ -1,0 +1,39 @@
+{
+  "title": "Paysage du Bassin d'Arcachon",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "pastel",
+  "accession_number": "2002.24.1",
+  "id": "cmoa:things/d50fd972-6b89-4604-8d9b-d2455e35ce91",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.625,
+  "item_height": 19.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=62",
+  "provenance_text": "M. Jean Gouin (nephew of artist), Arcachon, France:   Solomon Suchard Antiques, Shaker Heithgs OH",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65538&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eba05ec0-2a29-4c13-98d9-0af5f6e24a15",
+      "party_type": "Person",
+      "full_name": "André Lhote",
+      "cited_name": "Lhote, André",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1885-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": "Bordeaux (Gironde, Aquitaine, France)",
+      "death_place": "Paris (Ville de Paris department, Ile-de-France, France)"
+    }
+  ]
+}

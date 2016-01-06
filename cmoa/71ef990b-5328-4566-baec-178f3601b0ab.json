@@ -1,0 +1,39 @@
+{
+  "title": "Saint Justa and Saint Ruffina",
+  "creation_date": "1665",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1665-01-01",
+  "medium": "black and red chalk on cream paper",
+  "accession_number": "23.12.32",
+  "id": "cmoa:things/71ef990b-5328-4566-baec-178f3601b0ab",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004841",
+  "provenance_text": "Library, Seville Cathedral;\n Alleyne Fitzherbert; \nBaron St. Helens (London, Christie's, 26 May 1840, lot no. 119)\nGalley Knight. Duke of Sutherland\nHerbert Dupuy, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99094&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b98aa15a-99d9-47bb-92c1-a29d9153bf35",
+      "party_type": "Person",
+      "full_name": "Bartolome Esteban Murillo",
+      "cited_name": "Murillo, Bartolome E.",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1618-01-01",
+      "death_date": "1682-01-01",
+      "birth_place": "Seville (Sevilla province, Andalusia, Spain)",
+      "death_place": "Seville (Sevilla province, Andalusia, Spain)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Gleaner",
+  "creation_date": null,
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "pen and ink with ink wash on paper",
+  "accession_number": "49.2.17",
+  "id": "cmoa:things/a36855b7-3c4b-43e2-9f29-9a56a3715e41",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008506",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c45df995-f4b1-4689-a9c5-239bb0f5e984",
+      "party_type": "Person",
+      "full_name": "Henry Lerolle",
+      "cited_name": "Lerolle, Henry",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1848-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Still Life II",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "42.11.14",
+  "id": "cmoa:things/aaad773f-b608-465c-b469-f86096fe0dee",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007300",
+  "provenance_text": "The Weyhe Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75891&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1ea5715-cb52-4814-8344-39917de90911",
+      "party_type": "Person",
+      "full_name": "Louis Lozowick",
+      "cited_name": "Lozowick, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Russia",
+      "death_place": null
+    }
+  ]
+}

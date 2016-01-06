@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "earthenware with enamel decoration",
+  "accession_number": "2008.54.A-.B",
+  "id": "cmoa:things/137ba812-eeca-436f-a1b3-89e852036f6d",
+  "credit_line": "Decorative Arts Purchase Fund and Gift of Charlotte and Stanley Bernstein, Jr., by exchange",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 9.5,
+  "item_height": 16.25,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61598",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65956&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cc910edc-bb9c-4077-aef7-cdce82b42aff",
+      "party_type": "Person",
+      "full_name": "William De Morgan",
+      "cited_name": "De Morgan, William",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1839-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6f3cf0c4-dfa4-4efb-9579-f89def0732d5",
+      "party_type": "Person",
+      "full_name": "Fred Passenger",
+      "cited_name": "Passenger, Fred",
+      "role": "decorator",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

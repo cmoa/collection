@@ -1,0 +1,39 @@
+{
+  "title": "Tea cup and saucer",
+  "creation_date": "1901-1914",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "porcelain with enamel decoration",
+  "accession_number": "2011.43.11.A-.B",
+  "id": "cmoa:things/f6b1ac62-cd72-4849-8ced-7b38c155c9de",
+  "credit_line": "Gift of David Kozloff and Mark Meaders",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 1.75,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93766",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113998&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ecda3a6-db0b-4953-8513-c012828dd718",
+      "party_type": "Organization",
+      "full_name": "Rozenburg Pottery and Porcelain Factory",
+      "cited_name": "Rozenburg Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1883-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

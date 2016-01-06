@@ -1,0 +1,45 @@
+{
+  "title": "Etude D'Un Poete",
+  "creation_date": "early 20th century",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "etching on paper",
+  "accession_number": "48.9.1",
+  "id": "cmoa:things/2affcef1-513e-4a71-906c-8b9b5491526f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 10.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008409",
+  "provenance_text": "Arthur H. Harlow & Co., Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103659&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103654&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/133cbe30-7db0-4307-bee8-7ddd5ead50ae",
+      "party_type": "Person",
+      "full_name": "Arthur William Heintzelman",
+      "cited_name": "Heintzelman, Arthur W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

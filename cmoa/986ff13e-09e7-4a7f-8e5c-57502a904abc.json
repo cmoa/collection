@@ -1,0 +1,39 @@
+{
+  "title": "Flower and Haniwa",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1174",
+  "id": "cmoa:things/986ff13e-09e7-4a7f-8e5c-57502a904abc",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 20.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026949",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 1964.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa82574b-420c-4d3a-a80a-ed3d955bed14",
+      "party_type": "Person",
+      "full_name": "Saitô Kiyoshi",
+      "cited_name": "Saitô Kiyoshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1907-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

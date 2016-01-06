@@ -1,0 +1,39 @@
+{
+  "title": "Orbus",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "painted wood",
+  "accession_number": "2014.62",
+  "id": "cmoa:things/abda254e-8982-4545-8631-04cd91c131b5",
+  "credit_line": "Gift of the estate of Jane Haskell",
+  "date_acquired": "2014-10-30",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 15.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104005",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132824&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2deaac5b-d02d-42a7-b9f6-d9b46a18b003",
+      "party_type": "Person",
+      "full_name": "Hap Sakwa",
+      "cited_name": "Sakwa, Hap",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

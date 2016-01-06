@@ -1,0 +1,51 @@
+{
+  "title": "Snow and Turtledove (Yuki to yamabato)",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.740",
+  "id": "cmoa:things/4a1012bc-bbb5-4e7d-8d79-9f7d285077da",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.938,
+  "item_height": 16.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028880",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33165&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283ce902-3cde-4277-8a2c-781ff8be6e1c",
+      "party_type": "Person",
+      "full_name": "Kasamatsu Shirô",
+      "cited_name": "Kasamatsu Shirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1898-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/411a8c43-db40-4ea8-a0c2-d5f7db763172",
+      "party_type": "Organization",
+      "full_name": "Unsôdô",
+      "cited_name": "Unsôdô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

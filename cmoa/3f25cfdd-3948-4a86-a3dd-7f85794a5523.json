@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "82.3.1.23",
+  "id": "cmoa:things/3f25cfdd-3948-4a86-a3dd-7f85794a5523",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022332",
+  "provenance_text": "Martin Diamond Fine Arts, Inc., NY, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113000&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24bace1b-8c89-414e-9f24-52d2b1fa7eaa",
+      "party_type": "Person",
+      "full_name": "Louis Schanker",
+      "cited_name": "Schanker, Louis",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "USA, New York",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Untitled",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "silkscreen on paper",
+  "accession_number": "81.26.26",
+  "id": "cmoa:things/2fd9dd74-9bf8-44a6-9ccb-55379808e302",
+  "credit_line": "Bequest of C. Hale Matthews III",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021800",
+  "provenance_text": "Bequest of C. Hale Matthews III, New York, NY, 1981.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7eaca81-9a3a-404a-866e-05844d616971",
+      "party_type": "Person",
+      "full_name": "Pablo Picasso",
+      "cited_name": "Picasso, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1881-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Málaga, Spain",
+      "death_place": "Mougins, France"
+    }
+  ]
+}

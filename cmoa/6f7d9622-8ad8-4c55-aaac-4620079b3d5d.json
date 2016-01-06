@@ -1,0 +1,39 @@
+{
+  "title": "The Madonna and Child with St. Joseph",
+  "creation_date": "c. 1655-1665",
+  "creation_date_earliest": "1650-01-01",
+  "creation_date_latest": "1670-01-01",
+  "medium": "pen and ink wash on paper",
+  "accession_number": "87.34.2",
+  "id": "cmoa:things/6f7d9622-8ad8-4c55-aaac-4620079b3d5d",
+  "credit_line": "Patrons Art Fund, Leisser Art Fund, Berdan Memorial Trust Fund and William R. Scott, Jr. Fund",
+  "date_acquired": "1987-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026348",
+  "provenance_text": "Lorna Lowe, London",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99533&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/14a6caf5-c5cf-4d5e-b141-160025fd937d",
+      "party_type": "Person",
+      "full_name": "Salvator Rosa",
+      "cited_name": "Rosa, Salvator",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1615-01-01",
+      "death_date": "1673-01-01",
+      "birth_place": "Naples (Napoli province, Campania, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

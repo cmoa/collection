@@ -1,0 +1,39 @@
+{
+  "title": "Moths",
+  "creation_date": "c. 1899",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "graphite heightened with white on brown paper",
+  "accession_number": "06.24",
+  "id": "cmoa:things/997deb5c-1100-4283-af38-d486dbad5f95",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 40.625,
+  "item_height": 47.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000216",
+  "provenance_text": "Andrew Carnegie Fund; Provenance: G. R. Barse, Jr.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/51ceef99-9afe-46f9-b8d3-5bd1aa352f9b",
+      "party_type": "Person",
+      "full_name": "George Randolph Barse",
+      "cited_name": "Barse, George Randolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1861-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Detroit (Wayne county, Michigan, United States)",
+      "death_place": "Katonah (Westchester county, New York state, United States)"
+    }
+  ]
+}

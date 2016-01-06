@@ -1,0 +1,39 @@
+{
+  "title": "Courthouse; [exterior perspective]",
+  "creation_date": "1826-1827",
+  "creation_date_earliest": "1826-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "proof plate for proposed publication",
+  "accession_number": "91.46.5",
+  "id": "cmoa:things/ea629be8-f86e-423e-b305-6dfc1852763f",
+  "credit_line": "Gift of Christopher Monkhouse in honor of Eileen and John Harris",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 11.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029975",
+  "provenance_text": "Christopher Monkhouse, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118571&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6fe37940-6273-4528-b4ad-3e2469ce1f6f",
+      "party_type": "Person",
+      "full_name": "Sir John Soane",
+      "cited_name": "Soane, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1753-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": "Reading (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

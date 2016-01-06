@@ -1,0 +1,39 @@
+{
+  "title": "Gentians",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1531",
+  "id": "cmoa:things/5a2becbe-bc3d-4c77-a8da-e312f8d6fbdd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027603",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sothbey's, London, on 7/4/1973 through Bluett & Sons Ltd., London; Lot 184.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106250&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/22c48b19-9459-4b31-bdd1-1595359e1204",
+      "party_type": "Person",
+      "full_name": "Zeshin Shibata",
+      "cited_name": "Zeshin Shibata",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1807-01-01",
+      "death_date": "1891-01-01",
+      "birth_place": "Japan, Edo, present-day Tokyo",
+      "death_place": "Tokyo"
+    }
+  ]
+}

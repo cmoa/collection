@@ -1,0 +1,39 @@
+{
+  "title": "Lumberyard (Kiba)",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.452",
+  "id": "cmoa:things/82d9dada-ab15-4462-a6db-796a665dc38e",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028246",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan on 11/24/1975.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/48c2d5cd-b829-4835-a50a-6ea213b98805",
+      "party_type": "Person",
+      "full_name": "Ishii Hakutei",
+      "cited_name": "Ishii Hakutei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1882-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Pittsburgh, Pennsylvania",
+  "creation_date": "c. 1855",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.33.10",
+  "id": "cmoa:things/435387f3-1bd1-4332-8db1-047293f0703a",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001233",
+  "provenance_text": "D. L. Passavant, Zelienople, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72406&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1613d648-64e7-4703-b16b-fc3104ab843b",
+      "party_type": "Person",
+      "full_name": "Edward Willmann",
+      "cited_name": "Willmann, Edward",
+      "role": "engraver",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/219e63c9-914f-45bf-8b26-c4280e4dd92f",
+      "party_type": "Person",
+      "full_name": "Charles Chardon",
+      "cited_name": "Chardon, Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

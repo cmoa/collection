@@ -1,0 +1,39 @@
+{
+  "title": "Journey South",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.14",
+  "id": "cmoa:things/fd00514f-c1fb-4b71-802e-45aaa5279f37",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1956-03-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 53.5,
+  "item_height": 86.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009620",
+  "provenance_text": "Martha Jackson Gallery, New York, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126271&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c315b88f-5389-4bea-bb05-19cf4ecfa4c5",
+      "party_type": "Person",
+      "full_name": "Lawrence Calcagno",
+      "cited_name": "Calcagno, Lawrence",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "San Francisco (San Francisco county, California, United States)",
+      "death_place": "State College, PA"
+    }
+  ]
+}

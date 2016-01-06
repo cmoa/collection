@@ -1,0 +1,39 @@
+{
+  "title": "Foglio",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "copper, tar, burlap, and chain",
+  "accession_number": "86.49",
+  "id": "cmoa:things/42db7fee-1a9d-46e3-b610-e97e795b3e55",
+  "credit_line": "Gift of Mr. and Mrs. James O'Hara Denny",
+  "date_acquired": "1986-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 55.0,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026132",
+  "provenance_text": "Marian Goodman Gallery, New York, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10373&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff04a317-e1fb-4f9d-982a-68957b2b4393",
+      "party_type": "Person",
+      "full_name": "Luciano Fabro",
+      "cited_name": "Fabro, Luciano",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1936-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Turin (Torino province, Piedmont, Italy)",
+      "death_place": "Milan (Milano province, Lombardy, Italy)"
+    }
+  ]
+}

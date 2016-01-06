@@ -1,0 +1,51 @@
+{
+  "title": "Untitled (An Actor in a Scene, Warming Himself by a Fire)",
+  "creation_date": "c. 1812-1815",
+  "creation_date_earliest": "1807-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.1393",
+  "id": "cmoa:things/8c4961ca-1be9-4243-b591-a2cbdf7a4a53",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027279",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106184&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ea1c2c5-f4a5-469d-b531-42dcdd8f156e",
+      "party_type": "Person",
+      "full_name": "Toyokuni Utagawa",
+      "cited_name": "Toyokuni Utagawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1769-01-01",
+      "death_date": "1825-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c3259506-d947-4b5d-a8ce-a49906edd84f",
+      "party_type": "Person",
+      "full_name": "Yamamotoya Heikichi",
+      "cited_name": "Yamamotoya Heikichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

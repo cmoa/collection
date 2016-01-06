@@ -1,0 +1,78 @@
+{
+  "title": "LCW (Lounge Chair Wood)",
+  "creation_date": "1945 (designed), 1946-1949 (manufactured)",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "plywood",
+  "accession_number": "1999.23.2",
+  "id": "cmoa:things/b1d1b165-fd1d-48d9-8003-e8e4e5333718",
+  "credit_line": "Gift of Mrs. John Pekruhn in memory of her husband",
+  "date_acquired": "1999-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 21.875,
+  "item_height": 26.5,
+  "item_depth": 22.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003861",
+  "provenance_text": "Mrs. John Pekruhn, Pittsburgh, PA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103171&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=59933&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c25af941-13ff-41e5-975d-7cb76760c863",
+      "party_type": "Person",
+      "full_name": "Charles Eames",
+      "cited_name": "Eames, Charles",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/dea0d1c3-288c-42ff-84c1-c75c9ccdc236",
+      "party_type": "Person",
+      "full_name": "Ray Eames",
+      "cited_name": "Eames, Ray",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Sacramento (Sacramento county, California, United States)",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/0a162a75-b51a-4c73-b6de-671d4f14af45",
+      "party_type": "Organization",
+      "full_name": "Evans Products Company, Molded Plywood Products Division",
+      "cited_name": "Evans Products Company, Molded Plywood Products Division",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cf139050-a904-48f3-8f7b-a7cb6ccca204",
+      "party_type": "Organization",
+      "full_name": "Herman Miller Inc.",
+      "cited_name": "Herman Miller Inc.",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

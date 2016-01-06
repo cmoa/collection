@@ -1,0 +1,39 @@
+{
+  "title": "Arterial Plan for Pittsburgh",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": null,
+  "accession_number": "94.69.1",
+  "id": "cmoa:things/665888c3-0a80-44b3-9b0a-f24555997668",
+  "credit_line": "Gift of Frank Highberger",
+  "date_acquired": "1994-04-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 11.0,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035236",
+  "provenance_text": "Frank Highberger, Pittsburgh, PA",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147112&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d2171208-0b5e-4bcc-b033-66b6f5240ba2",
+      "party_type": "Person",
+      "full_name": "Robert Moses",
+      "cited_name": "Moses, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

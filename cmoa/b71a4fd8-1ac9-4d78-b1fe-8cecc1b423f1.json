@@ -1,0 +1,39 @@
+{
+  "title": "Naos",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "glass: cast, cut and ground",
+  "accession_number": "2002.51.12",
+  "id": "cmoa:things/b71a4fd8-1ac9-4d78-b1fe-8cecc1b423f1",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 13.75,
+  "item_height": 19.625,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=382",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11358&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87a152de-76b9-47ba-971a-8631e9754816",
+      "party_type": "Person",
+      "full_name": "Petr Hora",
+      "cited_name": "Hora, Petr",
+      "role": null,
+      "nationality": "Czech",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Brno, Czech Republic",
+      "death_place": null
+    }
+  ]
+}

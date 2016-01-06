@@ -1,0 +1,39 @@
+{
+  "title": "Flask",
+  "creation_date": "1830-1850",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "amber pressed glass",
+  "accession_number": "81.10.17",
+  "id": "cmoa:things/e610d827-6923-475e-b759-2c48b0e0cb21",
+  "credit_line": "Gift of Mr. and Mrs. James A. Drain",
+  "date_acquired": "1981-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 5.375,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021492",
+  "provenance_text": "Mr. And Mrs. James A. Drain, Ligonier, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

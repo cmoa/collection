@@ -1,0 +1,42 @@
+{
+  "title": "Radierung/ No. 4",
+  "creation_date": "1916",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "drypoint on firm, ivory wove paper",
+  "accession_number": "2008.55",
+  "id": "cmoa:things/4335dcc5-e1bd-4511-a489-d5872bac3fe5",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=65400",
+  "provenance_text": "Charles M. Young, Portland, Connecticut",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107552&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107551&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/85b674a4-7f05-41f2-b13c-b47821b8ca5a",
+      "party_type": "Person",
+      "full_name": "Vassily Kandinsky",
+      "cited_name": "Kandinsky, Vassily",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1866-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": " Moscow (Moskva autonomous city, Rossiya republic, Russia)",
+      "death_place": "Neuilly-sur-Seine (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

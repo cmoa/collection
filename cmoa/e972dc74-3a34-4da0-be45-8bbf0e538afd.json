@@ -1,0 +1,48 @@
+{
+  "title": "Miniature Portrait of a Woman",
+  "creation_date": "c. 1780",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "tempera or watercolor on ivory in gold metal and enamel frame; ivory",
+  "accession_number": "27.10.156",
+  "id": "cmoa:things/e972dc74-3a34-4da0-be45-8bbf0e538afd",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 2.75,
+  "item_depth": 0.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005625",
+  "provenance_text": "I. S. S. Kiddle sale, London, England. (Spink & Son, London, England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, 1910; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103227&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73612&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73613&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73615&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/753e3c96-0a2e-49d9-b316-49632b805e15",
+      "party_type": "Person",
+      "full_name": "Pierre-Adolphe Hall",
+      "cited_name": "Hall, Pierre-Adolphe",
+      "role": "artist",
+      "nationality": "Swedish",
+      "birth_date": "1739-01-01",
+      "death_date": "1793-01-01",
+      "birth_place": "Sweden",
+      "death_place": "France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Scarf",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "woven wool",
+  "accession_number": "81.127.21",
+  "id": "cmoa:things/a7da2838-5128-4832-b125-c6fad98c222a",
+  "credit_line": "Gift of George H. Taber",
+  "date_acquired": "1982-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 78.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021626",
+  "provenance_text": null,
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10096&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2c8f997-3cde-4a32-9c88-edf672df4544",
+      "party_type": "Person",
+      "full_name": "unknown Indian",
+      "cited_name": "unknown Indian",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

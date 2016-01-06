@@ -1,0 +1,39 @@
+{
+  "title": "Planning Meeting",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "Inkjet print",
+  "accession_number": "2013.8.17",
+  "id": "cmoa:things/b96ace5b-953e-4e50-8be1-7a1e9d71a6e1",
+  "credit_line": "Gift of The Heinz Endowments",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 73.125,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93589",
+  "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106685&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d5aef02-150e-4326-95d2-c60abe1ee5ba",
+      "party_type": "Person",
+      "full_name": "Dylan Vitone",
+      "cited_name": "Vitone, Dylan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1978-01-01",
+      "death_date": null,
+      "birth_place": "Portland, Maine",
+      "death_place": null
+    }
+  ]
+}

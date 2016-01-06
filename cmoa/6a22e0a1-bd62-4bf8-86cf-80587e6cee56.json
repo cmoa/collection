@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "pen and brown ink",
+  "accession_number": "74.40",
+  "id": "cmoa:things/6a22e0a1-bd62-4bf8-86cf-80587e6cee56",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016998",
+  "provenance_text": "Klein-Vogel, Royal Oak, Michigan",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94777&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12214363-c054-4bce-8883-26046f05323b",
+      "party_type": "Person",
+      "full_name": "Auguste Lepère",
+      "cited_name": "Lepère, Auguste L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Domme, France"
+    }
+  ]
+}

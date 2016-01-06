@@ -1,0 +1,39 @@
+{
+  "title": "Cup",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "blown glass",
+  "accession_number": "80.42.14",
+  "id": "cmoa:things/32d5e61f-e451-4eae-b0c1-884cd30f85bd",
+  "credit_line": "Gift of Vira I. Heinz",
+  "date_acquired": "1980-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.688,
+  "item_depth": 0.0,
+  "item_diameter": 3.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021184",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=669&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79ba22b3-060e-4a3b-bd75-385716e77b3e",
+      "party_type": "Person",
+      "full_name": "unknown Venetian",
+      "cited_name": "unknown Venetian",
+      "role": null,
+      "nationality": "Venetian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

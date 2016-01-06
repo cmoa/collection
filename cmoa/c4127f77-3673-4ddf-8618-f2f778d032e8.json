@@ -1,0 +1,39 @@
+{
+  "title": "Fertility",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "44.5.9",
+  "id": "cmoa:things/c4127f77-3673-4ddf-8618-f2f778d032e8",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007532",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75877&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4f850fd-ce53-4db7-8f4a-77e7fddaf54e",
+      "party_type": "Person",
+      "full_name": "Doel Reed",
+      "cited_name": "Reed, Doel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Logansport (Cass county, Indiana, United States)",
+      "death_place": "Taos (Taos county, New Mexico, United States)"
+    }
+  ]
+}

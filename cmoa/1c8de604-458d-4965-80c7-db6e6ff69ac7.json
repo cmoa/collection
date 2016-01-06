@@ -1,0 +1,42 @@
+{
+  "title": "Chanteur Américain [American Singer]",
+  "creation_date": "1893",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1893-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "54.12.6",
+  "id": "cmoa:things/1c8de604-458d-4965-80c7-db6e6ff69ac7",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009201",
+  "provenance_text": "Peter H Deitsch",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104745&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104746&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d74bc35d-9b45-4b13-8564-a5843e338de6",
+      "party_type": "Person",
+      "full_name": "Henri Marie Raymond de Toulouse-Lautrec",
+      "cited_name": "Toulouse-Lautrec, Henri de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1864-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": "Albi (Tarn, Midi-Pyrénées, France)",
+      "death_place": "Langon (Gironde, Aquitaine, France)"
+    }
+  ]
+}

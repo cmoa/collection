@@ -1,0 +1,39 @@
+{
+  "title": "Bottle",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glass",
+  "accession_number": "72.13.1",
+  "id": "cmoa:things/e6ddc905-a03d-43cd-b505-1e22c92c4057",
+  "credit_line": "Gift of Alice W. Thomas",
+  "date_acquired": "1972-05-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 9.5,
+  "item_depth": 4.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016314",
+  "provenance_text": "Alice W. Thomas",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "ceramic",
+  "accession_number": "93.189.46",
+  "id": "cmoa:things/ea0d8e81-bcc8-4663-87e3-73803c785527",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 4.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033335",
+  "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh, PA; bequest to museum, February 1994",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3924&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d192e5dd-8a37-404d-9ca1-de8344a355fc",
+      "party_type": "Person",
+      "full_name": "Henry Varnum Poor",
+      "cited_name": "Poor, Henry V.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Chapman (Dickinson county, Kansas, United States)",
+      "death_place": "New City (Rockland county, New York state, United States)"
+    }
+  ]
+}

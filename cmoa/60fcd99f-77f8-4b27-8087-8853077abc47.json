@@ -1,0 +1,39 @@
+{
+  "title": "William Woollett, Engraver to His Majesty",
+  "creation_date": "1784",
+  "creation_date_earliest": "1784-01-01",
+  "creation_date_latest": "1784-01-01",
+  "medium": "engraving",
+  "accession_number": "15.10",
+  "id": "cmoa:things/60fcd99f-77f8-4b27-8087-8853077abc47",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1915-12-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000966",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104108&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89a6985b-0ab5-4fbb-b037-c8f4f87a6cda",
+      "party_type": "Person",
+      "full_name": "John Keyse Sherwin",
+      "cited_name": "Sherwin, J. K.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": "Sussex (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

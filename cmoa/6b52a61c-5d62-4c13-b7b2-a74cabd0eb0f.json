@@ -1,0 +1,45 @@
+{
+  "title": "Fan",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "mother of pearl and gold inlay",
+  "accession_number": "27.10.396",
+  "id": "cmoa:things/6b52a61c-5d62-4c13-b7b2-a74cabd0eb0f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 1.25,
+  "item_height": 12.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005744",
+  "provenance_text": "Unknown, Copenhagen, Denmark, by July 2, 1909; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, July 2, 1909; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=74065&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=74066&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4466&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52a4a933-683b-4ffd-92f9-27ca5a7b03c1",
+      "party_type": "Person",
+      "full_name": "unknown Danish",
+      "cited_name": "unknown Danish",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

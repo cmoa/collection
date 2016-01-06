@@ -1,0 +1,39 @@
+{
+  "title": "Penlight Drawing",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2010.27",
+  "id": "cmoa:things/c7b71346-8835-417a-bff4-d8142588b862",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-06-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 26.0,
+  "item_height": 29.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91917",
+  "provenance_text": "Purchased at the Silver Eye Center for Photography 2010 Auction (donated by the artist and Jayne H. Baum/JHB Gallery, New York)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100659&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ba7485ae-bc10-418f-9efe-ab2fe4f8d082",
+      "party_type": "Person",
+      "full_name": "Ellen Carey",
+      "cited_name": "Carey, Ellen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Mr. Icky",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "painted earthenware",
+  "accession_number": "2001.6",
+  "id": "cmoa:things/216e8d9d-181c-45f2-ad1e-b0db991ba82b",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2001-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 8.25,
+  "item_height": 8.0,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004420",
+  "provenance_text": "Franklin Parrasch Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28249&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32925b7e-e156-4b93-ab44-9660bca7f9ea",
+      "party_type": "Person",
+      "full_name": "Ken Price",
+      "cited_name": "Price, Ken",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Los Angeles, California",
+      "death_place": null
+    }
+  ]
+}

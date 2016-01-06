@@ -1,0 +1,49 @@
+{
+  "title": "Hudson chair",
+  "creation_date": "1999-2000 (designed); 2000",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "polished aluminum",
+  "accession_number": "2000.41.2",
+  "id": "cmoa:things/adc1c362-a1ff-45dc-8be2-466c56690b1f",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.75,
+  "item_height": 34.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004058",
+  "provenance_text": "Gift of Emeco, Hanover, Pennsylvania",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/672d3a74-474d-4432-a62d-75ceefb5fac5",
+      "party_type": "Organization",
+      "full_name": "Emeco",
+      "cited_name": "Emeco",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

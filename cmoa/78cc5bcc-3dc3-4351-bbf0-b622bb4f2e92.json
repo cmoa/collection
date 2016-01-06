@@ -1,0 +1,51 @@
+{
+  "title": "No. 2 Kompira Rishoki (Story of Grace Received from Kompira Shrine), from the Series \"Joruri Kyogen\"",
+  "creation_date": "c. 1806",
+  "creation_date_earliest": "1801-01-01",
+  "creation_date_latest": "1811-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1294.2",
+  "id": "cmoa:things/78cc5bcc-3dc3-4351-bbf0-b622bb4f2e92",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027100",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105961&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b3a0c86-2bf0-4462-984d-4411461f8737",
+      "party_type": "Person",
+      "full_name": "Shuntei Katsukawa",
+      "cited_name": "Shuntei Katsukawa",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1770-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3296d3d7-a0aa-4ebb-a5ce-85ab2b8ce8b2",
+      "party_type": "Person",
+      "full_name": "Jihei Moriya",
+      "cited_name": "Jihei Moriya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

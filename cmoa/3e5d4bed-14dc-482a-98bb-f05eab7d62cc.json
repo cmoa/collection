@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.10.2",
+  "id": "cmoa:things/3e5d4bed-14dc-482a-98bb-f05eab7d62cc",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.938,
+  "item_depth": 0.0,
+  "item_diameter": 7.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003623",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2814&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b3b66b5-66c0-43a6-bb5d-f12ac995cba7",
+      "party_type": "Person",
+      "full_name": "Otto Lindig",
+      "cited_name": "Lindig, Otto",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1895-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

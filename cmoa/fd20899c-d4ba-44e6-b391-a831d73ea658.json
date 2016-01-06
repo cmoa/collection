@@ -1,0 +1,42 @@
+{
+  "title": "The Crowning of Labor",
+  "creation_date": "1905-1908",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1908-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "07.08",
+  "id": "cmoa:things/fd20899c-d4ba-44e6-b391-a831d73ea658",
+  "credit_line": null,
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Grand Staircase",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92770",
+  "provenance_text": "John White Alexander [1856-1915] by commission, 1905; purchased by Museum, 1907.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148566&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148567&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cf1030-5eeb-4eb0-9ff0-310bf4f92e37",
+      "party_type": "Person",
+      "full_name": "John White Alexander",
+      "cited_name": "Alexander, John White",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "New York, NY"
+    }
+  ]
+}

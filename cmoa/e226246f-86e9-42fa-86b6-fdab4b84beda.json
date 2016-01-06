@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1599-01-01",
+  "medium": "Earthenware",
+  "accession_number": "15.3.2.2",
+  "id": "cmoa:things/e226246f-86e9-42fa-86b6-fdab4b84beda",
+  "credit_line": "Gift of C.F.Filippo",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.25,
+  "item_depth": 0.0,
+  "item_diameter": 12.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000977",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1622&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2aaf2a31-8570-408c-b38a-63b7bd3a82c9",
+      "party_type": "Person",
+      "full_name": "unknown Turkish, Isnik",
+      "cited_name": "unknown Turkish, Isnik",
+      "role": null,
+      "nationality": "Turkish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

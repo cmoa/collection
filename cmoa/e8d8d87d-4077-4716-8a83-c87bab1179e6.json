@@ -1,0 +1,39 @@
+{
+  "title": "Balcomb Green (Face)",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.42.34",
+  "id": "cmoa:things/e8d8d87d-4077-4716-8a83-c87bab1179e6",
+  "credit_line": "Gift of Elizabeth Wallace Hood in memory of her husband Samuel Stevens Hood",
+  "date_acquired": "1984-06-14",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.75,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024840",
+  "provenance_text": "Elizabeth Wallace Hood, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111719&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/557c4137-e3db-4a97-bfe7-2e2b1f72bf93",
+      "party_type": "Person",
+      "full_name": "Samuel Stevens Hood",
+      "cited_name": "Hood, Samuel S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1917-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

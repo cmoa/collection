@@ -1,0 +1,39 @@
+{
+  "title": "New York Collection for Stockholm Portfolio",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithographs, plates, and silkscreens",
+  "accession_number": "76.67.5",
+  "id": "cmoa:things/53502b97-77b1-4210-a41e-32f3d3284178",
+  "credit_line": "Gift of Robert Rauschenberg",
+  "date_acquired": "1977-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 8.938,
+  "item_height": 11.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018250",
+  "provenance_text": "Robert Rauschenberg, Inc., Captiva, FL",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106466&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c189819-cbf6-421f-8f12-d3a7ae75d51a",
+      "party_type": "Person",
+      "full_name": "Jim Dine",
+      "cited_name": "Dine, Jim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "City-Sound",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.95.10",
+  "id": "cmoa:things/477a1f48-2b3d-4032-a449-f5f9d29050db",
+  "credit_line": "Gift of Mr. and Mrs. Eugene Judd",
+  "date_acquired": "1984-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.875,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025380",
+  "provenance_text": "The Martin S. Ackerman Foundation, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13253&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0acbed7f-2efd-4161-a719-eecb78aead64",
+      "party_type": "Person",
+      "full_name": "Barbara Morgan",
+      "cited_name": "Morgan, Barbara",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Buffalo (Wilson county, Kansas, United States)",
+      "death_place": "Sleepy Hollow (Westchester county, New York state, United States)"
+    }
+  ]
+}

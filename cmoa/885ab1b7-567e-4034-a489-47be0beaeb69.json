@@ -1,0 +1,39 @@
+{
+  "title": "Coat of Arms with a Lion and a Rooster",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": "1494-12-23",
+  "creation_date_latest": "1504-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.116",
+  "id": "cmoa:things/885ab1b7-567e-4034-a489-47be0beaeb69",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017260",
+  "provenance_text": "Count Giuseppe Archinto, Milan 1783-1861 (Lugt 547).\nRichard Gutekunst, Berne, b. 1870 (Lugt 2213a).\nAlfred Morrison, London 1821-1897 (Lugt 151).\nCharles J. Rosenbloom (Lugt Suppl. 633b)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51636&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

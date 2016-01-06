@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "1810-1840",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "earthenware with platinum luster glaze",
+  "accession_number": "20.5.3.A-B",
+  "id": "cmoa:things/62511d50-7745-48bd-9ae2-7cd64b52f23d",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 5.875,
+  "item_depth": 4.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004597",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1911&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

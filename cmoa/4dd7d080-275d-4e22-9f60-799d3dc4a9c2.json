@@ -1,0 +1,39 @@
+{
+  "title": "Pot-de-crème",
+  "creation_date": "1751-1760",
+  "creation_date_earliest": "1751-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "70.1.4.A-B",
+  "id": "cmoa:things/4dd7d080-275d-4e22-9f60-799d3dc4a9c2",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 3.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2988",
+  "provenance_text": "Mrs. Fred C. Foy, Rector, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5738&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aa8823d9-a96b-4f57-94f3-d1680c434a78",
+      "party_type": "Organization",
+      "full_name": "Tournai Porcelain Factory",
+      "cited_name": "Tournai Porcelain Factory",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1751-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

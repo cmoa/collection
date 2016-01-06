@@ -1,0 +1,39 @@
+{
+  "title": "Dining chair",
+  "creation_date": "c. 1867",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1872-01-01",
+  "medium": "oak and various inlaid woods",
+  "accession_number": "1999.48",
+  "id": "cmoa:things/154f4ffe-bd6d-4c94-a2e5-8bba2d083354",
+  "credit_line": "Purchase: gift of the Estate of Adelaide R. Ritchey, by exchange",
+  "date_acquired": "1999-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 37.75,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003917",
+  "provenance_text": "Martin Levy, H. Blairman & Sons, London, England",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54624&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25b8c1e4-a1d2-4c34-88d0-1d4686945ab3",
+      "party_type": "Person",
+      "full_name": "Bruce Talbert",
+      "cited_name": "Talbert, Bruce",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1838-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": "Dundee, Scotland",
+      "death_place": "London, England"
+    }
+  ]
+}

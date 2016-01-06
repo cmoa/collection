@@ -1,0 +1,42 @@
+{
+  "title": "Venetian Landscape",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.28",
+  "id": "cmoa:things/eb4cc21f-aa77-45b0-88ad-84fe634d2afd",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 80.375,
+  "item_height": 63.188,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009429",
+  "provenance_text": "The Artist through the 1955 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119132&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37611&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a8048d6-95de-44b8-a9bf-9489086ead0e",
+      "party_type": "Person",
+      "full_name": "Carl-Henning Pedersen",
+      "cited_name": "Pedersen, Carl-Henning",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1913-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Copenhagen, Denmark",
+      "death_place": null
+    }
+  ]
+}

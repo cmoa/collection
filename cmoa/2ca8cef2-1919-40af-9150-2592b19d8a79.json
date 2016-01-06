@@ -1,0 +1,39 @@
+{
+  "title": "Head of Leopard",
+  "creation_date": "c. late 19th-early 20th century",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "charcoal and white chalk",
+  "accession_number": "22.1.1",
+  "id": "cmoa:things/2ca8cef2-1919-40af-9150-2592b19d8a79",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-05-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004709",
+  "provenance_text": "Dicksee Swan",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117634&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/067ec808-d5df-4979-b7ba-d4098565c315",
+      "party_type": "Person",
+      "full_name": "John MacAllan Swan",
+      "cited_name": "Swan, John M.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1847-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "Brentford (Greater London, England, United Kingdom)",
+      "death_place": "Isle Of Wight (Isle of Wight county, Virginia, United States)"
+    }
+  ]
+}

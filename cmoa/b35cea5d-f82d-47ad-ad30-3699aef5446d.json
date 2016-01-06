@@ -1,0 +1,39 @@
+{
+  "title": "Meudon",
+  "creation_date": "1928",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.26.5",
+  "id": "cmoa:things/b35cea5d-f82d-47ad-ad30-3699aef5446d",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1984-06-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024655",
+  "provenance_text": "Robert Freidus Gallery, Inc., NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/54f0016e-c8ea-4381-9ce7-dfd0298e5530",
+      "party_type": "Person",
+      "full_name": "André Kertész",
+      "cited_name": "Kertész, André",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": " Budapest (Budapest county, Hungary)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Wall Light",
+  "creation_date": "1951-1952",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "aluminum, glass",
+  "accession_number": "1999.18.1",
+  "id": "cmoa:things/1bfd5ad1-148c-4736-87da-ec835700b241",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "1999-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 111.062,
+  "item_height": 14.875,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003850",
+  "provenance_text": "David Allan Antiquaire, Paris, France",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56498&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f488302-dd75-4ec3-a591-c94acb88688e",
+      "party_type": "Person",
+      "full_name": "Jean Prouvé",
+      "cited_name": "Prouvé, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Nancy (Meurthe-et-Moselle, Lorraine, France)"
+    }
+  ]
+}

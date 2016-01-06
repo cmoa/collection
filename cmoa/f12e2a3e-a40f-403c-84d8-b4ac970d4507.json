@@ -1,0 +1,39 @@
+{
+  "title": "Kiyomizu Komachi",
+  "creation_date": null,
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1825-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.494",
+  "id": "cmoa:things/f12e2a3e-a40f-403c-84d8-b4ac970d4507",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.312,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028346",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100252&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b19f82c-6f79-4d54-a77a-eff2349039dc",
+      "party_type": "Person",
+      "full_name": "Chôki Eishôsai",
+      "cited_name": "Chôki Eishôsai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1785-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

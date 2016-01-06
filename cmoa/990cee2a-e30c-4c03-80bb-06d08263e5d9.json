@@ -1,0 +1,42 @@
+{
+  "title": "The Merchant Mill, from \"In the Pittsburgh Mills\"",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "etching",
+  "accession_number": "37.4.16",
+  "id": "cmoa:things/990cee2a-e30c-4c03-80bb-06d08263e5d9",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1937-06-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006975",
+  "provenance_text": "Jean-Emile Laboureur. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1937.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100097&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100096&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93378aef-ac55-4814-98cc-ee32b82a1972",
+      "party_type": "Person",
+      "full_name": "Jean-Emile Laboureur",
+      "cited_name": "Laboureur, Jean-Emile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

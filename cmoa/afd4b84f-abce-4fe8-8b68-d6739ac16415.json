@@ -1,0 +1,51 @@
+{
+  "title": "Cherry Blossoms and Two Maikos",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.852",
+  "id": "cmoa:things/afd4b84f-abce-4fe8-8b68-d6739ac16415",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.125,
+  "item_height": 10.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029026",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34247&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/83a6da8d-19a3-4fef-bdd0-0c56b6b14084",
+      "party_type": "Person",
+      "full_name": "Kosetsu",
+      "cited_name": "Kosetsu",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1882-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/82564cf2-913d-42fd-9df6-5a85f218d9ea",
+      "party_type": "Person",
+      "full_name": "Satô Shôtarô",
+      "cited_name": "Satô Shôtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Myga",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1476",
+  "id": "cmoa:things/c945e3c7-61c2-48ae-866b-56483c31c387",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027395",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from Charles E. Tuttle Co., Rutland, Vt. and Tokyo, Japan, 4/26/1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34266&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d405f1a-a151-45ce-aa44-450ad70423dd",
+      "party_type": "Person",
+      "full_name": "Yoshida Fujio",
+      "cited_name": "Yoshida Fujio",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1887-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Fukuoka prefecture",
+      "death_place": null
+    }
+  ]
+}

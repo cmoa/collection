@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Homer Schiff Saint-Gaudens",
+  "creation_date": "1882, cast later",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "bronze",
+  "accession_number": "59.5.31",
+  "id": "cmoa:things/3ad62332-b716-41b4-a053-babd574d1a93",
+  "credit_line": "Bequest of Johanna K. W. Hailman",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 19.812,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011073",
+  "provenance_text": "Estate of Johanna K. W. Hailman, Pittsburgh",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53123&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30b1691b-c666-40a3-b025-84c0d9fc5aaa",
+      "party_type": "Person",
+      "full_name": "Augustus Saint-Gaudens",
+      "cited_name": "Saint-Gaudens, Augustus",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "Cornish, NH"
+    }
+  ]
+}

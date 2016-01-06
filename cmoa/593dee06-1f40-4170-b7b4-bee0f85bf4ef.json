@@ -1,0 +1,51 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1904",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "pearwood with modern leather",
+  "accession_number": "84.33.3",
+  "id": "cmoa:things/593dee06-1f40-4170-b7b4-bee0f85bf4ef",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1984-06-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 18.0,
+  "item_height": 47.0,
+  "item_depth": 17.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024676",
+  "provenance_text": "Barry Friedman Ltd., New York City, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96780&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96783&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96784&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96779&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11645&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72f8dc91-56f4-4c5c-adaf-9a734d8871ee",
+      "party_type": "Person",
+      "full_name": "Hector Guimard",
+      "cited_name": "Guimard, Hector",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": "Lyon, France",
+      "death_place": "New York City, NY"
+    }
+  ]
+}

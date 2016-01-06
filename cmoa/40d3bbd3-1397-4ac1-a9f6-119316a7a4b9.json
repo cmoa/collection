@@ -1,0 +1,39 @@
+{
+  "title": "Approaching Storm",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "Lithograph",
+  "accession_number": "51.12",
+  "id": "cmoa:things/40d3bbd3-1397-4ac1-a9f6-119316a7a4b9",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008911",
+  "provenance_text": "Stephen Csoka",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75067&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/61ea9060-894e-4c0f-977c-c9800421e9d6",
+      "party_type": "Person",
+      "full_name": "Stephen Csoka",
+      "cited_name": "Csoka, Stephen",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "Gardony, Hungary",
+      "death_place": "Kings Park, NY"
+    }
+  ]
+}

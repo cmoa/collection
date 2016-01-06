@@ -1,0 +1,39 @@
+{
+  "title": "The Life of the Virgin: The Circumcision",
+  "creation_date": "c. 1504-1505",
+  "creation_date_earliest": "1488-12-23",
+  "creation_date_latest": "1519-12-22",
+  "medium": "proof",
+  "accession_number": "15.9.11",
+  "id": "cmoa:things/2c69f70b-717e-4a76-ba4f-86ffd1f05112",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1915-12-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001010",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49983&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

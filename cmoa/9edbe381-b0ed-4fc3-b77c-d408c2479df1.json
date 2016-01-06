@@ -1,0 +1,39 @@
+{
+  "title": "Madonna and Child",
+  "creation_date": "c.1500-1529",
+  "creation_date_earliest": "1484-12-23",
+  "creation_date_latest": "1528-12-22",
+  "medium": "oil on panel",
+  "accession_number": "64.11.19",
+  "id": "cmoa:things/9edbe381-b0ed-4fc3-b77c-d408c2479df1",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.25,
+  "item_height": 23.625,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011715",
+  "provenance_text": "Howard A. Noble, Pittsburgh; gift to Museum, May 1964.\n\nNotes: In 1944, the painting hung in a bedroom of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149685&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ebf9a54-4acf-4e24-a7a6-0ec44e66e3c9",
+      "party_type": "Person",
+      "full_name": "Liberale da Verona",
+      "cited_name": "Verona, Liberale da",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1445-01-01",
+      "death_date": "1529-01-01",
+      "birth_place": "Verona (Verone province, Veneto, Italy)",
+      "death_place": "Verona (Verone province, Veneto, Italy)"
+    }
+  ]
+}

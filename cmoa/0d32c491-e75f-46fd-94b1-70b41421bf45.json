@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": null,
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "enameled pottery, gilt metal mount",
+  "accession_number": "80.109.14",
+  "id": "cmoa:things/0d32c491-e75f-46fd-94b1-70b41421bf45",
+  "credit_line": "Gift of Pauline and James Taylor",
+  "date_acquired": "1981-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.438,
+  "item_depth": 0.0,
+  "item_diameter": 8.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021061",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e4a4e36-3fee-4619-adad-e80bf7b3d451",
+      "party_type": "Organization",
+      "full_name": "J. Vieillard & Cie.",
+      "cited_name": "Vieillard, J. & Cie.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1845-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

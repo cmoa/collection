@@ -1,0 +1,42 @@
+{
+  "title": "Determined",
+  "creation_date": null,
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "linoleum cut",
+  "accession_number": "41.6.12",
+  "id": "cmoa:things/811c1470-473d-4f29-af99-4c004bde0703",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1941-12-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007263",
+  "provenance_text": "American National Committee of Engraving",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101081&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a24d593c-4c58-439a-b900-122d867cd563",
+      "party_type": "Person",
+      "full_name": "Norman Kent",
+      "cited_name": "Kent, Norman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Mamaroneck (Westchester county, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Full-Length Mirror",
+  "creation_date": "1910",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "65.17.1",
+  "id": "cmoa:things/ca0a4439-6a56-4a46-99ff-9c941c0f705e",
+  "credit_line": "Purchased through the generosity of Mrs. Alan M. Scaife and family",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 32.5,
+  "item_height": 49.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011873",
+  "provenance_text": "Pierre Bonnard [1867-1947], France, until 1910; Galerie Bernheim-Jeune [1863-], Paris, France, by 1910; Gaston Bernheim de Villers [1870-1953], Paris, France, 1952 until 1953 [1]; Sam Salz, Inc., New York, NY; Mr. and Mrs. Adolphe A. Juviler, New York, NY and Palm Beach, FL, by 1961; (sold at Parke-Bernet Galleries, New York, NY, on October 25, 1961, no. 33, illustrated in color) [2]; Mr. Nicolas Reisini, New York, NY, until April 1965; (sold at Parke-Bernet Galleries, New York, NY, on April 14, 1965, no. 64, illustrated in color) [3]; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1965 [4]. \nNOTES:1. Also referred to as Gaston Bernheim-Jeune, or Gaston Bernheim. 2. \"Notable Modern Paintings, Drawings, and Sculpture from the Collection of Mr. and Mrs. Adolphe A. Juviler\" 3. Sale entitled \"Impressionist and Modern Paintings, Sculptures, and Drawings\". 4. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10183&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3aedcb4-9d47-49ac-b1d8-10212d4818d5",
+      "party_type": "Person",
+      "full_name": "Pierre Bonnard",
+      "cited_name": "Bonnard, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-10-03",
+      "death_date": "1947-01-27",
+      "birth_place": "Fontenay-aux-Roses, France",
+      "death_place": "Cannet, France"
+    }
+  ]
+}

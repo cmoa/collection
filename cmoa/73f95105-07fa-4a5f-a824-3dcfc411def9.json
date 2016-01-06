@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "1845",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "oil on panel",
+  "accession_number": "69.50",
+  "id": "cmoa:things/73f95105-07fa-4a5f-a824-3dcfc411def9",
+  "credit_line": "Gift of Paul R. Simqu",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012977",
+  "provenance_text": "Paul R. Simqu, Pittsburgh; gift to Museum, December 1969.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120540&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/42c9db91-6d96-4aae-8280-a9e4ef4d7da1",
+      "party_type": "Person",
+      "full_name": "John Linnell",
+      "cited_name": "Linnell, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1792-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Redhill (Surrey, England, United Kingdom)"
+    }
+  ]
+}

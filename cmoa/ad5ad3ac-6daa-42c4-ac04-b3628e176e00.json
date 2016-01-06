@@ -1,0 +1,42 @@
+{
+  "title": "A Wind is Rising and the Rivers Flow",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "color lithograph",
+  "accession_number": "57.3.74",
+  "id": "cmoa:things/ad5ad3ac-6daa-42c4-ac04-b3628e176e00",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1957-04-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 17.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010552",
+  "provenance_text": "Benton Murdoch Spruance [1904-1967]. Mrs. James H. Beal; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1957.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100832&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100833&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a45438c-fc3b-4041-9e6a-77431ac1a66d",
+      "party_type": "Person",
+      "full_name": "Benton Murdoch Spruance",
+      "cited_name": "Spruance, Benton M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

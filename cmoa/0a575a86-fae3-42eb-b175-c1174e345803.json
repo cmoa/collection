@@ -1,0 +1,39 @@
+{
+  "title": "Pillows",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1998.1",
+  "id": "cmoa:things/0a575a86-fae3-42eb-b175-c1174e345803",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1998-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.5,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003614",
+  "provenance_text": "David Zwirner Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh; A. W. Mellon Acquisiton Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d8ceeed-dabc-4508-96b8-8eb6b8546753",
+      "party_type": "Person",
+      "full_name": "Luc Tuymans",
+      "cited_name": "Tuymans, Luc",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Belgium",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Tower Iron No. 5",
+  "creation_date": null,
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "16mm film; color, sound; 9 min.",
+  "accession_number": "77.22",
+  "id": "cmoa:things/8d70e9f8-2a78-47cc-9f38-3251981c1656",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1977-05-12",
+  "department": "Film and Video",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018370",
+  "provenance_text": "WQED, Pittsburgh, PA",
+  "classification": "films",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f94972c-0760-4f8f-a1f4-294c93237197",
+      "party_type": "Person",
+      "full_name": "Norris Brock",
+      "cited_name": "Brock, Norris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2f7f10bf-da69-4f04-b15c-dac24a41fbef",
+      "party_type": "Organization",
+      "full_name": "WQED-TV",
+      "cited_name": "WQED-TV",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

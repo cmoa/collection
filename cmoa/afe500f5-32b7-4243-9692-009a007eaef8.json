@@ -1,0 +1,39 @@
+{
+  "title": "Michael and Gabriel",
+  "creation_date": "1987-1988",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "two silver dye-bleach prints (Cibachrome)",
+  "accession_number": "89.4.A-.B",
+  "id": "cmoa:things/afe500f5-32b7-4243-9692-009a007eaef8",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1989-04-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 54.0,
+  "item_height": 107.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029290",
+  "provenance_text": "Koury-Wingate, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27158&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2c4573a-fd54-4550-9b5c-65c3af383d12",
+      "party_type": "Person",
+      "full_name": "Bernhard Prinz",
+      "cited_name": "Prinz, Bernhard",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

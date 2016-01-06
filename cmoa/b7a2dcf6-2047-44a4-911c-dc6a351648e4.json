@@ -1,0 +1,51 @@
+{
+  "title": "Benkei Bridge (Benkeibashi)",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.709.13",
+  "id": "cmoa:things/b7a2dcf6-2047-44a4-911c-dc6a351648e4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028687",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from The Red Lantern Shop, Kyoto, Japan, 2/29/1976.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35931&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e71919a9-5277-4a61-ba07-580c2626c0d1",
+      "party_type": "Person",
+      "full_name": "Sekino Jun-ichirô",
+      "cited_name": "Sekino Jun-ichirô",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1914-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9f9ab97e-a4de-4a27-a483-a80194456f0d",
+      "party_type": "Person",
+      "full_name": "Uemura Masuo",
+      "cited_name": "Uemura Masuo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

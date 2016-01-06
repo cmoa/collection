@@ -1,0 +1,39 @@
+{
+  "title": "Lieven Van Coppenol",
+  "creation_date": "1658",
+  "creation_date_earliest": "1658-01-01",
+  "creation_date_latest": "1658-01-01",
+  "medium": "engraving",
+  "accession_number": "15.3.3",
+  "id": "cmoa:things/7d81ec12-300e-4976-8275-cf36ce573a2d",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-04-16",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000979",
+  "provenance_text": "American Art Association",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101801&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04144fa8-8c16-4a41-8a7c-875b9fd07077",
+      "party_type": "Person",
+      "full_name": "Cornelis Visscher",
+      "cited_name": "Visscher, Cornelis",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1629-01-01",
+      "death_date": "1658-01-01",
+      "birth_place": "possibly Haarlem, Netherlands",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

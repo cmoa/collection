@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "34.3",
+  "id": "cmoa:things/b1a40038-9cf0-4c6d-9302-7633f53f7f16",
+  "credit_line": "Gift of Mrs. Francis Raymond Holland",
+  "date_acquired": "1934-07-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 62.0,
+  "item_height": 61.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006797",
+  "provenance_text": "The artist, until 1925; his widow, until 1962; gift to museum, 1962",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4e7d5978-f026-41ec-85b8-cba20302fabd",
+      "party_type": "Person",
+      "full_name": "Francis Raymond Holland",
+      "cited_name": "Holland, Francis R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

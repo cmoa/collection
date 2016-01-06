@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "87.39",
+  "id": "cmoa:things/1c0bdeea-d6ee-45cd-be5a-c36f6c69021e",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1987-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026365",
+  "provenance_text": "Thornton Willis",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94626&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60c38bd9-cd3c-4114-9475-9c5bb78a9840",
+      "party_type": "Person",
+      "full_name": "Thornton Willis",
+      "cited_name": "Willis, Thornton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Pensacola, FL",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Bikuni Bridge in Snow  (Bikunibashi, Setchu)",
+  "creation_date": "1858",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.346.5",
+  "id": "cmoa:things/bb2e5b49-80cb-4371-ae32-560e0d6eee17",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 13.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027988",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Bluett & Sons, London, 3/8/1963.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99690&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c6b28cf-c7bb-40f7-a610-9dd4fd9c3076",
+      "party_type": "Person",
+      "full_name": "Hiroshige II",
+      "cited_name": "Hiroshige II",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1826-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": "Japan",
+      "death_place": "Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    }
+  ]
+}

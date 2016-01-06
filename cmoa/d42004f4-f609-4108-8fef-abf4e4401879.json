@@ -1,0 +1,42 @@
+{
+  "title": "The Family",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.35",
+  "id": "cmoa:things/d42004f4-f609-4108-8fef-abf4e4401879",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012901",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103590&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76891&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/57556352-efd1-4dfc-a91d-fae95ce4026e",
+      "party_type": "Person",
+      "full_name": "Federico Castellon",
+      "cited_name": "Castellon, Federico",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Almería (Almería province, Andalusia, Spain)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

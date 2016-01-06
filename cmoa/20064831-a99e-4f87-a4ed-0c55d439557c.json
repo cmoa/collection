@@ -1,0 +1,39 @@
+{
+  "title": "Ruffed Grouse",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.221",
+  "id": "cmoa:things/20064831-a99e-4f87-a4ed-0c55d439557c",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012805",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108187&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/37d20352-c051-447d-994b-c7f66ed14d0b",
+      "party_type": "Person",
+      "full_name": "William McKim",
+      "cited_name": "McKim, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": "Independance, MO",
+      "death_place": null
+    }
+  ]
+}

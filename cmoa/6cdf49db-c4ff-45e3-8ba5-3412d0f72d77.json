@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "earthenware",
+  "accession_number": "1996.31",
+  "id": "cmoa:things/6cdf49db-c4ff-45e3-8ba5-3412d0f72d77",
+  "credit_line": "Gift of Sarah Nichols in honor of Phillip M. Johnston",
+  "date_acquired": "1996-05-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.063,
+  "item_depth": 0.0,
+  "item_diameter": 4.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002115",
+  "provenance_text": "Sarah Nichols, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101408&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4046&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eff7a010-f38d-4a7d-bd64-285a87d83522",
+      "party_type": "Organization",
+      "full_name": "Minton & Co.",
+      "cited_name": "Minton & Co.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

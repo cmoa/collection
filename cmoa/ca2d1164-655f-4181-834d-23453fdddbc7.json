@@ -1,0 +1,39 @@
+{
+  "title": "Flask",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "pattern-molded glass",
+  "accession_number": "19.1.95",
+  "id": "cmoa:things/ca2d1164-655f-4181-834d-23453fdddbc7",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 5.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002037",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9010177-d0e1-43c2-949c-101f8ad94dd9",
+      "party_type": "Organization",
+      "full_name": "Dyottville Glassworks",
+      "cited_name": "Dyottville Glassworks",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1923-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

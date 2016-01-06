@@ -1,0 +1,39 @@
+{
+  "title": "Jug",
+  "creation_date": "c. 1850",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "glass",
+  "accession_number": "2001.34",
+  "id": "cmoa:things/b7905788-b39e-44be-a12a-9ecc55143970",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2001-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 10.125,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004239",
+  "provenance_text": "H. Blairman & Sons Ltd, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56062e97-498b-4188-b06a-ccd1e9af3671",
+      "party_type": "Organization",
+      "full_name": "W. H. B. & J. Richardson",
+      "cited_name": "Richardson, W.H.B. & J.",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1836-01-01",
+      "death_date": "1853-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

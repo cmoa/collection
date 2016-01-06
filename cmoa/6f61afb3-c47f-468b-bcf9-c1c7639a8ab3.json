@@ -1,0 +1,39 @@
+{
+  "title": "Canada (Near Banff)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2006.34.1",
+  "id": "cmoa:things/6f61afb3-c47f-468b-bcf9-c1c7639a8ab3",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2006-06-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.5,
+  "item_height": 32.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26466",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30841&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee0c2226-8b21-4198-a6bc-7769cbd1ed87",
+      "party_type": "Person",
+      "full_name": "Roe Ethridge",
+      "cited_name": "Ethridge, Roe",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": "Miami (Miami-Dade county, Florida, United States)",
+      "death_place": null
+    }
+  ]
+}

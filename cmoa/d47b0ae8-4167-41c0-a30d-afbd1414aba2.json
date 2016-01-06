@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (armoire)",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "cement, wood, and steel",
+  "accession_number": "93.153",
+  "id": "cmoa:things/d47b0ae8-4167-41c0-a30d-afbd1414aba2",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1993-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 73.5,
+  "item_height": 45.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032991",
+  "provenance_text": "Brooke Alexander, NY, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24375&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0c782ba-22ef-4770-a446-a038f93144f5",
+      "party_type": "Person",
+      "full_name": "Doris Salcedo",
+      "cited_name": "Salcedo, Doris",
+      "role": null,
+      "nationality": "Colombian",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Bogotá, Colombia",
+      "death_place": null
+    }
+  ]
+}

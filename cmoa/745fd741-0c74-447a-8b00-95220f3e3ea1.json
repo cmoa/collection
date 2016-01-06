@@ -1,0 +1,39 @@
+{
+  "title": "November Hills",
+  "creation_date": "c. 1908",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "09.3",
+  "id": "cmoa:things/745fd741-0c74-447a-8b00-95220f3e3ea1",
+  "credit_line": "Purchase",
+  "date_acquired": "1909-06-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 58.25,
+  "item_height": 57.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000370",
+  "provenance_text": "Purchase, 1909",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8066&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fd20d015-5fec-40f7-aee9-7a443c993d90",
+      "party_type": "Person",
+      "full_name": "Bruce Crane",
+      "cited_name": "Crane, Bruce",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Bronxville (Westchester county, New York state, United States)"
+    }
+  ]
+}

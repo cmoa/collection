@@ -1,0 +1,39 @@
+{
+  "title": "Pour Jorn 61/100",
+  "creation_date": "1976",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "79.6.5",
+  "id": "cmoa:things/c66bb1ee-5150-4b6a-8275-ff093569f287",
+  "credit_line": "Gift of the Asger Jorn Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020643",
+  "provenance_text": "Galerie van de Loo, Munich, Germany",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121739&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8a6a77e-3ca3-4640-8c69-9248be4bc06d",
+      "party_type": "Person",
+      "full_name": "Corneille (Cornelius Guillaume Van Beverloo)",
+      "cited_name": "Corneille",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1922-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Liège (Liège province, Wallonia, Belgium)",
+      "death_place": "France"
+    }
+  ]
+}

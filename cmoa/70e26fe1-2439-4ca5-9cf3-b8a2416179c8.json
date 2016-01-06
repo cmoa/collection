@@ -1,0 +1,39 @@
+{
+  "title": "Red Painting",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2002.32.6",
+  "id": "cmoa:things/70e26fe1-2439-4ca5-9cf3-b8a2416179c8",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 33.0,
+  "item_height": 41.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=365",
+  "provenance_text": "Gift of Charles H. Carpenter, Jr., and the Henry L. Hillman Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124780&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf16a0c9-3050-4cea-bcc7-02389ac0e7e2",
+      "party_type": "Person",
+      "full_name": "Ad Reinhardt",
+      "cited_name": "Reinhardt, Ad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Buffalo (Erie county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

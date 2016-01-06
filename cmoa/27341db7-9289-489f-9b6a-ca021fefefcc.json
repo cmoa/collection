@@ -1,0 +1,39 @@
+{
+  "title": "Dagger",
+  "creation_date": "1300 BCE-700 BCE",
+  "creation_date_earliest": "-1300-01-13",
+  "creation_date_latest": "-0700-01-09",
+  "medium": "bronze",
+  "accession_number": "72.61.38",
+  "id": "cmoa:things/27341db7-9289-489f-9b6a-ca021fefefcc",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 23.688,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016550",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2438&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/81318127-0f76-4f62-b3da-fb4feebac4e9",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Luristan",
+      "cited_name": "unknown Persian, Luristan",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

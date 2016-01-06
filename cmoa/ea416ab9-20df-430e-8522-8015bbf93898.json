@@ -1,0 +1,39 @@
+{
+  "title": "Oakland Image",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "etching",
+  "accession_number": "2006.67",
+  "id": "cmoa:things/ea416ab9-20df-430e-8522-8015bbf93898",
+  "credit_line": "Mr. and Mrs. Charles Denby Fund",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.5,
+  "item_height": 24.5,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33678",
+  "provenance_text": "Crown Point Press, San Francisco, CA (publisher)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39678&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac742c0c-7a67-42fd-8cd3-f05d83871133",
+      "party_type": "Person",
+      "full_name": "Richard Diebenkorn",
+      "cited_name": "Diebenkorn, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": " Portland (Multnomah county, Oregon, United States)",
+      "death_place": "Healdsburg, California"
+    }
+  ]
+}

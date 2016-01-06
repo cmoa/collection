@@ -1,0 +1,39 @@
+{
+  "title": "Bill Lying on His Mother's Lap",
+  "creation_date": "1889",
+  "creation_date_earliest": "1889-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "etching and aquatint on paper",
+  "accession_number": "23.3",
+  "id": "cmoa:things/a770f087-98e1-4613-b8ac-b8b991e329ef",
+  "credit_line": "Purchase",
+  "date_acquired": "1923-01-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004988",
+  "provenance_text": "A. Barrion, Paris (Lugt 76), until 1903; probably sale Collection Alfred Barrion Estampes & Dessins Modernes, Hotel Drouot, June 20, 1913 (as Le Repos, no. 20?); Marcel L. Guerin, Paris, (Lugt 1872b); Durand-Ruel, New York, NY; purchased by Museum January 1923.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72440&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25d883f-0641-4500-b258-37d6bafc568b",
+      "party_type": "Person",
+      "full_name": "Mary Cassatt",
+      "cited_name": "Cassatt, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-05-22",
+      "death_date": "1926-06-14",
+      "birth_place": "Pittsburgh (Allegheny City), PA",
+      "death_place": "Le Mesnil-Théribus, France"
+    }
+  ]
+}

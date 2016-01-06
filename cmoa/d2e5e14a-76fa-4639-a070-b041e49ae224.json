@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "ink on paper with collaged magazine pages, acrylic yarn, thread, and wooden bead",
+  "accession_number": "2005.33.1",
+  "id": "cmoa:things/d2e5e14a-76fa-4639-a070-b041e49ae224",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2005-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.375,
+  "item_height": 13.0,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15442",
+  "provenance_text": "The artist, John Bock",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147618&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/adb76811-8277-4083-951a-1ed994678fb8",
+      "party_type": "Person",
+      "full_name": "John Bock",
+      "cited_name": "Bock, John",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Gribbohm, Germany",
+      "death_place": null
+    }
+  ]
+}

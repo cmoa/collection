@@ -1,0 +1,51 @@
+{
+  "title": "Katherine May Edwards",
+  "creation_date": "c. 1873-1874",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "albumen print (carte de visite)",
+  "accession_number": "1997.42.3.27",
+  "id": "cmoa:things/8d6266fc-39f4-4a52-82d6-a1b22321bba3",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 4.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003339",
+  "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106329&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c6ac92c-275c-47bf-b00d-e039a07e5735",
+      "party_type": "Person",
+      "full_name": "Trevor McClurg",
+      "cited_name": "McClurg, Trevor",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1893-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0e4f8c4f-694a-48d7-8708-16680b2c7a60",
+      "party_type": "Person",
+      "full_name": "Sanford M. Robinson",
+      "cited_name": "Robinson, Sanford M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1833-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

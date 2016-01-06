@@ -1,0 +1,42 @@
+{
+  "title": "The Nativity",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "37.4.24",
+  "id": "cmoa:things/23997de8-f4e2-4e13-8ba0-a80f54909214",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1937-06-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006986",
+  "provenance_text": "Julius J. Lankes [1884-1960]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1937.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100554&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100555&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1e64e18-9e74-4f37-8525-2ce492357559",
+      "party_type": "Person",
+      "full_name": "Julius J. Lankes",
+      "cited_name": "Lankes, Julius J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "USA, New York, Buffalo",
+      "death_place": "USA, NC, DURAHAM"
+    }
+  ]
+}

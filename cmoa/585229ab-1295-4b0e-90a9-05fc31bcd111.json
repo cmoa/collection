@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "late 1980s",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "2003.34.2",
+  "id": "cmoa:things/585229ab-1295-4b0e-90a9-05fc31bcd111",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.0,
+  "item_depth": 0.0,
+  "item_diameter": 5.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3642",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=932&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32925b7e-e156-4b93-ab44-9660bca7f9ea",
+      "party_type": "Person",
+      "full_name": "Ken Price",
+      "cited_name": "Price, Ken",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Los Angeles, California",
+      "death_place": null
+    }
+  ]
+}

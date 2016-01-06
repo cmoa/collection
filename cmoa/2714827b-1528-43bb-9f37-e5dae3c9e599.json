@@ -1,0 +1,39 @@
+{
+  "title": "Capital",
+  "creation_date": "12th century",
+  "creation_date_earliest": "1099-12-26",
+  "creation_date_latest": "1198-12-25",
+  "medium": "marble",
+  "accession_number": "58.25.36.C",
+  "id": "cmoa:things/2714827b-1528-43bb-9f37-e5dae3c9e599",
+  "credit_line": "Gift of Baroness Cassel Van Doorn",
+  "date_acquired": "1958-11-21",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=52975",
+  "provenance_text": "Baroness Cassel Van Doorn",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115015&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c12d8676-ccb8-4587-b5b4-0499f7b8e2a7",
+      "party_type": "Person",
+      "full_name": "unknown Southern Italian",
+      "cited_name": "unknown Southern Italian",
+      "role": null,
+      "nationality": "European",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

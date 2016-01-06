@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (No. 3 - 1956)",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.33",
+  "id": "cmoa:things/f5f6474c-db19-4195-b9a4-c43583f562b8",
+  "credit_line": "Gift of Leland Hazard",
+  "date_acquired": "1957-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 12, Scaife Galleries",
+  "item_width": 18.0,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010824",
+  "provenance_text": "The Artist via 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18415&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87adbeca-a6bd-4a21-a618-ddc9a80e4248",
+      "party_type": "Person",
+      "full_name": "Myron S. Stout",
+      "cited_name": "Stout, Myron S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Denton (Callahan county, Texas, United States)",
+      "death_place": "Provincetown (Barnstable county, Massachusetts, United States)"
+    }
+  ]
+}

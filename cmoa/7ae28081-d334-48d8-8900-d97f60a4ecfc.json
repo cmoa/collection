@@ -1,0 +1,39 @@
+{
+  "title": "Tillie S. Speyer",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "92.88",
+  "id": "cmoa:things/7ae28081-d334-48d8-8900-d97f60a4ecfc",
+  "credit_line": "Gift of Darthea Speyer",
+  "date_acquired": "1992-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 39.125,
+  "item_height": 52.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032714",
+  "provenance_text": "Gift of Darthea Speyer, Paris, France, 1992.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9896&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caaa1170-47a9-4755-94a5-9a81c43705f2",
+      "party_type": "Person",
+      "full_name": "Beauford Delaney",
+      "cited_name": "Delaney, Beauford",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": " Knoxville (Knox county, Tennessee, United States)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

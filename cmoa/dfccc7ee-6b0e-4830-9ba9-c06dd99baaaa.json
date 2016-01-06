@@ -1,0 +1,66 @@
+{
+  "title": "A Man Seated, Holding a Flute, with a Bonnet in the Manner of Rembrandt",
+  "creation_date": "1773-1774",
+  "creation_date_earliest": "1773-01-01",
+  "creation_date_latest": "1774-01-01",
+  "medium": "etching in crayon manner with roulette",
+  "accession_number": "49.2.35",
+  "id": "cmoa:things/dfccc7ee-6b0e-4830-9ba9-c06dd99baaaa",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.125,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008604",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104006&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104007&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b5ee20b4-0b39-41a5-97af-1be9d1e1765e",
+      "party_type": "Person",
+      "full_name": "Bernhard Schreuder",
+      "cited_name": "Schreuder, Bernhard",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1780-01-01",
+      "birth_place": null,
+      "death_place": "Hoorn (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/c9b0f13a-d461-48d1-9502-c5875eb55c4d",
+      "party_type": "Person",
+      "full_name": "Govaert Flinck",
+      "cited_name": "Flinck, Govaert",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1615-01-01",
+      "death_date": "1660-01-01",
+      "birth_place": "Cleves (Düsseldorf district, North Rhine-Westphalia, Germany)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

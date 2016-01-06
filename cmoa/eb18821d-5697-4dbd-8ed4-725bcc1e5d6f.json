@@ -1,0 +1,51 @@
+{
+  "title": "Jug",
+  "creation_date": "c. 1870",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "terracotta with underglaze decoration",
+  "accession_number": "2002.21.1.1",
+  "id": "cmoa:things/eb18821d-5697-4dbd-8ed4-725bcc1e5d6f",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 5.25,
+  "item_height": 8.75,
+  "item_depth": 5.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=37",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1584&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8af6b50e-dd91-4501-8658-6449b8b6602a",
+      "party_type": "Organization",
+      "full_name": "Watcombe Pottery",
+      "cited_name": "Watcombe Pottery",
+      "role": "manufacturer",
+      "nationality": null,
+      "birth_date": "1867-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

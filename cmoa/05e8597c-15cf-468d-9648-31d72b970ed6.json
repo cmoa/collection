@@ -1,0 +1,42 @@
+{
+  "title": "Vitre",
+  "creation_date": null,
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "etching",
+  "accession_number": "43.7.7",
+  "id": "cmoa:things/05e8597c-15cf-468d-9648-31d72b970ed6",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1943-11-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007481",
+  "provenance_text": "Gift of Charles J. Rosenbloom, Pittsburgh, PA, 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100522&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100521&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/86184769-05bd-4988-80ad-63c73851ad41",
+      "party_type": "Person",
+      "full_name": "Louis C. Rosenberg",
+      "cited_name": "Rosenberg, Louis C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Portland (Multnomah county, Oregon, United States)",
+      "death_place": null
+    }
+  ]
+}

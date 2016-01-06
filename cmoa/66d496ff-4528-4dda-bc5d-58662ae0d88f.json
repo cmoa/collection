@@ -1,0 +1,51 @@
+{
+  "title": "Armchair",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "cast aluminum with modern upholstery",
+  "accession_number": "2005.18",
+  "id": "cmoa:things/66d496ff-4528-4dda-bc5d-58662ae0d88f",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2005-04-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 27.0,
+  "item_height": 35.5,
+  "item_depth": 27.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14849",
+  "provenance_text": "Carolyn S. Price Collection, private collection, Wright Auction House, Chicago.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7798&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5847991-4552-4fe3-9c4f-498d28b68667",
+      "party_type": "Person",
+      "full_name": "Frank Lloyd Wright",
+      "cited_name": "Wright, Frank L.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Richland Center, Wisconsin",
+      "death_place": "Phoenix, Arizona"
+    },
+    {
+      "artist_id": "cmoa:parties/65081b1f-78b8-4062-bf6f-7b66caab4ce3",
+      "party_type": "Organization",
+      "full_name": "Blue Stem Foundry",
+      "cited_name": "Blue Stem Foundry",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1982-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

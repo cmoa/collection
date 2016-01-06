@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1770",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "Earthenware",
+  "accession_number": "83.57",
+  "id": "cmoa:things/2caf15eb-f2e6-4205-af41-8eb053bf8155",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1983-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.188,
+  "item_depth": 0.0,
+  "item_diameter": 12.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023854",
+  "provenance_text": "W. M. Schwind, Jr. Antiques, ME, Yarmouth",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4115&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

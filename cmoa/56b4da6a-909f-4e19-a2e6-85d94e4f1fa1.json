@@ -1,0 +1,39 @@
+{
+  "title": "Still Life with Fruit",
+  "creation_date": "1882",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.37.2",
+  "id": "cmoa:things/56b4da6a-909f-4e19-a2e6-85d94e4f1fa1",
+  "credit_line": "Gift of the Western Pennsylvania Conservancy in memory of George and Lila B. Hetzel",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.0,
+  "item_height": 24.188,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018616",
+  "provenance_text": "Dorothy Kantner, Somerset, Pa., by descent; by gift to the Western Pennsylvania Conservancy, Pittsburgh, 1977; gift to museum in memory of George and Lila B. Hetzel, 1977",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113256&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

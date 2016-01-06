@@ -1,0 +1,69 @@
+{
+  "title": "Dragonfly lamp",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "patinated bronze and leaded glass",
+  "accession_number": "76.46.A-C",
+  "id": "cmoa:things/a16e903c-7cb7-4305-8fa4-66016df0cae5",
+  "credit_line": "Gift of Arthur E. Braun",
+  "date_acquired": "1976-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 21.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018136",
+  "provenance_text": "Arthur E. Braun, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117530&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117527&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113966&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fefecccb-1659-44f2-9423-d6bb4fe52854",
+      "party_type": "Person",
+      "full_name": "Clara Driscoll",
+      "cited_name": "Driscoll, Clara",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1861-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Tallmadge, OH",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c35a3ab5-c758-4b6c-87d0-495031c73524",
+      "party_type": "Organization",
+      "full_name": "Tiffany Studios",
+      "cited_name": "Tiffany Studios",
+      "role": "maker",
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/126d884e-e980-44af-814b-ccbf4f61f697",
+      "party_type": "Organization",
+      "full_name": "Tiffany Glass and Decorating Company",
+      "cited_name": "Tiffany Glass and Decorating Company",
+      "role": "maker",
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

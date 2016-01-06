@@ -1,0 +1,39 @@
+{
+  "title": "Rigoberto Torres",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "painted plaster",
+  "accession_number": "86.25.1",
+  "id": "cmoa:things/9356483a-fb25-4f52-a775-b93aa3d5af92",
+  "credit_line": "The Tillie and Alexander C. Speyer Fund for Contemporary Art",
+  "date_acquired": "1986-06-12",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 20.5,
+  "item_height": 24.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026035",
+  "provenance_text": "Brooke Alexander, Inc., New York City",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8062&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5d21fe5-3c4d-457a-90ca-4ba76dea3af3",
+      "party_type": "Person",
+      "full_name": "John Ahearn",
+      "cited_name": "Ahearn, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Binghampton, NY",
+      "death_place": null
+    }
+  ]
+}

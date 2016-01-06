@@ -1,0 +1,42 @@
+{
+  "title": "Apollo",
+  "creation_date": "1588",
+  "creation_date_earliest": "1588-01-01",
+  "creation_date_latest": "1588-01-01",
+  "medium": "engraving",
+  "accession_number": "1997.70",
+  "id": "cmoa:things/53b93f36-2df4-4d51-a0b5-93fe987b0513",
+  "credit_line": "Purchase: gift of Merlin C. Hamilton, Frederic Schaefer, Kenneth Seaver, Edward Duff Balken, bequest of Charles J. Rosenbloom, by exchange",
+  "date_acquired": "1997-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003453",
+  "provenance_text": "Olympia Thoedoli, London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97478&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31770&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

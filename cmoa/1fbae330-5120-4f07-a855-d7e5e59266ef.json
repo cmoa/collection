@@ -1,0 +1,51 @@
+{
+  "title": "Venus in Vulcan's Forge",
+  "creation_date": "c. 1540-1545",
+  "creation_date_earliest": "1534-12-22",
+  "creation_date_latest": "1544-12-22",
+  "medium": "etching",
+  "accession_number": "2014.20",
+  "id": "cmoa:things/1fbae330-5120-4f07-a855-d7e5e59266ef",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "2014-06-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104177",
+  "provenance_text": "Private collection, Germany; (sold at C. G. Boerner, Inc., New York, NY, by January 2014); purchased by Carnegie Museum of Art, Pittsburgh, PA, June 2014.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128767&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eccddfd9-40ae-4159-bfa4-8cb397ff8f78",
+      "party_type": "Person",
+      "full_name": "Master L. D.",
+      "cited_name": "Master L. D.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1535-01-01",
+      "death_date": "1556-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/98e8573b-02b8-4b0c-94de-1f8e5bcd917c",
+      "party_type": "Person",
+      "full_name": "Francesco Primaticcio",
+      "cited_name": "Primaticcio, Frencesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1504-01-01",
+      "death_date": "1570-01-01",
+      "birth_place": "Bologna (Bologna province, Emilia-Romagna, Italy)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

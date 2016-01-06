@@ -1,0 +1,39 @@
+{
+  "title": "Armchair",
+  "creation_date": "c. 1760-1765",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "mahogany",
+  "accession_number": "73.39",
+  "id": "cmoa:things/3b4ab84c-7332-4a07-9b32-9a3f48f0cb8e",
+  "credit_line": "John Berdan Memorial Fund",
+  "date_acquired": "1973-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 31.0,
+  "item_height": 39.5,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016726",
+  "provenance_text": "Sotheby Parke Bernet",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8110&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f7dd02b9-011e-4fe8-97ca-71de4f7a7593",
+      "party_type": "Person",
+      "full_name": "James Gillingham",
+      "cited_name": "Gillingham, James",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1765-01-01",
+      "death_date": "1770-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

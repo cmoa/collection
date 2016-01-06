@@ -1,0 +1,39 @@
+{
+  "title": "Thing #5",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "2007.3",
+  "id": "cmoa:things/71effc6b-728b-4217-9bce-a186f2673a2b",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.875,
+  "item_height": 49.125,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=35844",
+  "provenance_text": "the artist, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c375398b-9bd7-461c-9c36-d7d882024bcb",
+      "party_type": "Person",
+      "full_name": "Kim Beck",
+      "cited_name": "Beck, Kim",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1970-01-01",
+      "death_date": null,
+      "birth_place": "Redbank, New Jersey",
+      "death_place": null
+    }
+  ]
+}

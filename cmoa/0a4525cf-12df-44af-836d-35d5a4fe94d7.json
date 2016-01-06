@@ -1,0 +1,42 @@
+{
+  "title": "The Violet Fence (La palissade violette)",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "66.19.1",
+  "id": "cmoa:things/0a4525cf-12df-44af-836d-35d5a4fe94d7",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1966-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.0,
+  "item_height": 27.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012246",
+  "provenance_text": "Pierre Bonnard [1867-1947], until 1947; Estate of Pierre Bonnard, France, 1947 until 1966 [1]; Wildenstein & Company, Inc., New York, NY, by 1966; purchased by Museum, December 1966 [2]. \nNOTES:1. Bonnard-Terrasse family. 2. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113125&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57279&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b3aedcb4-9d47-49ac-b1d8-10212d4818d5",
+      "party_type": "Person",
+      "full_name": "Pierre Bonnard",
+      "cited_name": "Bonnard, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-10-03",
+      "death_date": "1947-01-27",
+      "birth_place": "Fontenay-aux-Roses, France",
+      "death_place": "Cannet, France"
+    }
+  ]
+}

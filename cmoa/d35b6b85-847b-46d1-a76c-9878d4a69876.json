@@ -1,0 +1,39 @@
+{
+  "title": "Back to Pittsburgh",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.33",
+  "id": "cmoa:things/d35b6b85-847b-46d1-a76c-9878d4a69876",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 76th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1986-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 83.875,
+  "item_height": 62.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026061",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121359&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/653bfcde-673f-411c-a046-d9116ff547db",
+      "party_type": "Person",
+      "full_name": "James P. Nelson",
+      "cited_name": "Nelson, James P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Boston, MA",
+      "death_place": null
+    }
+  ]
+}

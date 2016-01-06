@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.715",
+  "id": "cmoa:things/26e2b5d5-62c8-4e97-86ff-0e06fe95cb1b",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.062,
+  "item_height": 2.0,
+  "item_depth": 12.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015438",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1726&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d47a3b2-6657-4fcc-8240-7dbcba35cdba",
+      "party_type": "Organization",
+      "full_name": "Cozzi Porcelain Factory",
+      "cited_name": "Cozzi Porcelain Factory",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1764-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

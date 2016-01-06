@@ -1,0 +1,39 @@
+{
+  "title": "Hands, 1949 (One of Three)",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "pencil",
+  "accession_number": "79.77.5",
+  "id": "cmoa:things/4bacd445-ee52-4ec0-8fea-3798bc1ccf8c",
+  "credit_line": "Gift of A. James Speyer in memory of Tillie S. Speyer",
+  "date_acquired": "1980-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.125,
+  "item_height": 15.125,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020958",
+  "provenance_text": "Gift of James A. Speyer, Pittsburgh, PA, 1980.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99315&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d29bd341-1fd0-48bf-8fcb-027a4ebf94a4",
+      "party_type": "Person",
+      "full_name": "Eduardo Chillida",
+      "cited_name": "Chillida, Eduardo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1924-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "San Sebastián (Guipúzcoa, Basque Provinces, Spain)",
+      "death_place": "San Sebastián (Guipúzcoa, Basque Provinces, Spain)"
+    }
+  ]
+}

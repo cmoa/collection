@@ -1,0 +1,78 @@
+{
+  "title": "Tall case clock",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "walnut with inlay of maple and other lightwoods, tulip poplar, brass, lead, and painted iron",
+  "accession_number": "2008.31.A-.B",
+  "id": "cmoa:things/33a95d95-9e00-494f-8dc1-c0edde4bc0a0",
+  "credit_line": "Berdan Memorial Trust Fund and Richard King Mellon Foundation Grant, by exchange",
+  "date_acquired": "2008-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.125,
+  "item_height": 100.5,
+  "item_depth": 11.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=60888",
+  "provenance_text": "The clock descended in the Goe family, remaining at the original family farm near Grindstone, Pennsylvania until 1948, when property was dispersed among family members. The clock remained with family members until 1990 when it passed to a dealer, of Uniontown, Pennsylvania descent, in Libertyville, Maryland. Within days the clock was purchased by present owner, David Brocklebank",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96312&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96315&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96318&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96320&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96323&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67869&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce4b560d-f1b1-4a64-b7bb-5d575f3c6e5e",
+      "party_type": "Person",
+      "full_name": "William Cock",
+      "cited_name": "Cock, William",
+      "role": "attributed cabinetmaker",
+      "nationality": "American",
+      "birth_date": "1776-01-01",
+      "death_date": "1856-01-01",
+      "birth_place": "Kendall, Westmoreland, England",
+      "death_place": "Pennsylvania, United States"
+    },
+    {
+      "artist_id": "cmoa:parties/913faf7a-36fa-4d1b-a38f-39d321133d70",
+      "party_type": "Person",
+      "full_name": "Israel Gregg",
+      "cited_name": "Gregg, Israel",
+      "role": "attributed clockworks maker",
+      "nationality": "American",
+      "birth_date": "1775-01-01",
+      "death_date": "1847-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a2bce489-2e57-4a02-a3e8-159e9a0391bc",
+      "party_type": "Organization",
+      "full_name": "Osborne Manufactory",
+      "cited_name": "Osborne Manufactory",
+      "role": "dial maker",
+      "nationality": "British",
+      "birth_date": "1777-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

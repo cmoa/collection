@@ -1,0 +1,54 @@
+{
+  "title": "Acrylic stool",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "acrylic, aluminum, and feathers",
+  "accession_number": "2002.41",
+  "id": "cmoa:things/e50b9723-3203-4e14-aacc-ebb3cb9029ff",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 21.0,
+  "item_depth": 16.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=356",
+  "provenance_text": "Urban Architecture, New York",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96101&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11271&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e97023d-2cad-4eba-ae6e-100603ae6bf6",
+      "party_type": "Person",
+      "full_name": "Shiro Kuramata",
+      "cited_name": "Kuramata, Shiro",
+      "role": "designer",
+      "nationality": "Japanese",
+      "birth_date": "1934-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bc8d33d4-0b46-45bd-ba18-076ce9fb1d22",
+      "party_type": "Organization",
+      "full_name": "Ishimaru Co., Ltd.",
+      "cited_name": "Ishimaru Co., Ltd.",
+      "role": "manufacturer",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Throne",
+  "creation_date": "26th Dynasty (664-525 BCE)",
+  "creation_date_earliest": "-0664-01-08",
+  "creation_date_latest": "-0525-01-07",
+  "medium": "wood and bronze",
+  "accession_number": "95.120",
+  "id": "cmoa:things/981ce937-201a-4b3f-924f-c75f50a73949",
+  "credit_line": "Gift of Mr. and Mrs. John P. Davis, Jr. in honor of the 100th Anniversary of the Carnegie Museum of Art",
+  "date_acquired": "1995-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 3.75,
+  "item_height": 3.75,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035503",
+  "provenance_text": "Gift of Mr. and Mrs. John P. Davis, Jr., Pittsburgh, PA, 1995.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2df2db8-1e91-43b6-ab5b-39970eb1cf51",
+      "party_type": "Person",
+      "full_name": "unknown Egyptian",
+      "cited_name": "unknown Egyptian",
+      "role": null,
+      "nationality": "Egyptian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

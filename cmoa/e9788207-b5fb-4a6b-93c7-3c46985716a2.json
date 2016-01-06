@@ -1,0 +1,39 @@
+{
+  "title": "Model of a stove",
+  "creation_date": "c. 1550-1600",
+  "creation_date_earliest": "1534-12-22",
+  "creation_date_latest": "1615-01-01",
+  "medium": "earthenware",
+  "accession_number": "74.19.2",
+  "id": "cmoa:things/e9788207-b5fb-4a6b-93c7-3c46985716a2",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1974-05-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 6.5,
+  "item_height": 10.5,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016938",
+  "provenance_text": "Sotheby & Co, London, lot 90 , 4/23/74",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=574&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Marie",
+  "creation_date": "c. 1922",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "bromide print",
+  "accession_number": "2009.61.1",
+  "id": "cmoa:things/dd9b9c8a-b0d8-4206-8a95-f33df767ad71",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-12-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.938,
+  "item_height": 9.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88763",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98880&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ffd2be4-8010-4325-b1f7-03350b6944f1",
+      "party_type": "Person",
+      "full_name": "Charles K. Archer",
+      "cited_name": "Archer, Charles K.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

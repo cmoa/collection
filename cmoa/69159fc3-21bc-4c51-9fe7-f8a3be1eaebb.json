@@ -1,0 +1,51 @@
+{
+  "title": "Miniature Portrait of Queen Mary II",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "watercolor on paper or vellum",
+  "accession_number": "27.10.21",
+  "id": "cmoa:things/69159fc3-21bc-4c51-9fe7-f8a3be1eaebb",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 8.0,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005661",
+  "provenance_text": "Reverend G. Jepson. (Sold at Christie's, by 1912); purchased by E. M. Hodgkins, New York, NY, by 1912; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, March 21, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73413&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/46fdb98d-ac1c-4976-9647-c8bae0533722",
+      "party_type": "Person",
+      "full_name": "Sir Godfrey Kneller",
+      "cited_name": "Kneller, Godfrey",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1646-01-01",
+      "death_date": "1723-01-01",
+      "birth_place": " Lubeck (Schleswig-Holstein, Germany)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

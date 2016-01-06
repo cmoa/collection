@@ -1,0 +1,39 @@
+{
+  "title": "Pitcher",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "black basaltes",
+  "accession_number": "82.93.33",
+  "id": "cmoa:things/0f203541-e403-4c1b-aec0-b16a09359373",
+  "credit_line": "Gift of the family of Tillie S. Speyer",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.125,
+  "item_height": 3.625,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023476",
+  "provenance_text": "Estate of Tillie S. Speyer",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d536a338-e5e9-4483-aed9-d65dc01709ed",
+      "party_type": "Person",
+      "full_name": "Edmund John Birch",
+      "cited_name": "Birch, Edmund John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1790-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

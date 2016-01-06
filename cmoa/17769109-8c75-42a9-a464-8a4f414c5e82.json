@@ -1,0 +1,42 @@
+{
+  "title": "Queen Maria Theresa, Daughter of Philip IV (after Baubrun)",
+  "creation_date": "1662",
+  "creation_date_earliest": "1662-01-01",
+  "creation_date_latest": "1662-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.6",
+  "id": "cmoa:things/17769109-8c75-42a9-a464-8a4f414c5e82",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.438,
+  "item_height": 13.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005181",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101926&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101927&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/113a7a9d-7163-404f-9163-735c45ce7aed",
+      "party_type": "Person",
+      "full_name": "Nicolas Pitau I",
+      "cited_name": "Pitau, Nicolas",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1633-01-01",
+      "death_date": "1676-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

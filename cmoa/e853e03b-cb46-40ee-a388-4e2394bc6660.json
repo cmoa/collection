@@ -1,0 +1,42 @@
+{
+  "title": "East Hampton, Long Island (The Rainbow)",
+  "creation_date": null,
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "etching",
+  "accession_number": "84.19",
+  "id": "cmoa:things/e853e03b-cb46-40ee-a388-4e2394bc6660",
+  "credit_line": "Gift of Haydock H. Miller, Jr.",
+  "date_acquired": "1984-04-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024635",
+  "provenance_text": "Haydock H. Miller, Jr., Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100468&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100467&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/758eeff1-9995-43c5-8524-ca1b8a8c257c",
+      "party_type": "Person",
+      "full_name": "Thomas Moran",
+      "cited_name": "Moran, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": "Bolton (Bolton, England, United Kingdom)",
+      "death_place": "Santa Barbara (Santa Barbara county, California, United States)"
+    }
+  ]
+}

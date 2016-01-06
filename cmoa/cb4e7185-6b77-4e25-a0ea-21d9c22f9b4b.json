@@ -1,0 +1,54 @@
+{
+  "title": "Twenty-five scenes from Ovid's Metamorphoses",
+  "creation_date": "1698",
+  "creation_date_earliest": "1698-01-01",
+  "creation_date_latest": "1698-01-01",
+  "medium": "painted wax or plaster relief, silver wire, on reverse painted glass support",
+  "accession_number": "27.10.326",
+  "id": "cmoa:things/cb4e7185-6b77-4e25-a0ea-21d9c22f9b4b",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 26.188,
+  "item_height": 18.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005726",
+  "provenance_text": "K. Berman. J. Drey Jr., Munich, Germany, by July 1910; purchased by Herbert Dupuy [1856-1930], Pittsburgh, PA, July 1910; gift to Department of Fine Art, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100107&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6462&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/28720319-339e-47ed-ad84-370e3b12bb20",
+      "party_type": "Person",
+      "full_name": "K. Berman",
+      "cited_name": "Berman, K.",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/72853c5f-2881-4acc-b6a3-ec65b46396a2",
+      "party_type": "Person",
+      "full_name": "Johann Wilhelm Baur",
+      "cited_name": "Baur, Johann Wilhelm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1607-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Strasbourg",
+      "death_place": "Vienna"
+    }
+  ]
+}

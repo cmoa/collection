@@ -1,0 +1,51 @@
+{
+  "title": "Casino at Marino, Dublin, Ireland",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.23.3",
+  "id": "cmoa:things/ed7e16af-4939-4f01-adae-78f05140eadd",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-12-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 14.625,
+  "item_height": 9.833,
+  "item_depth": 14.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029646",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102404&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/07abc8ac-9d55-4943-9c38-90d50147fcf5",
+      "party_type": "Person",
+      "full_name": "Sir William Chambers",
+      "cited_name": "Chambers, William",
+      "role": "architect",
+      "nationality": "Swedish",
+      "birth_date": "1723-01-01",
+      "death_date": "1796-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

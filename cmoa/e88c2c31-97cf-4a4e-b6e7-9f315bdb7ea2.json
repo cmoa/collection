@@ -1,0 +1,39 @@
+{
+  "title": "Contemplation",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "acrylic, brass, Formica on wood",
+  "accession_number": "1999.14",
+  "id": "cmoa:things/e88c2c31-97cf-4a4e-b6e7-9f315bdb7ea2",
+  "credit_line": "Gift of Jerry I. Speyer",
+  "date_acquired": "1999-04-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.125,
+  "item_height": 32.75,
+  "item_depth": 28.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003845",
+  "provenance_text": "Gift of Jerry I. Speyer, New York, NY, 1999.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147289&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

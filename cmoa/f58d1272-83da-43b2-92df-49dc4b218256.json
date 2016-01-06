@@ -1,0 +1,57 @@
+{
+  "title": "Robert Drummond, Archbishop of York",
+  "creation_date": "c. 1764-1790",
+  "creation_date_earliest": "1754-01-01",
+  "creation_date_latest": "1790-01-01",
+  "medium": "mezzotint",
+  "accession_number": "17.7.4",
+  "id": "cmoa:things/f58d1272-83da-43b2-92df-49dc4b218256",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001643",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100085&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99226&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f2938e4-35eb-4775-a399-d19fd82e9298",
+      "party_type": "Person",
+      "full_name": "J. Watson",
+      "cited_name": "Watson, J.",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1739-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

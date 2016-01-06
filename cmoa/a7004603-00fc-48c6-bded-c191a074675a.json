@@ -1,0 +1,39 @@
+{
+  "title": "Child at Window",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.40",
+  "id": "cmoa:things/a7004603-00fc-48c6-bded-c191a074675a",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012907",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108259&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b59b7e67-953f-43ba-bc3a-e4f6b37d19f2",
+      "party_type": "Person",
+      "full_name": "James Chapin",
+      "cited_name": "Chapin, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": " West Orange (Essex county, New Jersey, United States)",
+      "death_place": null
+    }
+  ]
+}

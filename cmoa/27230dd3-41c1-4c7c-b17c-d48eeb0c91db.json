@@ -1,0 +1,39 @@
+{
+  "title": "Memory of Spain",
+  "creation_date": "1920s",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "48.20",
+  "id": "cmoa:things/27230dd3-41c1-4c7c-b17c-d48eeb0c91db",
+  "credit_line": "Gift of Henry Chalfant in memory of Walter S. Mitchell (his uncle)",
+  "date_acquired": "1948-11-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.25,
+  "item_height": 24.0,
+  "item_depth": 2.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008258",
+  "provenance_text": "Galeries Georges Petit, Paris; Walter S. Mitchell, Pittsburgh, 1929-?; Henry Chalfant; gift to Museum, November 1948.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149479&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/093493d2-299d-4b87-8c4f-e4217431bdc5",
+      "party_type": "Person",
+      "full_name": "Edmond Aman-Jean",
+      "cited_name": "Aman-Jean, Edmond",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1860-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Chevry-Cossigny (Seine-et-Marne, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Sushi III (Cadeira California Rolls) chair",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "Iron with electrostatic painting, EVA (ethylene vinyl acetate), \nfelt, plastics, and fabrics",
+  "accession_number": "2005.27.2",
+  "id": "cmoa:things/30578b34-04cb-4877-a5ed-5bdba2ad55df",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2005-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 33.0,
+  "item_depth": 21.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14962",
+  "provenance_text": "Campana Brothers Studio, San Paolo, Brazil via Barry Friedman Gallery, New York.  Exhibited in Zest for Life at the Design Museum, London.",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29198&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6b043b8-0092-4d39-9edb-5ebd57c3bdca",
+      "party_type": "Person",
+      "full_name": "Fernando Campana",
+      "cited_name": "Campana, Fernando",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/24f9c8f6-e7d0-4405-ac49-09ec9abfe5a2",
+      "party_type": "Person",
+      "full_name": "Humberto Campana",
+      "cited_name": "Campana, Humberto",
+      "role": null,
+      "nationality": "Brazilian",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

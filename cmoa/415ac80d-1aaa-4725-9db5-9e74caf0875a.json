@@ -1,0 +1,39 @@
+{
+  "title": "Landscape with Cottage",
+  "creation_date": "c. 1858-1865",
+  "creation_date_earliest": "1853-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "oil on panel",
+  "accession_number": "78.22.1",
+  "id": "cmoa:things/415ac80d-1aaa-4725-9db5-9e74caf0875a",
+  "credit_line": "Bequest of Margaret Shaw Campbell",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 22.312,
+  "item_height": 12.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019283",
+  "provenance_text": "Margaret Shaw Campbell, Pittsburgh, PA, until 1977; bequest to Museum, October 1978 [1]. \nNOTES:1. Updated by CGK July 2012",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0ef9900-d9d1-4c02-8ea0-304f565afb63",
+      "party_type": "Person",
+      "full_name": "Charles François Daubigny",
+      "cited_name": "Daubigny, Charles F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1817-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

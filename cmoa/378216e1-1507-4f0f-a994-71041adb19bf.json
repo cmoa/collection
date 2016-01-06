@@ -1,0 +1,39 @@
+{
+  "title": "Iris",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.101",
+  "id": "cmoa:things/378216e1-1507-4f0f-a994-71041adb19bf",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.125,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026718",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33832&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e8c13e0-e50f-467c-bce1-f1227ce38527",
+      "party_type": "Person",
+      "full_name": "Hagiwara Hideo",
+      "cited_name": "Hagiwara Hideo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": "Kofu, Yamanashi prefecture",
+      "death_place": null
+    }
+  ]
+}

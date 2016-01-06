@@ -1,0 +1,39 @@
+{
+  "title": "Pair",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "glass, cast, cut and polished",
+  "accession_number": "2003.7.4.A-.B",
+  "id": "cmoa:things/05a52bee-a4df-4e23-8e8f-b017892c63d3",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2003-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=530",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11858&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dd26667-46ad-4864-8965-086798768f6f",
+      "party_type": "Person",
+      "full_name": "Franz Xavier Holler",
+      "cited_name": "Holler, Franz X.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

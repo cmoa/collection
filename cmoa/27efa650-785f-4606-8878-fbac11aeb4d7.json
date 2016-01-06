@@ -1,0 +1,39 @@
+{
+  "title": "Big Sandwich",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "muslin soaked in plaster on wire mesh, painted with enamel",
+  "accession_number": "2002.32.5",
+  "id": "cmoa:things/27efa650-785f-4606-8878-fbac11aeb4d7",
+  "credit_line": "Gift of Charles H. Carpenter, Jr. and The Henry L. Hillman Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.0,
+  "item_height": 31.0,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=364",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29078&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a8cb8f12-39ab-482f-a97c-c85e99e40ee4",
+      "party_type": "Person",
+      "full_name": "Claes Oldenburg",
+      "cited_name": "Oldenburg, Claes",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Stockholm (Stockholm, Sweden)",
+      "death_place": null
+    }
+  ]
+}

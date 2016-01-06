@@ -1,0 +1,39 @@
+{
+  "title": "Fall Landscape",
+  "creation_date": "c. 1860-1870",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "72.40",
+  "id": "cmoa:things/e6a614e7-d6db-48ae-9185-dcb886002a29",
+  "credit_line": "By Appropriation",
+  "date_acquired": "1972-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 20.625,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016425",
+  "provenance_text": "Edward Duff Balken, Pittsburgh, PA (Lugt 843), by 1915, until 1935; Museum of Art, Carnegie Institute by appropriation, 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=303&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5adb2111-9621-4285-9ea3-a58d98c5b42b",
+      "party_type": "Person",
+      "full_name": "William L. Sonntag",
+      "cited_name": "Sonntag, William L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1822-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": "East Liberty, PA",
+      "death_place": "New York, NY"
+    }
+  ]
+}

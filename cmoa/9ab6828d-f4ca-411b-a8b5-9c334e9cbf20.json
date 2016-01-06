@@ -1,0 +1,39 @@
+{
+  "title": "Basin 4",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "cast glass, powder, adhesives",
+  "accession_number": "1999.63",
+  "id": "cmoa:things/9ab6828d-f4ca-411b-a8b5-9c334e9cbf20",
+  "credit_line": "Gift of Dr. and Mrs. Joseph Chazan",
+  "date_acquired": "2000-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 35.5,
+  "item_height": 13.75,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003953",
+  "provenance_text": "Dr. And Mrs. Joseph Chazan, Providence, RI",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16014&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e5303da-9e8a-47d4-9a90-91aca91bbbdd",
+      "party_type": "Person",
+      "full_name": "Howard Ben Tré",
+      "cited_name": "Ben Tré, Howard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn (Delaware county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

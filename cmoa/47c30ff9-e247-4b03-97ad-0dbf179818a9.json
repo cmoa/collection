@@ -1,0 +1,39 @@
+{
+  "title": "Hot House",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "enamel and acrylic on canvas",
+  "accession_number": "83.22",
+  "id": "cmoa:things/47c30ff9-e247-4b03-97ad-0dbf179818a9",
+  "credit_line": "Gift of Sylvia and Carl Freyer",
+  "date_acquired": "1983-04-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 142.0,
+  "item_height": 37.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023650",
+  "provenance_text": "Archie Rand, Brooklyn, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21461&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59ae981e-9eed-4a50-b55a-137ccb045056",
+      "party_type": "Person",
+      "full_name": "Archie Rand",
+      "cited_name": "Rand, Archie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

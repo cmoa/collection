@@ -1,0 +1,42 @@
+{
+  "title": "A Table at Night",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "57.31.8",
+  "id": "cmoa:things/cbd405ff-bdad-4aa7-b1d6-4f23d3f9f273",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1957-10-27",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.813,
+  "item_height": 8.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010471",
+  "provenance_text": "Yamada Art Gallery, Kyoto",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34933&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34934&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d1f4bf0-38ad-4dd6-ac0a-823568a6f955",
+      "party_type": "Person",
+      "full_name": "Kobashi Yasuhide",
+      "cited_name": "Kobashi Yasuhide",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1931-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": "Kojima, Okayama prefecture",
+      "death_place": null
+    }
+  ]
+}

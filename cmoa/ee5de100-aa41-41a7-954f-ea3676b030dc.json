@@ -1,0 +1,39 @@
+{
+  "title": "Allegorical Figure of Architecture",
+  "creation_date": "1898",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "bronze",
+  "accession_number": "93.6",
+  "id": "cmoa:things/ee5de100-aa41-41a7-954f-ea3676b030dc",
+  "credit_line": "Ann and William Boyd, Jr. Fund",
+  "date_acquired": "1993-02-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 12.5,
+  "item_depth": 3.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033657",
+  "provenance_text": "Conner Rosenkranz, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117151&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0578fce-3b57-4e89-a338-21881f7a3f6c",
+      "party_type": "Person",
+      "full_name": "Daniel Chester French",
+      "cited_name": "French, Daniel C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

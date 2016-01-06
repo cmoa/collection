@@ -1,0 +1,37 @@
+{
+  "title": "Four Figures",
+  "creation_date": "1823",
+  "creation_date_earliest": "1823-01-01",
+  "creation_date_latest": "1823-01-01",
+  "medium": "crayon and pencil",
+  "accession_number": "59.10.4",
+  "id": "cmoa:things/df49fe27-a7fc-4467-9613-4d890cf75f8c",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 15.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010944",
+  "provenance_text": "Gift of Mr. and Mrs. Charles J. Rosenbloom, 1959.",
+  "classification": "drawings and watercolors",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3bbd259-340c-42e7-8faa-befe401f86e4",
+      "party_type": "Person",
+      "full_name": "Sir David Wilkie",
+      "cited_name": "Wilkie, David",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1785-01-01",
+      "death_date": "1841-01-01",
+      "birth_place": "Cults (Aberdeen, Scotland, United Kingdom)",
+      "death_place": "Malta"
+    }
+  ]
+}

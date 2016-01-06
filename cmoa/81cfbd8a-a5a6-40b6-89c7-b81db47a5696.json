@@ -1,0 +1,39 @@
+{
+  "title": "Survivor",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "earthenware",
+  "accession_number": "1996.67",
+  "id": "cmoa:things/81cfbd8a-a5a6-40b6-89c7-b81db47a5696",
+  "credit_line": "Gift of Bryan E. Steinberg in honor of Wesley Mills",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.875,
+  "item_height": 15.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002238",
+  "provenance_text": "Bryan E. Steinberg, Lake Charles, LA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1088&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d632b45-1d6d-4cf7-a659-850645bdf6e3",
+      "party_type": "Person",
+      "full_name": "Bryan E. Steinberg",
+      "cited_name": "Steinberg, Bryan E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

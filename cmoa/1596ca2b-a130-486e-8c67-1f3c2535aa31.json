@@ -1,0 +1,51 @@
+{
+  "title": "Cup and saucer",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.5.7.A-B",
+  "id": "cmoa:things/1596ca2b-a130-486e-8c67-1f3c2535aa31",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.375,
+  "item_depth": 0.0,
+  "item_diameter": 5.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003685",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32c96363-7d7b-42f0-b61d-285ffdea820d",
+      "party_type": "Person",
+      "full_name": "Ursula Fesca",
+      "cited_name": "Fesca, Ursula",
+      "role": "Manufacturer",
+      "nationality": "German",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c3b1384c-c5b2-43bd-8430-a6be5eb438f8",
+      "party_type": "Organization",
+      "full_name": "Wachstersbacher Steingutfabrik",
+      "cited_name": "Wachstersbacher Steingutfabrik",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1832-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

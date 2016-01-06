@@ -1,0 +1,39 @@
+{
+  "title": "(Pittsburgh) Taken from John's Ferry",
+  "creation_date": "19th-20th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1916-01-01",
+  "medium": "line engraving",
+  "accession_number": "16.33.6",
+  "id": "cmoa:things/eb131875-2f82-438b-9c1e-2217ed9611ef",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001240",
+  "provenance_text": "D. L. Passavant, Zelienople, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99303&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f10fe837-a187-434e-866f-84318e9dd8fd",
+      "party_type": "Person",
+      "full_name": "Charles Doumeclun",
+      "cited_name": "Doumeclun, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

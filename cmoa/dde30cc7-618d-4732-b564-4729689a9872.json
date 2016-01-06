@@ -1,0 +1,39 @@
+{
+  "title": "Maine Landscape",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "82.26",
+  "id": "cmoa:things/dde30cc7-618d-4732-b564-4729689a9872",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 72nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1982-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 70.875,
+  "item_height": 67.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022307",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24982&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/02d561c2-076e-4c47-88f8-a2c051cf5901",
+      "party_type": "Person",
+      "full_name": "Charles Gibbons",
+      "cited_name": "Gibbons, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Montreal",
+      "death_place": null
+    }
+  ]
+}

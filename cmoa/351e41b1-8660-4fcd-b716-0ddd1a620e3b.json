@@ -1,0 +1,39 @@
+{
+  "title": "Cacophony",
+  "creation_date": "1944",
+  "creation_date_earliest": "1944-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "etching",
+  "accession_number": "45.11",
+  "id": "cmoa:things/351e41b1-8660-4fcd-b716-0ddd1a620e3b",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007558",
+  "provenance_text": "Sue Fuller",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100398&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d93b900e-de4e-497c-8183-b522c724bace",
+      "party_type": "Person",
+      "full_name": "Sue Fuller",
+      "cited_name": "Fuller, Sue",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Young Girl",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "chalk and gouache on brown paper",
+  "accession_number": "07.14.5",
+  "id": "cmoa:things/4815ce45-c786-4cf5-96b2-3533eebe85d4",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-03-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000299",
+  "provenance_text": "Childe Hassam, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47413&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0b8eec0-35c0-4301-a789-0e8f6c0c1bf3",
+      "party_type": "Person",
+      "full_name": "Childe Hassam",
+      "cited_name": "Hassam, Childe",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-10-17",
+      "death_date": "1935-08-27",
+      "birth_place": "Dorchester (Suffolk county, Massachusetts, United States)",
+      "death_place": "East Hampton (Suffolk county, New York state, United States)"
+    }
+  ]
+}

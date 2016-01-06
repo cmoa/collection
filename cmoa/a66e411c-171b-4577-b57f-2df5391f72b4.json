@@ -1,0 +1,45 @@
+{
+  "title": "Sauce tureen",
+  "creation_date": "1804-1805",
+  "creation_date_earliest": "1804-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "silver",
+  "accession_number": "91.33.1.A-B",
+  "id": "cmoa:things/a66e411c-171b-4577-b57f-2df5391f72b4",
+  "credit_line": "Gift of Mr. and Mrs. Joshua C. Whetzel, Jr.",
+  "date_acquired": "1991-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.75,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029722",
+  "provenance_text": "Mr. And Mrs. Joshua C. Whetzel, Jr., Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9094&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5118&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9095&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3afd1b7-82dc-4591-930e-20879619e294",
+      "party_type": "Person",
+      "full_name": "Paul Storr",
+      "cited_name": "Storr, Paul",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1771-01-01",
+      "death_date": "1844-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    }
+  ]
+}

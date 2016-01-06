@@ -1,0 +1,49 @@
+{
+  "title": "Floor lamp with shade",
+  "creation_date": "c. 1961",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "rosewood haft, with chrome plated base & finial, treated linen shade",
+  "accession_number": "77.44.213.A-B",
+  "id": "cmoa:things/21ffcb9c-84eb-4db3-bb02-207c075b9c16",
+  "credit_line": "Gift of Mr. and Mrs. Sidney M. Feldman",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 55.5,
+  "item_depth": 0.0,
+  "item_diameter": 15.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018809",
+  "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c26d2dd3-63b8-44c3-8abc-4a2363df01f0",
+      "party_type": "Person",
+      "full_name": "George Hansen",
+      "cited_name": "Hansen, George",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d39c1cc5-2a76-498a-a029-f1614733d280",
+      "party_type": "Organization",
+      "full_name": "Hansen Lamps, George W. Hansen Inc.",
+      "cited_name": "Hansen Lamps, George W. Hansen Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

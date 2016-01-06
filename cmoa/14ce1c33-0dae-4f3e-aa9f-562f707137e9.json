@@ -1,0 +1,39 @@
+{
+  "title": "Bridal Bouquet",
+  "creation_date": null,
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "watercolor and gouache",
+  "accession_number": "74.7.38",
+  "id": "cmoa:things/14ce1c33-0dae-4f3e-aa9f-562f707137e9",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.25,
+  "item_height": 36.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017513",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149590&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7dc2396-45be-44e3-a243-18a285c1ac64",
+      "party_type": "Person",
+      "full_name": "Marc Chagall",
+      "cited_name": "Chagall, Marc",
+      "role": null,
+      "nationality": "Russian",
+      "birth_date": "1887-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Vitebsk (Vitebsk province, Belarus)",
+      "death_place": " Saint-Paul (Alpes-Maritimes, Provence-Alpes-Côte d'Azur, France)"
+    }
+  ]
+}

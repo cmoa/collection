@@ -1,0 +1,39 @@
+{
+  "title": "Corduroy Road",
+  "creation_date": "1887",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "49.25.1",
+  "id": "cmoa:things/d022a885-46b6-4b4f-a87f-3ed0a9b39cfa",
+  "credit_line": "Gift of H. J. Heinz Company",
+  "date_acquired": "1949-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 63.0,
+  "item_height": 43.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008672",
+  "provenance_text": "H. J. Heinz Co., Pittsburgh, by 1949; gift to museum, 1949",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

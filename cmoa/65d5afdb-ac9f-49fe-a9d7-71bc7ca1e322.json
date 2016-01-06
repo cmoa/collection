@@ -1,0 +1,39 @@
+{
+  "title": "Schwarzer Kreis (Black Circle)",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "woodcut",
+  "accession_number": "2003.16",
+  "id": "cmoa:things/65d5afdb-ac9f-49fe-a9d7-71bc7ca1e322",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "2003-04-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 23.938,
+  "item_height": 20.188,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3003",
+  "provenance_text": "Hirschl and Adler Gallery, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65539&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e04e28c9-4b3e-4206-9cd6-3bc1d96c5b20",
+      "party_type": "Person",
+      "full_name": "Josef Albers",
+      "cited_name": "Albers, Josef",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Bottrop (Münster district, North Rhine-Westphalia, Germany)",
+      "death_place": "New Haven"
+    }
+  ]
+}

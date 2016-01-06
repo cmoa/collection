@@ -1,0 +1,39 @@
+{
+  "title": "Bottle",
+  "creation_date": "c. 1825-1835",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "glass",
+  "accession_number": "19.1.98.A-B",
+  "id": "cmoa:things/b53d87d9-f02f-4abe-ae2c-545a70871c56",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002040",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d5591a6-212d-4750-9f3d-c7b8e1a03f92",
+      "party_type": "Organization",
+      "full_name": "Boston & Sandwich Glass Co.",
+      "cited_name": "Boston & Sandwich Glass Co.",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": "1823-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

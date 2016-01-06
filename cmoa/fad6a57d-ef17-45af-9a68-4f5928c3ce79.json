@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1810",
+  "creation_date_earliest": "1805-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "silver",
+  "accession_number": "34.2.12",
+  "id": "cmoa:things/fad6a57d-ef17-45af-9a68-4f5928c3ce79",
+  "credit_line": "Bequest of Mary E. B. Gordon",
+  "date_acquired": "1934-06-27",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 4.25,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006772",
+  "provenance_text": "Mary E. B. Gordon, Pittsburgh, PA, 1934; bequest to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1934.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8370&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9925d2e-d89e-4137-bb83-6e7eb4426698",
+      "party_type": "Person",
+      "full_name": "Joseph Warford",
+      "cited_name": "Warford, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1810-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Church, Rome, 1884",
+  "creation_date": "1884",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1884-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "47.13.1",
+  "id": "cmoa:things/1cbd759e-b739-4f45-97d2-53624842dee2",
+  "credit_line": "Bequest of Mrs. Josiah Cohen",
+  "date_acquired": "1947-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008060",
+  "provenance_text": "Bequest of Mrs. Josiah Cohen, 1947.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e06eec62-7ecc-4356-9b50-daf123af40d9",
+      "party_type": "Person",
+      "full_name": "John J. Hammer",
+      "cited_name": "Hammer, John J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1842-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": " Westhofen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

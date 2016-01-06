@@ -1,0 +1,39 @@
+{
+  "title": "Sauceboat",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "silver",
+  "accession_number": "74.62.1",
+  "id": "cmoa:things/6d0956dc-19d4-4615-9619-e733414b6a45",
+  "credit_line": "Gift of Alice W. Thomas",
+  "date_acquired": "1975-02-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 4.75,
+  "item_depth": 3.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017227",
+  "provenance_text": "Alice W. Thomas",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2459&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98895b2f-ea64-496f-9899-6509d1e3267e",
+      "party_type": "Organization",
+      "full_name": "Georg Jensen Manufactory",
+      "cited_name": "Jensen, Georg Manufactory",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1904-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen",
+      "death_place": null
+    }
+  ]
+}

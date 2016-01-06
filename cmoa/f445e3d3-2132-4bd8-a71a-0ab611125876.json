@@ -1,0 +1,42 @@
+{
+  "title": "Earrings (pair)",
+  "creation_date": "1927-1928",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "gold, enamel and stones (purple)",
+  "accession_number": "1998.25.7.A-B",
+  "id": "cmoa:things/f445e3d3-2132-4bd8-a71a-0ab611125876",
+  "credit_line": "Bequest of Estelle E. Kaiser",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.75,
+  "item_height": 0.875,
+  "item_depth": 0.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003702",
+  "provenance_text": "The Donor via Donald Miller, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1906&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1140&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9ee618c-71e9-43eb-a207-960e02cc3055",
+      "party_type": "Person",
+      "full_name": "Estelle E. Kaiser",
+      "cited_name": "Kaiser, Estelle E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

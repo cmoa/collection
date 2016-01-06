@@ -1,0 +1,39 @@
+{
+  "title": "What's Wrong",
+  "creation_date": null,
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.248",
+  "id": "cmoa:things/d02a7860-fb0d-4513-bfa9-2d84033c8478",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012834",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108002&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f9376cd0-628a-4b1a-9a4b-ef37d720f74e",
+      "party_type": "Person",
+      "full_name": "Margery Ryerson",
+      "cited_name": "Ryerson, Margery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1886-01-01",
+      "death_date": "1989-01-01",
+      "birth_place": "Morristown (Middlesex county, New Jersey, United States)",
+      "death_place": "New York state (United States)"
+    }
+  ]
+}

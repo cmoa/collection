@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "c. 1860",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "51.3.2",
+  "id": "cmoa:things/edd9ab0c-87a5-4c05-9b69-032f4ab62123",
+  "credit_line": "Gift of Mollie Lawman",
+  "date_acquired": "1951-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008971",
+  "provenance_text": "Haugh and Keenan Galleries, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149725&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8f4d585-b31a-4b38-8ed2-fa0f2715d75e",
+      "party_type": "Person",
+      "full_name": "Jasper Holman Lawman",
+      "cited_name": "Lawman, Jasper H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": " Ohio (United States)",
+      "death_place": " Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

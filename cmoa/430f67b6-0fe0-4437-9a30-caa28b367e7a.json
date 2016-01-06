@@ -1,0 +1,39 @@
+{
+  "title": "Three Men Fishing",
+  "creation_date": "1831",
+  "creation_date_earliest": "1831-01-01",
+  "creation_date_latest": "1831-01-01",
+  "medium": "oil on wood panel",
+  "accession_number": "73.38.1",
+  "id": "cmoa:things/430f67b6-0fe0-4437-9a30-caa28b367e7a",
+  "credit_line": "Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1973-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 18.5,
+  "item_height": 14.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016724",
+  "provenance_text": "Private collection, New Jersey; M. Knoedler and Co. [1848-2011], New York, 1973; purchased by Museum, 1973.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38151&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5764b680-bd05-40c7-90f2-1024013db3ab",
+      "party_type": "Person",
+      "full_name": "Thomas Doughty",
+      "cited_name": "Doughty, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1793-01-01",
+      "death_date": "1856-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

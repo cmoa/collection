@@ -1,0 +1,39 @@
+{
+  "title": "Rocky Pedestal",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "watercolor over charcoal on paper",
+  "accession_number": "93.189.37",
+  "id": "cmoa:things/2095041f-efed-46d5-88aa-454b63d45ccc",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.75,
+  "item_height": 23.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033322",
+  "provenance_text": "Frank K. M. Rehn, Inc., New York; Mr. and Mrs. James H. Beal, Pittsburgh, 1954; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104649&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e3ca211-2e74-4f4b-8e61-e7d5e12cacdd",
+      "party_type": "Person",
+      "full_name": "Edward Hopper",
+      "cited_name": "Hopper, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Nyack (Rockland county, New York state, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bennington, Vermont",
+  "creation_date": "c. 1924",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "black and green crayon on paper mounted on cardboard",
+  "accession_number": "93.189.42",
+  "id": "cmoa:things/ed3ec7e3-4378-436d-a77b-62131c9c9644",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 7.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033330",
+  "provenance_text": "An American Place, New York; Mr. and Mrs. James H. Beal, at the Women's Committee auction, Department of Fine Arts, Carnegie Institute, Pittsburgh, 1962; bequest to museum, February 1994,",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30116&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55a409bf-26ee-4b7d-89a6-c225e86ad711",
+      "party_type": "Person",
+      "full_name": "John Marin",
+      "cited_name": "Marin, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Rutherford (Bergen county, New Jersey, United States)",
+      "death_place": "Addison (Washington county, Maine, United States)"
+    }
+  ]
+}

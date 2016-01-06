@@ -1,0 +1,39 @@
+{
+  "title": "Ploughing for Buckwheat",
+  "creation_date": "1898, retouched c. 1912",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1898-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "12.3",
+  "id": "cmoa:things/8bd6167b-ffaf-46b3-8763-a3de50bc4d16",
+  "credit_line": "Purchase",
+  "date_acquired": "1912-03-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 44.0,
+  "item_height": 58.25,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000865",
+  "provenance_text": "Julian Alden Weir [1852-1919], until 1912; purchased by Museum, March 1912 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16721&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ebb74905-bbc9-4333-96ef-dd6e113dece6",
+      "party_type": "Person",
+      "full_name": "Julian Alden Weir",
+      "cited_name": "Weir, Julian A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "West Point (Orange county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Wicked Witch (from the Portfolio \"Myths\")",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "silkscreen and diamond dust on paper",
+  "accession_number": "84.67.2",
+  "id": "cmoa:things/8b1aa1dc-c202-45c0-896e-55a8d210c63b",
+  "credit_line": "Gift of Mr. and Mrs. Arnold Gordon",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.75,
+  "item_height": 40.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025095",
+  "provenance_text": "Mr. and Mrs. Arnold Gordon, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115376&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c527ff39-c938-45c8-b4ca-a5091527295a",
+      "party_type": "Person",
+      "full_name": "Andy Warhol",
+      "cited_name": "Warhol, Andy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

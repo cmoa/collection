@@ -1,0 +1,39 @@
+{
+  "title": "Genie de la Dance",
+  "creation_date": "c. 1869-1875",
+  "creation_date_earliest": "1864-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "bronze",
+  "accession_number": "69.52.2",
+  "id": "cmoa:things/4b12e82e-0c30-4627-96d1-81495411125f",
+  "credit_line": "Anna R. D. and Mabel Lindsay Gillespie Fund",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 41.75,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012982",
+  "provenance_text": "Heim Gallery, London, England",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101822&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c2aa689-2a9f-4414-846f-8cb6fa59c4b0",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Carpeaux",
+      "cited_name": "Carpeaux, Jean-Baptiste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1827-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Valenciennes (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Courbevoie (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

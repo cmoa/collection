@@ -1,0 +1,45 @@
+{
+  "title": "The Lonely Tower",
+  "creation_date": "1879",
+  "creation_date_earliest": "1879-01-01",
+  "creation_date_latest": "1879-01-01",
+  "medium": "etching",
+  "accession_number": "1999.20",
+  "id": "cmoa:things/b3f00592-d15c-4cef-a44f-a67c18759d11",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1999-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003854",
+  "provenance_text": "C. G. Boerner, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110574&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110573&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9210&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5ded2e3b-4065-4ce8-8008-63dd6a8e70a9",
+      "party_type": "Person",
+      "full_name": "Samuel Palmer",
+      "cited_name": "Palmer, Samuel",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1805-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Reigate (Surrey, England, United Kingdom)"
+    }
+  ]
+}

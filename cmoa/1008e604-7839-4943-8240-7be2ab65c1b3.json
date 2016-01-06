@@ -1,0 +1,42 @@
+{
+  "title": "Pinkerton Riot, Pittsburgh",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2008.74.1",
+  "id": "cmoa:things/1008e604-7839-4943-8240-7be2ab65c1b3",
+  "credit_line": "Gift of Daniel McFadden and Beverlee Tito Simboli McFadden",
+  "date_acquired": "2008-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 34.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=70899",
+  "provenance_text": "Raymond Simboli [1894-1964]; by descent to Beverlee Simboli, Berkeley, CA, until 2008. Gift to Museum, 2008.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135752&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70647&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89c2e623-a0fb-458f-a0a7-83daa50eb6c7",
+      "party_type": "Person",
+      "full_name": "Raymond Simboli",
+      "cited_name": "Simboli, Raymond",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pescina (L'Aquila province, Abruzzi, Italy)",
+      "death_place": "Neenah (Winnebago county, Wisconsin, United States)"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "title": "Moon Shadow",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "Norfolk Island pine",
+  "accession_number": "2010.36",
+  "id": "cmoa:things/0f512d4b-42ab-45a7-abbb-050496b5d9f5",
+  "credit_line": "Gift of Daniel Greenberg and Susan Steinhauser",
+  "date_acquired": "2010-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.75,
+  "item_depth": 0.0,
+  "item_diameter": 18.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=91828",
+  "provenance_text": "Provenance:  Del Mano Gallery, Los Angeles, c. 2001-present [Rachel Delphia, Acquisition Report, 5.11.10]",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100391&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100392&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100393&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100394&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f052c246-9fe7-429d-89d3-9f337a5f7356",
+      "party_type": "Person",
+      "full_name": "Ron Kent",
+      "cited_name": "Kent, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

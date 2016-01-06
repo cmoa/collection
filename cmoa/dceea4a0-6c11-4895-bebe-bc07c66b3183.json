@@ -1,0 +1,39 @@
+{
+  "title": "Island",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1996.14",
+  "id": "cmoa:things/dceea4a0-6c11-4895-bebe-bc07c66b3183",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1996-05-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 72.0,
+  "item_height": 48.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002093",
+  "provenance_text": "Art 45 Inc., Montreal, Canada",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147254&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/693a8c08-12d7-4489-be86-c56f55534894",
+      "party_type": "Person",
+      "full_name": "Angela Grauerholz",
+      "cited_name": "Grauerholz, Angela",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": "Hamburg, Germany",
+      "death_place": null
+    }
+  ]
+}

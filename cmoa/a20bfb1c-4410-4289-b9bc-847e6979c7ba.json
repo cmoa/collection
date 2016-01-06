@@ -1,0 +1,39 @@
+{
+  "title": "Adoration of the Magi",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": "1494-12-23",
+  "creation_date_latest": "1504-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.78",
+  "id": "cmoa:things/a20bfb1c-4410-4289-b9bc-847e6979c7ba",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017611",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101616&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b09496d-7ed8-4a89-9c32-a3374a4f958e",
+      "party_type": "Person",
+      "full_name": "Jacopo de' Barbari",
+      "cited_name": "Barbari, Jacopo de'",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1445-01-01",
+      "death_date": "1501-01-01",
+      "birth_place": "Venice, Italy",
+      "death_place": "Mechelen (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

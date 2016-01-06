@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of a Clergyman",
+  "creation_date": "c. 1780",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.60",
+  "id": "cmoa:things/0fd7dc94-9975-4c57-9f7a-9e1b3ed620b2",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.625,
+  "item_height": 3.5,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005887",
+  "provenance_text": "(Clara Millard, Teddington England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, August 1, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73462&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73463&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8483d822-8dcb-4d61-9b82-ee226fa95bda",
+      "party_type": "Person",
+      "full_name": "Andrew Plimer",
+      "cited_name": "Plimer, Andrew",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1763-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

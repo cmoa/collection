@@ -1,0 +1,39 @@
+{
+  "title": "Compote",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "Silver",
+  "accession_number": "72.33",
+  "id": "cmoa:things/6f4f98e4-4fdd-4afa-be28-927770bd0160",
+  "credit_line": "Gift of the Women's Committee",
+  "date_acquired": "1972-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.625,
+  "item_height": 1.5,
+  "item_depth": 1.375,
+  "item_diameter": 1.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016410",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8503&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36954423-4420-412e-9714-65aa64af1ea5",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Co., Martelé Division",
+      "cited_name": "Gorham Manufacturing Co., Martelé Division",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

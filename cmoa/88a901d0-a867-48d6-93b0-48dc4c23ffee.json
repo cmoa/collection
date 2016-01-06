@@ -1,0 +1,39 @@
+{
+  "title": "Day Tripper",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "72.2",
+  "id": "cmoa:things/88a901d0-a867-48d6-93b0-48dc4c23ffee",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1972-02-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 110.25,
+  "item_height": 110.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016403",
+  "provenance_text": "Anonymous Gift",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150096&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/50300bb5-86b4-4fcc-ae21-95a3b5b4498f",
+      "party_type": "Person",
+      "full_name": "Sam Gilliam",
+      "cited_name": "Gilliam, Sam",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": null,
+      "birth_place": "Tupelo (Lee county, Mississippi, United States)",
+      "death_place": null
+    }
+  ]
+}

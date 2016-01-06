@@ -1,0 +1,42 @@
+{
+  "title": "House, Pittsburgh",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "pencil and charcoal on paper",
+  "accession_number": "2006.79.1",
+  "id": "cmoa:things/c33e1f8b-e4e2-47c0-aa35-c4347233fba1",
+  "credit_line": "Gift of Frank Brooks Robinson, Sr.",
+  "date_acquired": "2006-12-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 13.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=31660",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=50968&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39672&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/694a7359-4f4c-4e24-a299-8f0947111d9f",
+      "party_type": "Organization",
+      "full_name": "Ingham & Boyd",
+      "cited_name": "Ingham & Boyd",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1911-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

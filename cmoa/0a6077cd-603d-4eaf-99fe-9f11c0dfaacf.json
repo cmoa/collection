@@ -1,0 +1,39 @@
+{
+  "title": "Adam Van Noort",
+  "creation_date": "c. 1626-1636",
+  "creation_date_earliest": "1621-01-01",
+  "creation_date_latest": "1641-01-01",
+  "medium": "etching with engraving",
+  "accession_number": "16.18.8",
+  "id": "cmoa:things/0a6077cd-603d-4eaf-99fe-9f11c0dfaacf",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-18",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001097",
+  "provenance_text": "Robert Scholtz (1834-1912), Budapest, Lugt 2241; Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102165&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

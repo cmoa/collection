@@ -1,0 +1,39 @@
+{
+  "title": "Ewer",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "lustreware",
+  "accession_number": "2002.29.2",
+  "id": "cmoa:things/69ea48b1-505e-4141-8ef9-9178fd83f272",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 8.0,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=217",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8774&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32f673fb-b774-42ee-8e0c-5a2dcdc113fd",
+      "party_type": "Organization",
+      "full_name": "Cantagalli Workshop",
+      "cited_name": "Cantagalli Workshop",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1878-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

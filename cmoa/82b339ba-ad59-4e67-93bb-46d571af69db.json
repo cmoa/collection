@@ -1,0 +1,39 @@
+{
+  "title": "One and the Same",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "three-channel sound installation",
+  "accession_number": "2009.5",
+  "id": "cmoa:things/82b339ba-ad59-4e67-93bb-46d571af69db",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2009-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=57994",
+  "provenance_text": "The artist through Tanya Bonakdar Gallery, New York",
+  "classification": "installations",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=67227&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7057df67-6a6d-46ae-8052-a49b57140a85",
+      "party_type": "Person",
+      "full_name": "Susan Philipsz",
+      "cited_name": "Philipsz, Susan",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Glasgow, Scotland",
+      "death_place": null
+    }
+  ]
+}

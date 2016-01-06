@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1821-1850",
+  "creation_date_earliest": "1821-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "porcelain",
+  "accession_number": "78.36.34",
+  "id": "cmoa:things/adb49183-90e9-4d90-b53a-a91d472b5ee6",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 7.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020018",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

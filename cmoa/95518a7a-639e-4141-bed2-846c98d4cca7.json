@@ -1,0 +1,54 @@
+{
+  "title": "Daniel Voysin",
+  "creation_date": null,
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1670-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.7",
+  "id": "cmoa:things/95518a7a-639e-4141-bed2-846c98d4cca7",
+  "credit_line": "Gift from Louis R. Metcalfe; One of 15 Engravings Presented by Him to DFA",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.625,
+  "item_height": 13.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005183",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101932&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101933&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/178f1dea-24c5-46f2-b486-f81346b06d6c",
+      "party_type": "Person",
+      "full_name": "Nicolas Regnesson",
+      "cited_name": "Regnesson, Nicolas",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1630-01-01",
+      "death_date": "1670-01-01",
+      "birth_place": "Rheims (Marne, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/8404a038-c1e2-4b71-8560-a7cef67a249d",
+      "party_type": "Person",
+      "full_name": "Philippe de Champaigne",
+      "cited_name": "Champaigne, Philippe de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1602-01-01",
+      "death_date": "1674-01-01",
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

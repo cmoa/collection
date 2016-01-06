@@ -1,0 +1,39 @@
+{
+  "title": "Tile, Octagonal",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "faience",
+  "accession_number": "72.61.33",
+  "id": "cmoa:things/74ccffba-d821-4db5-852b-3cebef8637a8",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.812,
+  "item_diameter": 7.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016545",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1754&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1a07359-1917-403d-b5c3-a3a3f29934ee",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Kashan",
+      "cited_name": "unknown Persian, Kashan",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

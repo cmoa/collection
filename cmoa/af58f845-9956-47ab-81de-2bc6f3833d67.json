@@ -1,0 +1,39 @@
+{
+  "title": "Girl Playing a Koto",
+  "creation_date": "c. 1694",
+  "creation_date_earliest": "1689-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1047",
+  "id": "cmoa:things/af58f845-9956-47ab-81de-2bc6f3833d67",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026764",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Meltzer Gallery, New York 11/27/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106193&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e45e5555-d3df-469b-9330-60787ab58360",
+      "party_type": "Person",
+      "full_name": "Moronobu Hishikawa",
+      "cited_name": "Moronobu Hishikawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1613-01-01",
+      "death_date": "1689-01-01",
+      "birth_place": "Hota (Chiba prefecture, Kanto, Japan)",
+      "death_place": "Japan"
+    }
+  ]
+}

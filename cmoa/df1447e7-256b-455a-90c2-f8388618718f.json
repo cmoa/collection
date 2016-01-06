@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1965?",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "73.54.1",
+  "id": "cmoa:things/df1447e7-256b-455a-90c2-f8388618718f",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1973-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016857",
+  "provenance_text": "Gift of Sara M. Winokur and James L. Winokur, 1973.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=90175&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f09394a-0a96-44dd-9499-6306197f6590",
+      "party_type": "Person",
+      "full_name": "Joan Mitchell",
+      "cited_name": "Mitchell, Joan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Chicago, Illinois",
+      "death_place": "Paris, France"
+    }
+  ]
+}

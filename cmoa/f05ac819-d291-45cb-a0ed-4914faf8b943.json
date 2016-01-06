@@ -1,0 +1,39 @@
+{
+  "title": "Snap the Whip",
+  "creation_date": "1870",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1870-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "55.16.7",
+  "id": "cmoa:things/f05ac819-d291-45cb-a0ed-4914faf8b943",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009379",
+  "provenance_text": "The Old Print Shop",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72692&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d25df2d-ee53-407b-9727-3c77d390735f",
+      "party_type": "Person",
+      "full_name": "Winslow Homer",
+      "cited_name": "Homer, Winslow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1836-02-24",
+      "death_date": "1910-09-29",
+      "birth_place": "Boston, Massachusetts",
+      "death_place": "Prouts Neck (Cumberland county, Maine, United States)"
+    }
+  ]
+}

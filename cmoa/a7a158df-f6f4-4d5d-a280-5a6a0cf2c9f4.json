@@ -1,0 +1,42 @@
+{
+  "title": "Tray",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "silver, bakelite®",
+  "accession_number": "1996.52.4",
+  "id": "cmoa:things/a7a158df-f6f4-4d5d-a280-5a6a0cf2c9f4",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 1.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002162",
+  "provenance_text": "Wynyard R. T. Wilkinson, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5902&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f5c22fd-5a82-4851-82b6-a23f41fad8c8",
+      "party_type": "Person",
+      "full_name": "A. E. Harvey",
+      "cited_name": "Harvey, A. E.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1894-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Saint-Gilles-du-Gard",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "three chromogenic prints",
+  "accession_number": "2007.39.A-C",
+  "id": "cmoa:things/50d5dca5-40f1-4aae-b705-172498e7e49f",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2007-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 51.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49668",
+  "provenance_text": "The artist through Regen Projects, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56839&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fed47113-70e3-47fe-99a3-d7e5cf7445d6",
+      "party_type": "Person",
+      "full_name": "Catherine Opie",
+      "cited_name": "Opie, Catherine",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": "Sandusky, Ohio",
+      "death_place": null
+    }
+  ]
+}

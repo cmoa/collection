@@ -1,0 +1,39 @@
+{
+  "title": "Winter Picture",
+  "creation_date": "1952-1953",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "95.54",
+  "id": "cmoa:things/ecac04b2-8f44-41c2-9d44-8b960d875522",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Charles Denby, by exchange",
+  "date_acquired": "1995-05-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.125,
+  "item_height": 25.75,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035750",
+  "provenance_text": "Steve Turner Gallery, Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128219&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/613f1beb-8433-4a80-9000-4d0f5ff89f7c",
+      "party_type": "Person",
+      "full_name": "Charles Howard",
+      "cited_name": "Howard, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Montclair (Essex county, New Jersey, United States)",
+      "death_place": null
+    }
+  ]
+}

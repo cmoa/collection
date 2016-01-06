@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Young Woman",
+  "creation_date": "c. 1505",
+  "creation_date_earliest": "1499-12-23",
+  "creation_date_latest": "1509-12-22",
+  "medium": "oil on panel",
+  "accession_number": "76.21",
+  "id": "cmoa:things/ec75fec6-347f-4059-b959-cf58a46bcd6f",
+  "credit_line": "James D. and Johanna Woodwell Hailman Purchase Fund in honor of Homer Saint-Gaudens and gift of the Women's Committee",
+  "date_acquired": "1976-05-13",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 9.188,
+  "item_height": 11.813,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018027",
+  "provenance_text": "Mme. Andre, Paris; Count Lanckoronski, Vienna; Wildenstein & Company, Inc., New York; purchased by Museum, May 1976.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23542&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c795940-c3d8-4708-b660-b87d70abc6cd",
+      "party_type": "Person",
+      "full_name": "Vincenzo di Biagio Catena",
+      "cited_name": "Catena, Vincenzo",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1465-01-01",
+      "death_date": "1531-01-01",
+      "birth_place": null,
+      "death_place": " Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

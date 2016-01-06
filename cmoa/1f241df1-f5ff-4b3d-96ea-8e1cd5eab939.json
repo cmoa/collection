@@ -1,0 +1,39 @@
+{
+  "title": "Music",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.132",
+  "id": "cmoa:things/1f241df1-f5ff-4b3d-96ea-8e1cd5eab939",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012706",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19536565-67c6-40b4-bded-8b5a00598950",
+      "party_type": "Person",
+      "full_name": "Joseph Hirsch",
+      "cited_name": "Hirsch, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "New York, NY"
+    }
+  ]
+}

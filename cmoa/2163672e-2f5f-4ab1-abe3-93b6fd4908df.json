@@ -1,0 +1,45 @@
+{
+  "title": "Soup tureen",
+  "creation_date": "1937",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1937-01-01",
+  "medium": "silver and hematite",
+  "accession_number": "2015.8.A-.B",
+  "id": "cmoa:things/2163672e-2f5f-4ab1-abe3-93b6fd4908df",
+  "credit_line": "Women’s Committee Acquisition Fund and Sybil Pickett Charitable Trust",
+  "date_acquired": "2015-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 11.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107275",
+  "provenance_text": "Lillian Nassau, Ltd., New York, 2014–present; purchased from the Maryland estate of the original owner, who acquired the tureen directly from Puiforcat in Paris",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148852&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148848&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148849&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cd352874-54da-444b-ab2c-06cb341e8343",
+      "party_type": "Person",
+      "full_name": "Jean Puiforcat",
+      "cited_name": "Puiforcat, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1897-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sketch No. 4",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": "1916-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "16.43",
+  "id": "cmoa:things/d9ec92e7-c758-4d0a-b9ef-e571affb585c",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-03-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.5,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001285",
+  "provenance_text": "American Federation of Arts, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72612&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00d7e1bf-4b22-4c71-8102-bc08ebab6f4d",
+      "party_type": "Person",
+      "full_name": "John McLure Hamilton",
+      "cited_name": "Hamilton, John McLure",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

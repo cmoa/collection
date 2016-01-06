@@ -1,0 +1,51 @@
+{
+  "title": "Decanter",
+  "creation_date": "late 19th century",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "blown glass bottle and pressed glass stopper w/enamel & gilding",
+  "accession_number": "71.50.2.A-B",
+  "id": "cmoa:things/583fb15d-a1bd-4d83-b838-0b4dc13b8304",
+  "credit_line": "Gift of Mrs. Edward Pitcairn",
+  "date_acquired": "1971-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.312,
+  "item_height": 12.938,
+  "item_depth": 4.312,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016225",
+  "provenance_text": "Mrs. Edward Pitcairn, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=747&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fff3fda0-e0fe-4758-b5c1-6c8ce0fcd83f",
+      "party_type": "Person",
+      "full_name": "Auguste Daum",
+      "cited_name": "Daum, Auguste",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1853-01-01",
+      "death_date": "1909-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/44c241f5-0eaf-4d18-8498-621c35b65484",
+      "party_type": "Organization",
+      "full_name": "Nancy Glass Manufacture",
+      "cited_name": "Nancy Glass Manufacture",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1878-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

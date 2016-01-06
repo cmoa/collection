@@ -1,0 +1,39 @@
+{
+  "title": "The Dam at Swanville",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "82.68",
+  "id": "cmoa:things/05ebe0a8-faa4-4d02-b888-fb7b47bf7e76",
+  "credit_line": "Purchase: gift of Mrs. John F. Walton in memory of her husband",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.063,
+  "item_height": 18.562,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023066",
+  "provenance_text": "Hirschl and Adler, NYC via the Carnegie International 1982",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6410&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/20c8e35b-d0e7-4d16-8ed1-53cf77e3104a",
+      "party_type": "Person",
+      "full_name": "Rackstraw Downes",
+      "cited_name": "Downes, Rackstraw",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "England",
+      "death_place": null
+    }
+  ]
+}

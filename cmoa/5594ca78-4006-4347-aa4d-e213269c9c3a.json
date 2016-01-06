@@ -1,0 +1,39 @@
+{
+  "title": "Tile; [ornament drawing]",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "watercolor and pencil on board",
+  "accession_number": "91.49.12",
+  "id": "cmoa:things/5594ca78-4006-4347-aa4d-e213269c9c3a",
+  "credit_line": "Gift of Christopher Monkhouse",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 11.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029988",
+  "provenance_text": "Christopher Monkhouse, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118587&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60ecedf8-ecf7-4b80-9271-84f1495f35aa",
+      "party_type": "Person",
+      "full_name": "Kenneth Hamlyn  McConnel",
+      "cited_name": "McConnel, Kenneth Hamlyn",
+      "role": null,
+      "nationality": "Australian",
+      "birth_date": "1896-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Queensland, Australia",
+      "death_place": "Sydney , Australia"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Prairie Vase",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "glazed whiteware",
+  "accession_number": "88.18",
+  "id": "cmoa:things/57caad7d-61cf-4a47-8afc-5501df922de0",
+  "credit_line": "Purchase: gift of Edgar L. Levenson",
+  "date_acquired": "1988-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 6.75,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026448",
+  "provenance_text": "Garth Clark Gallery, New York City, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25697&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101485&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ecab92ca-7577-4975-8861-fba356b691aa",
+      "party_type": "Person",
+      "full_name": "Anne Kraus",
+      "cited_name": "Kraus, Anne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1956-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

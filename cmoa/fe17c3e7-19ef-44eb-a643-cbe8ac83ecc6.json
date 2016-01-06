@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (P6)",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "alkyd on aluminum and steel",
+  "accession_number": "87.17",
+  "id": "cmoa:things/fe17c3e7-19ef-44eb-a643-cbe8ac83ecc6",
+  "credit_line": "Paintings Acquisition Fund",
+  "date_acquired": "1987-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 72.0,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026283",
+  "provenance_text": "Luhring, Augustine and Hodes Gallery, NYC; Carnegie Museum of Art, Pittsburgh; Painting Acquisition Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3601&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",
+      "party_type": "Person",
+      "full_name": "Christopher Wool",
+      "cited_name": "Wool, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    }
+  ]
+}

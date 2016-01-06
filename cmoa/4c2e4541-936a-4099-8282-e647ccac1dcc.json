@@ -1,0 +1,39 @@
+{
+  "title": "Erdbeben",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "86.3",
+  "id": "cmoa:things/4c2e4541-936a-4099-8282-e647ccac1dcc",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Stanley R. Gumberg",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 154.312,
+  "item_height": 78.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026078",
+  "provenance_text": "Mary Boone/Michael Werner Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29242&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1fdd1f7f-8d02-4e23-96a0-bf6fd94bd562",
+      "party_type": "Person",
+      "full_name": "Per Kirkeby",
+      "cited_name": "Kirkeby, Per",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen (København commune, Denmark)",
+      "death_place": null
+    }
+  ]
+}

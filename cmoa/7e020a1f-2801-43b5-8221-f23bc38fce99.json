@@ -1,0 +1,39 @@
+{
+  "title": "Ornament",
+  "creation_date": "c. 1000 BCE",
+  "creation_date_earliest": "-1050-01-11",
+  "creation_date_latest": "-0950-01-10",
+  "medium": "bronze",
+  "accession_number": "72.61.42",
+  "id": "cmoa:things/7e020a1f-2801-43b5-8221-f23bc38fce99",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.062,
+  "item_height": 3.812,
+  "item_depth": 0.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016555",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3300&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/81318127-0f76-4f62-b3da-fb4feebac4e9",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Luristan",
+      "cited_name": "unknown Persian, Luristan",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

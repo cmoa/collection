@@ -1,0 +1,42 @@
+{
+  "title": "Amerika",
+  "creation_date": "1861",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "59.44",
+  "id": "cmoa:things/6c411d0b-ec23-456f-b6ce-181104396cc0",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1959-10-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011025",
+  "provenance_text": "C. T. Loo and Cie, Paris, France",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111187&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23261&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8b2f26c8-06b5-4c16-bf22-8dedd2f51fd1",
+      "party_type": "Person",
+      "full_name": "Yoshitora Utagawa",
+      "cited_name": "Yoshitora Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1850-01-01",
+      "death_date": "1880-01-01",
+      "birth_place": "Japan, Edo",
+      "death_place": null
+    }
+  ]
+}

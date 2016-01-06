@@ -1,0 +1,39 @@
+{
+  "title": "Madelena Comitissa Ab Helffenstein",
+  "creation_date": "1593",
+  "creation_date_earliest": "1593-01-01",
+  "creation_date_latest": "1593-01-01",
+  "medium": "engraving",
+  "accession_number": "43.4.59",
+  "id": "cmoa:things/a027559a-2b09-46c3-a752-78b04dd6babc",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007450",
+  "provenance_text": "Dominicus Custos [1550-1612], Netherlands. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101761&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f701639c-773b-4cf3-9931-8df31705b095",
+      "party_type": "Person",
+      "full_name": "Dominicus Custos",
+      "cited_name": "Custos, Dominicus",
+      "role": null,
+      "nationality": "Netherlandish",
+      "birth_date": "1550-01-01",
+      "death_date": "1612-01-01",
+      "birth_place": "Antwerp",
+      "death_place": "Augsburg"
+    }
+  ]
+}

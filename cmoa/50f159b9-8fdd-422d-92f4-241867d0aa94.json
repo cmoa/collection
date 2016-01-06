@@ -1,0 +1,63 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "stoneware with applied decoration",
+  "accession_number": "81.125.1",
+  "id": "cmoa:things/50f159b9-8fdd-422d-92f4-241867d0aa94",
+  "credit_line": "Gift of Robert Klein",
+  "date_acquired": "1982-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 2.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021607",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3488&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7db6671-041c-4166-b3f7-4972582ccd6a",
+      "party_type": "Person",
+      "full_name": "Alexander Robertson",
+      "cited_name": "Robertson, Alexander",
+      "role": "ceramicist",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a7a67f46-1b1f-4bde-8864-e3c0699e131d",
+      "party_type": "Person",
+      "full_name": "Linna Irelan",
+      "cited_name": "Irelan, Linna",
+      "role": "decorator",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7876786a-f068-4da5-8792-94f47f2d0d38",
+      "party_type": "Organization",
+      "full_name": "A. W. Roblin Pottery, S.F.",
+      "cited_name": "A. W. Roblin Pottery, S.F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

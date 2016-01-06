@@ -1,0 +1,42 @@
+{
+  "title": "Glass of Water and Coffeepot",
+  "creation_date": "c. 1761",
+  "creation_date_earliest": "1756-01-01",
+  "creation_date_latest": "1766-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "66.12",
+  "id": "cmoa:things/f7fe7406-d3ad-405e-b172-93a8dfe0643e",
+  "credit_line": "Howard A. Noble Fund",
+  "date_acquired": "1966-09-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 16.25,
+  "item_height": 12.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012206",
+  "provenance_text": "Jean-Siméon Chardin [1699-1779]. Philippe Burty [1830-1890], probably in 1874 until June 3, 1890 [1]; estate of Phillipe Burty, June 3,1890 until March 1891; sold at Hotel Drouot, Paris, March 2-3, 1891, no. 30 [2]; Charles Haviland [1839-1921], until March 15, 1921 [3]; estate of Charles Haviland, March 1921 until December 1922; sale, Hotel Drouot, Paris, December 14-15, 1922, no. 42, illustrated [4]; his son George Haviland [1870-1947], probably 1922 until 1932; sold at Galerie Georges Petit, Paris, June 2-3, 1932, no. 105, illustrated [5]. A. M. Schwenk [6]; Wildenstein & Company, Inc., New York, NY, by May 1966; purchased by Museum, September 1966. \n\nNotes:\n[1]. See \"Chardin\", Èditions de la Réunion des musées nationaux, 1999, p. 292, which states \"Philippe Burty, sans doute dès 1874\".\n[2]. Sale entitled \"Tableaux Modernes et Anciens\"; this work is listed as \"Object divers, sur une table de pierre\". This sale is recorded on the back of the painting with the phrase \"payé 5,000.\" \n[3]. Charles Haviland's second wife, Madeleine, was Philippe Burty's daughter. \n[4]. Sale entitled \"Tableaux Anciens et Modernes\"; the work is listed as \"La Bouillotte\"; bought in. \n[5]. Sale entitled \"Tableaux Anciens et Modernes\"; this work listed as \"La Bouillotte\", sold for 120,000 francs. In reporting this sale, \"Art News\" noted that the work had brought \"only 35,000 francs in 1922\", though it was probably, as noted above, bought in.\n[6]. Information from Wildenstein & Company, Inc.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8040&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56855&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4be384c3-cb43-48b4-8b77-d00c51ac248f",
+      "party_type": "Person",
+      "full_name": "Jean-Siméon Chardin",
+      "cited_name": "Chardin, Jean Siméon",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1699-11-02",
+      "death_date": "1779-12-06",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

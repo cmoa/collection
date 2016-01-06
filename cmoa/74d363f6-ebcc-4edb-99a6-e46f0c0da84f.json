@@ -1,0 +1,37 @@
+{
+  "title": "Festival",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "color lithograph",
+  "accession_number": "45.9",
+  "id": "cmoa:things/74d363f6-ebcc-4edb-99a6-e46f0c0da84f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 22.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007613",
+  "provenance_text": "The Weyhe Gallery",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ef32d8c2-1080-4abe-8f89-ad0704ea623b",
+      "party_type": "Person",
+      "full_name": "Jean Charlot",
+      "cited_name": "Charlot, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1898-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Honolulu (Honolulu county, Hawaii, United States)"
+    }
+  ]
+}

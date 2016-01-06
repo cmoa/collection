@@ -1,0 +1,39 @@
+{
+  "title": "Lady Kinnaird",
+  "creation_date": "1811",
+  "creation_date_earliest": "1811-01-01",
+  "creation_date_latest": "1811-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "30.2",
+  "id": "cmoa:things/9e796c5e-7c84-4b51-af4d-1d45a9293c4f",
+  "credit_line": "Gift of Mrs. B. F. Jones, Jr.",
+  "date_acquired": "1930-01-22",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 55.75,
+  "item_height": 86.25,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006588",
+  "provenance_text": "J. J. Gillespie Company, Pittsburgh, PA\n\n\nRecord under review for update, CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119904&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db956ad9-50b4-44fb-ae32-c693fa028e51",
+      "party_type": "Person",
+      "full_name": "James Northcote",
+      "cited_name": "Northcote, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1746-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": "Plymouth (City of Plymouth, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

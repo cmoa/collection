@@ -1,0 +1,42 @@
+{
+  "title": "Plate 7 from Album 13",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "61.51",
+  "id": "cmoa:things/6c120700-1a40-4dc5-9aff-4991e9a35f1e",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011467",
+  "provenance_text": "Ferdinand Roten Galleries, Inc. 123 W. Mulberry St., Baltimore, MD.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103607&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63860&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00a3a4a1-f2f3-48b6-adc6-e36267d39752",
+      "party_type": "Person",
+      "full_name": "Joan Miró",
+      "cited_name": "Miró, Joan",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1893-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Barcelona (Barcelona province, Catalonia, Spain)",
+      "death_place": "Palma de Mallorca (Illes Balears province, Comunidad Autónoma de las Islas Baleares, Spain)"
+    }
+  ]
+}

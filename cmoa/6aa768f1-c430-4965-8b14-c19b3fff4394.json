@@ -1,0 +1,42 @@
+{
+  "title": "The Horse Laugh",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "graphite, vermilion, and india ink on paper",
+  "accession_number": "2004.42",
+  "id": "cmoa:things/6aa768f1-c430-4965-8b14-c19b3fff4394",
+  "credit_line": "Mr. and Mrs. William A. Meyer Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12138",
+  "provenance_text": "Gilbert Davis (b. 1899), Hampstead, England (Lugt 757a); with Lowell Libson, London, in 2004.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98952&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=14319&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d415c3d9-4978-45d2-b9f8-a3dd2fcca9d5",
+      "party_type": "Person",
+      "full_name": "Thomas Rowlandson",
+      "cited_name": "Rowlandson, Thomas",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1756-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    }
+  ]
+}

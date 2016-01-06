@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "print",
+  "accession_number": "2006.81.25",
+  "id": "cmoa:things/26eb5025-3269-47c4-803c-bf1a96223627",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=38038",
+  "provenance_text": "The donor, Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108457&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5436aedf-bfe7-4fa4-a55f-a5b5d172cb40",
+      "party_type": "Person",
+      "full_name": "Raoul Ubac",
+      "cited_name": "Ubac, Raoul",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1910-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Malmédy (Liège province, Wallonia, Belgium)",
+      "death_place": null
+    }
+  ]
+}

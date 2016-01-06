@@ -1,0 +1,37 @@
+{
+  "title": "Horses",
+  "creation_date": null,
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "color lithograph",
+  "accession_number": "85.80.13",
+  "id": "cmoa:things/9edd52ba-24b7-4ae3-9565-c4254c8288fc",
+  "credit_line": "Gift of Irene Pasinski",
+  "date_acquired": "1986-02-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025791",
+  "provenance_text": "Irene Pasinski, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b2985558-11c4-4de3-bfb5-dee1f27a9c8d",
+      "party_type": "Person",
+      "full_name": "Marino Marini",
+      "cited_name": "Marini, Marino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1901-01-01",
+      "death_date": "1980-01-01",
+      "birth_place": "Pistoia (Pistoia province, Tuscany, Italy)",
+      "death_place": "Viareggio (Lucca province, Tuscany, Italy)"
+    }
+  ]
+}

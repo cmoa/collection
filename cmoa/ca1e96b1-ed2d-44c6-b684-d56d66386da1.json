@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of John McDowell",
+  "creation_date": "c. 1805-1810",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "62.20.3",
+  "id": "cmoa:things/ca1e96b1-ed2d-44c6-b684-d56d66386da1",
+  "credit_line": "Purchase: gift of the Women's Committee and Mr. C. J. Seibert",
+  "date_acquired": "1962-07-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.75,
+  "item_height": 3.125,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011520",
+  "provenance_text": "Mrs. Eleanor Dupuy Merrick",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73900&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73901&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69853e6b-c06b-4d34-8bb3-968064b9b009",
+      "party_type": "Person",
+      "full_name": "Edward Malbone",
+      "cited_name": "Malbone, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1777-01-01",
+      "death_date": "1807-01-01",
+      "birth_place": "Newport, RI",
+      "death_place": "Savannah, GA"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Argand lamp",
+  "creation_date": "c. 1835",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "brass, iron, and glass",
+  "accession_number": "2009.3.2.A-.F",
+  "id": "cmoa:things/e5e68ed8-354a-4e7f-ad21-84b4102d63ef",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2009-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 16.0,
+  "item_height": 20.5,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=79142",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96399&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76462&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e084971-3845-42fb-89f5-a6a67fc13469",
+      "party_type": "Organization",
+      "full_name": "Cornelius & Son",
+      "cited_name": "Cornelius & Son",
+      "role": "attributed to",
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": "1839-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

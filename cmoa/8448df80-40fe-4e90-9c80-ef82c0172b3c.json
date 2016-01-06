@@ -1,0 +1,39 @@
+{
+  "title": "The Harvest",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "tempera on paper",
+  "accession_number": "60.18",
+  "id": "cmoa:things/8448df80-40fe-4e90-9c80-ef82c0172b3c",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1960-03-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.625,
+  "item_height": 50.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011164",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA; Gift of Sara M. Winokur and James L. Winokur to honor Mr. and Mrs. Richard M. Scaife",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113207&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00022b5a-7c0e-4ae5-8d7d-14a66018915d",
+      "party_type": "Person",
+      "full_name": "Lois Kaufman",
+      "cited_name": "Kaufman, Lois",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

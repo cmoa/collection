@@ -1,0 +1,45 @@
+{
+  "title": "Portrait of a Boy",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "32.1",
+  "id": "cmoa:things/d9fbdac6-d696-43dc-8b02-33dff3abda9c",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1932-04-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 52.25,
+  "item_height": 69.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006676",
+  "provenance_text": "John Singer Sargent [1856-1925]; Augustus Saint-Gaudens [1848-1907], by May 1892 until 1907; John Herron Art Institute, Indianapolis, until 1923 [1]; Augusta Saint-Gaudens [1848-1926], 1923 until 1926 [2]. Homer Saint-Gaudens [1880-1958], Pittsburgh, PA, 1926 until 1932 [3]; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1932. \nNOTES: [1] On loan. [2] Wife of Augustus Saint-Gaudens. On loan to Carnegie Institute from 1923 until her death in 1926. [3] Augustus and Augusta Saint-Gauden's son, Continuation of loan to Carnegie Institute from Augusta Saint-Gaudens. Homer Saint-Gaudens was director of the Art Museum of Carnegie Institute from  1922-1950.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16805&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101352&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101351&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fded4ae-3230-46bc-9e11-c9657970997e",
+      "party_type": "Person",
+      "full_name": "John Singer Sargent",
+      "cited_name": "Sargent, John S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Italy, Florence",
+      "death_place": "England, London"
+    }
+  ]
+}

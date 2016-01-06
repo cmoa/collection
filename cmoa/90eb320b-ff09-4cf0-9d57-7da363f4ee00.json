@@ -1,0 +1,39 @@
+{
+  "title": "Family Picnic",
+  "creation_date": "1941",
+  "creation_date_earliest": "1941-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2008.48.1",
+  "id": "cmoa:things/90eb320b-ff09-4cf0-9d57-7da363f4ee00",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2008-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 17.75,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=732",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146346&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f9348a2-c992-4cb5-8cab-11d99611f125",
+      "party_type": "Person",
+      "full_name": "Philip Pearlstein",
+      "cited_name": "Pearlstein, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

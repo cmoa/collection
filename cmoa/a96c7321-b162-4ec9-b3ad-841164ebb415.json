@@ -1,0 +1,39 @@
+{
+  "title": "Woodland Valley Poplar",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "poplar wood",
+  "accession_number": "2006.75",
+  "id": "cmoa:things/a96c7321-b162-4ec9-b3ad-841164ebb415",
+  "credit_line": "Gift of Raoul Hague Foundation",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 44.0,
+  "item_depth": 30.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33901",
+  "provenance_text": "From the artist, Raoul Hague Foundation",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=44586&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ae595aa-8649-4866-ad73-1ab10dbfc489",
+      "party_type": "Person",
+      "full_name": "Raoul Hague",
+      "cited_name": "Hague, Raoul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Constantinople, Turkey",
+      "death_place": "Woodstock, New York"
+    }
+  ]
+}

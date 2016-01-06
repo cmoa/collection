@@ -1,0 +1,39 @@
+{
+  "title": "Mandala",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.81",
+  "id": "cmoa:things/2bffe80d-c920-4864-9abc-d35293983306",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.875,
+  "item_height": 49.875,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010930",
+  "provenance_text": "Aime Maeght, Paris, for 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37440&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eb3e126b-2d6f-4231-91de-20389374f71b",
+      "party_type": "Person",
+      "full_name": "Pablo Palazuelo",
+      "cited_name": "Palazuelo, Pablo",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1916-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Madrid, Spain",
+      "death_place": null
+    }
+  ]
+}

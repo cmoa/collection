@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Sir Francis Walsingham",
+  "creation_date": null,
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "27.10.2",
+  "id": "cmoa:things/eb9ecbe1-5d02-490d-a330-346bf27682aa",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 5.0,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005717",
+  "provenance_text": "L. Voron, New York, NY; purchased by Herbert DuPuy [1856-1930], Pittsburgh PA, April 18, 1914; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73227&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73228&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f0f95455-d21f-4bcc-b223-ece5b9db948e",
+      "party_type": "Person",
+      "full_name": "George Perfect Harding",
+      "cited_name": "Harding, George P.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1780-01-01",
+      "death_date": "1853-01-01",
+      "birth_place": null,
+      "death_place": " Lambeth (London, Greater London, England, United Kingdom)"
+    }
+  ]
+}

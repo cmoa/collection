@@ -1,0 +1,39 @@
+{
+  "title": "Dem Unbekannten Maler (To the Unknown Painter)",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "oil, emulsion, woodcut, shellac, latex paint, and straw on canvas",
+  "accession_number": "83.53",
+  "id": "cmoa:things/dd7acf62-d4c5-46e7-9c15-6ddaae645628",
+  "credit_line": "Richard M. Scaife Fund and A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1983-10-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 110.5,
+  "item_height": 110.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023844",
+  "provenance_text": "Anthony D'Offay Gallery, London, England",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25033&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e17249b3-7cb6-444b-9c5d-69c807840384",
+      "party_type": "Person",
+      "full_name": "Anselm Kiefer",
+      "cited_name": "Kiefer, Anselm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1945-01-01",
+      "death_date": null,
+      "birth_place": "Donauschingen, Germany",
+      "death_place": null
+    }
+  ]
+}

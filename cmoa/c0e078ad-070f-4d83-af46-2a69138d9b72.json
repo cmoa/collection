@@ -1,0 +1,51 @@
+{
+  "title": "Upper Stream of Tashiro River, Higashimata Valley (Tashirogawa jôryû, Higashimata keikoku)",
+  "creation_date": "4/15/1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1424.5",
+  "id": "cmoa:things/c0e078ad-070f-4d83-af46-2a69138d9b72",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027329",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34694&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a4e614c7-7e38-4e35-a751-48ea8f39c929",
+      "party_type": "Person",
+      "full_name": "Ishii Tsuruzô",
+      "cited_name": "Ishii Tsuruzô",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1887-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9736e158-c9b3-4bf1-b4f8-8f0917068d02",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô",
+      "cited_name": "Nakajima Jûtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

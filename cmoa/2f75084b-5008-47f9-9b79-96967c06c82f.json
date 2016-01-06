@@ -1,0 +1,39 @@
+{
+  "title": "Cubi XXIV",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "stainless steel",
+  "accession_number": "67.6",
+  "id": "cmoa:things/2f75084b-5008-47f9-9b79-96967c06c82f",
+  "credit_line": "Howard Heinz Endowment Fund",
+  "date_acquired": "1967-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Museum Grounds",
+  "item_width": 83.25,
+  "item_height": 114.25,
+  "item_depth": 32.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012357",
+  "provenance_text": "Marlborough-Gerson Gallery, New York, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2916&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a826d799-df37-41ba-8320-524028649d84",
+      "party_type": "Person",
+      "full_name": "David Smith",
+      "cited_name": "Smith, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Decatur (Adams county, Indiana, United States)",
+      "death_place": "Bennington (Bennington county, Vermont, United States)"
+    }
+  ]
+}

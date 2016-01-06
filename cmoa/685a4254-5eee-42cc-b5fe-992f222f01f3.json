@@ -1,0 +1,39 @@
+{
+  "title": "Woodland Path",
+  "creation_date": "1868",
+  "creation_date_earliest": "1868-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.24",
+  "id": "cmoa:things/685a4254-5eee-42cc-b5fe-992f222f01f3",
+  "credit_line": "Gift of Estate of Miriam McDonald Shea",
+  "date_acquired": "1957-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 21.5,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010442",
+  "provenance_text": "Miriam McDonald Shea, Pittsburgh, by 1957; Estate of Miriam McDonald Shea, 1957; gift to Museum, October 24, 1957.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283e4459-08db-4491-a0c4-b73a8cecd823",
+      "party_type": "Person",
+      "full_name": "George Hetzel",
+      "cited_name": "Hetzel, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1826-01-01",
+      "death_date": "1899-01-01",
+      "birth_place": "Alsace, Lorraine, France",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

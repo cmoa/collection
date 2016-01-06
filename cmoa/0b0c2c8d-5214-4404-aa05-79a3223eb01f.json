@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "lustreware",
+  "accession_number": "2002.29.1",
+  "id": "cmoa:things/0b0c2c8d-5214-4404-aa05-79a3223eb01f",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 19.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=216",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8425&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32f673fb-b774-42ee-8e0c-5a2dcdc113fd",
+      "party_type": "Organization",
+      "full_name": "Cantagalli Workshop",
+      "cited_name": "Cantagalli Workshop",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1878-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

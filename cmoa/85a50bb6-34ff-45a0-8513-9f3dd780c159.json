@@ -1,0 +1,51 @@
+{
+  "title": "Alexander the Great Taming Bucephalus",
+  "creation_date": "c. 1550",
+  "creation_date_earliest": "1544-12-22",
+  "creation_date_latest": "1554-12-22",
+  "medium": "etching",
+  "accession_number": "2002.66.2",
+  "id": "cmoa:things/85a50bb6-34ff-45a0-8513-9f3dd780c159",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "2002-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 8.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=688",
+  "provenance_text": "Dukes of Marlborough and Northumberland, Syon House A. Hyatt Mayor; Kunsthandlung Helmut H. Rumbler, Frankfurt am  Main",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97488&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eccddfd9-40ae-4159-bfa4-8cb397ff8f78",
+      "party_type": "Person",
+      "full_name": "Master L. D.",
+      "cited_name": "Master L. D.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1535-01-01",
+      "death_date": "1556-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/98e8573b-02b8-4b0c-94de-1f8e5bcd917c",
+      "party_type": "Person",
+      "full_name": "Francesco Primaticcio",
+      "cited_name": "Primaticcio, Frencesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1504-01-01",
+      "death_date": "1570-01-01",
+      "birth_place": "Bologna (Bologna province, Emilia-Romagna, Italy)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

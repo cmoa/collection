@@ -1,0 +1,39 @@
+{
+  "title": "Pittsburgh Riverfront",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2000.28",
+  "id": "cmoa:things/603dc767-11d6-4e48-9cfe-c928a19c7eeb",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-06-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 19.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004025",
+  "provenance_text": "East End Gallery, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8484&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d2b43599-7366-475d-bf39-c9882d381534",
+      "party_type": "Person",
+      "full_name": "John Allen",
+      "cited_name": "Allen, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

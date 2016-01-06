@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Walter Munhall",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "platinum print",
+  "accession_number": "2006.45",
+  "id": "cmoa:things/68959082-78f6-4823-b270-1e35606e7986",
+  "credit_line": "Gift of Edgar Munhall",
+  "date_acquired": "2006-06-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 9.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26288",
+  "provenance_text": "gift of Edgar Munhall",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38714&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d3f668a-1e11-43a0-8ec7-0174aefbf6ce",
+      "party_type": "Organization",
+      "full_name": "Gilbert and Bacon",
+      "cited_name": "Gilbert and Bacon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": null,
+      "birth_place": "Philadelphia",
+      "death_place": null
+    }
+  ]
+}

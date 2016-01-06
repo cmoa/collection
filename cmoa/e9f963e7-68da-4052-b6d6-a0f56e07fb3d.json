@@ -1,0 +1,39 @@
+{
+  "title": "Net Fishing",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1461",
+  "id": "cmoa:things/e9f963e7-68da-4052-b6d6-a0f56e07fb3d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.625,
+  "item_height": 13.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027372",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 2/24/1964.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25f152a7-829a-483f-9fef-d5fb40c6cfcd",
+      "party_type": "Person",
+      "full_name": "Yamaguchi Susumu",
+      "cited_name": "Yamaguchi Susumu",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1897-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Japan, Nagano-ken",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Head of a Man",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "ink on cardboard",
+  "accession_number": "78.27.1.569",
+  "id": "cmoa:things/b96ab8e8-e620-4664-b561-47dfd82d3b78",
+  "credit_line": "Gift of Dr. Murray Z. Rosenberg",
+  "date_acquired": "1978-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019820",
+  "provenance_text": "Dr. Murray Z. Rosenberg, Storrs, CT",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103561&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73cd58f4-8b2d-46a7-96ed-0b3ec54cabb8",
+      "party_type": "Person",
+      "full_name": "Samuel Rosenberg",
+      "cited_name": "Rosenberg, Samuel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

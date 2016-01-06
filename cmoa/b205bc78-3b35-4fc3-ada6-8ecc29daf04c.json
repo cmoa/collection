@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Torso)",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "2006.82",
+  "id": "cmoa:things/b205bc78-3b35-4fc3-ada6-8ecc29daf04c",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.313,
+  "item_height": 15.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13792",
+  "provenance_text": "Leon and Jane Arkus, Pittsburgh, Pa. until 2004",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107958&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee1ced5b-4fff-4eaf-83bd-124d2c987062",
+      "party_type": "Person",
+      "full_name": "Louise Nevelson",
+      "cited_name": "Nevelson, Louise",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": "Kiev, Russia, present-day Ukraine",
+      "death_place": "New York"
+    }
+  ]
+}

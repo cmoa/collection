@@ -1,0 +1,39 @@
+{
+  "title": "Study of a Little Girl",
+  "creation_date": "no date",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "red chalk on paper",
+  "accession_number": "10.6.4",
+  "id": "cmoa:things/f6acfeb6-e902-4552-8279-34a0c561acfc",
+  "credit_line": "Purchase",
+  "date_acquired": "1910-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000518",
+  "provenance_text": "The Art Society of Pittsburgh; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85935&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a7788b2a-8d6b-4646-95f4-774064487ef4",
+      "party_type": "Person",
+      "full_name": "Bernard J. Rosenmeyer",
+      "cited_name": "Rosenmeyer, Bernard J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

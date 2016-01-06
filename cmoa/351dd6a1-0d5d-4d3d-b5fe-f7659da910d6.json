@@ -1,0 +1,37 @@
+{
+  "title": "Bound",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "ceramic",
+  "accession_number": "2008.10",
+  "id": "cmoa:things/351dd6a1-0d5d-4d3d-b5fe-f7659da910d6",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 97th Annual Exhibition of the Associated Artists of Pittsburgh through the James L. Winokur Fund",
+  "date_acquired": "2008-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 5.0,
+  "item_height": 20.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=53958",
+  "provenance_text": "The artist through the Associated Artists of Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e255618-1a90-4f13-a1b6-3c05bdcae166",
+      "party_type": "Person",
+      "full_name": "Elvira Peake",
+      "cited_name": "Peake, Elvira",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

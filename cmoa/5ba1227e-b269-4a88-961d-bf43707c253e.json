@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of a Man",
+  "creation_date": "c. 1790",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.78",
+  "id": "cmoa:things/5ba1227e-b269-4a88-961d-bf43707c253e",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.188,
+  "item_height": 1.75,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005965",
+  "provenance_text": "Mrs. F. M. LaBruce, Charleston, SC; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, March 10, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73490&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30e59f19-73d9-4bc4-b707-a613d1d3936d",
+      "party_type": "Person",
+      "full_name": "Charles Willson Peale",
+      "cited_name": "Peale, Charles W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1741-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "Chester (Queen Annes county, Maryland, United States)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1725-1750",
+  "creation_date_earliest": "1720-01-01",
+  "creation_date_latest": "1755-01-01",
+  "medium": "tin-glazed soft paste porcelain",
+  "accession_number": "78.49.3",
+  "id": "cmoa:things/5f93e533-e573-4782-80d0-2e5aad5d4cee",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1978-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 1.5,
+  "item_depth": 7.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020082",
+  "provenance_text": "Mrs. Fred C. Foy, Rector, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3457&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df3bc7e5-1872-467b-bad3-81ac606d2f89",
+      "party_type": "Organization",
+      "full_name": "Chantilly Factory",
+      "cited_name": "Chantilly Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1715-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

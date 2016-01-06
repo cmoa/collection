@@ -1,0 +1,42 @@
+{
+  "title": "Allegory of Winter and Autumn",
+  "creation_date": "c. 1575-1585",
+  "creation_date_earliest": "1559-12-22",
+  "creation_date_latest": "1600-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.13",
+  "id": "cmoa:things/33125b9a-719b-479f-84ce-b675266c8c8f",
+  "credit_line": "Patrons Art Fund: gift of the Howard Heinz Endowment",
+  "date_acquired": "1962-02-15",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 56.5,
+  "item_height": 63.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011492",
+  "provenance_text": "Baron Wilhelm Ofenheim, Schloss Jaispitz, Moravia, by 1962; sold at Rosenberg & Stiebel, New York, until February 1962; purchased by Museum, February 1962.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=254&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101364&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c0c90d0-6ad5-4f90-9082-7391549ae1a8",
+      "party_type": "Person",
+      "full_name": "Jacopo Robusti (called Tintoretto)",
+      "cited_name": "Robusti, Jacopo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1518-01-01",
+      "death_date": "1594-01-01",
+      "birth_place": "Venice (Venezia province, Veneto, Italy)",
+      "death_place": "Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

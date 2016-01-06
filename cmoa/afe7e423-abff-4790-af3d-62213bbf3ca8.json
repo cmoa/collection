@@ -1,0 +1,42 @@
+{
+  "title": "On the Farm (recto); The Gettysburg Address (verso)",
+  "creation_date": "Before 1931",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "oil on Masonite, double sided",
+  "accession_number": "2005.66.1.A-.B",
+  "id": "cmoa:things/afe7e423-abff-4790-af3d-62213bbf3ca8",
+  "credit_line": "Gift of the McGivern Family",
+  "date_acquired": "2005-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 24.5,
+  "item_height": 22.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16071",
+  "provenance_text": "Possibly Ann Joyce McGivern; Michael J. McGivern, Harwood, MD, by 2005; gft to Carnegie Museum of Art, Pittsburgh, PA, 2005.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99493&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f3a6b6a-f815-425d-ad36-e3cfe38b8ed1",
+      "party_type": "Person",
+      "full_name": "John Kane",
+      "cited_name": "Kane, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "West Calder (West Lothian, Scotland, United Kingdom)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

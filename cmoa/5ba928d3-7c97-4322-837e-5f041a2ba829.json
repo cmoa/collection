@@ -1,0 +1,39 @@
+{
+  "title": "Magritte holds the \"Chariot of the Virgin\"",
+  "creation_date": "1965",
+  "creation_date_earliest": "1965-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "chromogenic print with hand applied text",
+  "accession_number": "2009.31.9",
+  "id": "cmoa:things/5ba928d3-7c97-4322-837e-5f041a2ba829",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82335",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94554&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8d714027-daa1-4681-ba3f-d844eb184331",
+      "party_type": "Person",
+      "full_name": "Duane Michals",
+      "cited_name": "Michals, Duane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

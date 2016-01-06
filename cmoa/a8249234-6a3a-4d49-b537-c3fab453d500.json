@@ -1,0 +1,39 @@
+{
+  "title": "Harry Swank and John Walters",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2002.54.1",
+  "id": "cmoa:things/a8249234-6a3a-4d49-b537-c3fab453d500",
+  "credit_line": "Gift from John and Barbara Walters",
+  "date_acquired": "2002-10-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=437",
+  "provenance_text": "John and Barbara Walters, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101442&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c730db3-7ca6-4e1d-ae3c-2968c1ad8ab9",
+      "party_type": "Person",
+      "full_name": "Luke Swank",
+      "cited_name": "Swank, Luke",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Johnstown, PA",
+      "death_place": null
+    }
+  ]
+}

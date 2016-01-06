@@ -1,0 +1,60 @@
+{
+  "title": "Bertrand Sideboard",
+  "creation_date": "1987",
+  "creation_date_earliest": "1987-01-01",
+  "creation_date_latest": "1987-01-01",
+  "medium": "painted wood and chromed steel",
+  "accession_number": "1996.61.1",
+  "id": "cmoa:things/b2520f00-9680-4f1e-90a0-f654c70f9bca",
+  "credit_line": "Gift of Kurt Gutfreund and Nancy Schwartz Gutfreund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 94.0,
+  "item_height": 35.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002229",
+  "provenance_text": "Kurt And Nancy Schwartz Gutfreund, Chicago, IL",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96462&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96460&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96464&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96465&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8cfad059-ac28-462d-923e-2a534196e01a",
+      "party_type": "Person",
+      "full_name": "Massimo Iosa-Ghini",
+      "cited_name": "Iosa-Ghini, Massimo",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/322574cc-dad0-4dca-b925-f5e1fa5d8cbb",
+      "party_type": "Organization",
+      "full_name": "Memphis",
+      "cited_name": "Memphis",
+      "role": "design collaborative",
+      "nationality": "Italian",
+      "birth_date": "1980-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

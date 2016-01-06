@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "earthenware",
+  "accession_number": "70.32.1884",
+  "id": "cmoa:things/eb29a935-3686-4565-95b8-379e933fee63",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 1.375,
+  "item_depth": 5.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014041",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1694&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8814af2-00bb-48d5-82a4-7caf039beb6c",
+      "party_type": "Organization",
+      "full_name": "Leeds Pottery",
+      "cited_name": "Leeds Pottery",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1874-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

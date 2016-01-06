@@ -1,0 +1,39 @@
+{
+  "title": "Composition with String and Neon",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "plexiglass, rope and neon",
+  "accession_number": "2014.58",
+  "id": "cmoa:things/974885b2-b0e3-4423-be9c-6a39e1c76602",
+  "credit_line": "Gift of the estate of Jane Haskell",
+  "date_acquired": "2014-10-30",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 48.0,
+  "item_height": 42.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104010",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148837&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3c9549c4-60a0-480a-bdff-74e5602c1c89",
+      "party_type": "Person",
+      "full_name": "Jane Haskell",
+      "cited_name": "Haskell, Jane",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Cedarhurst, NY",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Collage",
+  "creation_date": null,
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "collage",
+  "accession_number": "62.10",
+  "id": "cmoa:things/ced7f5d0-a31f-493a-8298-e7082c7a19ba",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1962-02-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011488",
+  "provenance_text": "The artist, Leon Polk Smith, New York; gift to museum, February 1962",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94632&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9ee55dd-ad23-40e8-8789-e7cb067ddb25",
+      "party_type": "Person",
+      "full_name": "Leon Polk Smith",
+      "cited_name": "Smith, Leon P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Chickasha (Grady county, Oklahoma, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Low chair",
+  "creation_date": "designed 1993-95, manufactured 1995- present, 1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "aluminum",
+  "accession_number": "2004.29.2",
+  "id": "cmoa:things/d93b45fc-42e8-4f36-890b-3646428e96c5",
+  "credit_line": "Gift of Sarah Nichols",
+  "date_acquired": "2004-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 36.25,
+  "item_height": 24.75,
+  "item_depth": 19.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9940",
+  "provenance_text": "Bought by Sarah Nichols from Troy, New York City in 1999.  Lent to the Aluminum by Design exhibition (just in Pittsburgh, not the tour) and then lent again for More Aluminum by Design in the Forum Gallery April-July, 2004.",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5512c2f-5988-49af-801c-1b92c431cdb6",
+      "party_type": "Person",
+      "full_name": "Maarten Van Severen",
+      "cited_name": "Van Severen, Maarten",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1949-01-01",
+      "death_date": "2005-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b9e40a5e-108a-4abd-b403-2128083bf606",
+      "party_type": "Organization",
+      "full_name": "Maarten Van Severen Meublen",
+      "cited_name": "Maarten Van Severen Meublen",
+      "role": "manufacturer",
+      "nationality": "Belgian",
+      "birth_date": "1988-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

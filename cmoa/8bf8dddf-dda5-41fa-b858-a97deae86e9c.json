@@ -1,0 +1,51 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "earthenware",
+  "accession_number": "1996.48.1",
+  "id": "cmoa:things/8bf8dddf-dda5-41fa-b858-a97deae86e9c",
+  "credit_line": "Purchase: anonymous gift, by exchange",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.938,
+  "item_depth": 0.0,
+  "item_diameter": 11.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002150",
+  "provenance_text": "The Clay Place, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104719&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11d9e925-9736-4a71-a362-7fa266e00bb4",
+      "party_type": "Person",
+      "full_name": "Gertrud Natzler",
+      "cited_name": "Natzler, Gertrud",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "Vienna",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/6926126f-1827-488c-bdf3-8243a4d6958c",
+      "party_type": "Person",
+      "full_name": "Otto Natzler",
+      "cited_name": "Natzler, Otto",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Vienna (Wien State, Austria)",
+      "death_place": "Los Angeles (Los Angeles county, California, United States)"
+    }
+  ]
+}

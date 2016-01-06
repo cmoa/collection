@@ -1,0 +1,42 @@
+{
+  "title": "Prelude",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "etching",
+  "accession_number": "54.13.24",
+  "id": "cmoa:things/44831868-b06f-473f-a74c-265cb42dbeb1",
+  "credit_line": "Edward Duff Balken Fund",
+  "date_acquired": "1954-03-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009220",
+  "provenance_text": "Raymond & Raymond",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103745&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78878&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/caade596-5323-4be8-a738-215ba651c221",
+      "party_type": "Person",
+      "full_name": "Ferdinand Springer",
+      "cited_name": "Springer, Ferdinand",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1907-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

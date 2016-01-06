@@ -1,0 +1,42 @@
+{
+  "title": "Peculiar Insects (Insectes Singuliers)",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "etching",
+  "accession_number": "60.15",
+  "id": "cmoa:things/4e544d59-2fd3-4362-904a-3a21ed985aa2",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1960-02-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011159",
+  "provenance_text": "Allan Frumkin Gallery, 32 E 57, NYC 22",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107804&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107805&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/216554a6-6fc4-4ad6-a4f8-f8c5b0df5892",
+      "party_type": "Person",
+      "full_name": "James Ensor",
+      "cited_name": "Ensor, James",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1860-01-01",
+      "death_date": "1949-01-01",
+      "birth_place": "Ostend (West-Vlaanderen, Flanders, Belgium)",
+      "death_place": "Ostend (West-Vlaanderen, Flanders, Belgium)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Low Tide: A Stranded Vessel",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "graphite wtih traces of pastel on laid paper",
+  "accession_number": "06.25.1",
+  "id": "cmoa:things/37efd017-cf9e-410c-b222-6268cbe2e182",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000217",
+  "provenance_text": "Alden Twachtman, Greenwich, Connecticut; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85944&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48013&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c9b1daa9-f2a5-40b0-b80b-bfac4a038b9d",
+      "party_type": "Person",
+      "full_name": "John Henry Twachtman",
+      "cited_name": "Twachtman, John H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": "Cincinnati, Ohio",
+      "death_place": "Gloucester, Massachusetts"
+    }
+  ]
+}

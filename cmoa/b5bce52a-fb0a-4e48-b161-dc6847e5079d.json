@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of Yuranosuke, Hero of the Chûshingura Drama",
+  "creation_date": "1852",
+  "creation_date_earliest": "1852-01-01",
+  "creation_date_latest": "1852-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.943",
+  "id": "cmoa:things/b5bce52a-fb0a-4e48-b161-dc6847e5079d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029197",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80527&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26121&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60354333-1fc2-4e38-88d7-6713320fa020",
+      "party_type": "Person",
+      "full_name": "Kuniyoshi Utagawa",
+      "cited_name": "Kuniyoshi Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1861-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

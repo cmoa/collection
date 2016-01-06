@@ -1,0 +1,39 @@
+{
+  "title": "True and Fair",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "70.51",
+  "id": "cmoa:things/ded47609-c592-44d0-9830-ef1ed025298a",
+  "credit_line": "Gift of Paul J. Winschel, Jean Mertz Winschel Memorial",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 56.5,
+  "item_height": 114.5,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015856",
+  "provenance_text": "Andre Emmerich Gallery, New York City, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=283&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32264fcb-eaeb-49c3-ba1f-e96866bd0882",
+      "party_type": "Person",
+      "full_name": "Jack Bush",
+      "cited_name": "Bush, Jack",
+      "role": null,
+      "nationality": "Canadian",
+      "birth_date": "1909-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Toronto (Ontario, Canada)",
+      "death_place": "Toronto (Ontario, Canada)"
+    }
+  ]
+}

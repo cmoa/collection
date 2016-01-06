@@ -1,0 +1,39 @@
+{
+  "title": "Fairy Flowers",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "84.69",
+  "id": "cmoa:things/44197142-79c9-4dec-b47f-e627f8a07a05",
+  "credit_line": "Gift of Alfred M. Hunt",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.375,
+  "item_height": 26.0,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025099",
+  "provenance_text": "Alfred M. Hunt, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25158&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35cc5930-9eb2-450e-8fae-c8b97c9390f7",
+      "party_type": "Person",
+      "full_name": "Marie Laurencin",
+      "cited_name": "Laurencin, Marie",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1885-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

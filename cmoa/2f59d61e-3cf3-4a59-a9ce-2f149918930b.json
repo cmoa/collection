@@ -1,0 +1,39 @@
+{
+  "title": "Plant",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "58.58",
+  "id": "cmoa:things/2f59d61e-3cf3-4a59-a9ce-2f149918930b",
+  "credit_line": "Gift of friends in memory of G. David Thompson",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.625,
+  "item_height": 28.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010895",
+  "provenance_text": "Ellsworth Kelly; Gift of friends in memory of G. David Thompson",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114552&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d546b0cb-517a-4856-a087-9f6d12087851",
+      "party_type": "Person",
+      "full_name": "Ellsworth Kelly",
+      "cited_name": "Kelly, Ellsworth",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": "Newburgh (Orange county, New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

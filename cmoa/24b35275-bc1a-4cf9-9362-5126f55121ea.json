@@ -1,0 +1,39 @@
+{
+  "title": "Dancing School in Honolulu",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "oil on board",
+  "accession_number": "53.26.3",
+  "id": "cmoa:things/24b35275-bc1a-4cf9-9362-5126f55121ea",
+  "credit_line": "Bequest of William J. Strassburger",
+  "date_acquired": "1953-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.625,
+  "item_height": 15.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009159",
+  "provenance_text": "William J. Strassburger, Pittsburgh; bequest to museum, 1953",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149736&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d71782de-8a51-47ad-bba0-95f219a849e6",
+      "party_type": "Person",
+      "full_name": "Martin B. Leisser",
+      "cited_name": "Leisser, Martin B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1845-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

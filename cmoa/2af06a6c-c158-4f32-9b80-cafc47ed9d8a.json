@@ -1,0 +1,39 @@
+{
+  "title": "Pennsylvania Coal Country",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "80.69",
+  "id": "cmoa:things/2af06a6c-c158-4f32-9b80-cafc47ed9d8a",
+  "credit_line": "Purchase: gift of the H. J. Heinz II Charitable and Family Trust",
+  "date_acquired": "1981-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 32.75,
+  "item_height": 26.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021290",
+  "provenance_text": "The artist, until 1980; Childs Gallery, Boston, 1980; Museum purchase: gift of the H. J. Heinz II Charitable and Family trust, 1980",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21475&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/db3b2b61-9845-4528-af87-3f5b4889aab2",
+      "party_type": "Person",
+      "full_name": "Molly Luce",
+      "cited_name": "Luce, Molly",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Little Compton (Newport county, Rhode Island, United States)"
+    }
+  ]
+}

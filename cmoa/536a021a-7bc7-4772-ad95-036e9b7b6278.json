@@ -1,0 +1,51 @@
+{
+  "title": "Constantinus Hugenius [Constantine Huygens]",
+  "creation_date": "c. 1660-1680",
+  "creation_date_earliest": "1660-01-01",
+  "creation_date_latest": "1690-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.4",
+  "id": "cmoa:things/536a021a-7bc7-4772-ad95-036e9b7b6278",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34300",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA, by February 2007; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39207&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9708b2d7-84c0-48de-837f-ba8a217c1861",
+      "party_type": "Person",
+      "full_name": "Abraham Blooteling",
+      "cited_name": "Blooteling, Abraham",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1640-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": " Amsterdam (North Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/29702745-d089-4b0a-9e6e-f3c27bc244bb",
+      "party_type": "Person",
+      "full_name": "Bernard Vaillant",
+      "cited_name": "Vaillant, Bernard",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1632-01-01",
+      "death_date": "1698-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Young Couple",
+  "creation_date": "c. 1853",
+  "creation_date_earliest": "1848-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "daguerreotype",
+  "accession_number": "2009.18.3",
+  "id": "cmoa:things/dfa4842f-3af8-45b0-a78a-9f8748c52cd2",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-04-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.25,
+  "item_height": 2.75,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=80672",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118712&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=82122&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9f1ab7bd-4861-469a-b3e6-9b80e8db02ef",
+      "party_type": "Person",
+      "full_name": "Robert M. Cargo",
+      "cited_name": "Cargo, Robert M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1828-01-01",
+      "death_date": "1902-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Winter in Amsterdam",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "11.1",
+  "id": "cmoa:things/c0b3a705-1d6f-4f12-9491-53a3b0260118",
+  "credit_line": "Purchase",
+  "date_acquired": "1911-01-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.375,
+  "item_height": 39.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000581",
+  "provenance_text": "E. J. van Wisselingh & Co., Amsterdam, until 1911. Purchased by Museum, January 1911.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132508&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132509&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0344d5cc-d4d6-4a25-9bfa-da0acd190828",
+      "party_type": "Person",
+      "full_name": "Georges Hendrik Breitner",
+      "cited_name": "Breitner, Georges Hendrik",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1857-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": "Holland, Rotterdam",
+      "death_place": null
+    }
+  ]
+}

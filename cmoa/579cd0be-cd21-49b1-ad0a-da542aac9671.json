@@ -1,0 +1,39 @@
+{
+  "title": "Ex-Papaya",
+  "creation_date": "1993-2000",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "silver-dye bleach print",
+  "accession_number": "2002.1.2.1",
+  "id": "cmoa:things/579cd0be-cd21-49b1-ad0a-da542aac9671",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2002-02-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 27.75,
+  "item_height": 21.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004428",
+  "provenance_text": "Marian Goodman Gallery, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114330&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4bad882e-f9ce-4633-aa05-351e3d96b3fc",
+      "party_type": "Person",
+      "full_name": "Gabriel Orozco",
+      "cited_name": "Orozco, Gabriel",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": " Jalapa Enríquez (Veracruz, Mexico)",
+      "death_place": null
+    }
+  ]
+}

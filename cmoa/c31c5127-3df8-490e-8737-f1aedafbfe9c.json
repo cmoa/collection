@@ -1,0 +1,39 @@
+{
+  "title": "Uptown View",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "93.118",
+  "id": "cmoa:things/c31c5127-3df8-490e-8737-f1aedafbfe9c",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 83rd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1993-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.75,
+  "item_height": 27.0,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032814",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114755&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32477351-45bf-47ed-aa74-233822e290be",
+      "party_type": "Person",
+      "full_name": "Barry Shields",
+      "cited_name": "Shields, Barry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

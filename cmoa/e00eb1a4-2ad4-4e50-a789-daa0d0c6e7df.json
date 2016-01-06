@@ -1,0 +1,39 @@
+{
+  "title": "Handkerchief",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "lace",
+  "accession_number": "64.16.11",
+  "id": "cmoa:things/e00eb1a4-2ad4-4e50-a789-daa0d0c6e7df",
+  "credit_line": "Gift of Estate of Mrs. Roy A. Hunt",
+  "date_acquired": "1964-10-22",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011779",
+  "provenance_text": "Gift of Estate of Mrs. Roy A. Hunt, 1964.",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11486&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/402f1a7a-6e36-48ae-b46c-3bf18a9af354",
+      "party_type": "Person",
+      "full_name": "unknown Belgian, Brussels",
+      "cited_name": "unknown Belgian, Brussels",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

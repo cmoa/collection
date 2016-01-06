@@ -1,0 +1,37 @@
+{
+  "title": "Fox I",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "offset print",
+  "accession_number": "82.102.1",
+  "id": "cmoa:things/67432a64-e0a5-4868-86e9-0eb52b123e5f",
+  "credit_line": "Gift of Katharine and Nicholas Weber in memory of Gene Baro",
+  "date_acquired": "1983-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022241",
+  "provenance_text": "Katharine And Nicholas Weber, Orange, CT",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e775dbc3-4d12-4ce4-86c2-c9750d6da2bd",
+      "party_type": "Person",
+      "full_name": "Anni Albers",
+      "cited_name": "Albers, Anni",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Berlin (Berlin state, Germany)",
+      "death_place": "Orange (New Haven county, Connecticut, United States)"
+    }
+  ]
+}

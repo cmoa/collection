@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of Sarah Mellon Scaife",
+  "creation_date": "c. 1940-1945",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "66.9.1",
+  "id": "cmoa:things/47955063-8492-4587-8a8a-adcc9c7571ad",
+  "credit_line": "Gift of Mr. and Mrs. Richard M. Scaife",
+  "date_acquired": "1966-09-20",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.5,
+  "item_height": 37.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012285",
+  "provenance_text": "Penguin Court, Ligonier, PA. (Mrs. Scaife's Residence)",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132400&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f1ec4399-00f0-4312-aaee-14e280afcdb6",
+      "party_type": "Person",
+      "full_name": "Gerald L. Brockhurst",
+      "cited_name": "Brockhurst, Gerald L.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1890-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Birmingham (West Midlands, England, United Kingdom)",
+      "death_place": "Franklin Lakes (Bergen county, New Jersey, United States)"
+    }
+  ]
+}

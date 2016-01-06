@@ -1,0 +1,51 @@
+{
+  "title": "Georgiana, Duchess of Devonshire",
+  "creation_date": "1897/1902",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "wood block",
+  "accession_number": "14.7.2",
+  "id": "cmoa:things/4b8137a3-77c6-4e11-a221-7cf3aa703420",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-04-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000961",
+  "provenance_text": "The Century Company",
+  "classification": "printing blocks",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/413da34d-19da-4c40-a3e7-0a56849a6386",
+      "party_type": "Person",
+      "full_name": "Timothy Cole",
+      "cited_name": "Cole, Timothy",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Poughkeepsie (Dutchess county, New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

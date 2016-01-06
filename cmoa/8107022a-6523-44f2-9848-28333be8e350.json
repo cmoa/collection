@@ -1,0 +1,39 @@
+{
+  "title": "Across the Valley",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.31",
+  "id": "cmoa:things/8107022a-6523-44f2-9848-28333be8e350",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012897",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c08771ae-0766-45b7-9e27-992ec8aba2de",
+      "party_type": "Person",
+      "full_name": "George A. Bradshaw",
+      "cited_name": "Bradshaw, George A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Trenton, NJ",
+      "death_place": "Trenton, NJ"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Nativity",
+  "creation_date": "1888",
+  "creation_date_earliest": "1888-01-01",
+  "creation_date_latest": "1888-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1997.26.2",
+  "id": "cmoa:things/05ad5ca1-0128-4c0a-b3c8-fc85a902897b",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "1997-06-05",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 5, Scaife Galleries",
+  "item_width": 136.5,
+  "item_height": 93.25,
+  "item_depth": 6.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003074",
+  "provenance_text": "Sir Edward Coley Burne-Jones [1833-1898]; commissioned by Church of St John the Apostle [1861-], Toquay, England, in 1888; (sold at Sotheby's, London, England, November 21, 1989, lot 31); Lord Andrew Lloyd Webber [1948-], London, November 21, 1989 until 1997; purchased by Carnegie Museum of Art, Pittsburgh, PA, February 1997.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22684&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56851&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee5bdc49-422d-49c4-a897-a2a46075f890",
+      "party_type": "Person",
+      "full_name": "Sir Edward Coley Burne-Jones",
+      "cited_name": "Burne-Jones, Edward Coley",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1833-01-01",
+      "death_date": "1898-01-01",
+      "birth_place": "Birmingham (West Midlands, England, United Kingdom)",
+      "death_place": "London"
+    }
+  ]
+}

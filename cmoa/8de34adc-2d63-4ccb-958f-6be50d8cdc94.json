@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "c. 1755-1765",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "2000.67.7",
+  "id": "cmoa:things/8de34adc-2d63-4ccb-958f-6be50d8cdc94",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "2000-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.875,
+  "item_height": 1.5,
+  "item_depth": 9.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004132",
+  "provenance_text": "Mrs. Fred C. Foy, Ligonier, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3148&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9577f71b-1ab0-4fe6-9250-b3f73207f94b",
+      "party_type": "Organization",
+      "full_name": "Nymphenburg Porcelain Factory",
+      "cited_name": "Nymphenburg Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1747-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

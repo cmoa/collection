@@ -1,0 +1,54 @@
+{
+  "title": "Double-Pale Ladies",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "raku",
+  "accession_number": "1998.48.A-B",
+  "id": "cmoa:things/cbd96d9f-7e81-4918-af2b-e4f811d988c5",
+  "credit_line": "Gift of the Clay Place",
+  "date_acquired": "1998-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 59.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003759",
+  "provenance_text": "Steven Kemenyffy, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101844&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101845&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/823a610f-ea6e-4371-9410-6ea229daed7d",
+      "party_type": "Person",
+      "full_name": "Steven Kemenyffy",
+      "cited_name": "Kemenyffy, Steven",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Hungary",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/63e95b3d-d040-42a1-a4b7-ccd912b235ae",
+      "party_type": "Person",
+      "full_name": "Susan Hale Kemenyffy",
+      "cited_name": "Kemenyffy, Susan H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Springfield, MA",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Frontispiece for \"The Works of Virgil\"",
+  "creation_date": "1641",
+  "creation_date_earliest": "1641-01-01",
+  "creation_date_latest": "1641-01-01",
+  "medium": "engraving",
+  "accession_number": "26.1.121",
+  "id": "cmoa:things/9b6c54b9-f7d6-454e-8f68-49265005ecd4",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1926-01-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.125,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005342",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105481&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d6bfca0-b5eb-4b87-82a6-4d2522486a5d",
+      "party_type": "Person",
+      "full_name": "Claude Mellan",
+      "cited_name": "Mellan, Claude",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1598-01-01",
+      "death_date": "1688-01-01",
+      "birth_place": "Abbeville, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/05a50466-ae4f-4b7f-9181-c5a5e821eae2",
+      "party_type": "Person",
+      "full_name": "Nicolas Poussin",
+      "cited_name": "Poussin, Nicolas",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1594-01-01",
+      "death_date": "1665-01-01",
+      "birth_place": "Les Andelys (Eure, Haute-Normandie, France)",
+      "death_place": "Rome, Italy"
+    }
+  ]
+}

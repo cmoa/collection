@@ -1,0 +1,37 @@
+{
+  "title": "Perfume bottle",
+  "creation_date": "1928",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1928-01-01",
+  "medium": "pressed glass",
+  "accession_number": "73.34.A-B",
+  "id": "cmoa:things/ed49cb18-0145-450f-9563-edb6cca71b5e",
+  "credit_line": "Gift of Jeannette F. Seneff",
+  "date_acquired": "1973-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 3.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016716",
+  "provenance_text": "Jeannette F. Seneff",
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb2c9ab-3c4d-4ad6-ac1b-f34ac7b0b228",
+      "party_type": "Person",
+      "full_name": "René Lalique",
+      "cited_name": "Lalique, René",
+      "role": "workshop of",
+      "nationality": "French",
+      "birth_date": "1860-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cottage Interior at Stirling",
+  "creation_date": "1817",
+  "creation_date_earliest": "1817-01-01",
+  "creation_date_latest": "1817-01-01",
+  "medium": "pencil on grey stock",
+  "accession_number": "59.10.3",
+  "id": "cmoa:things/17093a86-0e1d-47a8-8e37-b2981ae4dc2a",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.125,
+  "item_height": 15.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010943",
+  "provenance_text": "Gift of Mr. and Mrs. Charles J. Rosenbloom, 1959.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133256&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3bbd259-340c-42e7-8faa-befe401f86e4",
+      "party_type": "Person",
+      "full_name": "Sir David Wilkie",
+      "cited_name": "Wilkie, David",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1785-01-01",
+      "death_date": "1841-01-01",
+      "birth_place": "Cults (Aberdeen, Scotland, United Kingdom)",
+      "death_place": "Malta"
+    }
+  ]
+}

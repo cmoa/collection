@@ -1,0 +1,45 @@
+{
+  "title": "Armchair",
+  "creation_date": "1897",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "stained oak",
+  "accession_number": "2006.13",
+  "id": "cmoa:things/5541dc3a-ab58-4738-8d9f-035bf465500b",
+  "credit_line": "Ailsa Mellon Bruce Fund in honor of Sarah Nichols, Curator of Decorative Arts",
+  "date_acquired": "2006-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 24.75,
+  "item_height": 54.0,
+  "item_depth": 18.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=22542",
+  "provenance_text": "Argyle Street Tea Rooms, Smoking and Billiards Rooms, Glasgow, Scotland; \nFine Arts Society, London, 1985;\nWilliam S. and Ellen Taubman, \nNY; H. Blairman & Sons, Ltd.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25015&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25013&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25010&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c07ccc1d-44e8-4954-910c-7c4d04ee6885",
+      "party_type": "Person",
+      "full_name": "Charles Rennie Mackintosh",
+      "cited_name": "Mackintosh, Charles Rennie",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1868-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

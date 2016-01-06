@@ -1,0 +1,39 @@
+{
+  "title": "The Storm",
+  "creation_date": "c. 1898",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "charcoal on board",
+  "accession_number": "07.9",
+  "id": "cmoa:things/17d907f7-9986-4378-b6d8-910f4186cdd0",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-01-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000323",
+  "provenance_text": "Sadakichi Hartmann, Bronx, New York, until 1907; acquired by museum, January 1907",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85931&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/150d530a-adc7-48bd-b483-1331863da611",
+      "party_type": "Person",
+      "full_name": "Robert Loftin Newman",
+      "cited_name": "Newman, Robert L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1827-01-01",
+      "death_date": "1912-01-01",
+      "birth_place": "Richmond, VA",
+      "death_place": "New York"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Garmisch-Partenkirchen",
+  "creation_date": "c. 1933-1934",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on board",
+  "accession_number": "59.1",
+  "id": "cmoa:things/0acc2e02-fdd8-407a-bb1c-f78b499d73ca",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1959-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 18.25,
+  "item_height": 29.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010963",
+  "provenance_text": "Alzira Peirce [1908-2010], Bangor, ME, 1939? until 1940. (Bertha Schaefer Gallery, New York, by 1950); Mrs. James H. Beal, Pittsburgh, by 1951; gift to Museum, 1959.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13821&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119268&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6119bdab-2c33-4f8d-b343-489c96571872",
+      "party_type": "Person",
+      "full_name": "Marsden Hartley",
+      "cited_name": "Hartley, Marsden",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

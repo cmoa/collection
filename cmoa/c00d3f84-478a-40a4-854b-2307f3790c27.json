@@ -1,0 +1,39 @@
+{
+  "title": "The Pet Monkey",
+  "creation_date": "late 18th century",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "77.31.5",
+  "id": "cmoa:things/c00d3f84-478a-40a4-854b-2307f3790c27",
+  "credit_line": "Gift of Dr. and Mrs. James B. Austin",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.75,
+  "item_height": 27.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018570",
+  "provenance_text": "Gift of Dr. and Mrs. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby & Co., London, Vever II collection sale 3/26/1975, No. 283,  Lot 77.\nFrom the collection of Henri Vever.  See Luht 1381 A and 2491 A.\nPurchased by Dr. Austin at auction at Sotheby & Co., London, 3/19/1962, Lot 28 through Bluett & Sons, London.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107510&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/00564d43-4c5a-4b25-8095-fd4d8959a50f",
+      "party_type": "Person",
+      "full_name": "Koryusai Isoda",
+      "cited_name": "Koryusai Isoda",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

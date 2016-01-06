@@ -1,0 +1,39 @@
+{
+  "title": "Allegory of Life (The Dream of Raphael)",
+  "creation_date": "1561",
+  "creation_date_earliest": "1560-12-22",
+  "creation_date_latest": "1560-12-22",
+  "medium": "engraving on paper",
+  "accession_number": "2004.6",
+  "id": "cmoa:things/400de9af-0c44-4f65-9d34-2738c5b0eeab",
+  "credit_line": "Charles J. Rosenbloom and Leisser Art Fund",
+  "date_acquired": "2004-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6717",
+  "provenance_text": "Richard Fisher (1809-1890), Lugt 2205\nR.E. Lewis \nGertrude Weber\nJan Johnson, Montreal, Quebec, Canada",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8f45f245-93e4-4f64-9d67-f79134ce514e",
+      "party_type": "Person",
+      "full_name": "Giorgio Ghisi",
+      "cited_name": "Ghisi, Giorgio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1520-01-01",
+      "death_date": "1582-01-01",
+      "birth_place": "Mantua (Mantova province, Lombardy, Italy)",
+      "death_place": null
+    }
+  ]
+}

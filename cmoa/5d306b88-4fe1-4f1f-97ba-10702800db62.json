@@ -1,0 +1,39 @@
+{
+  "title": "The Residence of David Twining",
+  "creation_date": "c. 1845-1846",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1846-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.39",
+  "id": "cmoa:things/5d306b88-4fe1-4f1f-97ba-10702800db62",
+  "credit_line": "Howard N. Eavenson Memorial Fund for the Howard N. Eavenson Americana Collection",
+  "date_acquired": "1962-12-20",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 29.5,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011582",
+  "provenance_text": "Sarah Twining [1]; Francis William Carpenter [2]; his daughters, North Grenwich Congregational Church, Greenwich, CT, by 1961. M. Knoedler and Co. [1848-2011], New York, 1961; purchased by Museum, 1962. \nNOTES:1. granddaughter of David Twining 2. descendent of David Twining",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132415&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/366e74dc-398a-4729-84da-940bc130805a",
+      "party_type": "Person",
+      "full_name": "Edward Hicks",
+      "cited_name": "Hicks, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1780-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

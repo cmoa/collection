@@ -1,0 +1,60 @@
+{
+  "title": "Flower pot",
+  "creation_date": "1754",
+  "creation_date_earliest": "1754-01-01",
+  "creation_date_latest": "1754-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "88.6.1",
+  "id": "cmoa:things/ea6615dd-1303-4c86-98cd-d3685932a6a0",
+  "credit_line": "Ailsa Mellon Bruce Fund, John Berdan Memorial Fund, and gift of Thomas E. Rassieur",
+  "date_acquired": "1988-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 19, Bruce Galleries",
+  "item_width": 4.5,
+  "item_height": 5.625,
+  "item_depth": 4.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5770",
+  "provenance_text": "Alexander and Berendt, Ltd., London, England, UK",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97884&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97881&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23061&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28384&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d88cacab-4fab-4180-9b44-caf236b32e12",
+      "party_type": "Person",
+      "full_name": "Louis-Denis Armand l'aîné",
+      "cited_name": "Armand l'aîné, Louis-Denis",
+      "role": "painter",
+      "nationality": "French",
+      "birth_date": "1720-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e059a0be-8871-4d35-b1d8-3e208a9b1676",
+      "party_type": "Organization",
+      "full_name": "Vincennes Porcelain Manufactory",
+      "cited_name": "Vincennes Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1730-01-01",
+      "death_date": "1756-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

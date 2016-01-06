@@ -1,0 +1,51 @@
+{
+  "title": "Soup dish (Beauties of America...)",
+  "creation_date": "c. 1814-1830",
+  "creation_date_earliest": "1809-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "transfer printed glazed earthenware",
+  "accession_number": "19.1.52",
+  "id": "cmoa:things/817a0a31-b800-4701-9c43-3b89fffadd3f",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.437,
+  "item_depth": 0.0,
+  "item_diameter": 9.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001964",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1065&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fd2396db-6789-4c1b-a16c-35561d535502",
+      "party_type": "Person",
+      "full_name": "John Ridgway",
+      "cited_name": "Ridgway, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1814-01-01",
+      "death_date": "1830-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0e9663b8-c07b-4d8e-9626-4246b6e2e236",
+      "party_type": "Person",
+      "full_name": "William Ridgway",
+      "cited_name": "Ridgway, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1814-01-01",
+      "death_date": "1830-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

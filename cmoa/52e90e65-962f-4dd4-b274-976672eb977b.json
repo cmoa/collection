@@ -1,0 +1,45 @@
+{
+  "title": "Landscape and Cows-The Road to Blaricum",
+  "creation_date": "c.1880-1885",
+  "creation_date_earliest": "1858-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "03.2",
+  "id": "cmoa:things/52e90e65-962f-4dd4-b274-976672eb977b",
+  "credit_line": "Purchase",
+  "date_acquired": "1903-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.063,
+  "item_height": 53.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000102",
+  "provenance_text": "E. Glaenzer and Co., New York, by 1903. Purchased by Museum, 1903.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126413&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126414&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=398&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5729e58-ee59-4abf-8655-c1eac5d4d388",
+      "party_type": "Person",
+      "full_name": "Anton Mauve",
+      "cited_name": "Mauve, Anton",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1838-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": "Zaandam, North Holland, Netherlands",
+      "death_place": "Arnhem, Netherlands"
+    }
+  ]
+}

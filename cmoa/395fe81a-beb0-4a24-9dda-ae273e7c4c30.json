@@ -1,0 +1,39 @@
+{
+  "title": "Black Table",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "70.54.2",
+  "id": "cmoa:things/395fe81a-beb0-4a24-9dda-ae273e7c4c30",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.5,
+  "item_height": 57.125,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015871",
+  "provenance_text": "Mr. and Mrs. Charles Denby, Sewickley, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2917&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac742c0c-7a67-42fd-8cd3-f05d83871133",
+      "party_type": "Person",
+      "full_name": "Richard Diebenkorn",
+      "cited_name": "Diebenkorn, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": " Portland (Multnomah county, Oregon, United States)",
+      "death_place": "Healdsburg, California"
+    }
+  ]
+}

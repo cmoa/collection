@@ -1,0 +1,39 @@
+{
+  "title": "The Hecklers",
+  "creation_date": "1943-1944",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.129",
+  "id": "cmoa:things/4d4f62dd-fb9a-463b-aac6-5d94d19ac647",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012702",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108196&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/19536565-67c6-40b4-bded-8b5a00598950",
+      "party_type": "Person",
+      "full_name": "Joseph Hirsch",
+      "cited_name": "Hirsch, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "New York, NY"
+    }
+  ]
+}

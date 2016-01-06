@@ -1,0 +1,54 @@
+{
+  "title": "Wells Cup",
+  "creation_date": "1772",
+  "creation_date_earliest": "1772-01-01",
+  "creation_date_latest": "1772-01-01",
+  "medium": "gilded silver",
+  "accession_number": "85.8.A-B",
+  "id": "cmoa:things/14628a3f-60f3-489a-924a-3e2c3425a1ff",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "1985-04-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 12.5,
+  "item_height": 17.75,
+  "item_depth": 7.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025816",
+  "provenance_text": "Brand Inglis, Ltd., England, London",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28766&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5116&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f004b630-dd92-4f4e-987d-ec24db389f46",
+      "party_type": "Collaboration",
+      "full_name": "Daniel Smith and Robert Sharp",
+      "cited_name": "Smith, Daniel and Sharp, Robert",
+      "role": "silversmiths",
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1788-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1987f513-f63f-4fa0-9362-78523442aca8",
+      "party_type": "Person",
+      "full_name": "William Pickett",
+      "cited_name": "Pickett, William",
+      "role": "retailer",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

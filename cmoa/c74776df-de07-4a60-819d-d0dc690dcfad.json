@@ -1,0 +1,39 @@
+{
+  "title": "Three Pears (Yônashi mittsu)",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.784",
+  "id": "cmoa:things/c74776df-de07-4a60-819d-d0dc690dcfad",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 14.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028941",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35365&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ec3423f-7fb6-4e79-ae90-d98002445e7b",
+      "party_type": "Person",
+      "full_name": "Kidokoro Sho",
+      "cited_name": "Kidokoro Sho",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1934-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

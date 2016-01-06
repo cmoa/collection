@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "1705-1706",
+  "creation_date_earliest": "1705-01-01",
+  "creation_date_latest": "1706-01-01",
+  "medium": "silver, britannia standard",
+  "accession_number": "70.32.2413",
+  "id": "cmoa:things/65ad19ae-88d1-4898-ab17-9d33a2ebcf28",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 6.125,
+  "item_depth": 4.62,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014624",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5936&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e459b23-9382-48c9-b707-54bb459b4634",
+      "party_type": "Person",
+      "full_name": "Matthew Cooper I",
+      "cited_name": "Cooper, Matthew",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1702-01-01",
+      "death_date": "1731-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

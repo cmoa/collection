@@ -1,0 +1,39 @@
+{
+  "title": "Jarlet",
+  "creation_date": "14th-15th century",
+  "creation_date_earliest": "1299-12-25",
+  "creation_date_latest": "1498-12-23",
+  "medium": "porcelain",
+  "accession_number": "79.29.1",
+  "id": "cmoa:things/3b0bd2fa-0b4c-45b4-b8d0-685001867493",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1979-10-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.188,
+  "item_depth": 0.0,
+  "item_diameter": 3.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020290",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6de58d67-152b-4443-8cba-71c3c9620212",
+      "party_type": "Person",
+      "full_name": "unknown Thai",
+      "cited_name": "unknown Thai",
+      "role": null,
+      "nationality": "Thai",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

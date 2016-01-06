@@ -1,0 +1,39 @@
+{
+  "title": "Instinct",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "porcelain",
+  "accession_number": "2000.56",
+  "id": "cmoa:things/30a1c529-b7b9-437c-82a3-0025cbd7443b",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2000-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 21.5,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004098",
+  "provenance_text": "Ferrin Gallery, Groton-on-Hudson, New York",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12042&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/18328bad-802c-4f40-9284-c76ebf88c912",
+      "party_type": "Person",
+      "full_name": "Sergei Isupov",
+      "cited_name": "Isupov, Sergei",
+      "role": null,
+      "nationality": "Estonian",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

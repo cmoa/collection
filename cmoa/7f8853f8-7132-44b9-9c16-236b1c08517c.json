@@ -1,0 +1,39 @@
+{
+  "title": "Shiohama",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.813",
+  "id": "cmoa:things/7f8853f8-7132-44b9-9c16-236b1c08517c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 6.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028975",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35419&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ac81653-8798-4d63-b14a-5b6e730afc80",
+      "party_type": "Person",
+      "full_name": "Kobayashi Kiyomitsu",
+      "cited_name": "Kobayashi Kiyomitsu",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1880-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

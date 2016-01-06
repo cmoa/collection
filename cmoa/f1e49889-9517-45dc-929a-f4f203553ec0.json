@@ -1,0 +1,39 @@
+{
+  "title": "The Copyist",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "gouache, watercolor, and glue on paper",
+  "accession_number": "2006.4",
+  "id": "cmoa:things/f1e49889-9517-45dc-929a-f4f203553ec0",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2006-02-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 23.375,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=20478",
+  "provenance_text": "Artist\nRegen Projects, Los Angeles, CA",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23207&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9acb98eb-279f-441f-8717-df1106e778ef",
+      "party_type": "Person",
+      "full_name": "Paul Sietsema",
+      "cited_name": "Sietsema, Paul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1968-01-01",
+      "death_date": null,
+      "birth_place": "Los Angeles, California",
+      "death_place": null
+    }
+  ]
+}

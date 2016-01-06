@@ -1,0 +1,51 @@
+{
+  "title": "Airport Building, Rhode Island State Airport, RI; [exterior perspective]",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "photographic reproduction of drawing",
+  "accession_number": "93.124.27",
+  "id": "cmoa:things/6f649b23-4b23-4009-a2fb-668ffacb453d",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-10-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 9.125,
+  "item_height": 3.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032868",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116848&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/34fafef9-0d9d-4766-8579-6c43afc7f4ca",
+      "party_type": "Organization",
+      "full_name": "Holden and Stott",
+      "cited_name": "Holden and Stott",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c8486e65-5623-4810-9f8c-00592dce1415",
+      "party_type": "Person",
+      "full_name": "Robert Doulton Stott",
+      "cited_name": "Stott, Robert D.",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

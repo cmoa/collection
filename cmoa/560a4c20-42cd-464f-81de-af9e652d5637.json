@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "c. 1929",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "76.52",
+  "id": "cmoa:things/560a4c20-42cd-464f-81de-af9e652d5637",
+  "credit_line": "Gift of Mabel Tito Simboli in memory of Raymond Simboli",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 30.0,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018160",
+  "provenance_text": "Raymond Simboli [1894-1964], until 1964; Mabel Tito Simboli, his widow; gift to Museum, in 1976.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103934&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89c2e623-a0fb-458f-a0a7-83daa50eb6c7",
+      "party_type": "Person",
+      "full_name": "Raymond Simboli",
+      "cited_name": "Simboli, Raymond",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pescina (L'Aquila province, Abruzzi, Italy)",
+      "death_place": "Neenah (Winnebago county, Wisconsin, United States)"
+    }
+  ]
+}

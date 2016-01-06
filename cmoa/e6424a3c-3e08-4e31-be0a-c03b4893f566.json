@@ -1,0 +1,51 @@
+{
+  "title": "Bottiglie morandiane",
+  "creation_date": "c. 1948-1952",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "glass, blown with incalmo",
+  "accession_number": "2007.13.A-.B",
+  "id": "cmoa:things/e6424a3c-3e08-4e31-be0a-c03b4893f566",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2007-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 0.0,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 4.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=27827",
+  "provenance_text": "Private collection, before 2007; (Odelas Antiques), Union City, NJ, Odetto Lastra, as agent, 2007; Purchased by Carnegie Museum of Art, 2007. \n\nTBF November 5, 2014.",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=40200&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d0e323b5-bfe7-457e-9776-b6d348d82e7f",
+      "party_type": "Person",
+      "full_name": "Gio Ponti",
+      "cited_name": "Ponti, Gio",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1891-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Milan (Milano province, Lombardy, Italy)",
+      "death_place": "Milan (Milano province, Lombardy, Italy)"
+    },
+    {
+      "artist_id": "cmoa:parties/4c5d08c0-e7dd-4e76-a08d-7f702956c789",
+      "party_type": "Organization",
+      "full_name": "Venini & C.",
+      "cited_name": "Venini & C.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1929-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "By the River",
+  "creation_date": "c. 1912",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1996.44",
+  "id": "cmoa:things/3cd15553-598d-4b0c-8811-49e187fb6fd6",
+  "credit_line": "Gift of Mrs. Edward Pitcairn and Dr. Jacob Goldblum, by exchange and purchased with Paintings Acquisition Fund",
+  "date_acquired": "1996-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 56.0,
+  "item_height": 50.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002141",
+  "provenance_text": "Edward W. Redfield [1869-1965]; purchased by Sigmund Ojserkis [1870?-1943], Atlantic City, NJ, April 1, 1914 [1]. University Club, Pittsburgh, PA, until June 1996; purchased by Museum, June 1996. \nNOTES: [1] For background on this provenance, see correspondance with archivist of Pennsylvania Academy of the Fine Arts in curatorial file. This work was in the 109th Annual Exhibition at the PAFA in 1914, and was sold to Ojserkis from the exhibition for $2,500.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115374&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=23529&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c9636d4-514b-4b1b-abaa-abd988e80a6d",
+      "party_type": "Person",
+      "full_name": "Edward W. Redfield",
+      "cited_name": "Redfield, Edward W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Bridgeville (Sussex county, Delaware, United States)",
+      "death_place": null
+    }
+  ]
+}

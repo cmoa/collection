@@ -1,0 +1,37 @@
+{
+  "title": "Naiad",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "53.24.2",
+  "id": "cmoa:things/3469d01d-c530-4899-b742-42cdbbce3bec",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 27.875,
+  "item_height": 33.875,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009152",
+  "provenance_text": "Nierendorf Gallery, New York, by 1945; J. B. Neumann, New York, 1945; G. David Thompson, Pittsburgh, by 1953; gift to museum, 1953",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bb57eeed-0d30-493c-a72d-c42314750d17",
+      "party_type": "Person",
+      "full_name": "Adolph Gottlieb",
+      "cited_name": "Gottlieb, Adolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

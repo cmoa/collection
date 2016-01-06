@@ -1,0 +1,39 @@
+{
+  "title": "The Soul of the Tiger",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "enamel, rope carpet, wood and industrial sealing compound",
+  "accession_number": "2000.64",
+  "id": "cmoa:things/095fcb40-e548-4c9b-8efb-16903b53a765",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2000-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 65.0,
+  "item_height": 36.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004115",
+  "provenance_text": "Gift of Carol and Herbert Diamond, Pittsburgh, PA, 2000.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5289&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/205df707-b010-427f-8cc0-2ff8fe328e36",
+      "party_type": "Person",
+      "full_name": "Thorton Dial, Sr.",
+      "cited_name": "Dial, Thorton Sr.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Emelle (Sumter county, Alabama, United States)",
+      "death_place": null
+    }
+  ]
+}

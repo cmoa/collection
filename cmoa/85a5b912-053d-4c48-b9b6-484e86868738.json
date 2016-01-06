@@ -1,0 +1,39 @@
+{
+  "title": "Martha Graham-Ekstasis",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.89.20",
+  "id": "cmoa:things/85a5b912-053d-4c48-b9b6-484e86868738",
+  "credit_line": "Gift of Derwood S. Chase, Jr.",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 15.875,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025363",
+  "provenance_text": "The Martin S. Ackerman Foundation, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13258&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0acbed7f-2efd-4161-a719-eecb78aead64",
+      "party_type": "Person",
+      "full_name": "Barbara Morgan",
+      "cited_name": "Morgan, Barbara",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Buffalo (Wilson county, Kansas, United States)",
+      "death_place": "Sleepy Hollow (Westchester county, New York state, United States)"
+    }
+  ]
+}

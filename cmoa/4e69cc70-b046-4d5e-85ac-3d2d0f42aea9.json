@@ -1,0 +1,39 @@
+{
+  "title": "Reckless Eyeballs",
+  "creation_date": "2006",
+  "creation_date_earliest": "2006-01-01",
+  "creation_date_latest": "2006-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2008.84",
+  "id": "cmoa:things/4e69cc70-b046-4d5e-85ac-3d2d0f42aea9",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2008-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=77474",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76448&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2201648b-aaf0-4a1e-9d26-690a502c8a62",
+      "party_type": "Person",
+      "full_name": "John Waters",
+      "cited_name": "Waters, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

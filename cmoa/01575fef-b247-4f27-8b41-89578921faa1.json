@@ -1,0 +1,45 @@
+{
+  "title": "The Hand of God",
+  "creation_date": "1896-1908 (modeled), 1909-18 (cast)",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "bronze",
+  "accession_number": "20.14.5",
+  "id": "cmoa:things/01575fef-b247-4f27-8b41-89578921faa1",
+  "credit_line": "Purchase",
+  "date_acquired": "1920-05-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 24.5,
+  "item_height": 38.0,
+  "item_depth": 17.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004507",
+  "provenance_text": "Musée Rodin [1919-], Paris, until 1920; purchased by Museum, 1920.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115944&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107482&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101716&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dec87be6-b8ac-434e-afcb-c0e7c3e742be",
+      "party_type": "Person",
+      "full_name": "Auguste Rodin",
+      "cited_name": "Rodin, Auguste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Meudon (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

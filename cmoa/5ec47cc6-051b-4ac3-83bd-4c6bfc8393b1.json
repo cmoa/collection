@@ -1,0 +1,39 @@
+{
+  "title": "The Flagellation of Christ",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1617-01-01",
+  "creation_date_latest": "1637-01-01",
+  "medium": "sepia drawing",
+  "accession_number": "23.12.41",
+  "id": "cmoa:things/5ec47cc6-051b-4ac3-83bd-4c6bfc8393b1",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.187,
+  "item_height": 5.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004851",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99685&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/52352b74-bd1d-434c-8df1-e832f0e20d59",
+      "party_type": "Person",
+      "full_name": "Theodor Rombouts",
+      "cited_name": "Rombouts, Theodor",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1597-01-01",
+      "death_date": "1637-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

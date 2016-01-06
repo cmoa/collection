@@ -1,0 +1,39 @@
+{
+  "title": "Flowers in Green Vase",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "46.21",
+  "id": "cmoa:things/4c3ac76b-560c-4fca-8062-211520ecfc9c",
+  "credit_line": "Gift of Mrs. Beram D. Saklatwalla in memory of Beram D. Saklatwalla",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 17.25,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007824",
+  "provenance_text": "Odilon Redon [1840-1916]. Dr. Beram D. Saklatwalla, by 1931; Dr. and Mrs. Beram D. Saklatwalla, until 1944; Mrs. Beram D. Saklatwalla, 1944 until 1946 [1]; gift to Museum, June 1946. \n\nNOTES: [1].  Ann Richards Saklatwalla.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113225&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1286dae7-b536-4578-af8e-6980bb190a49",
+      "party_type": "Person",
+      "full_name": "Odilon Redon",
+      "cited_name": "Redon, Odilon",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1840-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": "Bordeaux, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

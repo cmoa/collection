@@ -1,0 +1,39 @@
+{
+  "title": "V8",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "painted earthenware",
+  "accession_number": "2000.15",
+  "id": "cmoa:things/24aa4958-a22a-449b-9f0a-b21a01eb19bc",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "2000-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 7.0,
+  "item_height": 7.75,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003995",
+  "provenance_text": "John Axelrod, Boston",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38146&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32925b7e-e156-4b93-ab44-9660bca7f9ea",
+      "party_type": "Person",
+      "full_name": "Ken Price",
+      "cited_name": "Price, Ken",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Los Angeles, California",
+      "death_place": null
+    }
+  ]
+}

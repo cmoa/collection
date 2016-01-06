@@ -1,0 +1,39 @@
+{
+  "title": "Tiger",
+  "creation_date": "1887",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "photogravure",
+  "accession_number": "74.42.19",
+  "id": "cmoa:things/98ff61d8-0e4a-4dc1-98b2-a14aa9f21193",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 17.562,
+  "item_height": 6.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017015",
+  "provenance_text": "The 831 Gallery, Birmingham, MI",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/469d8ece-008e-4048-82ee-db8408833140",
+      "party_type": "Person",
+      "full_name": "Eadweard Muybridge",
+      "cited_name": "Muybridge, Eadweard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Kingston upon Thames (Greater London, England, United Kingdom)",
+      "death_place": "Kingston upon Thames (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait",
+  "creation_date": "c. 1853",
+  "creation_date_earliest": "1848-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "oil on board",
+  "accession_number": "54.20",
+  "id": "cmoa:things/12ecf68a-ce0b-40f9-9e5b-a5e68268f23d",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1954-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 20.75,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009242",
+  "provenance_text": "G. David Thompson, Pittsburgh, by 1954; gift to museum, 1954",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=461&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8f4d585-b31a-4b38-8ed2-fa0f2715d75e",
+      "party_type": "Person",
+      "full_name": "Jasper Holman Lawman",
+      "cited_name": "Lawman, Jasper H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": " Ohio (United States)",
+      "death_place": " Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

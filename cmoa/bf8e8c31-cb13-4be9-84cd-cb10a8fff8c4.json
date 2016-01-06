@@ -1,0 +1,39 @@
+{
+  "title": "(Industry: Gateway Center, Hercules Power Office)",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.27",
+  "id": "cmoa:things/bf8e8c31-cb13-4be9-84cd-cb10a8fff8c4",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 10.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025924",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2fda7931-f3f0-420c-b738-9b9b3c76cb9f",
+      "party_type": "Person",
+      "full_name": "Harold Corsini",
+      "cited_name": "Corsini, Harold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "New York City, New York",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

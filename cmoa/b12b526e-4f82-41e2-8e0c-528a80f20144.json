@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "blown glass",
+  "accession_number": "2003.42.10",
+  "id": "cmoa:things/b12b526e-4f82-41e2-8e0c-528a80f20144",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5247",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12083&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8078&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7ef4e40-f932-4ee7-9ab5-2114cb631d28",
+      "party_type": "Person",
+      "full_name": "Dominick Labino",
+      "cited_name": "Labino, Dominick",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Fairmont City (Clarion county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

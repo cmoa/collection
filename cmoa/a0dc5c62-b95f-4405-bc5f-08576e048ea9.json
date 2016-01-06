@@ -1,0 +1,42 @@
+{
+  "title": "Knowledge is Power",
+  "creation_date": "1837",
+  "creation_date_earliest": "1837-01-01",
+  "creation_date_latest": "1837-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.21.21.A-.B",
+  "id": "cmoa:things/a0dc5c62-b95f-4405-bc5f-08576e048ea9",
+  "credit_line": "Bequest of Edgar W. and Bernice Chrysler Garbisch",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 51.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021761",
+  "provenance_text": "Found in Reading, PA; Edgar Sittig, Shawnee on Delaware, Pa.; Edgar W. and Bernice Chrysler Garbisch, Cambridge, MD, 1950; bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149489&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149490&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

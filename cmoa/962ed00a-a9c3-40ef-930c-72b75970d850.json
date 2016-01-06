@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Kitty",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "bronze on black marble base",
+  "accession_number": "74.7.31",
+  "id": "cmoa:things/962ed00a-a9c3-40ef-930c-72b75970d850",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.75,
+  "item_height": 23.375,
+  "item_depth": 13.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017499",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117515&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e461217a-32a5-4944-8041-72cf438d6c1d",
+      "party_type": "Person",
+      "full_name": "Sir Jacob Epstein",
+      "cited_name": "Epstein, Jacob",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1880-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

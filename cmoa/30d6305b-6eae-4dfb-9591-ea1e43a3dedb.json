@@ -1,0 +1,51 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1958/1978",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "sterling silver, black plastic",
+  "accession_number": "79.16",
+  "id": "cmoa:things/30d6305b-6eae-4dfb-9591-ea1e43a3dedb",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Alan G. Lehman",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 7.75,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020239",
+  "provenance_text": "Reed and Barton Silversmiths, Taunton, MA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4908&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93c104a0-75b4-4347-9415-47547f2e66af",
+      "party_type": "Person",
+      "full_name": "John A. Prip",
+      "cited_name": "Prip, John A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "New York",
+      "death_place": "Rhode Island"
+    },
+    {
+      "artist_id": "cmoa:parties/580be9da-6784-4007-a258-da3fa7dc492e",
+      "party_type": "Organization",
+      "full_name": "Reed & Barton",
+      "cited_name": "Reed & Barton",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

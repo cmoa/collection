@@ -1,0 +1,39 @@
+{
+  "title": "Desk",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "birch, birch veneer, and aluminum",
+  "accession_number": "93.143",
+  "id": "cmoa:things/6a4f7799-7e1c-4cf7-872e-c0a1c6dc5384",
+  "credit_line": "Gift of East End Galleries",
+  "date_acquired": "1993-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 42.75,
+  "item_height": 29.625,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032975",
+  "provenance_text": "East End Galleries, Pittsburgh, PA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6738&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ae543269-6936-49a2-bc94-b956a5bcb37b",
+      "party_type": "Organization",
+      "full_name": "Kensington Inc.",
+      "cited_name": "Kensington Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

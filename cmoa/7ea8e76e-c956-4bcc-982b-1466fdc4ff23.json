@@ -1,0 +1,37 @@
+{
+  "title": "Interior of a Cathedral",
+  "creation_date": "c.1640",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1649-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.42",
+  "id": "cmoa:things/7ea8e76e-c956-4bcc-982b-1466fdc4ff23",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.125,
+  "item_height": 45.563,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019254",
+  "provenance_text": "J. Theus Munds, New York, (d.1938); sale, Parke-Bernet, New York, November 24, 1939; Mrs. Paul B. Ernst, Pittsburgh; gift to Museum, May 1978.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b46f061-0d3b-495c-8004-b3bc361a4a98",
+      "party_type": "Person",
+      "full_name": "Peeter Neeffs",
+      "cited_name": "Neeffs, Peeter",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1578-01-01",
+      "death_date": "1656-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

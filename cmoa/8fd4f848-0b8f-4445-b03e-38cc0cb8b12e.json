@@ -1,0 +1,51 @@
+{
+  "title": "Table lamp",
+  "creation_date": "c. 1935",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "aluminum, bakelite, and glass",
+  "accession_number": "1999.5.1",
+  "id": "cmoa:things/8fd4f848-0b8f-4445-b03e-38cc0cb8b12e",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "1999-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 8.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003924",
+  "provenance_text": "(Jacques-Pierre Cassin) First 1/2, Pontiac, Michigan",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=83570&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c765198-2e26-4616-998e-d997d43b6af1",
+      "party_type": "Person",
+      "full_name": "Walter von Nessen",
+      "cited_name": "Nessen, Walter von",
+      "role": "attributed designer",
+      "nationality": "American",
+      "birth_date": "1899-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": "Germany",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f629acf9-fae7-4127-9b23-36dc6afd0f4d",
+      "party_type": "Organization",
+      "full_name": "Pattyn Products Company",
+      "cited_name": "Pattyn Products Company",
+      "role": "attributed manufacturer",
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

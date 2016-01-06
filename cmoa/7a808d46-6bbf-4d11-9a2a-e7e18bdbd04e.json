@@ -1,0 +1,39 @@
+{
+  "title": "Washington, D. C. 1967 1",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "76.1",
+  "id": "cmoa:things/7a808d46-6bbf-4d11-9a2a-e7e18bdbd04e",
+  "credit_line": "Gift of Mrs. Edward Corbett and Mr. and Mrs. Turhan W. Tirana",
+  "date_acquired": "1976-02-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 61.25,
+  "item_height": 71.375,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018013",
+  "provenance_text": "Mrs. Edward Corbett, Washington, D. C",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149666&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4fe2f08e-4e82-4bdd-9f23-2d6290cf3b3c",
+      "party_type": "Person",
+      "full_name": "Edward Corbett",
+      "cited_name": "Corbett, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": " Chicago (Cook county, Illinois, United States)",
+      "death_place": " Massachusetts (United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cachepot",
+  "creation_date": "c. 1800-1810",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "Porcelain",
+  "accession_number": "70.32.1950.A-B",
+  "id": "cmoa:things/269e79ae-ae47-41bd-902a-cfab0e6d37be",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 4.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014119",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2341&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/750ce8e8-d97a-42af-9d4d-66efd4697726",
+      "party_type": "Organization",
+      "full_name": "Worcester Porcelain Factory",
+      "cited_name": "Worcester Porcelain Factory",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

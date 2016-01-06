@@ -1,0 +1,39 @@
+{
+  "title": "Pencil Study",
+  "creation_date": "no date",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "17.32",
+  "id": "cmoa:things/2e2c9776-115c-4f03-b249-8ee08ca5fea1",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001567",
+  "provenance_text": "Mr. Ralph Holmes for Mrs. J. H. Vanderpoel, Chicago; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48035&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e81b251-c1b7-4569-8afd-d42400633719",
+      "party_type": "Person",
+      "full_name": "John H. Vanderpoel",
+      "cited_name": "Vanderpoel, John H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Haarlemmermeer (North Holland, Netherlands)",
+      "death_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Footed Bowl",
+  "creation_date": "9th century",
+  "creation_date_earliest": "0799-12-28",
+  "creation_date_latest": "0898-12-28",
+  "medium": "painted earthenware",
+  "accession_number": "72.61.5",
+  "id": "cmoa:things/7004fe53-38f4-4a96-843a-47a40fc49400",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.875,
+  "item_depth": 0.0,
+  "item_diameter": 7.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016571",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3302&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d401103-0791-47af-8892-7470de37d61c",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Nishapur",
+      "cited_name": "unknown Persian, Nishapur",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

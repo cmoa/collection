@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Young Girl",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "2002.30",
+  "id": "cmoa:things/b9106462-cc69-4633-9980-21003b8a16d9",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=220",
+  "provenance_text": "Gift of Mr. and Mrs. William Block",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99678&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35cc5930-9eb2-450e-8fae-c8b97c9390f7",
+      "party_type": "Person",
+      "full_name": "Marie Laurencin",
+      "cited_name": "Laurencin, Marie",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1885-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

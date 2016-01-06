@@ -1,0 +1,39 @@
+{
+  "title": "The Sentinel",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.7.36",
+  "id": "cmoa:things/7f14e3b9-adf4-4061-a881-708b8d1d5e1e",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-02-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 14.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025139",
+  "provenance_text": "Carnegie Library of Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9748&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d7cc2de-1c66-460f-a766-474f86538469",
+      "party_type": "Person",
+      "full_name": "Hew Charles Torrance",
+      "cited_name": "Torrance, Hew C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Scotland",
+      "death_place": null
+    }
+  ]
+}

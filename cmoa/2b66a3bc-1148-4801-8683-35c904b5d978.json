@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1765-1770",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "Porcelain",
+  "accession_number": "63.17.1.1",
+  "id": "cmoa:things/2b66a3bc-1148-4801-8683-35c904b5d978",
+  "credit_line": "Reverend Alfred Duane Pell Fund",
+  "date_acquired": "1963-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 1.562,
+  "item_depth": 6.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011643",
+  "provenance_text": "Newman and Newman (Antiques) Ltd., London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1945&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eddb9baf-c009-48e4-a421-ca3835767a35",
+      "party_type": "Person",
+      "full_name": "Geoffrey Hamet O'Neale",
+      "cited_name": "O'Neale, Geoffrey H.",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": null,
+      "death_date": "1772-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

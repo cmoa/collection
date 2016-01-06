@@ -1,0 +1,39 @@
+{
+  "title": "Open-Air School",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "60.36.8",
+  "id": "cmoa:things/4e8e557a-b5f1-4443-9c94-5549d57ddb1e",
+  "credit_line": "Gift of Thomas E. Rhodes",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011234",
+  "provenance_text": "Promised or Given",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112961&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/14011d2c-762a-42d8-ac0f-5c0bb64dfd65",
+      "party_type": "Person",
+      "full_name": "Diego Rivera",
+      "cited_name": "Rivera, Diego",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1886-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": "Guanajuato (Guanajuato state, Mexico)",
+      "death_place": "Mexico City (Distrito Federal, Mexico)"
+    }
+  ]
+}

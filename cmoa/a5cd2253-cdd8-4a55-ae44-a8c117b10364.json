@@ -1,0 +1,51 @@
+{
+  "title": "Ryukyu District (Ryûkyû no bu)",
+  "creation_date": "11/13/1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1032.1",
+  "id": "cmoa:things/a5cd2253-cdd8-4a55-ae44-a8c117b10364",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.687,
+  "item_height": 5.687,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026732",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, CA., 7/20/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/33382185-57f0-433a-a7c1-25eb2efdd346",
+      "party_type": "Person",
+      "full_name": "Kosugi Misei",
+      "cited_name": "Kosugi Misei",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1881-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Japan, Nikko",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9736e158-c9b3-4bf1-b4f8-8f0917068d02",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô",
+      "cited_name": "Nakajima Jûtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

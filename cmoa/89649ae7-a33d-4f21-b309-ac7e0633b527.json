@@ -1,0 +1,51 @@
+{
+  "title": "Young Women Picking Fruit",
+  "creation_date": "1891",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1891-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "22.8",
+  "id": "cmoa:things/89649ae7-a33d-4f21-b309-ac7e0633b527",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1922-10-26",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 35.5,
+  "item_height": 51.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004771",
+  "provenance_text": "Mary Cassatt [1844-1926], France; Galeries Durand-Ruel, Paris, France, by August 1892 [1]; Durand-Ruel Galleries, New York, NY, 1895; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, October 1922. \n\nNotes:\n[1]. Recorded in stock book in August 1892.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148520&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148521&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125753&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129325&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129326&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25d883f-0641-4500-b258-37d6bafc568b",
+      "party_type": "Person",
+      "full_name": "Mary Cassatt",
+      "cited_name": "Cassatt, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1844-05-22",
+      "death_date": "1926-06-14",
+      "birth_place": "Pittsburgh (Allegheny City), PA",
+      "death_place": "Le Mesnil-Théribus, France"
+    }
+  ]
+}

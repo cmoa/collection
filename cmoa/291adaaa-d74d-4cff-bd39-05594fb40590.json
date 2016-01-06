@@ -1,0 +1,39 @@
+{
+  "title": "Beauvau du Rivau (René François de)",
+  "creation_date": "1727",
+  "creation_date_earliest": "1727-01-01",
+  "creation_date_latest": "1727-01-01",
+  "medium": "engraving",
+  "accession_number": "60.43.1",
+  "id": "cmoa:things/291adaaa-d74d-4cff-bd39-05594fb40590",
+  "credit_line": "Gift of Mr. and Mrs. Jacob Davis in memory of David Davis",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011250",
+  "provenance_text": "Gift of Mr. and Mrs. Jacob Davis, 1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114690&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de11b0f3-39e9-4e20-bce2-3e672653cab9",
+      "party_type": "Person",
+      "full_name": "Pierre-Imbert Drevet",
+      "cited_name": "Drevet, Pierre-Imbert",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1697-01-01",
+      "death_date": "1739-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

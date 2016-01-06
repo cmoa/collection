@@ -1,0 +1,39 @@
+{
+  "title": "The Picnic",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "watercolor and graphite on paper",
+  "accession_number": "73.4",
+  "id": "cmoa:things/ae0019dc-0c23-454b-8086-c36484909ccd",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1973-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.625,
+  "item_height": 22.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016847",
+  "provenance_text": "Charles Prendergast, 1924; Mrs. Charles Prendergast, 1948; Kraushaar Galleries, Inc., New York; Mr. and Mrs. James H. Beal, Pittsburgh, 1949; Gift of Mr. and Mrs. James H. Beal",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17593&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa954e98-2caa-41b1-8d7e-36df203f6e37",
+      "party_type": "Person",
+      "full_name": "Maurice Brazil Prendergast",
+      "cited_name": "Prendergast, Maurice B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": "Saint John's (Newfoundland, Canada)",
+      "death_place": "New York, New York"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Bowl",
+  "creation_date": "1925-1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "pâte de cristal and silver",
+  "accession_number": "74.47.1",
+  "id": "cmoa:things/08a045e1-66c8-4cc1-931b-2835b635715a",
+  "credit_line": "Gift of Arthur E. Braun",
+  "date_acquired": "1974-12-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.5,
+  "item_depth": 0.0,
+  "item_diameter": 6.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017047",
+  "provenance_text": "Arthur E. Braun, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97796&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97797&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3042&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fc53efe4-2f3d-4ddf-a511-81783e98c4d2",
+      "party_type": "Person",
+      "full_name": "François-Émile Décorchemont",
+      "cited_name": "Décorchemont, François-Émile",
+      "role": "maker",
+      "nationality": "French",
+      "birth_date": "1880-01-01",
+      "death_date": "1971-01-01",
+      "birth_place": "France",
+      "death_place": "France"
+    },
+    {
+      "artist_id": "cmoa:parties/8e882d6c-6fa1-42d8-8c66-daff08aa7a2b",
+      "party_type": "Organization",
+      "full_name": "Grogan Company",
+      "cited_name": "Grogan Company",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": "1839-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

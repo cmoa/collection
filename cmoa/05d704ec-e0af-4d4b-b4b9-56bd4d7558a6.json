@@ -1,0 +1,51 @@
+{
+  "title": "The Yamabushi Gorge in Mimasaka Province (Mimasaka Yamabushi-dani)",
+  "creation_date": "1853",
+  "creation_date_earliest": "1853-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "color woodblock print (oban)",
+  "accession_number": "16.29.29",
+  "id": "cmoa:things/05d704ec-e0af-4d4b-b4b9-56bd4d7558a6",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 13.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001206",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107925&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/b1ab3364-e19c-4b46-8475-f402fc9f70a8",
+      "party_type": "Person",
+      "full_name": "Heisuke Koshimuraya",
+      "cited_name": "Heisuke Koshimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

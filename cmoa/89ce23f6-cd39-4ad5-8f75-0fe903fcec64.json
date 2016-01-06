@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "c. 1817",
+  "creation_date_earliest": "1812-01-01",
+  "creation_date_latest": "1822-01-01",
+  "medium": "silver",
+  "accession_number": "88.35.2",
+  "id": "cmoa:things/89ce23f6-cd39-4ad5-8f75-0fe903fcec64",
+  "credit_line": "Purchase: gift of James O'Hara Denny",
+  "date_acquired": "1988-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.563,
+  "item_height": 10.5,
+  "item_depth": 5.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026529",
+  "provenance_text": "East End Galleries, Pittsburgh",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2147&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f18c764-54df-47ab-8287-e6b9ad33d35e",
+      "party_type": "Person",
+      "full_name": "Baldwin Gardiner",
+      "cited_name": "Gardiner, Baldwin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1814-01-01",
+      "death_date": "1846-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

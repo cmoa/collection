@@ -1,0 +1,39 @@
+{
+  "title": "Cake Basket",
+  "creation_date": "1731-1732",
+  "creation_date_earliest": "1731-01-01",
+  "creation_date_latest": "1732-01-01",
+  "medium": "sterling silver",
+  "accession_number": "70.32.2396",
+  "id": "cmoa:things/cce0e06e-693e-47ed-9dc5-0cb6bf940700",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.75,
+  "item_height": 7.0,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014603",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5072&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d34faad8-0a27-4307-a558-4536cd0c4fe7",
+      "party_type": "Person",
+      "full_name": "David Willaume II",
+      "cited_name": "Willaume, David",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1728-01-01",
+      "death_date": "1761-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

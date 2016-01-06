@@ -1,0 +1,39 @@
+{
+  "title": "[Portrait: Rochna Family in Kitchen]",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "86.16.134",
+  "id": "cmoa:things/b5e6be73-5a76-45c5-99d8-b22a07535394",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1986-04-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025876",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7157&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a5de9a4-4175-49ff-a0ba-2b1b84e54bee",
+      "party_type": "Person",
+      "full_name": "Sol Libsohn",
+      "cited_name": "Libsohn, Sol",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "2001-01-01",
+      "birth_place": null,
+      "death_place": "Princeton, NJ"
+    }
+  ]
+}

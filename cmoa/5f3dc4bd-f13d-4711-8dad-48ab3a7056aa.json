@@ -1,0 +1,39 @@
+{
+  "title": "Andrew Carnegie",
+  "creation_date": "1892-1915",
+  "creation_date_earliest": "1892-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2011.7",
+  "id": "cmoa:things/5f3dc4bd-f13d-4711-8dad-48ab3a7056aa",
+  "credit_line": "Museum appropriation",
+  "date_acquired": "2011-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 9.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92151",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101645&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/927e64e2-c4dd-4209-8110-08c20bf2d0f4",
+      "party_type": "Organization",
+      "full_name": "Davis and Sanford",
+      "cited_name": "Davis and Sanford",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Waste bowl",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "silver",
+  "accession_number": "2.27.UN",
+  "id": "cmoa:things/8efd68b6-5428-48f9-bf58-9eea79d2cbd8",
+  "credit_line": "Collection of Mr. and Mrs. George T. Haldeman",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.625,
+  "item_depth": 0.0,
+  "item_diameter": 7.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000081",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6020&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11bf99fa-e1b8-4938-8e60-6af2fd90a710",
+      "party_type": "Organization",
+      "full_name": "R. & W. Wilson",
+      "cited_name": "Wilson, R. & W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1846-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

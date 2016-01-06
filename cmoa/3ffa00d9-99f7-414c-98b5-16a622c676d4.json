@@ -1,0 +1,39 @@
+{
+  "title": "Mrs. Julia Ward Howe",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.80",
+  "id": "cmoa:things/3ffa00d9-99f7-414c-98b5-16a622c676d4",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49095",
+  "provenance_text": "Christie's New York (10/13/92)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b66d046-d189-41a4-8c2e-ab49d6585d12",
+      "party_type": "Person",
+      "full_name": "Sarah Choate Sears",
+      "cited_name": "Sears, Sarah Choate",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Armchair",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "red oak and poplar plywood with original wool upholstery",
+  "accession_number": "82.19",
+  "id": "cmoa:things/cd9e0452-d991-457d-a330-d6658b8ee8a8",
+  "credit_line": "Gift of Thonet Industries, Inc.",
+  "date_acquired": "1982-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 22.0,
+  "item_height": 18.0,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022285",
+  "provenance_text": "THONET INDUSTRIES, Inc.",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/863d79e7-469a-424d-8049-837922d1a357",
+      "party_type": "Person",
+      "full_name": "Peter J. Danko",
+      "cited_name": "Danko, Peter J.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Washington, DC",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/aae615a7-7120-4b19-8ccb-8d6a90509711",
+      "party_type": "Organization",
+      "full_name": "Thonet Industries, Inc.",
+      "cited_name": "Thonet Industries, Inc.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

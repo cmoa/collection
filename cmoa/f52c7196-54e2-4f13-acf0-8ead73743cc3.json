@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "20th century",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "earthenware and silver",
+  "accession_number": "88.44.10",
+  "id": "cmoa:things/f52c7196-54e2-4f13-acf0-8ead73743cc3",
+  "credit_line": "Gift of John Baird Hudson and the Hudson Conservancy",
+  "date_acquired": "1989-02-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.187,
+  "item_height": 1.75,
+  "item_depth": 7.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026555",
+  "provenance_text": "Gift of John Baird Hudson and the Hudson Conservancy, New York, NY, 1989.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2577&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

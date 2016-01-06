@@ -1,0 +1,39 @@
+{
+  "title": "The Kansas Flower Garden",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.4",
+  "id": "cmoa:things/e970fb2c-6abe-405f-ad8b-c0c50ebe154d",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 55.25,
+  "item_height": 39.375,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017553",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh, 1939; bequest to museum, 1974",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149569&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d90339a-87b2-4a27-b6cf-074922ed2c3a",
+      "party_type": "Person",
+      "full_name": "Arnold Blanch",
+      "cited_name": "Blanch, Arnold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1968-01-01",
+      "birth_place": "Mantorville (Dodge county, Minnesota, United States)",
+      "death_place": " Woodstock (Greene county, New York state, United States)"
+    }
+  ]
+}

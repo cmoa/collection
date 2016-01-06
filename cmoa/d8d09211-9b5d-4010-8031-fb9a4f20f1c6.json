@@ -1,0 +1,54 @@
+{
+  "title": "Dish",
+  "creation_date": "1903-1904",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "silver, glass, and chrysoprase",
+  "accession_number": "1996.51.1.A-B",
+  "id": "cmoa:things/d8d09211-9b5d-4010-8031-fb9a4f20f1c6",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 2.125,
+  "item_depth": 4.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002155",
+  "provenance_text": "H. Blairman & Sons, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4444&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98056&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e800c047-b82b-499b-9fe0-1b5c2c409a94",
+      "party_type": "Person",
+      "full_name": "Charles Robert Ashbee",
+      "cited_name": "Ashbee, Charles Robert",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1863-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db7122d2-4c81-4592-81a2-c795d4baa278",
+      "party_type": "Organization",
+      "full_name": "Guild of Handicraft",
+      "cited_name": "Guild of Handicraft",
+      "role": "maker",
+      "nationality": "British",
+      "birth_date": "1888-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

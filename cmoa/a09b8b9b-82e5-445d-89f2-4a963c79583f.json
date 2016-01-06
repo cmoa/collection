@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "c. 1740",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1745-01-01",
+  "medium": "tin-glazed soft paste porcelain",
+  "accession_number": "78.49.2",
+  "id": "cmoa:things/a09b8b9b-82e5-445d-89f2-4a963c79583f",
+  "credit_line": "Gift of Mrs. Fred C. Foy",
+  "date_acquired": "1978-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.188,
+  "item_depth": 0.0,
+  "item_diameter": 5.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020081",
+  "provenance_text": "Lansborough Ltd., London, England, 6/2/1967",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df3bc7e5-1872-467b-bad3-81ac606d2f89",
+      "party_type": "Organization",
+      "full_name": "Chantilly Factory",
+      "cited_name": "Chantilly Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1715-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

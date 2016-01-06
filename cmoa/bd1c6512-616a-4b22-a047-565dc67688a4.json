@@ -1,0 +1,39 @@
+{
+  "title": "Mug",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "81.10.46",
+  "id": "cmoa:things/bd1c6512-616a-4b22-a047-565dc67688a4",
+  "credit_line": "Gift of Mr. and Mrs. James A. Drain",
+  "date_acquired": "1981-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.75,
+  "item_height": 2.875,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021528",
+  "provenance_text": "Mr. And Mrs. James A. Drain, Ligonier, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1510&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Carnegie Institute: Hall of Architecture)",
+  "creation_date": "1895 or later",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "photograph",
+  "accession_number": "83.84.4",
+  "id": "cmoa:things/a1fde16e-9208-4a8e-9928-06b942f5a47e",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-12-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.875,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024315",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4300&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

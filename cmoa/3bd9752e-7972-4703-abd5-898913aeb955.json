@@ -1,0 +1,39 @@
+{
+  "title": "Kiss Angel",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "gelatin silver print photogram",
+  "accession_number": "2008.1",
+  "id": "cmoa:things/3bd9752e-7972-4703-abd5-898913aeb955",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 40.0,
+  "item_height": 96.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=46964",
+  "provenance_text": "The artist through Michael Kohn Gallery, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9777&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9effb7ef-ce71-4610-a617-5efbb75c9a4f",
+      "party_type": "Person",
+      "full_name": "Bruce Conner",
+      "cited_name": "Conner, Bruce",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": "McPherson, Kansas",
+      "death_place": "San Francisco (San Francisco county, California, United States)"
+    }
+  ]
+}

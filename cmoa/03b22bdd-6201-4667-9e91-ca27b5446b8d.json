@@ -1,0 +1,39 @@
+{
+  "title": "Bucks County Landscape",
+  "creation_date": "c. 1942-1944",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "83.33",
+  "id": "cmoa:things/03b22bdd-6201-4667-9e91-ca27b5446b8d",
+  "credit_line": "Purchase: gift of Mr. and Mrs. George Liggett Craig, Jr., and Painting Acquisition Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 41.875,
+  "item_height": 35.875,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023676",
+  "provenance_text": "The artist, until at least 1944; Sarah Hunter Kelly, New York; estate of Sarah Hunter Kelly; Zabriskie Gallery, New York, 1983; Museum purchase: gift of Mr. and Mrs. George Liggett Craig, Jr., Pittsburgh, and Paintings Acquisition Fund, 1983",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21463&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4985e7e-a5cc-4fd3-99ab-4d236b2ede61",
+      "party_type": "Person",
+      "full_name": "Arnold Aaron Friedman",
+      "cited_name": "Friedman, Arnold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": " Corona (New York City, New York state, United States)"
+    }
+  ]
+}

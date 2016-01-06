@@ -1,0 +1,39 @@
+{
+  "title": "Forest Was the Light",
+  "creation_date": "1940s?",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "pencil and crayon",
+  "accession_number": "68.24",
+  "id": "cmoa:things/04e14248-1138-4840-b670-b93b33ab6c36",
+  "credit_line": "Gift of Mrs. Alexander C. Speyer, Sr.",
+  "date_acquired": "1968-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 21.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012420",
+  "provenance_text": "Gift of Mrs. Alexander C. Speyer, Sr., Pittsburgh, PA, 1968.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89a0f678-b6d8-4f41-8748-e69a2b7515b7",
+      "party_type": "Person",
+      "full_name": "Roberto Matta",
+      "cited_name": "Matta, Roberto",
+      "role": null,
+      "nationality": "Chilean",
+      "birth_date": "1911-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": "Santiago, Región Metropolitana de (Chile)",
+      "death_place": "Civitavecchia (Roma province, Lazio, Italy)"
+    }
+  ]
+}

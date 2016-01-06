@@ -1,0 +1,48 @@
+{
+  "title": "Walking Man I",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "bronze",
+  "accession_number": "61.48",
+  "id": "cmoa:things/16ac3e5e-f9e4-4fc3-a82a-d5e816a2eb40",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 38.0,
+  "item_height": 71.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011450",
+  "provenance_text": "Pierre Matisse Gallery, NYC",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117001&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129319&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19385&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57639&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7bff4bc4-b904-4ac3-b188-647e92c300c6",
+      "party_type": "Person",
+      "full_name": "Alberto Giacometti",
+      "cited_name": "Giacometti, Alberto",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1901-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Borgonovo Val Tidone (Piacenza province, Emilia-Romagna, Italy)",
+      "death_place": "Chur (Graubünden, Switzerland)"
+    }
+  ]
+}

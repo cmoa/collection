@@ -1,0 +1,39 @@
+{
+  "title": "Everything is Perfect Coffeepot",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "glass, thread",
+  "accession_number": "2004.52",
+  "id": "cmoa:things/cc4d7909-dd11-4efe-9ce8-10178d0c13e1",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "2004-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 13.0,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=12737",
+  "provenance_text": "Heller Gallery, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27317&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/644a3d55-8e99-4886-9c77-6f317eef53d3",
+      "party_type": "Person",
+      "full_name": "Susan Taylor Glasgow",
+      "cited_name": "Glasgow",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Superior, Wisconsin",
+      "death_place": null
+    }
+  ]
+}

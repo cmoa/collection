@@ -1,0 +1,39 @@
+{
+  "title": "Harlequin",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "51.17",
+  "id": "cmoa:things/efce0844-aa1e-48e2-8253-30e82dd2ef00",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008919",
+  "provenance_text": "Jean Kubota",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100349&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6f1498b1-9a97-47ea-a5c3-f52b99bb44b7",
+      "party_type": "Person",
+      "full_name": "Jean Kubota",
+      "cited_name": "Kubota, Jean",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

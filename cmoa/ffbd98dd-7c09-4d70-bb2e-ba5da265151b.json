@@ -1,0 +1,39 @@
+{
+  "title": "Grand Central, Night",
+  "creation_date": "1929",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "46.18.13",
+  "id": "cmoa:things/ffbd98dd-7c09-4d70-bb2e-ba5da265151b",
+  "credit_line": "Gift of Alfred C. Howell",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007685",
+  "provenance_text": "Walter Tittle [1883-1966]. Alfred C. Howell [-1961], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1946.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104876&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156f1745-92e8-4121-a525-043eff218486",
+      "party_type": "Person",
+      "full_name": "Walter Tittle",
+      "cited_name": "Tittle, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

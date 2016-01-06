@@ -1,0 +1,54 @@
+{
+  "title": "Salt spoon",
+  "creation_date": "c. 1947-1960",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "silver with stainless steel",
+  "accession_number": "77.44.129",
+  "id": "cmoa:things/385dbbd7-3730-4e1c-b7ba-0ff3f9c2888b",
+  "credit_line": "Gift of Mr. and Mrs. Sidney M. Feldman",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.5,
+  "item_height": 2.625,
+  "item_depth": 0.313,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018715",
+  "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5096&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5095&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3704b9f2-e3f2-49dd-979e-4953b9c2242a",
+      "party_type": "Person",
+      "full_name": "Ole Hagen",
+      "cited_name": "Hagen, Ole",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/08aaba29-41d0-43b2-acb2-427647f07b1d",
+      "party_type": "Organization",
+      "full_name": "A. Michelsen",
+      "cited_name": "Michelsen, A.",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

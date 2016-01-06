@@ -1,0 +1,39 @@
+{
+  "title": "Figure Composition",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": null,
+  "accession_number": "93.189.45",
+  "id": "cmoa:things/48a5bea0-5762-4f4a-ad2f-a71e36730102",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033334",
+  "provenance_text": "Pascin Estate; Mr. and Mrs. James H. Beal, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89469&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5bd08228-0402-4e45-9a98-98b72c44ec1d",
+      "party_type": "Person",
+      "full_name": "Jules Pascin",
+      "cited_name": "Pascin, Jules",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": "Vidin (Montana region, Bulgaria)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Camera Work, Vol. 42/43",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "printed book with photogravures",
+  "accession_number": "2012.7.A-.Q",
+  "id": "cmoa:things/f5df6662-4fb8-4fb0-9149-deb24192d6ac",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2012-02-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98317",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55843eef-94d3-45e1-befd-734c6805acdd",
+      "party_type": "Person",
+      "full_name": "Alfred Stieglitz",
+      "cited_name": "Stieglitz, Alfred",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": "1864-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Hoboken (Hudson county, New Jersey, United States)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/308c7982-838a-417e-bc26-8e69e8305c87",
+      "party_type": "Person",
+      "full_name": "Edward J. Steichen",
+      "cited_name": "Steichen, Edward J.",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1879-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Luxembourg (Europe)",
+      "death_place": "Connecticut, West Redding"
+    }
+  ]
+}

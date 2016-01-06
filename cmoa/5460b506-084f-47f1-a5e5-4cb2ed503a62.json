@@ -1,0 +1,39 @@
+{
+  "title": "Saleswoman",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "etching on paper",
+  "accession_number": "1997.78.2",
+  "id": "cmoa:things/5460b506-084f-47f1-a5e5-4cb2ed503a62",
+  "credit_line": "Gift of Virginia M. Zabriskie",
+  "date_acquired": "1998-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.875,
+  "item_height": 8.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003474",
+  "provenance_text": "Virginia M. Zabriskie, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d5ea886-c92a-4ca7-b940-9377265a1249",
+      "party_type": "Person",
+      "full_name": "Kenneth Hayes Miller",
+      "cited_name": "Miller, Kenneth H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Oneida (Madison county, New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

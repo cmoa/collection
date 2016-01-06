@@ -1,0 +1,39 @@
+{
+  "title": "Dish, Footed",
+  "creation_date": "12th century",
+  "creation_date_earliest": "1099-12-26",
+  "creation_date_latest": "1198-12-25",
+  "medium": "Earthenware",
+  "accession_number": "72.61.14",
+  "id": "cmoa:things/138e575f-4b72-42c7-b816-b4453790969c",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.688,
+  "item_depth": 0.0,
+  "item_diameter": 4.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016524",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1395&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d401103-0791-47af-8892-7470de37d61c",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Nishapur",
+      "cited_name": "unknown Persian, Nishapur",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

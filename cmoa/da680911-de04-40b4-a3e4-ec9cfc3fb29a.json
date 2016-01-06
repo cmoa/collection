@@ -1,0 +1,39 @@
+{
+  "title": "Family, taken captive by the indians",
+  "creation_date": "c. 1849",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "69.43.4",
+  "id": "cmoa:things/da680911-de04-40b4-a3e4-ec9cfc3fb29a",
+  "credit_line": "By Appropriation",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 44.625,
+  "item_height": 36.125,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012592",
+  "provenance_text": "The artist's uncle, William T. McClurg; Walter McFarren, by 1925; offered by McFarren to Carnegie Institute, 1925; refused by Fine Arts Committee, Carnegie Institute, and consigned to storage; By appropriation, 1970",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19573&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6c6ac92c-275c-47bf-b00d-e039a07e5735",
+      "party_type": "Person",
+      "full_name": "Trevor McClurg",
+      "cited_name": "McClurg, Trevor",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1893-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

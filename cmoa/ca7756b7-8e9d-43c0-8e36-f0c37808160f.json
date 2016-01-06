@@ -1,0 +1,42 @@
+{
+  "title": "Double-Sided Miniature of the Artist and His Wife, Anna Kunigunda Hartmann",
+  "creation_date": "c. 1810-1820",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "oil on ivory - portrait of artist",
+  "accession_number": "27.10.257",
+  "id": "cmoa:things/ca7756b7-8e9d-43c0-8e36-f0c37808160f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 3.25,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005687",
+  "provenance_text": "Wombold, Nuremburg, German; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, 1906; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73710&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/470ca523-d02c-4efc-ba18-ba573999c7d8",
+      "party_type": "Person",
+      "full_name": "Mathias Christoph Hartmann",
+      "cited_name": "Hartmann, Mathias C.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1791-01-01",
+      "death_date": "1839-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

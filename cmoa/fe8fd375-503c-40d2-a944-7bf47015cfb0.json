@@ -1,0 +1,39 @@
+{
+  "title": "From First to Last - 4",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "screen print on paper",
+  "accession_number": "89.28.1024",
+  "id": "cmoa:things/fe8fd375-503c-40d2-a944-7bf47015cfb0",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026723",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from The Yoseido Gallery, Tokyo, Japan, 5/29/1986.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35453&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dcd30f07-90fa-4fd4-8306-1fdb188a297b",
+      "party_type": "Person",
+      "full_name": "Matsubara Tatsuo",
+      "cited_name": "Matsubara Tatsuo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Teapot",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "1997.3.4.A-B",
+  "id": "cmoa:things/641bafc1-a632-4463-aeff-edea65ef522c",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 13.0,
+  "item_height": 4.562,
+  "item_depth": 4.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003290",
+  "provenance_text": "Sam Berkovitz, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1099&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/613ce36b-aa19-4557-bcb1-db1044e04328",
+      "party_type": "Person",
+      "full_name": "Peter Shire",
+      "cited_name": "Shire, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

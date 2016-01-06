@@ -1,0 +1,49 @@
+{
+  "title": "Tsuge (Boxwood) Magazine",
+  "creation_date": "1933",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1933-01-01",
+  "medium": "bound woodcuts",
+  "accession_number": "89.28.491",
+  "id": "cmoa:things/b42330e4-5a33-415d-b9d9-96ab9c82c529",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.625,
+  "item_height": 7.5,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028327",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8f89675-70fa-45e0-85ae-c4f13c638ab3",
+      "party_type": "Person",
+      "full_name": "Nishigaka Binsho",
+      "cited_name": "Nishigaka Binsho",
+      "role": "editor",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/94239f40-1080-48c5-8aa8-569ca2097987",
+      "party_type": "Person",
+      "full_name": "Kyoto Society (Kyoto Sosaku-hangaki)",
+      "cited_name": "Kyoto Society (Kyoto Sosaku-hangaki)",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

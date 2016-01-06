@@ -1,0 +1,39 @@
+{
+  "title": "Olivier d'Ormesson",
+  "creation_date": "1665",
+  "creation_date_earliest": "1665-01-01",
+  "creation_date_latest": "1665-01-01",
+  "medium": "engraving",
+  "accession_number": "17.27.1",
+  "id": "cmoa:things/0183a7cc-f771-4fc0-9557-f9678c036434",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1917-04-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001530",
+  "provenance_text": "Max Williams, New York, NY",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101942&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5fd8a40b-d4bd-491b-9ac1-0bff22851c44",
+      "party_type": "Person",
+      "full_name": "Antoine Masson",
+      "cited_name": "Masson, Antoine",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1636-01-01",
+      "death_date": "1700-01-01",
+      "birth_place": "Loury (Loiret, Centre region, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

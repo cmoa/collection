@@ -1,0 +1,39 @@
+{
+  "title": "Our Turn",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "unglazed stoneware",
+  "accession_number": "2013.54",
+  "id": "cmoa:things/5edc4968-d855-41b6-bcc6-30aa13775add",
+  "credit_line": "Purchase: Gift of Eleanor Rosenfeld in memory of Samuel J. Rosenfeld and Partial Gift of Thomas and Donna Weaverling Daley",
+  "date_acquired": "2013-12-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 22.0,
+  "item_height": 20.0,
+  "item_depth": 17.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101917",
+  "provenance_text": "Collection of Thomas and Donna Daley (son of the artist)",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/92d34b9d-6cdc-4386-9666-7116df938735",
+      "party_type": "Person",
+      "full_name": "William Daley",
+      "cited_name": "Daley, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1925-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

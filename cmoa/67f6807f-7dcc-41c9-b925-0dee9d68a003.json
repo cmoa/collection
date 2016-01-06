@@ -1,0 +1,42 @@
+{
+  "title": "Fontanone, Fontana Paola",
+  "creation_date": "c. 1915",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "woodcut on chinese paper",
+  "accession_number": "16.23.13",
+  "id": "cmoa:things/67f6807f-7dcc-41c9-b925-0dee9d68a003",
+  "credit_line": "Gift of the artist",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001135",
+  "provenance_text": "Mr. Rudolph Ruzicka",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101206&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101207&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87abf60e-4faf-4eb0-97c6-a749d6462d00",
+      "party_type": "Person",
+      "full_name": "Rudolph Ruzicka",
+      "cited_name": "Ruzicka, Rudolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Bohemia (Czech Republic)",
+      "death_place": "Hanover (Grafton county, New Hampshire, United States)"
+    }
+  ]
+}

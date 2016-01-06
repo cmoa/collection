@@ -1,0 +1,39 @@
+{
+  "title": "Supper Wagon",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1492",
+  "id": "cmoa:things/05eba25d-66be-4cc4-abbf-4727f5436ddd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.75,
+  "item_height": 7.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027416",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34273&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/002a33e6-7273-4791-8345-2182850fc2ec",
+      "party_type": "Person",
+      "full_name": "Yoshida Tôshi",
+      "cited_name": "Yoshida Tôshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1911-01-01",
+      "death_date": "1995-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

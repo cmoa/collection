@@ -1,0 +1,39 @@
+{
+  "title": "Plaque",
+  "creation_date": "1906",
+  "creation_date_earliest": "1906-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "82.90.9",
+  "id": "cmoa:things/a08c656b-8e63-42a7-b68d-a4f14e826b26",
+  "credit_line": "Gift of Dana Robineau Kelley, grandson of the artist, and family",
+  "date_acquired": "1982-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 1.125,
+  "item_depth": 0.0,
+  "item_diameter": 9.438,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023254",
+  "provenance_text": "Dana Robineau Kelley And Family, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a72102c0-f1de-4601-a7b1-2b09f9dc21b2",
+      "party_type": "Person",
+      "full_name": "Taxile Maximin Doat",
+      "cited_name": "Doat, Taxile Maximin",
+      "role": "ceramicist",
+      "nationality": "French",
+      "birth_date": "1851-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": "Albi (Tarn, Midi-Pyrénées, France)",
+      "death_place": null
+    }
+  ]
+}

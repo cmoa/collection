@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1842-1845",
+  "creation_date_earliest": "1837-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "62.7",
+  "id": "cmoa:things/9528f16f-6845-4c67-abc0-c687661cf21f",
+  "credit_line": "Gift of William C. Arthur in memory of his grandfather, Edmund Watts, to whom it was presented by the artist c. 1855",
+  "date_acquired": "1962-02-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 34.625,
+  "item_height": 29.625,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011592",
+  "provenance_text": "David Gilmour Blythe [1815-1865], until 1855?; Edmund Watts, Pittsburgh, PA, 1855? [1]; Edmund W. Arthur, his grandson, 1911?; William C. Arthur, his brother, Meadville, PA, 1950? until 1962; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, 1962. \nNOTES: [1] According to correspondence from William C. Arthur, Edmund Watts accepted this painting from Blythe as payment for tailoring services. See curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149572&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

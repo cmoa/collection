@@ -1,0 +1,39 @@
+{
+  "title": "The Crown of Thorns",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "proof",
+  "accession_number": "29.7",
+  "id": "cmoa:things/9f89ecd0-1f40-4141-b8a1-f85ad2331986",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1929-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006230",
+  "provenance_text": "Eric Gill [1882-1940], Great Britain. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1929.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107559&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/889188a0-0fa1-41ca-9f66-9d99f7269746",
+      "party_type": "Person",
+      "full_name": "Eric Gill",
+      "cited_name": "Gill, Eric",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1882-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": " Brighton (Brighton and Hove, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

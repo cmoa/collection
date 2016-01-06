@@ -1,0 +1,39 @@
+{
+  "title": "Fire Wake",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.23",
+  "id": "cmoa:things/9cbd55c0-70e7-4803-b373-e2e1749f2af5",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 49th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 50.125,
+  "item_height": 49.75,
+  "item_depth": 1.437,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010976",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149525&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cb0ac01c-deb2-4786-931e-00b4b6157d60",
+      "party_type": "Person",
+      "full_name": "R. B. Beaman",
+      "cited_name": "Beaman, R. B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "2003-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

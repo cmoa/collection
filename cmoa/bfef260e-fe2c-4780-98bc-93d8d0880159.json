@@ -1,0 +1,42 @@
+{
+  "title": "Long Neck Point from Contentment Island",
+  "creation_date": "c. 1870-1872",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1877-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "80.51",
+  "id": "cmoa:things/bfef260e-fe2c-4780-98bc-93d8d0880159",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1980-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 24.375,
+  "item_height": 15.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021230",
+  "provenance_text": "John Frederick Kensett [1816-1872], until 1872. (Sold at Robert M. Somerville, New York, on March 24, 1873); Possibly Edward King, Newport, R. I., after March 24, 1873; Kennedy Galleries, New York, 1960; Private Collection, 1960; (James Maroney, Inc., New York, 1980); purchased by Museum, 1980.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125061&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56866&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/abe05c9c-1ae7-4e6c-bbf8-16414603f916",
+      "party_type": "Person",
+      "full_name": "John Frederick Kensett",
+      "cited_name": "Kensett, John F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1816-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": "Cheshire (New Haven county, Connecticut, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

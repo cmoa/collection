@@ -1,0 +1,39 @@
+{
+  "title": "Self Portrait",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "acrylic and silkscreen on canvas",
+  "accession_number": "86.47",
+  "id": "cmoa:things/8d3ad9a9-5e7e-4365-9ee0-8ba3e04d98c3",
+  "credit_line": "Fellows Fund",
+  "date_acquired": "1986-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 80.125,
+  "item_height": 80.125,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026126",
+  "provenance_text": "Anthony D'Offay, London; Carnegie Museum of Art, Pittsburgh; Felows Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3602&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c527ff39-c938-45c8-b4ca-a5091527295a",
+      "party_type": "Person",
+      "full_name": "Andy Warhol",
+      "cited_name": "Warhol, Andy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

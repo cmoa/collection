@@ -1,0 +1,39 @@
+{
+  "title": "Drain",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "cast pewter",
+  "accession_number": "93.4",
+  "id": "cmoa:things/c890b23a-c04e-411a-8b67-0d36fa4f92c7",
+  "credit_line": "Robert S. Waters Charitable Trust Fund, Patrons Art Fund, Second Century Acquisition Fund, and Oxford Development Fund",
+  "date_acquired": "1993-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 9.25,
+  "item_height": 8.25,
+  "item_depth": 3.0,
+  "item_diameter": 4.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033633",
+  "provenance_text": "Paula Cooper Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh; Robert S. Waters Charitable Trust Fund, Patron's Art Fund, Second Century Acquisition Fund, and Oxford Development Acquisition Fund",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25693&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e1c5b1d7-8ca3-4e2e-a1b0-1417992d81d2",
+      "party_type": "Person",
+      "full_name": "Robert Gober",
+      "cited_name": "Gober, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Wallingford (New Haven county, Connecticut, United States)",
+      "death_place": null
+    }
+  ]
+}

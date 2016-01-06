@@ -1,0 +1,51 @@
+{
+  "title": "Molar chair",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "gel-coated fiberglass-reinforced plastic",
+  "accession_number": "2004.36.1.2",
+  "id": "cmoa:things/9a0c665f-7547-4942-949f-711a1f8003fc",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2004-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 22.25,
+  "item_height": 29.25,
+  "item_depth": 22.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=9792",
+  "provenance_text": "From Wendell Castle's studio/home to R 20th Century for the exhibition \"Auto Plastic: Wendell Castle 1968-1973\" curated by Donald Albrecht who worked closely with Castle over the exhibition.  Exhibition was on view May, 2004.",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101850&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87577c13-02d5-453b-8b13-8f7e7be8a311",
+      "party_type": "Person",
+      "full_name": "Wendell Castle",
+      "cited_name": "Castle, Wendell",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/87577c13-02d5-453b-8b13-8f7e7be8a311",
+      "party_type": "Person",
+      "full_name": "Wendell Castle",
+      "cited_name": "Castle, Wendell",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

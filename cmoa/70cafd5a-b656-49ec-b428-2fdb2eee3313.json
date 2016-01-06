@@ -1,0 +1,39 @@
+{
+  "title": "The Madonna with Joseph and Five Angels",
+  "creation_date": "c. 1505",
+  "creation_date_earliest": "1489-12-23",
+  "creation_date_latest": "1519-12-22",
+  "medium": "woodcut on paper",
+  "accession_number": "48.22.2",
+  "id": "cmoa:things/70cafd5a-b656-49ec-b428-2fdb2eee3313",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1948-12-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.812,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008287",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until December 8, 1948; his gift to Museum, December 1948.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49110&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

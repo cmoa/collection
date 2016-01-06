@@ -1,0 +1,51 @@
+{
+  "title": "Two men and a sleeping woman in a candlelit interior with a maidservant in the background",
+  "creation_date": "1774",
+  "creation_date_earliest": "1774-01-01",
+  "creation_date_latest": "1774-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.35",
+  "id": "cmoa:things/e5a8c1f3-0d9c-43d2-95d5-1501edc15110",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34380",
+  "provenance_text": "Rolf and Magda Loeber, by February 2007; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39435&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1297a4a7-c32b-4349-b0c4-e6dbe49d0d1e",
+      "party_type": "Person",
+      "full_name": "William Baillie",
+      "cited_name": "Baillie, William",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1723-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/609c4096-c3d2-4237-9a2c-1e4d7b9da45d",
+      "party_type": "Person",
+      "full_name": "Gerrit Dou",
+      "cited_name": "Dou, Gerrit",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1613-01-01",
+      "death_date": "1675-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Leyden (South Holland, Netherlands)"
+    }
+  ]
+}

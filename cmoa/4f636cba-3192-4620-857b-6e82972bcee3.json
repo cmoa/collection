@@ -1,0 +1,39 @@
+{
+  "title": "The Sages of Greece",
+  "creation_date": "c. 1790-1800",
+  "creation_date_earliest": "1780-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "pen and watercolor",
+  "accession_number": "58.35.2",
+  "id": "cmoa:things/4f636cba-3192-4620-857b-6e82972bcee3",
+  "credit_line": "Gift of Mr. and Mrs. Charles J. Rosenbloom",
+  "date_acquired": "1958-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010831",
+  "provenance_text": "Mr. and Mrs. Charles J. Rosenbloom, Pittsburgh; gift to museum, December 1958",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85440&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/801e9971-7294-4036-84fe-b55ef81cef43",
+      "party_type": "Person",
+      "full_name": "Benjamin West",
+      "cited_name": "West, Benjamin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1738-01-01",
+      "death_date": "1820-01-01",
+      "birth_place": "Swarthmore, Pennsylvania",
+      "death_place": "London, England"
+    }
+  ]
+}

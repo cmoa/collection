@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "porcelain with underglaze blue",
+  "accession_number": "29.3.12",
+  "id": "cmoa:things/dac25065-30e6-46cf-8097-e325665a48b6",
+  "credit_line": "Gift of Charles D. Armstrong",
+  "date_acquired": "1929-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.875,
+  "item_depth": 0.0,
+  "item_diameter": 8.313,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006204",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1188&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

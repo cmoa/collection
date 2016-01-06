@@ -1,0 +1,51 @@
+{
+  "title": "The Marriage of St. Catherine",
+  "creation_date": "1775",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.18",
+  "id": "cmoa:things/817c2cc9-563b-4c92-a868-ffb13e0baabe",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34337",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aecb1721-bc64-4cb2-b126-9357d4c963ce",
+      "party_type": "Person",
+      "full_name": "Valentine Green",
+      "cited_name": "Green, Valentine",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1739-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": " Salford (Salford, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/1c5d22f1-b72d-438c-b66e-6816f07e44d4",
+      "party_type": "Person",
+      "full_name": "Camillo Procaccini",
+      "cited_name": "Procaccini, Camillo",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1540-01-01",
+      "death_date": "1629-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

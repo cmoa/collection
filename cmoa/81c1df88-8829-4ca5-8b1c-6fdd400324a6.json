@@ -1,0 +1,39 @@
+{
+  "title": "Carbon",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "book: 144 pages hardbound, __ page softbound insert in back",
+  "accession_number": "92.55",
+  "id": "cmoa:things/81c1df88-8829-4ca5-8b1c-6fdd400324a6",
+  "credit_line": "Founders Patrons Day Acquisition Fund",
+  "date_acquired": "1992-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032515",
+  "provenance_text": "Marian Goodman Gallery, New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115595&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1bda41b5-acb2-416c-a10d-e4aedba5c978",
+      "party_type": "Person",
+      "full_name": "Lothar Baumgarten",
+      "cited_name": "Baumgarten, Lothar",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Rheinsberg (Potsdam district, Brandenburg, Germany)",
+      "death_place": null
+    }
+  ]
+}

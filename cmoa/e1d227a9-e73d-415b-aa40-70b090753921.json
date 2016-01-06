@@ -1,0 +1,39 @@
+{
+  "title": "Cup and Saucer",
+  "creation_date": "1751-1783",
+  "creation_date_earliest": "1751-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "transfer printed porcelain",
+  "accession_number": "23.10.3-.4",
+  "id": "cmoa:things/e1d227a9-e73d-415b-aa40-70b090753921",
+  "credit_line": "Gift of Reverend Alfred Duane Pell",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15319",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3160&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dc883ac6-1bfb-4989-b8bd-962b4674045d",
+      "party_type": "Organization",
+      "full_name": "Caughley Porcelain Factory",
+      "cited_name": "Caughley Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1751-01-01",
+      "death_date": "1783-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Platter",
+  "creation_date": "c. 1988",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "earthenware",
+  "accession_number": "2003.36",
+  "id": "cmoa:things/baea85d8-1fb5-42d4-ba56-a785fba60fb0",
+  "credit_line": "Purchase: gift of Richard and Rhoda Shear Neft",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 21.75,
+  "item_height": 26.25,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3640",
+  "provenance_text": "Concept Art Gallery",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10958&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2145df56-fdac-4e5a-8eef-b6236d818329",
+      "party_type": "Person",
+      "full_name": "Jun Kaneko",
+      "cited_name": "Kaneko, Jun",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Candlestick",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "glass",
+  "accession_number": "94.251.2",
+  "id": "cmoa:things/91b66c85-dffe-4ca4-b114-26291500a34a",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1995-01-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 4.375,
+  "item_depth": 0.0,
+  "item_diameter": 4.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035140",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1816&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ce877e1d-e724-42f2-bf70-dd4340488950",
+      "party_type": "Person",
+      "full_name": "Walter Dorwin Teague",
+      "cited_name": "Teague, Walter D.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Decatur, IN",
+      "death_place": "Flemington, NJ"
+    },
+    {
+      "artist_id": "cmoa:parties/c54109aa-6ab3-41bd-97b2-17d54fbdfdf2",
+      "party_type": "Organization",
+      "full_name": "Steuben Glass Works",
+      "cited_name": "Steuben Glass Works",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Indonesian Dancers",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "62.30",
+  "id": "cmoa:things/3d6b216f-948f-422a-9428-ec56f3387331",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1962-10-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 67.625,
+  "item_height": 31.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011557",
+  "provenance_text": "Gift of the artist Naoko Matsubara, 10/30/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=45702&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38877&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d9285b51-f897-4cc8-b8bc-778421478961",
+      "party_type": "Person",
+      "full_name": "Matsubara Naoko",
+      "cited_name": "Matsubara Naoko",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokushima prefecture",
+      "death_place": null
+    }
+  ]
+}

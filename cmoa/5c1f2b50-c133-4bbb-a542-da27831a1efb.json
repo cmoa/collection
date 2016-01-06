@@ -1,0 +1,39 @@
+{
+  "title": "The Coal Carrier",
+  "creation_date": "1854-1858",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1858-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "71.33",
+  "id": "cmoa:things/5c1f2b50-c133-4bbb-a542-da27831a1efb",
+  "credit_line": "Gift of Mr. and Mrs. Benjamin Page in memory of Mrs. Mary Lemoyne Page and Mrs. Leila Clarkson Black",
+  "date_acquired": "1971-10-14",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 27.25,
+  "item_height": 34.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016172",
+  "provenance_text": "Leila Clarkson Black, Pittsburgh, PA, by 1938; Mary LeMoyne Page, Pittsburgh, PA, 1938; Mr. and Mrs. Benjamin Page, Jr.?, Morristown, NJ. Gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, in 1971.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10348&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

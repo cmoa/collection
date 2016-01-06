@@ -1,0 +1,39 @@
+{
+  "title": "Saint-Étienne-Du-Mont",
+  "creation_date": "1852",
+  "creation_date_earliest": "1852-01-01",
+  "creation_date_latest": "1852-01-01",
+  "medium": "etching",
+  "accession_number": "48.17.4",
+  "id": "cmoa:things/635e55cd-040b-41db-8e11-a053a4d76507",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008244",
+  "provenance_text": "Charles Meryon [1821-1868], France. Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843); gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, April 1948.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84791&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab6edf6d-1e81-4147-8def-aadd0e531b16",
+      "party_type": "Person",
+      "full_name": "Charles Meryon",
+      "cited_name": "Meryon, Charles",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1821-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Charenton-le-Pont (Val-de-Marne, Ile-de-France, France)"
+    }
+  ]
+}

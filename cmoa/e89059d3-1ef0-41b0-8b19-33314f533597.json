@@ -1,0 +1,39 @@
+{
+  "title": "Charger",
+  "creation_date": "c. 1878",
+  "creation_date_earliest": "1873-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "earthenware with enamel decoration",
+  "accession_number": "2007.29",
+  "id": "cmoa:things/e89059d3-1ef0-41b0-8b19-33314f533597",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 22.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=43201",
+  "provenance_text": "Haslam & Whiteway Ltd., London",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54315&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9e4a4e36-3fee-4619-adad-e80bf7b3d451",
+      "party_type": "Organization",
+      "full_name": "J. Vieillard & Cie.",
+      "cited_name": "Vieillard, J. & Cie.",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1845-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

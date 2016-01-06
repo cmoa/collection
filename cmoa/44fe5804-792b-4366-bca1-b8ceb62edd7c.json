@@ -1,0 +1,39 @@
+{
+  "title": "No. 54",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "61.31.1",
+  "id": "cmoa:things/44fe5804-792b-4366-bca1-b8ceb62edd7c",
+  "credit_line": "Patrons Art Fund: gift of Mr. and Mrs. George Magee Wyckoff",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 51.25,
+  "item_height": 43.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011415",
+  "provenance_text": "Galerie Aenne Abels, Cologne, Germany",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27162&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/41de8baa-902c-4088-802c-09b8eaa800b8",
+      "party_type": "Person",
+      "full_name": "Peter Brüning",
+      "cited_name": "Brüning, Peter",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1929-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Dusseldorf (Düsseldorf district, North Rhine-Westphalia, Germany)",
+      "death_place": "Ratingen (Düsseldorf district, North Rhine-Westphalia, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Of War",
+  "creation_date": "1942, reworked 1960",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil and tempera on Masonite",
+  "accession_number": "80.50",
+  "id": "cmoa:things/72e7d585-4b25-47f2-8e25-b9f8eb3ee897",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1980-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 54.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021227",
+  "provenance_text": "Graham Gallery, New York, by 1980; Museum purchase: gift of the Robert S. Waters Charitable Trust, 1980",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13817&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ec0af36-829d-4b03-b8b8-c21aa5c38739",
+      "party_type": "Person",
+      "full_name": "Carl Robert Holty",
+      "cited_name": "Holty, Carl Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Germany, Freiburg",
+      "death_place": null
+    }
+  ]
+}

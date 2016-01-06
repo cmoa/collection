@@ -1,0 +1,39 @@
+{
+  "title": "Aurora Leigh",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "40.4",
+  "id": "cmoa:things/cb0a8088-8f69-49ac-bbb9-0fb68c3b0666",
+  "credit_line": "Gift of C. Bernard Shea in memory of Joseph B. Shea",
+  "date_acquired": "1940-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 52.375,
+  "item_height": 76.375,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007232",
+  "provenance_text": "The artist, John White Alexander (1856-1915), New York, NY, until May 1915; John White Alexander estate, May-December, 1915; Charles V. Wheeler (1866-?), Washington D.C., December 1915 until November 1, 1935 [1]; sale, American Art Association, Anderson Galleries, Inc., New York, NY, November 1, 1935, no. 62 [2]; William Randolph Hearst (1863-1951), New York, NY and San Simeon, CA, November 1, 1935 until at least April 15 but before May 9, 1940 [3]; C. Bernard Shea, Pittsburgh, PA, until May 9, 1940; gift to museum, May 1940.\n\nNotes:\n[1]. Date of acquisition is from an article titled \"Specimens\" written by Charles V. Wheeler for his \"Sketches\", published privately in Washington D.C. in 1926.  The article also gives the background for the painting as related by Mrs. Alexander and states that \"The painting was part of the contents of their New York house, 116 East 65th Street, deeded to his wife by Mr. Alexander some time before his death.\"  It is unclear whether this refers to the painting or the house.  The National Association of Portrait Painters Fifth Annual Circuit Exhibition label (October 1915) on the back of the painting identifies the owner as the \"Estate of Mr. Alexander\".  \n[2]. As Aurora Leigh in \"The Private Collection of Charles V. Wheeler, Washington D.C.\" in sale titled \"American and French Paintings\".  An annotated copy of the auction catalogue provided by Mr. Wheeler's granddaughter Joan Wheeler Shadid (in curatorial file) shows that the painting was purchased at the auction by William Randolph Hearst for $1250 and indicates its original cost as $5000.  \n[3]. The painting was part of an exhibition of the Hearst collection at Joseph Horne Co., Pittsburgh, PA between April 15 and May 29, 1940.  It was acquired from the exhibition by C. Bernard Shea and accepted by the museum board on May 9, 1940 as a gift from Mr. Shea in memory of his father.  See museum correspondence with Mr. Shea in curatorial file.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8022&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3cf1030-5eeb-4eb0-9ff0-310bf4f92e37",
+      "party_type": "Person",
+      "full_name": "John White Alexander",
+      "cited_name": "Alexander, John White",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": "New York, NY"
+    }
+  ]
+}

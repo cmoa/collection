@@ -1,0 +1,51 @@
+{
+  "title": "Centerpiece",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "silver and mirrored glass",
+  "accession_number": "2011.18.A-.B",
+  "id": "cmoa:things/d49eca01-c465-4848-8977-4a9e7770f99a",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 9.438,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93302",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114006&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bf6ef795-38e4-4f0c-b788-f9c642311871",
+      "party_type": "Person",
+      "full_name": "Raymond Ruys",
+      "cited_name": "Ruys, Raymond",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1885-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/85ab1d7b-e7cd-4588-ae22-b381ec85ceea",
+      "party_type": "Person",
+      "full_name": "Raymond Delheid",
+      "cited_name": "Delheid, Raymond",
+      "role": "maker",
+      "nationality": "Belgian",
+      "birth_date": "1828-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

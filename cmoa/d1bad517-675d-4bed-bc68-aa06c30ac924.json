@@ -1,0 +1,39 @@
+{
+  "title": "Jar",
+  "creation_date": "18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "earthenware",
+  "accession_number": "57.12.22.A-B",
+  "id": "cmoa:things/d1bad517-675d-4bed-bc68-aa06c30ac924",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-04-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 8.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010359",
+  "provenance_text": "G. David Thompson",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

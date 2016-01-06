@@ -1,0 +1,42 @@
+{
+  "title": "Camp de Vosnessensk, 1837",
+  "creation_date": "1842",
+  "creation_date_earliest": "1842-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "43.4.15",
+  "id": "cmoa:things/ba1313af-3093-4773-b1a6-452f010729ac",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007402",
+  "provenance_text": "Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104680&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4a181e86-a98f-4ae3-b4db-e3a98e577536",
+      "party_type": "Person",
+      "full_name": "Denis Auguste Marie Raffet",
+      "cited_name": "Raffet, Denis A.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1804-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Genoa (Genova province, Liguria, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "John W. Beatty",
+  "creation_date": "1911",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "platinum print",
+  "accession_number": "2005.50.1.3",
+  "id": "cmoa:things/b2974861-66b5-4789-860a-f8204e591fdd",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2005-10-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 9.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=17437",
+  "provenance_text": "Estate of John W. Beatty until 1924\nEstate of Mrs. John W. Beatty until ca. 1945\nAcquired by Morton B. Katz of Toronto, Canada, 2004",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99920&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48331&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed0cef9e-21db-420b-a456-7a9a8c9c1657",
+      "party_type": "Person",
+      "full_name": "Clarence H. White",
+      "cited_name": "White, Clarence H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "West Carlisle, Ohio",
+      "death_place": null
+    }
+  ]
+}

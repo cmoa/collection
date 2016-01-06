@@ -1,0 +1,39 @@
+{
+  "title": "Twelve Hours",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "charcoal and red chalk on pounced red paper",
+  "accession_number": "2008.90.1",
+  "id": "cmoa:things/f3b91c37-1601-4713-8ce7-2cecd595434a",
+  "credit_line": "Gift of the artist in honor of Richard Armstrong",
+  "date_acquired": "2009-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 119.0,
+  "item_height": 53.938,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=79131",
+  "provenance_text": "The artist, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146459&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cc5bf0b-1297-42c2-93a1-cf2acfd9b5da",
+      "party_type": "Person",
+      "full_name": "Alex Katz",
+      "cited_name": "Katz, Alex",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn (New York City, New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Untitled",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.89.38",
+  "id": "cmoa:things/44ee36c4-9dbd-4f13-9c55-c305b45a2deb",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1978-02-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.5,
+  "item_height": 26.375,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019178",
+  "provenance_text": "Lefebre Gallery, New York; James L. Winokur, Pittsburgh.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a8048d6-95de-44b8-a9bf-9489086ead0e",
+      "party_type": "Person",
+      "full_name": "Carl-Henning Pedersen",
+      "cited_name": "Pedersen, Carl-Henning",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1913-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Copenhagen, Denmark",
+      "death_place": null
+    }
+  ]
+}

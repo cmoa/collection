@@ -1,0 +1,39 @@
+{
+  "title": "The entrance to Oude Haven docks at Rotterdam",
+  "creation_date": "1768",
+  "creation_date_earliest": "1768-01-01",
+  "creation_date_latest": "1768-01-01",
+  "medium": "etching",
+  "accession_number": "16.21.6",
+  "id": "cmoa:things/71536d32-6bc6-4dc9-928c-2738b5173a7d",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001120",
+  "provenance_text": "Kennedy & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101795&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4220b421-c31d-4ce9-a6fb-c81b999dfd1d",
+      "party_type": "Person",
+      "full_name": "Hendrik Kobell",
+      "cited_name": "Kobell, Hendrik",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1751-01-01",
+      "death_date": "1779-01-01",
+      "birth_place": " Rotterdam (South Holland, Netherlands)",
+      "death_place": " Rotterdam (South Holland, Netherlands)"
+    }
+  ]
+}

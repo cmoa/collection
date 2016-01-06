@@ -1,0 +1,39 @@
+{
+  "title": "Bottle",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glass",
+  "accession_number": "54.10.2",
+  "id": "cmoa:things/200db90e-66a6-42a2-a242-b5c172f1257a",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1954-03-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 4.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009188",
+  "provenance_text": "Edward Duff Balken",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=996&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

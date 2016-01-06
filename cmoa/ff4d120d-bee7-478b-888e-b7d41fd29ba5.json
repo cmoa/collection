@@ -1,0 +1,39 @@
+{
+  "title": "Farm Yard Scene",
+  "creation_date": null,
+  "creation_date_earliest": "1833-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "Chalk and watercolor on paper",
+  "accession_number": "75.47.20",
+  "id": "cmoa:things/ff4d120d-bee7-478b-888e-b7d41fd29ba5",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017783",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99428&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df41cb07-590c-4341-8dc5-1d2aff9e851c",
+      "party_type": "Person",
+      "full_name": "Charles Émile Jacque",
+      "cited_name": "Jacque, Charles Émile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1813-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

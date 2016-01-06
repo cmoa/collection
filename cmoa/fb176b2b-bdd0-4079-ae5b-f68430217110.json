@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "iridescent glass",
+  "accession_number": "80.19.3",
+  "id": "cmoa:things/fb176b2b-bdd0-4079-ae5b-f68430217110",
+  "credit_line": "Gift of Peter G. Veeder and James M. Veeder, Jr.",
+  "date_acquired": "1980-05-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 4.25,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021096",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=670&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/31c58ba3-9693-46c7-ac68-72c2976ad0a7",
+      "party_type": "Organization",
+      "full_name": "Quezal Art Glass and Decorating Co.",
+      "cited_name": "Quezal Art Glass and Decorating Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

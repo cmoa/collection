@@ -1,0 +1,37 @@
+{
+  "title": "Ship Portrait",
+  "creation_date": null,
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "78.10.32",
+  "id": "cmoa:things/c8e693f5-ef6d-4045-863c-be4cb8f6e55a",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 22.875,
+  "item_depth": 3.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019243",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cc5f52f7-327a-480f-b971-f50d4a661a53",
+      "party_type": "Person",
+      "full_name": "James G. Tyler",
+      "cited_name": "Tyler, James G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1855-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Oswego (Oswego county, New York state, United States)",
+      "death_place": "Pelham (Westchester county, New York state, United States)"
+    }
+  ]
+}

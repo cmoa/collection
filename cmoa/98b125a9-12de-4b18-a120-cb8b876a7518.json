@@ -1,0 +1,39 @@
+{
+  "title": "Cripple Creek",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "49.23.17",
+  "id": "cmoa:things/98b125a9-12de-4b18-a120-cb8b876a7518",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1949-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008549",
+  "provenance_text": "Acquired from the artist, George Biddle",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108061&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e8d13a3d-114c-4b3d-ad36-b5086592613b",
+      "party_type": "Person",
+      "full_name": "George Biddle",
+      "cited_name": "Biddle, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

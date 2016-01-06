@@ -1,0 +1,39 @@
+{
+  "title": "Charger",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "hard paste porcelain",
+  "accession_number": "77.83.6",
+  "id": "cmoa:things/7ec976f4-cac9-4a51-9f3e-c26876e5c239",
+  "credit_line": "Gift of Stanley and Charlotte Bernstein",
+  "date_acquired": "1978-02-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.812,
+  "item_depth": 0.0,
+  "item_diameter": 14.813,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019108",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1772&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Manuscript",
+  "creation_date": "15th century",
+  "creation_date_earliest": "1399-12-24",
+  "creation_date_latest": "1498-12-23",
+  "medium": "paint on vellum",
+  "accession_number": "27.10.538",
+  "id": "cmoa:things/843f1ac8-9ded-4387-83bd-9e83ea2e621e",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005831",
+  "provenance_text": "A. Olivetti, Florence, Italy; purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, March 27, 1925; gift to Department of Fine Arts, Carnegie Institute [1856-1930], Pittsburgh, PA, November 1927.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99443&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8403e000-5013-4a76-9eee-b87cb971f09a",
+      "party_type": "Person",
+      "full_name": "unknown Flemish",
+      "cited_name": "unknown Flemish",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

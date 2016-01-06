@@ -1,0 +1,39 @@
+{
+  "title": "A Love Story",
+  "creation_date": "2011-2012",
+  "creation_date_earliest": "2011-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "HD video, color, sound, 5:37 min.",
+  "accession_number": "2013.51",
+  "id": "cmoa:things/cb928afb-c745-4f9e-9553-4942c2d7e673",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2013-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=101127",
+  "provenance_text": null,
+  "classification": "Video",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127177&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7fa78d94-2585-4257-a777-acf36be979fe",
+      "party_type": "Person",
+      "full_name": "Amar Kanwar",
+      "cited_name": "Kanwar, Amar",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": "1974-01-01",
+      "death_date": null,
+      "birth_place": "New Delhi, India",
+      "death_place": null
+    }
+  ]
+}

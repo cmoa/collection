@@ -1,0 +1,42 @@
+{
+  "title": "Tulsa",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "paper",
+  "accession_number": "1997.48.2",
+  "id": "cmoa:things/ea43b228-c84a-4514-9b72-21163f844bc7",
+  "credit_line": "Bequest of John Caldwell, Curator of Contemporary Art, 1983 - 1989",
+  "date_acquired": "1997-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.25,
+  "item_height": 12.25,
+  "item_depth": 0.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003392",
+  "provenance_text": "Estate of John CALDWELL, San Francisco, CA",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114097&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114098&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ae09c8e-33ad-4f77-8fd7-042c631e2097",
+      "party_type": "Person",
+      "full_name": "Larry Clark",
+      "cited_name": "Clark, Larry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Tulsa (Tulsa county, Oklahoma, United States)",
+      "death_place": null
+    }
+  ]
+}

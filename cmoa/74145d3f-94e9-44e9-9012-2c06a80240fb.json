@@ -1,0 +1,51 @@
+{
+  "title": "Mug",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "earthenware with sgraffito decoration",
+  "accession_number": "1997.8.3.1",
+  "id": "cmoa:things/74145d3f-94e9-44e9-9012-2c06a80240fb",
+  "credit_line": "Gift in memory of George R. Thomas by Mrs. George R. Thomas, Ann Thomas Wilkins and David G. Wilkins",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.438,
+  "item_height": 5.25,
+  "item_depth": 3.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003495",
+  "provenance_text": "Mrs. George R. Thomas, Ann Thomas Wilkins, David G. Wilkins, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3120&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/04731a63-d986-47c8-b8d0-2e76ec93dc62",
+      "party_type": "Person",
+      "full_name": "Edwin Scheier",
+      "cited_name": "Scheier, Edwin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8c9eedf7-280e-437d-8e10-d4d4fe95e7e9",
+      "party_type": "Person",
+      "full_name": "Mary Scheier",
+      "cited_name": "Scheier, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Salem (Culpeper county, Virginia, United States)",
+      "death_place": "Green Valley (Pima county, Arizona, United States)"
+    }
+  ]
+}

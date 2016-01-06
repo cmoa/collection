@@ -1,0 +1,39 @@
+{
+  "title": "Nathanael Dilgerus",
+  "creation_date": "1683",
+  "creation_date_earliest": "1683-01-01",
+  "creation_date_latest": "1683-01-01",
+  "medium": "engraving",
+  "accession_number": "47.11.10",
+  "id": "cmoa:things/e99e98d5-0e8b-445d-8b1a-6eb962dde48a",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1947-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.688,
+  "item_height": 12.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008026",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until June 4, 1947; his gift to Museum, June 1947.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102172&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30fba4e0-6855-40e6-b5cb-4ebe28c54090",
+      "party_type": "Person",
+      "full_name": "Gérard Edelinck",
+      "cited_name": "Edelinck, Gérard",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1640-01-01",
+      "death_date": "1707-01-01",
+      "birth_place": " Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

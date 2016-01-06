@@ -1,0 +1,39 @@
+{
+  "title": "Sunlight on the Allegheny",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.21.31",
+  "id": "cmoa:things/5cc23498-7f80-4d16-babb-f53ea1d3bdc2",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-04-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.438,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023636",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7852&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d7cc2de-1c66-460f-a766-474f86538469",
+      "party_type": "Person",
+      "full_name": "Hew Charles Torrance",
+      "cited_name": "Torrance, Hew C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Scotland",
+      "death_place": null
+    }
+  ]
+}

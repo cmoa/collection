@@ -1,0 +1,51 @@
+{
+  "title": "Commercial Building, Hartford, CT; [exterior perspective]",
+  "creation_date": null,
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "ink, watercolor and pencil",
+  "accession_number": "94.30",
+  "id": "cmoa:things/e25f61eb-7777-46d2-a8ff-636377483e3a",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1994-04-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035173",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115839&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c804cb7-5332-40d7-8b21-25dbc32545c2",
+      "party_type": "Organization",
+      "full_name": "Bayley and Goodrich",
+      "cited_name": "Bayley and Goodrich",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5a8fa270-c5fc-42af-a252-b779bb6ad2ae",
+      "party_type": "Person",
+      "full_name": "A. N. Paddock",
+      "cited_name": "Paddock, A. N.",
+      "role": "delineator",
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

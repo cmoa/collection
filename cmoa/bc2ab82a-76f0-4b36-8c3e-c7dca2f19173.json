@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1760",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.1037",
+  "id": "cmoa:things/bc2ab82a-76f0-4b36-8c3e-c7dca2f19173",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.312,
+  "item_depth": 0.0,
+  "item_diameter": 7.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013097",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1957&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d4b8284-3e24-4e02-b42f-40d126ace384",
+      "party_type": "Organization",
+      "full_name": "Ludwigsburg Pottery and Porcelain Factory",
+      "cited_name": "Ludwigsburg Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1758-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

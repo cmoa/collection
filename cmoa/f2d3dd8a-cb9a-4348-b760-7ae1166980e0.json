@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1750-1775",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "glazed porcelain",
+  "accession_number": "76.2.12",
+  "id": "cmoa:things/f2d3dd8a-cb9a-4348-b760-7ae1166980e0",
+  "credit_line": "Gift of Rosamond Reed Denby in memory of Adele Wilcox Reed",
+  "date_acquired": "1976-02-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.25,
+  "item_depth": 0.0,
+  "item_diameter": 8.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018026",
+  "provenance_text": "Mr. and Mrs. Charles Denby, FL, Osprey",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3318&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d3b641b-5ded-4a58-b7ed-d1441e038311",
+      "party_type": "Organization",
+      "full_name": "Royal Worcester Porcelain Company",
+      "cited_name": "Royal Worcester Porcelain Company",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": "1751-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

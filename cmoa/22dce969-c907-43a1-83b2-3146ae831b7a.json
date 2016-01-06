@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1800-1801",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1801-01-01",
+  "medium": "sterling silver",
+  "accession_number": "78.36.7",
+  "id": "cmoa:things/22dce969-c907-43a1-83b2-3146ae831b7a",
+  "credit_line": "Gift of Mr. and Mrs. Charles Denby",
+  "date_acquired": "1978-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.438,
+  "item_depth": 0.0,
+  "item_diameter": 9.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020037",
+  "provenance_text": "Gift of Mr. and Mrs. Charles Denby, Osprey, FL, 1978.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5215&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3afd1b7-82dc-4591-930e-20879619e294",
+      "party_type": "Person",
+      "full_name": "Paul Storr",
+      "cited_name": "Storr, Paul",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1771-01-01",
+      "death_date": "1844-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
+    }
+  ]
+}

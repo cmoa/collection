@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Guillaume de Brisacier",
+  "creation_date": "1664",
+  "creation_date_earliest": "1664-01-01",
+  "creation_date_latest": "1664-01-01",
+  "medium": "engraving",
+  "accession_number": "23.13.14",
+  "id": "cmoa:things/f4f5a0e0-2c7e-4568-bfa0-c0ef08a89211",
+  "credit_line": "Purchase",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004872",
+  "provenance_text": "Fitzroy Carrington, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102716&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5fd8a40b-d4bd-491b-9ac1-0bff22851c44",
+      "party_type": "Person",
+      "full_name": "Antoine Masson",
+      "cited_name": "Masson, Antoine",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1636-01-01",
+      "death_date": "1700-01-01",
+      "birth_place": "Loury (Loiret, Centre region, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/86c6246b-f75c-4a53-bd65-0135505ce6e3",
+      "party_type": "Person",
+      "full_name": "Nicholas Mignard",
+      "cited_name": "Mignard, Nicholas",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1606-01-01",
+      "death_date": "1668-01-01",
+      "birth_place": "Troyes (Aube, Champagne-Ardenne, France)",
+      "death_place": "Paris (Ville de Paris department, Ile-de-France, France)"
+    }
+  ]
+}

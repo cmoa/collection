@@ -1,0 +1,51 @@
+{
+  "title": "Picture Frame",
+  "creation_date": "1897",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1897-01-01",
+  "medium": "aluminum and oak",
+  "accession_number": "85.20",
+  "id": "cmoa:things/84d04a0a-738f-410a-80b2-d3c141778edc",
+  "credit_line": "Purchase: Roy A. Hunt Fund, gift of the Hunt Foundation, and Patrons Art Fund",
+  "date_acquired": "1985-06-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 27.0,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025454",
+  "provenance_text": "Purchased in 1897 for five guineas by James Craig Annan for his photograph \"Molly\"\nSold at Christie's Nov. 22, 1982.\nColl. Michael John Decorative Arts Ltd., London\nColl. Barry Friedman Ltd., New York City, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11623&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/092818b0-da1b-4f49-80a0-cf13ff973aca",
+      "party_type": "Person",
+      "full_name": "Margaret Macdonald",
+      "cited_name": "Macdonald, Margaret",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1865-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bd19a8e9-591c-4df0-8469-da9308e08830",
+      "party_type": "Person",
+      "full_name": "Frances Macdonald",
+      "cited_name": "Macdonald, Frances",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1874-01-01",
+      "death_date": "1921-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

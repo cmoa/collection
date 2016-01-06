@@ -1,0 +1,42 @@
+{
+  "title": "Inkstand",
+  "creation_date": "c. 1877",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "painted iron and glass",
+  "accession_number": "2009.71.1-.4",
+  "id": "cmoa:things/aac3f237-afa7-4534-8acb-522545486ed0",
+  "credit_line": "Gift of Robert E. and Mary Louise Irish",
+  "date_acquired": "2010-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 5.25,
+  "item_depth": 7.125,
+  "item_diameter": 1.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=89021",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99588&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99691&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6aa33754-abe7-4f42-a943-7cacfd716574",
+      "party_type": "Organization",
+      "full_name": "Peck, Stow, and Wilcox Company",
+      "cited_name": "Peck, Stow, and Wilcox Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

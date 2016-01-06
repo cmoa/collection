@@ -1,0 +1,60 @@
+{
+  "title": "Side cabinet",
+  "creation_date": "1867",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "walnut with walnut veneer, multi wood inlay, and brass",
+  "accession_number": "2007.25",
+  "id": "cmoa:things/a021bec0-9ca3-4c78-a442-89724643f37a",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 67.75,
+  "item_height": 53.5,
+  "item_depth": 19.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=43183",
+  "provenance_text": "Gillow and Company [1730-1903]; Commissioned by John Grant Morris [-1897], Liverpool, England, 1867 [1]; sold at Christie's, London, after 1897. Possibly Liberty's [1875-] [2]. Sold at H. Blairman & Sons, Ltd., London, by June 2007; purchased by Museum, 2007. \nNOTES:1. Morris had this cabinet made for his home, Allerton Priory, in Lancashire, England.  2. Liberty's  purchased most of Morris' Asian art collection. Further research into Christies and Liberty's archives could reveal the subsequent provenance.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96236&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96239&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96244&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96248&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/25b8c1e4-a1d2-4c34-88d0-1d4686945ab3",
+      "party_type": "Person",
+      "full_name": "Bruce Talbert",
+      "cited_name": "Talbert, Bruce",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1838-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": "Dundee, Scotland",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/a8e78ba6-4dc5-4f39-9fb1-a84eb69334fa",
+      "party_type": "Organization",
+      "full_name": "Gillow and Company",
+      "cited_name": "Gillow and Company",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1720-01-01",
+      "death_date": "1897-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

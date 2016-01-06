@@ -1,0 +1,42 @@
+{
+  "title": "Young Girl with a Cat (Julie Manet) [Fillette au Chat (Julie Manet)]",
+  "creation_date": "c. 1889",
+  "creation_date_earliest": "1884-01-01",
+  "creation_date_latest": "1894-01-01",
+  "medium": "drypoint",
+  "accession_number": "2014.76",
+  "id": "cmoa:things/f3f499de-69b8-43b8-ac0d-ca240dbe956b",
+  "credit_line": "Gift of the Fritsche Family: Joe, Louise, Karen, and Nancy",
+  "date_acquired": "2014-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 15.0,
+  "item_height": 16.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106271",
+  "provenance_text": "Berthe Morisot [1841-1895], France. (Sold at Galerie d'Orsay, Boston, MA); purchased by Carnegie Museum of Art, Pittsburgh, PA, December 2014.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134055&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134054&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7d34f53-02a9-4f32-818e-373778abf67d",
+      "party_type": "Person",
+      "full_name": "Berthe Morisot",
+      "cited_name": "Morisot, Berthe",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1841-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": "Bourges, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

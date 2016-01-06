@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1944",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "watercolor, ink and tempera on paper (double-sided)",
+  "accession_number": "85.14.A-B",
+  "id": "cmoa:things/47925283-1235-409b-94a5-747ec6fe2ca9",
+  "credit_line": "Gift of the Mark Rothko Foundation",
+  "date_acquired": "1985-04-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.375,
+  "item_height": 46.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025438",
+  "provenance_text": "The Mark Rothko Foundation, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30156&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30154&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9291eef3-31f0-499a-b741-691a8f2ea422",
+      "party_type": "Person",
+      "full_name": "Mark Rothko",
+      "cited_name": "Rothko, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Daugavpils (Daugavpils district, Latvia)",
+      "death_place": "New York City, New York"
+    }
+  ]
+}

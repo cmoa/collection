@@ -1,0 +1,51 @@
+{
+  "title": "Secretary, Fall-Front (Secrétaire à abattant)",
+  "creation_date": "c. 1770-1780",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "wood and ivory",
+  "accession_number": "70.32.25",
+  "id": "cmoa:things/ff4bd35e-4000-490c-9473-3e45fd34610c",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 39.875,
+  "item_height": 57.5,
+  "item_depth": 18.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014830",
+  "provenance_text": "Gift of Ailsa Mellon Bruce",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/90b9572f-e520-43c2-ad50-27765793f692",
+      "party_type": "Person",
+      "full_name": "Georges  Jansen",
+      "cited_name": "Jansen, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1726-01-01",
+      "death_date": null,
+      "birth_place": "Scandinavia",
+      "death_place": null
+    }
+  ]
+}

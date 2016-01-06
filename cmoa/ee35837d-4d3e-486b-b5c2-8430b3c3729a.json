@@ -1,0 +1,51 @@
+{
+  "title": "The Seventh Month: The Bon Festival Dance (Shichigatsu Bon odori sairei nari)",
+  "creation_date": "c. 1793",
+  "creation_date_earliest": "1783-01-01",
+  "creation_date_latest": "1803-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.393",
+  "id": "cmoa:things/ee35837d-4d3e-486b-b5c2-8430b3c3729a",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.187,
+  "item_height": 8.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028134",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=80194&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/577fb631-ad5e-46a9-9c59-4d77763d2111",
+      "party_type": "Person",
+      "full_name": "Juzaburo Tsutaya",
+      "cited_name": "Juzaburo Tsutaya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

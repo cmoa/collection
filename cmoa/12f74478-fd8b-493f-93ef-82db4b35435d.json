@@ -1,0 +1,51 @@
+{
+  "title": "After a Hot Bath",
+  "creation_date": "c. 1933",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "85.26.3",
+  "id": "cmoa:things/12f74478-fd8b-493f-93ef-82db4b35435d",
+  "credit_line": "Gift of Mrs. E. F. Shumaker",
+  "date_acquired": "1985-06-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.125,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025477",
+  "provenance_text": "Mrs. E. F. Shumaker, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=33819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e8d9890-40e7-4de3-b1c6-3043c7a6774d",
+      "party_type": "Person",
+      "full_name": "Kobayakawa Kiyoshi",
+      "cited_name": "Kobayakawa Kiyoshi",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1896-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Japan, Fukuoka",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/df4113c0-dada-455e-a188-71882e684ace",
+      "party_type": "Person",
+      "full_name": "Takamizawa Enji",
+      "cited_name": "Takamizawa Enji",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "2004.60.1",
+  "id": "cmoa:things/d6f0e3b7-26f2-421f-bcff-231410e937f8",
+  "credit_line": "Gift of Mrs. William V. Conn in memory of her parents, Charles A. and Anna R. Lynch",
+  "date_acquired": "2005-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.25,
+  "item_height": 9.5,
+  "item_depth": 9.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13594",
+  "provenance_text": "Mrs. William V. Conn, Pittsburgh, PA.",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Youth and Sugar Bowl",
+  "creation_date": "c. 1856-1860",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.2",
+  "id": "cmoa:things/184fcf6d-8543-47ab-a7ef-5726cf3d6afb",
+  "credit_line": "Gift of Lydia I. O'Neil (Mrs. Edward O'Neil II)",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 25.75,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011797",
+  "provenance_text": "The Spang family, Pittsburgh; John A. Harper, Pittsburgh, by 1914; his daughter Mrs. H.A. Byram, San Francisco, by 1950; his daughter Mrs. Franklin C. Irish, Pittsburgh, by 1959; her daughter Mrs. Edward O'Neil II, Pittsburgh, by 1964; gift of Mrs. Edward O'Neil II, 1964",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149570&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sampler",
+  "creation_date": "1827",
+  "creation_date_earliest": "1827-01-01",
+  "creation_date_latest": "1827-01-01",
+  "medium": "cotton, wool and silk",
+  "accession_number": "81.10.31",
+  "id": "cmoa:things/bbcf132d-caed-4424-ab82-efd7bc6aa117",
+  "credit_line": "Gift of Mr. and Mrs. James A. Drain",
+  "date_acquired": "1981-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 20.125,
+  "item_height": 16.375,
+  "item_depth": 0.0,
+  "item_diameter": 32.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021511",
+  "provenance_text": "Mr. And Mrs. James A. Drain, Ligonier, PA",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6492&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68ecec39-ffc4-455f-a5d1-44976ae8f0ad",
+      "party_type": "Person",
+      "full_name": "Mary Sampson",
+      "cited_name": "Sampson, Mary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

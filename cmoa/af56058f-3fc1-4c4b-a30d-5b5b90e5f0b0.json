@@ -1,0 +1,42 @@
+{
+  "title": "[Blast Furnace]",
+  "creation_date": "c. 1927-1930",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.76.74.2",
+  "id": "cmoa:things/af56058f-3fc1-4c4b-a30d-5b5b90e5f0b0",
+  "credit_line": "Gift of Edith Swank Long by transfer from the Pennsylvania Department, Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-10-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 3.938,
+  "item_height": 3.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024172",
+  "provenance_text": "Pennsylvania Department, Carnegie Library of Pittsburgh; transferred to museum, October 1983",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30441&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c730db3-7ca6-4e1d-ae3c-2968c1ad8ab9",
+      "party_type": "Person",
+      "full_name": "Luke Swank",
+      "cited_name": "Swank, Luke",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Johnstown, PA",
+      "death_place": null
+    }
+  ]
+}

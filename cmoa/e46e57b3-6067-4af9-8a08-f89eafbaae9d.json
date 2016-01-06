@@ -1,0 +1,39 @@
+{
+  "title": "Canadian Uprising",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "tin plate, wire, solder",
+  "accession_number": "82.1",
+  "id": "cmoa:things/e46e57b3-6067-4af9-8a08-f89eafbaae9d",
+  "credit_line": "Copperweld Acquisition Fund and Patrons Art Fund",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 20.5,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022286",
+  "provenance_text": "Robert Cronin, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/99e13519-60d6-47a5-b390-086e79c0da5f",
+      "party_type": "Person",
+      "full_name": "Robert Lawrence Cronin",
+      "cited_name": "Cronin, Robert L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": "Lexington (Middlesex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

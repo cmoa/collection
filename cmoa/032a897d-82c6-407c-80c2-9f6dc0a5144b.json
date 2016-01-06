@@ -1,0 +1,39 @@
+{
+  "title": "Spirit",
+  "creation_date": "1913",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "marble",
+  "accession_number": "56.36",
+  "id": "cmoa:things/032a897d-82c6-407c-80c2-9f6dc0a5144b",
+  "credit_line": "Gift of Mrs. Erl Gould",
+  "date_acquired": "1956-10-24",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 20.375,
+  "item_height": 15.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009742",
+  "provenance_text": "Mrs. Erl Gould, Pittsburgh, by 1956 [1]; gift to Museum, 1956. \nNOTES:1. Isabella McKenna Laughlin's daughter",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116047&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ef88e8d-6591-4328-84d0-131fd5147f0f",
+      "party_type": "Person",
+      "full_name": "Malvina Hoffman",
+      "cited_name": "Hoffman, Malvina",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": " New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

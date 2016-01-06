@@ -1,0 +1,39 @@
+{
+  "title": "Coyuntaras por Enlace",
+  "creation_date": null,
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "metal",
+  "accession_number": "82.81",
+  "id": "cmoa:things/b1e906a3-996d-47e4-a97b-f7d35ec3a144",
+  "credit_line": "Gift of Mary C. Hazard",
+  "date_acquired": "1982-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 25.75,
+  "item_depth": 11.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023164",
+  "provenance_text": "Gift of Mary C. Hazard, Pittsburgh, PA, 1982.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127790&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/42f99d7f-54c7-4800-923e-a8dcea557d20",
+      "party_type": "Person",
+      "full_name": "Angel Ferrant Vázquez",
+      "cited_name": "Ferrant Vázquez, Angel",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1891-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

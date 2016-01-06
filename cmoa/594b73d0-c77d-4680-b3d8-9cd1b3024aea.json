@@ -1,0 +1,39 @@
+{
+  "title": "James Fenner Penniman",
+  "creation_date": "1851-1854",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "marble",
+  "accession_number": "87.10.1",
+  "id": "cmoa:things/594b73d0-c77d-4680-b3d8-9cd1b3024aea",
+  "credit_line": "Purchase: gift of the Fellows of the Museum of Art",
+  "date_acquired": "1987-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 21.0,
+  "item_height": 30.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026267",
+  "provenance_text": "James F Penniman [-1876], New York, 1854; Richard Gilbert, Auctioneer, Garrison, NY, 1979; Post Road Gallery, Larchmont, NY, 1979; Mimi d'Bloch [1917-2004] as agent, New York, by 1986 [1]; purchased by Museum, 1987. \nNOTES:1. Acting as agent for Stratford Fine Arts Ltd.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116135&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e2ed704-3b8f-4f22-9de9-d5b0ee6a961e",
+      "party_type": "Person",
+      "full_name": "Hiram Powers",
+      "cited_name": "Powers, Hiram",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1805-01-01",
+      "death_date": "1873-01-01",
+      "birth_place": "Woodstock, VT",
+      "death_place": "Florence, Italy"
+    }
+  ]
+}

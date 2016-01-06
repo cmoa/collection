@@ -1,0 +1,42 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "oak and leather upholstery",
+  "accession_number": "83.55.2",
+  "id": "cmoa:things/0235f35a-edfe-4de8-8ca3-3f62847fc11c",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1983-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 44.0,
+  "item_depth": 17.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023849",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116126&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6804&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9a1ef7b-fe47-42c9-b2e5-9407c4554b88",
+      "party_type": "Organization",
+      "full_name": "Roycroft Studios",
+      "cited_name": "Roycroft Studios",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

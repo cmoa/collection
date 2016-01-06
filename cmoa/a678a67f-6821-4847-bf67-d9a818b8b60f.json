@@ -1,0 +1,39 @@
+{
+  "title": "Les Associes",
+  "creation_date": "1968",
+  "creation_date_earliest": "1968-01-01",
+  "creation_date_latest": "1968-01-01",
+  "medium": "twenty-four gelatin silver prints",
+  "accession_number": "2012.36.A-.X",
+  "id": "cmoa:things/a678a67f-6821-4847-bf67-d9a818b8b60f",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2012-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 20.438,
+  "item_height": 13.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98675",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115567&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/327c1a43-269d-4580-af36-ee28a49b64f6",
+      "party_type": "Person",
+      "full_name": "Malick Sidibé",
+      "cited_name": "Sidibé, Malick",
+      "role": null,
+      "nationality": "Malian",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

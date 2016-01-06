@@ -1,0 +1,49 @@
+{
+  "title": "Barcelona chair",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "aluminum and leather",
+  "accession_number": "95.74.1.1",
+  "id": "cmoa:things/ba48ec21-6698-4f9d-b2f0-fd80371e9798",
+  "credit_line": "Gift of Aluminum Company of America",
+  "date_acquired": "1995-05-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 29.875,
+  "item_depth": 29.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8303",
+  "provenance_text": "Aluminum Company Of America, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4c3fb4ed-50eb-4b27-815d-df6bf75bebfd",
+      "party_type": "Person",
+      "full_name": "Ludwig Mies van der Rohe",
+      "cited_name": "Mies van der Rohe, Ludwig",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1886-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Aachen (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Chicago, Illinois"
+    },
+    {
+      "artist_id": "cmoa:parties/e1938164-a00e-4d3a-9232-d219b58dc211",
+      "party_type": "Organization",
+      "full_name": "Knoll Inc.",
+      "cited_name": "Knoll Inc.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

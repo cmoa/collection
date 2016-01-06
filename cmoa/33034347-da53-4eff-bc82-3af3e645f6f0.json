@@ -1,0 +1,39 @@
+{
+  "title": "Seated Nude",
+  "creation_date": "c.1910-1920",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "ink on paper",
+  "accession_number": "2011.71.8",
+  "id": "cmoa:things/33034347-da53-4eff-bc82-3af3e645f6f0",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98236",
+  "provenance_text": "Maynard Walker, New York; Carol and Herb Diamond, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113862&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8cb328e8-3f3f-47ee-a251-6db2f7b5fd20",
+      "party_type": "Person",
+      "full_name": "Robert Henri",
+      "cited_name": "Henri, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": " Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

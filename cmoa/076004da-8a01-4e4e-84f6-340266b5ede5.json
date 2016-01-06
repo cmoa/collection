@@ -1,0 +1,39 @@
+{
+  "title": "The Lone Tree",
+  "creation_date": "c. 1920-c.1929",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "bromoil print",
+  "accession_number": "2009.61.2",
+  "id": "cmoa:things/076004da-8a01-4e4e-84f6-340266b5ede5",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2009-12-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.688,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88765",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=98882&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ffd2be4-8010-4325-b1f7-03350b6944f1",
+      "party_type": "Person",
+      "full_name": "Charles K. Archer",
+      "cited_name": "Archer, Charles K.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

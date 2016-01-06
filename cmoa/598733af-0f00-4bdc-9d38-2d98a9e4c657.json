@@ -1,0 +1,63 @@
+{
+  "title": "Ashida",
+  "creation_date": "c. 1834-1842",
+  "creation_date_earliest": "1829-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "16.29.31",
+  "id": "cmoa:things/598733af-0f00-4bdc-9d38-2d98a9e4c657",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 8.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001209",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Association, NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99127&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/761afc2a-34b6-47cd-9395-bc054d37fa05",
+      "party_type": "Person",
+      "full_name": "Hiroshige Andō",
+      "cited_name": "Hiroshige Andō",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1797-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/fb30d65b-b07c-4851-8650-9e5d1ad75619",
+      "party_type": "Person",
+      "full_name": "Ikeda Eisen",
+      "cited_name": "Ikeda Eisen",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1790-01-01",
+      "death_date": "1848-01-01",
+      "birth_place": "Tokyo (Tōkyō metropolis, Kanto, Japan)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4de346cb-c2e6-4b1b-aa77-b7158a19618a",
+      "party_type": "Person",
+      "full_name": "Rihei Iseya",
+      "cited_name": "Rihei Iseya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

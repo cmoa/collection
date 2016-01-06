@@ -1,0 +1,42 @@
+{
+  "title": "Bildachtundzwanzig",
+  "creation_date": "1994",
+  "creation_date_earliest": "1994-01-01",
+  "creation_date_latest": "1994-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1997.62",
+  "id": "cmoa:things/ab3a9615-37ab-4d31-95d8-1ab936afc380",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1997-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 178.25,
+  "item_height": 115.25,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003434",
+  "provenance_text": "Galerie Michael Werner, Koln, Germany",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21959&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57644&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2344e6fd-7d2c-4b4a-8504-decd0a21b686",
+      "party_type": "Person",
+      "full_name": "Georg Baselitz",
+      "cited_name": "Baselitz, Georg",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Deutschbaselitz, Saxony",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Entrance to the Cave",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.76",
+  "id": "cmoa:things/bf58e7d9-b05f-4034-a258-252cee1c1062",
+  "credit_line": "Howard Heinz Endowment Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 88.0,
+  "item_height": 89.25,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010923",
+  "provenance_text": "Betty Parsons Gallery, NYC, for 1958 International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=375&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57290&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/477fb807-6c29-4f29-bb18-e0f9603f08e8",
+      "party_type": "Person",
+      "full_name": "Okada, Kenzo",
+      "cited_name": "Okada, Kenzo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "1982-01-01",
+      "birth_place": "Yokohama (Kanagawa prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

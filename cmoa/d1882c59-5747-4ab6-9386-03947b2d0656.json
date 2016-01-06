@@ -1,0 +1,39 @@
+{
+  "title": "A Large Castle Overlooking a Winding Valley with Two Towers",
+  "creation_date": "1553",
+  "creation_date_earliest": "1552-12-22",
+  "creation_date_latest": "1552-12-22",
+  "medium": "etching",
+  "accession_number": "2002.66.1",
+  "id": "cmoa:things/d1882c59-5747-4ab6-9386-03947b2d0656",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "2002-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=687",
+  "provenance_text": "Kunsthandlung Helmut H. Rumbler, Frankfurt am  Main",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102696&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1bd2070c-c70e-4c26-9318-96ad0565734e",
+      "party_type": "Person",
+      "full_name": "Hanns Lautensack",
+      "cited_name": "Lautensack, Hanns",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1505-01-01",
+      "death_date": "1564-01-01",
+      "birth_place": "Bamberg (Oberfranken, Bavaria, Germany)",
+      "death_place": "Vienna (Wien state, Austria)"
+    }
+  ]
+}

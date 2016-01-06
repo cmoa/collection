@@ -1,0 +1,42 @@
+{
+  "title": "Rooster",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "patinated copper",
+  "accession_number": "2007.26.1",
+  "id": "cmoa:things/7181fae5-f2af-4d21-b50d-34193a210b3f",
+  "credit_line": "Decorative Arts Purchase Fund and Second Century Acquisition Fund",
+  "date_acquired": "2007-06-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 8.0,
+  "item_height": 16.0,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=40912",
+  "provenance_text": "Inherited by Michael Diederich, grandson of the artist, sold to the museum through Deedee Wigmore, a modernist design dealer in New York City.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=45692&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53125&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c475f2f1-668e-434a-a192-59339eac82c5",
+      "party_type": "Person",
+      "full_name": "Wilhelm Hunt Diederich",
+      "cited_name": "Diederich, Wilhelm Hunt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Hungary (Europe)",
+      "death_place": "Nyack (Rockland county, New York state, United States)"
+    }
+  ]
+}

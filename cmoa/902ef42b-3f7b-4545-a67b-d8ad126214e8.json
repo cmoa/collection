@@ -1,0 +1,42 @@
+{
+  "title": "You Lied to Me",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "87.26",
+  "id": "cmoa:things/902ef42b-3f7b-4545-a67b-d8ad126214e8",
+  "credit_line": "The Tillie and Alexander C. Speyer Fund for Contemporary Art",
+  "date_acquired": "1987-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 72.0,
+  "item_height": 84.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026328",
+  "provenance_text": "Krygier/Landau Contemporary Art, Los Angeles",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126273&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31961&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bc2535b0-f62d-42ee-87bd-966b6909aa8d",
+      "party_type": "Person",
+      "full_name": "Suzanne Caporael",
+      "cited_name": "Caporael, Suzanne",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn, New York",
+      "death_place": null
+    }
+  ]
+}

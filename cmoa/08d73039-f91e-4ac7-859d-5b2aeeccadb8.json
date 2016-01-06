@@ -1,0 +1,39 @@
+{
+  "title": "Box",
+  "creation_date": "c. 1825-1840",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "mother of pearl",
+  "accession_number": "70.32.2621.5.A-B",
+  "id": "cmoa:things/08d73039-f91e-4ac7-859d-5b2aeeccadb8",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 1.375,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=297",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Organic Materials",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/649a7076-807e-4dc8-b934-a48c1756c94e",
+      "party_type": "Person",
+      "full_name": "unknown Asian",
+      "cited_name": "unknown Asian",
+      "role": null,
+      "nationality": "Asian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Prometheus",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "57.3.54",
+  "id": "cmoa:things/1d2092c1-849b-4078-a30a-558daf28748c",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1957-04-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.812,
+  "item_height": 22.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010521",
+  "provenance_text": "Mrs. James H. Beal, Pittsburgh; gift to museum, April 1957",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106228&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a45438c-fc3b-4041-9e6a-77431ac1a66d",
+      "party_type": "Person",
+      "full_name": "Benton Murdoch Spruance",
+      "cited_name": "Spruance, Benton M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

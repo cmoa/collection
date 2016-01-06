@@ -1,0 +1,39 @@
+{
+  "title": "Teete",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "acrylic and oil on canvas",
+  "accession_number": "2003.11.1",
+  "id": "cmoa:things/bd8f682d-50d3-4170-8920-904ea516d109",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2003-04-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.0,
+  "item_height": 19.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2996",
+  "provenance_text": "Galerie Daniel Buchholz, Cologne, Germany",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=130093&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f6a1633-79f0-4f9a-9759-95ee9b15f137",
+      "party_type": "Person",
+      "full_name": "Tomma Abts",
+      "cited_name": "Abts, Tomma",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1967-01-01",
+      "death_date": null,
+      "birth_place": "Kiel, Germany",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Fritz Gruber",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.58.11",
+  "id": "cmoa:things/8143d8a8-fd40-49ee-a3d3-e4f1b3f4c575",
+  "credit_line": "Gift of Duane Michals",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100724",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119024&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119023&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c457ab4a-4a51-425d-97a9-f753bbcc6220",
+      "party_type": "Person",
+      "full_name": "Irving Penn",
+      "cited_name": "Penn, Irving",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1917-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Plainfield (Union county, New Jersey, United States)",
+      "death_place": "Manhattan (New York City, New York state, United States)"
+    }
+  ]
+}

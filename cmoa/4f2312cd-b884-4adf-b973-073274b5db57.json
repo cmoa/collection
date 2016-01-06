@@ -1,0 +1,39 @@
+{
+  "title": "Steve Jobs and Bill Gates",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2012.40",
+  "id": "cmoa:things/4f2312cd-b884-4adf-b973-073274b5db57",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2012-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 29.75,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98659",
+  "provenance_text": "Silver Eye Center for Photography Benefit Auction; donated by the artist, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118839&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6484ccd3-a2ee-4432-b64e-2241f23d9149",
+      "party_type": "Person",
+      "full_name": "George Lange",
+      "cited_name": "Lange, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

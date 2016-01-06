@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Duke Ellington)",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2014.45",
+  "id": "cmoa:things/cb6bc7dc-d5db-42b0-a22c-510fa9b5e66a",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104950",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132204&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132205&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ffc4a66-c11b-4a0a-ba9c-f96bc1098e03",
+      "party_type": "Person",
+      "full_name": "Lee Balterman",
+      "cited_name": "Balterman, Lee",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Chicago",
+      "death_place": "Chicago"
+    }
+  ]
+}

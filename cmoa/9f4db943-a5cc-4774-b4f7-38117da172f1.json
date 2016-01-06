@@ -1,0 +1,39 @@
+{
+  "title": "Vanishing Mist",
+  "creation_date": "c. 1916-1921",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "21.5",
+  "id": "cmoa:things/9f4db943-a5cc-4774-b4f7-38117da172f1",
+  "credit_line": "Purchase",
+  "date_acquired": "1921-06-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 50.0,
+  "item_height": 40.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004633",
+  "provenance_text": "Ernest Lawson [1873-1939], until 1921; purchased by Museum, 1921.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16815&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7ba0176-002d-4275-8aa3-b52d7f4af5cf",
+      "party_type": "Person",
+      "full_name": "Ernest Lawson",
+      "cited_name": "Lawson, Ernest",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": " California",
+      "death_place": null
+    }
+  ]
+}

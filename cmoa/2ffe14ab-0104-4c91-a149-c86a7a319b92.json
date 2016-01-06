@@ -1,0 +1,39 @@
+{
+  "title": "Animale Organico",
+  "creation_date": "1955-1956",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "iron",
+  "accession_number": "59.11.2",
+  "id": "cmoa:things/2ffe14ab-0104-4c91-a149-c86a7a319b92",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1959-03-25",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 36.0,
+  "item_depth": 26.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010947",
+  "provenance_text": "G. David Thompson",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149588&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0cbb897a-719d-446b-b9a8-bcd76cc0ceb6",
+      "party_type": "Person",
+      "full_name": "César",
+      "cited_name": "César",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1921-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": " Marseilles (Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

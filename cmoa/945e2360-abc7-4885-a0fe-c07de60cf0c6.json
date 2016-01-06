@@ -1,0 +1,39 @@
+{
+  "title": "Interior",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.48",
+  "id": "cmoa:things/945e2360-abc7-4885-a0fe-c07de60cf0c6",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1956-10-24",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 23.875,
+  "item_height": 15.188,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009890",
+  "provenance_text": "The Artist through GBW and M. Lerondelle",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37613&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6347ebd9-6cba-469d-9bf1-94fd70941bfb",
+      "party_type": "Person",
+      "full_name": "Maria Helena Vieira da Silva",
+      "cited_name": "Vieira da Silva, Maria Helena",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1908-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Lisbon (Distrito de Lisboa, Portugal)",
+      "death_place": "Paris, France"
+    }
+  ]
+}

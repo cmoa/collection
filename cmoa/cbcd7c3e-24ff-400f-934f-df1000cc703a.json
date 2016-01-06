@@ -1,0 +1,39 @@
+{
+  "title": "Profile Portrait Medallion of R. Phene Spiers",
+  "creation_date": "1905",
+  "creation_date_earliest": "1905-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "bronze",
+  "accession_number": "95.12",
+  "id": "cmoa:things/cbcd7c3e-24ff-400f-934f-df1000cc703a",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1995-01-19",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 2.625,
+  "item_height": 3.125,
+  "item_depth": 0.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035592",
+  "provenance_text": "Waking Dream Books, Portland, OR",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102114&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/efedeb75-7217-45f7-879e-9a744f779bad",
+      "party_type": "Person",
+      "full_name": "Edouard Lanteri",
+      "cited_name": "Lanteri, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1848-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": " Auxerre (Yonne, Burgundy region, France)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

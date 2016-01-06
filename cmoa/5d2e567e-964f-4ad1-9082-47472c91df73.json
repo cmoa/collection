@@ -1,0 +1,45 @@
+{
+  "title": "Woman VI",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.24.4",
+  "id": "cmoa:things/5d2e567e-964f-4ad1-9082-47472c91df73",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 58.5,
+  "item_height": 68.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009422",
+  "provenance_text": "Sidney Janis Gallery, NYC, through 1955 International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103937&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129317&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129318&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/884a8664-6d0c-4c40-9773-369df32c7f0c",
+      "party_type": "Person",
+      "full_name": "Willem de Kooning",
+      "cited_name": "De Kooning, Willem",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Netherlands, Rotterdam",
+      "death_place": "New York, East Hampton"
+    }
+  ]
+}

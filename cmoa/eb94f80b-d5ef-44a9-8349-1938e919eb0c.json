@@ -1,0 +1,49 @@
+{
+  "title": "Armchair",
+  "creation_date": "1984 (designed); 2000",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "anodized aluminum",
+  "accession_number": "2000.39",
+  "id": "cmoa:things/eb94f80b-d5ef-44a9-8349-1938e919eb0c",
+  "credit_line": "Purchase: gift of Board Members in honor of Milton Fine, Chairman, 1991-2000",
+  "date_acquired": "2000-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 29.5,
+  "item_depth": 19.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004054",
+  "provenance_text": "Diamond Miller, Beverly Hills, California",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5b54319-4325-4a41-a14b-90217309730c",
+      "party_type": "Person",
+      "full_name": "Donald Judd",
+      "cited_name": "Judd, Donald",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": "Excelsior Springs (Clay county, Missouri, United States)",
+      "death_place": " New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/1901ca0f-a231-44b2-92bc-da55e87c914f",
+      "party_type": "Organization",
+      "full_name": "Janssen",
+      "cited_name": "Janssen",
+      "role": "manufacturer",
+      "nationality": "Dutch",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

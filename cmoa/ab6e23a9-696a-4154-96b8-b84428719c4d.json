@@ -1,0 +1,39 @@
+{
+  "title": "Temple",
+  "creation_date": "1963",
+  "creation_date_earliest": "1963-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.766",
+  "id": "cmoa:things/ab6e23a9-696a-4154-96b8-b84428719c4d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.0,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028919",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34237&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4e5c9b3c-527f-418e-b02f-1e8bb87094d0",
+      "party_type": "Person",
+      "full_name": "Kawanishi Yûzaburô",
+      "cited_name": "Kawanishi Yûzaburô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1923-01-01",
+      "death_date": null,
+      "birth_place": "Kobe",
+      "death_place": null
+    }
+  ]
+}

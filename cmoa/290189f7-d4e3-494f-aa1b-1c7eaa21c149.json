@@ -1,0 +1,51 @@
+{
+  "title": "Teapot",
+  "creation_date": "1928-1929",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "stoneware",
+  "accession_number": "1997.3.1.1.A-B",
+  "id": "cmoa:things/290189f7-d4e3-494f-aa1b-1c7eaa21c149",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.188,
+  "item_height": 4.25,
+  "item_depth": 5.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003274",
+  "provenance_text": "Sotheby's, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1094&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60294f53-9d19-4be7-a4e4-65f69345ca95",
+      "party_type": "Person",
+      "full_name": "Eva Zeisel",
+      "cited_name": "Zeisel, Eva",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Budapest (Budapest county, Hungary)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/af5fc932-aeaa-48ab-9db5-79e4b46c281a",
+      "party_type": "Organization",
+      "full_name": "Schramberger Majolika Fabrik",
+      "cited_name": "Schramberger Majolika Fabrik",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1820-01-01",
+      "death_date": "1913-01-01",
+      "birth_place": "Schramberg",
+      "death_place": null
+    }
+  ]
+}

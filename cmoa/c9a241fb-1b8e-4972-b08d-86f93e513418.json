@@ -1,0 +1,51 @@
+{
+  "title": "A St. James's Beauty",
+  "creation_date": "1783",
+  "creation_date_earliest": "1783-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "etching with mezzotint and aquatint",
+  "accession_number": "2006.83.61",
+  "id": "cmoa:things/c9a241fb-1b8e-4972-b08d-86f93e513418",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34493",
+  "provenance_text": "Rolf and Magda Loeber, by February 2007; gift to Carnegie Museum of Art, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a202fc52-b50a-4e91-8787-31f247dd46a4",
+      "party_type": "Person",
+      "full_name": "Francesco Bartolozzi",
+      "cited_name": "Bartolozzi, Francesco",
+      "role": "printmaker",
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Lisbon (Distrito de Lisboa, Portugal)"
+    },
+    {
+      "artist_id": "cmoa:parties/30308d06-54a0-4975-a42e-45625e1576b8",
+      "party_type": "Person",
+      "full_name": "John Hodges Benwell",
+      "cited_name": "Benwell, John Hodges",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1764-01-01",
+      "death_date": "1785-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

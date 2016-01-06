@@ -1,0 +1,51 @@
+{
+  "title": "Panel, Architectural (from the Stop and Shop Warehouse, Formerly the Methodist Book Exchange, Chicago, Illinois) (en suite with 91.42.1-.4)",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "terracotta",
+  "accession_number": "91.42.4",
+  "id": "cmoa:things/b26b8b26-e939-4f5b-a431-a9ab21e9dda0",
+  "credit_line": "Gift of Peter Miller",
+  "date_acquired": "1992-01-23",
+  "department": "Heinz Architectural Center",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 16.625,
+  "item_height": 18.0,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029753",
+  "provenance_text": "Peter Miller, Chicago, IL",
+  "classification": "architectural elements",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103928&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3d61536-72d9-4137-8780-06eb45b16a62",
+      "party_type": "Person",
+      "full_name": "Kristian E. Schneider",
+      "cited_name": "Schneider, Kristian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1864-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Norway",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a59f44ed-b00b-4e8d-9523-393ceea8beb6",
+      "party_type": "Organization",
+      "full_name": "Northwestern Terra Cotta Co.",
+      "cited_name": "Northwestern Terra Cotta Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1878-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Chicago",
+      "death_place": null
+    }
+  ]
+}

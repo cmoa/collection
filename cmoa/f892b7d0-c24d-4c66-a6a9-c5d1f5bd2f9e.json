@@ -1,0 +1,54 @@
+{
+  "title": "Salt cellar, \"Swan Service\"",
+  "creation_date": "1738-1739",
+  "creation_date_earliest": "1738-01-01",
+  "creation_date_latest": "1739-01-01",
+  "medium": "porcelain with enamel and gilded decoration",
+  "accession_number": "60.10.1",
+  "id": "cmoa:things/f892b7d0-c24d-4c66-a6a9-c5d1f5bd2f9e",
+  "credit_line": "Purchase: gift of Sarah Mellon Scaife Foundation",
+  "date_acquired": "1960-02-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 3.5,
+  "item_height": 4.5,
+  "item_depth": 3.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011149",
+  "provenance_text": "Rosenberg and Stiebel, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2311&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97918&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a17b72fa-2726-46d8-9628-63e8f882d141",
+      "party_type": "Person",
+      "full_name": "Johann Friedrich Eberlein",
+      "cited_name": "Eberlein, Johann Friedrich",
+      "role": "modeler",
+      "nationality": "German",
+      "birth_date": "1696-01-01",
+      "death_date": "1749-01-01",
+      "birth_place": "Dresden, Germany",
+      "death_place": "Meissen, France"
+    },
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

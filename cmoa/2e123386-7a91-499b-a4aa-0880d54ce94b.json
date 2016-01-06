@@ -1,0 +1,39 @@
+{
+  "title": "My First Photograph of Papa and Mama",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "75.37.4",
+  "id": "cmoa:things/2e123386-7a91-499b-a4aa-0880d54ce94b",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1975-10-09",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017756",
+  "provenance_text": "J. H. Lartigue, Paris, France",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111954&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ea9b8c43-86c1-4d8a-bc15-b5e22344e507",
+      "party_type": "Person",
+      "full_name": "Jacques Henri Charles au Lartigue",
+      "cited_name": "Lartigue, Jacques H. C.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1894-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": " Courbevoie (Hauts-de-Seine department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

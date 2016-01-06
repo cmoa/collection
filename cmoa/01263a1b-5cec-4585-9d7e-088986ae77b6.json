@@ -1,0 +1,45 @@
+{
+  "title": "May Queen",
+  "creation_date": "c. 1860s",
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1873-01-01",
+  "medium": "carbon print",
+  "accession_number": "2007.51.18",
+  "id": "cmoa:things/01263a1b-5cec-4585-9d7e-088986ae77b6",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 13.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49623",
+  "provenance_text": "George Ebbs (Howard Greenberg Gallery)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100688&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100041&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56093&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ff866d32-f89d-4e00-a62c-4a8a05e28e8a",
+      "party_type": "Person",
+      "full_name": "Julia Margaret Cameron",
+      "cited_name": "Cameron, Julia Margaret",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1815-01-01",
+      "death_date": "1879-01-01",
+      "birth_place": "Kolkata (West Bengal, India) (Calcutta)",
+      "death_place": "Sri Lanka (Asia)"
+    }
+  ]
+}

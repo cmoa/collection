@@ -1,0 +1,39 @@
+{
+  "title": "Reverend Levi and Mrs. Warner",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "pen on paper",
+  "accession_number": "06.3.9",
+  "id": "cmoa:things/2bfc09f0-f181-405f-ae7f-290d7646e322",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-11-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000242",
+  "provenance_text": "The Century Company, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84832&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af6b4927-85ca-4275-a872-6424d83acb37",
+      "party_type": "Person",
+      "full_name": "Wyatt Eaton",
+      "cited_name": "Eaton, Wyatt",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1849-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

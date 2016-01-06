@@ -1,0 +1,37 @@
+{
+  "title": "Monument to Marcel Duchamp",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "metal and glass in a Plexiglas and glass box",
+  "accession_number": "70.10",
+  "id": "cmoa:things/30297558-dce0-4f47-bace-d3aeb6331bbb",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1970-05-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 18.125,
+  "item_depth": 9.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1013012",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dec2965-16f0-4bc7-a36a-4eaef8f922e8",
+      "party_type": "Person",
+      "full_name": "Robert Lepper",
+      "cited_name": "Lepper, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aspinwall, PA",
+      "death_place": "Washington, DC"
+    }
+  ]
+}

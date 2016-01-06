@@ -1,0 +1,49 @@
+{
+  "title": "Bell-shaped jellyfish",
+  "creation_date": "c. 1880-1890",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "glass",
+  "accession_number": "2004.56.7",
+  "id": "cmoa:things/59260907-765f-4ecf-9eba-e1267a7a3f43",
+  "credit_line": "Transferred from Carnegie Museum of Natural History",
+  "date_acquired": "2005-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7934",
+  "provenance_text": "Transfered from Carnegie Museum of Natural History.",
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a1df5ff1-4729-45a6-b170-59244443c2b3",
+      "party_type": "Person",
+      "full_name": "Leopold Blaschka",
+      "cited_name": "Blaschka, Leopold",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1822-01-01",
+      "death_date": "1895-01-01",
+      "birth_place": "Aicha, northern Bohemia",
+      "death_place": "Dreseden, Germany"
+    },
+    {
+      "artist_id": "cmoa:parties/085e5342-ab78-4aa9-a317-a021a6f0905d",
+      "party_type": "Person",
+      "full_name": "Rudolf Blaschka",
+      "cited_name": "Blaschka, Rudolf",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1857-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Aicha, northern Bohemia",
+      "death_place": "Dresden, Germany"
+    }
+  ]
+}

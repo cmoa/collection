@@ -1,0 +1,39 @@
+{
+  "title": "Study of Trees",
+  "creation_date": "no date",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "drawing",
+  "accession_number": "17.35.2",
+  "id": "cmoa:things/e134d544-66cd-419f-b05a-fac782f43399",
+  "credit_line": "Purchase",
+  "date_acquired": "1917-03-31",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001575",
+  "provenance_text": "Mrs. Alfred S. Wall, Pittsburgh; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c9c1258-7c82-4bff-8c2a-9f8c08dde3ba",
+      "party_type": "Person",
+      "full_name": "Alfred S. Wall",
+      "cited_name": "Wall, Alfred S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "USA, Pennsylvania, Mt. Pleasant",
+      "death_place": null
+    }
+  ]
+}

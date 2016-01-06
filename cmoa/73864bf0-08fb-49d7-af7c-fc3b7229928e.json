@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Gertrude Stein, Seated",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "bronze, wood base",
+  "accession_number": "74.7.30",
+  "id": "cmoa:things/73864bf0-08fb-49d7-af7c-fc3b7229928e",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.875,
+  "item_height": 8.0,
+  "item_depth": 6.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017498",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh, c. 1950; bequest to museum, 1974",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40a62d11-e0b3-4d33-9369-043ca99d3045",
+      "party_type": "Person",
+      "full_name": "Jo Davidson",
+      "cited_name": "Davidson, Jo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-03-30",
+      "death_date": "1952-01-02",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

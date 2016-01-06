@@ -1,0 +1,49 @@
+{
+  "title": "Plaque, Scenic",
+  "creation_date": "1915",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "Stoneware",
+  "accession_number": "81.125.6",
+  "id": "cmoa:things/4cccbcaf-ce43-4a62-96d7-32a7aac2fd5b",
+  "credit_line": "Gift of Robert Klein",
+  "date_acquired": "1982-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.75,
+  "item_height": 9.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021612",
+  "provenance_text": "Jordan Volpe Gallery, NY, New York City",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad3c7c2a-362f-43c1-b1b9-a28a855b7c0b",
+      "party_type": "Person",
+      "full_name": "Edward Timothy  Hurley",
+      "cited_name": "Hurley, Edward  T.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1869-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b5da70fa-4b74-4a69-a6e8-7475cd8782d2",
+      "party_type": "Organization",
+      "full_name": "Rookwood Pottery",
+      "cited_name": "Rookwood Pottery",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

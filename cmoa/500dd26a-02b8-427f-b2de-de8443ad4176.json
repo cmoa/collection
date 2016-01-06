@@ -1,0 +1,39 @@
+{
+  "title": "Picture frame",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "silver w/enamel, set w/5 opals on wooden frame",
+  "accession_number": "86.37.1",
+  "id": "cmoa:things/500dd26a-02b8-427f-b2de-de8443ad4176",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1986-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.625,
+  "item_height": 10.438,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026070",
+  "provenance_text": "David Kozloff, PA, Pittsburgh",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5062&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74185178-19fc-4f26-806f-12fd41a3dc67",
+      "party_type": "Organization",
+      "full_name": "Liberty and Company",
+      "cited_name": "Liberty and Company",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1875-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

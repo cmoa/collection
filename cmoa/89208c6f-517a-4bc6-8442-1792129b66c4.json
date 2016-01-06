@@ -1,0 +1,37 @@
+{
+  "title": "Model for \"Carnegie\"",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "weathered steel",
+  "accession_number": "85.71",
+  "id": "cmoa:things/89208c6f-517a-4bc6-8442-1792129b66c4",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 53.25,
+  "item_depth": 24.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025755",
+  "provenance_text": "Richard Serra",
+  "classification": "sculpture",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10e769a7-4d9c-49c5-8ca5-c210c9d39ef8",
+      "party_type": "Person",
+      "full_name": "Richard Serra",
+      "cited_name": "Serra, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": "San Fransisco, California",
+      "death_place": null
+    }
+  ]
+}

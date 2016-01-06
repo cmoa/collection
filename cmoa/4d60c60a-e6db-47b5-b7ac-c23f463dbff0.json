@@ -1,0 +1,39 @@
+{
+  "title": "Dead Spot",
+  "creation_date": null,
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "59.55",
+  "id": "cmoa:things/4d60c60a-e6db-47b5-b7ac-c23f463dbff0",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1959-12-16",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 33.0,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011089",
+  "provenance_text": "Vittoria Augustini, via dei Liburni 14, Rome",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121494&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/776b73c9-3c3f-4713-afdf-72cee5683158",
+      "party_type": "Person",
+      "full_name": "Asger Jorn",
+      "cited_name": "Jorn, Asger",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1914-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Århus county (Denmark)",
+      "death_place": null
+    }
+  ]
+}

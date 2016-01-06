@@ -1,0 +1,45 @@
+{
+  "title": "The Sower",
+  "creation_date": "after 1850",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1875-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "63.7",
+  "id": "cmoa:things/8a1a2643-7889-49f4-ac04-5e2911d6026b",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Samuel B. Casey and Mr. and Mrs. George L. Craig, Jr.",
+  "date_acquired": "1963-03-28",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 33.75,
+  "item_height": 41.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011680",
+  "provenance_text": "Alfred Sensier?; (Mr. B. sale, Hotel Drouot, Paris, 8 March 1883, no. 53); Détrimont, Paris, 1883-?; Harry Payne Whitney, until 1930; his estate; (Whitney sale, Parke-Bernet, New York, NY,  listed as \"After Millet\", April 29-30, 1942, no. 351); Julius H. Weitzner, Inc., New York, NY; purchased by Museum, March 1963.\n\nUpdated by CGK\nJuly 2012",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=393&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101361&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56872&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/29264da8-7fee-4ac1-8849-82ec39147f2e",
+      "party_type": "Person",
+      "full_name": "Jean François Millet",
+      "cited_name": "Millet, Jean F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1814-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Gruchy, nr Gréville, France",
+      "death_place": "Barbizon, France"
+    }
+  ]
+}

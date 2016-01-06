@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "11th-14th century",
+  "creation_date_earliest": "0999-12-27",
+  "creation_date_latest": "1398-12-24",
+  "medium": "Stoneware",
+  "accession_number": "73.48.97",
+  "id": "cmoa:things/77e3772f-2043-4fde-b680-df3a7b8a94a0",
+  "credit_line": "Gift of Walter Read Hovey",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.438,
+  "item_depth": 0.0,
+  "item_diameter": 7.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016843",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64137a80-521c-4252-9a37-54ccc4befc66",
+      "party_type": "Person",
+      "full_name": "unknown Korean",
+      "cited_name": "unknown Korean",
+      "role": null,
+      "nationality": "Korean",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

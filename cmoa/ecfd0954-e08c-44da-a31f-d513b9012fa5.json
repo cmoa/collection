@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of an Englishwoman",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "40.2",
+  "id": "cmoa:things/ecfd0954-e08c-44da-a31f-d513b9012fa5",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1940-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.25,
+  "item_height": 49.75,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007170",
+  "provenance_text": "Adolph Lewisohn, New York; Charles J. Rosenbloom, Pittsburgh, 1938-1940; gift to Museum, May 1940.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8789&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a487079e-b008-4eec-bdb6-f8f66619f032",
+      "party_type": "Person",
+      "full_name": "André Derain",
+      "cited_name": "Derain, André",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1880-01-01",
+      "death_date": "1954-01-01",
+      "birth_place": " Chatou (Yvelines, Île-de-France, France)",
+      "death_place": "Garches (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

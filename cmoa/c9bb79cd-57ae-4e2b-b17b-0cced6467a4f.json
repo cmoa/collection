@@ -1,0 +1,39 @@
+{
+  "title": "New Year's Eve",
+  "creation_date": null,
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "44.6.3",
+  "id": "cmoa:things/c9bb79cd-57ae-4e2b-b17b-0cced6467a4f",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007537",
+  "provenance_text": "American Federation of Arts, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108277&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66844a1a-28cf-4584-a927-42b57373b7ce",
+      "party_type": "Person",
+      "full_name": "Marion Greenwood",
+      "cited_name": "Greenwood, Marion",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1909-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

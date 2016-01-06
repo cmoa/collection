@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1840",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "earthenware",
+  "accession_number": "1997.64",
+  "id": "cmoa:things/86a0927c-9712-4bd0-8064-3213701ee65d",
+  "credit_line": "Elizabeth A. Drain Fund",
+  "date_acquired": "1997-12-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 1.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003436",
+  "provenance_text": "Ruth E. Seiple, Massillon, OH",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1100&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2ee0ed7c-de8b-43ec-8ddd-affd51737851",
+      "party_type": "Organization",
+      "full_name": "Bellevue Pottery",
+      "cited_name": "Bellevue Pottery",
+      "role": "attributed manufacturer",
+      "nationality": "English",
+      "birth_date": "1825-01-01",
+      "death_date": "1841-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/84bb7188-4536-450c-89d9-e2b5ec4fdc45",
+      "party_type": "Organization",
+      "full_name": "Peppard and Callan",
+      "cited_name": "Peppard and Callan",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Portrait of John Kane with Trunk Filled with Paintings)",
+  "creation_date": null,
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.7.5",
+  "id": "cmoa:things/dd4262d0-504d-4172-bf1c-3307d26b1b61",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-02-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025151",
+  "provenance_text": "Carnegie Library of Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96929&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
+      "party_type": "Person",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

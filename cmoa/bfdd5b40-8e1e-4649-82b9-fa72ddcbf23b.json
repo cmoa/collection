@@ -1,0 +1,39 @@
+{
+  "title": "Mug",
+  "creation_date": "c. 1817-1833",
+  "creation_date_earliest": "1812-01-01",
+  "creation_date_latest": "1838-01-01",
+  "medium": "silver",
+  "accession_number": "80.41.3",
+  "id": "cmoa:things/bfdd5b40-8e1e-4649-82b9-fa72ddcbf23b",
+  "credit_line": "Gift of George S. Ebbert, Jr. and Mrs. James Kay Ebbert",
+  "date_acquired": "1980-10-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.375,
+  "item_height": 3.438,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021174",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5114&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/76387180-a456-4ebd-9b4e-371020a91389",
+      "party_type": "Person",
+      "full_name": "Joseph Lownes",
+      "cited_name": "Lownes, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1754-01-01",
+      "death_date": "1816-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

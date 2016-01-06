@@ -1,0 +1,39 @@
+{
+  "title": "Rae Lakes - Foxtail Pine",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "crayon",
+  "accession_number": "81.2",
+  "id": "cmoa:things/cf25fc35-f360-498d-879a-3a6546aaaaa3",
+  "credit_line": "Mrs. John R. Lane and Director's Discretionary Fund",
+  "date_acquired": "1981-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021823",
+  "provenance_text": "The artist, John W. Winkler, El Cerrito, California; acquired by museum, February 1981",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89452&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9a9fcc4-926c-4451-b3c9-8deb6740c738",
+      "party_type": "Person",
+      "full_name": "John W. Winkler,",
+      "cited_name": "Winkler,, John W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1890-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "California (United States)"
+    }
+  ]
+}

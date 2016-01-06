@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "81.26.9",
+  "id": "cmoa:things/e5b046e2-2067-428d-be56-581d56f11266",
+  "credit_line": "Bequest of C. Hale Matthews III",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.75,
+  "item_height": 35.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021816",
+  "provenance_text": "Bequest of C. Hale Matthews III, New York, NY, 1981.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9029&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b1b8d606-7bb3-4a8f-8ceb-8e473e2c51d9",
+      "party_type": "Person",
+      "full_name": "Bernard Buffet",
+      "cited_name": "Buffet, Bernard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1928-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Var (Provence-Aples-Côte d'Azur, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Celebration",
+  "creation_date": "1971",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "zinc",
+  "accession_number": "71.17",
+  "id": "cmoa:things/53fc51d5-115c-4b2d-8c87-9eb2d171f8c8",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 61st Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1971-05-13",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.0,
+  "item_height": 11.0,
+  "item_depth": 18.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016126",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=131352&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd0fb965-da8e-478a-b00b-430f9525d880",
+      "party_type": "Person",
+      "full_name": "Clark Winter",
+      "cited_name": "Winter, Clark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": null,
+      "birth_place": "Cambridge, MA",
+      "death_place": null
+    }
+  ]
+}

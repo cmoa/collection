@@ -1,0 +1,39 @@
+{
+  "title": "Mace",
+  "creation_date": "16th-18th century",
+  "creation_date_earliest": "1524-12-22",
+  "creation_date_latest": "1750-01-01",
+  "medium": "steel and brass inlaid with gold",
+  "accession_number": "70.32.2624",
+  "id": "cmoa:things/214e5373-67b4-42eb-a01b-2ec745a24f6c",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.562,
+  "item_height": 26.312,
+  "item_depth": 3.562,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014858",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=7473&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/36b80b9f-9020-48f7-a8b7-a3ee3c01c5b1",
+      "party_type": "Person",
+      "full_name": "unknown Near Eastern",
+      "cited_name": "unknown Near Eastern",
+      "role": null,
+      "nationality": "Near Eastern",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

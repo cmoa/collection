@@ -1,0 +1,42 @@
+{
+  "title": "Rebecca Describes the Battle to Ivanhoe",
+  "creation_date": "c. 1859-1863",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.4",
+  "id": "cmoa:things/b0699582-eeb7-4980-8a24-b064b3a01ecd",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1954-03-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 22.5,
+  "item_height": 27.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009335",
+  "provenance_text": "Eleanor G. McCallam, Pittsburgh; (Haugh and Keenan Galleries, Pittsburgh); Mrs. James H. Beal, Pittsburgh, by 1954; gift to Museum.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22058&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126262&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

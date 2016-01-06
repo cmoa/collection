@@ -1,0 +1,66 @@
+{
+  "title": "Woman Playing on the Clavichord",
+  "creation_date": "1767",
+  "creation_date_earliest": "1767-01-01",
+  "creation_date_latest": "1767-01-01",
+  "medium": "etching in crayon manner",
+  "accession_number": "49.2.39",
+  "id": "cmoa:things/9ece909d-cf79-4720-82be-c6006de49480",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1949-01-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.75,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008641",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until January 24, 1949; his gift to Museum, January 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104010&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/612e864b-6031-418d-bb29-d8d2a02344c9",
+      "party_type": "Person",
+      "full_name": "Johannes Körnlein",
+      "cited_name": "Körnlein, Johannes",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1720-01-01",
+      "death_date": "1772-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/609c4096-c3d2-4237-9a2c-1e4d7b9da45d",
+      "party_type": "Person",
+      "full_name": "Gerrit Dou",
+      "cited_name": "Dou, Gerrit",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1613-01-01",
+      "death_date": "1675-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Leyden (South Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Multiple A",
+  "creation_date": null,
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "screenprint on aluminum with collage",
+  "accession_number": "80.7.1",
+  "id": "cmoa:things/3dc5e42e-473a-4c7c-a6a7-ae6e9eeab240",
+  "credit_line": "Gift of Graham Loving",
+  "date_acquired": "1980-05-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.875,
+  "item_height": 17.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111951",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "mixed media",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28773&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69d9e7bd-b6be-408a-bc7e-993de323f412",
+      "party_type": "Person",
+      "full_name": "Conrad Marca-Relli",
+      "cited_name": "Marca-Relli, Conrad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Parma, Italy"
+    }
+  ]
+}

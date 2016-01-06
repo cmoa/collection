@@ -1,0 +1,39 @@
+{
+  "title": "Section #1",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "glass, blown and cold worked with murrine",
+  "accession_number": "2003.42.1",
+  "id": "cmoa:things/8707daab-1017-4e88-a4c2-b5b982ecbfac",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.375,
+  "item_height": 14.5,
+  "item_depth": 5.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5241",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68838&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/968ec747-130a-4cdf-b39c-b472e2f60149",
+      "party_type": "Person",
+      "full_name": "Giles Bettison",
+      "cited_name": "Bettison, Giles",
+      "role": null,
+      "nationality": "Australian",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Christian IV",
+  "creation_date": "1625",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1625-01-01",
+  "medium": "engraving",
+  "accession_number": "16.38.6",
+  "id": "cmoa:things/6c34cf87-6685-4356-b559-8b8af7468fbd",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001272",
+  "provenance_text": "Arthur H. Hahlo and Company, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101914&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/595ddc05-2905-48ff-8b50-87177a4e180d",
+      "party_type": "Person",
+      "full_name": "Jan Muller",
+      "cited_name": "Muller, Jan Harmensz",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1571-01-01",
+      "death_date": "1628-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/893b88fd-a84e-4ee1-815a-d7786676b54f",
+      "party_type": "Person",
+      "full_name": "Pieter F. Isaacsz.",
+      "cited_name": "Isaacsz., Pieter F.",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1569-01-01",
+      "death_date": "1625-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

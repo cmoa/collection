@@ -1,0 +1,39 @@
+{
+  "title": "Concert Hall; Academy of Music, Philadelphia; [interior perspective]",
+  "creation_date": "1855-1856",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1856-01-01",
+  "medium": "ink on paper",
+  "accession_number": "93.158.5",
+  "id": "cmoa:things/915de91a-4bec-43e4-aa64-9ad9af0b3bdf",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 26.438,
+  "item_height": 21.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033004",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13089&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a8c0264-0128-4836-ad4e-7414bf4c150e",
+      "party_type": "Person",
+      "full_name": "Napoleon Le Brun",
+      "cited_name": "Le Brun, Napoleon",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1821-01-01",
+      "death_date": "1901-01-01",
+      "birth_place": " Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": "New York state (United States)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "title": "Landscapes of Japan (Nihon no sansui)",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "1 Volume. 3 prints.",
+  "accession_number": "89.28.716.A-.C",
+  "id": "cmoa:things/23a29a7a-50f5-49ed-8fd4-40fe3cfe85bd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 10.125,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4146",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "books",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b15cb7cd-f6cf-4527-b94c-36a099d38611",
+      "party_type": "Person",
+      "full_name": "Maekawa Senpan",
+      "cited_name": "Maekawa Senpan",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1889-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Japan, Kyoto",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/25f152a7-829a-483f-9fef-d5fb40c6cfcd",
+      "party_type": "Person",
+      "full_name": "Yamaguchi Susumu",
+      "cited_name": "Yamaguchi Susumu",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1897-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Japan, Nagano-ken",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/97e375ee-ff86-492c-a95d-2ef870d38dcf",
+      "party_type": "Person",
+      "full_name": "Azechi Umetaro",
+      "cited_name": "Azechi Umetaro",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1902-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ec1a1d04-ce86-49c2-85bf-cb994794a384",
+      "party_type": "Person",
+      "full_name": "Fugaku Honsha",
+      "cited_name": "Fugaku Honsha",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

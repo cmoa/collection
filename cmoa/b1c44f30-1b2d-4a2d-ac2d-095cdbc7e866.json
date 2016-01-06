@@ -1,0 +1,39 @@
+{
+  "title": "Victoria Memorial",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "2002.13.9",
+  "id": "cmoa:things/b1c44f30-1b2d-4a2d-ac2d-095cdbc7e866",
+  "credit_line": "Mr. and Mrs. William A. Meyer Fund",
+  "date_acquired": "2002-04-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.062,
+  "item_height": 10.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004444",
+  "provenance_text": "Concept Art Gallery, Pittsburgh, 4/2002; Mr. and Mrs. William A. Meyer Fund",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34476&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17eb67da-ba1a-468e-bbde-a229aa800c75",
+      "party_type": "Person",
+      "full_name": "Yoshida Hiroshi",
+      "cited_name": "Yoshida Hiroshi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1876-01-01",
+      "death_date": "1950-01-01",
+      "birth_place": "Kurume, Kyushu",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "1006 chair",
+  "creation_date": "designed 1944, manufactured 1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "aluminum",
+  "accession_number": "2000.9.2.1",
+  "id": "cmoa:things/08d219f4-f8b7-41ef-96d1-cacd0708aa4b",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2000-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.75,
+  "item_height": 34.5,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004144",
+  "provenance_text": "EMECO, Hanover, Pennsylvania",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54147&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/672d3a74-474d-4432-a62d-75ceefb5fac5",
+      "party_type": "Organization",
+      "full_name": "Emeco",
+      "cited_name": "Emeco",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

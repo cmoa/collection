@@ -1,0 +1,51 @@
+{
+  "title": "\"Engetsutô\" at Shirahama (Shirahama \"Engetsutô\")",
+  "creation_date": "November 1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "Linoleum cut on paper",
+  "accession_number": "89.28.713.26",
+  "id": "cmoa:things/9dbaabe9-b4ef-426b-9388-bf4c4934591e",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028758",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37922&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a860797-7308-4f20-ab45-997773e1ade7",
+      "party_type": "Person",
+      "full_name": "Maeda Toshiro",
+      "cited_name": "Maeda Toshiro",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1904-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c4e2a6a0-ad8e-4dbd-bd26-bb1c7ef7df5c",
+      "party_type": "Organization",
+      "full_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "cited_name": "Japan Woodblock Print Society (Nihon hanga kyokai)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

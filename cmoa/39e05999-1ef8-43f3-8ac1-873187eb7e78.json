@@ -1,0 +1,39 @@
+{
+  "title": "Winter (Christmas Eve)",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on wood",
+  "accession_number": "74.7.12",
+  "id": "cmoa:things/39e05999-1ef8-43f3-8ac1-873187eb7e78",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.375,
+  "item_height": 17.0,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017276",
+  "provenance_text": "Charles J. Rosenbloom, 1936; bequest to museum, 1974",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0f3ed78-c1cf-41be-bfb2-2150d8c5e9d7",
+      "party_type": "Person",
+      "full_name": "Lauren Ford",
+      "cited_name": "Ford, Lauren",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1891-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

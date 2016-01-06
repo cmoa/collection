@@ -1,0 +1,39 @@
+{
+  "title": "Hot water kettle on stand",
+  "creation_date": "1931-1941",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "silver",
+  "accession_number": "72.14.18.1.A-D",
+  "id": "cmoa:things/7214abf5-bf91-4624-af97-9e7dcd530313",
+  "credit_line": "Bequest of Robert S. Waters",
+  "date_acquired": "1972-05-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 13.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016329",
+  "provenance_text": "Robert S. Waters",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4950&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98895b2f-ea64-496f-9899-6509d1e3267e",
+      "party_type": "Organization",
+      "full_name": "Georg Jensen Manufactory",
+      "cited_name": "Jensen, Georg Manufactory",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1904-01-01",
+      "death_date": null,
+      "birth_place": "Copenhagen",
+      "death_place": null
+    }
+  ]
+}

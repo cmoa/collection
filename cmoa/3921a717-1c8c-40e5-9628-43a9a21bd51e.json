@@ -1,0 +1,39 @@
+{
+  "title": "The Passenger",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "87.15",
+  "id": "cmoa:things/3921a717-1c8c-40e5-9628-43a9a21bd51e",
+  "credit_line": "Purchase: gift of Milton Fine and Patrons Art Fund",
+  "date_acquired": "1987-06-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 84.0,
+  "item_height": 84.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026280",
+  "provenance_text": "John Davis Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25686&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98d0234e-962d-4146-86d3-933358e7ebbf",
+      "party_type": "Person",
+      "full_name": "Catherine Lee",
+      "cited_name": "Lee, Catherine",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1950-01-01",
+      "death_date": null,
+      "birth_place": "Texas",
+      "death_place": null
+    }
+  ]
+}

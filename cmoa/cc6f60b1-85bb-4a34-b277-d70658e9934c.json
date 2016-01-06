@@ -1,0 +1,42 @@
+{
+  "title": "It's a Small World",
+  "creation_date": "1930",
+  "creation_date_earliest": "1930-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "82.27.1",
+  "id": "cmoa:things/cc6f60b1-85bb-4a34-b277-d70658e9934c",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1982-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.5,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022308",
+  "provenance_text": "Childs Gallery, Boston, MA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100472&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100471&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa534bdd-5568-41b5-81c5-7a928dcda628",
+      "party_type": "Person",
+      "full_name": "Leo Meissner",
+      "cited_name": "Meissner, Leo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Hamtramck (Wayne county, Michigan, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1964",
+  "creation_date_earliest": "1964-01-01",
+  "creation_date_latest": "1964-01-01",
+  "medium": "folded paper",
+  "accession_number": "64.24",
+  "id": "cmoa:things/491f4702-0838-4a97-8b6c-416818bc5f01",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1964-11-24",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 9600.0,
+  "item_depth": 7.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011796",
+  "provenance_text": "James Lee Byars",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=46808&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a802649-546f-49fd-a096-5a62bbe5a319",
+      "party_type": "Person",
+      "full_name": "James Lee Byars",
+      "cited_name": "Byars, James L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1932-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": " Detroit (Wayne county, Michigan, United States)",
+      "death_place": "Cairo (Al-Qa-hirah governorate, Urban, Egypt)"
+    }
+  ]
+}

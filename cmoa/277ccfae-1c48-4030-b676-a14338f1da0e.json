@@ -1,0 +1,39 @@
+{
+  "title": "Sud-Sud-Est",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "pencil on brown paper and linen",
+  "accession_number": "90.23",
+  "id": "cmoa:things/277ccfae-1c48-4030-b676-a14338f1da0e",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "1990-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery One",
+  "item_width": 16.25,
+  "item_height": 16.25,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029368",
+  "provenance_text": "Burnett Miller Gallery, Los Angeles",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114332&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ab20863-6b72-4648-8aa1-cdc10c49403c",
+      "party_type": "Person",
+      "full_name": "Giovanni Anselmo",
+      "cited_name": "Anselmo, Giovanni",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Borgofranco d'Ivrea (Torino Province, Piedmont, Italy)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Florence",
+  "creation_date": "c. 1880-1900",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "11.7",
+  "id": "cmoa:things/94a52ad0-2908-4dd8-afb4-5eb61eb0edd1",
+  "credit_line": "Purchase",
+  "date_acquired": "1911-03-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000596",
+  "provenance_text": "Mrs. Walter Shirlaw, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114946&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b55cc5e-3eae-461e-8bc8-4ec773b26631",
+      "party_type": "Person",
+      "full_name": "Walter Shirlaw",
+      "cited_name": "Shirlaw, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1838-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": "Paisley (Glasgow, Scotland, United Kingdom)",
+      "death_place": "Madrid (Madrid province, Comunidad de Madrid, Spain)"
+    }
+  ]
+}

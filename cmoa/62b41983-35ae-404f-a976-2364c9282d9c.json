@@ -1,0 +1,42 @@
+{
+  "title": "Jaffa Gate, Jerusalem",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.47.4",
+  "id": "cmoa:things/62b41983-35ae-404f-a976-2364c9282d9c",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2010-10-07",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.562,
+  "item_height": 14.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92191",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103296&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103297&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/decd065c-48b5-4b5b-accc-68bcf2b189ed",
+      "party_type": "Person",
+      "full_name": "Philip Perkis",
+      "cited_name": "Perkis, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "Boston, MA",
+      "death_place": null
+    }
+  ]
+}

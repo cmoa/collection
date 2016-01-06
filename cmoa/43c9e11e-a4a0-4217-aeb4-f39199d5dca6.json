@@ -1,0 +1,39 @@
+{
+  "title": "Rupestrian Africa",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "linoleum cut on paper",
+  "accession_number": "45.36",
+  "id": "cmoa:things/43c9e11e-a4a0-4217-aeb4-f39199d5dca6",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.812,
+  "item_height": 14.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007593",
+  "provenance_text": "Adrian Troy",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78879&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3573416-b8a2-49cb-b2f1-c1799bc5b1f4",
+      "party_type": "Person",
+      "full_name": "Adrian Troy",
+      "cited_name": "Troy, Adrian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1977-01-01",
+      "birth_place": "Hull, England",
+      "death_place": "Memphis, TN"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Tricorne candleholder",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "glass",
+  "accession_number": "2015.5.7.3",
+  "id": "cmoa:things/8c442701-2966-417f-91bf-27ce518dc50e",
+  "credit_line": "Gift of Jewel Stern",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 3.5,
+  "item_height": 3.25,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107367",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2bc5434-d4f8-4608-8733-cbdfdf01b477",
+      "party_type": "Person",
+      "full_name": "Peter Muller-Munk",
+      "cited_name": "Muller-Munk, Peter",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "Pittsburgh, PA, USA"
+    },
+    {
+      "artist_id": "cmoa:parties/84638ce5-fab8-4d20-b54b-a88180707806",
+      "party_type": "Organization",
+      "full_name": "Val Saint Lambert",
+      "cited_name": "Val Saint Lambert",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1825-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

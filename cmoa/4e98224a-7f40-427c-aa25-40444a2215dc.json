@@ -1,0 +1,42 @@
+{
+  "title": "Post Office",
+  "creation_date": "c. 1859-1863",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "42.9",
+  "id": "cmoa:things/4e98224a-7f40-427c-aa25-40444a2215dc",
+  "credit_line": "Purchase",
+  "date_acquired": "1942-11-30",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 20.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007384",
+  "provenance_text": "David Gilmour Blythe (1815-1865); George W. Hailman, Pittsburgh, PA [1]; his wife, Mrs. George W. Hailman, Pittsburgh, PA; her son, James D. Hailman (ca. 1866-1930), Pittsburgh, PA, until June 1930; his wife, Mrs. Johanna K. W. Hailman (1871-1958), Pittsburgh, PA, June 1930 until 1937; sold to Francis P. Garvan (1875-1937), New York, NY, 1937; estate of Francis P. Garvan, November 1937-until October 1942 [2]; with M. Knoedler and Co., New York, NY, as agent, October 22, 1942 [3]; purchased by Museum, November 1942.\n \nNotes:\n[1]. From David Gilmour Blythe, shortly after the painting's completion.  \n[2]. The painting was on loan in the Garvan Collection, Yale University Art Gallery, 1937-1942.\n[3]. As agent for the estate of Francis P. Garvan, New York, NY; Knoedler No. CA 1941.  The Knoedler sales book (Getty Research Institute) records the sale of the painting to the Carnegie Institute on October 22, 1942; committee action was on November 30, 1942.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94866&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56850&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

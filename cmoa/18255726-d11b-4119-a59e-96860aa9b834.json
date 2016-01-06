@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Portrait of a woman in 18th-century dress)",
+  "creation_date": "c. 1905-1925",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "mezzotint in color",
+  "accession_number": "27.8.24",
+  "id": "cmoa:things/18255726-d11b-4119-a59e-96860aa9b834",
+  "credit_line": "Bequest of Henry Buhl, Jr.",
+  "date_acquired": "1927-11-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006079",
+  "provenance_text": "Estate of Henry Buhl, Jr",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107817&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f88bbca2-142e-4140-a4ea-466c1b9af5bd",
+      "party_type": "Person",
+      "full_name": "Samuel Arlent-Edwards",
+      "cited_name": "Arlent-Edwards, Samuel",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1862-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Somerset, England",
+      "death_place": "Westport, Connecticut"
+    }
+  ]
+}

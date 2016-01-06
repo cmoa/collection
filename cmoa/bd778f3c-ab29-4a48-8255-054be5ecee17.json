@@ -1,0 +1,42 @@
+{
+  "title": "Sketch of Ida Tarbell",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "crayon on paper",
+  "accession_number": "18.25.1",
+  "id": "cmoa:things/bd778f3c-ab29-4a48-8255-054be5ecee17",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001768",
+  "provenance_text": "Purchase; Provenance: American Artist's War Emergency Fund, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=84822&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48044&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a84f180-8c3e-46c3-93e4-c9e8424572fc",
+      "party_type": "Person",
+      "full_name": "Cecilia Beaux",
+      "cited_name": "Beaux, Cecilia",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)",
+      "death_place": " Gloucester (Essex county, Massachusetts, United States)"
+    }
+  ]
+}

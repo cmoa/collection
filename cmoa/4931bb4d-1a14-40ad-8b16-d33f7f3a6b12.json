@@ -1,0 +1,39 @@
+{
+  "title": "Turkish Female Figure",
+  "creation_date": "c. 1750-1760",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "porcelain",
+  "accession_number": "87.44.2",
+  "id": "cmoa:things/4931bb4d-1a14-40ad-8b16-d33f7f3a6b12",
+  "credit_line": "Bequest of Elizabeth Braun Ernst",
+  "date_acquired": "1988-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.75,
+  "item_height": 6.75,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026380",
+  "provenance_text": "Bequest of Elizabeth Braun Ernst, Pittsburgh, PA, 1988.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4297&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    }
+  ]
+}

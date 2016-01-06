@@ -1,0 +1,39 @@
+{
+  "title": "Swimming Hole",
+  "creation_date": "c. 1903",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1908-01-01",
+  "medium": "ink on paper",
+  "accession_number": "2011.71.7",
+  "id": "cmoa:things/c7ea8ab0-4b98-4348-b6c4-bc317782537b",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.625,
+  "item_height": 12.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98230",
+  "provenance_text": "Gift of Carol and Herbert Diamond, 2012. \n\nTBF 10/29/14",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113863&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6602a2e9-8a9a-40cf-850c-d45f5b1c908d",
+      "party_type": "Person",
+      "full_name": "William James Glackens",
+      "cited_name": "Glackens, William J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "Westport, Connecticut"
+    }
+  ]
+}

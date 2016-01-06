@@ -1,0 +1,42 @@
+{
+  "title": "Paper Ribs III",
+  "creation_date": "c. 1978",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "paper, wood in plastic box",
+  "accession_number": "78.7.1",
+  "id": "cmoa:things/62712f49-7c1b-4abd-b20c-1b39d029d092",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 68th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.0,
+  "item_height": 19.125,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020130",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53563&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=53562&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2387e99f-9f0c-409c-868d-bc9cfcecc3f9",
+      "party_type": "Person",
+      "full_name": "Louise Holeman Pierucci",
+      "cited_name": "Pierucci, Louise H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": "2002-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

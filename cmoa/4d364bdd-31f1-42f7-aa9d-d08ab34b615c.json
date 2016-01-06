@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1822-1835",
+  "creation_date_earliest": "1822-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "transfer printed glazed earthenware",
+  "accession_number": "55.37.5",
+  "id": "cmoa:things/4d364bdd-31f1-42f7-aa9d-d08ab34b615c",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1955-12-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 1.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009454",
+  "provenance_text": "Gift of Mrs. James H. Beal, 1955.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2708&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a247fc44-77ab-4cc6-b5ce-780ae291e8f2",
+      "party_type": "Person",
+      "full_name": "Joseph Stubbs",
+      "cited_name": "Stubbs, Joseph",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1822-01-01",
+      "death_date": "1835-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

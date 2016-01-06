@@ -1,0 +1,49 @@
+{
+  "title": "Senza una meta (Without destination)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "glass, blown, hot-worked, and flame-worked",
+  "accession_number": "2007.44",
+  "id": "cmoa:things/b31f13b8-d397-4156-8cee-6cf8e73c560e",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2007-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 13.375,
+  "item_depth": 42.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26995",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f2bfecb6-8637-42d1-b6cb-2005283f2784",
+      "party_type": "Person",
+      "full_name": "Pino Signoretto",
+      "cited_name": "Signoretto, Pino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Favaro, Veneto (Italy)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1dc1321a-5c2f-4d51-9024-b2ef4d630ea4",
+      "party_type": "Person",
+      "full_name": "Mauro Bonaventura",
+      "cited_name": "Bonaventura, Mauro",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Venice, Italy",
+      "death_place": null
+    }
+  ]
+}

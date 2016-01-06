@@ -1,0 +1,39 @@
+{
+  "title": "Light and Shadow",
+  "creation_date": null,
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.212",
+  "id": "cmoa:things/2bc04ee8-d5d3-407d-978a-fcd459fe6786",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012795",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/45e70c11-a302-4e46-abc0-8d32afa28bc5",
+      "party_type": "Person",
+      "full_name": "Joseph M. Margulies",
+      "cited_name": "Margulies, Joseph M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": "Vienna (Wien state, Austria)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

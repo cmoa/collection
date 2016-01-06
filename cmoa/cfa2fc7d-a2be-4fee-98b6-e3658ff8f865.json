@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "77.89.7",
+  "id": "cmoa:things/cfa2fc7d-a2be-4fee-98b6-e3658ff8f865",
+  "credit_line": "Gift of James L. Winokur",
+  "date_acquired": "1978-02-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019189",
+  "provenance_text": "James L. Winokur, Pittsburgh, PA",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89462&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd4e28a7-00b2-4a2a-bb99-b7d4322959bc",
+      "party_type": "Person",
+      "full_name": "Sam Francis",
+      "cited_name": "Francis, Sam",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1923-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": " San Mateo (San Mateo county, California, United States)",
+      "death_place": " Santa Monica (Los Angeles county, California, United States)"
+    }
+  ]
+}

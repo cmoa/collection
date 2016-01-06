@@ -1,0 +1,45 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1980",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "earthenware with luster glaze",
+  "accession_number": "1996.88.2.2",
+  "id": "cmoa:things/ae6274cb-b747-46c1-9d9b-86e26f938b26",
+  "credit_line": "Gift of Carol Pollock",
+  "date_acquired": "1997-02-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 6.25,
+  "item_height": 7.438,
+  "item_depth": 6.312,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002912",
+  "provenance_text": "Carol Pollock, Latrobe, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97989&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97991&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3107&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a89612e2-1f93-4866-98fd-fe41ae42518d",
+      "party_type": "Person",
+      "full_name": "Beatrice Wood",
+      "cited_name": "Wood, Beatrice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "San Francisco (San Francisco county, California, United States)",
+      "death_place": "Ojai (Ventura county, California, United States)"
+    }
+  ]
+}

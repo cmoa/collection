@@ -1,0 +1,39 @@
+{
+  "title": "Lidded vase",
+  "creation_date": "1904-1906",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "glass",
+  "accession_number": "85.52.2.A-B",
+  "id": "cmoa:things/5e9bd40c-270a-41c2-b04f-75f261592aaf",
+  "credit_line": "Bequest of Jean Bowers Carl",
+  "date_acquired": "1985-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 7.062,
+  "item_depth": 0.0,
+  "item_diameter": 6.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025682",
+  "provenance_text": "Estate of Jean Bowers Carl",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=630&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b70f7433-3627-414b-bf49-bc16b109839e",
+      "party_type": "Person",
+      "full_name": "Victor Durand",
+      "cited_name": "Durand, Victor",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "France",
+      "death_place": null
+    }
+  ]
+}

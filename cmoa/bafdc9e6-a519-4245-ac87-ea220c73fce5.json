@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait with Son Richard",
+  "creation_date": "1904",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "Platinum print",
+  "accession_number": "2007.51.17",
+  "id": "cmoa:things/bafdc9e6-a519-4245-ac87-ea220c73fce5",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 7.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48832",
+  "provenance_text": "Acquired by Mr. George Ebbs from Christie's on 04/26/1988 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/50ceab85-aac2-4463-ab40-9b1fde87b6f4",
+      "party_type": "Person",
+      "full_name": "John G. Bullock",
+      "cited_name": "Bullock, John G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1854-01-01",
+      "death_date": "1939-01-01",
+      "birth_place": "Wilmington, Delaware, USA",
+      "death_place": "West Chester, Pennsylvania, USA"
+    }
+  ]
+}

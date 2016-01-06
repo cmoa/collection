@@ -1,0 +1,39 @@
+{
+  "title": "Madonna Crowned by Two Angels",
+  "creation_date": "1518",
+  "creation_date_earliest": "1517-12-22",
+  "creation_date_latest": "1517-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.92",
+  "id": "cmoa:things/f0421588-18a2-4f9c-81b6-ab2c68f46c71",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 5.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017647",
+  "provenance_text": "Charles J. Rosenbloom (Lugt Suppl. 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=52417&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

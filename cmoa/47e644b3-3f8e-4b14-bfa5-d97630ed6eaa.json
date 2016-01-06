@@ -1,0 +1,51 @@
+{
+  "title": "Domestic Employment: Washing",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1755-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.42",
+  "id": "cmoa:things/47e644b3-3f8e-4b14-bfa5-d97630ed6eaa",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34393",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104104&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f3567923-7afb-4045-9600-32c17891bc92",
+      "party_type": "Person",
+      "full_name": "Charles Spooner",
+      "cited_name": "Spooner, Charles",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": null,
+      "death_date": "1767-01-01",
+      "birth_place": " Wexford (County Wexford, Leinster, Republic of Ireland)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/9bd5e4d4-bb24-4542-8594-ec2b744744be",
+      "party_type": "Person",
+      "full_name": "Philippe Mercier",
+      "cited_name": "Mercier, Philippe",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1689-01-01",
+      "death_date": "1760-01-01",
+      "birth_place": "Berlin (Berlin state, Germany)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

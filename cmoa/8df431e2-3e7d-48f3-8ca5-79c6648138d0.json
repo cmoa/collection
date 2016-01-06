@@ -1,0 +1,39 @@
+{
+  "title": "Train Yard",
+  "creation_date": " not dated",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "gelatin silver print (?)",
+  "accession_number": "2007.69.3",
+  "id": "cmoa:things/8df431e2-3e7d-48f3-8ca5-79c6648138d0",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=51490",
+  "provenance_text": "George H. Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57992&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d7cc2de-1c66-460f-a766-474f86538469",
+      "party_type": "Person",
+      "full_name": "Hew Charles Torrance",
+      "cited_name": "Torrance, Hew C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Scotland",
+      "death_place": null
+    }
+  ]
+}

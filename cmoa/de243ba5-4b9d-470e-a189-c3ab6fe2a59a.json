@@ -1,0 +1,42 @@
+{
+  "title": "Notre Dame, Vue Du Quai Celéstins",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "etching",
+  "accession_number": "16.20.2",
+  "id": "cmoa:things/de243ba5-4b9d-470e-a189-c3ab6fe2a59a",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001107",
+  "provenance_text": "George Busse, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100424&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100423&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55a409bf-26ee-4b7d-89a6-c225e86ad711",
+      "party_type": "Person",
+      "full_name": "John Marin",
+      "cited_name": "Marin, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Rutherford (Bergen county, New Jersey, United States)",
+      "death_place": "Addison (Washington county, Maine, United States)"
+    }
+  ]
+}

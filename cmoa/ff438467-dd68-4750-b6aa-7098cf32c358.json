@@ -1,0 +1,39 @@
+{
+  "title": "Light Grid",
+  "creation_date": "no date",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "pencil and colored pen on paper",
+  "accession_number": "72.26",
+  "id": "cmoa:things/ff438467-dd68-4750-b6aa-7098cf32c358",
+  "credit_line": "Gift of Benjamin D. Bernstein",
+  "date_acquired": "1972-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.375,
+  "item_height": 15.25,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016400",
+  "provenance_text": "Marian Locks Gallery, Philadelphia; Gift of Benjamin Bernstein, Philadelphia",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150062&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a71e48b4-8424-4f8a-a971-366b7d3ee199",
+      "party_type": "Person",
+      "full_name": "John Formicola",
+      "cited_name": "Formicola, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

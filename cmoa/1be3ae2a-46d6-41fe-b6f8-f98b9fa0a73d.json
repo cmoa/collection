@@ -1,0 +1,39 @@
+{
+  "title": "Stockbridge Church",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "80.52",
+  "id": "cmoa:things/1be3ae2a-46d6-41fe-b6f8-f98b9fa0a73d",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1980-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 45.063,
+  "item_height": 54.125,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021233",
+  "provenance_text": "Downtown Gallery, New York, as agent, by 1948, until 1968; the artist, until 1971; Hirschl and Adler Galleries, New York, 1971; Janie C. Lee Gallery, Houston, 1975; Jerry Leiber, New York, by 1980; A. W. Mellon Acquisition Endowment Fund, 1980",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=385&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/58091929-2a41-4550-8fcb-71fcdf46faa6",
+      "party_type": "Person",
+      "full_name": "George L. K. Morris",
+      "cited_name": "Morris, George L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

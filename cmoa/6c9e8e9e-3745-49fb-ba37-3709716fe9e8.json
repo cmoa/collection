@@ -1,0 +1,39 @@
+{
+  "title": "Anne in White",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "25.7",
+  "id": "cmoa:things/6c9e8e9e-3745-49fb-ba37-3709716fe9e8",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1925-05-18",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 50.5,
+  "item_height": 60.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005303",
+  "provenance_text": "The artist [1882-1925], until 1925; Estate of George Wesley Bellows, 1925; purchased by Museum, 1925.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21142&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59a4c986-b80e-4dfa-b25f-85c9f17b1428",
+      "party_type": "Person",
+      "full_name": "George Wesley Bellows",
+      "cited_name": "Bellows, George W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Columbus, OH",
+      "death_place": "New Yotk"
+    }
+  ]
+}

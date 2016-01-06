@@ -1,0 +1,60 @@
+{
+  "title": "Desk",
+  "creation_date": "c. 1901",
+  "creation_date_earliest": "1896-01-01",
+  "creation_date_latest": "1906-01-01",
+  "medium": "beech with mahogany veneer and brass",
+  "accession_number": "82.49",
+  "id": "cmoa:things/c8e6944a-52cf-4a39-a9a3-d8f2a721d797",
+  "credit_line": "Decorative Arts Purchase Fund: gift of Stanley and Charlotte Bernstein, by exchange",
+  "date_acquired": "1982-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 43.25,
+  "item_height": 38.0,
+  "item_depth": 23.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022978",
+  "provenance_text": "Dr. William Greenspon, NY, New York",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96718&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96715&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96717&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8732&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/277802d6-f45b-42ce-b7f6-a5a9a996d3fb",
+      "party_type": "Person",
+      "full_name": "Josef Hoffmann",
+      "cited_name": "Hoffmann, Josef",
+      "role": "designer",
+      "nationality": "Austrian",
+      "birth_date": "1870-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Moravia (Czech Republic)",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/c53d57c7-4919-4da3-b960-e7068aa02104",
+      "party_type": "Organization",
+      "full_name": "Jacob and Josef Kohn",
+      "cited_name": "Kohn, Jacob and Josef",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1867-01-01",
+      "death_date": "1914-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

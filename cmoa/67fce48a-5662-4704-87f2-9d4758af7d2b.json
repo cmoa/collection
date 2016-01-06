@@ -1,0 +1,39 @@
+{
+  "title": "Trinity Church",
+  "creation_date": null,
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "etching",
+  "accession_number": "69.48.154",
+  "id": "cmoa:things/67fce48a-5662-4704-87f2-9d4758af7d2b",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012730",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108184&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd131da6-346f-46bf-ad86-9d5b8d1e9461",
+      "party_type": "Person",
+      "full_name": "Nat Lowell",
+      "cited_name": "Lowell, Nat",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

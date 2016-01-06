@@ -1,0 +1,49 @@
+{
+  "title": "Garden chair",
+  "creation_date": "c. 1878",
+  "creation_date_earliest": "1873-01-01",
+  "creation_date_latest": "1883-01-01",
+  "medium": "Painted iron with mahogany",
+  "accession_number": "2012.18",
+  "id": "cmoa:things/de0fcdee-a433-4f55-bb0b-440ebe4163f6",
+  "credit_line": "Ailsa Mellon Bruce Fund",
+  "date_acquired": "2012-05-15",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 32.5,
+  "item_depth": 13.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98405",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ab8e175-654b-4090-a959-07ad20789360",
+      "party_type": "Person",
+      "full_name": "Thomas Jeckyll",
+      "cited_name": "Jeckyll, Thomas",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1827-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9a9f661f-22dc-40f5-a6bd-ebba1b780235",
+      "party_type": "Organization",
+      "full_name": "Barnard, Bishop, and Barnard",
+      "cited_name": "Barnard, Bishop, and Barnard",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1826-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

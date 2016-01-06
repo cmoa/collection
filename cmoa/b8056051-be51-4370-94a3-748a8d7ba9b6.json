@@ -1,0 +1,39 @@
+{
+  "title": "The River of Waterfalls",
+  "creation_date": "1833",
+  "creation_date_earliest": "1833-01-01",
+  "creation_date_latest": "1833-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.370",
+  "id": "cmoa:things/b8056051-be51-4370-94a3-748a8d7ba9b6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028023",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110931&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9556645-e4b1-4ac7-8878-ffa0bbcc955e",
+      "party_type": "Person",
+      "full_name": "Totoya Hokkei",
+      "cited_name": "Totoya Hokkei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1780-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

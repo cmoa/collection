@@ -1,0 +1,51 @@
+{
+  "title": "Sketch Book, Drawings after Hokusai's 53 Stations of the Tokaido and other subjects",
+  "creation_date": "c.1800-1840",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "ink on paper drawings and woodblock prints bound into a book",
+  "accession_number": "89.28.367",
+  "id": "cmoa:things/d07c0bd9-783c-40e7-9a20-aeb322254eb7",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 12.0,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028017",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Meltzer Gallery, New York, 1/17/1963.",
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113016&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a9556645-e4b1-4ac7-8878-ffa0bbcc955e",
+      "party_type": "Person",
+      "full_name": "Totoya Hokkei",
+      "cited_name": "Totoya Hokkei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1780-01-01",
+      "death_date": "1850-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    }
+  ]
+}

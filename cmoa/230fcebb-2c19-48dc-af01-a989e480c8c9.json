@@ -1,0 +1,39 @@
+{
+  "title": "Lion",
+  "creation_date": "c. 1815-1825",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "Ceramic",
+  "accession_number": "70.7.74",
+  "id": "cmoa:things/230fcebb-2c19-48dc-af01-a989e480c8c9",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.625,
+  "item_height": 4.438,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016069",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2415&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b9571eec-5c81-41a7-8626-4c33a4dbf1c5",
+      "party_type": "Organization",
+      "full_name": "Staffordshire, Walton Factory",
+      "cited_name": "Staffordshire, Walton Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": "1835-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

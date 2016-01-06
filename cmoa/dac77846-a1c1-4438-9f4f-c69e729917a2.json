@@ -1,0 +1,39 @@
+{
+  "title": "I 138",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "drawing with watercolor on paper",
+  "accession_number": "2006.81.19",
+  "id": "cmoa:things/dac77846-a1c1-4438-9f4f-c69e729917a2",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.25,
+  "item_height": 22.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=38025",
+  "provenance_text": "The donor, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115464&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/48e285e1-ea80-4715-b6af-3c6c93fbbd37",
+      "party_type": "Person",
+      "full_name": "Henri Michaux",
+      "cited_name": "Michaux, Henri",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1899-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Namur (Namur province, Wallonia, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Saucer",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "lustre painted earthenware",
+  "accession_number": "79.15.12",
+  "id": "cmoa:things/ffa0c9ce-824a-497d-b997-b6c1f804becf",
+  "credit_line": "Gift of Mr. and Mrs. James H. Heroy",
+  "date_acquired": "1979-05-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.062,
+  "item_depth": 0.0,
+  "item_diameter": 5.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020203",
+  "provenance_text": "Gift of Mr. and Mrs. James H. Heroy, Sewickley, PA, 1979.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2546&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a80f181-f41e-40ef-81a6-e11f040d9329",
+      "party_type": "Organization",
+      "full_name": "Wedgwood",
+      "cited_name": "Wedgwood",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1759-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

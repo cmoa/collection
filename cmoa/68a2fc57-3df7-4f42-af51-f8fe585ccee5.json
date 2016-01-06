@@ -1,0 +1,42 @@
+{
+  "title": "Pine Flat Portrait Studio: Sierra",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2006.70.9",
+  "id": "cmoa:things/68a2fc57-3df7-4f42-af51-f8fe585ccee5",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2006-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.75,
+  "item_height": 45.5,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=81526",
+  "provenance_text": "Blum & Poe, Los Angeles",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48003&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71499&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c01a2036-a3d5-473b-be17-6a9837db9673",
+      "party_type": "Person",
+      "full_name": "Sharon Lockhart",
+      "cited_name": "Lockhart, Sharon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Norwood, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Fingerprint #2647",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "casein on wood",
+  "accession_number": "88.14",
+  "id": "cmoa:things/f663fc2b-ecc1-4219-b49b-5ecfe7e4c5d9",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "1988-06-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 63.625,
+  "item_height": 48.0,
+  "item_depth": 3.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026444",
+  "provenance_text": "John Good Gallery, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5525&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/18b1bc17-daa6-4a82-b0ac-22e578be7248",
+      "party_type": "Person",
+      "full_name": "Moira Jane Dryer",
+      "cited_name": "Dryer, Moira J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Toronto (Ontario, Canada)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

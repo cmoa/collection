@@ -1,0 +1,39 @@
+{
+  "title": "Black Baskets",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "madrone",
+  "accession_number": "2010.50.A-.M",
+  "id": "cmoa:things/65311129-97c2-4729-aa77-d100d6cde306",
+  "credit_line": "Gift of Jane and Arthur Mason",
+  "date_acquired": "2010-10-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 8.0,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92281",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104555&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4b852d7-499a-4e9e-ad0c-ba54f0141efd",
+      "party_type": "Person",
+      "full_name": "Christian Burchard",
+      "cited_name": "Burchard, Christian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "Hamburg, Germany",
+      "death_place": null
+    }
+  ]
+}

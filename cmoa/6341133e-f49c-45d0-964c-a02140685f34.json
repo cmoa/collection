@@ -1,0 +1,54 @@
+{
+  "title": "Chamberstick with Snuffer",
+  "creation_date": "c. 1885",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "brass, ebonized wood",
+  "accession_number": "2002.3.A-B",
+  "id": "cmoa:things/6341133e-f49c-45d0-964c-a02140685f34",
+  "credit_line": "James L. Winokur Fund",
+  "date_acquired": "2002-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 5.5,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004450",
+  "provenance_text": "The Country Seat, Oxfordshire, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11655&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11073&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/64fe5c1f-3d48-450a-a10b-f56b6b9701ff",
+      "party_type": "Organization",
+      "full_name": "Hukin & Heath",
+      "cited_name": "Hukin & Heath",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1855-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

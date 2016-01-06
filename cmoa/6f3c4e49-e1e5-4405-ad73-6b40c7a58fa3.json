@@ -1,0 +1,45 @@
+{
+  "title": "Actaeon",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "bronze on onyx base",
+  "accession_number": "25.3.1",
+  "id": "cmoa:things/6f3c4e49-e1e5-4405-ad73-6b40c7a58fa3",
+  "credit_line": "Purchase",
+  "date_acquired": "1925-02-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 10, Scaife Galleries",
+  "item_width": 31.25,
+  "item_height": 29.625,
+  "item_depth": 7.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005279",
+  "provenance_text": "Paul Howard Manship, New York, NY, until 1925; purchased by Museum, 1925.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126406&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126407&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=124501&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4bb2ed1-04d9-4832-843c-a4fcd39fca13",
+      "party_type": "Person",
+      "full_name": "Paul Howard Manship",
+      "cited_name": "Manship, Paul H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Saint Paul (Ramsey county, Minnesota, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

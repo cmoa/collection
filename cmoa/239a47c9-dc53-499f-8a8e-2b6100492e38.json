@@ -1,0 +1,49 @@
+{
+  "title": "Plate, \"Homemaker\"",
+  "creation_date": "1955-1967",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "earthenware",
+  "accession_number": "1996.63",
+  "id": "cmoa:things/239a47c9-dc53-499f-8a8e-2b6100492e38",
+  "credit_line": "Gift of Rachel E. C. Layton",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002232",
+  "provenance_text": "Rachel E. C. Layton, Norfolk, England",
+  "classification": "Ceramics",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/54f85f5b-4bc6-4d47-82e5-31e27b905e5e",
+      "party_type": "Person",
+      "full_name": "Enid Seeney",
+      "cited_name": "Seeney, Enid",
+      "role": "designer",
+      "nationality": "English",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2e3f0b6a-d1d6-4137-b0b6-704c8474f8a6",
+      "party_type": "Organization",
+      "full_name": "Ridgway Potteries Ltd.",
+      "cited_name": "Ridgway Potteries Ltd.",
+      "role": "manufacturer",
+      "nationality": "English",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

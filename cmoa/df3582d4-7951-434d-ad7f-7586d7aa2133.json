@@ -1,0 +1,39 @@
+{
+  "title": "The Bell at Todaiji",
+  "creation_date": "c. 1786-1789",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.28",
+  "id": "cmoa:things/df3582d4-7951-434d-ad7f-7586d7aa2133",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.438,
+  "item_height": 9.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027880",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 4/10/1969.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100257&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56a03d08-25f6-4f71-9a60-258f9697ec2f",
+      "party_type": "Person",
+      "full_name": "Ippitsusai Bunchō",
+      "cited_name": "Ippitsusai Bunchō",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1794-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

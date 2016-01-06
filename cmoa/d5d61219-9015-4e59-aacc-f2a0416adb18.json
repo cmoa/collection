@@ -1,0 +1,39 @@
+{
+  "title": "Rue Norvins à Montmartre",
+  "creation_date": "c. 1939-1940",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "74.7.25",
+  "id": "cmoa:things/d5d61219-9015-4e59-aacc-f2a0416adb18",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 18.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017476",
+  "provenance_text": "Charles J. Rosenbloom, Pittsburgh; bequest to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=46329&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa5af330-e668-43de-bce4-07c23f9baed6",
+      "party_type": "Person",
+      "full_name": "Maurice Utrillo",
+      "cited_name": "Utrillo, Maurice",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1883-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Dax (Landes, Aquitaine, France)"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Berkeley No. 38",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.9",
+  "id": "cmoa:things/5fbff431-736d-41a2-9642-872f462e4640",
+  "credit_line": "Gift of Mr. and Mrs. Sidney M. Feldman",
+  "date_acquired": "1964-05-26",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 58.75,
+  "item_height": 63.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011853",
+  "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5523&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129345&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac742c0c-7a67-42fd-8cd3-f05d83871133",
+      "party_type": "Person",
+      "full_name": "Richard Diebenkorn",
+      "cited_name": "Diebenkorn, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": " Portland (Multnomah county, Oregon, United States)",
+      "death_place": "Healdsburg, California"
+    }
+  ]
+}

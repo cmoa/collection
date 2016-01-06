@@ -1,0 +1,54 @@
+{
+  "title": "Coffrette",
+  "creation_date": "c. 1725-1730",
+  "creation_date_earliest": "1720-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.7.44",
+  "id": "cmoa:things/c22edb15-26d3-483c-9bea-34d0bcd529ae",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 3.875,
+  "item_depth": 5.687,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016037",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126417&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126418&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bac81e19-3c15-42a0-9d74-e02ddaa19376",
+      "party_type": "Organization",
+      "full_name": "Meissen Porcelain Manufactory",
+      "cited_name": "Meissen Porcelain Manufactory",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1710-01-01",
+      "death_date": null,
+      "birth_place": "Meissen (Saxony, Germany)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e7ee71d3-1a8f-4fe9-be6d-7fdd7c2d0680",
+      "party_type": "Person",
+      "full_name": "Johann Gregor Höroldt",
+      "cited_name": "Höroldt, Johann Gregor",
+      "role": "attributed designer",
+      "nationality": "German",
+      "birth_date": "1696-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Jena (Gera district, Thuringia, Germany)",
+      "death_place": " Meissen (Dresden district, Saxony, Germany)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Three Vases",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "graphite, oil on pressed wood",
+  "accession_number": "42.5.6",
+  "id": "cmoa:things/04467463-00f3-4482-8ff0-571cd4edf74c",
+  "credit_line": "Gift of Annie-May Hegeman from the collection of her mother, Mrs. Henry Kirke Porter",
+  "date_acquired": "1942-10-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.375,
+  "item_height": 28.75,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007343",
+  "provenance_text": "Purchased by Mr. and Mrs. Henry Kirke Porter, Pittsburgh, 1901 [1]; Annie-May Hegeman, their daughter, until 1942; gift to Museum, 1942.\nNOTES: 1. Purchased from the 1901 Carnegie International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=15866&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7b9c7ac2-b076-4502-a343-7ab05fc4790f",
+      "party_type": "Person",
+      "full_name": "Walter Gay",
+      "cited_name": "Gay, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": " Hingham (Plymouth County, Massachusetts, United States)",
+      "death_place": " Dammarie-lès-Lys (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

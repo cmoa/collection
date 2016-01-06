@@ -1,0 +1,51 @@
+{
+  "title": "Wine glass",
+  "creation_date": "designed 1920,  manufactured c. 1978",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "handblown muslinglass",
+  "accession_number": "79.32.2",
+  "id": "cmoa:things/7d5d350e-4afa-440e-82d9-c8b72aeaaa36",
+  "credit_line": "Gift of J & L Lobmeyr",
+  "date_acquired": "1979-10-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 3.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020310",
+  "provenance_text": "J & L Lobmeyr, Vienna, Austria",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9916&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/277802d6-f45b-42ce-b7f6-a5a9a996d3fb",
+      "party_type": "Person",
+      "full_name": "Josef Hoffmann",
+      "cited_name": "Hoffmann, Josef",
+      "role": "manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1870-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "Moravia (Czech Republic)",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

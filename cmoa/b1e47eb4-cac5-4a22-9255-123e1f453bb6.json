@@ -1,0 +1,51 @@
+{
+  "title": "Gate to Houses of Parliament:  Kent",
+  "creation_date": "1991",
+  "creation_date_earliest": "1991-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "unglazed bisque porcelain body fired to semi-vitreous temperature",
+  "accession_number": "91.23.10",
+  "id": "cmoa:things/b1e47eb4-cac5-4a22-9255-123e1f453bb6",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1991-12-05",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 8.063,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029588",
+  "provenance_text": "Hugh Colvin, Wales, United Kingdom",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102416&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2311ab7-d7da-4d15-a934-7c23b01893c0",
+      "party_type": "Person",
+      "full_name": "Hugh Colvin",
+      "cited_name": "Colvin, Hugh",
+      "role": "modelmaker",
+      "nationality": "British",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c2d4a4ee-d3e4-482c-92eb-12c5e8150c99",
+      "party_type": "Person",
+      "full_name": "William Kent",
+      "cited_name": "Kent, William",
+      "role": "architect",
+      "nationality": "British",
+      "birth_date": "1670-01-01",
+      "death_date": "1748-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

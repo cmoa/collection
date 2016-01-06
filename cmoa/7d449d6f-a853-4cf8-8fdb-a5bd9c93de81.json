@@ -1,0 +1,39 @@
+{
+  "title": "Commemorative plate (Philadelphia Centennial Exhibition, 1876)",
+  "creation_date": "c. 1876",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "pressed glass",
+  "accession_number": "77.43.7",
+  "id": "cmoa:things/7d449d6f-a853-4cf8-8fdb-a5bd9c93de81",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.25,
+  "item_depth": 0.0,
+  "item_diameter": 1.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018680",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=702&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f001c189-8e27-4ca6-a34a-639a4d78c063",
+      "party_type": "Organization",
+      "full_name": "Gillinder and Sons",
+      "cited_name": "Gillinder and Sons",
+      "role": "probably by",
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

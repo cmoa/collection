@@ -1,0 +1,51 @@
+{
+  "title": "Venus, Eros, and Athena",
+  "creation_date": "1510-1520",
+  "creation_date_earliest": "1509-12-22",
+  "creation_date_latest": "1519-12-22",
+  "medium": "engraving",
+  "accession_number": "43.4.66",
+  "id": "cmoa:things/d83e967a-0026-4f24-9a4b-0cb9f66819db",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007458",
+  "provenance_text": "Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101634&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3dcec87-61c7-44b6-a488-bd3e6a605c09",
+      "party_type": "Person",
+      "full_name": "Marcantonio Raimondi",
+      "cited_name": "Raimondi, Marcantonio",
+      "role": "school of",
+      "nationality": "Italian",
+      "birth_date": "1480-01-01",
+      "death_date": "1530-01-01",
+      "birth_place": "Argini, nr Bologna, Italy?",
+      "death_place": "Bologna, Italy?"
+    },
+    {
+      "artist_id": "cmoa:parties/13377d25-2aee-4ed0-8d91-702b6423c880",
+      "party_type": "Person",
+      "full_name": "Raphael",
+      "cited_name": "Raphael",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1483-01-01",
+      "death_date": "1520-01-01",
+      "birth_place": "Urbino",
+      "death_place": "Rome"
+    }
+  ]
+}

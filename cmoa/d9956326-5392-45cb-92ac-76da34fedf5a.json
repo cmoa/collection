@@ -1,0 +1,57 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1960",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "82.36",
+  "id": "cmoa:things/d9956326-5392-45cb-92ac-76da34fedf5a",
+  "credit_line": "Gift of Mr. and Mrs. Harry P. Blum",
+  "date_acquired": "1982-06-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 6.875,
+  "item_height": 14.625,
+  "item_depth": 6.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022944",
+  "provenance_text": "Gift of Mr. and Mrs. Harry P. Blum, 1982.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97680&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97681&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3514&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5ffb7ad2-2cfe-4901-905c-c05b043136c6",
+      "party_type": "Person",
+      "full_name": "Bernard Leach",
+      "cited_name": "Leach, Bernard",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1887-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Hong Kong",
+      "death_place": "St. Ives, Cornwall, England"
+    },
+    {
+      "artist_id": "cmoa:parties/f2ab5286-c1b9-4a7d-ac2d-29d2ee46a5a9",
+      "party_type": "Organization",
+      "full_name": "Leach Pottery",
+      "cited_name": "Leach Pottery",
+      "role": "maker",
+      "nationality": "British",
+      "birth_date": "1915-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "glass",
+  "accession_number": "2002.43.2",
+  "id": "cmoa:things/f3970c90-d18b-4555-ac8e-b7bf2ab8cf7d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=475",
+  "provenance_text": "Mallets, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5904&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/84638ce5-fab8-4d20-b54b-a88180707806",
+      "party_type": "Organization",
+      "full_name": "Val Saint Lambert",
+      "cited_name": "Val Saint Lambert",
+      "role": "manufacturer",
+      "nationality": "Belgian",
+      "birth_date": "1825-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/628bf302-553c-4f7e-b20f-2857ece29111",
+      "party_type": "Person",
+      "full_name": "Charles Graffart",
+      "cited_name": "Graffart, Charles",
+      "role": "designer",
+      "nationality": "Belgian",
+      "birth_date": "1873-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

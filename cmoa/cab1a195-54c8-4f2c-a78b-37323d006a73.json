@@ -1,0 +1,45 @@
+{
+  "title": "Benign Beast",
+  "creation_date": "c. 1960-63",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "metal (assembled mechanical elements)",
+  "accession_number": "63.8.2",
+  "id": "cmoa:things/cab1a195-54c8-4f2c-a78b-37323d006a73",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 53rd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1963-03-28",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 22.125,
+  "item_depth": 8.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011682",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146986&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146990&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105146&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3dec2965-16f0-4bc7-a36a-4eaef8f922e8",
+      "party_type": "Person",
+      "full_name": "Robert Lepper",
+      "cited_name": "Lepper, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aspinwall, PA",
+      "death_place": "Washington, DC"
+    }
+  ]
+}

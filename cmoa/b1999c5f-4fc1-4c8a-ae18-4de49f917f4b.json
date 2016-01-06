@@ -1,0 +1,39 @@
+{
+  "title": "Red Oak, Vermont",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.148",
+  "id": "cmoa:things/b1999c5f-4fc1-4c8a-ae18-4de49f917f4b",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012723",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108174&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a5a3a1dd-a03c-4646-a731-8a273e22e566",
+      "party_type": "Person",
+      "full_name": "Walter R. Locke",
+      "cited_name": "Locke, Walter R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": null,
+      "birth_place": "Winchester, MA",
+      "death_place": null
+    }
+  ]
+}

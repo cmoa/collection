@@ -1,0 +1,45 @@
+{
+  "title": "The Evening Wind",
+  "creation_date": "1921",
+  "creation_date_earliest": "1921-01-01",
+  "creation_date_latest": "1921-01-01",
+  "medium": "etching",
+  "accession_number": "49.9.6",
+  "id": "cmoa:things/3c6f5e2c-437f-4a3a-a5c2-c3c53c8ef923",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 13.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008779",
+  "provenance_text": "Frank K. M. Rehn, Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101022&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101023&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99307&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e3ca211-2e74-4f4b-8e61-e7d5e12cacdd",
+      "party_type": "Person",
+      "full_name": "Edward Hopper",
+      "cited_name": "Hopper, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Nyack (Rockland county, New York state, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Claret glass",
+  "creation_date": "c. 1860",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "glass",
+  "accession_number": "1999.10",
+  "id": "cmoa:things/e155bef1-7608-4dd7-b794-b2994b89a531",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "1999-04-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 4.812,
+  "item_depth": 0.0,
+  "item_diameter": 2.938,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003838",
+  "provenance_text": "Paul Reeves, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97978&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0310fdd1-2841-4d40-94bc-7935496114b2",
+      "party_type": "Person",
+      "full_name": "Philip Webb",
+      "cited_name": "Webb, Philip",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1831-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": "Oxford (Oxfordshire, England, United Kingdom)",
+      "death_place": "West Sussex (England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/5b6ee04d-84e2-4b60-a53f-696daac31ea5",
+      "party_type": "Organization",
+      "full_name": "James Powell & Sons, Whitefriars Glassworks",
+      "cited_name": "James Powell & Sons, Whitefriars Glassworks",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

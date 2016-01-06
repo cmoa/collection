@@ -1,0 +1,42 @@
+{
+  "title": "Sugar bowl",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "silver, bakelite®",
+  "accession_number": "1996.52.2",
+  "id": "cmoa:things/a3afbf9a-8592-4544-9ab1-cf26c52af16a",
+  "credit_line": "Helen Johnston Acquisition Fund",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.75,
+  "item_height": 2.5,
+  "item_depth": 4.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002160",
+  "provenance_text": "Wynyard R. T. Wilkinson, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5900&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4f5c22fd-5a82-4851-82b6-a23f41fad8c8",
+      "party_type": "Person",
+      "full_name": "A. E. Harvey",
+      "cited_name": "Harvey, A. E.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1894-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

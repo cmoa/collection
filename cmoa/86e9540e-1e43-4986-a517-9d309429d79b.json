@@ -1,0 +1,39 @@
+{
+  "title": "Hyperion",
+  "creation_date": "1841",
+  "creation_date_earliest": "1841-01-01",
+  "creation_date_latest": "1841-01-01",
+  "medium": "marble",
+  "accession_number": "86.36",
+  "id": "cmoa:things/86e9540e-1e43-4986-a517-9d309429d79b",
+  "credit_line": "Purchase: gift of Mrs. George L. Craig, Jr. and Patrons Art Fund",
+  "date_acquired": "1986-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 12.5,
+  "item_height": 23.25,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026069",
+  "provenance_text": "P.T. Homer, Boston, by 1843; private collection, Boston; private collection, Boston, in the late 1930s;  Hirschl and Adler Galleries, New York, 1984; Museum purchase: gift of Mrs. George L. Craig, Jr., and Patrons Art Fund, 1986",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8063&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55edf230-55fc-4fde-b020-2aac022d86b7",
+      "party_type": "Person",
+      "full_name": "Thomas Crawford",
+      "cited_name": "Crawford, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1813-01-01",
+      "death_date": "1857-01-01",
+      "birth_place": null,
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

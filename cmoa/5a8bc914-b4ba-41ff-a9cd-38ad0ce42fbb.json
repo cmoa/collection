@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "glazed stoneware",
+  "accession_number": "1996.66",
+  "id": "cmoa:things/5a8bc914-b4ba-41ff-a9cd-38ad0ce42fbb",
+  "credit_line": "Gift of Graham Shearing in honor of Rachel Layton",
+  "date_acquired": "1996-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.75,
+  "item_depth": 0.0,
+  "item_diameter": 3.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002237",
+  "provenance_text": "Graham Shearing, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1637&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fd68fdc0-187c-48df-8295-ce7d1216960d",
+      "party_type": "Organization",
+      "full_name": "Doulton & Co.",
+      "cited_name": "Doulton & Co.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1815-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

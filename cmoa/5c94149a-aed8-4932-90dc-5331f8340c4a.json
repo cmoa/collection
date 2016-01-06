@@ -1,0 +1,42 @@
+{
+  "title": "The Equestrian",
+  "creation_date": "c. 1909",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "10.2",
+  "id": "cmoa:things/5c94149a-aed8-4932-90dc-5331f8340c4a",
+  "credit_line": "Purchase",
+  "date_acquired": "1910-06-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 37.125,
+  "item_height": 77.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000455",
+  "provenance_text": "Robert Henri [1865-1929], until 1910. Purchased by Museum, 1910.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105720&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=346&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8cb328e8-3f3f-47ee-a251-6db2f7b5fd20",
+      "party_type": "Person",
+      "full_name": "Robert Henri",
+      "cited_name": "Henri, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": " Cincinnati (Hamilton county, Ohio, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

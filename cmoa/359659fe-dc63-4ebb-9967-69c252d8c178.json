@@ -1,0 +1,39 @@
+{
+  "title": "The Tenant",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil, canvas, black linoleum, and cement on canvas",
+  "accession_number": "55.33",
+  "id": "cmoa:things/359659fe-dc63-4ebb-9967-69c252d8c178",
+  "credit_line": "Patrons Art Fund: gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 54.0,
+  "item_height": 71.0,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009441",
+  "provenance_text": "Stable Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17636&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69d9e7bd-b6be-408a-bc7e-993de323f412",
+      "party_type": "Person",
+      "full_name": "Conrad Marca-Relli",
+      "cited_name": "Marca-Relli, Conrad",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": "Boston, MA",
+      "death_place": "Parma, Italy"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Six Forms in Pine",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "carved and laminated wood",
+  "accession_number": "2003.52",
+  "id": "cmoa:things/4e21e28a-c3f7-4495-afdc-797657e8b62e",
+  "credit_line": "Gift of The George Sugarman Foundation",
+  "date_acquired": "2003-12-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 43.5,
+  "item_height": 35.5,
+  "item_depth": 144.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=6549",
+  "provenance_text": "George Sugarman Foundation, New York",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146843&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146835&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146832&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ed0af298-d644-4685-bf49-702dad8fd8a3",
+      "party_type": "Person",
+      "full_name": "George Sugarman",
+      "cited_name": "Sugarman, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Bronx, NY",
+      "death_place": null
+    }
+  ]
+}

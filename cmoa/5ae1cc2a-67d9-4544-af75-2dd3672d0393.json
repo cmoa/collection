@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1875-1880",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "2001.32.1",
+  "id": "cmoa:things/5ae1cc2a-67d9-4544-af75-2dd3672d0393",
+  "credit_line": "Mary Murtland Wurts Fund",
+  "date_acquired": "2001-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.812,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004236",
+  "provenance_text": "Solomon Suchard Antiques, Shaker Heights, Ohio",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3145&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac965214-09d7-4873-86e1-d130ffa40380",
+      "party_type": "Person",
+      "full_name": "Alfred Beau",
+      "cited_name": "Beau, Alfred",
+      "role": "decorator",
+      "nationality": "French",
+      "birth_date": "1829-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/75009fa7-60f5-463e-a404-b7c0fd3bfed7",
+      "party_type": "Organization",
+      "full_name": "Porquier Factory",
+      "cited_name": "Porquier Factory",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1873-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

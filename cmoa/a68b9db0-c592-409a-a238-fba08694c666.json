@@ -1,0 +1,49 @@
+{
+  "title": "General Washington",
+  "creation_date": "1785",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1785-01-01",
+  "medium": "mezzotint",
+  "accession_number": "55.21.8",
+  "id": "cmoa:things/a68b9db0-c592-409a-a238-fba08694c666",
+  "credit_line": "Eavenson Fund",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.75,
+  "item_height": 27.75,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009406",
+  "provenance_text": "Kennedy Galleries, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aecb1721-bc64-4cb2-b126-9357d4c963ce",
+      "party_type": "Person",
+      "full_name": "Valentine Green",
+      "cited_name": "Green, Valentine",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1739-01-01",
+      "death_date": "1813-01-01",
+      "birth_place": " Salford (Salford, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/30e59f19-73d9-4bc4-b707-a613d1d3936d",
+      "party_type": "Person",
+      "full_name": "Charles Willson Peale",
+      "cited_name": "Peale, Charles W.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1741-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "Chester (Queen Annes county, Maryland, United States)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

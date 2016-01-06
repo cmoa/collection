@@ -1,0 +1,39 @@
+{
+  "title": "Jeu de la Mythologie (Mythology Game)",
+  "creation_date": "1644",
+  "creation_date_earliest": "1644-01-01",
+  "creation_date_latest": "1644-01-01",
+  "medium": "etching",
+  "accession_number": "87.3.1",
+  "id": "cmoa:things/96419b9c-cdf3-47f6-b0aa-d6e501e0a95a",
+  "credit_line": "Charles J. Rosenbloom Fund",
+  "date_acquired": "1987-02-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026341",
+  "provenance_text": "C. G. Boerner, New York City, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101638&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f66e23e2-bf15-4c8c-a955-71a3392839f3",
+      "party_type": "Person",
+      "full_name": "Stefano Della Bella",
+      "cited_name": "Della Bella, Stefano",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1610-01-01",
+      "death_date": "1664-01-01",
+      "birth_place": " Florence (Firenze province, Tuscany, Italy)",
+      "death_place": " Florence (Firenze province, Tuscany, Italy)"
+    }
+  ]
+}

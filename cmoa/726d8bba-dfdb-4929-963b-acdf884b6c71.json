@@ -1,0 +1,39 @@
+{
+  "title": "Issue",
+  "creation_date": "1985",
+  "creation_date_earliest": "1985-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "oil on aluminum with steel supports",
+  "accession_number": "85.15",
+  "id": "cmoa:things/726d8bba-dfdb-4929-963b-acdf884b6c71",
+  "credit_line": "Edith H. Fisher Fund",
+  "date_acquired": "1985-06-13",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 56.0,
+  "item_height": 58.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025440",
+  "provenance_text": "Rhona Hoffman Gallery, Chicago; Carnegie Museum of Art, Pittsburgh; Edith H. Fisher Fund",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30446&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f1627189-dbc3-416e-b790-b562bdd85cf2",
+      "party_type": "Person",
+      "full_name": "Robert Ryman",
+      "cited_name": "Ryman, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": "Nashville-Davidson (Davidson cuounty, Tennessee, United States)",
+      "death_place": null
+    }
+  ]
+}

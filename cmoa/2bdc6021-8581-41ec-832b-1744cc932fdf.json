@@ -1,0 +1,42 @@
+{
+  "title": "Rainy Night",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "44.5.1",
+  "id": "cmoa:things/2bdc6021-8581-41ec-832b-1744cc932fdf",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007524",
+  "provenance_text": "Kennedy & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100314&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100313&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2957b60b-6fa0-4f6f-8236-a5d7e088958b",
+      "party_type": "Person",
+      "full_name": "Mortimer Borne",
+      "cited_name": "Borne, Mortimer",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Rypin, Poland",
+      "death_place": "Nyack, New York"
+    }
+  ]
+}

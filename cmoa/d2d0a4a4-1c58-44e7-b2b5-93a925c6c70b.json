@@ -1,0 +1,39 @@
+{
+  "title": "Gussied Up",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "wood, doll clothing, vise, and glass",
+  "accession_number": "93.5",
+  "id": "cmoa:things/d2d0a4a4-1c58-44e7-b2b5-93a925c6c70b",
+  "credit_line": "Founders Patrons Day Acquisition Fund and Carnegie International Acquisition Fund",
+  "date_acquired": "1993-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 15, Scaife Galleries",
+  "item_width": 144.0,
+  "item_height": 80.0,
+  "item_depth": 96.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033645",
+  "provenance_text": "Metro Pictures, New York, NY; Carnegie Museum of Art, Pittsburgh; Founder-Patrons Day Acquisitions Fund and Carnegie International Acquisition Fund",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113934&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3cb714ea-12c2-4ccc-87fa-4a761d13c4eb",
+      "party_type": "Person",
+      "full_name": "Mike Kelley",
+      "cited_name": "Kelley, Mike",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Detroit, Michigan",
+      "death_place": "Los Angeles, CA"
+    }
+  ]
+}

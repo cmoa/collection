@@ -1,0 +1,39 @@
+{
+  "title": "Ophelia 2",
+  "creation_date": "1956",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1956-01-01",
+  "medium": "bronze",
+  "accession_number": "58.73",
+  "id": "cmoa:things/7ac3c822-36e9-40f9-9a86-f31b48c15cc3",
+  "credit_line": "Howard Heinz Endowment Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 21.0,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010917",
+  "provenance_text": "The Hanover Gallery, London, for 1958 Pittsburgh International",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126270&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/308ba94f-4066-457d-afee-18340f371426",
+      "party_type": "Person",
+      "full_name": "Reg Butler",
+      "cited_name": "Butler, Reg",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1913-01-01",
+      "death_date": "1981-01-01",
+      "birth_place": " Buntingford (Hertfordshire, England, United Kingdom)",
+      "death_place": " Berkhamsted (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

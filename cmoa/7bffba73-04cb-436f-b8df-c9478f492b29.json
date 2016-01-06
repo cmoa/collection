@@ -1,0 +1,37 @@
+{
+  "title": "Lomna",
+  "creation_date": "c. 1952",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "59.51",
+  "id": "cmoa:things/7bffba73-04cb-436f-b8df-c9478f492b29",
+  "credit_line": "Gift of Mr. and Mrs. Leland Hazard",
+  "date_acquired": "1959-12-16",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.875,
+  "item_height": 76.625,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011058",
+  "provenance_text": "Gift of Mr. and Mrs. Leland Hazard, Pittsburgh, PA, 1959.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/645b75b3-9f9b-4af2-a91d-7099f0674781",
+      "party_type": "Person",
+      "full_name": "Victor Vasarely",
+      "cited_name": "Vasarely, Victor",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1908-01-01",
+      "death_date": "1997-01-01",
+      "birth_place": "Pécs (Baranya, Hungary)",
+      "death_place": "Paris (Ville de Paris department, Ile-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Repos au Bord de la rivière",
+  "creation_date": null,
+  "creation_date_earliest": "1857-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "etching",
+  "accession_number": "18.12.1",
+  "id": "cmoa:things/936f4f00-ecdf-4600-9681-c4a15927640c",
+  "credit_line": "Purchase",
+  "date_acquired": "1918-02-28",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001666",
+  "provenance_text": "Frederick Keppel & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104802&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0c687199-38d7-4233-8fc6-7fd8366a1f06",
+      "party_type": "Person",
+      "full_name": "Alphonse Legros",
+      "cited_name": "Legros, Alphonse",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1837-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Dijon (Côte-d'Or, Burgundy region, France)",
+      "death_place": "Watford (Hertfordshire, England, United Kingdom)"
+    }
+  ]
+}

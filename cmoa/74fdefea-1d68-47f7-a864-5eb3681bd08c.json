@@ -1,0 +1,51 @@
+{
+  "title": "Basting spoon",
+  "creation_date": "2000, designed 1998",
+  "creation_date_earliest": "1998-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "nylon and Santoprene thermoplastic elastomer",
+  "accession_number": "2000.12.5.4",
+  "id": "cmoa:things/74fdefea-1d68-47f7-a864-5eb3681bd08c",
+  "credit_line": "Gift of Target Stores",
+  "date_acquired": "2000-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003982",
+  "provenance_text": "Target Stores, Minneapolis, MN",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2146cb8-969d-4b27-828b-489c5a80b3ff",
+      "party_type": "Person",
+      "full_name": "Michael Graves",
+      "cited_name": "Graves, Michael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": "2015-01-01",
+      "birth_place": "Indianapolis, IN",
+      "death_place": "Princeton, NJ"
+    },
+    {
+      "artist_id": "cmoa:parties/9a6f5f57-a411-4577-bd6e-7bb944be0fed",
+      "party_type": "Organization",
+      "full_name": "Target Stores",
+      "cited_name": "Target Stores",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

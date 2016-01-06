@@ -1,0 +1,49 @@
+{
+  "title": "Pigeon Shooting, Playing the Decoy",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "color lithograph",
+  "accession_number": "74.7.70",
+  "id": "cmoa:things/1046e55d-e156-4de9-9093-10c2776b7800",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 27.562,
+  "item_height": 19.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017601",
+  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh,  PA, 1974.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad40026d-d79c-4915-95b2-f9823fc41bb9",
+      "party_type": "Organization",
+      "full_name": "Currier and Ives",
+      "cited_name": "Currier and Ives",
+      "role": "publishers",
+      "nationality": "American",
+      "birth_date": "1857-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/99d21817-c741-4778-92cc-65d8f2e8caf0",
+      "party_type": "Person",
+      "full_name": "Arthur Fitzwilliam Tait",
+      "cited_name": "Tait, Arthur F.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1819-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "Liverpool urban district (England, United Kingdom)",
+      "death_place": "Yonkers (Westchester county, New York state, United States)"
+    }
+  ]
+}

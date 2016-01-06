@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1977",
+  "creation_date_earliest": "1977-01-01",
+  "creation_date_latest": "1977-01-01",
+  "medium": "blown cased glass",
+  "accession_number": "77.83.10",
+  "id": "cmoa:things/c646ff0a-ebbb-4556-b226-a818b3fee43e",
+  "credit_line": "Gift of Stanley and Charlotte Bernstein",
+  "date_acquired": "1978-02-09",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.687,
+  "item_depth": 0.0,
+  "item_diameter": 6.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019043",
+  "provenance_text": "Stanley and Charlotte Bernstein",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2613&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bf36a8c0-5c4d-4c6b-8924-67da42ff6cc5",
+      "party_type": "Person",
+      "full_name": "Michael Pavlik",
+      "cited_name": "Pavlik, Michael",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Czechoslovakia, Prague",
+      "death_place": null
+    }
+  ]
+}

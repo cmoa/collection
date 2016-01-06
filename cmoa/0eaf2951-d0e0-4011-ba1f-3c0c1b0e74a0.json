@@ -1,0 +1,39 @@
+{
+  "title": "It Was a Terrible Day!",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "etching",
+  "accession_number": "51.25",
+  "id": "cmoa:things/0eaf2951-d0e0-4011-ba1f-3c0c1b0e74a0",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1951-05-23",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008932",
+  "provenance_text": "Reynold Henry Weidenaar",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=78890&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e1b8eaf-024f-4ab2-92e9-531b3c3d5930",
+      "party_type": "Person",
+      "full_name": "Reynold Henry Weidenaar",
+      "cited_name": "Weidenaar, Reynold H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Grand Rapids (Ontonagon county, Michigan, United States)",
+      "death_place": "Grand Rapids (Ontonagon county, Michigan, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Platter, Oval",
+  "creation_date": "c. 1765",
+  "creation_date_earliest": "1760-01-01",
+  "creation_date_latest": "1770-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.754",
+  "id": "cmoa:things/26bcf66d-2e97-4f13-ac86-39ad98a8d28a",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.062,
+  "item_height": 1.0,
+  "item_depth": 5.187,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015480",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1730&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d47a3b2-6657-4fcc-8240-7dbcba35cdba",
+      "party_type": "Organization",
+      "full_name": "Cozzi Porcelain Factory",
+      "cited_name": "Cozzi Porcelain Factory",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1764-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

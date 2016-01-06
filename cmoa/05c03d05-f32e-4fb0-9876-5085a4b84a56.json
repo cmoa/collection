@@ -1,0 +1,37 @@
+{
+  "title": "The Quartet",
+  "creation_date": "c. 1939",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1944-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "44.1.1",
+  "id": "cmoa:things/05c03d05-f32e-4fb0-9876-5085a4b84a56",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.125,
+  "item_height": 25.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007500",
+  "provenance_text": "The artist, until 1943; Paul Rosenberg and Co., New York, by 1944; Patrons Art Fund, 1944",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/937f9bd1-9b94-4e61-89ba-f937a0a1cada",
+      "party_type": "Person",
+      "full_name": "Max Weber",
+      "cited_name": "Weber, Max",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1881-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Bialystok (Podlaskie voivodship, Poland)",
+      "death_place": "Great Neck (Nassau county, New York state, United States)"
+    }
+  ]
+}

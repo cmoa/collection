@@ -1,0 +1,39 @@
+{
+  "title": "The Annenberg Center at Sunnylands",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "watercolor",
+  "accession_number": "2010.51.2",
+  "id": "cmoa:things/43e3b8dd-becb-47c6-b615-0ecba58dac7e",
+  "credit_line": "Gift of Frederick Fisher",
+  "date_acquired": "2010-10-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=86478",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126861&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfd3ce13-f716-42ef-b0a5-9f85bba5ffbc",
+      "party_type": "Person",
+      "full_name": "Frederick Fisher",
+      "cited_name": "Fisher, Frederick",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Great Neck Mall Sign",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2006.34.2",
+  "id": "cmoa:things/2e42e595-cbd9-44c1-83fa-c887fcea9caf",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2006-06-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 42.75,
+  "item_height": 52.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26467",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30842&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee0c2226-8b21-4198-a6bc-7769cbd1ed87",
+      "party_type": "Person",
+      "full_name": "Roe Ethridge",
+      "cited_name": "Ethridge, Roe",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": "Miami (Miami-Dade county, Florida, United States)",
+      "death_place": null
+    }
+  ]
+}

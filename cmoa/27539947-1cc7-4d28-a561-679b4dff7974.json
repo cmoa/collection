@@ -1,0 +1,51 @@
+{
+  "title": "Mitsubishi in Marunouchi (Marunouchi Mitsubishi)",
+  "creation_date": "12/5/1929",
+  "creation_date_earliest": "1929-12-05",
+  "creation_date_latest": "1929-12-05",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.732.4",
+  "id": "cmoa:things/27539947-1cc7-4d28-a561-679b4dff7974",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028866",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nSet acquired by Dr. Austin from Charles H. Mitchell, Tokyo, Japan, 11/1965.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29628&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d058d98b-378a-4f71-a1da-4781c148078c",
+      "party_type": "Person",
+      "full_name": "Suwa Kanenori",
+      "cited_name": "Suwa Kanenori",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1897-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

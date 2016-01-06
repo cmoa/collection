@@ -1,0 +1,39 @@
+{
+  "title": "House; Single-Family House, Breganzona, Ticino, Switzerland [sketch]",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "graphite on paper",
+  "accession_number": "1999.54.1",
+  "id": "cmoa:things/bdc5ef53-be11-4349-9a01-0cd25dc6bf40",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1999-12-02",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 11.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003929",
+  "provenance_text": "Der Scutt, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9991&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/46e50191-126c-487d-8850-bf6e2dc5831c",
+      "party_type": "Person",
+      "full_name": "Mario Botta",
+      "cited_name": "Botta, Mario",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Mendrisio (Ticino, Switzerland)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Snow at Nihonbashi (Yuki no Nihonbashi )",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.841",
+  "id": "cmoa:things/7505ff87-e015-497b-a54e-f93d2849e24b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029015",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from T.Z. Shiota, San Francisco, CA., 11/5/1970.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34251&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/019b079b-eed4-4523-a77a-c1094defdf78",
+      "party_type": "Person",
+      "full_name": "Bannai Kôkan",
+      "cited_name": "Bannai Kôkan",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1900-01-01",
+      "death_date": "1963-01-01",
+      "birth_place": "Fukishima prefecture",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e8d2a186-5dcc-4c3a-802d-b953e33d9e16",
+      "party_type": "Person",
+      "full_name": "Watanabe Shôzaburô",
+      "cited_name": "Watanabe Shôzaburô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1885-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

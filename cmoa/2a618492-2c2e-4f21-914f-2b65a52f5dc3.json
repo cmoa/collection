@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1525",
+  "creation_date_earliest": "1519-12-22",
+  "creation_date_latest": "1529-12-22",
+  "medium": "tin-glazed earthenware",
+  "accession_number": "59.48.1",
+  "id": "cmoa:things/2a618492-2c2e-4f21-914f-2b65a52f5dc3",
+  "credit_line": "Mr. and Mrs. James F. Hillman Fund",
+  "date_acquired": "1959-10-26",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 2.0,
+  "item_depth": 0.0,
+  "item_diameter": 9.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011033",
+  "provenance_text": "French and Company, New York City, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101856&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6a077401-73d1-42c3-8c8f-75ac226377af",
+      "party_type": "Person",
+      "full_name": "Nicolò Pellipario",
+      "cited_name": "Pellipario, Nicolò",
+      "role": "artist",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": "1538-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/59a544ad-7367-487e-814e-2ef39c26fe94",
+      "party_type": "Organization",
+      "full_name": "Castel Durante Factory",
+      "cited_name": "Castel Durante Factory",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1495-01-01",
+      "death_date": "1635-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Album",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph",
+  "accession_number": "79.46.5",
+  "id": "cmoa:things/c1a95357-a2cf-4110-b100-66dacda4839b",
+  "credit_line": "Gift of Jack F. Alder",
+  "date_acquired": "1979-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1715",
+  "provenance_text": "The Martin S. Ackerman Foundation, NYC",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74fc0f28-b7aa-4c86-92ca-33a1f61bb758",
+      "party_type": "Person",
+      "full_name": "Allen Jones",
+      "cited_name": "Jones, Allen",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Southampton (Southampton, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

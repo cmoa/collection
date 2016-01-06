@@ -1,0 +1,39 @@
+{
+  "title": "Dove Rising",
+  "creation_date": "1934",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1999.64.4",
+  "id": "cmoa:things/735e241a-5169-4ebb-b516-0b6634168369",
+  "credit_line": "Gift of A. Leonard Kayafas and Lois E. Kayafas",
+  "date_acquired": "2000-02-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 19.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003957",
+  "provenance_text": "A. Leonard And Lois E. Kayafas, Beaver Falls, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113901&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6a10309-4d07-4f59-b3f7-90120aae6672",
+      "party_type": "Person",
+      "full_name": "Harold Edgerton",
+      "cited_name": "Edgerton, Harold",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

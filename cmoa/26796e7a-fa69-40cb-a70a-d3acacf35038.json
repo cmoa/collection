@@ -1,0 +1,39 @@
+{
+  "title": "Joseph Conrad, Seated",
+  "creation_date": "1923 - 1924",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "drypoint on paper",
+  "accession_number": "46.18.17",
+  "id": "cmoa:things/26796e7a-fa69-40cb-a70a-d3acacf35038",
+  "credit_line": "Gift of Alfred C. Howell",
+  "date_acquired": "1946-06-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007689",
+  "provenance_text": "Walter Tittle [1883-1966]. Alfred C. Howell [-1961], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1946.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104872&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156f1745-92e8-4121-a525-043eff218486",
+      "party_type": "Person",
+      "full_name": "Walter Tittle",
+      "cited_name": "Tittle, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

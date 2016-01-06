@@ -1,0 +1,51 @@
+{
+  "title": "Dish",
+  "creation_date": "c. 1955",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "glass, blown with murrine",
+  "accession_number": "2006.56",
+  "id": "cmoa:things/991e3302-c0c2-49a2-90d7-2364fcdb6d01",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 19.0,
+  "item_height": 5.0,
+  "item_depth": 17.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=28388",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35330&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee70c7f3-0d9a-4207-acd5-71f9e5915396",
+      "party_type": "Person",
+      "full_name": "Anzolo Fuga",
+      "cited_name": "Fuga, Anzolo",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1914-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/55e69946-6f97-4da5-a47d-1f7f9831985a",
+      "party_type": "Organization",
+      "full_name": "Arte Vetraria Muranese",
+      "cited_name": "Arte Vetraria Muranese",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1932-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

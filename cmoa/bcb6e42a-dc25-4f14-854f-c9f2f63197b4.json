@@ -1,0 +1,51 @@
+{
+  "title": "(Carnegie Library of Pittsburgh: Home Library Group, Hebrew, April 1899)",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.84.50",
+  "id": "cmoa:things/bcb6e42a-dc25-4f14-854f-c9f2f63197b4",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-12-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 9.5,
+  "item_height": 7.312,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024316",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd9cc771-d8a7-44fa-b531-4c3ae33147fd",
+      "party_type": "Organization",
+      "full_name": "Chasmar-Winchell Press",
+      "cited_name": "Chasmar-Winchell Press",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ae54def8-2e2f-4725-b662-dc2ff96c46f4",
+      "party_type": "Organization",
+      "full_name": "Chautauqua Photographic Company",
+      "cited_name": "Chautauqua Photographic Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

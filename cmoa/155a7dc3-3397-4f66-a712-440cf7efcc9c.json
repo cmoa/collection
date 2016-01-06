@@ -1,0 +1,39 @@
+{
+  "title": "Cuspadore",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "glass",
+  "accession_number": "2011.42",
+  "id": "cmoa:things/155a7dc3-3397-4f66-a712-440cf7efcc9c",
+  "credit_line": "Gift of Harley Niles Trice",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 20, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 5.625,
+  "item_depth": 0.0,
+  "item_diameter": 8.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93195",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106120&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c3d89622-4e41-4384-92a5-adfc0e95b514",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Western",
+      "cited_name": "unknown American, PA, Western",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

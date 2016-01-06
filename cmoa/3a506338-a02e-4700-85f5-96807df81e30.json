@@ -1,0 +1,51 @@
+{
+  "title": "A Woman Plucking Fowl",
+  "creation_date": "c. 1750-1770",
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.29",
+  "id": "cmoa:things/3a506338-a02e-4700-85f5-96807df81e30",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34371",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=39430&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/80e1fdac-4399-45b5-9463-ed47ef96316d",
+      "party_type": "Person",
+      "full_name": "Richard Houston",
+      "cited_name": "Houston, Richard",
+      "role": "printmaker",
+      "nationality": "Irish",
+      "birth_date": "1721-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

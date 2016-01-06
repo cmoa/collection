@@ -1,0 +1,39 @@
+{
+  "title": "A Letter to Marie",
+  "creation_date": "1978",
+  "creation_date_earliest": "1978-01-01",
+  "creation_date_latest": "1978-01-01",
+  "medium": "paper, enamel, collage",
+  "accession_number": "81.84",
+  "id": "cmoa:things/480deb40-d1d5-445c-8d44-08aa5eb0e6f5",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1984-12-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 64.875,
+  "item_height": 84.75,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022085",
+  "provenance_text": "Stephen Wirtz Gallery, San Francisco, CA",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24979&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/622ac6b4-ffbd-4446-8b1a-2511b8260562",
+      "party_type": "Person",
+      "full_name": "Raymond Jennings Saunders",
+      "cited_name": "Saunders, Raymond Jennings",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

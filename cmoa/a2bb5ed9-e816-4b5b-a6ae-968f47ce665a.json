@@ -1,0 +1,39 @@
+{
+  "title": "Black and White, No. 3, Introspection, 1960",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "79.9",
+  "id": "cmoa:things/a2bb5ed9-e816-4b5b-a6ae-968f47ce665a",
+  "credit_line": "Gift of the Stillman-Lack Foundation",
+  "date_acquired": "1979-05-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.875,
+  "item_height": 23.688,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020993",
+  "provenance_text": "Stillman-Lack Foundation, Houston, TX",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/faa55a01-e0b3-4146-8a60-ba89a0770c54",
+      "party_type": "Person",
+      "full_name": "Ary Stillman",
+      "cited_name": "Stillman, Ary",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1891-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Hretzk, Belarus",
+      "death_place": "Houston, TX"
+    }
+  ]
+}

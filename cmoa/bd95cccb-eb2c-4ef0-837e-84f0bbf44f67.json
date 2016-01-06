@@ -1,0 +1,39 @@
+{
+  "title": "Orange bowl",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "porcelain",
+  "accession_number": "2008.72.2",
+  "id": "cmoa:things/bd95cccb-eb2c-4ef0-837e-84f0bbf44f67",
+  "credit_line": "Gift of John and Robyn Horn",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 12.125,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=66059",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a1c4373c-a62c-4872-8063-140d3a458272",
+      "party_type": "Person",
+      "full_name": "James Lovera",
+      "cited_name": "Lovera, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

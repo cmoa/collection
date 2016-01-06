@@ -1,0 +1,39 @@
+{
+  "title": "The Little Hat",
+  "creation_date": "c. 1887",
+  "creation_date_earliest": "1882-01-01",
+  "creation_date_latest": "1892-01-01",
+  "medium": "etching and drypoint on paper",
+  "accession_number": "2000.33.3",
+  "id": "cmoa:things/9036e913-d999-4c45-8c26-cbc400da3c86",
+  "credit_line": "Gift of Ruth and Leonard Perfido From the Collection of her father, Dr. Jess Spirer",
+  "date_acquired": "2000-06-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004043",
+  "provenance_text": "Ruth And Leonard Perfido, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56473&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee6b5090-5d75-4d88-b9e1-2effda93f38b",
+      "party_type": "Person",
+      "full_name": "James Abbott McNeill Whistler",
+      "cited_name": "Whistler, James McNeill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1834-07-11",
+      "death_date": "1903-07-17",
+      "birth_place": "Lowell, Massachusetts",
+      "death_place": "London, England"
+    }
+  ]
+}

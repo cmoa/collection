@@ -1,0 +1,39 @@
+{
+  "title": "November",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1520",
+  "id": "cmoa:things/28e4bbd2-96c3-4de7-afcc-f1cec65ce84b",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027486",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32929&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d046bd0-ea27-4d8a-b67a-f93092ddfe67",
+      "party_type": "Person",
+      "full_name": "Takehisa Yumeji",
+      "cited_name": "Takehisa Yumeji",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1884-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

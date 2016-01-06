@@ -1,0 +1,39 @@
+{
+  "title": "Hay-Maker [Faneuse]",
+  "creation_date": "1869",
+  "creation_date_earliest": "1869-01-01",
+  "creation_date_latest": "1869-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1997.58",
+  "id": "cmoa:things/4b5d4f79-c592-48e2-b43a-7000eabfcf80",
+  "credit_line": "Gift of the Estate of Barbara Hoffstot Jenkins in honor of Mr. and Mrs. Henry Phipps Hoffstot and Mr. Henry Phipps Hoffstot, Jr.",
+  "date_acquired": "1997-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 31.812,
+  "item_height": 39.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003425",
+  "provenance_text": "Adolphe-William Bouguereau [1825-1905], until October 13, 1869. (Sold at Goupil Gallery, Paris, France, October 13, 1869, no. 4481) [1]; sold to Mr. Burns [2]; Frank Norton Hoffstot [-1938], Pittsburgh, PA and Long Island, NY, 1900? until 1938 [3]; by descent to Mr. and Mrs. Henry Phipps Hoffstot, Pittsburgh, PA, 1938 until 1967; Mrs. Henry Phipps Hoffstot [-1994], Pittsburgh, PA, until 1968 [4]; by descent to Barbara Hoffstot Jenkins [1919-1997], Warrenton, Virginia [5]; gift to Estate of Barbara Hoffstot Jenkins [1997-], 1997. Gift to Carnegie Museum of Art, Pittsburgh, PA, December 1997. \nNOTES: [1] 3000F, stockbook no. 4481 [2] see Catalogue Raisonne by Damien Bartoli and correspondence from Dick MacInstosh in curatorial file [3] See correspondence with Henry Hoffstot, Jr. in curatorial file [4] Barbara Drew Hoffstot [5] Mrs. Alan Nelson Jenkins",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10182&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/646d4da4-e1ef-47fa-8bf6-7451c8fcf825",
+      "party_type": "Person",
+      "full_name": "Adolphe-William Bouguereau",
+      "cited_name": "Bouguereau, Adolphe-William",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1825-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "La Rochelle (Charente-Maritime, Poitou-Charentes, France)",
+      "death_place": "La Rochelle (Charente-Maritime, Poitou-Charentes, France)"
+    }
+  ]
+}

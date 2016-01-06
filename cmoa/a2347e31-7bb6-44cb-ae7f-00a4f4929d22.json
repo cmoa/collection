@@ -1,0 +1,39 @@
+{
+  "title": "Figment (Homage to Andy Warhol)",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "2002.27.5",
+  "id": "cmoa:things/a2347e31-7bb6-44cb-ae7f-00a4f4929d22",
+  "credit_line": "Purchase, with funds from The Buddy Taub Foundation, Dennis A. Roach and Jill Roach, Directors",
+  "date_acquired": "2002-06-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 42.25,
+  "item_height": 97.0,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=214",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=62810&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c9b5b67-c74b-4ee0-b2e8-9b1bc5825199",
+      "party_type": "Person",
+      "full_name": "Marlene Dumas",
+      "cited_name": "Dumas, Marlene",
+      "role": null,
+      "nationality": "South African",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": "Cape Town, South Africa",
+      "death_place": null
+    }
+  ]
+}

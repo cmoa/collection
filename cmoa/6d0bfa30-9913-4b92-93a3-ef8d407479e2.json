@@ -1,0 +1,39 @@
+{
+  "title": "Painting",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "sand, marble dust and paint",
+  "accession_number": "58.80",
+  "id": "cmoa:things/6d0bfa30-9913-4b92-93a3-ef8d407479e2",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 67.125,
+  "item_height": 77.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010929",
+  "provenance_text": "The Artist for 1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127769&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1d9515fc-112a-4b7d-987d-aa2c8b3dba95",
+      "party_type": "Person",
+      "full_name": "Antoni Tàpies",
+      "cited_name": "Tàpies , Antoni",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1923-01-01",
+      "death_date": "2012-01-01",
+      "birth_place": "Barcelona, Spain",
+      "death_place": "Barcelona, Spain"
+    }
+  ]
+}

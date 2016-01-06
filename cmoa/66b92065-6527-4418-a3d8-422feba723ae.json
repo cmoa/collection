@@ -1,0 +1,39 @@
+{
+  "title": "Rebellion",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "42.4",
+  "id": "cmoa:things/66b92065-6527-4418-a3d8-422feba723ae",
+  "credit_line": "Gift of Charles J. Rosenbloom",
+  "date_acquired": "1942-10-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 50.5,
+  "item_height": 38.25,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007332",
+  "provenance_text": "Macbeth Gallery, New York, as agent, 1937; Charles J. Rosenbloom, Pittsburgh, 1937; Gift of Charles J. Rosenbloom, 1942",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149667&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf8baa8f-3246-4ce0-90e2-d9ae0ebe5fd3",
+      "party_type": "Person",
+      "full_name": "Jon Corbino",
+      "cited_name": "Corbino, Jon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": " Vittoria (Ragusa province, Sicily, Italy)",
+      "death_place": " Sarasota (Sarasota county, Florida, United States)"
+    }
+  ]
+}

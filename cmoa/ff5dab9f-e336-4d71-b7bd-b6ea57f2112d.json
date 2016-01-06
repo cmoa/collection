@@ -1,0 +1,39 @@
+{
+  "title": "Pink Porcelain Camel",
+  "creation_date": "1948-1949",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "graphite, colored pencil, ink? on paper (unfinished)",
+  "accession_number": "2009.36.10",
+  "id": "cmoa:things/ff5dab9f-e336-4d71-b7bd-b6ea57f2112d",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "2009-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.187,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=82121",
+  "provenance_text": "The artist; Elizabeth Shoumatoff; Antonia Shoumatoff Foster, Wassaic, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88672&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/484afb32-067e-4cd5-89f3-8167376f0ac9",
+      "party_type": "Person",
+      "full_name": "Andrey Avinoff",
+      "cited_name": "Avinoff, Andrey",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "Tulchin (Vinnica oblast, Ukraine)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

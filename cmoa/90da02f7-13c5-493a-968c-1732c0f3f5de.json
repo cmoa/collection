@@ -1,0 +1,39 @@
+{
+  "title": "Virgil",
+  "creation_date": "c. 1860",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "bronze",
+  "accession_number": "73.18.7",
+  "id": "cmoa:things/90da02f7-13c5-493a-968c-1732c0f3f5de",
+  "credit_line": "Gift of Mr. R. C. Ernst",
+  "date_acquired": "1973-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 17.5,
+  "item_height": 13.0,
+  "item_depth": 6.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016677",
+  "provenance_text": "Albert-Ernest Carrier-Belleuse [1824-1887]. Mr. R.C. Ernst, until 1973; gift to Museum of Art, Carnegie Institute, 1973.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117282&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2add1b49-1330-4fc4-9633-193835352e3f",
+      "party_type": "Person",
+      "full_name": "Albert-Ernest Carrier-Belleuse",
+      "cited_name": "Carrier-Belleuse, Albert-Ernest",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1824-01-01",
+      "death_date": "1887-01-01",
+      "birth_place": "Anizy-le-Château (Aisne, Picardy, France)",
+      "death_place": "Sèvres (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

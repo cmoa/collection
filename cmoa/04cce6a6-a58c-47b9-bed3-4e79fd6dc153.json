@@ -1,0 +1,54 @@
+{
+  "title": "Venus and Adonis",
+  "creation_date": "c. 1570",
+  "creation_date_earliest": "1564-12-22",
+  "creation_date_latest": "1574-12-22",
+  "medium": "engraving",
+  "accession_number": "2001.17",
+  "id": "cmoa:things/04cce6a6-a58c-47b9-bed3-4e79fd6dc153",
+  "credit_line": "Leisser Art Fund and Charles J. Rosenbloom Fund",
+  "date_acquired": "2001-04-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004181",
+  "provenance_text": "Hill-Stone Inc., New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31766&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31765&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8f45f245-93e4-4f64-9d67-f79134ce514e",
+      "party_type": "Person",
+      "full_name": "Giorgio Ghisi",
+      "cited_name": "Ghisi, Giorgio",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1520-01-01",
+      "death_date": "1582-01-01",
+      "birth_place": "Mantua (Mantova province, Lombardy, Italy)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/df9e2598-b97a-4c39-812c-c897c96c13ec",
+      "party_type": "Person",
+      "full_name": "Teodoro Ghisi",
+      "cited_name": "Ghisi, Teodoro",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1536-01-01",
+      "death_date": "1601-01-01",
+      "birth_place": "Mantua (Mantova province, Lombardy, Italy)",
+      "death_place": null
+    }
+  ]
+}

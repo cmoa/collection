@@ -1,0 +1,51 @@
+{
+  "title": "Little Queen carpet sweeper",
+  "creation_date": "c. 1963",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1963-01-01",
+  "medium": "enameled steel, vinyl, rubber, chromium-plated steel, and natural bristles",
+  "accession_number": "2015.5.1.A-.D",
+  "id": "cmoa:things/2a6cb3e0-ab5e-4d01-be80-284334822bea",
+  "credit_line": "Gift of Jewel Stern",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 9.375,
+  "item_height": 35.5,
+  "item_depth": 6.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104394",
+  "provenance_text": null,
+  "classification": "recreational artifacts",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=132119&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab73977f-bfaf-4bb8-b30e-f785cff4789f",
+      "party_type": "Organization",
+      "full_name": "Peter Muller-Munk Associates",
+      "cited_name": "Peter Muller-Munk Associates",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1c08f179-9854-429e-ac3d-f9ff2c3236eb",
+      "party_type": "Organization",
+      "full_name": "Bissell, Incorporated",
+      "cited_name": "Bissell, Incorporated",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

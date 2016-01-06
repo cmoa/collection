@@ -1,0 +1,42 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1875-1880",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "52.21.5",
+  "id": "cmoa:things/8de49a90-07d1-49c8-a8a0-1cf90db0b2fd",
+  "credit_line": "Bequest of Henry Lee Mason, Jr.",
+  "date_acquired": "1952-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 29.75,
+  "item_height": 43.75,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009083",
+  "provenance_text": "Henry Lee Mason, Jr., Pittsburgh; bequest to museum, 1952",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120001&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=204&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c9c1258-7c82-4bff-8c2a-9f8c08dde3ba",
+      "party_type": "Person",
+      "full_name": "Alfred S. Wall",
+      "cited_name": "Wall, Alfred S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "USA, Pennsylvania, Mt. Pleasant",
+      "death_place": null
+    }
+  ]
+}

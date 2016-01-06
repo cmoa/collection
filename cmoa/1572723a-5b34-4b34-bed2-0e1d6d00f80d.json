@@ -1,0 +1,37 @@
+{
+  "title": "Three Cows",
+  "creation_date": "1907",
+  "creation_date_earliest": "1907-01-01",
+  "creation_date_latest": "1907-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "77.37.5",
+  "id": "cmoa:things/1572723a-5b34-4b34-bed2-0e1d6d00f80d",
+  "credit_line": "Gift of the Western Pennsylvania Conservancy in memory of George and Lila B. Hetzel",
+  "date_acquired": "1977-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.063,
+  "item_height": 11.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018619",
+  "provenance_text": "Dorothy Kantner, Somerset, Pa., by descent; by gift to the Western Pennsylvania Conservancy, Pittsburgh, 1977; gift to museum in memory of George and Lila B. Hertzel",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/339c2c50-63b5-4f7b-8303-11a27ec2b7ec",
+      "party_type": "Person",
+      "full_name": "Lila B. Hetzel",
+      "cited_name": "Hetzel, Lila B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1873-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Somerset, PA"
+    }
+  ]
+}

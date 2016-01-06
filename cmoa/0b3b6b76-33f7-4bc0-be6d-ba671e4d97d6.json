@@ -1,0 +1,39 @@
+{
+  "title": "Untitled, No. 23",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "83.30.2",
+  "id": "cmoa:things/0b3b6b76-33f7-4bc0-be6d-ba671e4d97d6",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1983-06-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023665",
+  "provenance_text": "Washburn Gallery, New York; Leisser Art Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94633&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6a7e87dd-211a-42bd-9e6c-76dd05a67002",
+      "party_type": "Person",
+      "full_name": "Rolph Scarlett",
+      "cited_name": "Scarlett, Rolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Guelph (Ontario, Canada)",
+      "death_place": null
+    }
+  ]
+}

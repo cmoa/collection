@@ -1,0 +1,39 @@
+{
+  "title": "Paul Cadmus",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.58.5",
+  "id": "cmoa:things/0ba7ac7b-f0cc-4144-a46c-4a9d7b28ae90",
+  "credit_line": "Gift of Duane Michals",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.687,
+  "item_height": 9.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100717",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119030&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf8ca92b-724d-4641-a22f-710345a25f49",
+      "party_type": "Person",
+      "full_name": "Jared French",
+      "cited_name": "French, Jared",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1905-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

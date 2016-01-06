@@ -1,0 +1,51 @@
+{
+  "title": "Komagata Embankment (Komagatagashi)",
+  "creation_date": "1919",
+  "creation_date_earliest": "1919-01-01",
+  "creation_date_latest": "1919-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.170",
+  "id": "cmoa:things/26bdb1d8-bd13-490c-a1da-e443cf4d34ed",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027648",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 10/25/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34158&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4920283a-25c2-49b6-97df-2a8e6e4d7a3b",
+      "party_type": "Person",
+      "full_name": "Kawase Hasui",
+      "cited_name": "Kawase Hasui",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1883-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e8d2a186-5dcc-4c3a-802d-b953e33d9e16",
+      "party_type": "Person",
+      "full_name": "Watanabe Shôzaburô",
+      "cited_name": "Watanabe Shôzaburô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1885-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

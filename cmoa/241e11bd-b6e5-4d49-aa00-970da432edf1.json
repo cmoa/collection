@@ -1,0 +1,39 @@
+{
+  "title": "Mug",
+  "creation_date": "c. 1920s",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "etched glass",
+  "accession_number": "50.6.7",
+  "id": "cmoa:things/241e11bd-b6e5-4d49-aa00-970da432edf1",
+  "credit_line": "Gift of William Schuette",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 5.125,
+  "item_depth": 4.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008892",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=989&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3e3f49e5-12aa-4c0f-90dc-254ce03c5de0",
+      "party_type": "Person",
+      "full_name": "Joseph Locke",
+      "cited_name": "Locke, Joseph",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1846-01-01",
+      "death_date": "1936-01-01",
+      "birth_place": "Worcester, England",
+      "death_place": null
+    }
+  ]
+}

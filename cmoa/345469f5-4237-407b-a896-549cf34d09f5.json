@@ -1,0 +1,39 @@
+{
+  "title": "Sphinx II",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "douglas fir pine and steel",
+  "accession_number": "1997.83.1",
+  "id": "cmoa:things/345469f5-4237-407b-a896-549cf34d09f5",
+  "credit_line": "Gift of B. Z. and Michael Schwartz",
+  "date_acquired": "1998-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 64.5,
+  "item_height": 62.5,
+  "item_depth": 35.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003496",
+  "provenance_text": "B. Z. And Michael Schwartz, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26466&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f873eb39-90cd-46c2-919b-b818bd7fbec7",
+      "party_type": "Person",
+      "full_name": "Chris MacDonald",
+      "cited_name": "MacDonald, Chris",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "Lynn (Essex county, Massachusetts, United States)",
+      "death_place": null
+    }
+  ]
+}

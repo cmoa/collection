@@ -1,0 +1,45 @@
+{
+  "title": "Miniature Portrait of a Lady",
+  "creation_date": "c. 1795",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "watercolor on ivory; gold metal frame",
+  "accession_number": "27.10.150",
+  "id": "cmoa:things/e4af3fe7-66a5-4359-8baa-2f722e25fd9d",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.875,
+  "item_height": 3.5,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005620",
+  "provenance_text": "(Clara Millard, Teddington, England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, December 22, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73601&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73603&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73604&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6cfe639-a564-46ff-81c2-a6fdca9b1341",
+      "party_type": "Person",
+      "full_name": "Augustin Dubourg",
+      "cited_name": "Dubourg, Augustin",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1791-01-01",
+      "death_date": "1800-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

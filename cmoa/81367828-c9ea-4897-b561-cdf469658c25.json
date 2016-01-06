@@ -1,0 +1,51 @@
+{
+  "title": "Plymet cabinet",
+  "creation_date": "1945-1946",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "cast and sheet aluminum, sheet steel, and birch veneer",
+  "accession_number": "2002.21.2",
+  "id": "cmoa:things/81367828-c9ea-4897-b561-cdf469658c25",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2002-06-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 54.25,
+  "item_height": 35.75,
+  "item_depth": 15.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=59",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=30844&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/61472834-252e-4dae-818e-3eb1470e5be3",
+      "party_type": "Person",
+      "full_name": "Clive Latimer",
+      "cited_name": "Latimer, Clive",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c555140e-353b-4886-a087-308764b21322",
+      "party_type": "Organization",
+      "full_name": "Heal & Son Ltd.",
+      "cited_name": "Heal & Son Ltd.",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1810-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

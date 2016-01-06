@@ -1,0 +1,37 @@
+{
+  "title": "Place Pasdeloupe No. 2",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "43.4.6",
+  "id": "cmoa:things/51733dd3-f572-410b-baf5-1f214d0826e5",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.625,
+  "item_height": 28.875,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007462",
+  "provenance_text": "Stuart Davis [1892-1964]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bab43991-a1bb-43ec-ab60-2981c06c87a6",
+      "party_type": "Person",
+      "full_name": "Stuart Davis",
+      "cited_name": "Davis, Stuart",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

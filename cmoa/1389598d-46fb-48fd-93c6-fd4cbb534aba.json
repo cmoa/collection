@@ -1,0 +1,39 @@
+{
+  "title": "Soup dish",
+  "creation_date": "1841-1860",
+  "creation_date_earliest": "1841-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "transfer printed earthenware",
+  "accession_number": "19.1.55",
+  "id": "cmoa:things/1389598d-46fb-48fd-93c6-fd4cbb534aba",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.75,
+  "item_depth": 0.0,
+  "item_diameter": 9.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001970",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1068&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdbca505-5c66-446b-a5db-074d15a7d569",
+      "party_type": "Person",
+      "full_name": "John Wedgwood",
+      "cited_name": "Wedgwood, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1841-01-01",
+      "death_date": "1860-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

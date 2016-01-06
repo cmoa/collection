@@ -1,0 +1,49 @@
+{
+  "title": "Shoso (Writing Window) Magazine (Shoso hanga cho ju-renshu)",
+  "creation_date": "February 1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.721.5",
+  "id": "cmoa:things/e72baa1b-d42f-4cf0-adb4-3ae5e918a6f3",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 9.0,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028808",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bfd0d5c4-1cbd-4f25-8de2-1b62297fd4c7",
+      "party_type": "Person",
+      "full_name": "Onchi Kôshirô",
+      "cited_name": "Onchi Kôshirô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1891-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Japan, Tokyo",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e5f378b9-9600-41fb-a39c-df3c56d84531",
+      "party_type": "Organization",
+      "full_name": "Shimo Taro, Aoi Shobo Publishers",
+      "cited_name": "Shimo Taro, Aoi Shobo Publishers",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": "1945-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

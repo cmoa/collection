@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "screen print on Rives BFK paper",
+  "accession_number": "2007.9",
+  "id": "cmoa:things/45e0445b-0ae8-4eb9-8ad1-48c06bdb2d2c",
+  "credit_line": "Gumberg Family Fund",
+  "date_acquired": "2007-04-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=38548",
+  "provenance_text": "Bard College through Luhring Augustine Gallery",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=47658&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",
+      "party_type": "Person",
+      "full_name": "Christopher Wool",
+      "cited_name": "Wool, Christopher",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "New York, New York",
+      "death_place": null
+    }
+  ]
+}

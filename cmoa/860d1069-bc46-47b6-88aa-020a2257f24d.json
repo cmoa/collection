@@ -1,0 +1,39 @@
+{
+  "title": "Women with Horse",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "crayon and pastel",
+  "accession_number": "74.51",
+  "id": "cmoa:things/860d1069-bc46-47b6-88aa-020a2257f24d",
+  "credit_line": "Gift of Mrs. Charles Prendergast",
+  "date_acquired": "1974-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.75,
+  "item_height": 8.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017070",
+  "provenance_text": "Gift of Mrs. Charles Prendergast, Westport, Connecticut, 1974.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=85930&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa954e98-2caa-41b1-8d7e-36df203f6e37",
+      "party_type": "Person",
+      "full_name": "Maurice Brazil Prendergast",
+      "cited_name": "Prendergast, Maurice B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1858-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": "Saint John's (Newfoundland, Canada)",
+      "death_place": "New York, New York"
+    }
+  ]
+}

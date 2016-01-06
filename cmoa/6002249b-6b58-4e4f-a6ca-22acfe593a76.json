@@ -1,0 +1,39 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1690",
+  "creation_date_earliest": "1680-01-01",
+  "creation_date_latest": "1700-01-01",
+  "medium": "oak and maple with modern upholstery",
+  "accession_number": "85.7",
+  "id": "cmoa:things/6002249b-6b58-4e4f-a6ca-22acfe593a76",
+  "credit_line": "John Berdan Memorial Fund",
+  "date_acquired": "1985-04-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.125,
+  "item_height": 39.25,
+  "item_depth": 17.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025785",
+  "provenance_text": "Frank Demers, MA, Topsfield",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6749&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4fe3fc6-8dff-4324-8774-40e6557e4bd3",
+      "party_type": "Person",
+      "full_name": "unknown American, Ipswich or Newbury",
+      "cited_name": "unknown American, Ipswich or Newbury",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

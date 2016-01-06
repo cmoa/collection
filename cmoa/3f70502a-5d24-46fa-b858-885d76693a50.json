@@ -1,0 +1,42 @@
+{
+  "title": "Creamer",
+  "creation_date": "c. 1835",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1840-01-01",
+  "medium": "coin silver",
+  "accession_number": "2008.41.2",
+  "id": "cmoa:things/3f70502a-5d24-46fa-b858-885d76693a50",
+  "credit_line": "Gift of Jean H. McCullough",
+  "date_acquired": "2008-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 7.125,
+  "item_height": 6.687,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61193",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=129212&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=65331&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/70228319-186c-4665-9f20-34691c563e8f",
+      "party_type": "Person",
+      "full_name": "Nicholas J. Bogert",
+      "cited_name": "Bogert, Nicholas J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1776-01-01",
+      "death_date": "1843-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

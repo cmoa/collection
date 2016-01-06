@@ -1,0 +1,39 @@
+{
+  "title": "Mother and Child",
+  "creation_date": "1887",
+  "creation_date_earliest": "1887-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "collotype",
+  "accession_number": "2007.51.68",
+  "id": "cmoa:things/01795530-9a7b-4fdf-bf83-d4f6cf5f7207",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 20.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=49058",
+  "provenance_text": "Ursula Gropper Associates (6/20/86)\nGeorge Ebbs",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100651&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/469d8ece-008e-4048-82ee-db8408833140",
+      "party_type": "Person",
+      "full_name": "Eadweard Muybridge",
+      "cited_name": "Muybridge, Eadweard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Kingston upon Thames (Greater London, England, United Kingdom)",
+      "death_place": "Kingston upon Thames (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Plate, \"Imari\"",
+  "creation_date": "c. 1815-1830",
+  "creation_date_earliest": "1813-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "stone china",
+  "accession_number": "70.32.2075",
+  "id": "cmoa:things/5c49dfed-9ce6-4d11-b10d-600e28b032ec",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.75,
+  "item_depth": 0.0,
+  "item_diameter": 8.188,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014259",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2971&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ec9c7503-a772-449d-8f9f-96ce87776e54",
+      "party_type": "Organization",
+      "full_name": "Spode Pottery and Porcelain Factory",
+      "cited_name": "Spode Pottery and Porcelain Factory",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1776-01-01",
+      "death_date": "1833-01-01",
+      "birth_place": "England, Stoke-on-Trent, Staffordshire",
+      "death_place": null
+    }
+  ]
+}

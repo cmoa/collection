@@ -1,0 +1,39 @@
+{
+  "title": "Oil lamp",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "bronze",
+  "accession_number": "75.48.1",
+  "id": "cmoa:things/474dd218-6f5c-419b-9b99-c893a822cabe",
+  "credit_line": "Walter Read Hovey Collection",
+  "date_acquired": "1975-12-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 7.5,
+  "item_depth": 4.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017809",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4669&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e90d663b-6482-4ca3-932c-e5ae98c58aa2",
+      "party_type": "Person",
+      "full_name": "unknown Southern Indian",
+      "cited_name": "unknown Southern Indian",
+      "role": null,
+      "nationality": "Indian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

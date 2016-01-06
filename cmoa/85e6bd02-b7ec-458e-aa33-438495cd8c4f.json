@@ -1,0 +1,42 @@
+{
+  "title": "Houses on the Shore",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "72.50.1",
+  "id": "cmoa:things/85e6bd02-b7ec-458e-aa33-438495cd8c4f",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur in honor of the Sarah Mellon Scaife Gallery",
+  "date_acquired": "1972-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016461",
+  "provenance_text": "Gift of Sara M. Winokur and James L. Winokur to honor Mr. and Mrs. Richard M. Scaife, Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89464&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9706&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6af62b1e-4bb7-4c98-9833-a0d4f41d79c6",
+      "party_type": "Person",
+      "full_name": "Arthur Garfield Dove",
+      "cited_name": "Dove, Arthur G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Canandaigua (Ontario county, New York state, United States)",
+      "death_place": "Long Island, New York"
+    }
+  ]
+}

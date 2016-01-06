@@ -1,0 +1,39 @@
+{
+  "title": "Dish",
+  "creation_date": "1828-1841",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1841-01-01",
+  "medium": "transfer printed earthenware",
+  "accession_number": "19.1.27",
+  "id": "cmoa:things/29605433-4fa7-44d0-9125-218167b5b0bb",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 1.375,
+  "item_depth": 6.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001917",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1057&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cffe8177-8498-47fe-97e3-217bc2db6c06",
+      "party_type": "Organization",
+      "full_name": "Joseph Heath and Co.",
+      "cited_name": "Heath, Joseph and Co.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1828-01-01",
+      "death_date": "1841-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

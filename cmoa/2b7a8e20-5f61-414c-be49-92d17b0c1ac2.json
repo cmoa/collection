@@ -1,0 +1,39 @@
+{
+  "title": "Flight",
+  "creation_date": "no date",
+  "creation_date_earliest": "1956-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "60.19",
+  "id": "cmoa:things/2b7a8e20-5f61-414c-be49-92d17b0c1ac2",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 50th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1960-03-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 37.5,
+  "item_height": 29.5,
+  "item_depth": 0.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011165",
+  "provenance_text": "The Artist via Associated Artists of Pittsburgh",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114801&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/efbbc939-6486-417e-bc8a-81f6b73ec9bf",
+      "party_type": "Person",
+      "full_name": "Rochelle Reznik Blumenfeld",
+      "cited_name": "Blumenfeld, Rochelle Reznik",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1936-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

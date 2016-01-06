@@ -1,0 +1,39 @@
+{
+  "title": "Franciscan Church at Rothenburg",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "oil on canvas mounted on pulpboard",
+  "accession_number": "42.12",
+  "id": "cmoa:things/92e6e93d-d836-40b8-bfac-26d9b00b97c7",
+  "credit_line": "Gift of the Trustees of the Leisser Estate",
+  "date_acquired": "1942-11-20",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 18.25,
+  "item_height": 24.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007320",
+  "provenance_text": "Martin B. Leisser, the artist, until 1940; his estate, until 1942; Gift of the Trustees of the Leisser Estate, 1942 [1].\nNOTES: 1. received from Mr. W. J. Strassburger.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114817&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d71782de-8a51-47ad-bba0-95f219a849e6",
+      "party_type": "Person",
+      "full_name": "Martin B. Leisser",
+      "cited_name": "Leisser, Martin B.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1845-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": null
+    }
+  ]
+}

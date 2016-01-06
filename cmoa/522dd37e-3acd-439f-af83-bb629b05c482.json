@@ -1,0 +1,63 @@
+{
+  "title": "\"Streamliner\" meat slicer",
+  "creation_date": "designed 1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "aluminum, steel and rubber",
+  "accession_number": "2002.40.5",
+  "id": "cmoa:things/522dd37e-3acd-439f-af83-bb629b05c482",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 12.5,
+  "item_depth": 21.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=446",
+  "provenance_text": "Decorative Arts Purchase Fund",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=58374&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c7cb551-7d3b-40f8-8a3c-ba7e6a7b0470",
+      "party_type": "Person",
+      "full_name": "Egmont C. Arens",
+      "cited_name": "Arens, Egmont C.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d0098fb8-0c26-4df7-9261-6472d7e615bd",
+      "party_type": "Person",
+      "full_name": "Theodore Brookhart",
+      "cited_name": "Brookhart, Theodore",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1898-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/506ac750-c115-45c2-8a2f-57a436b11499",
+      "party_type": "Organization",
+      "full_name": "Hobart Manufacturing Co.",
+      "cited_name": "Hobart Manufacturing Co.",
+      "role": "manufacturer",
+      "nationality": null,
+      "birth_date": "1897-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

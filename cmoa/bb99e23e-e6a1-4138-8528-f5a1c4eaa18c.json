@@ -1,0 +1,39 @@
+{
+  "title": "Mask'o",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1933-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.105",
+  "id": "cmoa:things/bb99e23e-e6a1-4138-8528-f5a1c4eaa18c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026779",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nThis print given to Dr. Austin as part of invitation to an exhibit of the Artist's work at the S.H. Mori Gallery (Chicago, ILL.)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32671&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e8c13e0-e50f-467c-bce1-f1227ce38527",
+      "party_type": "Person",
+      "full_name": "Hagiwara Hideo",
+      "cited_name": "Hagiwara Hideo",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1913-01-01",
+      "death_date": null,
+      "birth_place": "Kofu, Yamanashi prefecture",
+      "death_place": null
+    }
+  ]
+}

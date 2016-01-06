@@ -1,0 +1,49 @@
+{
+  "title": "Vegetable dish",
+  "creation_date": "1881",
+  "creation_date_earliest": "1881-01-01",
+  "creation_date_latest": "1881-01-01",
+  "medium": "silver",
+  "accession_number": "2011.44.A-.B",
+  "id": "cmoa:things/93495f98-463d-4f89-b5a7-eccdd61a9035",
+  "credit_line": "Gift of Mr. and Mrs. G. William Bissell",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 6.75,
+  "item_depth": 7.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93049",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/daeacc31-78d6-4378-b32d-2bfa140ca29c",
+      "party_type": "Organization",
+      "full_name": "Dominick & Haff",
+      "cited_name": "Dominick & Haff",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1928-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ec6f86a5-cdf2-4c11-a636-fc4ec4f5637c",
+      "party_type": "Organization",
+      "full_name": "Theodore B. Starr",
+      "cited_name": "Theodore B. Starr",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1870-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

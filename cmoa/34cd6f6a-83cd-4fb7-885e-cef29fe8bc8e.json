@@ -1,0 +1,39 @@
+{
+  "title": "The Burning Grain Elevator",
+  "creation_date": "c. 1877",
+  "creation_date_earliest": "1872-01-01",
+  "creation_date_latest": "1882-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "91.54",
+  "id": "cmoa:things/34cd6f6a-83cd-4fb7-885e-cef29fe8bc8e",
+  "credit_line": "Gift of Mr. and Mrs. Applegate",
+  "date_acquired": "1992-01-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.625,
+  "item_height": 28.625,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030043",
+  "provenance_text": "Mr. And Mrs. Donald Applegate, Toledo, OH",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5529&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/68231ba5-346a-424c-a4c3-f171dee12929",
+      "party_type": "Person",
+      "full_name": "John Donaghy",
+      "cited_name": "Donaghy, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": " Hollidaysburg (Blair county, Pennsylvania, United States)",
+      "death_place": "Deland, Florida"
+    }
+  ]
+}

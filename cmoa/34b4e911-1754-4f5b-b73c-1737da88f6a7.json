@@ -1,0 +1,39 @@
+{
+  "title": "Woman in Red",
+  "creation_date": "1942-1943",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "45.2",
+  "id": "cmoa:things/34b4e911-1754-4f5b-b73c-1737da88f6a7",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1945-01-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 30.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007583",
+  "provenance_text": "Associated American Artists, New York, as agent, 1945; Patrons Art Fund, 1945",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149595&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/31ab4eec-dfab-40d0-a13b-1337d60bf8d5",
+      "party_type": "Person",
+      "full_name": "Nicolai Cikovsky",
+      "cited_name": "Cikovsky, Nicolai",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Pinsk (Brest province, Belorussia)",
+      "death_place": "Washington, D.C."
+    }
+  ]
+}

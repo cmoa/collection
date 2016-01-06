@@ -1,0 +1,39 @@
+{
+  "title": "Untitled [Plate 3]",
+  "creation_date": "1922-1923",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "lithograph",
+  "accession_number": "1999.51",
+  "id": "cmoa:things/c6f727a5-317c-4e9b-a6a4-4a5f0fc7aa51",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund",
+  "date_acquired": "1999-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery One",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003923",
+  "provenance_text": "Margo Pollins Schab Inc., New York, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32178&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/de199611-c3ca-4c38-b8b6-b1ccb897bf14",
+      "party_type": "Person",
+      "full_name": "László Moholy-Nagy",
+      "cited_name": "Moholy-Nagy, László",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1895-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Hungary (Europe)",
+      "death_place": "Chicago (Cook county, Illinois, United States)"
+    }
+  ]
+}

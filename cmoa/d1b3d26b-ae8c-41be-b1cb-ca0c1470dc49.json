@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait with Raised Sabre",
+  "creation_date": "1634",
+  "creation_date_earliest": "1634-01-01",
+  "creation_date_latest": "1634-01-01",
+  "medium": "etching with touches of burin",
+  "accession_number": "76.57.4",
+  "id": "cmoa:things/d1b3d26b-ae8c-41be-b1cb-ca0c1470dc49",
+  "credit_line": "Bequest of Charles J. Rosenbloom, by exchange",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018187",
+  "provenance_text": "David Tunick, New York City, New York; Duc d'Arenberg (sale 1902) (Lugt 567)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128304&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

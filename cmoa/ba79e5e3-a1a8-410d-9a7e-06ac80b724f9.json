@@ -1,0 +1,39 @@
+{
+  "title": "Pentagon",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "2015.37",
+  "id": "cmoa:things/ba79e5e3-a1a8-410d-9a7e-06ac80b724f9",
+  "credit_line": "Gift of Dominique Lévy",
+  "date_acquired": "2015-09-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 72.0,
+  "item_height": 72.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108616",
+  "provenance_text": "Dominique Lévy, New York; Paula Cooper, New York; Patrick de Brock, Knokke",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147876&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/742d63dc-fec5-4d11-846b-461fee30c767",
+      "party_type": "Person",
+      "full_name": "Wayne Gonzales",
+      "cited_name": "Wayne Gonzales",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": "New Orleans, LA",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Black Crowd",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.55.11",
+  "id": "cmoa:things/7fd88c4f-8ea4-49cc-a037-bd7bd05e9ba6",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.25,
+  "item_height": 46.625,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009523",
+  "provenance_text": "Galerie Pierre, Paris",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17631&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bdd027a3-27a7-4208-9d38-b6b57a1ed4a4",
+      "party_type": "Person",
+      "full_name": "Zao Wou-Ki",
+      "cited_name": "Wou-Ki, Zao",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1921-01-01",
+      "death_date": "2013-04-09",
+      "birth_place": "Beijing, China",
+      "death_place": "Switzerland"
+    }
+  ]
+}

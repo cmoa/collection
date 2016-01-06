@@ -1,0 +1,39 @@
+{
+  "title": "Yalta I/Yalta II Memorial",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "color lithograph",
+  "accession_number": "85.67",
+  "id": "cmoa:things/780cac6a-8dbb-4de1-a5b1-5d2e2ca2a0ef",
+  "credit_line": "Gift of Marcia and Robert Frumerman in honor of Angela Conner",
+  "date_acquired": "1985-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 34.75,
+  "item_height": 24.75,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025727",
+  "provenance_text": "Marcia And Robert Frumerman",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118898&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8c8affc8-a01b-4b48-8d04-88f3aba0eadb",
+      "party_type": "Person",
+      "full_name": "Angela Conner",
+      "cited_name": "Conner, Angela",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1935-01-01",
+      "death_date": null,
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

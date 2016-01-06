@@ -1,0 +1,42 @@
+{
+  "title": "Door",
+  "creation_date": "1935",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "colored and molded lacquer, gilding, leaded glass, and wood",
+  "accession_number": "95.131.2",
+  "id": "cmoa:things/fe5ce57d-ad6f-4294-b8b0-300227973390",
+  "credit_line": "Gift of Mr. and Mrs. Michael and Eva Chow",
+  "date_acquired": "1996-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 10, Scaife Galleries",
+  "item_width": 70.75,
+  "item_height": 121.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035606",
+  "provenance_text": "Michael Chow, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49290&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=49291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bca3ee67-5eef-4a17-96f1-fc8a0f922b52",
+      "party_type": "Person",
+      "full_name": "Jean Dunand",
+      "cited_name": "Dunand, Jean",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1877-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": " Lancy (Geneva canton, Switzerland)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

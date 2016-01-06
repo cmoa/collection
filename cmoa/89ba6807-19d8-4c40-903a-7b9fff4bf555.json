@@ -1,0 +1,51 @@
+{
+  "title": "Airport Building, Washington Airport, Washington, DC; [exterior perspective]",
+  "creation_date": "c. 1933",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "photographic reproduction of drawing",
+  "accession_number": "93.124.26",
+  "id": "cmoa:things/89ba6807-19d8-4c40-903a-7b9fff4bf555",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1993-10-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 5.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032867",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=116845&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/34fafef9-0d9d-4766-8579-6c43afc7f4ca",
+      "party_type": "Organization",
+      "full_name": "Holden and Stott",
+      "cited_name": "Holden and Stott",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1929-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c8486e65-5623-4810-9f8c-00592dce1415",
+      "party_type": "Person",
+      "full_name": "Robert Doulton Stott",
+      "cited_name": "Stott, Robert D.",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1903-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

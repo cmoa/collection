@@ -1,0 +1,39 @@
+{
+  "title": "Inkwell",
+  "creation_date": "1901",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "copper and silver",
+  "accession_number": "85.21.A-C",
+  "id": "cmoa:things/4e8897e0-bc67-4c1b-858b-50d7b65effba",
+  "credit_line": "Purchase: gift of Mr. and Mrs. Alexander C. Speyer III and Decorative Arts Purchase Fund",
+  "date_acquired": "1985-06-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.563,
+  "item_height": 2.312,
+  "item_depth": 5.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025455",
+  "provenance_text": "Constantine Kollitus, NY, New York",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5059&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/05058ff7-a823-4026-a88a-011e725e726c",
+      "party_type": "Organization",
+      "full_name": "Gorham Manufacturing Company",
+      "cited_name": "Gorham Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": null,
+      "birth_place": "Providence, RI",
+      "death_place": null
+    }
+  ]
+}

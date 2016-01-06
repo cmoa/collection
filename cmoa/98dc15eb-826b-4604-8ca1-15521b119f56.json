@@ -1,0 +1,39 @@
+{
+  "title": "Head of a Girl",
+  "creation_date": "before 1906",
+  "creation_date_earliest": "1871-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "silverpoint on paper",
+  "accession_number": "06.7",
+  "id": "cmoa:things/98dc15eb-826b-4604-8ca1-15521b119f56",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000256",
+  "provenance_text": "Thomas Wilmer Dewing, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=567&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4664bab4-10f4-445b-a40e-d1c6942406ee",
+      "party_type": "Person",
+      "full_name": "Thomas Wilmer Dewing",
+      "cited_name": "Dewing, Thomas W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1851-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": "Boston, Massachussets",
+      "death_place": "New York City"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "John (from American Portfolio, 1979)",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "80.74.4",
+  "id": "cmoa:things/10dae840-4d3b-4bf1-8c55-d5e061260dc3",
+  "credit_line": "Gift of John Onodi",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.375,
+  "item_height": 27.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021308",
+  "provenance_text": "The London Arts Group, Detroit, MI",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114340&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/78e572eb-d87c-4e3a-be70-cdfd42116312",
+      "party_type": "Person",
+      "full_name": "Alice Neel",
+      "cited_name": "Neel, Alice",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Merion Square, Pennsylvania",
+      "death_place": "New York City"
+    }
+  ]
+}

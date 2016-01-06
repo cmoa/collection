@@ -1,0 +1,39 @@
+{
+  "title": "Teapot, \"Landform Teapot No. 4\"",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "stoneware",
+  "accession_number": "92.26.A-B",
+  "id": "cmoa:things/a3c07b40-aa37-4fd7-80e1-a61acdba5669",
+  "credit_line": "Gift of Mr. and Mrs. Samuel M. Bell",
+  "date_acquired": "1992-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 3.812,
+  "item_height": 1.5,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031822",
+  "provenance_text": "Mr. And Mrs. Samuel M. Bell, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11955&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b0c378e1-172e-486a-b270-6731b058b465",
+      "party_type": "Person",
+      "full_name": "Richard Notkin",
+      "cited_name": "Notkin, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1948-01-01",
+      "death_date": null,
+      "birth_place": "Chicago, IL",
+      "death_place": null
+    }
+  ]
+}

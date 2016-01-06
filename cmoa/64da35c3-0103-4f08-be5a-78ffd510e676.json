@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "pencil",
+  "accession_number": "07.7",
+  "id": "cmoa:things/64da35c3-0103-4f08-be5a-78ffd510e676",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1907-01-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.25,
+  "item_height": 15.25,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000321",
+  "provenance_text": "Charles Harold Davis, via Sadakichi Hartmann; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149688&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10fdd080-219e-4ed0-8c62-c710f209a2fb",
+      "party_type": "Person",
+      "full_name": "Charles Harold Davis",
+      "cited_name": "Davis, Charles H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Amesbury, Massachussets",
+      "death_place": null
+    }
+  ]
+}

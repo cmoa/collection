@@ -1,0 +1,39 @@
+{
+  "title": "Mask",
+  "creation_date": "no date",
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "painted",
+  "accession_number": "74.38.2",
+  "id": "cmoa:things/5addc02f-4aba-4e9e-ad5a-852af621b1af",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 51.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016986",
+  "provenance_text": "Sam Hilu, New York, NY",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9997&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bc4b9597-1f03-41db-85d4-f1d04fc43390",
+      "party_type": "Person",
+      "full_name": "unknown Burkinabe, Mossi",
+      "cited_name": "unknown Burkinabe, Mossi",
+      "role": null,
+      "nationality": "Burkinabe",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Garden Scene (fragment)",
+  "creation_date": "c. 1500-1530",
+  "creation_date_earliest": "1494-12-23",
+  "creation_date_latest": "1534-12-22",
+  "medium": "oil on panel",
+  "accession_number": "74.8",
+  "id": "cmoa:things/ef2dd83d-0e39-4e22-929c-914785cb8890",
+  "credit_line": "Gift of Mrs. Alexander C. Speyer, Sr. in memory of Alexander C. Speyer, Sr.",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.375,
+  "item_height": 17.5,
+  "item_depth": 1.625,
+  "item_diameter": 12.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017657",
+  "provenance_text": "Mrs. Alexander C. Speyer, Sr., Pittsburgh, by 1974; gift to Museum, February 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99011&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150073&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8403e000-5013-4a76-9eee-b87cb971f09a",
+      "party_type": "Person",
+      "full_name": "unknown Flemish",
+      "cited_name": "unknown Flemish",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

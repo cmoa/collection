@@ -1,0 +1,39 @@
+{
+  "title": "Satyr",
+  "creation_date": "c. 1630",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1635-01-01",
+  "medium": "pen and brown ink",
+  "accession_number": "65.18.3",
+  "id": "cmoa:things/1150368a-652b-45f2-a688-fc4284a20ebc",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1965-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011903",
+  "provenance_text": "William H. Schab Gallery, NYC",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99549&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/99e88a0b-2163-45fe-a27e-abefaca12bad",
+      "party_type": "Person",
+      "full_name": "Jusepe de Ribera",
+      "cited_name": "Ribera, Jusepe de",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1591-01-01",
+      "death_date": "1652-01-01",
+      "birth_place": "Játiva (Valencia province, Valencia region, Spain)",
+      "death_place": "Naples (Napoli province, Campania, Italy)"
+    }
+  ]
+}

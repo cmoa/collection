@@ -1,0 +1,39 @@
+{
+  "title": "Plate, Small",
+  "creation_date": "c. 1861-1863",
+  "creation_date_earliest": "1856-01-01",
+  "creation_date_latest": "1868-01-01",
+  "medium": "porcelain",
+  "accession_number": "70.32.358",
+  "id": "cmoa:things/0ef00a79-d598-4fed-a324-cd66b99cf97e",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.938,
+  "item_depth": 0.0,
+  "item_diameter": 7.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015055",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1721&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03928114-791a-4d8f-bb6c-7f5403c8af28",
+      "party_type": "Organization",
+      "full_name": "Royal Danish Porcelain Factory",
+      "cited_name": "Royal Danish Porcelain Factory",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

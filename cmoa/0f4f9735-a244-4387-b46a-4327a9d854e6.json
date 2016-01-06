@@ -1,0 +1,39 @@
+{
+  "title": "Kusatsu",
+  "creation_date": "1854",
+  "creation_date_earliest": "1854-01-01",
+  "creation_date_latest": "1854-01-01",
+  "medium": "color woodblock print",
+  "accession_number": "89.28.349",
+  "id": "cmoa:things/0f4f9735-a244-4387-b46a-4327a9d854e6",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 4.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027992",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106049&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c6b28cf-c7bb-40f7-a610-9dd4fd9c3076",
+      "party_type": "Person",
+      "full_name": "Hiroshige II",
+      "cited_name": "Hiroshige II",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1826-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": "Japan",
+      "death_place": "Japan"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Sir Alexander MacKenzie",
+  "creation_date": "c. 1800",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1805-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2006.83.59",
+  "id": "cmoa:things/47daf207-40a9-4ad9-84c5-207b9e2c2e71",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 12.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34491",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA, by February 2007; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104115&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9220b0ec-8121-4cb4-a568-c56749c85620",
+      "party_type": "Person",
+      "full_name": "Pierre Condé",
+      "cited_name": "Condé, Pierre",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": "1819-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c480781a-1da5-4c38-9e6c-7a6340a662c4",
+      "party_type": "Person",
+      "full_name": "Sir Thomas Lawrence",
+      "cited_name": "Lawrence, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1769-01-01",
+      "death_date": "1830-01-01",
+      "birth_place": "Bristol (Bristol, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

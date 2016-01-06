@@ -1,0 +1,39 @@
+{
+  "title": "Urn of Life",
+  "creation_date": "c. 1898-1900",
+  "creation_date_earliest": "1893-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "Marble",
+  "accession_number": "19.7.1",
+  "id": "cmoa:things/89226709-11fe-4ecd-880d-0ec7123ea2e6",
+  "credit_line": "Purchase",
+  "date_acquired": "1919-03-25",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 32.25,
+  "item_height": 37.875,
+  "item_depth": 30.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002074",
+  "provenance_text": "George Grey Barnard [1863-1938], until 1919; purchased by Museum, 1919.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101718&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0bd91969-b4f0-4daf-ac32-9bbc88069963",
+      "party_type": "Person",
+      "full_name": "George Grey Barnard",
+      "cited_name": "Barnard, George Grey",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1863-01-01",
+      "death_date": "1938-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

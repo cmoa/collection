@@ -1,0 +1,39 @@
+{
+  "title": "Schola",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2011.46",
+  "id": "cmoa:things/fefc0779-216e-4ca3-8015-500f0f70fdcd",
+  "credit_line": "Gift of Henry Oliver III and Charles Oliver II",
+  "date_acquired": "2011-06-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 10, Scaife Galleries",
+  "item_width": 77.0,
+  "item_height": 35.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92550",
+  "provenance_text": "Acquired by William Frew, 1928; by descent to Emily Oliver, daughter of previous [1910-2010], Sewickley, PA, until 2010; Estate of Emily Oliver, 2010. Henry Oliver III, by 2011. Gift to Museum, 2011.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110696&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10f3ad35-5ef1-408c-98e2-cca224482c6a",
+      "party_type": "Person",
+      "full_name": "Lucien Simon",
+      "cited_name": "Simon, Lucien",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1861-01-01",
+      "death_date": "1945-01-01",
+      "birth_place": "Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

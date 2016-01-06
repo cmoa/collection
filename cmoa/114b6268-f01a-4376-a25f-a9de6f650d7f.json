@@ -1,0 +1,49 @@
+{
+  "title": "Charles I with James, Marquis of Hamilton",
+  "creation_date": "1782",
+  "creation_date_earliest": "1782-01-01",
+  "creation_date_latest": "1782-01-01",
+  "medium": "engraving",
+  "accession_number": "60.45.23",
+  "id": "cmoa:things/114b6268-f01a-4376-a25f-a9de6f650d7f",
+  "credit_line": "Gift of Mrs. R. Lansing Pruyn",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.875,
+  "item_height": 27.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011267",
+  "provenance_text": "Mrs. Robert Lansing Pruyn, Rolling Hills, California; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1960.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c81c9102-186c-4e9f-8828-b61d7084057d",
+      "party_type": "Person",
+      "full_name": "Sir Robert Strange",
+      "cited_name": "Strange, Robert",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1721-01-01",
+      "death_date": "1792-01-01",
+      "birth_place": "Orkney (Scotland, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": "1630s",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1639-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.11.25",
+  "id": "cmoa:things/b5adea04-65d6-423d-b797-63fb909a2084",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 30.375,
+  "item_height": 35.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011723",
+  "provenance_text": "Stefano Bardini [1836-1922], Florence, Italy; Friedrich von Amerling [1803-1880], Vienna, Austria; Dr. Arthur Figdor, Vienna, Austria; Howard A. Noble, Pittsburgh, by 1964; gift to Museum, May 1964.\n\nNotes: In 1944, the painting hung along the staircase of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=266&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101356&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7bd91ee7-3806-41e4-9f33-1b28dd660016",
+      "party_type": "Person",
+      "full_name": "Giusto Suttermans",
+      "cited_name": "Suttermans, Giusto",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1597-01-01",
+      "death_date": "1681-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Florence (Firenze province, Tuscany, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Metro #10",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "chromogenic color print",
+  "accession_number": "2015.31.3",
+  "id": "cmoa:things/cb9e7925-43ec-4248-8cae-b2f69a32aa5a",
+  "credit_line": "William T. Hillman Fund for Photography",
+  "date_acquired": "2015-09-17",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 44.0,
+  "item_height": 43.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108826",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148062&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0115fde0-26e2-4984-9878-7ab57ebeed0f",
+      "party_type": "Person",
+      "full_name": "Rana El Nemr",
+      "cited_name": "El Nemr, Rana",
+      "role": null,
+      "nationality": "Egyptian",
+      "birth_date": "1974-01-01",
+      "death_date": null,
+      "birth_place": "Hanover, Germany",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled #282",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "93.154",
+  "id": "cmoa:things/2e8decc1-703b-4c2f-bf2e-b1391ce7e957",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1993-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 61.0,
+  "item_height": 91.125,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032993",
+  "provenance_text": "Metro Pictures, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8434&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/51e6e24c-a9f7-4419-be9f-61ccfddec5e7",
+      "party_type": "Person",
+      "full_name": "Cindy Sherman",
+      "cited_name": "Sherman, Cindy",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Glen Ridge (Essex county, New Jersey, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Eight Categories of Fate",
+  "creation_date": "1953-1954",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.39",
+  "id": "cmoa:things/f3fc9aca-f56a-4497-880e-8c254ed872c8",
+  "credit_line": "Gift of Richard S. Zeisler",
+  "date_acquired": "1957-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 35.875,
+  "item_height": 41.875,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010563",
+  "provenance_text": "Rose Fried Gallery, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18070&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/debc0e19-78c8-4bc0-87f7-ab9853b72203",
+      "party_type": "Person",
+      "full_name": "Charmion Wiegand",
+      "cited_name": "Wiegand, Charmion",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Chicago, IL",
+      "death_place": "New York"
+    }
+  ]
+}

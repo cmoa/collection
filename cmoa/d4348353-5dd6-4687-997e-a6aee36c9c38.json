@@ -1,0 +1,39 @@
+{
+  "title": "Uptown Pittsburgh",
+  "creation_date": "c. 1923-1924",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "bromide print",
+  "accession_number": "2002.45",
+  "id": "cmoa:things/d4348353-5dd6-4687-997e-a6aee36c9c38",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.125,
+  "item_height": 12.5,
+  "item_depth": 22.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=359",
+  "provenance_text": "Concept Art Gallery, Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8483&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ffd2be4-8010-4325-b1f7-03350b6944f1",
+      "party_type": "Person",
+      "full_name": "Charles K. Archer",
+      "cited_name": "Archer, Charles K.",
+      "role": "photographer",
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

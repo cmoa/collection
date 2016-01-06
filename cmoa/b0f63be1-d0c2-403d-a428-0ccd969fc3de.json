@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Ellsworth Howard Brown",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "oil on linen",
+  "accession_number": "2005.40",
+  "id": "cmoa:things/b0f63be1-d0c2-403d-a428-0ccd969fc3de",
+  "credit_line": "Purchase: Gift of Friends",
+  "date_acquired": "2005-10-06",
+  "department": "Contemporary Art",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 48.25,
+  "item_height": 57.125,
+  "item_depth": 3.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15715",
+  "provenance_text": null,
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21568&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e47faf02-7706-4288-a667-7cd2995e3a0a",
+      "party_type": "Person",
+      "full_name": "Steven Polson",
+      "cited_name": "Polson, Steven",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

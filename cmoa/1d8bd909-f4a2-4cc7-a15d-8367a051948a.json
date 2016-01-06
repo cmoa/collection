@@ -1,0 +1,42 @@
+{
+  "title": "Woodland Glade",
+  "creation_date": "1815",
+  "creation_date_earliest": "1815-01-01",
+  "creation_date_latest": "1815-01-01",
+  "medium": "oil on panel",
+  "accession_number": "78.10.27",
+  "id": "cmoa:things/1d8bd909-f4a2-4cc7-a15d-8367a051948a",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1978-05-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 18.062,
+  "item_depth": 3.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019237",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh; gift to Museum, May 1978.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119893&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d411fa79-e6d5-49ec-a66a-23335b999189",
+      "party_type": "Person",
+      "full_name": "James Stark",
+      "cited_name": "Stark, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1794-01-01",
+      "death_date": "1859-01-01",
+      "birth_place": "Norwich (Norfolk county, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Kim and Art",
+  "creation_date": "1945",
+  "creation_date_earliest": "1945-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "51.27.6",
+  "id": "cmoa:things/e9182f9d-1c97-4e0d-9bdf-18422ba16237",
+  "credit_line": "Gift of Mrs. James H. Beal",
+  "date_acquired": "1951-11-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008961",
+  "provenance_text": "Mrs. James H. Beal, Pittsburgh; gift to museum, October 1951",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100805&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a45438c-fc3b-4041-9e6a-77431ac1a66d",
+      "party_type": "Person",
+      "full_name": "Benton Murdoch Spruance",
+      "cited_name": "Spruance, Benton M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Philadelphia, PA",
+      "death_place": "Philadelphia, PA"
+    }
+  ]
+}

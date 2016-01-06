@@ -1,0 +1,39 @@
+{
+  "title": "Gift",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "acrylic and pencil on paper",
+  "accession_number": "84.54",
+  "id": "cmoa:things/0c779b98-62d7-4af8-899e-7629498dfb92",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 74th Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1984-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 45.25,
+  "item_height": 58.125,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024928",
+  "provenance_text": "The Artist via 74th Annual Associated Artists of Pittsburgh Exhibition, October 1984",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113269&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b986a125-9a76-4857-894b-bcf0ea35019a",
+      "party_type": "Person",
+      "full_name": "Chuck Olson",
+      "cited_name": "Olson, Chuck",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

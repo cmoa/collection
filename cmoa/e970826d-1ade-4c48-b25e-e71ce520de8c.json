@@ -1,0 +1,39 @@
+{
+  "title": "Third Avenue Elevated, No. 2",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "color lithograph",
+  "accession_number": "53.10",
+  "id": "cmoa:things/e970826d-1ade-4c48-b25e-e71ce520de8c",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009125",
+  "provenance_text": "Downtown Gallery, Inc., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=76892&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8f8837ed-329b-4b82-a715-41b6bd073e10",
+      "party_type": "Person",
+      "full_name": "Ralston Crawford",
+      "cited_name": "Crawford, Ralston",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "St. Catharines, Ontario, Canada",
+      "death_place": "New York"
+    }
+  ]
+}

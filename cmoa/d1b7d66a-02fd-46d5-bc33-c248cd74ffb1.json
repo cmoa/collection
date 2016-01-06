@@ -1,0 +1,61 @@
+{
+  "title": "Baluster panel",
+  "creation_date": "1898-1899",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "painted iron",
+  "accession_number": "71.26.1",
+  "id": "cmoa:things/d1b7d66a-02fd-46d5-bc33-c248cd74ffb1",
+  "credit_line": "Gift of Carson, Pirie, Scott and Company Through the Art Institute of Chicago",
+  "date_acquired": "1971-10-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 10.0,
+  "item_height": 35.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016139",
+  "provenance_text": "Carson, Pirie, Scott And Company",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b05747b-83a2-4f4b-8b17-b742573d392d",
+      "party_type": "Person",
+      "full_name": "Louis H. Sullivan",
+      "cited_name": "Sullivan, Louis H.",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1856-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f69ac07a-9489-47e6-acc4-b8d7f54933b6",
+      "party_type": "Person",
+      "full_name": "George Grant Elmslie",
+      "cited_name": "Elmslie, George Grant",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Huntly, Scotland",
+      "death_place": "Chicago, IL"
+    },
+    {
+      "artist_id": "cmoa:parties/9f50e2c8-ce15-441b-a3d3-da4213e5a175",
+      "party_type": "Organization",
+      "full_name": "Winslow Brothers Company",
+      "cited_name": "Winslow Brothers Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

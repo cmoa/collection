@@ -1,0 +1,37 @@
+{
+  "title": "Eiffel Tower No.4",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil and metallic paint on Masonite",
+  "accession_number": "58.6",
+  "id": "cmoa:things/ec2a9c91-e9c7-407c-b606-f419e7ec5c07",
+  "credit_line": "Gift of Mr. and Mrs. Henry J. Heinz II",
+  "date_acquired": "1958-04-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 44.25,
+  "item_height": 36.25,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010909",
+  "provenance_text": "Gift of Mr. and Mrs. Henry J. Heinz II, Pittsburgh, PA, 1958.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b63a99de-a6fa-467a-bc3d-558bb471f665",
+      "party_type": "Person",
+      "full_name": "William Congdon",
+      "cited_name": "Congdon, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1912-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Providence (Providence county, Rhode Island, United States)",
+      "death_place": "Milan, Italy"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": null,
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1896-01-01",
+  "medium": "watercolor on paper",
+  "accession_number": "07.16",
+  "id": "cmoa:things/2f4fdac7-ba8d-4e98-897d-ace9fe402323",
+  "credit_line": "Gift of John Frazer",
+  "date_acquired": "1907-04-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000308",
+  "provenance_text": "Gift of John Frazer, Pittsburgh, PA, 1907.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114953&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c9c1258-7c82-4bff-8c2a-9f8c08dde3ba",
+      "party_type": "Person",
+      "full_name": "Alfred S. Wall",
+      "cited_name": "Wall, Alfred S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": "USA, Pennsylvania, Mt. Pleasant",
+      "death_place": null
+    }
+  ]
+}

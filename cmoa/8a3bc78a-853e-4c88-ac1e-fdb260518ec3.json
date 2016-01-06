@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "glazed earthenware with painted decoration",
+  "accession_number": "2006.23",
+  "id": "cmoa:things/8a3bc78a-853e-4c88-ac1e-fdb260518ec3",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2006-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 14.0,
+  "item_height": 3.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=24639",
+  "provenance_text": "Garth Clark Gallery, NYC.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37437&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c784321b-f8ba-4f39-a071-80531120dcdb",
+      "party_type": "Person",
+      "full_name": "Alix MacKenzie",
+      "cited_name": "MacKenzie, Alix",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1922-01-01",
+      "death_date": "1962-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

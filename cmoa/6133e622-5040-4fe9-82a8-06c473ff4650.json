@@ -1,0 +1,39 @@
+{
+  "title": "Emanation",
+  "creation_date": "1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.89.5",
+  "id": "cmoa:things/6133e622-5040-4fe9-82a8-06c473ff4650",
+  "credit_line": "Gift of Derwood S. Chase, Jr.",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 15.875,
+  "item_height": 19.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025367",
+  "provenance_text": "The Martin S. Ackerman Foundation, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13246&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0acbed7f-2efd-4161-a719-eecb78aead64",
+      "party_type": "Person",
+      "full_name": "Barbara Morgan",
+      "cited_name": "Morgan, Barbara",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Buffalo (Wilson county, Kansas, United States)",
+      "death_place": "Sleepy Hollow (Westchester county, New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "(Street Fair)",
+  "creation_date": "1955-1957",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "82.32.258",
+  "id": "cmoa:things/77536342-8fc6-4fd7-83b4-484aae4eacfb",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh, Lorant Collection",
+  "date_acquired": "1982-06-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022533",
+  "provenance_text": "The Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148242&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ea342b18-c803-4f03-883e-87b37f3778fb",
+      "party_type": "Person",
+      "full_name": "W. Eugene Smith",
+      "cited_name": "Smith, W. Eugene",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Wichita, Kansas",
+      "death_place": null
+    }
+  ]
+}

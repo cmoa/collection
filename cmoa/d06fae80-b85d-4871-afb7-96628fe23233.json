@@ -1,0 +1,39 @@
+{
+  "title": "My Daughter",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1208",
+  "id": "cmoa:things/d06fae80-b85d-4871-afb7-96628fe23233",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.75,
+  "item_height": 21.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026988",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Charles E. Tuttle Company, Rutland, VT and Tokyo, Japan, 4/26/1960.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34320&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e71919a9-5277-4a61-ba07-580c2626c0d1",
+      "party_type": "Person",
+      "full_name": "Sekino Jun-ichirô",
+      "cited_name": "Sekino Jun-ichirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1914-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

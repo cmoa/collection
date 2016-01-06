@@ -1,0 +1,39 @@
+{
+  "title": "An Ornamental Vase",
+  "creation_date": "1746",
+  "creation_date_earliest": "1746-01-01",
+  "creation_date_latest": "1746-01-01",
+  "medium": "etching",
+  "accession_number": "95.9",
+  "id": "cmoa:things/a27e1029-2361-4ee4-8a16-496c53bf1215",
+  "credit_line": "Fine Arts Print Acquisition Fund",
+  "date_acquired": "1995-01-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035882",
+  "provenance_text": "Graham P. Shearing, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101810&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6e97a5af-9f54-4024-b98b-f9d7fac3c1f0",
+      "party_type": "Person",
+      "full_name": "Jacques François Joesph Saly",
+      "cited_name": "Saly, Jacques F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1717-01-01",
+      "death_date": "1776-01-01",
+      "birth_place": "Valenciennes (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

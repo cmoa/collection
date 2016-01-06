@@ -1,0 +1,39 @@
+{
+  "title": "Pale Light",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "glass, laminated, cut, and polished",
+  "accession_number": "2002.51.3",
+  "id": "cmoa:things/98368bff-d0e0-4083-a048-9d79f0ade438",
+  "credit_line": "Gift of Mr. and Mrs. William Block",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 14.5,
+  "item_depth": 6.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=371",
+  "provenance_text": "Mr. and Mrs. William Block, Pittsburgh",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11347&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/eba99d3b-8d34-4c7b-82bd-503539863761",
+      "party_type": "Person",
+      "full_name": "Zoltan Bohus",
+      "cited_name": "Bohus, Zoltan",
+      "role": null,
+      "nationality": "Hungarian",
+      "birth_date": "1941-01-01",
+      "death_date": null,
+      "birth_place": "Endród, Hungary",
+      "death_place": null
+    }
+  ]
+}

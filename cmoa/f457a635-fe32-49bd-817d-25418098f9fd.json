@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Bird)",
+  "creation_date": "1958",
+  "creation_date_earliest": "1958-01-01",
+  "creation_date_latest": "1958-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1085",
+  "id": "cmoa:things/f457a635-fe32-49bd-817d-25418098f9fd",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 32.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026812",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=46331&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/245aeb8c-62fa-4c97-a122-7f7d2bec4473",
+      "party_type": "Person",
+      "full_name": "Nakayama Tadashi",
+      "cited_name": "Nakayama Tadashi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Niigata, Japan",
+      "death_place": null
+    }
+  ]
+}

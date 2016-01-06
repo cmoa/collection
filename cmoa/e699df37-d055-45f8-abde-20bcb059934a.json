@@ -1,0 +1,51 @@
+{
+  "title": "House for Francis P. Garvan, NY; [exterior perspective]",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "watercolor and pencil on board",
+  "accession_number": "93.31.16",
+  "id": "cmoa:things/e699df37-d055-45f8-abde-20bcb059934a",
+  "credit_line": "Gift of Beatrice B. Garvan in memory of Anthony Nicholas Brady Garvan",
+  "date_acquired": "1993-02-04",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 26.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033568",
+  "provenance_text": "Gift of Beatrice B. Garvan, Springhouse, PA, 1993.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9891&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8677ee7a-d6c7-4252-aaff-0fab3b6d3d24",
+      "party_type": "Person",
+      "full_name": "John Russell Pope",
+      "cited_name": "Pope, John R.",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1874-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/42cfa052-4b43-46ca-b834-cd21a3fb2794",
+      "party_type": "Person",
+      "full_name": "Otto R. Eggers",
+      "cited_name": "Eggers, Otto R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "The Bed-Stool",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "etching",
+  "accession_number": "73.24",
+  "id": "cmoa:things/f7e58f28-1bbf-47ec-bf9d-3b601b9e7e43",
+  "credit_line": "Gift of Theodore L. Bowes",
+  "date_acquired": "1973-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016692",
+  "provenance_text": "Mr. Bowes, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114731&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114732&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f37e57b-226e-4233-af00-0d0ff894a20c",
+      "party_type": "Person",
+      "full_name": "Anders Leonard Zorn",
+      "cited_name": "Zorn, Anders L.",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1860-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": "Mora (Dalarna, Sweden)",
+      "death_place": "Mora (Dalarna, Sweden)"
+    }
+  ]
+}

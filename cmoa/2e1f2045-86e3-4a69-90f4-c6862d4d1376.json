@@ -1,0 +1,39 @@
+{
+  "title": "Rubbish Collector 2",
+  "creation_date": "c. 1945-1950",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2008.74.7",
+  "id": "cmoa:things/2e1f2045-86e3-4a69-90f4-c6862d4d1376",
+  "credit_line": "Gift of Daniel McFadden and Beverlee Tito Simboli McFadden",
+  "date_acquired": "2008-10-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 39.5,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=70921",
+  "provenance_text": "Raymond Simboli [1894-1964]. By descent to Daniel McFadden and Beverlee Tito Simboli McFadden, Berkeley, CA, until 2008 [1]. Gift to Museum, 2008. \nNOTES:1. Beverlee Simboli is the daughter of the artist",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=70653&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89c2e623-a0fb-458f-a0a7-83daa50eb6c7",
+      "party_type": "Person",
+      "full_name": "Raymond Simboli",
+      "cited_name": "Simboli, Raymond",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Pescina (L'Aquila province, Abruzzi, Italy)",
+      "death_place": "Neenah (Winnebago county, Wisconsin, United States)"
+    }
+  ]
+}

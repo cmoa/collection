@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "engraved glass",
+  "accession_number": "2003.37.4",
+  "id": "cmoa:things/0e7a56e9-c885-4560-aee5-f9e7109c9a6f",
+  "credit_line": "Purchase: anonymous gift in honor of Dr. and Mrs. Rafael Quimpo",
+  "date_acquired": "2003-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 3.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=5950",
+  "provenance_text": "Mary Ryan Gallery, New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1008&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12082&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b3c1a22-c453-4329-b2d7-fd054549c635",
+      "party_type": "Person",
+      "full_name": "Sol LeWitt",
+      "cited_name": "LeWitt, Sol",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Hartford (Hartford county, Connecticut, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

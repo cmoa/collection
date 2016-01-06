@@ -1,0 +1,39 @@
+{
+  "title": "Peonies",
+  "creation_date": "c. 1875-1895",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on panel",
+  "accession_number": "88.36",
+  "id": "cmoa:things/5753b6ea-2ed0-404b-a93b-1709d6d2365f",
+  "credit_line": "Gift of Richard M. Scaife",
+  "date_acquired": "1988-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 24.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026534",
+  "provenance_text": "Gift of Richard M. Scaife, Pittsburgh, PA, 1988.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25699&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7bc5d66f-aa86-4d94-a012-b47b153c50bb",
+      "party_type": "Person",
+      "full_name": "George Cochran Lambdin",
+      "cited_name": "Lambdin, George C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

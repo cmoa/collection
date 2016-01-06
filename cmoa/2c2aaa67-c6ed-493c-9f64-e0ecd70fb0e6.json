@@ -1,0 +1,39 @@
+{
+  "title": "Twilight",
+  "creation_date": "c. 1855",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2005.62",
+  "id": "cmoa:things/2c2aaa67-c6ed-493c-9f64-e0ecd70fb0e6",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "2005-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 36.0,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=17488",
+  "provenance_text": "Christopher Wood Gallery, London, 1978; by descent to John Hewitt, London; Private collection, 1981; (sold at Christopher Wood Gallery, London, 2005); (with Shepherd & Derom Gallery, New York, 2005); purchased by Museum, 2005.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17140&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7d1b8fa1-a56a-4b62-843a-eff529ebf50a",
+      "party_type": "Person",
+      "full_name": "William J. Webb",
+      "cited_name": "Webb, William J.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1823-01-01",
+      "death_date": "1908-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

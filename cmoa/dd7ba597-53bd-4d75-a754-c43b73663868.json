@@ -1,0 +1,42 @@
+{
+  "title": "Old Man Sleeping in a Field",
+  "creation_date": "c. 1908",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "gouache and chalk on paper",
+  "accession_number": "84.52",
+  "id": "cmoa:things/dd7ba597-53bd-4d75-a754-c43b73663868",
+  "credit_line": "Copperweld, Hafner, and Fine Arts Discretionary Funds",
+  "date_acquired": "1984-10-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024925",
+  "provenance_text": "Thomas Coville, Inc., New Haven, Connecticut; Copperweld, Hafner Fund and Fine Arts Discretionary Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89454&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=25237&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a0e100d-9906-4077-9993-71afeb51f3f1",
+      "party_type": "Person",
+      "full_name": "Joseph Stella",
+      "cited_name": "Stella, Joseph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Muro Lucano (Potenza province, Basilicata, Italy)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Moonlight",
+  "creation_date": "c. 1890",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "16.6",
+  "id": "cmoa:things/0cbd0ea1-cca2-4c46-ba96-89eb02b4962a",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-03-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.75,
+  "item_height": 24.0,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001324",
+  "provenance_text": "Catholina Lambert [1834-1923], by 1916; sold at American Art Association [1883-1923], New York, February 21, 1916 until February 24, 1916 [1]; William Macbeth as agent, 1916; purchased for Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, 1916. \nNOTES:1. Illustrated as \"Landscape\".",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113259&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0b86e689-3081-41f3-ae8e-9ab7f367c621",
+      "party_type": "Person",
+      "full_name": "Ralph Albert Blakelock",
+      "cited_name": "Blakelock, Ralph Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1847-01-01",
+      "death_date": "1919-01-01",
+      "birth_place": "New York state",
+      "death_place": "Elizabethtown (Essex county, New York state, United States)"
+    }
+  ]
+}

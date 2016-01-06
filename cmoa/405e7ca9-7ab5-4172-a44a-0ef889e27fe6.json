@@ -1,0 +1,49 @@
+{
+  "title": "Fort Duquesne",
+  "creation_date": "1844",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1844-01-01",
+  "medium": "engraving",
+  "accession_number": "16.33.7",
+  "id": "cmoa:things/405e7ca9-7ab5-4172-a44a-0ef889e27fe6",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 6.562,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001241",
+  "provenance_text": "D. L. Passavant, Zelienople, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38ec68db-5c5a-4e69-9ac8-2dac44546e6e",
+      "party_type": "Person",
+      "full_name": "Alexander . L. Dick",
+      "cited_name": "Dick, Alexander  L.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1805-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "Scotland",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3c586573-c1d9-4b99-bb76-4b9d863b0977",
+      "party_type": "Person",
+      "full_name": "Russell Smith",
+      "cited_name": "Smith, Russell",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1812-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

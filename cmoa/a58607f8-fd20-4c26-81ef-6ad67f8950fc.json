@@ -1,0 +1,39 @@
+{
+  "title": "City of Toledo",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1209",
+  "id": "cmoa:things/a58607f8-fd20-4c26-81ef-6ad67f8950fc",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 24.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026989",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34973&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e71919a9-5277-4a61-ba07-580c2626c0d1",
+      "party_type": "Person",
+      "full_name": "Sekino Jun-ichirô",
+      "cited_name": "Sekino Jun-ichirô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1914-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

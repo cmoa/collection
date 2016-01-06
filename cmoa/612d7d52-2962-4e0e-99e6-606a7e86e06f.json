@@ -1,0 +1,51 @@
+{
+  "title": "Roman Soldier Carrying Away a Sabine Woman",
+  "creation_date": "c. 1715-1730",
+  "creation_date_earliest": "1715-01-01",
+  "creation_date_latest": "1730-01-01",
+  "medium": "Chalk",
+  "accession_number": "23.12.22",
+  "id": "cmoa:things/612d7d52-2962-4e0e-99e6-606a7e86e06f",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004830",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94650&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a1cd566e-f0b6-4b6d-817b-22f11386b627",
+      "party_type": "Person",
+      "full_name": "Louis Fabritius Dubourg",
+      "cited_name": "Dubourg, Louis F.",
+      "role": "attributed to",
+      "nationality": "Dutch",
+      "birth_date": "1693-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/8b3498c0-69cd-419d-8819-8a04a9f26c5d",
+      "party_type": "Person",
+      "full_name": "Pietro da Cortona",
+      "cited_name": "Cortona, Pietro da",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1596-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Cortona, Italy",
+      "death_place": "Rome, Italy"
+    }
+  ]
+}

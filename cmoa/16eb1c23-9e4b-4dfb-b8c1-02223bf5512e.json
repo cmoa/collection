@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Andrew Carnegie",
+  "creation_date": "1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "96.5",
+  "id": "cmoa:things/16eb1c23-9e4b-4dfb-b8c1-02223bf5512e",
+  "credit_line": "Gift of Henry Clay Frick",
+  "date_acquired": "1896-12-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 35.0,
+  "item_height": 46.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035899",
+  "provenance_text": "Gift of Henry Clay Frick, Pittsburgh, PA, 1896.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8438&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e7ba4068-b3e4-49f6-956f-4ec7d460c687",
+      "party_type": "Person",
+      "full_name": "Théobald Chartran",
+      "cited_name": "Chartran, Théobald",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1849-01-01",
+      "death_date": "1907-01-01",
+      "birth_place": "Besançon (Doubs, Franche-Comté, France)",
+      "death_place": " Neuilly-sur-Seine (Hauts-de-Seine department, Île-de-France, France)"
+    }
+  ]
+}

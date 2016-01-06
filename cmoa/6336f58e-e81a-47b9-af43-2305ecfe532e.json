@@ -1,0 +1,42 @@
+{
+  "title": "The Mill",
+  "creation_date": null,
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "gouache on paper",
+  "accession_number": "82.85.4",
+  "id": "cmoa:things/6336f58e-e81a-47b9-af43-2305ecfe532e",
+  "credit_line": "Gift of Mrs. Ralston Thompson",
+  "date_acquired": "1982-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023183",
+  "provenance_text": "Gift of Mrs. Ralston Thompson, Springfield, OH, 1982.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103280&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c135ea83-8791-47ef-b9e8-2bbd67622d3e",
+      "party_type": "Person",
+      "full_name": "Ralston Thompson",
+      "cited_name": "Thompson, Ralston",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Ironton (Lawrence county, Ohio, United States)",
+      "death_place": null
+    }
+  ]
+}

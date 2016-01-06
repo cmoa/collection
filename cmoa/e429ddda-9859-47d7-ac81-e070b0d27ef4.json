@@ -1,0 +1,39 @@
+{
+  "title": "Temperance Pledge",
+  "creation_date": "c. 1856-1860",
+  "creation_date_earliest": "1851-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on beaverboard",
+  "accession_number": "53.1.2",
+  "id": "cmoa:things/e429ddda-9859-47d7-ac81-e070b0d27ef4",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1953-04-27",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 12.0,
+  "item_height": 15.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009129",
+  "provenance_text": "Henry O. Eichleay, Pittsburgh, by 1936; G. David Thompson, Pittsburgh, by 1936; Beverly Wyatt, Pittsburgh, by 1952; purchased by G. David Thompson, Pittsburgh, by 1952 [1]; gift to Museum, 1953. \nNOTES:1. This was a repurchase of this work by G. David Thompson.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113169&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

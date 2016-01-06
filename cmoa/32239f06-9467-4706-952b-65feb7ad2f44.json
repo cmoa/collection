@@ -1,0 +1,39 @@
+{
+  "title": "The Annunciation",
+  "creation_date": "16th century",
+  "creation_date_earliest": "1500-12-22",
+  "creation_date_latest": "1600-01-01",
+  "medium": "reverse painting on glass in period frame",
+  "accession_number": "71.29",
+  "id": "cmoa:things/32239f06-9467-4706-952b-65feb7ad2f44",
+  "credit_line": "Gift of Mrs. T. H. Eddy",
+  "date_acquired": "1971-10-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 9.5,
+  "item_height": 8.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016153",
+  "provenance_text": "Mrs. T.H. Eddy",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=472&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

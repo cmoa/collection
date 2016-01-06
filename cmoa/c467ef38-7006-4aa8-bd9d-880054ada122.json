@@ -1,0 +1,39 @@
+{
+  "title": "Tang Pillow Pitcher",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "earthenware",
+  "accession_number": "2005.46",
+  "id": "cmoa:things/c467ef38-7006-4aa8-bd9d-880054ada122",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2005-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 23.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15649",
+  "provenance_text": "Daniel Jacobs Collection, New York; Garth Clark Gallery, New York.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26126&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d04ef210-3851-4edc-817b-3d837d579f86",
+      "party_type": "Person",
+      "full_name": "Betty Woodman",
+      "cited_name": "Woodman, Betty",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": "Norwalk, CT",
+      "death_place": null
+    }
+  ]
+}

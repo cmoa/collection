@@ -1,0 +1,39 @@
+{
+  "title": "Rolling Mill",
+  "creation_date": "1983",
+  "creation_date_earliest": "1983-01-01",
+  "creation_date_latest": "1983-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "2007.72",
+  "id": "cmoa:things/ca42c539-f546-42da-b42d-e58fcd5d7d20",
+  "credit_line": "Gift of the Artist",
+  "date_acquired": "2008-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 43.75,
+  "item_height": 59.5,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=45066",
+  "provenance_text": "The artist, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101354&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bba16be8-b667-40f0-8f3d-1cfac94e6415",
+      "party_type": "Person",
+      "full_name": "Cynthia F. Cooley",
+      "cited_name": "Cooley, Cynthia F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

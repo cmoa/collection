@@ -1,0 +1,39 @@
+{
+  "title": "A View of Beacon Hill From the West Boston Bridge",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "42.7.7",
+  "id": "cmoa:things/8131934d-3eb4-41c4-8a31-16a8813c3c69",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1942-10-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007376",
+  "provenance_text": "Rudolph Ruzicka [1883-1978]. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, October 1942.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113808&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/87abf60e-4faf-4eb0-97c6-a749d6462d00",
+      "party_type": "Person",
+      "full_name": "Rudolph Ruzicka",
+      "cited_name": "Ruzicka, Rudolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Bohemia (Czech Republic)",
+      "death_place": "Hanover (Grafton county, New Hampshire, United States)"
+    }
+  ]
+}

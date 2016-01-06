@@ -1,0 +1,42 @@
+{
+  "title": "Celadon Antelope Jar",
+  "creation_date": "1984",
+  "creation_date_earliest": "1984-01-01",
+  "creation_date_latest": "1984-01-01",
+  "medium": "porcelain, stoneware, and earthenware",
+  "accession_number": "85.19.A-C",
+  "id": "cmoa:things/1363de97-cae4-4e1d-b7eb-33637042f663",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1985-06-13",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 33.25,
+  "item_depth": 6.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025451",
+  "provenance_text": "Garth Clark Gallery, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101484&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101173&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6ef4e7b-5c51-48b4-bdb2-4c616235cdd3",
+      "party_type": "Person",
+      "full_name": "Adrian Saxe",
+      "cited_name": "Saxe, Adrian",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "USA, California, Glendale",
+      "death_place": null
+    }
+  ]
+}

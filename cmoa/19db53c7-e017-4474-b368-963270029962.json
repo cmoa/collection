@@ -1,0 +1,60 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1896",
+  "creation_date_earliest": "1891-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "glazed earthenware with slip decoration",
+  "accession_number": "2011.3",
+  "id": "cmoa:things/19db53c7-e017-4474-b368-963270029962",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "2011-02-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 6.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92856",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108153&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103904&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103907&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103908&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bb38affc-b279-4554-b4ca-0b6904149710",
+      "party_type": "Person",
+      "full_name": "Max Laeuger",
+      "cited_name": "Laeuger, Max",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1864-01-01",
+      "death_date": "1952-01-01",
+      "birth_place": "Lörrach, Germany",
+      "death_place": "Lörrach, Germany"
+    },
+    {
+      "artist_id": "cmoa:parties/c2cb3def-3ebc-4a5b-b99f-b532e460412d",
+      "party_type": "Organization",
+      "full_name": "Tonwerke Kandern Pottery",
+      "cited_name": "Tonwerke Kandern Pottery",
+      "role": "manufacturer",
+      "nationality": "German",
+      "birth_date": "1895-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

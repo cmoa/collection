@@ -1,0 +1,39 @@
+{
+  "title": "Carnegie Library Addition: Architectural Hall",
+  "creation_date": "May 17, 1906",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "ink on linen",
+  "accession_number": "2006.80.7",
+  "id": "cmoa:things/6be09fb7-3b30-40f4-8605-180187bd89f5",
+  "credit_line": "Transfer from Facilities, Planning and Operations, Carnegie Institute",
+  "date_acquired": "2006-12-07",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 30.0,
+  "item_height": 34.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=33672",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125906&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dbebcd93-16c6-43a7-935b-4c95cd473c5d",
+      "party_type": "Organization",
+      "full_name": "Alden & Harlow",
+      "cited_name": "Alden & Harlow",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1915-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Gathering shells on the beach near Enoshima",
+  "creation_date": "c.1784",
+  "creation_date_earliest": "1774-01-01",
+  "creation_date_latest": "1794-01-01",
+  "medium": "color woodblock print (hashira-e)",
+  "accession_number": "16.29.6",
+  "id": "cmoa:things/0931d85a-d3c9-421c-8d66-0a2da1125e0d",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.875,
+  "item_height": 26.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001215",
+  "provenance_text": "Judson D. Metzgar, Moline, Illinois; his sale, American Art Galleries, New York, November 1916, lot  ; American Art Assoc., NYC, in 1916",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107500&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/17d7135e-bf6f-4f30-b07f-b44839d97245",
+      "party_type": "Person",
+      "full_name": "Kiyonaga Torii",
+      "cited_name": "Kiyonaga Torii",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1752-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    },
+    {
+      "artist_id": "cmoa:parties/c0db8dca-4094-4239-b160-e155781c3572",
+      "party_type": "Person",
+      "full_name": "Yohachi Nishimuraya",
+      "cited_name": "Yohachi Nishimuraya",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

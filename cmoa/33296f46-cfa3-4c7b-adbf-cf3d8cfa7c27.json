@@ -1,0 +1,39 @@
+{
+  "title": "Christ and the Adulteress",
+  "creation_date": "1579",
+  "creation_date_earliest": "1578-12-22",
+  "creation_date_latest": "1578-12-22",
+  "medium": "engraving",
+  "accession_number": "55.13.1",
+  "id": "cmoa:things/33296f46-cfa3-4c7b-adbf-cf3d8cfa7c27",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009369",
+  "provenance_text": "William H. Schab",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101762&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a33c6519-ce05-422a-a0a3-28a4c1f20bda",
+      "party_type": "Person",
+      "full_name": "Pieter Bruegel I",
+      "cited_name": "Bruegel, Pieter, I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1520-01-01",
+      "death_date": "1569-01-01",
+      "birth_place": "Breda (North Brabant, Netherlands)",
+      "death_place": "Brussels (Bruxelles region, Belgium)"
+    }
+  ]
+}

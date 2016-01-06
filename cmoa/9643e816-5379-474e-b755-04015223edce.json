@@ -1,0 +1,39 @@
+{
+  "title": "Giant Eagle",
+  "creation_date": "1950",
+  "creation_date_earliest": "1950-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "83.6.27",
+  "id": "cmoa:things/9643e816-5379-474e-b755-04015223edce",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1983-02-03",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023907",
+  "provenance_text": "Carnegie Library of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9853&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66156b1f-704f-4f4a-8927-37224be77b7b",
+      "party_type": "Person",
+      "full_name": "Elliott Erwitt",
+      "cited_name": "Erwitt, Elliott",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Paris, France",
+      "death_place": null
+    }
+  ]
+}

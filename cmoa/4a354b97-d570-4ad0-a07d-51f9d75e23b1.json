@@ -1,0 +1,39 @@
+{
+  "title": "Perpignan, Gitanos",
+  "creation_date": "1833",
+  "creation_date_earliest": "1833-01-01",
+  "creation_date_latest": "1833-01-01",
+  "medium": "black chalk and watercolor",
+  "accession_number": "75.47.10",
+  "id": "cmoa:things/4a354b97-d570-4ad0-a07d-51f9d75e23b1",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1975-12-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017772",
+  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99687&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ac9a653-d84a-464a-8197-541d0ef3efa5",
+      "party_type": "Person",
+      "full_name": "Adrien Dauzats",
+      "cited_name": "Dauzats, Adrien",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1804-01-01",
+      "death_date": "1868-01-01",
+      "birth_place": "Bordeaux (Gironde, Aquitaine, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

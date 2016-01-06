@@ -1,0 +1,54 @@
+{
+  "title": "Half Empty/Half Full",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "glass, cast",
+  "accession_number": "2003.13.A-D",
+  "id": "cmoa:things/5cf1e0ad-53b1-4235-ad7a-5048cb0f0283",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "2003-04-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 3.25,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=3000",
+  "provenance_text": "Sotheby's, London, England",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9610&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9609&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9611&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9612&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9617&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a606908-3909-451e-b9b2-1af14629ae16",
+      "party_type": "Person",
+      "full_name": "Koichiro Yamamoto",
+      "cited_name": "Koichiro Yamamoto",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

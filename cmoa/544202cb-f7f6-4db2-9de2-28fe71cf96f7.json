@@ -1,0 +1,39 @@
+{
+  "title": "Edgar Munhall in the Colonnade, Mellon Institute",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "platinum print",
+  "accession_number": "2006.44.10",
+  "id": "cmoa:things/544202cb-f7f6-4db2-9de2-28fe71cf96f7",
+  "credit_line": "Gift of Edgar Munhall",
+  "date_acquired": "2006-06-01",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 5.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=26215",
+  "provenance_text": "Gift of artist's son and subject of photo, Edgar Munhall.",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=38746&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/38ebec90-cb10-4501-81bd-bb90f9c7866f",
+      "party_type": "Person",
+      "full_name": "Walter Munhall",
+      "cited_name": "Munhall, Walter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

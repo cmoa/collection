@@ -1,0 +1,39 @@
+{
+  "title": "Mushroom Print",
+  "creation_date": "2004",
+  "creation_date_earliest": "2004-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "two-color photogravure",
+  "accession_number": "2004.18.5",
+  "id": "cmoa:things/b554d700-48a7-4b42-a1be-e30ba1b7c6c6",
+  "credit_line": "Oxford Development Fund",
+  "date_acquired": "2004-06-03",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 17, Scaife Galleries",
+  "item_width": 20.0,
+  "item_height": 20.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=10197",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114537&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6850121-ba3b-46ee-ab77-45e83f9f1804",
+      "party_type": "Person",
+      "full_name": "Carsten Höller",
+      "cited_name": "Höller, Carsten",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": "Brussels, Belgium",
+      "death_place": null
+    }
+  ]
+}

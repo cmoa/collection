@@ -1,0 +1,51 @@
+{
+  "title": "Kami Harbor (Kami no minato)",
+  "creation_date": "5/18/1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.116.2",
+  "id": "cmoa:things/ddecfbf7-fc8d-46c1-b373-b06f5163d6c4",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 7.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026936",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35376&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2461ac3d-18be-447a-9f20-ab1471de4b83",
+      "party_type": "Person",
+      "full_name": "Sakamoto Hanjirô",
+      "cited_name": "Sakamoto Hanjirô",
+      "role": "Printmaker",
+      "nationality": "Japanese",
+      "birth_date": "1882-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Japan, Kurume",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9736e158-c9b3-4bf1-b4f8-8f0917068d02",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô",
+      "cited_name": "Nakajima Jûtarô",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

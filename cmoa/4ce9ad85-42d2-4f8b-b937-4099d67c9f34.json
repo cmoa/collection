@@ -1,0 +1,39 @@
+{
+  "title": "Serving spoon",
+  "creation_date": "c. 1830",
+  "creation_date_earliest": "1825-01-01",
+  "creation_date_latest": "1835-01-01",
+  "medium": "silver",
+  "accession_number": "27.10.993.1",
+  "id": "cmoa:things/4ce9ad85-42d2-4f8b-b937-4099d67c9f34",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-11-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 9.0,
+  "item_depth": 8.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006038",
+  "provenance_text": "(Sold at The Little French Shop, New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6077&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6e552b36-889a-436b-8fc4-586507fdee56",
+      "party_type": "Person",
+      "full_name": "Charles Reeve",
+      "cited_name": "Reeve, Charles",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1830-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

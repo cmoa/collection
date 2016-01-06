@@ -1,0 +1,63 @@
+{
+  "title": "Knotted Chair",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "gilt aramid rope, carbon core, and epoxy",
+  "accession_number": "2002.42",
+  "id": "cmoa:things/61c15e2e-95f8-42a1-b9d3-fafce43dc2af",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "2002-10-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 21.0,
+  "item_height": 28.5,
+  "item_depth": 23.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=358",
+  "provenance_text": "Phillips, dePury & Luxembourg, New York",
+  "classification": "Plastic/Synthetic",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8715&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0168fd50-616d-4126-a219-b0778613d810",
+      "party_type": "Person",
+      "full_name": "Marcel Wanders",
+      "cited_name": "Wanders, Marcel",
+      "role": "designer",
+      "nationality": "Dutch",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/91374de8-c084-468f-bd80-f28b4ef391b9",
+      "party_type": "Organization",
+      "full_name": "Droog Design",
+      "cited_name": "Droog Design",
+      "role": "design collaborative",
+      "nationality": "Dutch",
+      "birth_date": "1993-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/956126b3-c722-48d0-b296-bc7d189db5bd",
+      "party_type": "Organization",
+      "full_name": "Cappellini S.p.A.",
+      "cited_name": "Cappellini S.p.A.",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

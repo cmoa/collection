@@ -1,0 +1,39 @@
+{
+  "title": "No title (metal cabinets)",
+  "creation_date": "1990",
+  "creation_date_earliest": "1990-01-01",
+  "creation_date_latest": "1990-01-01",
+  "medium": "metal and mixed media",
+  "accession_number": "95.2",
+  "id": "cmoa:things/7527ec63-6554-44b3-9ef2-0cf2220f4260",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "1995-01-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 46.0,
+  "item_depth": 13.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035700",
+  "provenance_text": "Leo Castelli Gallery, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26525&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fd9420f8-ea83-4d71-afbb-0acca368a838",
+      "party_type": "Person",
+      "full_name": "Robert Therrien",
+      "cited_name": "Therrien, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "Chicago (Cook county, Illinois, United States",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Marechal Papa (Marshal Papa)",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "56.41.1",
+  "id": "cmoa:things/4b128386-0768-4d33-bd2b-28214ddefafb",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1956-10-24",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 28.75,
+  "item_height": 36.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009757",
+  "provenance_text": "G. David Thompson",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37612&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/607703ce-8d12-44a9-91f1-f0f1089da8f3",
+      "party_type": "Person",
+      "full_name": "Jean Dubuffet",
+      "cited_name": "Dubuffet, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

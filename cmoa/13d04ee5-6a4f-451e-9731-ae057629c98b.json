@@ -1,0 +1,51 @@
+{
+  "title": "Buffalo Hunt Under the White Wolf Skin, from \"Catlin's North American Indian Portfolio\"",
+  "creation_date": "1844",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1844-01-01",
+  "medium": "lithograph with hand coloring",
+  "accession_number": "59.41.10",
+  "id": "cmoa:things/13d04ee5-6a4f-451e-9731-ae057629c98b",
+  "credit_line": "Gift of Sara M. Winokur and James L. Winokur",
+  "date_acquired": "1959-10-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.625,
+  "item_height": 12.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011000",
+  "provenance_text": "Gift of Sara M. Winokur and James L. Winokur, Pittsburgh, PA, 1959.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107450&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2d0d4718-a544-475a-a9f6-62557eef0c5c",
+      "party_type": "Person",
+      "full_name": "George Catlin",
+      "cited_name": "Catlin, George",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1796-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": " Wilkes-Barre (Luzerne county, Pennsylvania, United States)",
+      "death_place": " Jersey City (Hudson county, New Jersey, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/3ae43a1d-95bc-40fa-a2bf-415b75e14b5a",
+      "party_type": "Person",
+      "full_name": "John McGahey",
+      "cited_name": "McGahey, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1855-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

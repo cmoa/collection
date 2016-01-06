@@ -1,0 +1,39 @@
+{
+  "title": "Homer Saint-Gaudens",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "31.2",
+  "id": "cmoa:things/f6dc98d7-626a-4d50-863b-bd7ac3c2eea3",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1931-02-26",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 40.0,
+  "item_height": 50.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006654",
+  "provenance_text": "George Luks [1867-1933] by commission, 1931; purchased by Museum, 1931.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=16807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/069d30bb-f39f-49b0-8c0d-86f91b20d117",
+      "party_type": "Person",
+      "full_name": "George Luks",
+      "cited_name": "Luks, George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Williamsport (Northampton county, Pennsylvania, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

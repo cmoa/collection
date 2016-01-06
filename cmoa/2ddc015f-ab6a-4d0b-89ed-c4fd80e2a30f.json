@@ -1,0 +1,39 @@
+{
+  "title": "Allegheny County Airport",
+  "creation_date": "c. 1982",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1985-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2006.48.2",
+  "id": "cmoa:things/2ddc015f-ab6a-4d0b-89ed-c4fd80e2a30f",
+  "credit_line": "Marhoefer Family Fund",
+  "date_acquired": "2006-10-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 13.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=31348",
+  "provenance_text": "The artist, Beverly Shore, Indiana",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37583&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e3bc35b-c905-4b99-81a0-202a7439bdfa",
+      "party_type": "Person",
+      "full_name": "Joel DeGrand",
+      "cited_name": "DeGrand, Joel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Kittanning, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

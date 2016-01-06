@@ -1,0 +1,39 @@
+{
+  "title": "Three Pippins",
+  "creation_date": "1948",
+  "creation_date_earliest": "1948-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.234",
+  "id": "cmoa:things/e9f75c00-ab40-4884-9cde-eae409fc5b9e",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012819",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108007&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c9666ee9-d379-43f1-95d5-40faa0ba05fa",
+      "party_type": "Person",
+      "full_name": "Jane Llewellyn Ott",
+      "cited_name": "Ott, Jane L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

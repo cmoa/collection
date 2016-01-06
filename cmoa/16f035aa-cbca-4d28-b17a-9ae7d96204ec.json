@@ -1,0 +1,39 @@
+{
+  "title": "Bowl",
+  "creation_date": "10th -11th century",
+  "creation_date_earliest": "0899-12-28",
+  "creation_date_latest": "1098-12-26",
+  "medium": "earthenware",
+  "accession_number": "72.61.36",
+  "id": "cmoa:things/16f035aa-cbca-4d28-b17a-9ae7d96204ec",
+  "credit_line": "Gift of Dr. Walter Read Hovey",
+  "date_acquired": "1973-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.062,
+  "item_depth": 0.0,
+  "item_diameter": 7.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016548",
+  "provenance_text": "Dr. Walter Read Hovey, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2051&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d401103-0791-47af-8892-7470de37d61c",
+      "party_type": "Person",
+      "full_name": "unknown Persian, Nishapur",
+      "cited_name": "unknown Persian, Nishapur",
+      "role": null,
+      "nationality": "Persian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

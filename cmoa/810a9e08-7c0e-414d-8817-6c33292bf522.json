@@ -1,0 +1,39 @@
+{
+  "title": "The Meadow Brook",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "charcoal on paper",
+  "accession_number": "18.25.8",
+  "id": "cmoa:things/810a9e08-7c0e-414d-8817-6c33292bf522",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001778",
+  "provenance_text": "American Artists' War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111194&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b5a6ae9-73f7-4959-8574-2092786c8549",
+      "party_type": "Person",
+      "full_name": "Ben Foster",
+      "cited_name": "Foster, Ben",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1926-01-01",
+      "birth_place": " North Anson, Maine",
+      "death_place": null
+    }
+  ]
+}

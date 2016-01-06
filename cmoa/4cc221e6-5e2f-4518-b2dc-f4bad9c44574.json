@@ -1,0 +1,39 @@
+{
+  "title": "The Incredulity of St. Thomas",
+  "creation_date": "17th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1699-01-01",
+  "medium": "ink wash on paper",
+  "accession_number": "23.12.25",
+  "id": "cmoa:things/4cc221e6-5e2f-4518-b2dc-f4bad9c44574",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1923-11-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004833",
+  "provenance_text": "Herbert Dupuy",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94662&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/800c3711-8c6c-463c-8df7-d574fd8aa24c",
+      "party_type": "Person",
+      "full_name": "unknown French or Italian",
+      "cited_name": "unknown French or Italian",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

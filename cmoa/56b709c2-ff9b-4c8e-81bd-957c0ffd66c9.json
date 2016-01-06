@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1890-1913",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "enameled iridescent blown glass",
+  "accession_number": "80.105.3",
+  "id": "cmoa:things/56b709c2-ff9b-4c8e-81bd-957c0ffd66c9",
+  "credit_line": "Gift of Emmanuel and Mary Fellouzis and family",
+  "date_acquired": "1981-02-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.125,
+  "item_depth": 0.0,
+  "item_diameter": 2.438,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021047",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=677&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf10d409-1194-4bd9-bd16-553414679c8f",
+      "party_type": "Organization",
+      "full_name": "Loetz",
+      "cited_name": "Loetz",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1836-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

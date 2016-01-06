@@ -1,0 +1,39 @@
+{
+  "title": "Module III",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "color lithograph/serigraph",
+  "accession_number": "81.11.2",
+  "id": "cmoa:things/46150896-5774-4f91-b788-4251a6bfbf26",
+  "credit_line": "The Carnegie Museum of Art Purchase Award: 71st Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.25,
+  "item_height": 28.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021558",
+  "provenance_text": "Paula Bogue-Overbay, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114804&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d26936e-8d40-440c-bc0d-a84832e667d1",
+      "party_type": "Person",
+      "full_name": "Paula Bogue-Overbay",
+      "cited_name": "Bogue-Overbay, Paula",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

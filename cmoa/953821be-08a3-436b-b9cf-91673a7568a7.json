@@ -1,0 +1,51 @@
+{
+  "title": "Blue + Red Spin",
+  "creation_date": "1997",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "glass, blown, with battuto",
+  "accession_number": "2002.69.4",
+  "id": "cmoa:things/953821be-08a3-436b-b9cf-91673a7568a7",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2002-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 21.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=527",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35331&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7e38492d-42ae-4e04-b814-082c7e4a6e21",
+      "party_type": "Person",
+      "full_name": "Philip Baldwin",
+      "cited_name": "Baldwin, Philip",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": "New York",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eb3c2e4f-989e-42e2-aaed-964d8562a665",
+      "party_type": "Person",
+      "full_name": "Monica Guggisberg",
+      "cited_name": "Guggisberg, Monica",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

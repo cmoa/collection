@@ -1,0 +1,39 @@
+{
+  "title": "Bar bottle",
+  "creation_date": "1820-1850",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "glass",
+  "accession_number": "2013.30.30",
+  "id": "cmoa:things/333d0430-2785-42ee-bc77-d034a7c498ae",
+  "credit_line": "Gift of Peter Tillou in Memory of Senator John Heinz",
+  "date_acquired": "2013-09-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 5.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103022",
+  "provenance_text": "Peter Tillou, Litchfield, CT",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128208&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

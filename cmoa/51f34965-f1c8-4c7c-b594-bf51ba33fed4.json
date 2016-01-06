@@ -1,0 +1,39 @@
+{
+  "title": "A Souvenir",
+  "creation_date": "c. 1870-1900",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "etching",
+  "accession_number": "81.20.7",
+  "id": "cmoa:things/51f34965-f1c8-4c7c-b594-bf51ba33fed4",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021746",
+  "provenance_text": "The Art Reference Room, Carnegie Library of Pittsburgh",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107815&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a8e2d2f3-d4d5-4c95-b9f3-3d67a4802a56",
+      "party_type": "Person",
+      "full_name": "Louis Storm van S'Gravensande",
+      "cited_name": "Storm van S'Gravensande, Louis",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1841-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

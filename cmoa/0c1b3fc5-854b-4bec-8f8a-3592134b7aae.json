@@ -1,0 +1,54 @@
+{
+  "title": "Doorstop",
+  "creation_date": "2000",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2000-01-01",
+  "medium": "aluminum",
+  "accession_number": "2001.23.2.8",
+  "id": "cmoa:things/0c1b3fc5-854b-4bec-8f8a-3592134b7aae",
+  "credit_line": "Gift of Franz Schneider Brakel Gmbh & Co.",
+  "date_acquired": "2001-04-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.25,
+  "item_depth": 0.0,
+  "item_diameter": 1.812,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004212",
+  "provenance_text": "The Donor, Brakel, Germany",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5557&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5546&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/23f4df8e-71fe-436e-a415-581ec55e0696",
+      "party_type": "Person",
+      "full_name": "Jasper Morrison",
+      "cited_name": "Morrison, Jasper",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "London, England",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/be870b6e-8030-4326-a63f-ee08db213bd6",
+      "party_type": "Organization",
+      "full_name": "Franz Schneider Brakel GmbH + Co.",
+      "cited_name": "Franz Schneider Brakel GmbH + Co.",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1881-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

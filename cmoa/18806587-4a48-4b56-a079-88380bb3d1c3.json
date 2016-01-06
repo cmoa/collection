@@ -1,0 +1,39 @@
+{
+  "title": "Violet",
+  "creation_date": "not dated",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "five-color lithograph on paper",
+  "accession_number": "60.16.2",
+  "id": "cmoa:things/18806587-4a48-4b56-a079-88380bb3d1c3",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1960-02-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 26.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011161",
+  "provenance_text": "L'Oeuvre Gravee, Zurich, Switzerland",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35430&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32412931-218e-435b-ad56-c3c9db2debb8",
+      "party_type": "Person",
+      "full_name": "Sugaï Kumi",
+      "cited_name": "Sugaï Kumi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1919-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Kobe (Hyogo prefecture, Kinki, Japan)",
+      "death_place": "Paris"
+    }
+  ]
+}

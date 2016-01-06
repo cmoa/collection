@@ -1,0 +1,42 @@
+{
+  "title": "The Indian Detour 2nd State",
+  "creation_date": "1927",
+  "creation_date_earliest": "1927-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "etching",
+  "accession_number": "83.81.5",
+  "id": "cmoa:things/a3e2f2a4-2ead-4db5-acdc-13075149c7e1",
+  "credit_line": "Gift of John D. Egan, Jr.",
+  "date_acquired": "1983-12-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024242",
+  "provenance_text": "John D. Egan, Jr., Wilmington, Delaware",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101257&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101258&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0aaf3191-56f4-4bed-bbcc-a9e68b02c6a6",
+      "party_type": "Person",
+      "full_name": "John Sloan",
+      "cited_name": "Sloan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": "Lock Haven, Pennsylvania",
+      "death_place": "Hanover, New Hampshire"
+    }
+  ]
+}

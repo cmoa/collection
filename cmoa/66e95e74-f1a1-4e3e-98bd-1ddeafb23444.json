@@ -1,0 +1,39 @@
+{
+  "title": "Witchcraft Scene",
+  "creation_date": "early 18th century",
+  "creation_date_earliest": "1700-01-01",
+  "creation_date_latest": "1750-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "57.42.3",
+  "id": "cmoa:things/66e95e74-f1a1-4e3e-98bd-1ddeafb23444",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-12-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 26.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010581",
+  "provenance_text": "G. David Thompson, Pittsburgh",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119499&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/37435418-cc7f-403e-9dc3-acce55b0c5e6",
+      "party_type": "Person",
+      "full_name": "Pseudo Bocchi",
+      "cited_name": "Pseudo Bocchi",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": "1740-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

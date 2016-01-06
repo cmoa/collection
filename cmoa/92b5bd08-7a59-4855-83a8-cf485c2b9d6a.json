@@ -1,0 +1,39 @@
+{
+  "title": "Unicorn",
+  "creation_date": "c. 1943",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "oil on canvas on panel",
+  "accession_number": "75.30",
+  "id": "cmoa:things/92b5bd08-7a59-4855-83a8-cf485c2b9d6a",
+  "credit_line": "Gift of Mrs. Charles L. Snowdon, Jr. in honor of the Women's Committee",
+  "date_acquired": "1975-10-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 38.875,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017741",
+  "provenance_text": "Mrs. Charles L. Snowdon, Jr., Wilmington, Delaware; gift to Museum, October 1975.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149830&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf5a24b4-1f1d-413a-9393-4b5c95e36006",
+      "party_type": "Person",
+      "full_name": "Claude Domec",
+      "cited_name": "Domec, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1902-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

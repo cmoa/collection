@@ -1,0 +1,39 @@
+{
+  "title": "Confretta",
+  "creation_date": "c. 1940-1945",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "85.1",
+  "id": "cmoa:things/b572be03-f8ee-4472-bfb7-bc106cd3b3f6",
+  "credit_line": "Paintings Acquisition Fund",
+  "date_acquired": "1985-02-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 76.125,
+  "item_height": 62.25,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025452",
+  "provenance_text": "Solomon R. Guggenheim Museum, New York, 1952; deaccessioned, 1985; Paintings Acquisition Fund, 1985",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21955&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6a7e87dd-211a-42bd-9e6c-76dd05a67002",
+      "party_type": "Person",
+      "full_name": "Rolph Scarlett",
+      "cited_name": "Scarlett, Rolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1984-01-01",
+      "birth_place": "Guelph (Ontario, Canada)",
+      "death_place": null
+    }
+  ]
+}

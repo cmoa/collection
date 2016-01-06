@@ -1,0 +1,63 @@
+{
+  "title": "Untitled (Tubular Brno chair)",
+  "creation_date": "before 2005",
+  "creation_date_earliest": "1901-01-01",
+  "creation_date_latest": "2004-01-01",
+  "medium": "chrome-plated steel with painted cotton",
+  "accession_number": "2013.10",
+  "id": "cmoa:things/eccf02c8-0b59-4312-9524-df2847422098",
+  "credit_line": "Richard L. Simmons Acquisition Fund",
+  "date_acquired": "2013-04-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.0,
+  "item_height": 31.0,
+  "item_depth": 21.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100666",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=118848&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0d580fce-b45c-4a46-bdc5-6e12e0f4f0af",
+      "party_type": "Person",
+      "full_name": "Robert Loughlin",
+      "cited_name": "Loughlin, Robert",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1949-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c3fb4ed-50eb-4b27-815d-df6bf75bebfd",
+      "party_type": "Person",
+      "full_name": "Ludwig Mies van der Rohe",
+      "cited_name": "Mies van der Rohe, Ludwig",
+      "role": "designer",
+      "nationality": "German",
+      "birth_date": "1886-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Aachen (Köln district, North Rhine-Westphalia, Germany)",
+      "death_place": "Chicago, Illinois"
+    },
+    {
+      "artist_id": "cmoa:parties/3535edaa-aef1-47a2-926f-75058d50c210",
+      "party_type": "Organization",
+      "full_name": "Knoll International",
+      "cited_name": "Knoll International",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

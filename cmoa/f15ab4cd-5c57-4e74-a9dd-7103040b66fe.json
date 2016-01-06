@@ -1,0 +1,39 @@
+{
+  "title": "Derniere coquille",
+  "creation_date": "c. 1970",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "lithograph",
+  "accession_number": "2006.81.4",
+  "id": "cmoa:things/f15ab4cd-5c57-4e74-a9dd-7103040b66fe",
+  "credit_line": "Gift of Mr. and Mrs. Leon Arkus",
+  "date_acquired": "2007-02-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 22.25,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=37991",
+  "provenance_text": "Gift of Mr. and Mrs. Leon Arkus, Pittsburgh, PA, 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110881&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a3e6c66-6f37-4022-8e73-89fc3a171a05",
+      "party_type": "Person",
+      "full_name": "Pierre Alechinsky",
+      "cited_name": "Alechinsky, Pierre",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brussels, Belgium",
+      "death_place": null
+    }
+  ]
+}

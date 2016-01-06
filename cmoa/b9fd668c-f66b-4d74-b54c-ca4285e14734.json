@@ -1,0 +1,39 @@
+{
+  "title": "111 x 65 x 34, 171 x 55 x 14, 171 x 55 x 14",
+  "creation_date": "1993",
+  "creation_date_earliest": "1993-01-01",
+  "creation_date_latest": "1993-01-01",
+  "medium": "steel, wood, terrazzo, soap, and felt (3 units)",
+  "accession_number": "95.110.A-.C",
+  "id": "cmoa:things/b9fd668c-f66b-4d74-b54c-ca4285e14734",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "1995-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 25.625,
+  "item_height": 13.125,
+  "item_depth": 43.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035488",
+  "provenance_text": "London Projects, London, England",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24550&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/08780bf8-0970-45d7-8049-87ac3f4609c4",
+      "party_type": "Person",
+      "full_name": "Miroslaw Balka",
+      "cited_name": "Balka, Miroslaw",
+      "role": null,
+      "nationality": "Polish",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Warsaw (Mazowieckie voivodship, Poland)",
+      "death_place": null
+    }
+  ]
+}

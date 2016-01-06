@@ -1,0 +1,39 @@
+{
+  "title": "Street Vendor, Paris",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "pastel on canvas",
+  "accession_number": "1999.50",
+  "id": "cmoa:things/9e179430-c96e-4efd-9984-4206fdd22082",
+  "credit_line": "Major Paintings Acquisition Fund and the Arthur J. Kobacker Acquisition Fund",
+  "date_acquired": "1999-12-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 33.75,
+  "item_height": 44.5,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003922",
+  "provenance_text": "Everette Shinn [1876-1953]. Mary Lublin Fine Arts, New York, NY; purchased by Museum, December 1999 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8014&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35c9c645-6d2d-45ce-bae5-641b7224f598",
+      "party_type": "Person",
+      "full_name": "Everett Shinn",
+      "cited_name": "Shinn, Everett",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1876-01-01",
+      "death_date": "1953-01-01",
+      "birth_place": "Woodstown (Salem county, New Jersey, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

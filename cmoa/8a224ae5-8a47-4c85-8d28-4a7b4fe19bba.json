@@ -1,0 +1,39 @@
+{
+  "title": "Sun Garden",
+  "creation_date": "2009",
+  "creation_date_earliest": "2009-01-01",
+  "creation_date_latest": "2009-01-01",
+  "medium": "painted and stained ash",
+  "accession_number": "2011.27",
+  "id": "cmoa:things/8a224ae5-8a47-4c85-8d28-4a7b4fe19bba",
+  "credit_line": "Gift of Deena and Jerome Kaplan",
+  "date_acquired": "2011-06-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 21, Bruce Galleries",
+  "item_width": 0.0,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 5.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92034",
+  "provenance_text": "Collection of Deena and Jerome Kaplan, Bethesda, MD\nPurchased from del Mano Gallery, Los Angeles, August 22, 2009.",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100861&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd56a5b0-4f1b-4b32-997b-546b98614ae9",
+      "party_type": "Person",
+      "full_name": "Ron Layport",
+      "cited_name": "Layport, Ron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": "Elyria, OH",
+      "death_place": null
+    }
+  ]
+}

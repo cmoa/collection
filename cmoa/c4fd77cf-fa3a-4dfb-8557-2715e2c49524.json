@@ -1,0 +1,54 @@
+{
+  "title": "The Homer Cup",
+  "creation_date": "1844",
+  "creation_date_earliest": "1844-01-01",
+  "creation_date_latest": "1844-01-01",
+  "medium": "silver and silver gilt",
+  "accession_number": "1998.15",
+  "id": "cmoa:things/c4fd77cf-fa3a-4dfb-8557-2715e2c49524",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 5.0,
+  "item_height": 4.5,
+  "item_depth": 5.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003606",
+  "provenance_text": "Wynyard Wilkinson, London",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=27894&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1122&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3751cfaf-c786-492f-b660-b8133ab118ea",
+      "party_type": "Person",
+      "full_name": "Benjamin Schlick",
+      "cited_name": "Schlick, Benjamin",
+      "role": "designer",
+      "nationality": "Danish",
+      "birth_date": "1796-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": "Copenhagen (København commune, Denmark)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/e54b38c7-91b0-4945-90c3-099a32566890",
+      "party_type": "Organization",
+      "full_name": "Elkington & Company",
+      "cited_name": "Elkington & Company",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1830-01-01",
+      "death_date": "1892-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

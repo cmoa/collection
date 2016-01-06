@@ -1,0 +1,39 @@
+{
+  "title": "German Cavalry",
+  "creation_date": "c. 1918",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "2011.71.1",
+  "id": "cmoa:things/c6743ac6-0437-4d73-8e2b-88e58a6a9a68",
+  "credit_line": "Gift of Carol and Herbert Diamond",
+  "date_acquired": "2012-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 8.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98221",
+  "provenance_text": "Artist's estate; H.V.Allison; Hirschl & Adler Galleries, inc.; West River Company; Carol and Herb Diamond",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113871&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59a4c986-b80e-4dfa-b25f-85c9f17b1428",
+      "party_type": "Person",
+      "full_name": "George Wesley Bellows",
+      "cited_name": "Bellows, George W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "Columbus, OH",
+      "death_place": "New Yotk"
+    }
+  ]
+}

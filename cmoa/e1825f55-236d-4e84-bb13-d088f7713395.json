@@ -1,0 +1,42 @@
+{
+  "title": "Where the Pavement Ends (Au Dela Des Chemins)",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "55.24.1",
+  "id": "cmoa:things/e1825f55-236d-4e84-bb13-d088f7713395",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1955-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.25,
+  "item_height": 37.375,
+  "item_depth": 2.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009413",
+  "provenance_text": "Galerie Craven, Paris, France",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125528&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134813&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8a6a77e-3ca3-4640-8c69-9248be4bc06d",
+      "party_type": "Person",
+      "full_name": "Corneille (Cornelius Guillaume Van Beverloo)",
+      "cited_name": "Corneille",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1922-01-01",
+      "death_date": "2010-01-01",
+      "birth_place": "Liège (Liège province, Wallonia, Belgium)",
+      "death_place": "France"
+    }
+  ]
+}

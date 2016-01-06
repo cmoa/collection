@@ -1,0 +1,51 @@
+{
+  "title": "Creamer",
+  "creation_date": "c. 1929",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "earthenware",
+  "accession_number": "1998.24.16.16",
+  "id": "cmoa:things/f51c25d7-00bf-499f-b1a6-386e750772b6",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.687,
+  "item_height": 2.562,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003654",
+  "provenance_text": "Barry Friedman, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1138&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60294f53-9d19-4be7-a4e4-65f69345ca95",
+      "party_type": "Person",
+      "full_name": "Eva Zeisel",
+      "cited_name": "Zeisel, Eva",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Budapest (Budapest county, Hungary)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/af5fc932-aeaa-48ab-9db5-79e4b46c281a",
+      "party_type": "Organization",
+      "full_name": "Schramberger Majolika Fabrik",
+      "cited_name": "Schramberger Majolika Fabrik",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1820-01-01",
+      "death_date": "1913-01-01",
+      "birth_place": "Schramberg",
+      "death_place": null
+    }
+  ]
+}

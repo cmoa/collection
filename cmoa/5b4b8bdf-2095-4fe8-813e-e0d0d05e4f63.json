@@ -1,0 +1,60 @@
+{
+  "title": "Plate",
+  "creation_date": "1900-1914",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "porcelain with transfer-printed, enamel, and gilded decoration",
+  "accession_number": "93.76.1.4",
+  "id": "cmoa:things/5b4b8bdf-2095-4fe8-813e-e0d0d05e4f63",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1993-05-27",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.375,
+  "item_height": 1.125,
+  "item_depth": 9.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033674",
+  "provenance_text": "East End Galleries, PA, Pittsburgh",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3963&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97639&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97641&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97633&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1a3d7ecb-0a74-492f-ba0c-ee3c6732ed83",
+      "party_type": "Person",
+      "full_name": "Herman Gradl",
+      "cited_name": "Gradl, Herman",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1869-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9577f71b-1ab0-4fe6-9250-b3f73207f94b",
+      "party_type": "Organization",
+      "full_name": "Nymphenburg Porcelain Factory",
+      "cited_name": "Nymphenburg Porcelain Factory",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1747-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

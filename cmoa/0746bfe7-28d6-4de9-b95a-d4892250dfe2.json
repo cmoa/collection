@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c.1918",
+  "creation_date_earliest": "1913-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "layered glass",
+  "accession_number": "81.123.1",
+  "id": "cmoa:things/0746bfe7-28d6-4de9-b95a-d4892250dfe2",
+  "credit_line": "Gift of Emmanuel and Mary Fellouzis and family",
+  "date_acquired": "1982-02-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.75,
+  "item_depth": 0.0,
+  "item_diameter": 6.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021596",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2881&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aaf1b25a-4951-4fd9-abb9-f2c9bd59efe4",
+      "party_type": "Person",
+      "full_name": "Louis Comfort Tiffany",
+      "cited_name": "Tiffany, Louis C.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1848-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

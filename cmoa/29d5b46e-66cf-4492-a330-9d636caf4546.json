@@ -1,0 +1,54 @@
+{
+  "title": "Music",
+  "creation_date": "1783",
+  "creation_date_earliest": "1783-01-01",
+  "creation_date_latest": "1783-01-01",
+  "medium": "aquatint and etching in color",
+  "accession_number": "19.1.114",
+  "id": "cmoa:things/29d5b46e-66cf-4492-a330-9d636caf4546",
+  "credit_line": "Gift of Mrs. Jessie Porterfield Heasley",
+  "date_acquired": "1919-03-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001877",
+  "provenance_text": "S. Moulijn (1866-1948), the Hague (collector's mark Lugt 1849b on recto lower left); Mrs. Jessie Porterfield Heasley",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104085&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104086&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a4739853-1348-4487-a4ff-8a084fb06f59",
+      "party_type": "Person",
+      "full_name": "Heinrich Sintzenich",
+      "cited_name": "Sintzenich, Heinrich",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1752-01-01",
+      "death_date": "1812-01-01",
+      "birth_place": "Mannheim (Karlsruhe district, Baden-Württemberg, Germany)",
+      "death_place": "Munich (Oberbayern, Bavaria, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/14fb2032-dc09-43a3-9c23-3ff12ba0cb72",
+      "party_type": "Person",
+      "full_name": "Rosalba Carriera",
+      "cited_name": "Carriera, Rosalba",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1675-01-01",
+      "death_date": "1757-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

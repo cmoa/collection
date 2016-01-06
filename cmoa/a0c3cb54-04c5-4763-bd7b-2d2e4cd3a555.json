@@ -1,0 +1,39 @@
+{
+  "title": "The Village Depot",
+  "creation_date": "1943",
+  "creation_date_earliest": "1943-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "etching and aquatint on paper",
+  "accession_number": "44.6.4",
+  "id": "cmoa:things/a0c3cb54-04c5-4763-bd7b-2d2e4cd3a555",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1944-01-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007538",
+  "provenance_text": "The American Federation of Arts",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100316&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c14765ea-43ec-45b4-91eb-9f1c42b4b908",
+      "party_type": "Person",
+      "full_name": "Morris Henry Hobbs",
+      "cited_name": "Hobbs, Morris H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1892-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Rockford, IL",
+      "death_place": "New Orleans, LA"
+    }
+  ]
+}

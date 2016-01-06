@@ -1,0 +1,39 @@
+{
+  "title": "House with an Astonished Face",
+  "creation_date": "1922",
+  "creation_date_earliest": "1922-01-01",
+  "creation_date_latest": "1922-01-01",
+  "medium": "graphite on card stock",
+  "accession_number": "93.189.9",
+  "id": "cmoa:things/ddff74a1-4946-4d02-99f2-96b797391d8a",
+  "credit_line": "Bequest of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1994-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 16.75,
+  "item_height": 10.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1033365",
+  "provenance_text": "The artist; Mr. and Mrs. James H. Beal, Pittsburgh, Cleveland Museum of Art exhibition, 1953; bequest to museum, February 1994",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26711&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d7d38d22-cde8-48f1-adf0-215f19bea834",
+      "party_type": "Person",
+      "full_name": "Charles Ephraim  Burchfield",
+      "cited_name": "Burchfield, Charles E.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": " Ashtabula (Ashtabula county, Ohio, United States)",
+      "death_place": " West Seneca (Erie county, New York state, United States)"
+    }
+  ]
+}

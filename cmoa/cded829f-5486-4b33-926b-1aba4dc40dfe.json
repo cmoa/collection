@@ -1,0 +1,39 @@
+{
+  "title": "George Town (Georgetown)",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.795",
+  "id": "cmoa:things/cded829f-5486-4b33-926b-1aba4dc40dfe",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.688,
+  "item_height": 18.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028954",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Fran-Nell Gallery of Art, Tokyo, Japan; 9/18/1970.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34245&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a4e5b4d2-af09-410f-af23-4885b4aae0fb",
+      "party_type": "Person",
+      "full_name": "Kitaoka Fumio",
+      "cited_name": "Kitaoka Fumio",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1918-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Tokyo",
+      "death_place": null
+    }
+  ]
+}

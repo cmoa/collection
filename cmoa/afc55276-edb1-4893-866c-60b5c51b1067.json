@@ -1,0 +1,51 @@
+{
+  "title": "Plate",
+  "creation_date": "c. 1815-1840",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "cut glass",
+  "accession_number": "77.11.9",
+  "id": "cmoa:things/afc55276-edb1-4893-866c-60b5c51b1067",
+  "credit_line": "Gift of Mrs. Paul B. Ernst",
+  "date_acquired": "1977-05-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.125,
+  "item_depth": 0.0,
+  "item_diameter": 8.375,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018333",
+  "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2731&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",
+      "party_type": "Person",
+      "full_name": "unknown American, PA, Pittsburgh",
+      "cited_name": "unknown American, PA, Pittsburgh",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

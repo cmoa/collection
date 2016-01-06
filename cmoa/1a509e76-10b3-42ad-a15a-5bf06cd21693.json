@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Flower Sketches - 2 Sides)",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "pen and ink",
+  "accession_number": "70.32.2539",
+  "id": "cmoa:things/1a509e76-10b3-42ad-a15a-5bf06cd21693",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-10-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014773",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108302&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108301&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/abb25a5a-5a19-4d93-9601-b90894daf92b",
+      "party_type": "Person",
+      "full_name": "John Hancock",
+      "cited_name": "Hancock, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1757-01-01",
+      "death_date": null,
+      "birth_place": "England",
+      "death_place": "East Liverpool (Ohio)"
+    }
+  ]
+}

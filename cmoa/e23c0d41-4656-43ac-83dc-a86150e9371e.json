@@ -1,0 +1,49 @@
+{
+  "title": "Rasamny chair, Prototype",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "aluminum and teak",
+  "accession_number": "2000.30",
+  "id": "cmoa:things/e23c0d41-4656-43ac-83dc-a86150e9371e",
+  "credit_line": "Gift of ICF Group",
+  "date_acquired": "2000-06-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 31.5,
+  "item_depth": 22.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004031",
+  "provenance_text": "Icf Group, New York, NY",
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3b04c18-3f2d-4131-b149-18be33fc33e8",
+      "party_type": "Person",
+      "full_name": "Ali Tayar",
+      "cited_name": "Tayar, Ali",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "Istanbul, Turkey",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/5ad410d7-eef8-44d1-adab-6494174e181c",
+      "party_type": "Organization",
+      "full_name": "ICF Group",
+      "cited_name": "ICF Group",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1962-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Veil",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "tempera on board",
+  "accession_number": "74.21",
+  "id": "cmoa:things/2baf0927-78fd-4efd-beec-7f21d704db3e",
+  "credit_line": "Gift of Mr. and Mrs. Leon Anthony Arkus in honor of the opening of the Sarah Mellon Scaife Gallery",
+  "date_acquired": "1974-10-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 33.5,
+  "item_height": 33.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016943",
+  "provenance_text": "Gift of Mr. and Mrs. Leon A. Arkus, Pittsburgh, PA, 1974.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148732&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f6e50760-0052-431a-aeb9-50442d04787a",
+      "party_type": "Person",
+      "full_name": "Bridget Riley",
+      "cited_name": "Riley, Bridget",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "London",
+      "death_place": null
+    }
+  ]
+}

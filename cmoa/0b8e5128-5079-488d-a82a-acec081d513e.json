@@ -1,0 +1,51 @@
+{
+  "title": "Ray Hollis ashtray",
+  "creation_date": "designed 1986, manufactured 1997",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1997-01-01",
+  "medium": "aluminum",
+  "accession_number": "1998.22",
+  "id": "cmoa:things/0b8e5128-5079-488d-a82a-acec081d513e",
+  "credit_line": "Gift of Celia Morrissette and Keith Johnson, New York and of Karl Schmidt, Detroit",
+  "date_acquired": "1998-04-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 4.562,
+  "item_height": 4.25,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003620",
+  "provenance_text": "Keith Johnson, Post Century Decorative Arts, Pontiac, Michigan",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7236f383-9524-43c7-818f-1d4655c1556a",
+      "party_type": "Organization",
+      "full_name": "XO",
+      "cited_name": "XO",
+      "role": "manufacturer",
+      "nationality": "French",
+      "birth_date": "1984-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

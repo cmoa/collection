@@ -1,0 +1,42 @@
+{
+  "title": "Dos Nones",
+  "creation_date": "1988",
+  "creation_date_earliest": "1988-01-01",
+  "creation_date_latest": "1988-01-01",
+  "medium": "iron and polymethyl methacrylate sheeting",
+  "accession_number": "88.32.A-.J",
+  "id": "cmoa:things/4779c4bc-0102-4a75-ab75-180107abff0e",
+  "credit_line": "Fellows Fund",
+  "date_acquired": "1988-12-01",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 119.5,
+  "item_height": 94.75,
+  "item_depth": 85.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026512",
+  "provenance_text": "Susana Solano",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21576&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3619&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7d7dd5fe-4c89-4469-99e5-b387522b5e60",
+      "party_type": "Person",
+      "full_name": "Susana Solano",
+      "cited_name": "Solano, Susana",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1946-01-01",
+      "death_date": null,
+      "birth_place": "Barcelona, Spain",
+      "death_place": null
+    }
+  ]
+}

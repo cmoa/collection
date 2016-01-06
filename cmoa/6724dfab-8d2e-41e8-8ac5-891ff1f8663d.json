@@ -1,0 +1,49 @@
+{
+  "title": "Chair",
+  "creation_date": "1934 (designed) 1941 (manufactured)",
+  "creation_date_earliest": "1934-01-01",
+  "creation_date_latest": "1941-01-01",
+  "medium": "plywood and webbing",
+  "accession_number": "84.112.1",
+  "id": "cmoa:things/6724dfab-8d2e-41e8-8ac5-891ff1f8663d",
+  "credit_line": "Gift of Barry Friedman and Patricia Pastor",
+  "date_acquired": "1985-02-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.125,
+  "item_height": 33.5,
+  "item_depth": 24.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024509",
+  "provenance_text": "Barry Friedman And Patricia Pastor, New York, NY",
+  "classification": "Wood",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b7da2686-e46d-46a9-a35b-88aaf3497f32",
+      "party_type": "Person",
+      "full_name": "Bruno Mathsson",
+      "cited_name": "Mathsson, Bruno",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1907-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ad2a9184-326b-4628-9d6f-94ef2c4e7011",
+      "party_type": "Person",
+      "full_name": "Karl Mathsson",
+      "cited_name": "Mathsson, Karl",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Sweden",
+      "death_place": null
+    }
+  ]
+}

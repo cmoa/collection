@@ -1,0 +1,39 @@
+{
+  "title": "Sauceboat",
+  "creation_date": "c. 1775",
+  "creation_date_earliest": "1770-01-01",
+  "creation_date_latest": "1780-01-01",
+  "medium": "silver",
+  "accession_number": "70.7.156",
+  "id": "cmoa:things/5d24be39-abd8-49c5-97fa-1d29c9a70ef5",
+  "credit_line": "Ailsa Mellon Bruce Collection",
+  "date_acquired": "1970-05-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015964",
+  "provenance_text": "Ailsa Mellon Bruce",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8529&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a1da31b7-cdfa-4ffd-8e27-239e369d676c",
+      "party_type": "Person",
+      "full_name": "Matthew West",
+      "cited_name": "West, Matthew",
+      "role": "attributed to",
+      "nationality": "Irish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

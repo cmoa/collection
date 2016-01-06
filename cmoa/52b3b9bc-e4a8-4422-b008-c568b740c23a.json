@@ -1,0 +1,42 @@
+{
+  "title": "Madonna and Child with Musical Angels",
+  "creation_date": "c. 1500",
+  "creation_date_earliest": "1494-12-23",
+  "creation_date_latest": "1504-12-22",
+  "medium": "oil and tempera on oak panel",
+  "accession_number": "69.53",
+  "id": "cmoa:things/52b3b9bc-e4a8-4422-b008-c568b740c23a",
+  "credit_line": "Howard A. Noble Fund",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 1, Scaife Galleries",
+  "item_width": 21.0,
+  "item_height": 23.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012985",
+  "provenance_text": "Leopold Goldschmidt, Paris, by 1908; (F. Kleinberger Galleries, New York, by 1908). Mr. George I. Pratt, New York, 1929; Mrs. George Dupont Pratt, New York; (H. Shickman Gallery, New York, by 1969); purchased by Museum, December 1969.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37484&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=403&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f440eff-3eb4-4e56-844a-4df6c3b0fcee",
+      "party_type": "Person",
+      "full_name": "Master of the Legend of Saint Lucy",
+      "cited_name": "Master of the Legend of Saint Lucy",
+      "role": null,
+      "nationality": "Netherlandish",
+      "birth_date": "1460-01-01",
+      "death_date": "1505-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

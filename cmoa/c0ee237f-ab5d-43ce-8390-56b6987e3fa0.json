@@ -1,0 +1,39 @@
+{
+  "title": "French Family in Yokohama",
+  "creation_date": "1861",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1861-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1150",
+  "id": "cmoa:things/c0ee237f-ab5d-43ce-8390-56b6987e3fa0",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026916",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35067&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/221b4a46-7ac5-4712-bd96-cf1fb73cc51e",
+      "party_type": "Person",
+      "full_name": "Sadahide Utagawa",
+      "cited_name": "Sadahide Utagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1807-01-01",
+      "death_date": "1873-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Shôki the Demon-Queller (Shôki to Oni)",
+  "creation_date": "1870-1880",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.951",
+  "id": "cmoa:things/4631a867-b7c5-49d5-b616-c33b279cdd62",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029207",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26120&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3498c21e-709c-4a39-a709-020d4174ddc2",
+      "party_type": "Person",
+      "full_name": "Kyôsai Kawanabe",
+      "cited_name": "Kyôsai Kawanabe",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1831-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": " Koga (Ibaraki prefecture, Kanto, Japan)",
+      "death_place": " Tokyo (To-kyo- metropolis, Kanto, Japan)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The Malecon, Havana 3",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2002.59.3",
+  "id": "cmoa:things/35a3c731-c672-4052-8c51-b7ba6838fd78",
+  "credit_line": "Carnegie Museum of Art Purchase Award: 92nd Annual Exhibition of the Associated Artists of Pittsburgh",
+  "date_acquired": "2002-12-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 14.875,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=542",
+  "provenance_text": "Associated Artists of Pittsburgh",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114865&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee188508-7455-46b3-bd8d-49a5dabab110",
+      "party_type": "Person",
+      "full_name": "Jill Snyder",
+      "cited_name": "Snyder, Jill",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "pastel on paper",
+  "accession_number": "86.56",
+  "id": "cmoa:things/50b7da5a-bd36-4bde-be12-bf6c0a047711",
+  "credit_line": "Gift of Mr. and Mrs. Milton Lowenthal",
+  "date_acquired": "1986-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 21.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026159",
+  "provenance_text": "Gift of Mr. and Mrs. Milton Lowenthal, New York, NY, 1986.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89471&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/347f7084-8529-419a-9efe-82f60badae0f",
+      "party_type": "Person",
+      "full_name": "Josef Presser",
+      "cited_name": "Presser, Josef",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Lublin, Poland",
+      "death_place": "Paris, France"
+    }
+  ]
+}

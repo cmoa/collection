@@ -1,0 +1,37 @@
+{
+  "title": "Hats",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "Gelatin silver print",
+  "accession_number": "2007.51.41",
+  "id": "cmoa:things/3822950c-7f7b-42ad-a1e1-1fcc04c3b96d",
+  "credit_line": "Gift of the George H. Ebbs Family",
+  "date_acquired": "2007-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.188,
+  "item_height": 16.188,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=48926",
+  "provenance_text": "Acquired by Mr. George Ebbs from Butterfield & Butterfield on 10/10/1989 (Source: Donor's checklist)",
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e82ac5d3-1a99-4d8f-a6a7-f3f6b23daad0",
+      "party_type": "Person",
+      "full_name": "William Heick",
+      "cited_name": "Heick, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1916-01-01",
+      "death_date": null,
+      "birth_place": "San Francisco, California, USA",
+      "death_place": null
+    }
+  ]
+}

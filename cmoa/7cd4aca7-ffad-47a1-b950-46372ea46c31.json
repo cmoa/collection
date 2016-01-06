@@ -1,0 +1,39 @@
+{
+  "title": "Landscape with a Country Dance (Dance under the Trees)",
+  "creation_date": "1637",
+  "creation_date_earliest": "1637-01-01",
+  "creation_date_latest": "1637-01-01",
+  "medium": "etching",
+  "accession_number": "47.11.21",
+  "id": "cmoa:things/7cd4aca7-ffad-47a1-b950-46372ea46c31",
+  "credit_line": "Gift of Kenneth Seaver",
+  "date_acquired": "1947-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008039",
+  "provenance_text": "Kenneth Seaver [1877-1969], Pittsburgh, PA and Oakmont, PA, until June 4, 1947; his gift to Museum, June 1947.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102638&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f9c9fbfa-bad5-4c44-85a5-99e51081bb9f",
+      "party_type": "Person",
+      "full_name": "Claude Lorrain",
+      "cited_name": "Lorrain, Claude",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1604-01-01",
+      "death_date": "1682-01-01",
+      "birth_place": "Champagne (Ardèche, Rhône-Alpes, France)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

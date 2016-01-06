@@ -1,0 +1,39 @@
+{
+  "title": "Candlestick",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "Wood, acrylic paint",
+  "accession_number": "2008.72.6",
+  "id": "cmoa:things/6994362f-3d49-4632-ad0d-c3820e40cce7",
+  "credit_line": "Gift of John and Robyn Horn",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.875,
+  "item_height": 8.5,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=66064",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=71272&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9691113-6a30-48bc-80eb-16ae83c37823",
+      "party_type": "Person",
+      "full_name": "Mark Sfirri",
+      "cited_name": "Sfirri, Mark",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

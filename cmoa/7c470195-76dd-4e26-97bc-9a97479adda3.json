@@ -1,0 +1,39 @@
+{
+  "title": "William Thaw",
+  "creation_date": "19th century",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "albumen print (cabinet card)",
+  "accession_number": "1997.42.3.16",
+  "id": "cmoa:things/7c470195-76dd-4e26-97bc-9a97479adda3",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-10-02",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 4.187,
+  "item_height": 6.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003327",
+  "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120693&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4096b83c-ac51-49f2-a070-b28024b28ccf",
+      "party_type": "Organization",
+      "full_name": "Broadbent & Taylor",
+      "cited_name": "Broadbent & Taylor",
+      "role": null,
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": "1880-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

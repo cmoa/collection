@@ -1,0 +1,45 @@
+{
+  "title": "Teapot",
+  "creation_date": "1802",
+  "creation_date_earliest": "1802-01-01",
+  "creation_date_latest": "1802-01-01",
+  "medium": "silver",
+  "accession_number": "89.30.A-B",
+  "id": "cmoa:things/65666cda-b9a5-46fd-b336-676b36262fd5",
+  "credit_line": "Gift of Mrs. Pressly H. McCance",
+  "date_acquired": "1990-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 5.187,
+  "item_depth": 6.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029285",
+  "provenance_text": "Mrs. Pressly H. McCance",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6196&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6195&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6314&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73239dde-b702-4d8f-92a6-623b0870858b",
+      "party_type": "Organization",
+      "full_name": "Peter, Ann, and William Bateman",
+      "cited_name": "Bateman, Peter, Ann, and William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1799-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

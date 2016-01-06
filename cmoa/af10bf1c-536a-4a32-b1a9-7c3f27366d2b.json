@@ -1,0 +1,39 @@
+{
+  "title": "Put It There",
+  "creation_date": "late 19th-early 20th century",
+  "creation_date_earliest": "1863-01-01",
+  "creation_date_latest": "1913-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "49.25.2",
+  "id": "cmoa:things/af10bf1c-536a-4a32-b1a9-7c3f27366d2b",
+  "credit_line": "Gift of H. J. Heinz Company",
+  "date_acquired": "1949-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 24.0,
+  "item_depth": 3.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008675",
+  "provenance_text": "H. J. Heinz Company, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17596&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/40219971-8b5f-4b07-9501-e3c296c4701f",
+      "party_type": "Person",
+      "full_name": "John George Brown",
+      "cited_name": "Brown, John George",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1831-01-01",
+      "death_date": "1913-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

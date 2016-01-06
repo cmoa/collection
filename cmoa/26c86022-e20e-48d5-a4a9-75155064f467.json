@@ -1,0 +1,39 @@
+{
+  "title": "Paragrand",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "etching with aquatint on Japanese surface gampi",
+  "accession_number": "2009.6",
+  "id": "cmoa:things/26c86022-e20e-48d5-a4a9-75155064f467",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2009-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 20.25,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=79130",
+  "provenance_text": "The artist through Skowhegan School of Painting and Sculpture, Skowhegan, Maine",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=88683&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11b28842-c115-4af1-98fa-46d5e26e8a91",
+      "party_type": "Person",
+      "full_name": "Peter Doig",
+      "cited_name": "Doig, Peter",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1959-01-01",
+      "death_date": null,
+      "birth_place": "Edinburgh, Scotland",
+      "death_place": null
+    }
+  ]
+}

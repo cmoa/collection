@@ -1,0 +1,39 @@
+{
+  "title": "Going Home",
+  "creation_date": "1940",
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "etching on paper",
+  "accession_number": "69.48.67",
+  "id": "cmoa:things/3afa9676-7966-459c-af0a-227717bcafcb",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012936",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108266&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5efb531d-ceaa-425d-9b0e-5622246060d8",
+      "party_type": "Person",
+      "full_name": "John Costigan",
+      "cited_name": "Costigan, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1972-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

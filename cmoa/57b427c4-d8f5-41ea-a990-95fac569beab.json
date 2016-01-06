@@ -1,0 +1,39 @@
+{
+  "title": "Composition",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "58.77",
+  "id": "cmoa:things/57b427c4-d8f5-41ea-a990-95fac569beab",
+  "credit_line": "Gift of the Junior Council of the Women's Committee",
+  "date_acquired": "1958-11-21",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 82.25,
+  "item_height": 62.125,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010924",
+  "provenance_text": "1958 Pittsburgh International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=18604&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5a4a8fb-cc67-4a43-963f-54fccf052f72",
+      "party_type": "Person",
+      "full_name": "Wolfgang Hollegha",
+      "cited_name": "Hollegha, Wolfgang",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1929-01-01",
+      "death_date": null,
+      "birth_place": "Klagenfurt, Austria",
+      "death_place": null
+    }
+  ]
+}

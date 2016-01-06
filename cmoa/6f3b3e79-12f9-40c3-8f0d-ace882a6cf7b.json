@@ -1,0 +1,42 @@
+{
+  "title": "Two Courtesans at the Hour of the Dragon (Tatsu no koku)",
+  "creation_date": "c. 1795",
+  "creation_date_earliest": "1790-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "82.52.12",
+  "id": "cmoa:things/6f3b3e79-12f9-40c3-8f0d-ace882a6cf7b",
+  "credit_line": "Gift of Dr. and Mrs. James B. Austin",
+  "date_acquired": "1982-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022986",
+  "provenance_text": "Dr. James B. Austin, Pittsburgh, PA; Acquired by Dr. Austin from R. E. Lewis, Inc., San Francisco, 2/5/1962.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31015&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28439&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/701baf6b-252c-4cc7-8739-75a3ef9dda6d",
+      "party_type": "Person",
+      "full_name": "Utamaro Kitagawa",
+      "cited_name": "Utamaro Kitagawa",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1754-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": "Kawagoe (Saitama prefecture, Kanto, Japan)",
+      "death_place": "Tokyo (Tokyo metropolis, Kanto, Japan)"
+    }
+  ]
+}

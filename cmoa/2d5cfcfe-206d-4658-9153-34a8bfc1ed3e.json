@@ -1,0 +1,39 @@
+{
+  "title": "The Spinner",
+  "creation_date": "1652",
+  "creation_date_earliest": "1652-01-01",
+  "creation_date_latest": "1652-01-01",
+  "medium": "etching",
+  "accession_number": "22.7.4",
+  "id": "cmoa:things/2d5cfcfe-206d-4658-9153-34a8bfc1ed3e",
+  "credit_line": "Purchase",
+  "date_acquired": "1922-10-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004755",
+  "provenance_text": "Fitzroy Carrington, 707 Fifth Ave., NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101710&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ffd5e859-c286-4839-831f-3c7a55518471",
+      "party_type": "Person",
+      "full_name": "Adriaen Van Ostade",
+      "cited_name": "Ostade, Adriaen Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1610-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

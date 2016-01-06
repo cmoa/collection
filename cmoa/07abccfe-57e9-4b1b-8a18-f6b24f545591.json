@@ -1,0 +1,39 @@
+{
+  "title": "Marche Funèbre",
+  "creation_date": "1917-1918",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "conte crayon on paper",
+  "accession_number": "18.25.6",
+  "id": "cmoa:things/07abccfe-57e9-4b1b-8a18-f6b24f545591",
+  "credit_line": "American Artists' War Emergency Fund",
+  "date_acquired": "1918-11-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001776",
+  "provenance_text": "American Artist's War Emergency Fund, New York; Purchase",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89470&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a90363fa-41c0-4f18-ba42-840e171ebe20",
+      "party_type": "Person",
+      "full_name": "Elliott Daingerfield",
+      "cited_name": "Daingerfield, Elliott",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1859-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": " Harpers Ferry (Jefferson county, West Virginia, United States)",
+      "death_place": null
+    }
+  ]
+}

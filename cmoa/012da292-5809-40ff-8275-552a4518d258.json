@@ -1,0 +1,39 @@
+{
+  "title": "Painting, 1959",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "63.21",
+  "id": "cmoa:things/012da292-5809-40ff-8275-552a4518d258",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1963-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 45.75,
+  "item_height": 77.625,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011655",
+  "provenance_text": "G. David Thompson",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149755&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3ac169ae-f6aa-4ca0-8b63-8aa345998da5",
+      "party_type": "Person",
+      "full_name": "André Marfaing",
+      "cited_name": "Marfaing, André",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1925-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Toulouse (Haute-Garonne, Midi-Pyrénées, France)",
+      "death_place": null
+    }
+  ]
+}

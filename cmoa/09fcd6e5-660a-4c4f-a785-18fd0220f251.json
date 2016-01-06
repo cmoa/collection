@@ -1,0 +1,45 @@
+{
+  "title": "St. Francis and the Wolf",
+  "creation_date": "1951",
+  "creation_date_earliest": "1951-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "sandstone",
+  "accession_number": "55.36.4",
+  "id": "cmoa:things/09fcd6e5-660a-4c4f-a785-18fd0220f251",
+  "credit_line": "Gift of Mr. and Mrs. James H. Beal",
+  "date_acquired": "1955-12-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.0,
+  "item_height": 29.75,
+  "item_depth": 8.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009448",
+  "provenance_text": "Mr. and Mrs. James H. Beal, Pittsburgh; gift to museum, December 1955",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135636&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135637&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135638&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/18374f38-2af2-41ea-a355-fbf8915cc1d2",
+      "party_type": "Person",
+      "full_name": "Adolph Dioda",
+      "cited_name": "Dioda, Adolph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1915-01-01",
+      "death_date": "1991-01-01",
+      "birth_place": "Aliquippa, PA",
+      "death_place": null
+    }
+  ]
+}

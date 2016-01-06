@@ -1,0 +1,54 @@
+{
+  "title": "Madonna and Child",
+  "creation_date": "1929",
+  "creation_date_earliest": "1929-01-01",
+  "creation_date_latest": "1929-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "81.61.5",
+  "id": "cmoa:things/a7f5161b-3da6-4fd5-ad0d-4a560373c412",
+  "credit_line": "Gift of Dr. Mark Steele",
+  "date_acquired": "1981-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 9.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021981",
+  "provenance_text": "Dr. Mark Steele, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100402&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100401&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79db1011-7a2c-4022-8aad-4f1c15276770",
+      "party_type": "Person",
+      "full_name": "Henry J. Glintenkamp",
+      "cited_name": "Glintenkamp, Henry J.",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": " Augusta (Sussex county, New Jersey, United States)",
+      "death_place": "New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/cd37c94f-d066-46f0-bdf8-1896274c89ba",
+      "party_type": "Person",
+      "full_name": "El Greco",
+      "cited_name": "Greco, El",
+      "role": null,
+      "nationality": "Greek",
+      "birth_date": "1541-01-01",
+      "death_date": "1614-01-01",
+      "birth_place": "Kríti region (Greece)",
+      "death_place": "Toledo (Toledo province, Castilla-La Mancha, Spain)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Taishakuten (Buddhist)",
+  "creation_date": null,
+  "creation_date_earliest": "1241-12-25",
+  "creation_date_latest": "1281-12-25",
+  "medium": "woodcut on paper (block from 13th century, printed in 19th)",
+  "accession_number": "89.28.1092",
+  "id": "cmoa:things/a8690b43-ef92-4112-a6d4-957316d0b89d",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.875,
+  "item_height": 18.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026839",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby & Co., London, 12/12/1967, Lot 86 through Bluett & Sons, London.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105743&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f8407c3-8633-46a3-8e23-26f9ae3d0a4f",
+      "party_type": "Person",
+      "full_name": "Nichiren",
+      "cited_name": "Nichiren",
+      "role": "attributed to",
+      "nationality": "Japanese",
+      "birth_date": "1222-01-01",
+      "death_date": "1282-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

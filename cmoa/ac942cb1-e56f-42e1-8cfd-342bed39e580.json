@@ -1,0 +1,51 @@
+{
+  "title": "Chocolate service",
+  "creation_date": "c. 1905-1910",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1915-01-01",
+  "medium": "porcelain",
+  "accession_number": "94.240.2.A-C",
+  "id": "cmoa:things/ac942cb1-e56f-42e1-8cfd-342bed39e580",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1994-12-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.625,
+  "item_height": 7.75,
+  "item_depth": 12.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035048",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=22902&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f28de096-9735-4baf-876e-8a8c92f5d4c3",
+      "party_type": "Person",
+      "full_name": "Georges de Feure",
+      "cited_name": "Feure, Georges de",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1868-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    },
+    {
+      "artist_id": "cmoa:parties/75cd8507-6e03-4731-8364-e3f2c9f7b803",
+      "party_type": "Organization",
+      "full_name": "Limoges Porcelain Factory",
+      "cited_name": "Limoges Porcelain Factory",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1798-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

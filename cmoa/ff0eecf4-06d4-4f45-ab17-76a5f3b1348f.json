@@ -1,0 +1,51 @@
+{
+  "title": "Maiko - A Young Geisha",
+  "creation_date": "1946",
+  "creation_date_earliest": "1946-01-01",
+  "creation_date_latest": "1946-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.710.2",
+  "id": "cmoa:things/ff0eecf4-06d4-4f45-ab17-76a5f3b1348f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.625,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028702",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35298&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b15cb7cd-f6cf-4527-b94c-36a099d38611",
+      "party_type": "Person",
+      "full_name": "Maekawa Senpan",
+      "cited_name": "Maekawa Senpan",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1889-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Japan, Kyoto",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7a0dec69-e36d-409e-b585-cda2f574f8fc",
+      "party_type": "Person",
+      "full_name": "Fugaku Shuppansha",
+      "cited_name": "Fugaku Shuppansha",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Italian Landscape",
+  "creation_date": "1845",
+  "creation_date_earliest": "1845-01-01",
+  "creation_date_latest": "1845-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "93.119",
+  "id": "cmoa:things/946509e1-58a9-4461-982c-c23e24d22c37",
+  "credit_line": "Paintings Acquisition Fund",
+  "date_acquired": "1993-10-07",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 3, Scaife Galleries",
+  "item_width": 59.0,
+  "item_height": 40.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032818",
+  "provenance_text": "possibly in American Private Collection, Cincinnati (?); Kunsthaus Lempertz, Cologne; (sale, Shepherd Gallery, New York, 15 May 1993, lot 1484); purchased by Museum, October 1993.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10168&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=57276&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/82b2abfa-246e-4d01-9a36-6ef6fe7b2ecd",
+      "party_type": "Person",
+      "full_name": "Andreas Achenbach",
+      "cited_name": "Achenbach, Andreas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1815-01-01",
+      "death_date": "1910-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

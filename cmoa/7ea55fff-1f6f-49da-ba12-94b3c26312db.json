@@ -1,0 +1,39 @@
+{
+  "title": "Cultural District at Night",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "Inkjet print",
+  "accession_number": "2013.8.5",
+  "id": "cmoa:things/7ea55fff-1f6f-49da-ba12-94b3c26312db",
+  "credit_line": "Gift of The Heinz Endowments",
+  "date_acquired": "2013-02-14",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93653",
+  "provenance_text": "The Heinz Endowments Downtown Now Photography Project",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106970&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6aaa45b-4fef-41b5-894f-2fe996493416",
+      "party_type": "Person",
+      "full_name": "Richard Kelly",
+      "cited_name": "Kelly, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1965-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, PA",
+      "death_place": null
+    }
+  ]
+}

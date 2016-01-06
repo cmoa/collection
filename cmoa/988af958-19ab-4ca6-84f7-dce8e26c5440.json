@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "c. late 19th-early 20th century",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "earthenware",
+  "accession_number": "89.27.12",
+  "id": "cmoa:things/988af958-19ab-4ca6-84f7-dce8e26c5440",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.625,
+  "item_depth": 0.0,
+  "item_diameter": 2.625,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026652",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1532&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d81c095-0722-40c7-9865-429c9e59a76f",
+      "party_type": "Person",
+      "full_name": "Edmond Lachenal",
+      "cited_name": "Lachenal, Edmond",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1855-01-01",
+      "death_date": "1930-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

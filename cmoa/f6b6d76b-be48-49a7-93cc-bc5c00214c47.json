@@ -1,0 +1,39 @@
+{
+  "title": "Creamer",
+  "creation_date": "c. 1825",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "silver",
+  "accession_number": "2.25.UN",
+  "id": "cmoa:things/f6b6d76b-be48-49a7-93cc-bc5c00214c47",
+  "credit_line": "Collection of Mr. and Mrs. George T. Haldeman",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 7.625,
+  "item_depth": 4.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000079",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/11bf99fa-e1b8-4938-8e60-6af2fd90a710",
+      "party_type": "Organization",
+      "full_name": "R. & W. Wilson",
+      "cited_name": "Wilson, R. & W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1825-01-01",
+      "death_date": "1846-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

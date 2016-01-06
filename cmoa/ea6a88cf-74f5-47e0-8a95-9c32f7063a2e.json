@@ -1,0 +1,39 @@
+{
+  "title": "Zombie VIII",
+  "creation_date": "2008",
+  "creation_date_earliest": "2008-01-01",
+  "creation_date_latest": "2008-01-01",
+  "medium": "bronze",
+  "accession_number": "2008.51",
+  "id": "cmoa:things/ea6a88cf-74f5-47e0-8a95-9c32f7063a2e",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2008-10-02",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 33.5,
+  "item_height": 29.5,
+  "item_depth": 41.312,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=56109",
+  "provenance_text": "The artist through Galerie Nelson-Freeman, Paris",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=66573&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5fe2956c-8f71-4175-bb0f-7c70defe047b",
+      "party_type": "Person",
+      "full_name": "Thomas Schütte",
+      "cited_name": "Schütte, Thomas",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": "Oldenburg, Germany",
+      "death_place": null
+    }
+  ]
+}

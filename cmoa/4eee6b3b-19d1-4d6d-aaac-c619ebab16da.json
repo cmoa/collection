@@ -1,0 +1,39 @@
+{
+  "title": "Ansel Adams in Barbara Morgan's Studio",
+  "creation_date": "1942",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1942-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.89.4",
+  "id": "cmoa:things/4eee6b3b-19d1-4d6d-aaac-c619ebab16da",
+  "credit_line": "Gift of Derwood S. Chase, Jr.",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 19.875,
+  "item_height": 15.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025366",
+  "provenance_text": "The Martin S. Ackerman Foundation, New York",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13261&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0acbed7f-2efd-4161-a719-eecb78aead64",
+      "party_type": "Person",
+      "full_name": "Barbara Morgan",
+      "cited_name": "Morgan, Barbara",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1900-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Buffalo (Wilson county, Kansas, United States)",
+      "death_place": "Sleepy Hollow (Westchester county, New York state, United States)"
+    }
+  ]
+}

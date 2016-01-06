@@ -1,0 +1,37 @@
+{
+  "title": "Polo",
+  "creation_date": "1912",
+  "creation_date_earliest": "1912-01-01",
+  "creation_date_latest": "1912-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "16.27.3",
+  "id": "cmoa:things/ae9ce1e6-85c2-4183-aea4-7c34d2452ec5",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001177",
+  "provenance_text": "Martin Birnbaum, New York, New York",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0899b204-88df-4210-96c5-f93cc6292ec1",
+      "party_type": "Person",
+      "full_name": "Max Liebermann",
+      "cited_name": "Liebermann, Max",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1847-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Berlin (Berlin state, Germany)",
+      "death_place": "Berlin (Berlin state, Germany)"
+    }
+  ]
+}

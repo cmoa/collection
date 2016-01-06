@@ -1,0 +1,39 @@
+{
+  "title": "Vase",
+  "creation_date": "1903",
+  "creation_date_earliest": "1903-01-01",
+  "creation_date_latest": "1903-01-01",
+  "medium": "gilded bronze with original zinc liner",
+  "accession_number": "89.12.1",
+  "id": "cmoa:things/9d091296-38a8-430c-aae0-4064ebc50aff",
+  "credit_line": "Berdan Memorial Trust Fund",
+  "date_acquired": "1989-10-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 10.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026590",
+  "provenance_text": "Barry Friedman Ltd. [1973-2014], New York City, New York, until 1989; purchased by Museum, October 5, 1989.",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11981&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72f8dc91-56f4-4c5c-adaf-9a734d8871ee",
+      "party_type": "Person",
+      "full_name": "Hector Guimard",
+      "cited_name": "Guimard, Hector",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1867-01-01",
+      "death_date": "1942-01-01",
+      "birth_place": "Lyon, France",
+      "death_place": "New York City, NY"
+    }
+  ]
+}

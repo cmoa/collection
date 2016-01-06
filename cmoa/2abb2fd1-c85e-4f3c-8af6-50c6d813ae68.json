@@ -1,0 +1,37 @@
+{
+  "title": "The Nativity",
+  "creation_date": null,
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "43.4.53",
+  "id": "cmoa:things/2abb2fd1-c85e-4f3c-8af6-50c6d813ae68",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 3.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007444",
+  "provenance_text": "John J. A. Murphy [1888-1967], England. Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1b8073f-6263-4462-9379-61f01359f200",
+      "party_type": "Person",
+      "full_name": "John J. A. Murphy",
+      "cited_name": "Murphy, John J.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1888-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

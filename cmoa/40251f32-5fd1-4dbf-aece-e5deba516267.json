@@ -1,0 +1,51 @@
+{
+  "title": "House for Alfred Loomis, Tuxedo Park, NY; [interior perspective]",
+  "creation_date": "1936",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "pencil and pastel on paper",
+  "accession_number": "92.176.2",
+  "id": "cmoa:things/40251f32-5fd1-4dbf-aece-e5deba516267",
+  "credit_line": "Purchase: gift of Henry J. and Drue Heinz Foundation",
+  "date_acquired": "1992-12-03",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 28.75,
+  "item_height": 20.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031444",
+  "provenance_text": "Marc Dessauce, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97467&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3b495bd2-a28d-4e1a-80fb-7985b1ad3d90",
+      "party_type": "Person",
+      "full_name": "William Lescaze",
+      "cited_name": "Lescaze, William",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1969-01-01",
+      "birth_place": "Geneva, Switzerland",
+      "death_place": "New York"
+    },
+    {
+      "artist_id": "cmoa:parties/b9193ccf-fa35-4cd4-931b-f2b49bec63d8",
+      "party_type": "Person",
+      "full_name": "Walter H. Gruber",
+      "cited_name": "Gruber, Walter H.",
+      "role": "Delineator",
+      "nationality": "American",
+      "birth_date": "1920-01-01",
+      "death_date": "1960-01-01",
+      "birth_place": "Switzerland",
+      "death_place": null
+    }
+  ]
+}

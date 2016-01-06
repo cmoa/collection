@@ -1,0 +1,49 @@
+{
+  "title": "Symbol two-quart pot #92",
+  "creation_date": "1962",
+  "creation_date_earliest": "1962-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "Aluminum, steel, plastic, and enamel",
+  "accession_number": "2014.85.9.A-.B",
+  "id": "cmoa:things/df820da9-1c9c-40bf-9675-e98eb0a5801d",
+  "credit_line": "Gift of Jewel Stern",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 14.25,
+  "item_height": 6.5,
+  "item_depth": 7.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=90990",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e2bc5434-d4f8-4608-8733-cbdfdf01b477",
+      "party_type": "Person",
+      "full_name": "Peter Muller-Munk",
+      "cited_name": "Muller-Munk, Peter",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Berlin, Germany",
+      "death_place": "Pittsburgh, PA, USA"
+    },
+    {
+      "artist_id": "cmoa:parties/8667a04a-698c-4490-a75a-6a2a3456bab2",
+      "party_type": "Organization",
+      "full_name": "Griswold Manufacturing Company",
+      "cited_name": "Griswold Manufacturing Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1865-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

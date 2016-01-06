@@ -1,0 +1,39 @@
+{
+  "title": "Delft and Brass",
+  "creation_date": "c. 1922",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1927-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "1996.41",
+  "id": "cmoa:things/a186aef5-ac53-45a3-baa2-4376c93475ca",
+  "credit_line": "Gift of Dr. Jacob Goldblum, by exchange",
+  "date_acquired": "1996-06-06",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 26.625,
+  "item_height": 28.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002138",
+  "provenance_text": "University Club [1923-], Pittsburgh, PA. Purchased by Museum, 1996.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117363&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/51b56f1b-d0b4-4912-a870-e15070a4e113",
+      "party_type": "Person",
+      "full_name": "Dines Carlsen",
+      "cited_name": "Carlsen, Dines",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1901-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "New York City (New York State, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

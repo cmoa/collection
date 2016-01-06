@@ -1,0 +1,39 @@
+{
+  "title": "The Lady on Horseback and a Landsquenet",
+  "creation_date": "c. 1497",
+  "creation_date_earliest": "1491-12-23",
+  "creation_date_latest": "1501-12-22",
+  "medium": "engraving",
+  "accession_number": "74.7.109",
+  "id": "cmoa:things/ae1b743d-b8f1-4f0d-a565-31767430da8c",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 4.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017252",
+  "provenance_text": "Kupferstichkabinett der Staatlichen Museen, Berlin (Lugt 1606).\nK. F. F. Von Nagler, Berlin 1770-1846  (Lugt 2529).\nCortland F. Bishop, New York 1870-1935 (Lugt Suppl.2770b).\nCharles J. Rosenbloom (Lugt Suppl. 633b).",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=51643&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

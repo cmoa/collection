@@ -1,0 +1,39 @@
+{
+  "title": "Tea Bowl",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1683-01-01",
+  "creation_date_latest": "1743-01-01",
+  "medium": "porcelain",
+  "accession_number": "59.26.1",
+  "id": "cmoa:things/ab42ed99-5659-4560-93d0-da6a5819a06c",
+  "credit_line": "Purchase: gift of heirs of H. J. Heinz Fund",
+  "date_acquired": "1959-03-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 2.438,
+  "item_depth": 0.0,
+  "item_diameter": 4.75,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010979",
+  "provenance_text": "Howard Hollis, OH, Cleveland",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4425&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbbc5c99-6651-483d-818e-241e0287c957",
+      "party_type": "Person",
+      "full_name": "Ogata  Kenzan",
+      "cited_name": "Kenzan, Ogata",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1663-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": " Kyoto (Kyo-to prefecture, Kinki, Japan)",
+      "death_place": " Kyoto (Kyo-to prefecture, Kinki, Japan)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Bust of Pierre Alfred Chardon-Lagache",
+  "creation_date": "1872-1873",
+  "creation_date_earliest": "1872-01-01",
+  "creation_date_latest": "1873-01-01",
+  "medium": "original plaster",
+  "accession_number": "2005.10",
+  "id": "cmoa:things/384a08b0-35e6-40d7-a19d-9a3d2fa8a6d7",
+  "credit_line": "Heinz Family Fund",
+  "date_acquired": "2005-02-03",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 21.0,
+  "item_height": 26.0,
+  "item_depth": 12.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=13474",
+  "provenance_text": "Carpeaux Studio Sale (Atelier J. -B. Carpeaux \"Sculptures Originales\"), Galerie Manzi, Joyant, Paris, 8-9 December 1913 (No. 58); A. Beurdeley Sale, Hotel Drouot, Paris, June 9, 1920; Collection Edmond Courty, Chatillon sous Bagneux, Seine (1947); Charles Janoray, LLC, New York, NY., purchased by Museum February 2005.\n\nEdited by CGK, November 2013.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=291&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c2aa689-2a9f-4414-846f-8cb6fa59c4b0",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Carpeaux",
+      "cited_name": "Carpeaux, Jean-Baptiste",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1827-01-01",
+      "death_date": "1875-01-01",
+      "birth_place": "Valenciennes (Nord, Nord-Pas-de-Calais, France)",
+      "death_place": "Courbevoie (Hauts-de-Seine department, Ile-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Samuel Harden Church",
+  "creation_date": "1924",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1924-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "24.7",
+  "id": "cmoa:things/700b17dc-2665-4db6-b415-781dd8336705",
+  "credit_line": "Purchase",
+  "date_acquired": "1924-08-06",
+  "department": "Fine Arts",
+  "physical_location": "Carnegie Music Hall and Foyer",
+  "item_width": 34.25,
+  "item_height": 40.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005153",
+  "provenance_text": "Sir William Orpen [1878-1931], until 1924; Purchased by Museum, August 6, 1924.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126424&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/44298f4c-38df-49bb-bb30-e61195491ad1",
+      "party_type": "Person",
+      "full_name": "Sir William Orpen",
+      "cited_name": "Orpen, William",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1878-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Dublin (County Dublin, Leinster, Republic of Ireland)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

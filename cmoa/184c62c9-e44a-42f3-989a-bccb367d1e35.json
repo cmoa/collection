@@ -1,0 +1,39 @@
+{
+  "title": "Lighter Later",
+  "creation_date": "2003",
+  "creation_date_earliest": "2003-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "woven paper",
+  "accession_number": "2004.11",
+  "id": "cmoa:things/184c62c9-e44a-42f3-989a-bccb367d1e35",
+  "credit_line": "Mr. and Mrs. James H. Rich Fund",
+  "date_acquired": "2004-04-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 78.0,
+  "item_height": 50.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=8427",
+  "provenance_text": "The Modern Institute, Glasgow, Scotland",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=48617&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fa63c2da-a850-44e9-b242-0353f94ba248",
+      "party_type": "Person",
+      "full_name": "Eva Rothschild",
+      "cited_name": "Rothschild, Eva",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1972-01-01",
+      "death_date": null,
+      "birth_place": "Dublin, Ireland",
+      "death_place": null
+    }
+  ]
+}

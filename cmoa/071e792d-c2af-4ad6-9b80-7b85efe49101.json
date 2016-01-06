@@ -1,0 +1,49 @@
+{
+  "title": "Chiaro II",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "glass, ceramic frit",
+  "accession_number": "2014.85.17.1",
+  "id": "cmoa:things/071e792d-c2af-4ad6-9b80-7b85efe49101",
+  "credit_line": "Gift of Jewel Stern",
+  "date_acquired": "2015-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Heinz Galleries",
+  "item_width": 7.75,
+  "item_height": 7.75,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=98622",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab73977f-bfaf-4bb8-b30e-f785cff4789f",
+      "party_type": "Organization",
+      "full_name": "Peter Muller-Munk Associates",
+      "cited_name": "Peter Muller-Munk Associates",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1946-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a858b7b2-cd16-4bc1-b0bb-e3bf54690d10",
+      "party_type": "Organization",
+      "full_name": "Pittsburgh Corning",
+      "cited_name": "Pittsburgh Corning",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

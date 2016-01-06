@@ -1,0 +1,39 @@
+{
+  "title": "Miniature Portrait of Madame Gerard",
+  "creation_date": "1810",
+  "creation_date_earliest": "1810-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "watercolor on ivory; gold frame",
+  "accession_number": "27.10.189",
+  "id": "cmoa:things/293128f0-b909-4b18-81ec-8b627e438f2a",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.0,
+  "item_height": 4.25,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005646",
+  "provenance_text": "(Clara Millard, Teddington, England); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, December 27, 1915; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927[1].\nNOTES: [1] This miniature was possibly exhibited in the 1910 Paris Salon.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4fe2826e-44ff-49dc-81f5-d2cf5fd6d8eb",
+      "party_type": "Person",
+      "full_name": "Jean François Gerard Fontallard",
+      "cited_name": "Fontallard, Jean F.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1777-01-01",
+      "death_date": "1858-01-01",
+      "birth_place": null,
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Man",
+  "creation_date": "1917",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1917-01-01",
+  "medium": "pencil",
+  "accession_number": "60.5",
+  "id": "cmoa:things/26c95794-eb1e-472c-8441-5ce1e11fd11d",
+  "credit_line": "Gift of Otto Kallir",
+  "date_acquired": "1960-02-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011345",
+  "provenance_text": "Franz Friedrich (Fritz) Grunbaum collection, Vienna, before WWII;  Mathilde Lukacs (Grunbaum's sister-in-law), Vienna and Brussels*; Gutekunst & Klipstein, Eberhard Kornfeld, gallery partner, Bern (now Galerie Kornfeld), 1956*; Galerie St. Etienne, New York, NY, 1956; gift of Otto Kalir (owner of Galerie St. Étienne) to Museum, February 1960.\n\nNote: \n*See information in curatorial file on extensive litigation regarding another Schiele drawing, which also involves a Gutekunst & Klipstein and Galerie St. Étienne provenance.  It includes claims/counter claims of legal ownership of the Grunbaum collection during/after WWII and the role of various parties, including Mathilde Lukacs and the aforementioned galleries, in its eventual disposition. \n\nUpdated by CGK\nDecember 2012",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/967448d4-0ac0-40eb-87d7-19abe4c9dced",
+      "party_type": "Person",
+      "full_name": "Egon Schiele",
+      "cited_name": "Schiele, Egon",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1890-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": "Vienna state, Austria",
+      "death_place": "Vienna, Austria"
+    }
+  ]
+}

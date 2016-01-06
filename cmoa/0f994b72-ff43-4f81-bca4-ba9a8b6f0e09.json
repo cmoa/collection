@@ -1,0 +1,39 @@
+{
+  "title": "Self-Portrait with Saskia",
+  "creation_date": "1636",
+  "creation_date_earliest": "1636-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "etching",
+  "accession_number": "74.7.205",
+  "id": "cmoa:things/0f994b72-ff43-4f81-bca4-ba9a8b6f0e09",
+  "credit_line": "Bequest of Charles J. Rosenbloom",
+  "date_acquired": "1974-02-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017365",
+  "provenance_text": "H. Danby Seymour (d. 1877) (Lugt 176); Charles J. Rosenbloom (d. 1973) (Lugt, suppl., 633b)",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128302&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt H. Van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Netherlands, Leyden",
+      "death_place": "Netherlands, Amsterdam"
+    }
+  ]
+}

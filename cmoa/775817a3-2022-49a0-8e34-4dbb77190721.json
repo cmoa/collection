@@ -1,0 +1,42 @@
+{
+  "title": "Door, Window, Table, Basket, Mirror, Rug",
+  "creation_date": "1975",
+  "creation_date_earliest": "1975-01-01",
+  "creation_date_latest": "1975-01-01",
+  "medium": "ink and graphite on paper",
+  "accession_number": "82.42",
+  "id": "cmoa:things/775817a3-2022-49a0-8e34-4dbb77190721",
+  "credit_line": "Contemporary American Drawings Fund, Patrons Art Fund, and National Endowment for the Arts",
+  "date_acquired": "1982-10-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.5,
+  "item_height": 28.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022962",
+  "provenance_text": "Contemporary American Drawings Fund, Patrons Art Fund, and the National Endowment for the Arts; Provenance: Leo Castelli Gallery, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125675&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125676&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4e85392-1b91-4429-8fe7-d8dbfdd2acb2",
+      "party_type": "Person",
+      "full_name": "Richard Artschwager",
+      "cited_name": "Artschwager, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1924-01-01",
+      "death_date": "2013-01-01",
+      "birth_place": "Washington, D.C.",
+      "death_place": null
+    }
+  ]
+}

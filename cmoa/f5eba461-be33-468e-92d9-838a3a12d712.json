@@ -1,0 +1,42 @@
+{
+  "title": "Puff box",
+  "creation_date": "1880",
+  "creation_date_earliest": "1880-01-01",
+  "creation_date_latest": "1880-01-01",
+  "medium": "silver with mixed metals",
+  "accession_number": "85.64.A-B",
+  "id": "cmoa:things/f5eba461-be33-468e-92d9-838a3a12d712",
+  "credit_line": "DuPuy Fund",
+  "date_acquired": "1985-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 3.812,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025716",
+  "provenance_text": "Richard McGeehan, Bedford Hills, NY",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2141&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=11631&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/74d4ee3e-b18f-46e9-822b-85e081a81cb5",
+      "party_type": "Organization",
+      "full_name": "Tiffany & Co.",
+      "cited_name": "Tiffany & Co.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1837-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

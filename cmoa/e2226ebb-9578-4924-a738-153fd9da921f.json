@@ -1,0 +1,54 @@
+{
+  "title": "Camille le Tellier, Abbot of Louvois, Conservator of the Royal Library",
+  "creation_date": "1697",
+  "creation_date_earliest": "1697-01-01",
+  "creation_date_latest": "1697-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.8",
+  "id": "cmoa:things/e2226ebb-9578-4924-a738-153fd9da921f",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 17.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005185",
+  "provenance_text": "Mr. Louis Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101929&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101930&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a2b3181f-c466-4fd3-be39-d8d5152a96b8",
+      "party_type": "Person",
+      "full_name": "Jean Louis Roullet",
+      "cited_name": "Roullet, Jean L.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1645-01-01",
+      "death_date": "1699-01-01",
+      "birth_place": "Arles (Bouches-du-Rhône, Provence-Alpes-Côte d'Azur, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/f68bfb30-80b9-47e0-ae51-87c32d7ba7a5",
+      "party_type": "Person",
+      "full_name": "Nicolas de Largillière",
+      "cited_name": "Largillière, Nicolas de",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1656-01-01",
+      "death_date": "1746-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

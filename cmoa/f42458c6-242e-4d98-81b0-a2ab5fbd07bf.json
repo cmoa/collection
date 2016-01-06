@@ -1,0 +1,51 @@
+{
+  "title": "Tray",
+  "creation_date": "c. 1880s",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "silver",
+  "accession_number": "1999.15.2",
+  "id": "cmoa:things/f42458c6-242e-4d98-81b0-a2ab5fbd07bf",
+  "credit_line": "Gift of Mr. and Mrs. G. William Bissell",
+  "date_acquired": "1999-04-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 15.375,
+  "item_height": 0.875,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003847",
+  "provenance_text": "John B Jackson\nto\nMary Louisa Jackson\nto \nJohn Jackson Bissell\nto \nMr. And Mrs. G. William Bissell, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8502&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bcf24541-1590-4c55-8bdd-64e3c5860f84",
+      "party_type": "Person",
+      "full_name": "Theodore Starr",
+      "cited_name": "Starr, Theodore",
+      "role": "retailer",
+      "nationality": "American",
+      "birth_date": "1875-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/add2607a-eef2-4ac2-845e-7fe96020f348",
+      "party_type": "Organization",
+      "full_name": "William B. Durgin & Co.",
+      "cited_name": "Durgin, William B. & Co. (Manufacturer)",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1853-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

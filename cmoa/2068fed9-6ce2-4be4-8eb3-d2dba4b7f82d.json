@@ -1,0 +1,63 @@
+{
+  "title": "Sheepfold",
+  "creation_date": "1781-1787",
+  "creation_date_earliest": "1781-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "etching in crayon manner",
+  "accession_number": "49.5.9",
+  "id": "cmoa:things/2068fed9-6ce2-4be4-8eb3-d2dba4b7f82d",
+  "credit_line": "Gift of Edward Duff Balken",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008757",
+  "provenance_text": "Edward Duff Balken [1874-1960], Pittsburgh, PA (Lugt 843), by June 1949; gift to Institute of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1949.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104016&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a83e0a60-55b9-42ae-9ac7-d6c1c9337a94",
+      "party_type": "Person",
+      "full_name": "Cornelis Brouwer",
+      "cited_name": "Brouwer, Cornelis",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1802-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/96bee24e-4ee6-4870-8828-e4931b9e0f35",
+      "party_type": "Person",
+      "full_name": "Karel Dujardin",
+      "cited_name": "Dujardin, Karel",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1622-01-01",
+      "death_date": "1678-01-01",
+      "birth_place": "Amsterdam (North Holland, Netherlands)",
+      "death_place": "Venice (Venezia province, Veneto, Italy)"
+    }
+  ]
+}

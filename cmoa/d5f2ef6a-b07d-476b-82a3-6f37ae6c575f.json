@@ -1,0 +1,39 @@
+{
+  "title": "Steel Mills",
+  "creation_date": "c. 1915-1920",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "oil on board",
+  "accession_number": "72.39",
+  "id": "cmoa:things/d5f2ef6a-b07d-476b-82a3-6f37ae6c575f",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "1972-10-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.0,
+  "item_height": 13.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016423",
+  "provenance_text": "Aaron Henry Gorson [1872-1933]. By conversion, to Museum, 1972 [1]. \nNOTES:1. This work was found in collections storage and accessioned in to the permanent collection in 1972.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a0585ba0-b64e-4f32-be54-74b8e1d36531",
+      "party_type": "Person",
+      "full_name": "Aaron Henry Gorson",
+      "cited_name": "Gorson, Aaron H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": "Russia",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

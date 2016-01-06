@@ -1,0 +1,39 @@
+{
+  "title": "The Old King",
+  "creation_date": "1916-1936",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1936-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "40.1",
+  "id": "cmoa:things/728c647f-2050-4885-b5bf-6b8e3886a0ae",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1940-05-09",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 21.25,
+  "item_height": 30.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007168",
+  "provenance_text": "Ambroise Vollard (1866-1939), Paris; Estate of Ambroise Vollard, 1939-1940;  purchased from the estate by Museum (Guillaume Lerolle, Paris as agent), March 1940*.\n\n*Director reported the purchase (on March 4, 1940) to Fine Arts Committee on May 9, 1940, \"in accordance with action taken at the  meeting of December 6, 1939.\"\n\nUpdated by CGK\nNovember 2014",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127765&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f7f488b0-cf82-4295-a190-7643a7718ecb",
+      "party_type": "Person",
+      "full_name": "Georges Rouault",
+      "cited_name": "Rouault, Georges",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1871-01-01",
+      "death_date": "1958-01-01",
+      "birth_place": "Paris, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

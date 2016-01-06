@@ -1,0 +1,39 @@
+{
+  "title": "Benjamin Franklin",
+  "creation_date": "c. 1840-1850",
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "Porcelain",
+  "accession_number": "66.16.1",
+  "id": "cmoa:things/40c76059-7966-44d4-8d92-bdb2f0ba5ab4",
+  "credit_line": "Gift of Mabel Lindsay Gillespie",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 15.688,
+  "item_depth": 5.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012212",
+  "provenance_text": "Mabel Lindsay Gillespie, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1948&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",
+      "party_type": "Person",
+      "full_name": "unknown English, Staffordshire",
+      "cited_name": "unknown English, Staffordshire",
+      "role": null,
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

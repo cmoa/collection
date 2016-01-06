@@ -1,0 +1,51 @@
+{
+  "title": "The Old Woman Abandoned in the Hills",
+  "creation_date": "1900",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.834",
+  "id": "cmoa:things/bbe793a5-8617-482e-ab26-30fbed8a220f",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.625,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029002",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from R. E. Lewis, Inc., San Rafael, CA., 11/5/1979.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=35380&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ad455cc4-2eb6-4068-b013-f4571f370348",
+      "party_type": "Person",
+      "full_name": "Tsukioka Kōgyo",
+      "cited_name": "Tsukioka Kōgyo",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1869-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e69b59b3-fadf-4ad5-9c15-931b97e146d5",
+      "party_type": "Person",
+      "full_name": "Matsuki Heikichi",
+      "cited_name": "Matsuki Heikichi",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1890-01-01",
+      "death_date": "1920-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

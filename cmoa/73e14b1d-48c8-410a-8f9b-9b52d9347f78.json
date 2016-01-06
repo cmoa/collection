@@ -1,0 +1,51 @@
+{
+  "title": "Scroll, Monkey Painting",
+  "creation_date": "1747-1821",
+  "creation_date_earliest": "1747-01-01",
+  "creation_date_latest": "1821-01-01",
+  "medium": "linen, ivory, wood, and paint",
+  "accession_number": "63.15.3",
+  "id": "cmoa:things/73e14b1d-48c8-410a-8f9b-9b52d9347f78",
+  "credit_line": "Gift of Merlin C. Hamilton",
+  "date_acquired": "1963-10-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011627",
+  "provenance_text": "Merlin C. Hamilton, Pittsburgh,PA",
+  "classification": "Textiles",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126360&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": "attributed to",
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9c64e7c7-5c33-450b-8e2a-e2536e89ea82",
+      "party_type": "Person",
+      "full_name": "Mori Sosen",
+      "cited_name": "Mori Sosen",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1721-01-01",
+      "death_date": "1821-01-01",
+      "birth_place": null,
+      "death_place": "Osaku, Japan"
+    }
+  ]
+}

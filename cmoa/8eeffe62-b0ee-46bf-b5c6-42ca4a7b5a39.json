@@ -1,0 +1,54 @@
+{
+  "title": "A Dell, Helmingham Park, Suffolk",
+  "creation_date": "1830",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1830-01-01",
+  "medium": "mezzotint",
+  "accession_number": "16.22.9",
+  "id": "cmoa:things/8eeffe62-b0ee-46bf-b5c6-42ca4a7b5a39",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": "1916-04-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001130",
+  "provenance_text": "Basil Dighton, 3 Savile Row, W. London, England",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110848&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110849&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0fd52346-5b21-4c2e-aa07-a2d7c99e4954",
+      "party_type": "Person",
+      "full_name": "David Lucas",
+      "cited_name": "Lucas, David",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1802-01-01",
+      "death_date": "1881-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7b5884a6-e061-4a27-9e87-b2ff41d8b288",
+      "party_type": "Person",
+      "full_name": "John Constable",
+      "cited_name": "Constable, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1776-01-01",
+      "death_date": "1837-01-01",
+      "birth_place": "East Bergholt (Suffolk, England, United Kingdom)",
+      "death_place": "Hampstead (Greater London, England, United Kingdom)"
+    }
+  ]
+}

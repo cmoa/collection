@@ -1,0 +1,39 @@
+{
+  "title": "Plate",
+  "creation_date": "1878-1889",
+  "creation_date_earliest": "1878-01-01",
+  "creation_date_latest": "1889-01-01",
+  "medium": "porcelain with enameled and gilded decoration",
+  "accession_number": "2011.51",
+  "id": "cmoa:things/9f37b127-8be4-4151-9844-0fb9c0834e60",
+  "credit_line": "Purchase: Gift of Sybil A. Pickett Charitable Trust",
+  "date_acquired": "2011-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.875,
+  "item_depth": 0.0,
+  "item_diameter": 9.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=93751",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=110868&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2554962f-d315-4731-b2c6-ee68f54ec1c5",
+      "party_type": "Person",
+      "full_name": "Joseph S. Potter",
+      "cited_name": "Potter, Joseph S.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1822-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

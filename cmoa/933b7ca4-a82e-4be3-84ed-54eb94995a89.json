@@ -1,0 +1,54 @@
+{
+  "title": "Vase",
+  "creation_date": "1866",
+  "creation_date_earliest": "1866-01-01",
+  "creation_date_latest": "1866-01-01",
+  "medium": "terracotta with enamel and gilded decoration",
+  "accession_number": "92.167",
+  "id": "cmoa:things/933b7ca4-a82e-4be3-84ed-54eb94995a89",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1992-12-03",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 4.25,
+  "item_depth": 0.0,
+  "item_diameter": 4.875,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031371",
+  "provenance_text": "Haslam & Whiteway, London, England",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97578&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1152&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56810fc5-62d4-46b7-835e-2934376935aa",
+      "party_type": "Person",
+      "full_name": "Christopher Dresser",
+      "cited_name": "Dresser, Christopher",
+      "role": "designer",
+      "nationality": "British",
+      "birth_date": "1834-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "Glasgow",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eff7a010-f38d-4a7d-bd64-285a87d83522",
+      "party_type": "Organization",
+      "full_name": "Minton & Co.",
+      "cited_name": "Minton & Co.",
+      "role": "manufacturer",
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Benjamin Franklin",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.293",
+  "id": "cmoa:things/db44446e-0a62-4144-8c97-eeb2ea4c5f40",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012885",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108284&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/804d2fd9-b541-4c8c-b077-b5f5d0e82c28",
+      "party_type": "Person",
+      "full_name": "Samuel J. Woolf",
+      "cited_name": "Woolf, Samuel J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1880-01-01",
+      "death_date": "1948-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

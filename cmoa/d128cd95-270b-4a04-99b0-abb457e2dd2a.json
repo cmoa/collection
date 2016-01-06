@@ -1,0 +1,39 @@
+{
+  "title": "Country Scene",
+  "creation_date": "c.1940-1950",
+  "creation_date_earliest": "1917-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "wood engraving on paper",
+  "accession_number": "69.48.46",
+  "id": "cmoa:things/d128cd95-270b-4a04-99b0-abb457e2dd2a",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012913",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108216&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d5664e6c-a41b-4b99-89ca-8170356e88bd",
+      "party_type": "Person",
+      "full_name": "Asa Cheffetz",
+      "cited_name": "Cheffetz, Asa",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Dalton",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "94.158",
+  "id": "cmoa:things/3b1b8c93-5c64-4d58-9d85-445e1c647e19",
+  "credit_line": "Gift of Michael and Sherle Berger",
+  "date_acquired": "1994-09-22",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 54.0,
+  "item_height": 56.0,
+  "item_depth": 2.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1034153",
+  "provenance_text": "Gift of Michael and Sherle Berger, Pittsburgh, PA, 1994.",
+  "classification": "paintings",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd0e33d6-bb97-4509-9d68-eb3e6fcb28e0",
+      "party_type": "Person",
+      "full_name": "Deborah Williams Remington",
+      "cited_name": "Remington, Deborah W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1930-01-01",
+      "death_date": null,
+      "birth_place": "Haddonfield (Camden county, New Jersey, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "engraved glass",
+  "accession_number": "89.27.36.2",
+  "id": "cmoa:things/b8f83e3a-9908-471a-9936-05b0e2c43823",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 7.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026679",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2749&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c66ceeb3-c0fd-4dbd-9260-b85ce12543bf",
+      "party_type": "Person",
+      "full_name": "Viktor Lindstrand",
+      "cited_name": "Lindstrand, Viktor",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1904-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Gothenburg, Sweden",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8987cae5-7610-47ec-96f8-cb4f9fc6cceb",
+      "party_type": "Organization",
+      "full_name": "Orrefors Glassworks",
+      "cited_name": "Orrefors Glassworks",
+      "role": null,
+      "nationality": "Swedish",
+      "birth_date": "1898-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

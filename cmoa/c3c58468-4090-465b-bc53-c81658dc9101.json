@@ -1,0 +1,39 @@
+{
+  "title": "Mekong Delta",
+  "creation_date": "1970",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1970-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "70.52.3",
+  "id": "cmoa:things/c3c58468-4090-465b-bc53-c81658dc9101",
+  "credit_line": "Purchase: gift of the Women's Committee",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 48.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015862",
+  "provenance_text": "Betty Parsons Gallery, NYC",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=106495&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e5c51001-bd7a-46bf-9fdb-1dd46af5822a",
+      "party_type": "Person",
+      "full_name": "Saul Steinberg",
+      "cited_name": "Steinberg, Saul",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1914-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": "Bucharest (Bucuresti municipality, Romania)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

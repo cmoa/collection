@@ -1,0 +1,37 @@
+{
+  "title": "Portrait of Cézanne",
+  "creation_date": "1914",
+  "creation_date_earliest": "1914-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "transfer lithograph on paper",
+  "accession_number": "74.41.3",
+  "id": "cmoa:things/596c6e80-2c4d-4edf-86ea-25eab0df9f9a",
+  "credit_line": "Director's Discretionary Fund",
+  "date_acquired": "1974-10-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017001",
+  "provenance_text": "Klein-Vogel, Royal Oak, Michigan",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbe8bcac-78aa-4681-8d9e-2bd63de3c8a8",
+      "party_type": "Person",
+      "full_name": "Edouard Vuillard",
+      "cited_name": "Vuillard, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1868-11-11",
+      "death_date": "1940-06-21",
+      "birth_place": "Cuiseaux (Saône-et-Loire, Burgundy region, France)",
+      "death_place": "Baule, la (Loire-Atlantique, Pays de la Loire, France)"
+    }
+  ]
+}

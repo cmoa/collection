@@ -1,0 +1,39 @@
+{
+  "title": "Vessel",
+  "creation_date": "2010",
+  "creation_date_earliest": "2010-01-01",
+  "creation_date_latest": "2010-01-01",
+  "medium": "porcelain",
+  "accession_number": "2013.5",
+  "id": "cmoa:things/2f310b78-89d2-4e79-a84c-ab9fc5608f83",
+  "credit_line": "Purchase: Gift of Deena and Jerome Kaplan",
+  "date_acquired": "2013-02-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 7.5,
+  "item_height": 5.75,
+  "item_depth": 4.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=100430",
+  "provenance_text": null,
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127640&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/156354e6-56b8-4128-85c8-49e2696e8506",
+      "party_type": "Person",
+      "full_name": "Henk Wolvers",
+      "cited_name": "Wolvers, Henk",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

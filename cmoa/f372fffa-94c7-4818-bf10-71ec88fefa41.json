@@ -1,0 +1,39 @@
+{
+  "title": "Tea urn",
+  "creation_date": "1762-1763",
+  "creation_date_earliest": "1762-01-01",
+  "creation_date_latest": "1763-01-01",
+  "medium": "silver, sterling standard, and unidentified wood",
+  "accession_number": "48.1.1.A-C",
+  "id": "cmoa:things/f372fffa-94c7-4818-bf10-71ec88fefa41",
+  "credit_line": "Gift of Eleanore E. Stoney and Mary L. Edwards",
+  "date_acquired": "1948-01-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 16.75,
+  "item_depth": 11.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008132",
+  "provenance_text": null,
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2297&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4ec4cbb8-ca42-40b7-a73a-3d1ca0837491",
+      "party_type": "Person",
+      "full_name": "Thomas Pitts I",
+      "cited_name": "Pitts, Thomas",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1758-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

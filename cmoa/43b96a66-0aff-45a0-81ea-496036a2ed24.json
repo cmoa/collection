@@ -1,0 +1,39 @@
+{
+  "title": "Drawing No. 21 (Study for Rose and Blanche)",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "chalk, black, white and red on paper",
+  "accession_number": "16.27.10",
+  "id": "cmoa:things/43b96a66-0aff-45a0-81ea-496036a2ed24",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 16.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001170",
+  "provenance_text": "Martin Birnbaum, New York, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99171&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/460360f4-5580-4d28-b625-822b38a1877c",
+      "party_type": "Person",
+      "full_name": "Charles H. Shannon",
+      "cited_name": "Shannon, Charles H.",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1863-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": "Quarrington (Lincolnshire, England, United Kingdom)",
+      "death_place": "Kew (Greater London, England, United Kingdom)"
+    }
+  ]
+}

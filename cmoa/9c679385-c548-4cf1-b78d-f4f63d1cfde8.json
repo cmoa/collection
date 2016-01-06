@@ -1,0 +1,39 @@
+{
+  "title": "Charger",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "earthenware with luster glaze decoration",
+  "accession_number": "2007.42",
+  "id": "cmoa:things/9c679385-c548-4cf1-b78d-f4f63d1cfde8",
+  "credit_line": "Alexander C. and Tillie S. Speyer Fund",
+  "date_acquired": "2007-10-04",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Hall of Sculpture Balcony",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 13.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=45507",
+  "provenance_text": "Lillian Nassau, LLC.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=56792&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e63c1a94-f49b-4f65-bacc-91121f5780e4",
+      "party_type": "Person",
+      "full_name": "Clément Massier",
+      "cited_name": "Massier, Clément",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1845-01-01",
+      "death_date": "1917-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

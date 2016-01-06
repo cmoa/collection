@@ -1,0 +1,39 @@
+{
+  "title": "Robert Motherwell",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "81.111.4",
+  "id": "cmoa:things/9338a808-e886-43d8-b4fa-5b010ab0360c",
+  "credit_line": "Gift of Stephanie and Norman Flesch",
+  "date_acquired": "1982-02-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021556",
+  "provenance_text": "Arthur Mones, NYC",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=12852&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6832a582-19bb-470f-8f1d-d7ba0bcf41b4",
+      "party_type": "Person",
+      "full_name": "Arthur Mones",
+      "cited_name": "Mones, Arthur",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1919-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

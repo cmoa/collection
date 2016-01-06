@@ -1,0 +1,39 @@
+{
+  "title": "Bob, the Vigilant Fire Company's Dog",
+  "creation_date": "1863",
+  "creation_date_earliest": "1863-01-01",
+  "creation_date_latest": "1863-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "69.43.13",
+  "id": "cmoa:things/844d439a-eeae-4639-a62a-cfc1aa973f59",
+  "credit_line": "By Appropriation",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 52.0,
+  "item_height": 36.5,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012586",
+  "provenance_text": "Vigilan Fire Company, Pittsburgh; George Mashey, Pittsburgh, by 1879; in museum storage until accessioned, 1969; By appropriation, 1969",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19519&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1ce9bc32-b7f3-42c0-9348-1f463df13051",
+      "party_type": "Person",
+      "full_name": "H. Rebele",
+      "cited_name": "Rebele, H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

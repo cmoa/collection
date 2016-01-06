@@ -1,0 +1,39 @@
+{
+  "title": "Untitled No. 26",
+  "creation_date": "1973",
+  "creation_date_earliest": "1973-01-01",
+  "creation_date_latest": "1973-01-01",
+  "medium": "acrylic on canvas",
+  "accession_number": "1997.30.14",
+  "id": "cmoa:things/09f9a0e4-78a1-471c-ae0a-cb992218ff3d",
+  "credit_line": "Gift of Lannan Foundation",
+  "date_acquired": "1997-06-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 56.25,
+  "item_height": 92.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003251",
+  "provenance_text": "Lannan Foundation, Los Angeles, CA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=37210&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/563a27d0-c0d4-42f1-b586-e242437c0f8f",
+      "party_type": "Person",
+      "full_name": "Larry Poons",
+      "cited_name": "Poons, Larry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1937-01-01",
+      "death_date": null,
+      "birth_place": "Tokyo (Tokyo metropolis, Kanto, Japan)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Dish and Stand",
+  "creation_date": "18th-19th century",
+  "creation_date_earliest": "1750-01-01",
+  "creation_date_latest": "1850-01-01",
+  "medium": "porcelain",
+  "accession_number": "89.27.28.A-B",
+  "id": "cmoa:things/dc13efae-80cb-4338-980e-09c000cc0e94",
+  "credit_line": "Bequest of Harlan E. Youel",
+  "date_acquired": "1989-12-07",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.375,
+  "item_height": 8.188,
+  "item_depth": 3.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026669",
+  "provenance_text": "Harlan E. Youel",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3762&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",
+      "party_type": "Person",
+      "full_name": "unknown Japanese",
+      "cited_name": "unknown Japanese",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

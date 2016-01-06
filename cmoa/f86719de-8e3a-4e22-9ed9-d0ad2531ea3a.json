@@ -1,0 +1,39 @@
+{
+  "title": "Golden Chaos II",
+  "creation_date": "c. 2000",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "2003-01-01",
+  "medium": "glass",
+  "accession_number": "2008.70.17",
+  "id": "cmoa:things/f86719de-8e3a-4e22-9ed9-d0ad2531ea3a",
+  "credit_line": "Bequest of Maxine H. Block",
+  "date_acquired": "2008-10-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 7.75,
+  "item_depth": 8.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61771",
+  "provenance_text": "Purchased from the Rosenfield Gallery, Chicago 10/26/94",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68858&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2f2f0da5-a8da-409d-b875-09949549691f",
+      "party_type": "Person",
+      "full_name": "Toots Zynsky",
+      "cited_name": "Zynsky, Toots",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1951-01-01",
+      "death_date": null,
+      "birth_place": "Boston, Massachusetts",
+      "death_place": null
+    }
+  ]
+}

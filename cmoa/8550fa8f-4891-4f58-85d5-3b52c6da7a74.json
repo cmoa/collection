@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": "1639",
+  "creation_date_earliest": "1639-01-01",
+  "creation_date_latest": "1639-01-01",
+  "medium": "oil on panel",
+  "accession_number": "64.11.22",
+  "id": "cmoa:things/8550fa8f-4891-4f58-85d5-3b52c6da7a74",
+  "credit_line": "Bequest of Howard A. Noble",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.5,
+  "item_height": 27.0,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011719",
+  "provenance_text": "Abraham Preyer, The Hague, 1890?. Private Collection, Germany. Kurt Walter Bachstitz [1882-1949], The Hague. Howard A. Noble [1874-1964], until 1964. Gift to Museum, May 1964.\n\nNotes: In 1944, the painting hung in a bedroom of the Noble residence at 1245 Shady Avenue, Pittsburgh, PA.\n\nUnder review by CGK",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126433&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fcb908be-23de-4dcc-b799-80e52d17227b",
+      "party_type": "Person",
+      "full_name": "Jan Anthonisz. van Ravesteyn",
+      "cited_name": "Ravesteyn, Jan A. van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1570-01-01",
+      "death_date": "1657-01-01",
+      "birth_place": "The Hague, Netherlands",
+      "death_place": "The Hague, Netherlands"
+    }
+  ]
+}

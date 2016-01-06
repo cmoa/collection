@@ -1,0 +1,42 @@
+{
+  "title": "Paysage-Troupeau de Porcs",
+  "creation_date": "1849",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1849-01-01",
+  "medium": "etching",
+  "accession_number": "16.26.4",
+  "id": "cmoa:things/f417a99d-0fb6-4eb5-ad26-4911eac501f2",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001165",
+  "provenance_text": "Frederick Keppel & Co",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105010&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105011&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/df41cb07-590c-4341-8dc5-1d2aff9e851c",
+      "party_type": "Person",
+      "full_name": "Charles Émile Jacque",
+      "cited_name": "Jacque, Charles Émile",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1813-01-01",
+      "death_date": "1894-01-01",
+      "birth_place": " Paris (Ville de Paris department, Île-de-France, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

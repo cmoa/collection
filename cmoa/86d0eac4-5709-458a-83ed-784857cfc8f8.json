@@ -1,0 +1,42 @@
+{
+  "title": "August 12, 1961",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "oil, brush and ink, graphite and gouache on paper",
+  "accession_number": "61.43",
+  "id": "cmoa:things/86d0eac4-5709-458a-83ed-784857cfc8f8",
+  "credit_line": "Gift of Candida Smith (daughter of the artist)",
+  "date_acquired": "1961-11-29",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.0,
+  "item_height": 30.75,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011443",
+  "provenance_text": "The artist, David Smith, Bolton Landing, New York, until 1961; the artist's daughter, Candida Smith, Bolton Landing, New York; gift of Candida Smith, 1961.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126448&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126449&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a826d799-df37-41ba-8320-524028649d84",
+      "party_type": "Person",
+      "full_name": "David Smith",
+      "cited_name": "Smith, David",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1965-01-01",
+      "birth_place": "Decatur (Adams county, Indiana, United States)",
+      "death_place": "Bennington (Bennington county, Vermont, United States)"
+    }
+  ]
+}

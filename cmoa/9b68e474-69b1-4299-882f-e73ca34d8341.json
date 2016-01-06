@@ -1,0 +1,39 @@
+{
+  "title": "Nude (Ratai)",
+  "creation_date": "c. 1920",
+  "creation_date_earliest": "1915-01-01",
+  "creation_date_latest": "1925-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1",
+  "id": "cmoa:things/9b68e474-69b1-4299-882f-e73ca34d8341",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 8.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027702",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34153&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a213a64e-ec33-45aa-882c-06cbecd0d876",
+      "party_type": "Person",
+      "full_name": "Akasawa Etsutarô",
+      "cited_name": "Akasawa Etsutarô",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1920-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

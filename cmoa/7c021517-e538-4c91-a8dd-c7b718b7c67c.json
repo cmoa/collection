@@ -1,0 +1,39 @@
+{
+  "title": "Chestnut Sellers in Rome",
+  "creation_date": "c. 1759-1765",
+  "creation_date_earliest": "1759-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "red chalk",
+  "accession_number": "76.49.2",
+  "id": "cmoa:things/7c021517-e538-4c91-a8dd-c7b718b7c67c",
+  "credit_line": "Gift of Dr. and Mrs. Daniel Fishkoff",
+  "date_acquired": "1976-12-09",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018145",
+  "provenance_text": " From the Sergogne collection:   Dr. And Mrs. Daniel Fishkoff, Colonia, NJ;",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99474&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d2d467f2-bcdd-4efd-8759-1fc7d86315ce",
+      "party_type": "Person",
+      "full_name": "Jacques-François Amand",
+      "cited_name": "Amand, Jacques-François",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1730-01-01",
+      "death_date": "1769-01-01",
+      "birth_place": "France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Head of an Old Woman",
+  "creation_date": "1874",
+  "creation_date_earliest": "1874-01-01",
+  "creation_date_latest": "1874-01-01",
+  "medium": "Etching",
+  "accession_number": "81.59.3",
+  "id": "cmoa:things/369a6f06-7f27-4ac7-9b2b-b944235556e3",
+  "credit_line": "Gift of Edith and Milton Lowenthal",
+  "date_acquired": "1981-10-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021962",
+  "provenance_text": "Gift of Edith and Milton Lowenthal, New York, NY, 1981.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=104800&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10725a4a-3891-453c-b818-0fdbc4ea85d2",
+      "party_type": "Person",
+      "full_name": "Wilhelm Leibl",
+      "cited_name": "Leibl, Wilhelm",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1844-01-01",
+      "death_date": "1900-01-01",
+      "birth_place": "Cologne, Germany",
+      "death_place": "Würzburg, Germany"
+    }
+  ]
+}

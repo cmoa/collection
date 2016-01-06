@@ -1,0 +1,39 @@
+{
+  "title": "Table spoon",
+  "creation_date": "c. 1854",
+  "creation_date_earliest": "1849-01-01",
+  "creation_date_latest": "1859-01-01",
+  "medium": "silver",
+  "accession_number": "82.20",
+  "id": "cmoa:things/fccb91ca-b749-4b4b-a030-264fd9420b23",
+  "credit_line": "Gift of Mr. and Mrs. J. Judson Brooks",
+  "date_acquired": "1982-04-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 9.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1022288",
+  "provenance_text": "Mr. and Mrs. J. Judson Brooks",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6313&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/518c9d62-b7c5-4e38-a470-0d93f16e0efb",
+      "party_type": "Person",
+      "full_name": "John Wallace",
+      "cited_name": "Wallace, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1850-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

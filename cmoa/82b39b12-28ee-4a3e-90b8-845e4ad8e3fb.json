@@ -1,0 +1,63 @@
+{
+  "title": "Pavillon Nomade I",
+  "creation_date": "2014",
+  "creation_date_earliest": "2014-01-01",
+  "creation_date_latest": "2014-01-01",
+  "medium": "Numeric inkjet print on Photo Rag Hahnemûhle paper",
+  "accession_number": "2014.54.4",
+  "id": "cmoa:things/82b39b12-28ee-4a3e-90b8-845e4ad8e3fb",
+  "credit_line": "Mr. and Mrs. William Boyd,  Jr. Fund",
+  "date_acquired": "2014-10-30",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107069",
+  "provenance_text": null,
+  "classification": "architectural drawings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=134982&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/283c8866-df40-4611-bb26-513eb60de96d",
+      "party_type": "Organization",
+      "full_name": "Jakob + MacFarlane",
+      "cited_name": "Jakob + MacFarlane",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1992-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b2a2a66f-301c-457d-99a3-c08b383b10af",
+      "party_type": "Person",
+      "full_name": "Dominique Jakob",
+      "cited_name": "Jakob, Dominique",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/41574ea0-4aa3-42c0-b8a1-e2562184a657",
+      "party_type": "Person",
+      "full_name": "Brendan Macfarlane",
+      "cited_name": "Macfarlane, Brendan",
+      "role": null,
+      "nationality": "New Zealander",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

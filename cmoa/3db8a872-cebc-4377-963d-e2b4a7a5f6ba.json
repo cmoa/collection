@@ -1,0 +1,39 @@
+{
+  "title": "Diana/New York",
+  "creation_date": "1949",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1949-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "80.34.10",
+  "id": "cmoa:things/3db8a872-cebc-4377-963d-e2b4a7a5f6ba",
+  "credit_line": "Gift of Mr. and Mrs. Eugene S. Cohen in honor of Leon Anthony Arkus",
+  "date_acquired": "1980-10-09",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 6.375,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021144",
+  "provenance_text": "Mr. And Mrs. Eugene S. Cohen, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103557&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66156b1f-704f-4f4a-8927-37224be77b7b",
+      "party_type": "Person",
+      "full_name": "Elliott Erwitt",
+      "cited_name": "Erwitt, Elliott",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1928-01-01",
+      "death_date": null,
+      "birth_place": "Paris, France",
+      "death_place": null
+    }
+  ]
+}

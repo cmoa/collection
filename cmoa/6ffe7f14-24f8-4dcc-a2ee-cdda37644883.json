@@ -1,0 +1,39 @@
+{
+  "title": "Mexican Girl",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.1",
+  "id": "cmoa:things/6ffe7f14-24f8-4dcc-a2ee-cdda37644883",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012781",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107834&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/20d6806b-b748-47be-8927-f771da311b6a",
+      "party_type": "Person",
+      "full_name": "Ignacio Aguirre",
+      "cited_name": "Aguirre, Ignacio",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1900-01-01",
+      "death_date": "1990-01-01",
+      "birth_place": "San Sebastián, Jalisco, Mexico",
+      "death_place": "Mexico City, Mexico"
+    }
+  ]
+}

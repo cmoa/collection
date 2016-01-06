@@ -1,0 +1,39 @@
+{
+  "title": "Kishijôten",
+  "creation_date": "1974",
+  "creation_date_earliest": "1974-01-01",
+  "creation_date_latest": "1974-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1197",
+  "id": "cmoa:things/24a49429-f039-4732-950f-a7c29171b1da",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026975",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=32888&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f640e7d6-d649-4a9a-80e4-212a656061b9",
+      "party_type": "Person",
+      "full_name": "Sasajima Kihei",
+      "cited_name": "Sasajima, Kihei",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1906-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    }
+  ]
+}

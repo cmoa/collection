@@ -1,0 +1,39 @@
+{
+  "title": "Hauling the Net",
+  "creation_date": null,
+  "creation_date_earliest": "1908-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.271",
+  "id": "cmoa:things/7cc484fa-bb5c-43ea-93a7-c66e40d5ae54",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012860",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=108008&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2b4a44d1-f2a1-482e-bb06-151530b0fb4f",
+      "party_type": "Person",
+      "full_name": "Robert Von Neumann",
+      "cited_name": "Von Neumann, Robert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1888-01-01",
+      "death_date": "1976-01-01",
+      "birth_place": "Rostock (Rostock district, Mecklenburg-Vorpommern, Germany)",
+      "death_place": "Milwaukee, WI"
+    }
+  ]
+}

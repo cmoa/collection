@@ -1,0 +1,51 @@
+{
+  "title": "Kagurazaka",
+  "creation_date": "9/25/1929",
+  "creation_date_earliest": "1929-09-25",
+  "creation_date_latest": "1929-09-25",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.189.2",
+  "id": "cmoa:things/fb157471-fbc3-42cc-908f-f78fe25bbf92",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 19.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027675",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPrint acquired by Dr. Austin from T.Z. Shiota Gallery, San Francisco, CA., 9/14/1967.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e54be372-1eff-4100-93a2-fd63ee45222c",
+      "party_type": "Person",
+      "full_name": "Henmi Takashi",
+      "cited_name": "Henmi Takashi",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1895-01-01",
+      "death_date": "1944-01-01",
+      "birth_place": "Japan, Yakayama",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9fbc6c89-34e2-4c9d-9cae-b6279f0a7ceb",
+      "party_type": "Person",
+      "full_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "cited_name": "Nakajima Jûtarô of Sôsaku-Hanga Club",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Louis 20 Arm chair",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "polished aluminum and blown polypropylene",
+  "accession_number": "2000.16",
+  "id": "cmoa:things/f2f6c3a8-1254-4993-b9fc-aeb9ca72ca3e",
+  "credit_line": "Purchase: gift of Marilyn P. and Thomas J. Donnelly in honor of Phillip M. Johnston, by exchange",
+  "date_acquired": "2000-04-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 23.5,
+  "item_height": 32.5,
+  "item_depth": 23.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003996",
+  "provenance_text": "Vitra Ag, Easton, Maryland; Gift of Marilyn P. and Thomas J. Donnelly in honor of Phillip M. Johnston, by exchange",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=55057&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c8cce870-88ea-477d-9490-bee896951798",
+      "party_type": "Person",
+      "full_name": "Philippe Starck",
+      "cited_name": "Starck, Philippe",
+      "role": "designer",
+      "nationality": "French",
+      "birth_date": "1949-01-01",
+      "death_date": null,
+      "birth_place": "Paris",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1c430cba-f2f6-44a8-97dd-8d885f056450",
+      "party_type": "Organization",
+      "full_name": "Vitra AG",
+      "cited_name": "Vitra AG",
+      "role": "manufacturer",
+      "nationality": "Swiss",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

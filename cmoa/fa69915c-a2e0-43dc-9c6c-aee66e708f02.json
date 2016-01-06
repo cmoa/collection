@@ -1,0 +1,42 @@
+{
+  "title": "The Honorable Richard Biddle",
+  "creation_date": "1828",
+  "creation_date_earliest": "1828-01-01",
+  "creation_date_latest": "1828-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "60.31",
+  "id": "cmoa:things/fa69915c-a2e0-43dc-9c6c-aee66e708f02",
+  "credit_line": "Gift of Dr. James D. Heard",
+  "date_acquired": "1960-09-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.5,
+  "item_height": 30.0,
+  "item_depth": 4.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011201",
+  "provenance_text": "Edith McIlvaine Heard, Pittsburgh, by 1921; Dr. James D. Heard, her husband, Pittsburgh; gift to museum, 1960.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119166&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=267&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c46d6f9f-be22-471a-b033-555023f71405",
+      "party_type": "Person",
+      "full_name": "Thomas Sully",
+      "cited_name": "Sully, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1783-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": "Horncastle (Lincolnshire, England, United Kingdom)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

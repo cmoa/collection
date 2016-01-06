@@ -1,0 +1,51 @@
+{
+  "title": "Capital (formerly from the portico of the Boston State House, MA, Boston)",
+  "creation_date": "c. 1796",
+  "creation_date_earliest": "1791-01-01",
+  "creation_date_latest": "1801-01-01",
+  "medium": "painted wood, lead flashing",
+  "accession_number": "73.47",
+  "id": "cmoa:things/8a7bde78-2258-4eb1-a96d-27412c9e7970",
+  "credit_line": "Gift of Robert C. Eldred Company, Inc.",
+  "date_acquired": "1973-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 40.0,
+  "item_height": 30.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016746",
+  "provenance_text": "Robert C. Eldred Co., Inc., East Dennis, MA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9219&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/291f1480-4fc6-4297-9a77-5ae8d49dd685",
+      "party_type": "Person",
+      "full_name": "Charles Bulfinch",
+      "cited_name": "Bulfinch, Charles",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1763-01-01",
+      "death_date": "1844-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1b7a4943-4571-49f9-b297-bc5577d214ea",
+      "party_type": "Person",
+      "full_name": "Simeon Skillin",
+      "cited_name": "Skillin, Simeon",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1756-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

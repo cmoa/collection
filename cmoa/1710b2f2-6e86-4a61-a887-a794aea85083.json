@@ -1,0 +1,39 @@
+{
+  "title": "(Overview: View of Oakland with St. Paul's Cathedral)",
+  "creation_date": "1953",
+  "creation_date_earliest": "1953-01-01",
+  "creation_date_latest": "1953-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "85.4.91",
+  "id": "cmoa:things/1710b2f2-6e86-4a61-a887-a794aea85083",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1985-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.625,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025641",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9019&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/93ddc4ce-721e-410a-912f-1362637135ca",
+      "party_type": "Person",
+      "full_name": "Clyde Hare",
+      "cited_name": "Hare, Clyde",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": "2009-01-01",
+      "birth_place": "Bloomington, Indiana",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Table",
+  "creation_date": "c. 1899",
+  "creation_date_earliest": "1894-01-01",
+  "creation_date_latest": "1904-01-01",
+  "medium": "copper and brass",
+  "accession_number": "92.101",
+  "id": "cmoa:things/b9fcf377-f133-4d0b-9d65-c9d2e3e5ca43",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1992-10-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 19.25,
+  "item_height": 26.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030104",
+  "provenance_text": "H. Blairman & Sons, London, England",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96875&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96874&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8707&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8d376fd-8505-40ce-aacb-ff939a903dfb",
+      "party_type": "Person",
+      "full_name": "William Arthur Smith Benson",
+      "cited_name": "Benson, William Arthur Smith",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1854-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

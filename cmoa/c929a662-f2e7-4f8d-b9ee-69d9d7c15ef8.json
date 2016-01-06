@@ -1,0 +1,54 @@
+{
+  "title": "Libbey-Owens-Ford Co. Building, Toledo, Ohio; [model]",
+  "creation_date": "c. 1957",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1962-01-01",
+  "medium": "plastic, metal, wood, foam, and flocking",
+  "accession_number": "1998.55",
+  "id": "cmoa:things/c929a662-f2e7-4f8d-b9ee-69d9d7c15ef8",
+  "credit_line": "Gift of Ruth Conrad",
+  "date_acquired": "1998-10-08",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 36.75,
+  "item_height": 32.25,
+  "item_depth": 28.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003786",
+  "provenance_text": "Ruth Conrad, Jersey City, NJ",
+  "classification": "architectural models",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126169&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=13219&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/66bb81ea-a0e7-404c-b75c-b6687cf26f30",
+      "party_type": "Organization",
+      "full_name": "Skidmore, Owings and Merrill",
+      "cited_name": "Skidmore, Owings and Merrill",
+      "role": "architects",
+      "nationality": "American",
+      "birth_date": "1939-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/107e3570-73c4-4fc9-9f38-6acfdc14498e",
+      "party_type": "Person",
+      "full_name": "Theodore Conrad",
+      "cited_name": "Conrad, Theodore",
+      "role": "modelmaker",
+      "nationality": "American",
+      "birth_date": "1910-01-01",
+      "death_date": "1994-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

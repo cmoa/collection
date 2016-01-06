@@ -1,0 +1,42 @@
+{
+  "title": "The Gorge",
+  "creation_date": "1899",
+  "creation_date_earliest": "1899-01-01",
+  "creation_date_latest": "1899-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "16.4",
+  "id": "cmoa:things/3a8813c0-7176-4d4f-91fd-aab46d4e3936",
+  "credit_line": "Purchase",
+  "date_acquired": "1916-01-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 6, Scaife Galleries",
+  "item_width": 30.25,
+  "item_height": 20.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1001303",
+  "provenance_text": "Joseph R. Woodwell, until 1911; Mrs. Joseph R. Woodwell, Pittsburgh, until 1915; purchased by Museum, 1915.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114811&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107636&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f8d9b55-3af6-4c4e-b2c7-dd788d829369",
+      "party_type": "Person",
+      "full_name": "Joseph R. Woodwell",
+      "cited_name": "Woodwell, Joseph R.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1842-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)",
+      "death_place": "Pittsburgh (Allegheny county, Pennsylvania, United States)"
+    }
+  ]
+}

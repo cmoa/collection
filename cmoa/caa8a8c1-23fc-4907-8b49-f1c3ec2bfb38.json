@@ -1,0 +1,39 @@
+{
+  "title": "Work No. 25",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "steel plate relief",
+  "accession_number": "61.35",
+  "id": "cmoa:things/caa8a8c1-23fc-4907-8b49-f1c3ec2bfb38",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1961-10-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 36.5,
+  "item_height": 48.375,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011421",
+  "provenance_text": "Muramatsu Gallery, Tokyo",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149707&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b235467-a873-4a60-8280-521dd7deffd4",
+      "party_type": "Person",
+      "full_name": "Shin Kuno",
+      "cited_name": "Kuno, Shin",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1921-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Nagoya, Aichi, Japan",
+      "death_place": "Nagoya, Aichi, Japan"
+    }
+  ]
+}

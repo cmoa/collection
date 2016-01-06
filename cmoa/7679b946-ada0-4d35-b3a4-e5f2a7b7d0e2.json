@@ -1,0 +1,45 @@
+{
+  "title": "Teapot",
+  "creation_date": "no date",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1908-01-01",
+  "medium": "ceramic",
+  "accession_number": "08.2.53.A-B",
+  "id": "cmoa:things/7679b946-ada0-4d35-b3a4-e5f2a7b7d0e2",
+  "credit_line": "Gift of Andrew Carnegie",
+  "date_acquired": null,
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.062,
+  "item_height": 2.188,
+  "item_depth": 3.812,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000353",
+  "provenance_text": "Andrew Carnegie [1835-1919], Pittsburgh, PA; gift to Carnegie Institute, Pittsburgh, PA, 1908.",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1014&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97913&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=97912&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b21e4f72-77fc-4c7a-8343-74c67e9c4f3b",
+      "party_type": "Person",
+      "full_name": "unknown Chinese",
+      "cited_name": "unknown Chinese",
+      "role": null,
+      "nationality": "Chinese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

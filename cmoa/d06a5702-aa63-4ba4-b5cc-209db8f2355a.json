@@ -1,0 +1,39 @@
+{
+  "title": "Coffeepot",
+  "creation_date": "c. 1817",
+  "creation_date_earliest": "1812-01-01",
+  "creation_date_latest": "1822-01-01",
+  "medium": "silver and ivory",
+  "accession_number": "88.35.1",
+  "id": "cmoa:things/d06a5702-aa63-4ba4-b5cc-209db8f2355a",
+  "credit_line": "Purchase: gift of James O'Hara Denny",
+  "date_acquired": "1988-12-02",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.875,
+  "item_height": 12.125,
+  "item_depth": 6.438,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026528",
+  "provenance_text": "East End Galleries, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9093&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f18c764-54df-47ab-8287-e6b9ad33d35e",
+      "party_type": "Person",
+      "full_name": "Baldwin Gardiner",
+      "cited_name": "Gardiner, Baldwin",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1814-01-01",
+      "death_date": "1846-01-01",
+      "birth_place": "Philadelphia, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

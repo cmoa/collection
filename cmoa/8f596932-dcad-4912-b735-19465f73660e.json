@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of a Woman and Child",
+  "creation_date": null,
+  "creation_date_earliest": "1852-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "daguerreotype",
+  "accession_number": "95.85.2",
+  "id": "cmoa:things/8f596932-dcad-4912-b735-19465f73660e",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1995-10-19",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 2.5,
+  "item_height": 3.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035825",
+  "provenance_text": "Joan Murray, Piedmont, CA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147830&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/997dfcd0-69a4-4013-8646-977bdc0378fd",
+      "party_type": "Person",
+      "full_name": "R. M. Cargo",
+      "cited_name": "Cargo, R. M.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1852-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

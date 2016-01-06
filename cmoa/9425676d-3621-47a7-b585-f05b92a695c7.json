@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of Raphael",
+  "creation_date": "1860",
+  "creation_date_earliest": "1860-01-01",
+  "creation_date_latest": "1860-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "43.4.60",
+  "id": "cmoa:things/9425676d-3621-47a7-b585-f05b92a695c7",
+  "credit_line": "Anonymous Gift",
+  "date_acquired": "1943-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1007452",
+  "provenance_text": "Anonymous; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, May 1943.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114728&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f7ef0a9d-7ec4-4d2c-96fb-0aa4c1e93f31",
+      "party_type": "Person",
+      "full_name": "Eduard Mandel",
+      "cited_name": "Mandel, Eduard",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1810-01-01",
+      "death_date": "1882-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/13377d25-2aee-4ed0-8d91-702b6423c880",
+      "party_type": "Person",
+      "full_name": "Raphael",
+      "cited_name": "Raphael",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1483-01-01",
+      "death_date": "1520-01-01",
+      "birth_place": "Urbino",
+      "death_place": "Rome"
+    }
+  ]
+}

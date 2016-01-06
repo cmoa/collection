@@ -1,0 +1,39 @@
+{
+  "title": "Memphis Blue",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "81.46.2",
+  "id": "cmoa:things/ddfbc5c8-bd58-41d2-b27d-3971eca5c304",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-10-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 21.438,
+  "item_height": 27.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021901",
+  "provenance_text": "John Hoyland, London",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126372&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0c15033-912b-4e09-9906-6defbd7aa817",
+      "party_type": "Person",
+      "full_name": "John Hoyland",
+      "cited_name": "Hoyland, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1934-01-01",
+      "death_date": "2011-01-01",
+      "birth_place": "Sheffield unitary authority (England, United Kingdom)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of Charles J. Rosenbloom",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "92.187",
+  "id": "cmoa:things/1454906d-787a-4374-a43b-ed0875138f55",
+  "credit_line": "Gift of the Estate of Charles J. Rosenbloom",
+  "date_acquired": "1992-12-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.0,
+  "item_height": 30.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1031472",
+  "provenance_text": "Charles J. Rosenbloom [1898-1973], Pittsburgh, PA until April 1, 1973; Mrs. Lucile (Charles J.) Rosenbloom [1898-1992], Pittsburgh, PA, until September 1992;  bequest to Museum, November 1992.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119265&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=31966&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f1ec4399-00f0-4312-aaee-14e280afcdb6",
+      "party_type": "Person",
+      "full_name": "Gerald L. Brockhurst",
+      "cited_name": "Brockhurst, Gerald L.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1890-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": "Birmingham (West Midlands, England, United Kingdom)",
+      "death_place": "Franklin Lakes (Bergen county, New Jersey, United States)"
+    }
+  ]
+}

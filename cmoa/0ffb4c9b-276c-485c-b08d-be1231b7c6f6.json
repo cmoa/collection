@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "ink and tissue on paper",
+  "accession_number": "2014.80.3",
+  "id": "cmoa:things/0ffb4c9b-276c-485c-b08d-be1231b7c6f6",
+  "credit_line": "Gift of the James and Charlotte Park Brooks Foundation",
+  "date_acquired": "2015-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.0,
+  "item_height": 23.312,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106950",
+  "provenance_text": null,
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135617&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=135616&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/56b44293-ca3f-46ad-93d5-77e275d8b947",
+      "party_type": "Person",
+      "full_name": "James Brooks",
+      "cited_name": "Brooks, James",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1906-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Saint Louis (St. Louis Indep. City, Missouri, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

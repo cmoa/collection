@@ -1,0 +1,39 @@
+{
+  "title": "The Future Generation",
+  "creation_date": "1942-1947",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "bronze",
+  "accession_number": "84.40",
+  "id": "cmoa:things/7c35a8c9-8464-44cf-9304-a5c9db64c4d1",
+  "credit_line": "Gift of Mr. and Mrs. Peter V. Cardone",
+  "date_acquired": "1984-06-14",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.75,
+  "item_height": 39.375,
+  "item_depth": 14.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1024699",
+  "provenance_text": "Peter Cardone, Whitestone, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=120670&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/24b21a05-768b-4713-93c1-244f54fce97c",
+      "party_type": "Person",
+      "full_name": "William Zorach",
+      "cited_name": "Zorach, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Jurbarkas (Jurbarkas district, Lithuania)",
+      "death_place": "Bath (sagadahoc county, Maine, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Cardinal Rainaud D'Este, Duke of Modena (after Vouet)",
+  "creation_date": "1662",
+  "creation_date_earliest": "1662-01-01",
+  "creation_date_latest": "1662-01-01",
+  "medium": "engraving",
+  "accession_number": "25.11.15",
+  "id": "cmoa:things/d50c91d5-dc8d-48c5-a600-d6185ca90758",
+  "credit_line": "Gift of Louis R. Metcalfe",
+  "date_acquired": "1925-11-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005171",
+  "provenance_text": "Louis R. Metcalfe",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102169&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1007bd04-c1eb-46b1-9c62-87714e163059",
+      "party_type": "Person",
+      "full_name": "Pieter Van Schuppen",
+      "cited_name": "Schuppen, Pieter Van",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1623-01-01",
+      "death_date": "1702-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

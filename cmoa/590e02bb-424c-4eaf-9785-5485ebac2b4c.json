@@ -1,0 +1,39 @@
+{
+  "title": "Sculpture, Wall, Fragment",
+  "creation_date": "380 BCE-342 BCE/330-305 BCE",
+  "creation_date_earliest": "-0400-01-06",
+  "creation_date_latest": "-0300-01-06",
+  "medium": "granite",
+  "accession_number": "72.18.4",
+  "id": "cmoa:things/590e02bb-424c-4eaf-9785-5485ebac2b4c",
+  "credit_line": "Egyptian Art Fund",
+  "date_acquired": "1972-05-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Art before 1300 Gallery",
+  "item_width": 0.0,
+  "item_height": 34.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016388",
+  "provenance_text": "Sotheby Parke Bernet, sale #3360, lot 366 5/2-5/5/72",
+  "classification": "Rock/Mineral",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=36562&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9d595921-2528-4b76-a009-baa782a4d2ba",
+      "party_type": "Person",
+      "full_name": "unknown Egyptian, Behbeit",
+      "cited_name": "unknown Egyptian, Behbeit",
+      "role": null,
+      "nationality": "Egyptian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

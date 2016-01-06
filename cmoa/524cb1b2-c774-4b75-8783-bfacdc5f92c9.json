@@ -1,0 +1,69 @@
+{
+  "title": "Venini Series 1972 #7",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "glass, mold-blown, cut, and acid-polished",
+  "accession_number": "2005.48",
+  "id": "cmoa:things/524cb1b2-c774-4b75-8783-bfacdc5f92c9",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2005-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 8.5,
+  "item_depth": 10.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15680",
+  "provenance_text": "the artist, Berkeley, CA",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96191&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96195&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=26128&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/586ccb08-4460-4500-9d3a-7e3313a1a347",
+      "party_type": "Person",
+      "full_name": "Marvin Lipofsky",
+      "cited_name": "Lipofsky, Marvin",
+      "role": "maestro",
+      "nationality": "American",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/339214b0-8918-4927-9121-4461e355d296",
+      "party_type": "Person",
+      "full_name": "Gianni Toso",
+      "cited_name": "Toso, Gianni",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4c5d08c0-e7dd-4e76-a08d-7f702956c789",
+      "party_type": "Organization",
+      "full_name": "Venini & C.",
+      "cited_name": "Venini & C.",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1929-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

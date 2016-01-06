@@ -1,0 +1,39 @@
+{
+  "title": "Tableau aux Fragments d'Ardoises",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "emulsion with slate on Masonite",
+  "accession_number": "56.43",
+  "id": "cmoa:things/299116e2-aa91-4850-8b6e-266fe1e7a22a",
+  "credit_line": "Lillian Claster Memorial Fund",
+  "date_acquired": "1956-10-24",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 38.875,
+  "item_height": 52.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009877",
+  "provenance_text": "Galerie Maeght, Paris",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=29451&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5436aedf-bfe7-4fa4-a55f-a5b5d172cb40",
+      "party_type": "Person",
+      "full_name": "Raoul Ubac",
+      "cited_name": "Ubac, Raoul",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1910-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": "Malmédy (Liège province, Wallonia, Belgium)",
+      "death_place": null
+    }
+  ]
+}

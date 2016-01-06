@@ -1,0 +1,51 @@
+{
+  "title": "Twin Bridges Project for Point Park, Pittsburgh, Pennsylvania",
+  "creation_date": "1947",
+  "creation_date_earliest": "1947-01-01",
+  "creation_date_latest": "1947-01-01",
+  "medium": "graphite, colored pencil and ink on paper",
+  "accession_number": "86.24",
+  "id": "cmoa:things/8a52ccca-445f-49bf-9a5b-59aa451cf127",
+  "credit_line": "Purchase: gift of the Women's Committee Carnegie Treasures Cookbook Fund",
+  "date_acquired": "1986-06-12",
+  "department": "Fine Arts",
+  "physical_location": "The Heinz Architectural Center",
+  "item_width": 58.0,
+  "item_height": 30.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026031",
+  "provenance_text": "Max Protech Gallery, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9781&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f5847991-4552-4fe3-9c4f-498d28b68667",
+      "party_type": "Person",
+      "full_name": "Frank Lloyd Wright",
+      "cited_name": "Wright, Frank L.",
+      "role": "architect",
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Richland Center, Wisconsin",
+      "death_place": "Phoenix, Arizona"
+    },
+    {
+      "artist_id": "cmoa:parties/de0099ef-6c65-489b-a46f-14b0b97b86d7",
+      "party_type": "Person",
+      "full_name": "Allen Lape Davison",
+      "cited_name": "Davison, Allen L.",
+      "role": "delineator",
+      "nationality": "American",
+      "birth_date": "1913-01-01",
+      "death_date": "1974-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

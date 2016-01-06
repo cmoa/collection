@@ -1,0 +1,39 @@
+{
+  "title": "Doorway",
+  "creation_date": "1955",
+  "creation_date_earliest": "1955-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "ink on paper",
+  "accession_number": "57.42.9",
+  "id": "cmoa:things/a21fb37a-cdba-47ee-9242-24821d0840f0",
+  "credit_line": "Gift of G. David Thompson",
+  "date_acquired": "1957-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010587",
+  "provenance_text": "G. David Thompson",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99709&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/607703ce-8d12-44a9-91f1-f0f1089da8f3",
+      "party_type": "Person",
+      "full_name": "Jean Dubuffet",
+      "cited_name": "Dubuffet, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1901-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "My Jew Boy",
+  "creation_date": "1852",
+  "creation_date_earliest": "1852-01-01",
+  "creation_date_latest": "1852-01-01",
+  "medium": "graphite, crayon and white chalk on paper",
+  "accession_number": "06.11",
+  "id": "cmoa:things/f9c0bf9b-8fe0-4f04-a6bc-ad2aa7619306",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.0,
+  "item_height": 24.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000140",
+  "provenance_text": "Mrs. Eastman Johnson, New York; Andrew Carnegie Fund",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10319&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1e1507c6-dbef-4d08-829a-ec90248de0c0",
+      "party_type": "Person",
+      "full_name": "Eastman Johnson",
+      "cited_name": "Johnson, Eastman",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1824-01-01",
+      "death_date": "1906-01-01",
+      "birth_place": "Lovell (Oxford county, Maine, United States)",
+      "death_place": " New York City (New York state, United States)"
+    }
+  ]
+}

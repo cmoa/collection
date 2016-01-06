@@ -1,0 +1,61 @@
+{
+  "title": "Arguing the Point",
+  "creation_date": "1855",
+  "creation_date_earliest": "1855-01-01",
+  "creation_date_latest": "1855-01-01",
+  "medium": "colored lithograph",
+  "accession_number": "62.17.10",
+  "id": "cmoa:things/9a21e9ee-9945-476d-bd34-f5bfa98e3746",
+  "credit_line": "Estate of Eleanor D. Merrick",
+  "date_acquired": "1962-07-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 31.25,
+  "item_height": 26.125,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011501",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b6874cdc-18ae-4bd8-9190-5f532b90d8e8",
+      "party_type": "Person",
+      "full_name": "Nathaniel Currier",
+      "cited_name": "Currier, Nathaniel",
+      "role": "publisher",
+      "nationality": "American",
+      "birth_date": "1813-01-01",
+      "death_date": "1888-01-01",
+      "birth_place": " Roxbury (Boston, Suffolk county, Massachusetts, United States)",
+      "death_place": " New York City (New York state, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/95e3b871-06c1-4a3a-9f44-2536e7cd95fe",
+      "party_type": "Person",
+      "full_name": "Louis  Maurer",
+      "cited_name": "Maurer, Louis",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1832-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/99d21817-c741-4778-92cc-65d8f2e8caf0",
+      "party_type": "Person",
+      "full_name": "Arthur Fitzwilliam Tait",
+      "cited_name": "Tait, Arthur F.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1819-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": "Liverpool urban district (England, United Kingdom)",
+      "death_place": "Yonkers (Westchester county, New York state, United States)"
+    }
+  ]
+}

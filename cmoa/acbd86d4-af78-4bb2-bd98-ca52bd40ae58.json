@@ -1,0 +1,39 @@
+{
+  "title": "David",
+  "creation_date": "1959",
+  "creation_date_earliest": "1959-01-01",
+  "creation_date_latest": "1959-01-01",
+  "medium": "bronze",
+  "accession_number": "62.1",
+  "id": "cmoa:things/acbd86d4-af78-4bb2-bd98-ca52bd40ae58",
+  "credit_line": "Patrons Art Fund: anonymous gift",
+  "date_acquired": "1962-02-15",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.5,
+  "item_height": 50.0,
+  "item_depth": 25.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011517",
+  "provenance_text": "Galerie Claude Bernard, Paris; C. McKenzie Lewis, Jr., Washington D.C.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=105145&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8e025f4d-3f25-4fa7-a8ce-ffd89bafdeb9",
+      "party_type": "Person",
+      "full_name": "Jean Ipousteguy",
+      "cited_name": "Ipousteguy, Jean",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1920-01-01",
+      "death_date": "2006-01-01",
+      "birth_place": "Dun-sur-Meuse, France",
+      "death_place": "Dun-sur-Meuse, France"
+    }
+  ]
+}

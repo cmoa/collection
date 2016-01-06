@@ -1,0 +1,39 @@
+{
+  "title": "Carnegie Institute, Pittsburgh, International Exhibition of Paintings, April 29 - June 30, 1920",
+  "creation_date": "1920",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "wash and graphite on paper",
+  "accession_number": "2008.49",
+  "id": "cmoa:things/cba3497a-ee74-431a-9480-0ab8c92bbe2c",
+  "credit_line": "Museum Appropriation",
+  "date_acquired": "2008-06-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=60432",
+  "provenance_text": "By conversion, 2008 [1].\n\nNOTES\n1. Found in collections of Carnegie Museum of Art. Presumably done as a study for the post for the 1920 Carnegie Interanational.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89463&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c4bb2ed1-04d9-4832-843c-a4fcd39fca13",
+      "party_type": "Person",
+      "full_name": "Paul Howard Manship",
+      "cited_name": "Manship, Paul H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1885-01-01",
+      "death_date": "1966-01-01",
+      "birth_place": "Saint Paul (Ramsey county, Minnesota, United States)",
+      "death_place": "New York City (New York state, United States)"
+    }
+  ]
+}

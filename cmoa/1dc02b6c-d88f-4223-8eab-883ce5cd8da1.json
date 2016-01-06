@@ -1,0 +1,42 @@
+{
+  "title": "Untitled (Barragan House, #03)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "Laserchrome print",
+  "accession_number": "2006.17.1",
+  "id": "cmoa:things/1dc02b6c-d88f-4223-8eab-883ce5cd8da1",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2006-04-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 33.75,
+  "item_height": 30.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=20650",
+  "provenance_text": "Artist, Milan, Italy\nMarc Foxx, Los Angeles, CA (gallery)",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28702&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=28704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f4fef2a4-c50a-4720-87ce-945895b964ea",
+      "party_type": "Person",
+      "full_name": "Luisa Lambri",
+      "cited_name": "Lambri, Luisa",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1969-01-01",
+      "death_date": null,
+      "birth_place": "Como, Italy",
+      "death_place": null
+    }
+  ]
+}

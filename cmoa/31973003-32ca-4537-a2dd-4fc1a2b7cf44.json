@@ -1,0 +1,39 @@
+{
+  "title": "Silenus",
+  "creation_date": "1628",
+  "creation_date_earliest": "1628-01-01",
+  "creation_date_latest": "1628-01-01",
+  "medium": "etching",
+  "accession_number": "60.57.3",
+  "id": "cmoa:things/31973003-32ca-4537-a2dd-4fc1a2b7cf44",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1960-10-19",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011337",
+  "provenance_text": "William H. Schab, 48 E 57, NYC 22",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101941&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/99e88a0b-2163-45fe-a27e-abefaca12bad",
+      "party_type": "Person",
+      "full_name": "Jusepe de Ribera",
+      "cited_name": "Ribera, Jusepe de",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1591-01-01",
+      "death_date": "1652-01-01",
+      "birth_place": "Játiva (Valencia province, Valencia region, Spain)",
+      "death_place": "Naples (Napoli province, Campania, Italy)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lavabo",
+  "creation_date": "1546",
+  "creation_date_earliest": "1545-12-22",
+  "creation_date_latest": "1545-12-22",
+  "medium": "bronze",
+  "accession_number": "59.31.3",
+  "id": "cmoa:things/029fa8bb-a8f3-4213-86fd-987bac78255b",
+  "credit_line": "Sarah Mellon Scaife Foundation Fund",
+  "date_acquired": "1959-05-28",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 2, Scaife Galleries",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010989",
+  "provenance_text": "Julius Bohler, Munich, Germany",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4650&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6a60130b-c1f9-4309-a95c-d67a944d3e0c",
+      "party_type": "Person",
+      "full_name": "unknown Flemish or German",
+      "cited_name": "unknown Flemish or German",
+      "role": null,
+      "nationality": "undetermined",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

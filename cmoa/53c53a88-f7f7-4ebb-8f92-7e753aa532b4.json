@@ -1,0 +1,39 @@
+{
+  "title": "Horse Fair",
+  "creation_date": null,
+  "creation_date_earliest": "1835-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "oil on paper on board",
+  "accession_number": "91.37.1",
+  "id": "cmoa:things/53c53a88-f7f7-4ebb-8f92-7e753aa532b4",
+  "credit_line": "Gift of Mr. and Mrs. Robert Eberly",
+  "date_acquired": "1991-12-05",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.625,
+  "item_height": 16.875,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1029730",
+  "provenance_text": "Mr. And Mrs. Robert Eberly, Uniontown, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=58001&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d1f09c3f-1433-49b0-ba11-69cc461b8034",
+      "party_type": "Person",
+      "full_name": "David Gilmour Blythe",
+      "cited_name": "Blythe, David G.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1815-01-01",
+      "death_date": "1865-01-01",
+      "birth_place": "East Liverpool (Columbiana county, Ohio, United States)",
+      "death_place": "Pittsburgh, Pennsylvania"
+    }
+  ]
+}

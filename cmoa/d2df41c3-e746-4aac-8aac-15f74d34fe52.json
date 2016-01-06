@@ -1,0 +1,54 @@
+{
+  "title": "Lady Charles Spencer",
+  "creation_date": "1776",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1776-01-01",
+  "medium": "mezzotint engraving",
+  "accession_number": "2006.83.83",
+  "id": "cmoa:things/d2df41c3-e746-4aac-8aac-15f74d34fe52",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2007-02-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=34555",
+  "provenance_text": "Rolf and Magda Loeber, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, February 2007.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94604&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=54189&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cd949b92-748d-4456-88a9-f0617770c463",
+      "party_type": "Person",
+      "full_name": "William Dickinson",
+      "cited_name": "Dickinson, William",
+      "role": "printmaker",
+      "nationality": "English",
+      "birth_date": "1736-01-01",
+      "death_date": "1823-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

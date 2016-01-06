@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1999",
+  "creation_date_earliest": "1999-01-01",
+  "creation_date_latest": "1999-01-01",
+  "medium": "acrylic and oil on canvas",
+  "accession_number": "1999.56",
+  "id": "cmoa:things/6eeaad89-2bd6-45fb-bd5b-2f8915c147f3",
+  "credit_line": "Gift of LLWW Foundation",
+  "date_acquired": "1999-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 96.0,
+  "item_height": 150.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003937",
+  "provenance_text": "Gavin Brown's Enterprise, New York through the 1999 Carnegie International",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113968&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ee20e3e1-e665-4624-8634-412860beabc7",
+      "party_type": "Person",
+      "full_name": "Laura Owens",
+      "cited_name": "Owens, Laura",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1970-01-01",
+      "death_date": null,
+      "birth_place": "Euclid, Ohio",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Assumption of the Virgin",
+  "creation_date": "c. 1700",
+  "creation_date_earliest": "1695-01-01",
+  "creation_date_latest": "1705-01-01",
+  "medium": "terracotta",
+  "accession_number": "69.34.3",
+  "id": "cmoa:things/82f79218-b40e-496c-a8cf-31345159df08",
+  "credit_line": "Decorative Arts Purchase Fund",
+  "date_acquired": "1969-09-25",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 14.5,
+  "item_depth": 4.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012561",
+  "provenance_text": "Collection of George Swarzenski\nParke-Bernet Galleries, New York, NY. Sale #2855, May 8, 1969, lot 137",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e85ca867-62ce-4e64-b0ea-f97d1bf0422b",
+      "party_type": "Person",
+      "full_name": "Jacques Bernus",
+      "cited_name": "Bernus, Jacques",
+      "role": "attributed to",
+      "nationality": "French",
+      "birth_date": "1650-01-01",
+      "death_date": "1723-01-01",
+      "birth_place": "Mazan, Vaucluse, France",
+      "death_place": "Mazan, Vaucluse, France"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Portrait of a Woman",
+  "creation_date": null,
+  "creation_date_earliest": null,
+  "creation_date_latest": null,
+  "medium": "drypoint, black ink",
+  "accession_number": "2015.38.1",
+  "id": "cmoa:things/f5beb90f-b71f-4036-bd2f-43dc683297d6",
+  "credit_line": "Gift of George C. Kenney",
+  "date_acquired": "2015-09-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108794",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147885&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=147886&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b5a5b4e7-2948-44bd-a0b9-cd2a4094aeb8",
+      "party_type": "Person",
+      "full_name": "Paul César Helleu",
+      "cited_name": "Paul César Helleu",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1858-01-01",
+      "death_date": "1927-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

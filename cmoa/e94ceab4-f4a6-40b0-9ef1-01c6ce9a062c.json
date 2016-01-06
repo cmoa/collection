@@ -1,0 +1,39 @@
+{
+  "title": "Town house; [exterior elevations, floor plan]",
+  "creation_date": "c. 1882",
+  "creation_date_earliest": "1877-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "pen and black ink",
+  "accession_number": "95.67",
+  "id": "cmoa:things/e94ceab4-f4a6-40b0-9ef1-01c6ce9a062c",
+  "credit_line": "Purchase: gift of the Drue Heinz Trust",
+  "date_acquired": "1995-05-25",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 18.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035775",
+  "provenance_text": "Gallery Lingard, London, England",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=102761&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e6f938fb-a60d-4415-9940-91b71b722082",
+      "party_type": "Person",
+      "full_name": "W. R. Lethaby",
+      "cited_name": "Lethaby, W. R.",
+      "role": "architect",
+      "nationality": "English",
+      "birth_date": "1857-01-01",
+      "death_date": "1931-01-01",
+      "birth_place": "Devon (England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

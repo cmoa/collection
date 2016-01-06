@@ -1,0 +1,39 @@
+{
+  "title": "Flask",
+  "creation_date": "17th-18th century",
+  "creation_date_earliest": "1600-01-01",
+  "creation_date_latest": "1799-01-01",
+  "medium": "faience",
+  "accession_number": "72.11.9",
+  "id": "cmoa:things/b9c75869-5281-4e2f-878b-347c39ff9838",
+  "credit_line": "Gift of the Roy A. Hunt Foundation",
+  "date_acquired": "1972-05-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.688,
+  "item_height": 6.187,
+  "item_depth": 1.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016310",
+  "provenance_text": "Roy A. Hunt Foundation, Pittsburgh, PA",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/06312237-5718-4771-b5bd-ccc43cdfa5b0",
+      "party_type": "Person",
+      "full_name": "unknown French, Avignon",
+      "cited_name": "unknown French, Avignon",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

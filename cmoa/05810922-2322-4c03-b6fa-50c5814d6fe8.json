@@ -1,0 +1,39 @@
+{
+  "title": "The Road to Louveciennes (La route de Louveciennes)",
+  "creation_date": "1874",
+  "creation_date_earliest": "1874-01-01",
+  "creation_date_latest": "1874-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "69.11",
+  "id": "cmoa:things/05810922-2322-4c03-b6fa-50c5814d6fe8",
+  "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
+  "date_acquired": "1969-04-24",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 15.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012527",
+  "provenance_text": "Alfred Sisley [1839-1899], France. L. Dubois, Bordeaux, France [1]; Bernheim-Jeune, Paris, France; Percy Moore Turner [1905-1952], London, England, by September 1930 until at least January 1932 [2]; Paul Rosenberg [1881-1959], Paris, France, until 1934; purchased by Paul Gadala, Paris, France, 1934 until at least May 1939 [3]; Wildenstein & Company, Inc., New York, NY; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, April 1969 [4]. \nNOTES:1. Early provenance based on information from Wildenstein and from Francois Daulte, \"Alfred Sisley: Catalogue raisonné de l'oeuvre peint\", Durand-Ruel, Paris,1959, no. 129 2. Turner lent it to the exhibitions \"Vincent van Gogh en zijn tijdgenooten\", Amsterdam September 6-November 2, 1930 and \"Exhibition of French Art\", Royal Academy, London, January 4-March 12, 1932 3. Paul Gadala lent it to two exhibitions at Paul Rosenberg's Paris gallery, \"Exposition Le Grand Siècle\", June 15-July 11, 1936 and \"Exposition Silsley\", May 9-June 10, 1939. 4. Updated by CGK July 2014.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103537&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13d2101f-1197-42ad-8d30-15337dd1503f",
+      "party_type": "Person",
+      "full_name": "Alfred Sisley",
+      "cited_name": "Sisley, Alfred",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1839-10-30",
+      "death_date": "1899-01-29",
+      "birth_place": "Paris, France",
+      "death_place": "Moret-sur-Loing (Seine-et-Marne, Île-de-France, France)"
+    }
+  ]
+}

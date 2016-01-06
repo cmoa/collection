@@ -1,0 +1,39 @@
+{
+  "title": "Aux Fortifications",
+  "creation_date": "1923",
+  "creation_date_earliest": "1923-01-01",
+  "creation_date_latest": "1923-01-01",
+  "medium": "etching",
+  "accession_number": "49.9.2",
+  "id": "cmoa:things/80a5c393-0cc7-4a98-9dae-1c3461e28491",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1949-06-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.25,
+  "item_height": 14.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008775",
+  "provenance_text": "Frank K. M. Rehn, Inc",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=101036&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e3ca211-2e74-4f4b-8e61-e7d5e12cacdd",
+      "party_type": "Person",
+      "full_name": "Edward Hopper",
+      "cited_name": "Hopper, Edward",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1882-01-01",
+      "death_date": "1967-01-01",
+      "birth_place": "Nyack (Rockland county, New York state, United States)",
+      "death_place": "New York City"
+    }
+  ]
+}

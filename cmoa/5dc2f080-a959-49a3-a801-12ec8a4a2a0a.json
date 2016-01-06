@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Bird)",
+  "creation_date": null,
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1951-01-01",
+  "medium": "Stone",
+  "accession_number": "80.10",
+  "id": "cmoa:things/5dc2f080-a959-49a3-a801-12ec8a4a2a0a",
+  "credit_line": "Gift of Dr. Raymond Stept in memory of Ethel Stept",
+  "date_acquired": "1980-05-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.25,
+  "item_height": 8.0,
+  "item_depth": 5.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021075",
+  "provenance_text": "Dr. Raymond Stept, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150080&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3d6982c7-0e94-41ca-9c3e-b1719e6e528d",
+      "party_type": "Person",
+      "full_name": "William Edmondson",
+      "cited_name": "Edmondson, William",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1883-01-01",
+      "death_date": "1951-01-01",
+      "birth_place": null,
+      "death_place": "Nashville-Davidson (Davidson county, Tennessee, United States)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Sans Neige (Triptych)",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
+  "creation_date_latest": "1969-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "70.46.4.A-.C",
+  "id": "cmoa:things/4a3a49c7-8181-437f-a079-5620f5c20147",
+  "credit_line": "Gift of the Hillman Foundation",
+  "date_acquired": "1970-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 198.0,
+  "item_height": 103.25,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015821",
+  "provenance_text": "Martha Jackson Gallery, New York, New York",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=24544&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7f09394a-0a96-44dd-9499-6306197f6590",
+      "party_type": "Person",
+      "full_name": "Joan Mitchell",
+      "cited_name": "Mitchell, Joan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Chicago, Illinois",
+      "death_place": "Paris, France"
+    }
+  ]
+}

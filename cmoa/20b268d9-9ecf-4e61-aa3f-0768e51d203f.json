@@ -1,0 +1,51 @@
+{
+  "title": "Paperweight",
+  "creation_date": "c. 1905",
+  "creation_date_earliest": "1900-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "earthenware",
+  "accession_number": "73.25.2",
+  "id": "cmoa:things/20b268d9-9ecf-4e61-aa3f-0768e51d203f",
+  "credit_line": "Gift of Mrs. W. H. Burchfield",
+  "date_acquired": "1973-10-10",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 3.5,
+  "item_height": 1.5,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016694",
+  "provenance_text": "Mrs. W.H. Burchfield",
+  "classification": "Ceramics",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3006&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1b87ca78-383f-4710-bb49-f83c552b70e3",
+      "party_type": "Person",
+      "full_name": "William H. Grueby",
+      "cited_name": "Grueby, William H.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1867-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": "America",
+      "death_place": "America"
+    },
+    {
+      "artist_id": "cmoa:parties/dcf90d3b-b83b-47f3-938b-a697f383db57",
+      "party_type": "Organization",
+      "full_name": "Grueby Faience Company",
+      "cited_name": "Grueby Faience Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1894-01-01",
+      "death_date": "1911-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

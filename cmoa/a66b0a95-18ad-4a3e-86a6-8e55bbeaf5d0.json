@@ -1,0 +1,39 @@
+{
+  "title": "Interior with Women",
+  "creation_date": "1902",
+  "creation_date_earliest": "1902-01-01",
+  "creation_date_latest": "1902-01-01",
+  "medium": "oil on paper board mounted to cradled mahogany panel",
+  "accession_number": "62.32",
+  "id": "cmoa:things/a66b0a95-18ad-4a3e-86a6-8e55bbeaf5d0",
+  "credit_line": "Purchased through the generosity of Mrs. Alan M. Scaife",
+  "date_acquired": "1962-10-30",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 8, Scaife Galleries",
+  "item_width": 24.0,
+  "item_height": 22.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011565",
+  "provenance_text": "Edouard Vuillard [1868-1940], until 1902; purchased by Bernheim-Jeune, Paris, France, October 11, 1902 [1]; sold to Romaine Brooks [1874-1970], Paris, France, April 28, 1905 [2]; Romaine Brooks Collection. Wildenstein & Co., Inc., New York, NY, by October 1962; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, October 1962. \n\nNotes: \n[1]. Purchase price 600 francs; stock no. 12704.\n[2]. Purchase price 1500 francs. Early provenance from \"Vuillard, The Inexhaustible Glance\", by Antoine Salomon and Guy Cogeval, vol. 2, Skira, 2003, p. 862.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=19246&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cbe8bcac-78aa-4681-8d9e-2bd63de3c8a8",
+      "party_type": "Person",
+      "full_name": "Edouard Vuillard",
+      "cited_name": "Vuillard, Edouard",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1868-11-11",
+      "death_date": "1940-06-21",
+      "birth_place": "Cuiseaux (Saône-et-Loire, Burgundy region, France)",
+      "death_place": "Baule, la (Loire-Atlantique, Pays de la Loire, France)"
+    }
+  ]
+}

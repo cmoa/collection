@@ -1,0 +1,51 @@
+{
+  "title": "Wine glass",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "glass",
+  "accession_number": "94.251.3",
+  "id": "cmoa:things/af2ca634-5e46-432f-bfec-9afeac7006ef",
+  "credit_line": "Gift of Denis Gallion and Daniel Morris",
+  "date_acquired": "1995-01-19",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 6.062,
+  "item_depth": 0.0,
+  "item_diameter": 2.62,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035141",
+  "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1552&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e22facf8-f254-4ce2-88fb-caea1c628cc3",
+      "party_type": "Person",
+      "full_name": "Oswald Haerdtl",
+      "cited_name": "Haerdtl, Oswald",
+      "role": "attributed designer",
+      "nationality": "Austrian",
+      "birth_date": "1899-01-01",
+      "death_date": "1959-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Vienna, Austria"
+    },
+    {
+      "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
+      "party_type": "Organization",
+      "full_name": "J. & L. Lobmeyr",
+      "cited_name": "Lobmeyr, J. & L.",
+      "role": "attributed manufacturer",
+      "nationality": "Austrian",
+      "birth_date": "1823-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

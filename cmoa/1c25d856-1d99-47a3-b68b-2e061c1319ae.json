@@ -1,0 +1,39 @@
+{
+  "title": "Das Schiff",
+  "creation_date": "1926",
+  "creation_date_earliest": "1926-01-01",
+  "creation_date_latest": "1926-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "81.15.2",
+  "id": "cmoa:things/1c25d856-1d99-47a3-b68b-2e061c1319ae",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1981-04-02",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021709",
+  "provenance_text": "Davidson Galleries, Seattle, Washington",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100359&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10dcef74-2855-43d3-948c-96d03822ba17",
+      "party_type": "Person",
+      "full_name": "Lyonel Feininger",
+      "cited_name": "Feininger, Lyonel",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1871-01-01",
+      "death_date": "1956-01-01",
+      "birth_place": "New York City",
+      "death_place": "New York City"
+    }
+  ]
+}

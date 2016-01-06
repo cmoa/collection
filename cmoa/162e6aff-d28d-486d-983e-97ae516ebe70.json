@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Captain Andrew Summers (1742-1806)",
+  "creation_date": "1782",
+  "creation_date_earliest": "1782-01-01",
+  "creation_date_latest": "1782-01-01",
+  "medium": "watercolor on ivory; gilt metal frame",
+  "accession_number": "27.10.75",
+  "id": "cmoa:things/162e6aff-d28d-486d-983e-97ae516ebe70",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 1.25,
+  "item_height": 1.938,
+  "item_depth": 0.188,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005960",
+  "provenance_text": "(Sold at William Macbeth, Inc., New York, NY); purchased by Herbert DuPuy [1856-1930], Pittsburgh, PA, July 12, 1918; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103612&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73487&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/30e59f19-73d9-4bc4-b707-a613d1d3936d",
+      "party_type": "Person",
+      "full_name": "Charles Willson Peale",
+      "cited_name": "Peale, Charles W.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1741-01-01",
+      "death_date": "1827-01-01",
+      "birth_place": "Chester (Queen Annes county, Maryland, United States)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

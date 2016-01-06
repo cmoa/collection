@@ -1,0 +1,39 @@
+{
+  "title": "Sustained Comedy",
+  "creation_date": "1939",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "1939-01-01",
+  "medium": "oil on board",
+  "accession_number": "76.64",
+  "id": "cmoa:things/3a49a64b-2b3b-4061-af91-2377db79ebd6",
+  "credit_line": "Gift of Mervin Jules in memory of Hudson Walker",
+  "date_acquired": "1977-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 11, Scaife Galleries",
+  "item_width": 22.0,
+  "item_height": 28.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018219",
+  "provenance_text": "Mervin Jules [1912-1994], New York, NY, until 1977. Gift to Museum, 1977.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6541&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6119bdab-2c33-4f8d-b343-489c96571872",
+      "party_type": "Person",
+      "full_name": "Marsden Hartley",
+      "cited_name": "Hartley, Marsden",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1877-01-01",
+      "death_date": "1943-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

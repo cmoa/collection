@@ -1,0 +1,51 @@
+{
+  "title": "Fisherman",
+  "creation_date": "1904, printed 1960",
+  "creation_date_earliest": "1904-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "woodcut on paper",
+  "accession_number": "89.28.1469",
+  "id": "cmoa:things/93847943-033a-4132-84fd-e753f5fd2c7c",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.688,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027380",
+  "provenance_text": "James B. Austin, Pittsburgh; bequest to museum, December 1989",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=34287&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d649bb00-d873-4736-8f57-d9746ad2b6e0",
+      "party_type": "Person",
+      "full_name": "Yamamoto Kanae",
+      "cited_name": "Yamamoto Kanae",
+      "role": "artist",
+      "nationality": "Japanese",
+      "birth_date": "1882-01-01",
+      "death_date": "1946-01-01",
+      "birth_place": "Japan",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f505b046-c89f-4640-beb5-0d6685b83055",
+      "party_type": "Person",
+      "full_name": "Hashimoto Okiie",
+      "cited_name": "Hashimoto Okiie",
+      "role": "printer",
+      "nationality": "Japanese",
+      "birth_date": "1899-01-01",
+      "death_date": "1993-01-01",
+      "birth_place": "Japan, Tottori-ken",
+      "death_place": null
+    }
+  ]
+}

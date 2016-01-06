@@ -1,0 +1,39 @@
+{
+  "title": "City Park, Winter",
+  "creation_date": "c. 1945",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "69.48.21",
+  "id": "cmoa:things/e435c7f8-d36f-4448-af7f-574eb87d27f1",
+  "credit_line": "Gift of Harold Obernauer",
+  "date_acquired": "1969-12-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012803",
+  "provenance_text": "Harold Obernauer, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107838&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fea9d12f-ee49-4d8f-a6b3-660ba0cb1e8d",
+      "party_type": "Person",
+      "full_name": "Aaron Bohrod",
+      "cited_name": "Bohrod, Aaron",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1907-01-01",
+      "death_date": "1992-01-01",
+      "birth_place": "Chicago (Cook county, Illinois, United States)",
+      "death_place": "Madison (Dane county, Wisconsin, United States)"
+    }
+  ]
+}

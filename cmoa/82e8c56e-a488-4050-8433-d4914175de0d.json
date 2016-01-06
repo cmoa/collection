@@ -1,0 +1,48 @@
+{
+  "title": "Disarm (Double Psaltery)",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "recycled metal",
+  "accession_number": "2013.49",
+  "id": "cmoa:things/82e8c56e-a488-4050-8433-d4914175de0d",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2013-12-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 19.688,
+  "item_height": 7.875,
+  "item_depth": 19.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=103098",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125812&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128945&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128946&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fc146e3a-c949-4caf-9a3a-d44216f312f6",
+      "party_type": "Person",
+      "full_name": "Pedro Reyes",
+      "cited_name": "Reyes, Pedro",
+      "role": null,
+      "nationality": "Mexican",
+      "birth_date": "1972-01-01",
+      "death_date": null,
+      "birth_place": "Mexico City (Distrito Federal, Mexico)",
+      "death_place": null
+    }
+  ]
+}

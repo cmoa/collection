@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "c. 1986",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1991-01-01",
+  "medium": "blown, applied, cut and polished glass",
+  "accession_number": "2002.69.6",
+  "id": "cmoa:things/4a0d2e20-4268-4fc2-994c-b0d8da688030",
+  "credit_line": "Gift of Barry Friedman, Ltd.",
+  "date_acquired": "2002-12-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=531",
+  "provenance_text": "Barry Friedman Ltd., New York, NY",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=9608&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/60056816-50e7-437c-bdda-7277d1501ddb",
+      "party_type": "Person",
+      "full_name": "Joel Philip Myers",
+      "cited_name": "Myers, Joel P.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1934-01-01",
+      "death_date": null,
+      "birth_place": "Patterson, New Jersey",
+      "death_place": null
+    }
+  ]
+}

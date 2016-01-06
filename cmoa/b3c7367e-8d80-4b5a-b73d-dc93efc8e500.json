@@ -1,0 +1,39 @@
+{
+  "title": "Gemini at Bath",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "50.20",
+  "id": "cmoa:things/b3c7367e-8d80-4b5a-b73d-dc93efc8e500",
+  "credit_line": "Gift of Mr. and Mrs. Alexander Lowenthal",
+  "date_acquired": "1950-12-15",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 72.875,
+  "item_height": 56.0,
+  "item_depth": 2.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008839",
+  "provenance_text": "Philip Lowenthal, Cincinnati, 1932; Alexander Lowenthal, Pittsburgh, by inheritance, 1942; gift to museum, 1950",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=107665&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3aee7c28-f457-4c90-ab7d-bc271021039b",
+      "party_type": "Person",
+      "full_name": "Waldo Peirce",
+      "cited_name": "Peirce, Waldo",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1884-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Bangor (Penobscot county, Maine, United States)",
+      "death_place": "Newburyport (Essex county, Massachusetts, United States)"
+    }
+  ]
+}

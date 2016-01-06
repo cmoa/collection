@@ -1,0 +1,39 @@
+{
+  "title": "Lynmouth",
+  "creation_date": "1957",
+  "creation_date_earliest": "1957-01-01",
+  "creation_date_latest": "1957-01-01",
+  "medium": "oil on Masonite",
+  "accession_number": "58.53",
+  "id": "cmoa:things/9bf1e05b-b546-45fa-883c-a7e19c5d064c",
+  "credit_line": "Patrons Art Fund",
+  "date_acquired": "1958-12-17",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 48.0,
+  "item_height": 72.0,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010879",
+  "provenance_text": "Gimpel Fils Gallery, London",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=121151&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8743c9c6-f2e8-405b-8107-36d88ce75eaf",
+      "party_type": "Person",
+      "full_name": "Peter Lanyon",
+      "cited_name": "Lanyon, Peter",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1918-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

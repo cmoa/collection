@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Fuse)",
+  "creation_date": "1996",
+  "creation_date_earliest": "1996-01-01",
+  "creation_date_latest": "1996-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2007.71",
+  "id": "cmoa:things/a320b490-a86f-470d-b7ba-d84ddf48ae47",
+  "credit_line": "Gift of Vicky A. Clark",
+  "date_acquired": "2008-02-07",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 18.5,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=55137",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=72591&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/623bad0c-1ff2-4317-afff-1c01f2c944d2",
+      "party_type": "Person",
+      "full_name": "Marco Breuer",
+      "cited_name": "Breuer, Marco",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "Landshut, Germany",
+      "death_place": null
+    }
+  ]
+}

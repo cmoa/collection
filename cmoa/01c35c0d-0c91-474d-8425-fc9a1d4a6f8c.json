@@ -1,0 +1,51 @@
+{
+  "title": "The Adoration of the Shepherds",
+  "creation_date": "c. 1550-1560",
+  "creation_date_earliest": "1534-12-22",
+  "creation_date_latest": "1559-12-22",
+  "medium": "engraving",
+  "accession_number": "2014.25",
+  "id": "cmoa:things/01c35c0d-0c91-474d-8425-fc9a1d4a6f8c",
+  "credit_line": "Mary Louise and Henry J. Gailliot Fund for Acquisitions",
+  "date_acquired": "2014-06-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.0,
+  "item_height": 20.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=104176",
+  "provenance_text": "Sir Peter Lely [1618-1680], London, England. William Cavendish, 2nd Duke of Devonshire [1672-1729], Chatsworth House, Derbyshire, England. By descent to Andrew Cavendish, 11th Duke of Devonshire [1920-2004], Chatsworth House, Devonshire, England; Trustees of the Chatsworth Settlement, England, by 1985; (sold at Christie's, London, England, December 5, 1985) [1]; Private collection, Germany. (C. G. Boerner, Inc., New York, NY, 2001); purchased by Carnegie Museum of Art, Pittsburgh, PA, June 2014. \nNOTES: [1] Lot 80.",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128764&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6b96328-6192-4a8b-8659-8c5148324167",
+      "party_type": "Person",
+      "full_name": "Giulio d. Bonasone",
+      "cited_name": "Bonasone, Giulio d.",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1495-01-01",
+      "death_date": null,
+      "birth_place": "Bologna, Italy",
+      "death_place": "Bologna, Italy"
+    },
+    {
+      "artist_id": "cmoa:parties/7a33afaa-5739-4dcc-a0a5-b887f37c7450",
+      "party_type": "Person",
+      "full_name": "Giulio Romano",
+      "cited_name": "Romano, Giulio",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1499-01-01",
+      "death_date": "1546-01-01",
+      "birth_place": "Rome",
+      "death_place": "Mantua"
+    }
+  ]
+}

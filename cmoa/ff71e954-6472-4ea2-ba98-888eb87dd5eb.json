@@ -1,0 +1,51 @@
+{
+  "title": "Le Concert de Famille (The Family Concert)",
+  "creation_date": "1769",
+  "creation_date_earliest": "1769-01-01",
+  "creation_date_latest": "1769-01-01",
+  "medium": "engraving on paper",
+  "accession_number": "15.4.1",
+  "id": "cmoa:things/ff71e954-6472-4ea2-ba98-888eb87dd5eb",
+  "credit_line": "Purchase",
+  "date_acquired": "1915-04-16",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000980",
+  "provenance_text": "Kennedy & Company",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=114704&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/10ee7459-f0e5-43b7-805d-0006bb2be574",
+      "party_type": "Person",
+      "full_name": "Johann Georg Wille",
+      "cited_name": "Wille, Johann G.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1715-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": "Königsberg in Bayern (Unterfranken, Bavaria, Germany)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/bf674b65-b5c2-4724-8ab5-31e3210b5c44",
+      "party_type": "Person",
+      "full_name": "Godfried Schalcken",
+      "cited_name": "Schalcken, Godfried",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1643-01-01",
+      "death_date": "1706-01-01",
+      "birth_place": "Made (North Brabant, Netherlands)",
+      "death_place": "Hague, The (South Holland, Netherlands)"
+    }
+  ]
+}

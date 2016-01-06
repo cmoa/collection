@@ -1,0 +1,45 @@
+{
+  "title": "Untitled (05.1)",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "mounted color photographs",
+  "accession_number": "2005.56.A-.C",
+  "id": "cmoa:things/00a4ccda-cd1a-4a91-a7c9-a9f37261fa45",
+  "credit_line": "Gruber Family Fund",
+  "date_acquired": "2005-12-01",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 31.625,
+  "item_height": 30.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=19949",
+  "provenance_text": "Tanya Bonakdar Gallery, New York City",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146288&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146289&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=146290&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6d316fb3-0ab3-4e13-bb10-080f919c9746",
+      "party_type": "Person",
+      "full_name": "Uta Barth",
+      "cited_name": "Barth, Uta",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1958-01-01",
+      "death_date": null,
+      "birth_place": "Berlin (Berlin state, Germany)",
+      "death_place": null
+    }
+  ]
+}

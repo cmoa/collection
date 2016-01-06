@@ -1,0 +1,39 @@
+{
+  "title": "Rhythm",
+  "creation_date": "1967",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "marble",
+  "accession_number": "78.24",
+  "id": "cmoa:things/dfd9e7a1-eeeb-4d31-b093-6d7574c6a877",
+  "credit_line": "Gift of Mr. and Mrs. Morris S. Lazaron",
+  "date_acquired": "1978-10-12",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 10.5,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019288",
+  "provenance_text": "Donor, West Palm Beach, FL",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127784&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/13d20b75-4551-47c1-9917-b3104cb78cb8",
+      "party_type": "Person",
+      "full_name": "Tillie Speyer",
+      "cited_name": "Speyer, Tillie",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1889-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Pittsburgh, PA",
+      "death_place": "Pittsburgh, PA"
+    }
+  ]
+}

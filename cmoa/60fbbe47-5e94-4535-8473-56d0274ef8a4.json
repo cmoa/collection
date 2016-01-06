@@ -1,0 +1,39 @@
+{
+  "title": "Portrait of Miss Ann Brownlow",
+  "creation_date": "c. 1769",
+  "creation_date_earliest": "1765-01-01",
+  "creation_date_latest": "1769-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "64.7.1",
+  "id": "cmoa:things/60fbbe47-5e94-4535-8473-56d0274ef8a4",
+  "credit_line": "Gift of Mrs. George H. Love, Messrs. Howard H. McClintic, Jr., Robert H. McClintic and Stewart McClintic",
+  "date_acquired": "1964-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.25,
+  "item_height": 30.0,
+  "item_depth": 1.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011834",
+  "provenance_text": "Old World Art, Inc., New York; Mrs. H. H. McClintic, Pittsburgh, until 1942; Howard H. McClintic, Jr., Robert H. McClintic, and Stewart McClintic, after 1942; gift to Museum, May 1964.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126361&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e25f626e-1c00-43de-8e30-a35d362eceff",
+      "party_type": "Person",
+      "full_name": "Tilly Kettle",
+      "cited_name": "Kettle, Tilly",
+      "role": "attributed to",
+      "nationality": "British",
+      "birth_date": "1735-01-01",
+      "death_date": "1786-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": " Aleppo (Halab governorate, Syria)"
+    }
+  ]
+}

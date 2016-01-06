@@ -1,0 +1,39 @@
+{
+  "title": "Composition with Three Figures--Fragment",
+  "creation_date": "1932",
+  "creation_date_earliest": "1932-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "54.19",
+  "id": "cmoa:things/5c508695-99d4-45d8-a035-82b63ce5c4ae",
+  "credit_line": "Gift of Mr. and Mrs. Henry J. Heinz II",
+  "date_acquired": "1954-05-26",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 44.5,
+  "item_height": 56.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009240",
+  "provenance_text": "Mme. Yvonne Zervos, Paris, until 1952; Mr. and Mrs. H. J. Heinz II, Sewickley, Pennsylvannia, 1952 until 1954; gift to Museum, May 1954.",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=17629&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d8510356-8abc-4fee-9400-6db82fdcc89b",
+      "party_type": "Person",
+      "full_name": "Fernand Léger",
+      "cited_name": "Léger, Fernand",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1881-01-01",
+      "death_date": "1955-01-01",
+      "birth_place": "Argentan (Orne, Basse-Normandie, France)",
+      "death_place": "Gif-sur-Yvette (Département de l'Essonne, Ile-de-France, France)"
+    }
+  ]
+}

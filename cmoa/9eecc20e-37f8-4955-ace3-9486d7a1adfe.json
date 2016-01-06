@@ -1,0 +1,51 @@
+{
+  "title": "A View of the Town of Concord",
+  "creation_date": "12/13/1775",
+  "creation_date_earliest": "1775-01-01",
+  "creation_date_latest": "1775-01-01",
+  "medium": "colored line engraving",
+  "accession_number": "55.20.4",
+  "id": "cmoa:things/9eecc20e-37f8-4955-ace3-9486d7a1adfe",
+  "credit_line": "Howard N. Eavenson Americana Collection",
+  "date_acquired": "1955-02-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 24.75,
+  "item_height": 20.25,
+  "item_depth": 1.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009394",
+  "provenance_text": "The Old Print Shop",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126319&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a3c0956-81f7-46ea-ad3e-13dc4d2af513",
+      "party_type": "Person",
+      "full_name": "Amos Doolittle",
+      "cited_name": "Doolittle, Amos",
+      "role": "after",
+      "nationality": "American",
+      "birth_date": "1754-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": " Cheshire (New Haven county, Connecticut, United States)",
+      "death_place": " New Haven (New Haven county, Connecticut, United States)"
+    },
+    {
+      "artist_id": "cmoa:parties/aa70a258-a9fb-4f05-bec4-7408659153a6",
+      "party_type": "Person",
+      "full_name": "Ralph Earl",
+      "cited_name": "Earl, Ralph",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1751-01-01",
+      "death_date": "1801-01-01",
+      "birth_place": "Shrewsbury (Worcester county, Massachusetts, United States)",
+      "death_place": "Bolton (Tolland county, Connecticut, United States)"
+    }
+  ]
+}

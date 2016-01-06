@@ -1,0 +1,39 @@
+{
+  "title": "La Mort Du Cygne, No. 3",
+  "creation_date": "c. 1910",
+  "creation_date_earliest": "1897-01-01",
+  "creation_date_latest": "1914-01-01",
+  "medium": "pencil",
+  "accession_number": "14.6.3",
+  "id": "cmoa:things/014064b3-172e-43c9-9ad5-d5b52040f09a",
+  "credit_line": "Purchase",
+  "date_acquired": "1914-03-30",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.125,
+  "item_height": 10.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000958",
+  "provenance_text": "Laura Knight",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99663&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/525518b8-2cc2-49ea-90b3-7500a1d0e85d",
+      "party_type": "Person",
+      "full_name": "Laura Knight",
+      "cited_name": "Knight, Laura",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1877-01-01",
+      "death_date": "1970-01-01",
+      "birth_place": "Long Eaton (Derbyshire, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "The great mammoth tusk found by John Claus at Sharpsburg on May 3, 1909",
+  "creation_date": "1909",
+  "creation_date_earliest": "1909-01-01",
+  "creation_date_latest": "1909-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "84.88.88",
+  "id": "cmoa:things/6b61d005-8d1c-4311-8292-f096ef3d5c86",
+  "credit_line": "Gift of the Carnegie Library of Pittsburgh",
+  "date_acquired": "1984-12-06",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.375,
+  "item_height": 3.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1025338",
+  "provenance_text": "Carnegie Library of Pittsburgh, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=111278&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4d0b2b16-a914-4a83-b9e7-162a7c0596c6",
+      "party_type": "Person",
+      "full_name": "Uriah L. Allen",
+      "cited_name": "Allen, Uriah L.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1923-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

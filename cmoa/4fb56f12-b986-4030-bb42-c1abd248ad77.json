@@ -1,0 +1,42 @@
+{
+  "title": "Miniature Portrait of Thomas Holt White",
+  "creation_date": "1802",
+  "creation_date_earliest": "1802-01-01",
+  "creation_date_latest": "1802-01-01",
+  "medium": "watercolor on ivory with gold frame",
+  "accession_number": "27.10.38",
+  "id": "cmoa:things/4fb56f12-b986-4030-bb42-c1abd248ad77",
+  "credit_line": "Gift of Herbert DuPuy",
+  "date_acquired": "1927-01-01",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.812,
+  "item_height": 3.75,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1005738",
+  "provenance_text": "Captain Warren, by 1904 [1]. (E. M. Hodgkins, New York, NY); purchased by Herbert Dupuy [1856-1930], Pittsburgh, PA, October 11, 1916; gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, November 1927. \nNOTES: [1] In 1904, this is cited in G. C. Williamson's book \"The History of Portrait Miniatures\" as being in the collection of Captain Warren.",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73432&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=73433&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e470bf2-f552-4178-96c9-868cf840d1c9",
+      "party_type": "Person",
+      "full_name": "John Smart",
+      "cited_name": "Smart, John",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1742-01-01",
+      "death_date": "1811-01-01",
+      "birth_place": "Norwich (Norfolk county, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

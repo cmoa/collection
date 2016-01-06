@@ -1,0 +1,51 @@
+{
+  "title": "Saltcellar",
+  "creation_date": "c. 1954-1960",
+  "creation_date_earliest": "1949-01-01",
+  "creation_date_latest": "1965-01-01",
+  "medium": "enameled silver",
+  "accession_number": "77.44.127",
+  "id": "cmoa:things/1308442d-6097-4379-99a0-ea033c35eb4f",
+  "credit_line": "Gift of Mr. and Mrs. Sidney M. Feldman",
+  "date_acquired": "1977-10-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 1.0,
+  "item_depth": 0.0,
+  "item_diameter": 2.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018713",
+  "provenance_text": "Mr. and Mrs. Sidney M. Feldman, Pittsburgh, PA",
+  "classification": "Metals",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5094&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2577085f-faa4-411c-9020-86de6f16f8e0",
+      "party_type": "Person",
+      "full_name": "Eigil Jensen",
+      "cited_name": "Jensen, Eigil",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": "1954-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/08aaba29-41d0-43b2-acb2-427647f07b1d",
+      "party_type": "Organization",
+      "full_name": "A. Michelsen",
+      "cited_name": "Michelsen, A.",
+      "role": null,
+      "nationality": "Danish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

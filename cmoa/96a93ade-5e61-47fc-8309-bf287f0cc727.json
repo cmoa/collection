@@ -1,0 +1,39 @@
+{
+  "title": "Grand Traiano Commercial Building Collage",
+  "creation_date": "2012",
+  "creation_date_earliest": "2012-01-01",
+  "creation_date_latest": "2012-01-01",
+  "medium": "museum board, photoprint",
+  "accession_number": "2013.34",
+  "id": "cmoa:things/96a93ade-5e61-47fc-8309-bf287f0cc727",
+  "credit_line": "Gift of Johnston Marklee",
+  "date_acquired": "2013-09-12",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 36.0,
+  "item_height": 40.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92479",
+  "provenance_text": "Johnston Marklee, Los Angeles",
+  "classification": "collages",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115251&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d4151446-52e5-4cb4-8941-ba18b1fcf2e1",
+      "party_type": "Organization",
+      "full_name": "Johnston Marklee",
+      "cited_name": "Johnston Marklee",
+      "role": null,
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

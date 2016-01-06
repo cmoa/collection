@@ -1,0 +1,42 @@
+{
+  "title": "Girl with Bouquet",
+  "creation_date": "early-mid 20th century",
+  "creation_date_earliest": "1916-01-01",
+  "creation_date_latest": "1948-01-01",
+  "medium": "lithograph on paper",
+  "accession_number": "48.13",
+  "id": "cmoa:things/cddba508-9b80-4a2e-a1a4-301b8bf8696c",
+  "credit_line": "Leisser Art Fund",
+  "date_acquired": "1948-04-23",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 28.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1008162",
+  "provenance_text": "Peppino Mangravite",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103615&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=75900&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8ed30ad0-e048-40f2-924f-2b0b248a04d1",
+      "party_type": "Person",
+      "full_name": "Peppino Mangravite",
+      "cited_name": "Mangravite, Peppino",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1896-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Lake Time",
+  "creation_date": "1960",
+  "creation_date_earliest": "1960-01-01",
+  "creation_date_latest": "1960-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2001.30",
+  "id": "cmoa:things/8a0533a9-b9a8-4639-96c4-09340d941d93",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2001-10-04",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 73.375,
+  "item_height": 61.125,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004234",
+  "provenance_text": "Alex Katz, New York, NY",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=21978&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2cc5bf0b-1297-42c2-93a1-cf2acfd9b5da",
+      "party_type": "Person",
+      "full_name": "Alex Katz",
+      "cited_name": "Katz, Alex",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1927-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn (New York City, New York State, United States)",
+      "death_place": null
+    }
+  ]
+}

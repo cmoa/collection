@@ -1,0 +1,39 @@
+{
+  "title": "View from 40 Wall Street",
+  "creation_date": "1980",
+  "creation_date_earliest": "1980-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "80.80.1",
+  "id": "cmoa:things/cfac2c35-d6a0-499c-8035-939607a15e5d",
+  "credit_line": "Gift of the artist",
+  "date_acquired": "1981-02-05",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021321",
+  "provenance_text": "Harry Wilks, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=112766&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/aac914eb-94ca-4766-ac1c-1239a34d9b79",
+      "party_type": "Person",
+      "full_name": "Harry Wilks",
+      "cited_name": "Wilks, Harry",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1942-01-01",
+      "death_date": null,
+      "birth_place": "New York City",
+      "death_place": null
+    }
+  ]
+}

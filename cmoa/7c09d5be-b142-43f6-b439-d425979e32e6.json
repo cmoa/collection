@@ -1,0 +1,57 @@
+{
+  "title": "Murrine plate",
+  "creation_date": "c. 1940",
+  "creation_date_earliest": "1940-01-01",
+  "creation_date_latest": "1945-01-01",
+  "medium": "glass, fused and slumped, with murrine",
+  "accession_number": "2005.47",
+  "id": "cmoa:things/7c09d5be-b142-43f6-b439-d425979e32e6",
+  "credit_line": "Women's Committee Acquisition Fund",
+  "date_acquired": "2005-10-06",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Museum of Art Lobby",
+  "item_width": 0.0,
+  "item_height": 2.25,
+  "item_depth": 0.0,
+  "item_diameter": 10.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=15278",
+  "provenance_text": "Barry Friedman Ltd., New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96182&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96184&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96189&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ac15f5d5-f0b4-4aa8-aee6-9a886e061d11",
+      "party_type": "Person",
+      "full_name": "Carlo Scarpa",
+      "cited_name": "Scarpa, Carlo",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1906-01-01",
+      "death_date": "1978-01-01",
+      "birth_place": " Venice (Venezia province, Veneto, Italy)",
+      "death_place": "Tokyo, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/4c5d08c0-e7dd-4e76-a08d-7f702956c789",
+      "party_type": "Organization",
+      "full_name": "Venini & C.",
+      "cited_name": "Venini & C.",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1929-01-01",
+      "death_date": "1985-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

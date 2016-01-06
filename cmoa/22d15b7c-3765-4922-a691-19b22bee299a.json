@@ -1,0 +1,45 @@
+{
+  "title": "Standing Figure",
+  "creation_date": "1954",
+  "creation_date_earliest": "1954-01-01",
+  "creation_date_latest": "1954-01-01",
+  "medium": "bronze",
+  "accession_number": "67.13.3",
+  "id": "cmoa:things/22d15b7c-3765-4922-a691-19b22bee299a",
+  "credit_line": "Gift of Aluminum Company of America",
+  "date_acquired": "1967-10-19",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 10.375,
+  "item_height": 25.25,
+  "item_depth": 10.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012306",
+  "provenance_text": "Swetzoff Gallery, Boston; G. David Thompson, Pittsburgh, PA, until June 26, 1965; G. David Thompson estate, June 1965-November 1966; G. David Thompson sale, Parke-Bernet, New York, NY, March 23, 1966, no. 20 (not sold) [1]; The Aluminum Company of America, Pittsburgh, PA, November 1966-October 19, 1967  [2]; gift to Museum, October 1967.\n\nNotes:\n[1]. ] \"The G. David Thompson Collection of Twentieth Century Paintings and Sculptures\" ; this lot was included in the first day of the auction, on March 23, 1966.\n[2]. Part of the Alcoa Collection of Contemporary Art.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126485&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126486&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126487&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e9c0a939-f70f-4876-8531-6f2cffbb95e4",
+      "party_type": "Person",
+      "full_name": "Fritz Wotruba",
+      "cited_name": "Wotruba, Fritz",
+      "role": null,
+      "nationality": "Austrian",
+      "birth_date": "1907-01-01",
+      "death_date": "1975-01-01",
+      "birth_place": "Vienna, Austria",
+      "death_place": "Vienna, Austria"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1989",
+  "creation_date_earliest": "1989-01-01",
+  "creation_date_latest": "1989-01-01",
+  "medium": "gouache and pencil on graph paper",
+  "accession_number": "2001.46",
+  "id": "cmoa:things/96797fae-d639-46eb-bf40-bc8cdc8a6fdf",
+  "credit_line": "Gift of Mr. and Mrs. James H. Rich",
+  "date_acquired": "2001-12-06",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 24.875,
+  "item_height": 20.0,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004347",
+  "provenance_text": "Sandra Gering Gallery, New York",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=100561&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5d442b01-73df-46c3-96e9-e21a7596a686",
+      "party_type": "Person",
+      "full_name": "Peter Halley",
+      "cited_name": "Halley, Peter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1953-01-01",
+      "death_date": null,
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": null
+    }
+  ]
+}

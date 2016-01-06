@@ -1,0 +1,45 @@
+{
+  "title": "Zig-Zag chair",
+  "creation_date": "c. 1938",
+  "creation_date_earliest": "1936-01-01",
+  "creation_date_latest": "1940-01-01",
+  "medium": "deal and hardware",
+  "accession_number": "2008.44",
+  "id": "cmoa:things/873ea8d9-d270-4817-bbaf-ac7fb134a172",
+  "credit_line": "Gift of Mary Jo and Jim Winokur",
+  "date_acquired": "2008-06-05",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 14.625,
+  "item_height": 27.75,
+  "item_depth": 14.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=61181",
+  "provenance_text": null,
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96335&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96334&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=96336&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/03ac6519-6681-48a1-803b-62f6862d668a",
+      "party_type": "Person",
+      "full_name": "Gerrit Thomas Rietveld",
+      "cited_name": "Rietveld, Gerrit Thomas",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1888-01-01",
+      "death_date": "1964-01-01",
+      "birth_place": "Utrecht",
+      "death_place": "Utrecht"
+    }
+  ]
+}

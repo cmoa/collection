@@ -1,0 +1,42 @@
+{
+  "title": "Mongolian Hat",
+  "creation_date": "1992",
+  "creation_date_earliest": "1992-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "fiberglass, enamel paint, metal and wire",
+  "accession_number": "93.150",
+  "id": "cmoa:things/f00bd91e-c621-40a1-b847-35b9a0335ebd",
+  "credit_line": "Feldman Bequest Fund",
+  "date_acquired": "1993-12-02",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 49.5,
+  "item_height": 99.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032986",
+  "provenance_text": "McKee Gallery, New York, NY",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149927&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149928&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/521d6a23-8919-40e1-9d4c-796e0a60a051",
+      "party_type": "Person",
+      "full_name": "John Duff",
+      "cited_name": "Duff, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Lafayette, IN",
+      "death_place": null
+    }
+  ]
+}

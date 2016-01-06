@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of William Thaw",
+  "creation_date": "c. 1870-1879",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1884-01-01",
+  "medium": "hand-colored albumen print",
+  "accession_number": "1997.15.2",
+  "id": "cmoa:things/8a3cc72c-3bfd-40af-b1fb-e9204b8b9717",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1997-04-03",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 16.625,
+  "item_height": 20.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002978",
+  "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=113899&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47fc0f3c-3531-4d17-a900-5db511b48810",
+      "party_type": "Person",
+      "full_name": "William H. Whitehead",
+      "cited_name": "Whitehead, William H.",
+      "role": "photographer",
+      "nationality": "American",
+      "birth_date": "1860-01-01",
+      "death_date": "1880-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/fb1ed0f1-4ef8-4595-ad89-81685333f00b",
+      "party_type": "Person",
+      "full_name": "John Earle",
+      "cited_name": "Earle, John",
+      "role": "painter",
+      "nationality": "American",
+      "birth_date": "1844-01-01",
+      "death_date": "1905-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

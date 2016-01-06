@@ -1,0 +1,51 @@
+{
+  "title": "The Marriage of Mopsus and Nisa",
+  "creation_date": "1570",
+  "creation_date_earliest": "1569-12-22",
+  "creation_date_latest": "1569-12-22",
+  "medium": "engraving",
+  "accession_number": "56.56",
+  "id": "cmoa:things/49d7cb0a-aec5-4d66-8fe3-146cc74d417d",
+  "credit_line": "Print Purchase Fund",
+  "date_acquired": "1956-12-21",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 22.0,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010272",
+  "provenance_text": "William H. Schab, NYC",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=94681&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a33c6519-ce05-422a-a0a3-28a4c1f20bda",
+      "party_type": "Person",
+      "full_name": "Pieter Bruegel I",
+      "cited_name": "Bruegel, Pieter, I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1520-01-01",
+      "death_date": "1569-01-01",
+      "birth_place": "Breda (North Brabant, Netherlands)",
+      "death_place": "Brussels (Bruxelles region, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/327781bb-aef7-42e9-9386-edf125ea9a22",
+      "party_type": "Person",
+      "full_name": "Pieter van der Heyden",
+      "cited_name": "Heyden, Pieter van der",
+      "role": "engraver",
+      "nationality": "Flemish",
+      "birth_date": "1515-01-01",
+      "death_date": "1573-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Berchem (Bruxelles region, Belgium)"
+    }
+  ]
+}

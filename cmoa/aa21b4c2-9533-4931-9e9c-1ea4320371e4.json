@@ -1,0 +1,39 @@
+{
+  "title": "Paris",
+  "creation_date": "1961",
+  "creation_date_earliest": "1961-01-01",
+  "creation_date_latest": "1961-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2010.15.6",
+  "id": "cmoa:things/aa21b4c2-9533-4931-9e9c-1ea4320371e4",
+  "credit_line": "Gift of Bruce Silverstein Gallery",
+  "date_acquired": "2010-02-04",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=88999",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=99669&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a7f9722-453b-45eb-8eed-e3dee92bc795",
+      "party_type": "Person",
+      "full_name": "Frank Paulin",
+      "cited_name": "Paulin, Frank",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1926-01-01",
+      "death_date": null,
+      "birth_place": "Pittsburgh, Pennsylvania",
+      "death_place": null
+    }
+  ]
+}

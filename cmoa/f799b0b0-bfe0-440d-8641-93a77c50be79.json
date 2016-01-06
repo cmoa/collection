@@ -1,0 +1,42 @@
+{
+  "title": "Untitled",
+  "creation_date": "1942-1943",
+  "creation_date_earliest": "1942-01-01",
+  "creation_date_latest": "1943-01-01",
+  "medium": "pencil on paper",
+  "accession_number": "1997.78.3",
+  "id": "cmoa:things/f799b0b0-bfe0-440d-8641-93a77c50be79",
+  "credit_line": "Gift of Virginia M. Zabriskie",
+  "date_acquired": "1997-12-04",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 16.0,
+  "item_height": 22.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003475",
+  "provenance_text": "Virginia M. Zabriskie, New York, NY",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=103167&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=89420&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/bd0283c8-1746-4e2b-8d10-6cc2737037f2",
+      "party_type": "Person",
+      "full_name": "Sidney Gordin",
+      "cited_name": "Gordin, Sidney",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1918-01-01",
+      "death_date": "1996-01-01",
+      "birth_place": "Russia",
+      "death_place": "Berkeley, California"
+    }
+  ]
+}

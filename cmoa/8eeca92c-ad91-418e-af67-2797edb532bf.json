@@ -1,0 +1,39 @@
+{
+  "title": "Study for \"Reverend James Abercrombie\"",
+  "creation_date": "1826",
+  "creation_date_earliest": "1826-01-01",
+  "creation_date_latest": "1826-01-01",
+  "medium": "oil on paper mounted on canvas",
+  "accession_number": "06.21.3",
+  "id": "cmoa:things/8eeca92c-ad91-418e-af67-2797edb532bf",
+  "credit_line": "Andrew Carnegie Fund",
+  "date_acquired": "1906-10-17",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.188,
+  "item_height": 11.75,
+  "item_depth": 1.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1000209",
+  "provenance_text": "Albert Rosenthal, Philadelphia, by 1906; Andrew Carnegie Fund, 1906",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=40978&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c46d6f9f-be22-471a-b033-555023f71405",
+      "party_type": "Person",
+      "full_name": "Thomas Sully",
+      "cited_name": "Sully, Thomas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1783-01-01",
+      "death_date": "1872-01-01",
+      "birth_place": "Horncastle (Lincolnshire, England, United Kingdom)",
+      "death_place": "Philadelphia (Philadelphia county, Pennsylvania, United States)"
+    }
+  ]
+}

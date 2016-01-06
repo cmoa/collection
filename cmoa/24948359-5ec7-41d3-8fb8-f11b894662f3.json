@@ -1,0 +1,39 @@
+{
+  "title": "Chair",
+  "creation_date": "c. 1805",
+  "creation_date_earliest": "1800-01-01",
+  "creation_date_latest": "1810-01-01",
+  "medium": "painted and gilded wood with original cane and brass",
+  "accession_number": "1996.8.2",
+  "id": "cmoa:things/24948359-5ec7-41d3-8fb8-f11b894662f3",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "1996-02-01",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Gallery 18, Bruce Galleries",
+  "item_width": 19.5,
+  "item_height": 35.938,
+  "item_depth": 2.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002896",
+  "provenance_text": "Matz & Pribell, Cambridge, MA",
+  "classification": "Wood",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8727&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/12f4cede-069b-4205-916c-898543977f10",
+      "party_type": "Person",
+      "full_name": "Jean-Joseph Chapuis",
+      "cited_name": "Chapuis, Jean-Joseph",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1765-01-01",
+      "death_date": "1864-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

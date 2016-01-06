@@ -1,0 +1,39 @@
+{
+  "title": "Gioacchino Rossini",
+  "creation_date": "1862",
+  "creation_date_earliest": "1862-01-01",
+  "creation_date_latest": "1862-01-01",
+  "medium": "plaster",
+  "accession_number": "2005.74",
+  "id": "cmoa:things/4d7016f3-b885-4a40-b916-d8078b4a0016",
+  "credit_line": "Gift of Charles Janoray",
+  "date_acquired": "2006-02-02",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 4, Scaife Galleries",
+  "item_width": 14.563,
+  "item_height": 26.375,
+  "item_depth": 9.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=20442",
+  "provenance_text": "Charles Janoray, LLC, New York, in 2004; Charles Janoray, until 2006. Gift to Museum, 2006.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=117458&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0870f69e-1a63-4c47-860f-83aeda7e1efd",
+      "party_type": "Person",
+      "full_name": "Jean-Pierre Dantan",
+      "cited_name": "Dantan, Jean-Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1800-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}
