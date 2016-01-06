@@ -1,0 +1,39 @@
+{
+  "title": "Portrait Plaque of Sarah Campbell DeCoux",
+  "creation_date": "1931",
+  "creation_date_earliest": "1931-01-01",
+  "creation_date_latest": "1931-01-01",
+  "medium": "marble with bronze frame",
+  "accession_number": "2015.45",
+  "id": "cmoa:things/7c47747c-8dab-4e4e-ac94-4127074098a4",
+  "credit_line": "Bequest of Sarah DeCoux",
+  "date_acquired": "2015-12-10",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.0,
+  "item_height": 12.75,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111052",
+  "provenance_text": "Janet DeCoux, Gibsonia, PA; Sarah DeCoux, PA; Estate of Sarah DeCoux",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148820&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0e86fb36-c684-42a9-99e2-24a0a045e566",
+      "party_type": "Person",
+      "full_name": "Janet DeCoux",
+      "cited_name": "DeCoux, Janet",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1904-01-01",
+      "death_date": "1999-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

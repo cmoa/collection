@@ -1,0 +1,39 @@
+{
+  "title": "Landscape",
+  "creation_date": "1986",
+  "creation_date_earliest": "1986-01-01",
+  "creation_date_latest": "1986-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2015.46",
+  "id": "cmoa:things/8b34cc91-f59c-4b44-bd60-f2769a6acad7",
+  "credit_line": "Gift of Judy and Stuart Spence",
+  "date_acquired": "2015-12-10",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 93.0,
+  "item_height": 62.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=110915",
+  "provenance_text": "Judith and Stuart Spence; purchased in April 1991 from Peter Pakesche for $12,000",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148579&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c40e29c0-3b4b-40e4-a985-95127c5b841b",
+      "party_type": "Person",
+      "full_name": "John Baldessari",
+      "cited_name": "Baldessari, John",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1931-01-01",
+      "death_date": null,
+      "birth_place": "National City (San Diego county, California, United States)",
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Urban Study, possibly Braunschweig)",
+  "creation_date": "1979",
+  "creation_date_earliest": "1979-01-01",
+  "creation_date_latest": "1979-01-01",
+  "medium": "pencil on card",
+  "accession_number": "2015.43.3",
+  "id": "cmoa:things/78ba5bef-370b-4092-8712-b4ebd7340380",
+  "credit_line": "Purchase: Drue Heinz Trust",
+  "date_acquired": "2015-12-10",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 17.75,
+  "item_height": 12.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111094",
+  "provenance_text": null,
+  "classification": "architectural drawings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149306&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b68bd59-670c-4da9-8643-1725e35ee6d2",
+      "party_type": "Person",
+      "full_name": "Günter Günschel",
+      "cited_name": "Günschel, Günter",
+      "role": "architect",
+      "nationality": "German",
+      "birth_date": "1928-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "2001",
+  "creation_date_earliest": "2001-01-01",
+  "creation_date_latest": "2001-01-01",
+  "medium": "computer drawing, colored and black ink",
+  "accession_number": "2015.43.6",
+  "id": "cmoa:things/bc3da967-4e58-4ff9-adea-c951051a13ea",
+  "credit_line": "Purchase: Drue Heinz Trust",
+  "date_acquired": "2015-12-10",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 16.5,
+  "item_height": 11.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111099",
+  "provenance_text": null,
+  "classification": "architectural drawings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=149299&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5b68bd59-670c-4da9-8643-1725e35ee6d2",
+      "party_type": "Person",
+      "full_name": "Günter Günschel",
+      "cited_name": "Günschel, Günter",
+      "role": "architect",
+      "nationality": "German",
+      "birth_date": "1928-01-01",
+      "death_date": "2008-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}
