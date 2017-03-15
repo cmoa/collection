@@ -1,0 +1,39 @@
+{
+  "title": "The Archer (Bogenschütze)",
+  "creation_date": "after 1895",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1910-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.12",
+  "id": "cmoa:things/d4e19a0a-7e10-41f4-8eb5-9504773af3ea",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 23.75,
+  "item_depth": 7.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113761",
+  "provenance_text": "Robert Bowman Gallery, London, until June 2012; Dr. Michael L. Nieland, Pittsburgh",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154529&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dd044c62-d4f2-439b-be14-5c02ed8d80bb",
+      "party_type": "Person",
+      "full_name": "Ernst Moritz Geyger",
+      "cited_name": "Ernst Moritz Geyger",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1861-01-01",
+      "death_date": "1941-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

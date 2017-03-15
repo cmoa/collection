@@ -10,12 +10,12 @@
   "date_acquired": "1929-02-25",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 36.0,
-  "item_height": 46.0,
-  "item_depth": 0.0,
+  "item_width": 42.5,
+  "item_height": 52.5,
+  "item_depth": 4.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1006193",
-  "provenance_text": "Mrs. J. Willis Dalzell (Mary Beer Dalzell) [c.1849-1929], Pittsburgh, PA until February 13, 1929; her bequest to Museum, February 1929.\n\nUnder review by CGK",
+  "provenance_text": "George Rufus Boynton [1854-1945], New York, NY [1]; Mrs. J. Willis Dalzell (Mary Beer Dalzell) [1844-1929], Pittsburgh, PA until February 13, 1929; Mary B. Dalzell estate, February 1929; bequest to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, February 1929 [2].\n\nNotes:\n[1]. Sources differ regarding the artist's birth date, given in various years between 1854 and 1868. Though a note in the curatorial file indicates that the 1868 date was confirmed by the artist, the earliest date appears more consistent (see curatorial file.) \n[2]. The painting was collected from Mrs. Dalzell's residence on Ridge Avenue in Pittsburgh and brought to Carnegie Institute on February 19, 1929. It was accessioned on February 25, 1929.",
   "classification": "paintings",
   "images": [
 
@@ -24,14 +24,14 @@
     {
       "artist_id": "cmoa:parties/57d1f8bf-49a3-4ada-ad34-2bf647a897c8",
       "party_type": "Person",
-      "full_name": "George R. Boynton",
-      "cited_name": "Boynton, George R.",
+      "full_name": "George Rufus Boynton",
+      "cited_name": "Boynton, George Rufus",
       "role": null,
       "nationality": "American",
-      "birth_date": "1868-01-01",
+      "birth_date": "1854-01-01",
       "death_date": "1945-01-01",
       "birth_place": "Pleasant Grove, Wisconsin",
-      "death_place": null
+      "death_place": "New York, New York"
     }
   ]
 }

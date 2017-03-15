@@ -1,7 +1,7 @@
 {
   "title": "Study for Sculpture 2",
-  "creation_date": null,
-  "creation_date_earliest": "1923-01-01",
+  "creation_date": "1969",
+  "creation_date_earliest": "1969-01-01",
   "creation_date_latest": "1969-01-01",
   "medium": "lithograph on paper",
   "accession_number": "79.54.2",
@@ -10,8 +10,8 @@
   "date_acquired": "1979-12-06",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
+  "item_width": 19.875,
+  "item_height": 25.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020505",
@@ -24,14 +24,14 @@
     {
       "artist_id": "cmoa:parties/be266d25-9799-44d3-b653-f24d28cc8c74",
       "party_type": "Person",
-      "full_name": "Samuel Lipton",
-      "cited_name": "Lipton, Samuel",
+      "full_name": "Seymour Lipton",
+      "cited_name": "Lipton, Seymour",
       "role": null,
       "nationality": "American",
       "birth_date": "1903-01-01",
-      "death_date": null,
-      "birth_place": null,
-      "death_place": null
+      "death_date": "1986-01-01",
+      "birth_place": "New York City (New York state, United States)",
+      "death_place": "Locust Valley (Nassau county, New York state, United States)"
     }
   ]
 }

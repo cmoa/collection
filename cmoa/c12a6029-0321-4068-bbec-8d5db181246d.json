@@ -10,14 +10,16 @@
   "date_acquired": "1997-12-04",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 71.0,
-  "item_height": 48.0,
-  "item_depth": 0.0,
+  "item_width": 70.875,
+  "item_height": 47.875,
+  "item_depth": 0.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003426",
   "provenance_text": "Mattress Factory, Pittsburgh, PA",
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/3e21ea14-a05e-4bb9-9b13-02ce566cd5a7",

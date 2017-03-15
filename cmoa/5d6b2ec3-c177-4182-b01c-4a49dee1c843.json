@@ -1,21 +1,21 @@
 {
-  "title": "New York Collection for Stockholm Portfolio",
+  "title": "Untitled",
   "creation_date": "1973",
   "creation_date_earliest": "1973-01-01",
   "creation_date_latest": "1973-01-01",
-  "medium": "lithographs, plates, and silkscreens",
+  "medium": "screenprint on paper",
   "accession_number": "76.67.10",
   "id": "cmoa:things/5d6b2ec3-c177-4182-b01c-4a49dee1c843",
   "credit_line": "Robert Rauschenberg, Inc., Captiva, FL",
   "date_acquired": "1977-02-10",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 8.938,
-  "item_height": 11.938,
+  "item_width": 9.0,
+  "item_height": 12.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018225",
-  "provenance_text": null,
+  "provenance_text": "Robert Rauschenberg, Inc., Captiva, FL",
   "classification": "prints",
   "images": [
     {
@@ -26,13 +26,13 @@
     {
       "artist_id": "cmoa:parties/6cce3e2b-839d-465a-b7ec-516ecaa9baa9",
       "party_type": "Person",
-      "full_name": "Hans Haake",
-      "cited_name": "Haake, Hans",
+      "full_name": "Hans Haacke",
+      "cited_name": "Haacke, Hans",
       "role": null,
-      "nationality": "American",
+      "nationality": "German",
       "birth_date": "1936-01-01",
       "death_date": null,
-      "birth_place": "Cologne, Germany",
+      "birth_place": "Cologne (North Rhine-Westphalia, Germany)",
       "death_place": null
     }
   ]

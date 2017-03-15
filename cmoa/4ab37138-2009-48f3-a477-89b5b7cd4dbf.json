@@ -1,0 +1,49 @@
+{
+  "title": "The Incredible [L'Incroyable]",
+  "creation_date": "c. 1870-1900",
+  "creation_date_earliest": "1865-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.19",
+  "id": "cmoa:things/4ab37138-2009-48f3-a477-89b5b7cd4dbf",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 12.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112828",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9b4cd599-e3d4-48ec-951c-fcb11fc8a060",
+      "party_type": "Person",
+      "full_name": "Victor L. Focillon",
+      "cited_name": "Focillon, Victor L.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1848-01-01",
+      "death_date": "1918-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6dd32a29-8331-4ec6-9b7b-bab9434363cd",
+      "party_type": "Person",
+      "full_name": "Ernest Meissonier",
+      "cited_name": "Meissonier, Ernest",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1815-01-01",
+      "death_date": "1891-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

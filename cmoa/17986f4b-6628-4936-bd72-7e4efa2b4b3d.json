@@ -1,0 +1,42 @@
+{
+  "title": "Avocado, Spencertown",
+  "creation_date": "1971, printed 2015-2016",
+  "creation_date_earliest": "1971-01-01",
+  "creation_date_latest": "1971-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2016.55.3",
+  "id": "cmoa:things/17986f4b-6628-4936-bd72-7e4efa2b4b3d",
+  "credit_line": "The Joseph Soffer Family Trust Fund, the William T. Hillman Fund for Photography, and the Gruber Family Fund",
+  "date_acquired": "2016-12-08",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 12.938,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=117930",
+  "provenance_text": "Kelly [1923-2015]. Artist's estate, Long Island, NY via death, April 2015; purchased by Carnegie Museum of Art, Pittsburgh, PA, December 2016 [1].\n\n[1] brokered by Matthew Marks Gallery, New York, NY",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159075&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159076&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d546b0cb-517a-4856-a087-9f6d12087851",
+      "party_type": "Person",
+      "full_name": "Ellsworth Kelly",
+      "cited_name": "Kelly, Ellsworth",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1923-05-31",
+      "death_date": "2015-12-27",
+      "birth_place": "Newburgh (Orange county, New York state, United States)",
+      "death_place": "Spencertown, New York"
+    }
+  ]
+}

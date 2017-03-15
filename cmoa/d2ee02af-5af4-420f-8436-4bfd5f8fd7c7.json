@@ -10,12 +10,12 @@
   "date_acquired": "2015-12-10",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 60.0,
-  "item_height": 180.0,
+  "item_width": 450.0,
+  "item_height": 150.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111145",
-  "provenance_text": "Mary Boone Gallery, New York; Carnegie Museum of Art, Pittsburgh, PA",
+  "provenance_text": "Judith Bernstein, New York, NY; (Mary Boone Gallery, New York, NY); Carnegie Museum of Art, Pittsburgh, PA",
   "classification": "drawings and watercolors",
   "images": [
 
@@ -25,12 +25,12 @@
       "artist_id": "cmoa:parties/61cfcdf0-88ea-46ef-ab51-25091dc03e9f",
       "party_type": "Person",
       "full_name": "Judith Bernstein",
-      "cited_name": "Judith Bernstein",
+      "cited_name": "Bernstein, Judith",
       "role": null,
       "nationality": "American",
       "birth_date": "1942-01-01",
       "death_date": null,
-      "birth_place": null,
+      "birth_place": "Newark, New Jersey",
       "death_place": null
     }
   ]

@@ -1,0 +1,49 @@
+{
+  "title": "Pastoral scene with hound",
+  "creation_date": "after 1611",
+  "creation_date_earliest": "1611-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.65",
+  "id": "cmoa:things/81c0df0b-0b3b-4e5b-bb14-bf266aafa9af",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.062,
+  "item_height": 4.812,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112904",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/eb84ee1b-02eb-4caa-bff7-59d09f4762d2",
+      "party_type": "Person",
+      "full_name": "Boetius Adams Bolswert",
+      "cited_name": "Bolswert, Boetius Adams",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1580-01-01",
+      "death_date": "1633-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

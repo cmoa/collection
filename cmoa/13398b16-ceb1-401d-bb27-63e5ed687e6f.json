@@ -1,0 +1,39 @@
+{
+  "title": "Summer",
+  "creation_date": "1617",
+  "creation_date_earliest": "1617-01-01",
+  "creation_date_latest": "1617-01-01",
+  "medium": "etching and engraving",
+  "accession_number": "2016.4.75",
+  "id": "cmoa:things/13398b16-ceb1-401d-bb27-63e5ed687e6f",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 10.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112899",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151080&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4c1a01e-5957-4c1a-bc48-d3b5702bffa0",
+      "party_type": "Person",
+      "full_name": "Jan van de Velde II",
+      "cited_name": "Velde, Jan van de",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1593-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Rotterdam or Delft",
+      "death_place": "Enkhuizen (North Holland, Netherlands)"
+    }
+  ]
+}

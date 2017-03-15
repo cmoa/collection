@@ -1,0 +1,54 @@
+{
+  "title": "\"Lotus\" vase",
+  "creation_date": "c. 1929",
+  "creation_date_earliest": "1924-01-01",
+  "creation_date_latest": "1934-01-01",
+  "medium": "glass",
+  "accession_number": "2016.2.2",
+  "id": "cmoa:things/d81534f8-c54e-4bf0-b304-f721eebce6d4",
+  "credit_line": "Martha Mack Lewis Fund",
+  "date_acquired": "2016-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "The Charity Randall Gallery",
+  "item_width": 0.0,
+  "item_height": 6.312,
+  "item_depth": 0.0,
+  "item_diameter": 2.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112186",
+  "provenance_text": "Historical Design Inc., New York",
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151052&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151054&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/845b0920-67bb-439c-a6b2-7baae4319211",
+      "party_type": "Person",
+      "full_name": "George Sakier",
+      "cited_name": "George Sakier",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1897-01-01",
+      "death_date": "1988-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/52474532-d3af-40a1-9562-e4acb3e2b2da",
+      "party_type": "Organization",
+      "full_name": "Fostoria Glass Company",
+      "cited_name": "Fostoria Glass Company",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1887-01-01",
+      "death_date": "1986-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

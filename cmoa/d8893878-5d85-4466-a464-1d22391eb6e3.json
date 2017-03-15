@@ -10,8 +10,8 @@
   "date_acquired": "2014-12-11",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 17.25,
-  "item_height": 15.25,
+  "item_width": 14.0,
+  "item_height": 10.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106183",
@@ -27,28 +27,28 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/8ca7c730-6236-47f8-bde2-354a1797d155",
-      "party_type": "Person",
-      "full_name": "Joseph Mallord William Turner",
-      "cited_name": "Turner, Joseph M.",
-      "role": "after",
-      "nationality": "English",
-      "birth_date": "1775-01-01",
-      "death_date": "1851-01-01",
-      "birth_place": "London (Greater London, England, United Kingdom)",
-      "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
-    },
-    {
       "artist_id": "cmoa:parties/1eba1d56-7578-415c-ac6f-bb81b2f3ee99",
       "party_type": "Person",
       "full_name": "Thomas Lupton",
       "cited_name": "Lupton, Thomas",
-      "role": "printmaker",
+      "role": "after",
       "nationality": "English",
       "birth_date": "1791-01-01",
       "death_date": "1873-01-01",
       "birth_place": "London (Greater London, England, United Kingdom)",
       "death_place": "London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/8ca7c730-6236-47f8-bde2-354a1797d155",
+      "party_type": "Person",
+      "full_name": "Joseph Mallord William Turner",
+      "cited_name": "Turner, Joseph M.",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1775-01-01",
+      "death_date": "1851-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Chelsea (London, Greater London, England, United Kingdom)"
     }
   ]
 }

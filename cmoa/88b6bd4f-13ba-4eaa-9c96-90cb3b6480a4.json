@@ -9,7 +9,7 @@
   "credit_line": "Charles J. Rosenbloom Fund",
   "date_acquired": "1989-04-06",
   "department": "Fine Arts",
-  "physical_location": "Gallery 19, Bruce Galleries",
+  "physical_location": "Not on View",
   "item_width": 16.0,
   "item_height": 22.0,
   "item_depth": 0.0,
@@ -26,12 +26,24 @@
       "party_type": "Person",
       "full_name": "Jean Bérain the Elder",
       "cited_name": "Bérain, Jean, the elder",
-      "role": null,
+      "role": "engraver",
       "nationality": "French",
       "birth_date": "1640-01-01",
       "death_date": "1711-01-01",
       "birth_place": "Saint-Mihiel (Meuse, Lorraine, France)",
       "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/b34f4d47-a8aa-4f0a-b1af-fa032aeb4919",
+      "party_type": "Person",
+      "full_name": "Pierre Giffart",
+      "cited_name": "Giffart, Pierre",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1638-01-01",
+      "death_date": "1723-01-01",
+      "birth_place": null,
+      "death_place": null
     }
   ]
 }

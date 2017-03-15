@@ -1,0 +1,49 @@
+{
+  "title": "Rocky Coastal View",
+  "creation_date": "c. 1635",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1640-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.85",
+  "id": "cmoa:things/a652aecb-23ff-460a-93d2-3142ffac4605",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 6.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112917",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/69436b82-0de2-410e-a66f-05130127d32a",
+      "party_type": "Person",
+      "full_name": "Frederick Bloemaert",
+      "cited_name": "Bloemaert, Frederick",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1611-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bf8eb78a-4acf-41c7-8d21-6e6c42177aa5",
+      "party_type": "Person",
+      "full_name": "Abraham Bloemaert",
+      "cited_name": "Bloemaert, Abraham",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1566-01-01",
+      "death_date": "1651-01-01",
+      "birth_place": "Gorinchem (South Holland, Netherlands)",
+      "death_place": "Utrecht (Utrecht province, Netherlands)"
+    }
+  ]
+}

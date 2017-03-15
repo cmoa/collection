@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 0.0,
-  "item_height": 2.938,
+  "item_height": 0.0,
   "item_depth": 0.0,
-  "item_diameter": 5.125,
+  "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035794",
   "provenance_text": "Tupperware Worldwide, Orlando, FL",
-  "classification": "Plastic/Synthetic",
-  "images": null,
+  "classification": "containers",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/0eea3320-5540-4762-95df-dda0b9f90f63",

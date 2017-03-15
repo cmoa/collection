@@ -1,0 +1,49 @@
+{
+  "title": "James Paine, cadet",
+  "creation_date": "1773",
+  "creation_date_earliest": "1773-01-01",
+  "creation_date_latest": "1773-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.34.2",
+  "id": "cmoa:things/4b2f7bf3-e311-451c-a2e2-c3d835be3836",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.062,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112837",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3615dcad-a789-43e8-a92f-c65d88108801",
+      "party_type": "Person",
+      "full_name": "Daniel Berger",
+      "cited_name": "Berger, Daniel",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1744-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/009a6704-7930-4107-bed9-40acd19278bc",
+      "party_type": "Person",
+      "full_name": "Sir Joshua Reynolds",
+      "cited_name": "Reynolds, Joshua",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1723-07-16",
+      "death_date": "1792-02-23",
+      "birth_place": "Plympton, England",
+      "death_place": "London, England"
+    }
+  ]
+}

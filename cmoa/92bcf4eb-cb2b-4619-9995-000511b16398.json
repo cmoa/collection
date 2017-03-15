@@ -1,0 +1,42 @@
+{
+  "title": "Water Carrier (L’Acquaiolo)",
+  "creation_date": "after 1881",
+  "creation_date_earliest": "1881-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.11",
+  "id": "cmoa:things/92bcf4eb-cb2b-4619-9995-000511b16398",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 21.5,
+  "item_depth": 8.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113449",
+  "provenance_text": "Marchesa Giulia Albani; by decent to Italian owner; sold Dorotheum, April 8, 2014 (lot 25); Thomas Colville Fine Art, Guilford, Connecticut until October 29, 2014 ; Dr. Michael L. Nieland; Gift to Carnegie Museum of Art",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154945&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154947&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4252b645-ee1e-47ac-833e-edaf9a48fc37",
+      "party_type": "Person",
+      "full_name": "Vincenzo Gemito",
+      "cited_name": "Vincenzo Gemito",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1852-01-01",
+      "death_date": "1929-01-01",
+      "birth_place": "Naples, Italy",
+      "death_place": "Naples, Italy"
+    }
+  ]
+}

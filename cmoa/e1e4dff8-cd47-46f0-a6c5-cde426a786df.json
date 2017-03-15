@@ -10,10 +10,10 @@
   "date_acquired": "1978-10-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.188,
-  "item_depth": 0.0,
-  "item_diameter": 2.5,
+  "item_width": 2.5,
+  "item_height": 0.125,
+  "item_depth": 2.5,
+  "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019959",
   "provenance_text": "John W. Beatty, Jr.",
   "classification": "Metals",
@@ -31,12 +31,24 @@
       "party_type": "Person",
       "full_name": "unknown American",
       "cited_name": "unknown American",
-      "role": null,
+      "role": "possibly by",
       "nationality": "American",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,
       "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e4f9eda9-9bdc-4e65-9f56-d08a6e584ee3",
+      "party_type": "Person",
+      "full_name": "Hermon A. MacNeil",
+      "cited_name": "MacNeil, Hermon A.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1866-01-01",
+      "death_date": "1947-01-01",
+      "birth_place": "Massachusetts (United States)",
+      "death_place": "Long Island (New York state, United States)"
     }
   ]
 }

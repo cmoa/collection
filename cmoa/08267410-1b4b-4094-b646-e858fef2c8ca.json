@@ -1,0 +1,61 @@
+{
+  "title": "Portrait of a man",
+  "creation_date": "1771",
+  "creation_date_earliest": "1771-01-01",
+  "creation_date_latest": "1771-01-01",
+  "medium": "soft ground etching",
+  "accession_number": "2016.4.124",
+  "id": "cmoa:things/08267410-1b4b-4094-b646-e858fef2c8ca",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.375,
+  "item_height": 11.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112892",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/612e864b-6031-418d-bb29-d8d2a02344c9",
+      "party_type": "Person",
+      "full_name": "Johannes Körnlein",
+      "cited_name": "Körnlein, Johannes",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1720-01-01",
+      "death_date": "1772-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/04144fa8-8c16-4a41-8a7c-875b9fd07077",
+      "party_type": "Person",
+      "full_name": "Cornelis Visscher",
+      "cited_name": "Visscher, Cornelis",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1629-01-01",
+      "death_date": "1658-01-01",
+      "birth_place": "possibly Haarlem, Netherlands",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

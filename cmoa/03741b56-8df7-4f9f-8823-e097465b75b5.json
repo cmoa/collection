@@ -16,7 +16,7 @@
   "item_diameter": 3.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035143",
   "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=63&size=Medium"
@@ -37,7 +37,7 @@
     },
     {
       "artist_id": "cmoa:parties/068353ff-0c8a-4a50-9500-7c242a6f5913",
-      "party_type": "Organization",
+      "party_type": "Person",
       "full_name": "Carl Schappel",
       "cited_name": "Schappel, Carl",
       "role": "manufacturer",

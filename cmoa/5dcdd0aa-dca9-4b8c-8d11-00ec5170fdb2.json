@@ -12,12 +12,14 @@
   "physical_location": "Not on View",
   "item_width": 2.625,
   "item_height": 4.125,
-  "item_depth": 0.0,
+  "item_depth": 2.625,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7046",
   "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA",
-  "classification": "Metals",
-  "images": null,
+  "classification": "lighting devices",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",

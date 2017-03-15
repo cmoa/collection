@@ -1,0 +1,49 @@
+{
+  "title": "Roma Triumphans",
+  "creation_date": "after 1586",
+  "creation_date_earliest": "1586-01-01",
+  "creation_date_latest": "1800-01-01",
+  "medium": "graphite, ink, brush and brown wash",
+  "accession_number": "2016.4.56",
+  "id": "cmoa:things/29e40500-6678-4a74-95a1-f6704697187c",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112849",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "The hermit Meinradus",
+  "creation_date": "1594",
+  "creation_date_earliest": "1594-01-01",
+  "creation_date_latest": "1594-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.57",
+  "id": "cmoa:things/b6125adc-07cf-46b9-84f6-447d190b3d85",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.063,
+  "item_height": 6.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112853",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35e899e7-01bd-4a78-98c4-34e597ea63ea",
+      "party_type": "Person",
+      "full_name": "Jan Sadeler I",
+      "cited_name": "Sadeler, Jan I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1550-01-01",
+      "death_date": "1600-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9caa4d57-fcc4-4206-a65a-717d1366f0a1",
+      "party_type": "Person",
+      "full_name": "Maarten de Vos",
+      "cited_name": "Vos, Maarten de",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1532-01-01",
+      "death_date": "1603-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

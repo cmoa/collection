@@ -1,0 +1,39 @@
+{
+  "title": "Untitled (Gallery)",
+  "creation_date": "2016",
+  "creation_date_earliest": "2016-01-01",
+  "creation_date_latest": "2016-01-01",
+  "medium": "acrylic on PVC panel",
+  "accession_number": "2016.52",
+  "id": "cmoa:things/d93f17fb-fca8-403f-8a2b-e85e5d43f35f",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2016-12-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 47.75,
+  "item_height": 59.75,
+  "item_depth": 2.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=120770",
+  "provenance_text": "David Zwirner",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159050&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/55b0db7d-6a04-433b-8954-7b589898ae65",
+      "party_type": "Person",
+      "full_name": "Kerry J. Marshall",
+      "cited_name": "Marshall, Kerry J.",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1955-01-01",
+      "death_date": null,
+      "birth_place": "Birmingham (Jefferson county, Alabama, United States)",
+      "death_place": null
+    }
+  ]
+}

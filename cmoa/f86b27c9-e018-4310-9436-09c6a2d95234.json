@@ -10,14 +10,16 @@
   "date_acquired": "2005-02-03",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 13.25,
+  "item_width": 13.125,
   "item_height": 10.5,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=14033",
   "provenance_text": null,
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/1d7cc2de-1c66-460f-a766-474f86538469",

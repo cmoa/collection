@@ -9,13 +9,13 @@
   "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
   "date_acquired": "1967-04-11",
   "department": "Fine Arts",
-  "physical_location": "Gallery 8, Scaife Galleries",
+  "physical_location": "Not on View",
   "item_width": 39.5,
   "item_height": 25.375,
-  "item_depth": 0.0,
+  "item_depth": 5.25,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012327",
-  "provenance_text": "Claude Oscar Monet [1840-1926], France, until October 30, 1905; purchased by Durand-Ruel Family, Paris, France, October 30, 1905, stock No. 8014 AL-212 [1]. Sam Salz, Inc., New York, NY, by 1967; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, April 1967 [2]. \nNOTES:1. See document dated September 12, 1966 from Durand-Ruel prepared for Sam Salz in curatorial file. Photo No. 5393, 9077. 2. Updated by CGK December 2013.",
+  "provenance_text": "Claude Oscar Monet [1840-1926], France, until October 30, 1905; purchased from the artist by Durand-Ruel, Paris, France, October 30, 1905 [1]; private collection of the Durand-Ruel Family, Paris, France [2]; Sam Salz [1894-1981], Inc., New York, NY, September 1966 until April 1967 [3]; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, April 1967. \n\nNotes: \n[1]. See document dated September 12, 1966 from Durand-Ruel & Cie prepared for Sam Salz in curatorial file, which also gives the relevant Durand-Ruel information for the painting (Ph. D-R No. 5393 - 9077 - St 8014 - No. A1 212.) It was purchased by Durand-Ruel for 10,000 F, according to the entry for the painting (no. 111) in the catalogue for the 1980 exhibition \"Hommage à Claude Monet (1840-1926)\" at the Galeries nationales du Grand Palais, Paris, France. \n[2]. According to Sam Salz correspondence in curatorial file. \n[3]. See both references in note [1].",
   "classification": "paintings",
   "images": [
     {
@@ -29,14 +29,14 @@
     {
       "artist_id": "cmoa:parties/9c1016d9-7b4e-493a-9e79-1a54b384d115",
       "party_type": "Person",
-      "full_name": "Claude Oscar Monet",
-      "cited_name": "Monet, Claude O.",
+      "full_name": "Claude Monet",
+      "cited_name": "Monet, Claude",
       "role": null,
       "nationality": "French",
       "birth_date": "1840-11-14",
       "death_date": "1926-12-05",
-      "birth_place": "Paris, France",
-      "death_place": "Giverny, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Giverny (Haute-Normandie, France)"
     }
   ]
 }

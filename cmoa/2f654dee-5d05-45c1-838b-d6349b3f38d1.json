@@ -1,0 +1,48 @@
+{
+  "title": "Untitled",
+  "creation_date": "1997-1998",
+  "creation_date_earliest": "1997-01-01",
+  "creation_date_latest": "1998-01-01",
+  "medium": "mixed media",
+  "accession_number": "2015.52.9",
+  "id": "cmoa:things/2f654dee-5d05-45c1-838b-d6349b3f38d1",
+  "credit_line": "Gift of Rachel and Harmony Korine",
+  "date_acquired": "2016-02-11",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 18.75,
+  "item_height": 15.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112809",
+  "provenance_text": "Mikhailov [b. 1938]. Rat Hole Gallery, Tokyo, Japan; Harmony and Rachel Korine, Nashville, TN; gifted to Carnegie Museum of Art, Pittsburgh, PA, January 2016",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153779&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153780&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153781&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153782&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/af2b0dcc-051e-439a-8582-921b2e28e6a3",
+      "party_type": "Person",
+      "full_name": "Boris Mikhailov",
+      "cited_name": "Mikhailov, Boris",
+      "role": "artist",
+      "nationality": "Ukrainian",
+      "birth_date": "1938-08-25",
+      "death_date": null,
+      "birth_place": "Kharkiv, Ukraine",
+      "death_place": null
+    }
+  ]
+}

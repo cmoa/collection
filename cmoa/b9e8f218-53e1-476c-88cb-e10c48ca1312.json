@@ -1,0 +1,49 @@
+{
+  "title": "Anne Countess of Dorset and Pembroke",
+  "creation_date": "1807",
+  "creation_date_earliest": "1807-01-01",
+  "creation_date_latest": "1807-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2016.4.174",
+  "id": "cmoa:things/b9e8f218-53e1-476c-88cb-e10c48ca1312",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 6.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113002",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ef07f8d2-9d8f-4a37-991e-2d4efec245d6",
+      "party_type": "Person",
+      "full_name": "John Scott",
+      "cited_name": "Scott, John",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/88230b29-bc9a-4360-b418-2fe2f534e2e4",
+      "party_type": "Person",
+      "full_name": "Ozias Humphrey",
+      "cited_name": "Humphrey, Ozias",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1742-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": " Honiton (Devon, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

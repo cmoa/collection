@@ -1,0 +1,48 @@
+{
+  "title": "One Piece in Four Parts",
+  "creation_date": "1976",
+  "creation_date_earliest": "1976-01-01",
+  "creation_date_latest": "1976-01-01",
+  "medium": "acrylic on fabric",
+  "accession_number": "2016.5.A-.D",
+  "id": "cmoa:things/a027a108-feb8-4a4d-b851-ddb2e9839b2f",
+  "credit_line": "A.W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2016-05-12",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 13, Scaife Galleries",
+  "item_width": 27.0,
+  "item_height": 27.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114254",
+  "provenance_text": "Acquired from the artist via Bortolami Gallery, New York, NY; Carnegie Museum of Art, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154043&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154044&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154045&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154046&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c27db95f-3d87-47ed-82fb-1c9e70e63e61",
+      "party_type": "Person",
+      "full_name": "Daniel Buren",
+      "cited_name": "Buren, Daniel",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1938-01-01",
+      "death_date": null,
+      "birth_place": "Boulogne-Billancourt (Hauts-de-Seine department, Île-de-France, France)",
+      "death_place": null
+    }
+  ]
+}

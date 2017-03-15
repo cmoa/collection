@@ -1,7 +1,7 @@
 {
   "title": "Untitled",
-  "creation_date": "1985",
-  "creation_date_earliest": "1985-01-01",
+  "creation_date": "1984-1985",
+  "creation_date_earliest": "1984-01-01",
   "creation_date_latest": "1985-01-01",
   "medium": "lithograph on paper",
   "accession_number": "93.146",
@@ -17,7 +17,9 @@
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032978",
   "provenance_text": "Mellon Bank Corporation, Pittsburgh, PA",
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/6322f050-ea40-47e0-97b1-f3545657b143",

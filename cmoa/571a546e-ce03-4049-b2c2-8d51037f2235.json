@@ -1,0 +1,39 @@
+{
+  "title": "The Last Supper",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "inkjet print",
+  "accession_number": "2016.15.2.5",
+  "id": "cmoa:things/571a546e-ce03-4049-b2c2-8d51037f2235",
+  "credit_line": "Gruber Family Fund",
+  "date_acquired": "2016-05-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 35.25,
+  "item_height": 23.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113852",
+  "provenance_text": "Kganye [b. 1990]; purchased by Carnegie Museum of Art, Pittsburgh, PA, May 2016",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154256&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1f15cff6-5954-440a-ae13-08b37487b7db",
+      "party_type": "Person",
+      "full_name": "Lebohang Kganye",
+      "cited_name": "Kganye, Lebohang",
+      "role": "artist",
+      "nationality": "South African",
+      "birth_date": "1990-01-01",
+      "death_date": null,
+      "birth_place": "Katlehong, South Africa",
+      "death_place": null
+    }
+  ]
+}

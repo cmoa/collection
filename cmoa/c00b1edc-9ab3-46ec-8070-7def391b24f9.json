@@ -1,0 +1,48 @@
+{
+  "title": "Predictive Dream XLVI",
+  "creation_date": "2014",
+  "creation_date_earliest": "2014-01-01",
+  "creation_date_latest": "2014-01-01",
+  "medium": "porcelain",
+  "accession_number": "2016.9.A-.B",
+  "id": "cmoa:things/c00b1edc-9ab3-46ec-8070-7def391b24f9",
+  "credit_line": "Charles D. Armstrong Deaccession Fund",
+  "date_acquired": "2016-05-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 11.0,
+  "item_depth": 13.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114019",
+  "provenance_text": null,
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157820&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157821&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157838&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/250533db-eb7e-4980-8a7c-f16609729757",
+      "party_type": "Person",
+      "full_name": "Katsuyo Aoki",
+      "cited_name": "Katsuyo Aoki",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1972-01-01",
+      "death_date": null,
+      "birth_place": "Tokyo",
+      "death_place": null
+    }
+  ]
+}

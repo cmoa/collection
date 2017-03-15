@@ -18,14 +18,16 @@
   "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh; gift to Museum, May 1978.",
   "classification": "paintings",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151955&size=Medium"
+    }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/b394aedf-a49a-4314-b786-99278c5a976f",
       "party_type": "Person",
-      "full_name": "David Teniers, The Younger",
-      "cited_name": "Teniers The Younger, David",
+      "full_name": "David Teniers II",
+      "cited_name": "Teniers, David, II",
       "role": null,
       "nationality": "Flemish",
       "birth_date": "1610-01-01",

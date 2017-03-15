@@ -1,0 +1,39 @@
+{
+  "title": "Millennium candleholder",
+  "creation_date": "2002",
+  "creation_date_earliest": "2002-01-01",
+  "creation_date_latest": "2002-01-01",
+  "medium": "steel and brass",
+  "accession_number": "2013.6.2",
+  "id": "cmoa:things/ed81d970-dd4c-49dd-b212-822b3e35985d",
+  "credit_line": "Second Century Acquisition Fund",
+  "date_acquired": "2013-02-14",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 20.75,
+  "item_depth": 5.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=118359",
+  "provenance_text": null,
+  "classification": "lighting devices",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=127628&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/132fce01-7215-42f3-8659-0fa676c9b94d",
+      "party_type": "Person",
+      "full_name": "Albert Paley",
+      "cited_name": "Paley, Albert",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

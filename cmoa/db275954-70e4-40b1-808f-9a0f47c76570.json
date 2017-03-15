@@ -1,0 +1,39 @@
+{
+  "title": "Perseus",
+  "creation_date": "1898, cast 1901",
+  "creation_date_earliest": "1898-01-01",
+  "creation_date_latest": "1901-01-01",
+  "medium": "bronze, on marble base",
+  "accession_number": "2016.18.16",
+  "id": "cmoa:things/db275954-70e4-40b1-808f-9a0f47c76570",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 8.0,
+  "item_height": 20.75,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113639",
+  "provenance_text": "Robert Bowman Gallery, London; Dr. Michael L. Nieland, Pittsburgh; Gift to Carnegie Museum of Art",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154789&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/41870511-d505-4630-a06c-e89775426585",
+      "party_type": "Person",
+      "full_name": "Frederick William Pomeroy",
+      "cited_name": "Frederick William Pomeroy",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1857-01-01",
+      "death_date": "1924-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

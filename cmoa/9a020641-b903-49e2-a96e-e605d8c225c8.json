@@ -1,9 +1,9 @@
 {
-  "title": "Untitled ",
+  "title": "Untitled",
   "creation_date": "1991",
   "creation_date_earliest": "1991-01-01",
   "creation_date_latest": "1991-01-01",
-  "medium": "portfolio of eleven color laser prints",
+  "medium": "color laser print",
   "accession_number": "1997.48.5.1",
   "id": "cmoa:things/9a020641-b903-49e2-a96e-e605d8c225c8",
   "credit_line": "Bequest of John Caldwell, Curator of Contemporary Art, 1983 - 1989",
@@ -15,9 +15,11 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003397",
-  "provenance_text": "Estate of John S. CALDWELL, San Francisco, CA",
+  "provenance_text": "Estate of John S. Caldwell, San Francisco, CA",
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/c1d9f13c-a797-459d-a63b-504af277c858",

@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011515",
-  "provenance_text": "Claude Oscar Monet [1840-1926], until 1926; estate of Claude Oscar Monet, France, 1926; Michel Monet [1878-1966], son of the artist, Sorel-Moussel, Eure-et-Loir, France, 1926 until 1950; Walter P. Chrysler, Jr. [1909-1988], New York, NY, 1950 until April 10, 1962 [1]; purchased by Museum, July 1962.\n\nNotes:\n[1]. See original bill of sale dated April 10, 1962 from Mr. Chrysler to Carnegie Institute. The museum's accesion of the work was on July 5, 1962.",
+  "provenance_text": "Claude Oscar Monet [1840-1926], until 1926; estate of Claude Oscar Monet, France, 1926; Michel Monet [1878-1966], son of the artist, Sorel-Moussel, Eure-et-Loir, France, 1926 until 1950; Walter P. Chrysler, Jr. [1909-1988], New York, NY, 1950 until April 10, 1962 [1]; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, July 1962.\n\nNotes:\n[1]. See original bill of sale dated April 10, 1962 from Mr. Chrysler to Carnegie Institute. The museum's accesion of the work was on July 5, 1962.",
   "classification": "paintings",
   "images": [
     {
@@ -29,14 +29,14 @@
     {
       "artist_id": "cmoa:parties/9c1016d9-7b4e-493a-9e79-1a54b384d115",
       "party_type": "Person",
-      "full_name": "Claude Oscar Monet",
-      "cited_name": "Monet, Claude O.",
+      "full_name": "Claude Monet",
+      "cited_name": "Monet, Claude",
       "role": null,
       "nationality": "French",
       "birth_date": "1840-11-14",
       "death_date": "1926-12-05",
-      "birth_place": "Paris, France",
-      "death_place": "Giverny, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Giverny (Haute-Normandie, France)"
     }
   ]
 }

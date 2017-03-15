@@ -1,0 +1,49 @@
+{
+  "title": "L'Accordee de Village",
+  "creation_date": "1819",
+  "creation_date_earliest": "1819-01-01",
+  "creation_date_latest": "1819-01-01",
+  "medium": "aquatint",
+  "accession_number": "2016.4.18",
+  "id": "cmoa:things/da7807f8-4835-4685-8f8c-cc9697185d85",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.625,
+  "item_height": 11.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112827",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6be1064c-c41b-4ca7-a61f-631a90bccd93",
+      "party_type": "Person",
+      "full_name": "Jean-Pierre-Marie Jazet",
+      "cited_name": "Jazet, Jean-Pierre-Marie",
+      "role": "printmaker",
+      "nationality": "French",
+      "birth_date": "1788-01-01",
+      "death_date": "1871-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2ca5646d-edb9-430c-b68a-988af0a5780a",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Greuze",
+      "cited_name": "Greuze, Jean B.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1725-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": " Tournus (Saône-et-Loire, Burgundy region, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

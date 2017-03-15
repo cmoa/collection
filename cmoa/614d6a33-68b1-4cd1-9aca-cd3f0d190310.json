@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009199",
-  "provenance_text": "Pierre Auguste Renoir [1841-1919]. Peter H. Deitsch, New York, NY, by 1954; purchased by Museum, March 1954.",
+  "provenance_text": "Pierre Auguste Renoir [1841-1919], Paris, France. Peter H. Deitsch, New York, NY, by November 1953; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, March 1954.",
   "classification": "prints",
   "images": [
     {
@@ -26,14 +26,14 @@
     {
       "artist_id": "cmoa:parties/44cf7f5e-cf2f-4ad6-ba20-97fabb279d29",
       "party_type": "Person",
-      "full_name": "Pierre Auguste Renoir",
-      "cited_name": "Renoir, Pierre A.",
+      "full_name": "Pierre-Auguste Renoir",
+      "cited_name": "Renoir, Pierre-Auguste",
       "role": null,
       "nationality": "French",
       "birth_date": "1841-02-25",
       "death_date": "1919-12-03",
-      "birth_place": "Limoges, France",
-      "death_place": "Cagnes-sur-Mer, France"
+      "birth_place": "Limoges (Limousin, France)",
+      "death_place": "Cagnes-sur-Mer (Provence-Alpes-Côte d'Azur, France)"
     }
   ]
 }

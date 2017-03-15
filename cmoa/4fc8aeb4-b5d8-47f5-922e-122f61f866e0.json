@@ -1,0 +1,42 @@
+{
+  "title": "The Sluggard",
+  "creation_date": "1890",
+  "creation_date_earliest": "1890-01-01",
+  "creation_date_latest": "1890-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.13",
+  "id": "cmoa:things/4fc8aeb4-b5d8-47f5-922e-122f61f866e0",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 8.625,
+  "item_height": 21.0,
+  "item_depth": 6.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113629",
+  "provenance_text": "Purchased Fine Art Society before 1950; Robert Bowman Gallery, London, 1998; Private Collection U.K.; Robert Bowman Gallery, London, until March 2011; Dr. Michael L. Nieland, Pittsburgh.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154972&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154974&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cd9c0334-a7db-4e1e-b504-88e79a9b7ad1",
+      "party_type": "Person",
+      "full_name": "Lord Frederic Leighton",
+      "cited_name": "Lord Frederic Leighton",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1830-01-01",
+      "death_date": "1896-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

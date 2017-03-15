@@ -10,14 +10,16 @@
   "date_acquired": "1989-12-07",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
-  "item_depth": 0.0,
+  "item_width": 6.75,
+  "item_height": 9.25,
+  "item_depth": 0.25,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027489",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nPurchased by Dr. Austin at auction at Sotheby & Co., London, 2/3/1970, Lot 223 through Bluett & Sons, London.",
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/22c48b19-9459-4b31-bdd1-1595359e1204",

@@ -1,9 +1,9 @@
 {
-  "title": "Bett",
-  "creation_date": "1997",
-  "creation_date_earliest": "1997-01-01",
-  "creation_date_latest": "1997-01-01",
-  "medium": "video; color, sound; 4 min.",
+  "title": "Stiefel mit rakete",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "video; color, sound; 1 min.",
   "accession_number": "1999.46.3",
   "id": "cmoa:things/1266018f-9c16-4faf-abef-941ae2cfb10b",
   "credit_line": "Milton Fine Fund",
@@ -17,7 +17,9 @@
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003914",
   "provenance_text": null,
   "classification": "Video",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/7cb2e0dd-00ed-4468-8991-78b1ce8b2799",

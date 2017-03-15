@@ -1,0 +1,66 @@
+{
+  "title": "The Passion: The Last Supper",
+  "creation_date": "1596-1598",
+  "creation_date_earliest": "1596-01-01",
+  "creation_date_latest": "1598-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.57.1",
+  "id": "cmoa:things/fb003f36-6d69-4648-8186-74ffb44fef91",
+  "credit_line": "Charles J. Rosenbloom Fund and Frances G. Scaife Fund",
+  "date_acquired": "2016-12-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.0,
+  "item_height": 6.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=120689",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158792&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158804&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/999c59f1-ad97-4abc-b3c6-5451b14fd31a",
+      "party_type": "Person",
+      "full_name": "Karel van Mander I",
+      "cited_name": "Mander, Karel van, I",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1548-01-01",
+      "death_date": "1606-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7c853756-bd8e-4bbb-ada7-b5f8199a36d8",
+      "party_type": "Person",
+      "full_name": "Jacques de Gheyn II",
+      "cited_name": "de Gheyn, Jacques II",
+      "role": "publisher",
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1629-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7c806b65-8553-46ce-89c3-d0e146ceb692",
+      "party_type": "Person",
+      "full_name": "Zacharias Dolendo",
+      "cited_name": "Dolendo, Zacharias",
+      "role": "engraver",
+      "nationality": "Netherlandish",
+      "birth_date": "1561-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

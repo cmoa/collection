@@ -1,0 +1,49 @@
+{
+  "title": "Albrecht Durer the Elder",
+  "creation_date": "1644",
+  "creation_date_earliest": "1644-01-01",
+  "creation_date_latest": "1644-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.27",
+  "id": "cmoa:things/e22cf2b8-1423-44b8-8582-5cfccd992994",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 9.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112832",
+  "provenance_text": "Henry King Siebeneck; Carnegie Library of Pittsburgh; Rolf Loeber, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb29656-17d8-406e-848c-ad093b3f8c2e",
+      "party_type": "Person",
+      "full_name": "Wenceslaus Von Prachna Hollar",
+      "cited_name": "Hollar, Wenceslaus V.",
+      "role": "printmaker",
+      "nationality": "Bohemian",
+      "birth_date": "1607-01-01",
+      "death_date": "1677-01-01",
+      "birth_place": " Prague (Středočeský, Czech Republic)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/d3c0aeba-e02f-4caa-a0c7-eeb249bbfaa4",
+      "party_type": "Person",
+      "full_name": "Albrecht Dürer",
+      "cited_name": "Dürer, Albrecht",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1471-01-01",
+      "death_date": "1528-01-01",
+      "birth_place": "Nuremberg (Mittelfranken, Bavaria, Germany)",
+      "death_place": "Nuremberg (Mittelfranken, Bavaria, Germany)"
+    }
+  ]
+}

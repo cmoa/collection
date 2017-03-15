@@ -1,0 +1,39 @@
+{
+  "title": "Untitled",
+  "creation_date": "1995",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1995-01-01",
+  "medium": "ink on paper",
+  "accession_number": "2015.47.10",
+  "id": "cmoa:things/3873e200-96fa-440a-8d2e-89070fcdcf57",
+  "credit_line": "Gift of Eileen and Michael Cohen",
+  "date_acquired": "2016-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 26.0,
+  "item_height": 31.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111086",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151077&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/79647107-9ac5-4672-840a-b93f3a1ccb1f",
+      "party_type": "Person",
+      "full_name": "Douglas Kolk",
+      "cited_name": "Kolk, Douglas",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1963-01-01",
+      "death_date": "2014-01-01",
+      "birth_place": "Newark, New Jersey",
+      "death_place": null
+    }
+  ]
+}

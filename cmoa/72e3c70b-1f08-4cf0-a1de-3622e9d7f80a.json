@@ -10,14 +10,16 @@
   "date_acquired": "1987-04-02",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 2.625,
-  "item_depth": 0.0,
-  "item_diameter": 17.5,
+  "item_width": 17.5,
+  "item_height": 2.5,
+  "item_depth": 17.5,
+  "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1026270",
   "provenance_text": "The Society for Art in Crafts, PA, Pittsburgh",
   "classification": "Metals",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9ef2d86a-6553-4a1d-8840-0437a802465f",

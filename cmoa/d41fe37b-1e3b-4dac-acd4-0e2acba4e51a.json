@@ -1,0 +1,45 @@
+{
+  "title": "The Finish Line (Au But)",
+  "creation_date": "1886-1887",
+  "creation_date_earliest": "1886-01-01",
+  "creation_date_latest": "1887-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.9",
+  "id": "cmoa:things/d41fe37b-1e3b-4dac-acd4-0e2acba4e51a",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.25,
+  "item_height": 17.5,
+  "item_depth": 12.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113638",
+  "provenance_text": "Steve Newman Fine Arts, Atlanta, Georgia; Dr. Michael L. Nieland, Pittsburgh",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154654&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154649&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154655&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98d0ac3a-64aa-4175-ae46-766fcb289218",
+      "party_type": "Person",
+      "full_name": "Alfred Boucher",
+      "cited_name": "Alfred Boucher",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1850-01-01",
+      "death_date": "1934-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

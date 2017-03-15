@@ -1,0 +1,49 @@
+{
+  "title": "A woman with poultry",
+  "creation_date": "after 1625",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1700-01-01",
+  "medium": "engraving, proof before letters",
+  "accession_number": "2016.4.83",
+  "id": "cmoa:things/4395639f-42a1-4cc7-950e-4e135bce236d",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.75,
+  "item_height": 7.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112914",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
+      "party_type": "Person",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bf8eb78a-4acf-41c7-8d21-6e6c42177aa5",
+      "party_type": "Person",
+      "full_name": "Abraham Bloemaert",
+      "cited_name": "Bloemaert, Abraham",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1566-01-01",
+      "death_date": "1651-01-01",
+      "birth_place": "Gorinchem (South Holland, Netherlands)",
+      "death_place": "Utrecht (Utrecht province, Netherlands)"
+    }
+  ]
+}

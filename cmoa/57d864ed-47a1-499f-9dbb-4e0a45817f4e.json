@@ -1,0 +1,51 @@
+{
+  "title": "Landscape with the Rape of Ganymede",
+  "creation_date": "c.1603-1605",
+  "creation_date_earliest": "1598-01-01",
+  "creation_date_latest": "1605-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.59",
+  "id": "cmoa:things/57d864ed-47a1-499f-9dbb-4e0a45817f4e",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 10.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112896",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150821&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ef68600-4822-43c5-a5b6-1d0a59b48180",
+      "party_type": "Person",
+      "full_name": "Jan Saenredam",
+      "cited_name": "Saenredam, Jan",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1607-01-01",
+      "birth_place": "Zaandam (North Holland, Netherlands)",
+      "death_place": " Assendelft (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/bf8eb78a-4acf-41c7-8d21-6e6c42177aa5",
+      "party_type": "Person",
+      "full_name": "Abraham Bloemaert",
+      "cited_name": "Bloemaert, Abraham",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1566-01-01",
+      "death_date": "1651-01-01",
+      "birth_place": "Gorinchem (South Holland, Netherlands)",
+      "death_place": "Utrecht (Utrecht province, Netherlands)"
+    }
+  ]
+}

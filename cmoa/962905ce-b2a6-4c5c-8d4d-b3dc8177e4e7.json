@@ -1,0 +1,51 @@
+{
+  "title": "The Leopard [complete set, bound]",
+  "creation_date": "c. 1658",
+  "creation_date_earliest": "1653-01-01",
+  "creation_date_latest": "1663-01-01",
+  "medium": "engravings",
+  "accession_number": "2016.4.101",
+  "id": "cmoa:things/962905ce-b2a6-4c5c-8d4d-b3dc8177e4e7",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.5,
+  "item_height": 6.938,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112869",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150819&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/055fc4ad-55e3-4c40-8c24-0521f2a60493",
+      "party_type": "Person",
+      "full_name": "Marcus de Bye",
+      "cited_name": "Bye, Marcus de",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1639-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/328bf405-85c5-4e03-be26-c3afc8d70712",
+      "party_type": "Person",
+      "full_name": "Paulus Potter",
+      "cited_name": "Potter, Paulus",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1625-01-01",
+      "death_date": "1654-01-01",
+      "birth_place": "Enkhuizen (North Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

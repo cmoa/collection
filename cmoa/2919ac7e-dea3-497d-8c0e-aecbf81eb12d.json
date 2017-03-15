@@ -18,13 +18,15 @@
   "provenance_text": "Gift of Mordecai Ardon (Ardon-Bronstein), 1960.",
   "classification": "paintings",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153451&size=Medium"
+    }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/15531775-a45c-4fc2-9392-f31197c0e2df",
       "party_type": "Person",
-      "full_name": "Mordecai Ardo",
+      "full_name": "Mordecai Ardon",
       "cited_name": "Ardon, Mordecai",
       "role": null,
       "nationality": "Israeli",

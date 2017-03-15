@@ -1,0 +1,61 @@
+{
+  "title": "The prodigal son wasting his inheritance",
+  "creation_date": "1585, printed c. 1650",
+  "creation_date_earliest": "1585-01-01",
+  "creation_date_latest": "1652-01-01",
+  "medium": "engraving, later state",
+  "accession_number": "2016.4.45",
+  "id": "cmoa:things/b50c87e8-4215-4b0b-9ed8-23b41739f066",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 7.75,
+  "item_depth": 0.688,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112856",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb211f3f-245a-4622-950f-16dac268f320",
+      "party_type": "Person",
+      "full_name": "Hans Collaert I",
+      "cited_name": "Collaert, Hans I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1525-01-01",
+      "death_date": "1581-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/f7898437-c048-4da1-a9cc-d16331629876",
+      "party_type": "Person",
+      "full_name": "Crispin van den Broeck",
+      "cited_name": "Broeck, Crispin van den",
+      "role": "publisher",
+      "nationality": "Flemish",
+      "birth_date": "1523-01-01",
+      "death_date": "1589-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/923ddefa-0727-473e-88bc-129d5f4e5d5a",
+      "party_type": "Person",
+      "full_name": "Claes Jansz. Visscher",
+      "cited_name": "Visscher, Claes Jansz.",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1587-01-01",
+      "death_date": "1652-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Portrait of old man",
+  "creation_date": "1834",
+  "creation_date_earliest": "1834-01-01",
+  "creation_date_latest": "1834-01-01",
+  "medium": "steel engraving",
+  "accession_number": "2016.4.33",
+  "id": "cmoa:things/a0147771-85ea-4f9d-aaed-14d54663e3cd",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.625,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112840",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/301a82c4-89e5-460d-98d0-d30301332b67",
+      "party_type": "Person",
+      "full_name": "Rosmäster",
+      "cited_name": "Rosmäster",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2a2f4ac0-0df6-4d09-9dbe-c7c945892f20",
+      "party_type": "Person",
+      "full_name": "Carl Georg Christian Schumacher",
+      "cited_name": "Schumacher, Carl Georg Christian",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1797-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

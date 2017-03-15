@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 4.75,
-  "item_height": 11.25,
-  "item_depth": 0.0,
+  "item_height": 11.375,
+  "item_depth": 0.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016399",
   "provenance_text": "Anonymous donor, Pittsburgh, PA; gift to Carnegie Museum of Art, Pittsburgh, PA, October 1977.",
   "classification": "Textiles",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9a0fa5ba-5800-4b51-ba7e-f029941f6b3d",

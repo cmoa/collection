@@ -20,12 +20,24 @@
   "images": null,
   "creator": [
     {
-      "artist_id": "cmoa:parties/01901882-d383-4e1a-b4bd-b74784dfb0e3",
+      "artist_id": "cmoa:parties/ac654c5c-8453-4b8a-ab5b-9817583e2fdc",
       "party_type": "Person",
-      "full_name": "unknown Swiss or Italian",
-      "cited_name": "unknown Swiss or Italian",
+      "full_name": "unknown Swiss",
+      "cited_name": "unknown Swiss",
       "role": "possibly by",
-      "nationality": "undetermined",
+      "nationality": "Swiss",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": "possibly by",
+      "nationality": "Italian",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

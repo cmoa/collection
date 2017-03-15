@@ -24,11 +24,23 @@
   ],
   "creator": [
     {
+      "artist_id": "cmoa:parties/04594442-4883-4390-a84d-ad26b405c942",
+      "party_type": "Person",
+      "full_name": "Richard Julius Jungtow",
+      "cited_name": "Jungtow, Richard Julius",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1828-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
       "artist_id": "cmoa:parties/24b2667c-fd48-4906-9063-06ab6c7f25f6",
       "party_type": "Person",
       "full_name": "Alfred Rethel",
       "cited_name": "Rethel, Alfred",
-      "role": "after",
+      "role": null,
       "nationality": "German",
       "birth_date": "1816-01-01",
       "death_date": "1859-01-01",

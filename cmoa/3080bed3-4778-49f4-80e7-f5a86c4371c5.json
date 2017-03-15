@@ -1,0 +1,42 @@
+{
+  "title": "Vase",
+  "creation_date": "c. 1925",
+  "creation_date_earliest": "1920-01-01",
+  "creation_date_latest": "1930-01-01",
+  "medium": "enameled-metal",
+  "accession_number": "2016.18.4",
+  "id": "cmoa:things/3080bed3-4778-49f4-80e7-f5a86c4371c5",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 5.0,
+  "item_height": 5.0,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114444",
+  "provenance_text": "Mark Evers Antiques & Fine Art, Pittsburgh; sold to Dr. Michael L. Nieland, Pittsburgh, January 16, 1999; Gift to Carnegie Museum of Art",
+  "classification": "containers",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155037&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155036&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/dc5a1c30-399f-4ba5-9e68-a10a13e221d9",
+      "party_type": "Person",
+      "full_name": "Camille Fauré",
+      "cited_name": "Fauré, Camille",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1874-11-16",
+      "death_date": "1956-01-01",
+      "birth_place": "Périgueux, France",
+      "death_place": null
+    }
+  ]
+}

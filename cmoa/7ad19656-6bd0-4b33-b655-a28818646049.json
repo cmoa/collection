@@ -3,21 +3,23 @@
   "creation_date": "1991",
   "creation_date_earliest": "1991-01-01",
   "creation_date_latest": "1991-01-01",
-  "medium": "photographs, acrylic, pencil, type",
+  "medium": "photographs, acrylic, pencil, type on paper",
   "accession_number": "92.111.3",
   "id": "cmoa:things/7ad19656-6bd0-4b33-b655-a28818646049",
   "credit_line": "Patrons Art Fund",
   "date_acquired": "1992-10-19",
   "department": "Film and Video",
   "physical_location": "Not on View",
-  "item_width": 21.0,
-  "item_height": 42.0,
+  "item_width": 42.0,
+  "item_height": 21.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1030154",
   "provenance_text": "Paul Glabicki, Pittsburgh, PA",
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/ffdb3351-869f-4edf-8c48-ea73aaa2fa1c",

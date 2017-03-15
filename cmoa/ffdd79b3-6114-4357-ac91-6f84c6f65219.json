@@ -1,23 +1,27 @@
 {
-  "title": "MD+AW",
+  "title": "MD + AW",
   "creation_date": "2002",
   "creation_date_earliest": "2002-01-01",
   "creation_date_latest": "2002-01-01",
-  "medium": "watercolor on paper",
+  "medium": "watercolor and pencil on paper",
   "accession_number": "2002.27.3",
   "id": "cmoa:things/ffdd79b3-6114-4357-ac91-6f84c6f65219",
   "credit_line": "Purchase, with funds from The Buddy Taub Foundation, Dennis A. Roach and Jill Roach, Directors",
   "date_acquired": "2002-06-06",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 18.125,
-  "item_height": 18.125,
+  "item_width": 18.0,
+  "item_height": 18.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=212",
   "provenance_text": null,
   "classification": "drawings and watercolors",
-  "images": null,
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153962&size=Medium"
+    }
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9c9b5b67-c74b-4ee0-b2e8-9b1bc5825199",

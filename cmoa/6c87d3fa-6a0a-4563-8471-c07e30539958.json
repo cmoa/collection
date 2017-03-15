@@ -31,12 +31,24 @@
       "party_type": "Person",
       "full_name": "Jean Bérain the Elder",
       "cited_name": "Bérain, Jean, the elder",
-      "role": null,
+      "role": "engraver",
       "nationality": "French",
       "birth_date": "1640-01-01",
       "death_date": "1711-01-01",
       "birth_place": "Saint-Mihiel (Meuse, Lorraine, France)",
       "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/d243b48f-0f4b-49da-8152-c49b6e1227a9",
+      "party_type": "Person",
+      "full_name": "M. Diagremont",
+      "cited_name": "Diagremont, M.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
     }
   ]
 }

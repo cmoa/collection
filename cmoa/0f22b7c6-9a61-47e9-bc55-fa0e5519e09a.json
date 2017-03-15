@@ -28,12 +28,24 @@
       "party_type": "Person",
       "full_name": "Jacobus Houbraken",
       "cited_name": "Houbraken, Jacobus",
-      "role": null,
+      "role": "after",
       "nationality": "Dutch",
       "birth_date": "1698-01-01",
       "death_date": "1780-01-01",
       "birth_place": " Dordrecht (South Holland, Netherlands)",
       "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/323d2a4a-bc30-4731-b466-675b89d8b177",
+      "party_type": "Person",
+      "full_name": "Samuel Cooper",
+      "cited_name": "Cooper, Samuel",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1609-01-01",
+      "death_date": "1672-01-01",
+      "birth_place": "London, England",
+      "death_place": "London, England"
     }
   ]
 }

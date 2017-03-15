@@ -16,7 +16,7 @@
   "item_diameter": 2.125,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018100",
   "provenance_text": "Mrs. Edward Pitcairn, Pittsburgh, PA",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1758&size=Medium"
@@ -24,12 +24,36 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/c97d3813-32a5-423a-bbf6-71243e70651f",
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
       "party_type": "Person",
-      "full_name": "unknown French, English or Venetian",
-      "cited_name": "unknown French, English or Venetian",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "possibly by",
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
+      "party_type": "Person",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/79ba22b3-060e-4a3b-bd75-385716e77b3e",
+      "party_type": "Person",
+      "full_name": "unknown Venetian",
+      "cited_name": "unknown Venetian",
+      "role": "possibly by",
+      "nationality": "Venetian",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

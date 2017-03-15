@@ -26,12 +26,24 @@
       "party_type": "Person",
       "full_name": "Jean Bérain the Elder",
       "cited_name": "Bérain, Jean, the elder",
-      "role": null,
+      "role": "engraver",
       "nationality": "French",
       "birth_date": "1640-01-01",
       "death_date": "1711-01-01",
       "birth_place": "Saint-Mihiel (Meuse, Lorraine, France)",
       "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/d26596ca-7d9d-4654-8742-57f18ba9d71e",
+      "party_type": "Person",
+      "full_name": "J.L. Bojan",
+      "cited_name": "Bojan, J.L.",
+      "role": null,
+      "nationality": "French",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
     }
   ]
 }

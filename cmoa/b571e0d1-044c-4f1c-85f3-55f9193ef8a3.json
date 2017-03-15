@@ -1,0 +1,39 @@
+{
+  "title": "Standing nude",
+  "creation_date": "c. 1900",
+  "creation_date_earliest": "1895-01-01",
+  "creation_date_latest": "1905-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.10",
+  "id": "cmoa:things/b571e0d1-044c-4f1c-85f3-55f9193ef8a3",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 9.75,
+  "item_height": 28.5,
+  "item_depth": 6.5,
+  "item_diameter": 19.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113641",
+  "provenance_text": "Bowman Sculpture Ltd., London; Dr. Michael L. Nieland, Pittsburgh; Gift to Carnegie Museum of Art",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154993&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c5afcdbe-fb6b-432f-a113-467ae38b8c3e",
+      "party_type": "Person",
+      "full_name": "Henry Charles Fehr",
+      "cited_name": "Henry C. Fehr",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1867-01-01",
+      "death_date": "1940-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

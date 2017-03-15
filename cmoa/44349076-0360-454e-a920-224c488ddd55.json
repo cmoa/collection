@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 0.625,
-  "item_height": 0.875,
-  "item_depth": 0.625,
+  "item_height": 0.625,
+  "item_depth": 0.875,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16146",
   "provenance_text": null,
   "classification": "Metals",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/6b89c35f-6948-43bc-ba90-43919ca61a4b",

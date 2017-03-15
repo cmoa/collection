@@ -3,7 +3,7 @@
   "creation_date": "2012",
   "creation_date_earliest": "2012-01-01",
   "creation_date_latest": "2012-01-01",
-  "medium": "video; color, sound; 3:10 min",
+  "medium": "video (color, sound); 3:10 min.",
   "accession_number": "2014.7.A-.D",
   "id": "cmoa:things/949c7f6f-7a15-40d9-a700-abbebc70f09f",
   "credit_line": "The Henry L. Hillman Fund",
@@ -15,9 +15,18 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=102191",
-  "provenance_text": null,
-  "classification": "Video installations",
+  "provenance_text": "Mark Leckey; (Gavin Brown's enterprise, New York, NY); Carnegie Museum of Art, Pittsburgh, PA",
+  "classification": "installations",
   "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125571&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155383&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155390&size=Medium"
+    },
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=128733&size=Medium"
     }

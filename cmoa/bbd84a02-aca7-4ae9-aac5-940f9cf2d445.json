@@ -1,0 +1,49 @@
+{
+  "title": "Anne of Cleves",
+  "creation_date": "1648",
+  "creation_date_earliest": "1648-01-01",
+  "creation_date_latest": "1648-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.29",
+  "id": "cmoa:things/bbd84a02-aca7-4ae9-aac5-940f9cf2d445",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.25,
+  "item_height": 10.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112834",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb29656-17d8-406e-848c-ad093b3f8c2e",
+      "party_type": "Person",
+      "full_name": "Wenceslaus Von Prachna Hollar",
+      "cited_name": "Hollar, Wenceslaus V.",
+      "role": "engraver",
+      "nationality": "Bohemian",
+      "birth_date": "1607-01-01",
+      "death_date": "1677-01-01",
+      "birth_place": " Prague (Středočeský, Czech Republic)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/0f025e69-aecd-4742-9e21-ff76f31cd486",
+      "party_type": "Person",
+      "full_name": "Hans Holbein the Younger",
+      "cited_name": "Holbein, Hans, the Younger",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1543-01-01",
+      "birth_place": "Augsburg, Germany",
+      "death_place": "London, England"
+    }
+  ]
+}

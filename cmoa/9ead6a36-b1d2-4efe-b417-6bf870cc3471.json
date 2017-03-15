@@ -10,13 +10,13 @@
   "date_acquired": "1995-05-25",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 1.0,
-  "item_height": 6.875,
+  "item_width": 0.0,
+  "item_height": 0.0,
   "item_depth": 0.0,
-  "item_diameter": 5.25,
+  "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035808",
   "provenance_text": "Tupperware Worldwide, Orlando, FL",
-  "classification": "Plastic/Synthetic",
+  "classification": "containers",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5142&size=Medium"
@@ -33,7 +33,7 @@
       "artist_id": "cmoa:parties/023e5afa-997a-4d79-b4d7-06ba838b3bef",
       "party_type": "Collaboration",
       "full_name": "Morison Cousins and Douglas Laib",
-      "cited_name": "Cousins, Morison and Laib, Douglas",
+      "cited_name": "Cousins, Morison and Douglas Laib",
       "role": "designer",
       "nationality": "American",
       "birth_date": null,

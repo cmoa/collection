@@ -16,7 +16,7 @@
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016235",
   "provenance_text": "Gift of Mr. and Mrs. Henry Oliver Rea, 1971.",
-  "classification": "Glass",
+  "classification": "lighting devices",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1750&size=Medium"
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/12417638-93c0-45a0-8e11-b154911656b9",
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
       "party_type": "Person",
-      "full_name": "unknown English or Irish",
-      "cited_name": "unknown English or Irish",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3b27d69a-7ddb-4e1b-8a81-4fb053e63800",
+      "party_type": "Person",
+      "full_name": "unknown Irish",
+      "cited_name": "unknown Irish",
+      "role": "possibly by",
+      "nationality": "Irish",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

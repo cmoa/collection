@@ -12,12 +12,14 @@
   "physical_location": "Not on View",
   "item_width": 5.0,
   "item_height": 7.25,
-  "item_depth": 0.0,
+  "item_depth": 0.25,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1027461",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Charles H. Mitchell, Tokyo, 1970's.  Ex Collection of Charles H. Mitchell, Tokyo.",
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/fcaf3c09-9cc0-4475-9593-f6d964b93d07",

@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 4.375,
-  "item_height": 10.0,
-  "item_depth": 0.0,
+  "item_height": 10.25,
+  "item_depth": 4.375,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=7015",
   "provenance_text": "C. Talbott Hiteshew, Pittsburgh, PA",
-  "classification": "Metals",
-  "images": null,
+  "classification": "lighting devices",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/cf835706-40e7-462f-889d-5ace2189ca2e",

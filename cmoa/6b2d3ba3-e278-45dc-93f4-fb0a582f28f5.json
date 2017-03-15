@@ -3,7 +3,7 @@
   "creation_date": "1788",
   "creation_date_earliest": "1788-01-01",
   "creation_date_latest": "1788-01-01",
-  "medium": "engraving",
+  "medium": "stipple printed in color",
   "accession_number": "70.32.2524",
   "id": "cmoa:things/6b2d3ba3-e278-45dc-93f4-fb0a582f28f5",
   "credit_line": "Ailsa Mellon Bruce Collection",
@@ -28,12 +28,24 @@
       "party_type": "Person",
       "full_name": "Charles Knight",
       "cited_name": "Knight, Charles",
-      "role": null,
+      "role": "after",
       "nationality": "English",
       "birth_date": "1743-01-01",
       "death_date": "1827-01-01",
       "birth_place": null,
       "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e79e6607-2cb2-4db5-88bf-ad6d2e873eff",
+      "party_type": "Person",
+      "full_name": "George Morland",
+      "cited_name": "Morland, George",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1763-01-01",
+      "death_date": "1804-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
     }
   ]
 }

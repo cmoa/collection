@@ -1,0 +1,49 @@
+{
+  "title": "How to ride up Hyde Park",
+  "creation_date": "1786",
+  "creation_date_earliest": "1786-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "stipple in brown",
+  "accession_number": "2016.4.151",
+  "id": "cmoa:things/8165a6da-7602-4b73-8ce6-39854ef0a282",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.25,
+  "item_height": 12.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112958",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cd949b92-748d-4456-88a9-f0617770c463",
+      "party_type": "Person",
+      "full_name": "William Dickinson",
+      "cited_name": "Dickinson, William",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1736-01-01",
+      "death_date": "1823-01-01",
+      "birth_place": "London (Greater London, England, United Kingdom)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/c7a23b78-a18c-4efe-be9a-5e5c107bb424",
+      "party_type": "Person",
+      "full_name": "Henry William Bunbury",
+      "cited_name": "Bunbury, Henry William",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1750-01-01",
+      "death_date": "1811-01-01",
+      "birth_place": "Suffolk (England, United Kingdom)",
+      "death_place": "Keswick (Cumbria, England, United Kingdom)"
+    }
+  ]
+}

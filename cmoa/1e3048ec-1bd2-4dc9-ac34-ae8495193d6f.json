@@ -3,7 +3,7 @@
   "creation_date": "2013",
   "creation_date_earliest": "2013-01-01",
   "creation_date_latest": "2013-01-01",
-  "medium": "styrofoam, fabric, wooden boxes",
+  "medium": "styrofoam, fabric, and wooden boxes",
   "accession_number": "2014.8.4.A-.D",
   "id": "cmoa:things/1e3048ec-1bd2-4dc9-ac34-ae8495193d6f",
   "credit_line": "A. W. Mellon Acquisition Endowment Fund\nCommissioned by Carnegie Museum of Art for the 2013 Carnegie International",
@@ -18,7 +18,9 @@
   "provenance_text": null,
   "classification": "sculpture",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=133006&size=Medium"
+    }
   ],
   "creator": [
     {

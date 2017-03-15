@@ -1,5 +1,5 @@
 {
-  "title": "Male ",
+  "title": "Male",
   "creation_date": "c. 1775",
   "creation_date_earliest": "1770-01-01",
   "creation_date_latest": "1780-01-01",
@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 5.25,
-  "item_height": 11.25,
+  "item_height": 11.125,
   "item_depth": 2.75,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019990",
   "provenance_text": "Mr. And Mrs. Frederic L. Cook, Sewickley, PA",
-  "classification": "Unclassified",
-  "images": null,
+  "classification": "crèches",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9eabd8c2-9339-40da-9343-22fd27820f0b",

@@ -24,23 +24,11 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/36c94e3f-51b2-4727-8a11-b02cabc8e644",
-      "party_type": "Person",
-      "full_name": "Follower of Rubens",
-      "cited_name": "Rubens, Follower of",
-      "role": "after",
-      "nationality": "Flemish",
-      "birth_date": null,
-      "death_date": null,
-      "birth_place": null,
-      "death_place": null
-    },
-    {
       "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
       "party_type": "Person",
       "full_name": "Peter Paul Rubens",
       "cited_name": "Rubens, Peter P.",
-      "role": null,
+      "role": "follower of",
       "nationality": "Flemish",
       "birth_date": "1577-01-01",
       "death_date": "1640-01-01",

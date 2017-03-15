@@ -1,0 +1,61 @@
+{
+  "title": "The Seventh Plague",
+  "creation_date": "1861-1865",
+  "creation_date_earliest": "1861-01-01",
+  "creation_date_latest": "1865-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.184",
+  "id": "cmoa:things/1a9cf2c2-e001-48e9-88b5-f401059992c8",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.25,
+  "item_height": 10.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112988",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f75322f3-1ef2-4edd-adf7-396621d7c97d",
+      "party_type": "Person",
+      "full_name": "John Godfrey",
+      "cited_name": "Godfrey, John",
+      "role": "engraver",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/b655ed2b-98ff-40ac-bde5-4b5541f29d76",
+      "party_type": "Person",
+      "full_name": "John Martin",
+      "cited_name": "Martin, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1789-01-01",
+      "death_date": "1854-01-01",
+      "birth_place": "Haydon Bridge, Northumberland, England",
+      "death_place": "Douglas, Isle of Man"
+    },
+    {
+      "artist_id": "cmoa:parties/f3f170cd-206a-4f21-a8df-53eceeb86ba2",
+      "party_type": "Organization",
+      "full_name": "J. S. Virtue & Co.",
+      "cited_name": "J. S. Virtue & Co.",
+      "role": "publisher",
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

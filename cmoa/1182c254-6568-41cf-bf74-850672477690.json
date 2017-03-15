@@ -1,8 +1,8 @@
 {
-  "title": "This is Apartheid, Evicted from Their Freehold Homes",
+  "title": "Untitled",
   "creation_date": "mid-1960s",
   "creation_date_earliest": "1962-01-01",
-  "creation_date_latest": "1967-01-01",
+  "creation_date_latest": "1966-01-01",
   "medium": "gelatin silver print",
   "accession_number": "2015.29",
   "id": "cmoa:things/1182c254-6568-41cf-bf74-850672477690",
@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=108823",
-  "provenance_text": "Julie Saul Gallery, New York to CMOA, June 2015",
+  "provenance_text": "Cole [1940-1990].  Camera Press; private dealer, London, United Kingdom; Julie Saul Gallery, New York, NY; purchased by Carnegie Museum of Art, Pittsburgh, PA, August 2015",
   "classification": "photographs",
   "images": [
     {
@@ -28,12 +28,12 @@
       "party_type": "Person",
       "full_name": "Ernest Cole",
       "cited_name": "Cole, Ernest",
-      "role": null,
+      "role": "artist",
       "nationality": "South African",
-      "birth_date": "1940-01-01",
-      "death_date": "1990-01-01",
-      "birth_place": null,
-      "death_place": null
+      "birth_date": "1940-03-21",
+      "death_date": "1990-02-18",
+      "birth_place": "Eersterust, Pretoria, South Africa",
+      "death_place": "New York, NY"
     }
   ]
 }

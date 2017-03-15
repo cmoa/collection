@@ -1,0 +1,49 @@
+{
+  "title": "Resignation of Margaret Thatcher. Downing Street.",
+  "creation_date": "November 22, 1990",
+  "creation_date_earliest": "1990-11-22",
+  "creation_date_latest": "1990-11-22",
+  "medium": "photograph",
+  "accession_number": "2015.47.4",
+  "id": "cmoa:things/492340be-6a1d-4afd-abd4-a246aad425b4",
+  "credit_line": "Gift of Eileen and Michael Cohen",
+  "date_acquired": "2016-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 7.875,
+  "item_height": 11.25,
+  "item_depth": 1.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=110841",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d15da9b6-978d-4f4b-a677-2757bbd63f20",
+      "party_type": "Person",
+      "full_name": "Liam Gillick",
+      "cited_name": "Liam Gillick",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1964-01-01",
+      "death_date": null,
+      "birth_place": "Aylesbury, Buckinghamshire, England",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/be67e724-209e-4e55-bf16-b96a70bb20e8",
+      "party_type": "Person",
+      "full_name": "Henry Bond",
+      "cited_name": "Henry Bond",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1966-01-01",
+      "death_date": null,
+      "birth_place": "East London, England",
+      "death_place": null
+    }
+  ]
+}

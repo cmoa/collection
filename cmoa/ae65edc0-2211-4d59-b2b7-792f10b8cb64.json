@@ -1,0 +1,49 @@
+{
+  "title": "Landscape with a dilapidated hut",
+  "creation_date": "1616-1641",
+  "creation_date_earliest": "1616-01-01",
+  "creation_date_latest": "1641-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.73",
+  "id": "cmoa:things/ae65edc0-2211-4d59-b2b7-792f10b8cb64",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112912",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b4c1a01e-5957-4c1a-bc48-d3b5702bffa0",
+      "party_type": "Person",
+      "full_name": "Jan van de Velde II",
+      "cited_name": "Velde, Jan van de",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1593-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Rotterdam or Delft",
+      "death_place": "Enkhuizen (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/57686a45-7e24-4f98-b7a6-837634536872",
+      "party_type": "Person",
+      "full_name": "Pieter Molijn",
+      "cited_name": "Molijn, Pieter",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1595-01-01",
+      "death_date": "1661-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

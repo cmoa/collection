@@ -11,13 +11,15 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 3.5,
-  "item_height": 4.125,
-  "item_depth": 0.0,
+  "item_height": 4.625,
+  "item_depth": 0.625,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002977",
   "provenance_text": "Richard T. Rosenthal, Philadelphia, PA",
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",

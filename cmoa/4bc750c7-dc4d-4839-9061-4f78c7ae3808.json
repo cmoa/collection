@@ -1,0 +1,49 @@
+{
+  "title": "Aeschylus' The Furies: Awake, Arise, Rouse Her as I Rouse Thee",
+  "creation_date": "1795",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.168",
+  "id": "cmoa:things/4bc750c7-dc4d-4839-9061-4f78c7ae3808",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 18.5,
+  "item_height": 13.313,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112949",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72c142de-23b3-4ddf-b12f-18f4b95f622b",
+      "party_type": "Person",
+      "full_name": "Tommaso Piroli",
+      "cited_name": "Piroli, tommaso",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1747-01-01",
+      "death_date": "1824-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/cfa69c70-c764-4f98-bb8a-a53c09f46afe",
+      "party_type": "Person",
+      "full_name": "John Flaxman",
+      "cited_name": "Flaxman, John",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1755-01-01",
+      "death_date": "1826-01-01",
+      "birth_place": "York (York, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

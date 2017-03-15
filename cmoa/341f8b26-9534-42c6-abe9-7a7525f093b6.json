@@ -1,0 +1,49 @@
+{
+  "title": "John Taylor",
+  "creation_date": "1754",
+  "creation_date_earliest": "1754-01-01",
+  "creation_date_latest": "1754-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.123",
+  "id": "cmoa:things/341f8b26-9534-42c6-abe9-7a7525f093b6",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 14.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112880",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c51341f-2549-4f1c-8058-3de110ec37e1",
+      "party_type": "Person",
+      "full_name": "Jacobus Houbraken",
+      "cited_name": "Houbraken, Jacobus",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1698-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": " Dordrecht (South Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/542280a1-56b7-4e6c-aff9-91788301d16c",
+      "party_type": "Person",
+      "full_name": "John Theodore Heins, Sr.",
+      "cited_name": "Heins, John Theodore, Sr.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1697-01-01",
+      "death_date": "1756-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

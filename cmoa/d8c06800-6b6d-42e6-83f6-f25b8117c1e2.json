@@ -1,0 +1,42 @@
+{
+  "title": "[The sculptor at work]",
+  "creation_date": "late 19th century",
+  "creation_date_earliest": "1870-01-01",
+  "creation_date_latest": "1900-01-01",
+  "medium": "watercolor",
+  "accession_number": "2016.18.21",
+  "id": "cmoa:things/d8c06800-6b6d-42e6-83f6-f25b8117c1e2",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 25.125,
+  "item_height": 30.625,
+  "item_depth": 1.125,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113762",
+  "provenance_text": "Robert Bowman Gallery, London, until 10/24/2012; Dr. Michael L. Nieland, Pittsburgh; Gift to Carnegie Museum of Art",
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155102&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155103&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/64b70e2b-bb0b-45d6-a683-0ab9d8ca2dd0",
+      "party_type": "Person",
+      "full_name": "Helen Thornycroft",
+      "cited_name": "Thornycroft, Helen",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1848-01-01",
+      "death_date": "1937-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

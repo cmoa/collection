@@ -12,10 +12,10 @@
   "physical_location": "Gallery 8, Scaife Galleries",
   "item_width": 25.75,
   "item_height": 21.5,
-  "item_depth": 0.0,
+  "item_depth": 4.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011947",
-  "provenance_text": "Pierre Auguste Renoir [1841-1919], France. Possibly Durand-Ruel, Paris, France, by ca.1900 [1]; purchased by Bernheim-Jeune, Paris, France, July 5, 1905 [2]; sold to Alexandre Louis Philippe Marie Berthier, 4th Prince de Wagram [1883-1918], Boissy-Saint-Léger, France, on July 18, 1905; Jos Hessel [1859-1942], Paris, France, by 1917 until at least 1929 [3]. Jacques Laroche [4]; Durand-Ruel Family Collection, Paris, France [5]; Durand-Ruel, Paris, France and New York, NY, by November 1941 [6]; Sam Salz [1894-1981], Inc., New York, NY, by 1965; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, October 1965. \n\nNotes: \n[1]. Label on back of painting with partial id no. from Durand Ruel, 16 Rue Laffitte, Paris, where the gallery was located until 1920; see also photo of exhibition room at Durand Ruel’s in Paris in Walter Feilchenfeldt’s \"By Appointment Only\", p.22.)\n[2]. From label on the back of the painting. Stock no. 14406. See also \"Renoir: Catalogue raisonné des tableaux, pastels, dessins et aquarelles\" by Guy-Patrice et Michel Dauberville avec la collaboration de Camille Fremontier-Murphy, volume 3, no. 2408. BJ Photo no. 10662.\n[3]. Most commonly used name for the dealer Joseph Hessel who is also sometimes known as Josse Hessel.  He lent the painting to an exhibition in Zurich in October 1917.  In the 1929 edition of \"Renoir\" by Julius Meier-Graefe, the painting is illustrated on p.266 as belonging to Hessel.\n[4]. From correspondence with Sam Salz in curatorial file. \n[5]. From correspondence with Sam Salz in curatorial file. \n[6]. D 15938; No. 11347. Durand Ruel, New York lent the painting to an exhibition at the Duveen Galleries in New York in November 1941.",
+  "provenance_text": "Pierre Auguste Renoir [1841-1919], Paris, France. Possibly Durand-Ruel, Paris, France, by ca.1900 [1]; purchased by Bernheim-Jeune, Paris, France, July 5, 1905 [2]; sold to Alexandre Louis Philippe Marie Berthier, 4th Prince de Wagram [1883-1918], Boissy-Saint-Léger, France, on July 18, 1905; Jos Hessel [1859-1942], Paris, France, by 1917 until at least 1929 [3]. Jacques Laroche [4]; Durand-Ruel Family Collection, Paris, France [5]; Durand-Ruel, Paris, France and New York, NY, by November 1941 [6]; Sam Salz [1894-1981], Inc., New York, NY, by 1965; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, October 1965. \n\nNotes: \n[1]. Label on back of painting with partial id no. from Durand Ruel, 16 Rue Laffitte, Paris, where the gallery was located until 1920; see also photo of exhibition room at Durand Ruel’s in Paris in Walter Feilchenfeldt’s \"By Appointment Only\", p.22.)\n[2]. From label on the back of the painting. Stock no. 14406. See also \"Renoir: Catalogue raisonné des tableaux, pastels, dessins et aquarelles\" by Guy-Patrice et Michel Dauberville avec la collaboration de Camille Fremontier-Murphy, volume 3, no. 2408. BJ Photo no. 10662.\n[3]. Most commonly used name for the dealer Joseph Hessel who is also sometimes known as Josse Hessel.  He lent the painting to an exhibition in Zurich in October 1917.  In the 1929 edition of \"Renoir\" by Julius Meier-Graefe, the painting is illustrated on p.266 as belonging to Hessel.\n[4]. From correspondence with Sam Salz in curatorial file. \n[5]. From correspondence with Sam Salz in curatorial file. \n[6]. D 15938; No. 11347. Durand Ruel, New York lent the painting to an exhibition at the Duveen Galleries in New York in November 1941.",
   "classification": "paintings",
   "images": [
     {
@@ -29,14 +29,14 @@
     {
       "artist_id": "cmoa:parties/44cf7f5e-cf2f-4ad6-ba20-97fabb279d29",
       "party_type": "Person",
-      "full_name": "Pierre Auguste Renoir",
-      "cited_name": "Renoir, Pierre A.",
+      "full_name": "Pierre-Auguste Renoir",
+      "cited_name": "Renoir, Pierre-Auguste",
       "role": null,
       "nationality": "French",
       "birth_date": "1841-02-25",
       "death_date": "1919-12-03",
-      "birth_place": "Limoges, France",
-      "death_place": "Cagnes-sur-Mer, France"
+      "birth_place": "Limoges (Limousin, France)",
+      "death_place": "Cagnes-sur-Mer (Provence-Alpes-Côte d'Azur, France)"
     }
   ]
 }

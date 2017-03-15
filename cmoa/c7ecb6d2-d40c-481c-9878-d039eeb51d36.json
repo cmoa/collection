@@ -1,0 +1,49 @@
+{
+  "title": "St Francis in the Wilderness",
+  "creation_date": "1575",
+  "creation_date_earliest": "1574-12-22",
+  "creation_date_latest": "1574-12-22",
+  "medium": "engraving",
+  "accession_number": "2016.4.41",
+  "id": "cmoa:things/c7ecb6d2-d40c-481c-9878-d039eeb51d36",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.625,
+  "item_height": 20.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112926",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1da63f6e-a3bc-4224-bc75-15cbfe643ca6",
+      "party_type": "Person",
+      "full_name": "Cornelis Cort",
+      "cited_name": "Cort, Cornelis",
+      "role": "after",
+      "nationality": "Netherlandish",
+      "birth_date": "1533-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/6f0695e0-ea25-4a3f-afdd-74e858b09d7e",
+      "party_type": "Person",
+      "full_name": "Girolamo Muziano",
+      "cited_name": "Muziano, Girolamo",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": "1592-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "title": "Bowl, Oracle",
+  "title": "Oracle bowl",
   "creation_date": "1994/1995",
   "creation_date_earliest": "1994-01-01",
   "creation_date_latest": "1995-01-01",
@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 0.0,
-  "item_height": 3.5,
+  "item_height": 0.0,
   "item_depth": 0.0,
-  "item_diameter": 7.75,
+  "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035800",
   "provenance_text": "Tupperware Worldwide, Orlando, FL",
-  "classification": "Plastic/Synthetic",
-  "images": null,
+  "classification": "containers",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/0eea3320-5540-4762-95df-dda0b9f90f63",

@@ -1,0 +1,49 @@
+{
+  "title": "Thomas Howard, Earl of Arundel",
+  "creation_date": "1625-1640",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1640-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.82",
+  "id": "cmoa:things/2ef9964c-602a-4ab0-81bf-4c2fe15ed73b",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.188,
+  "item_height": 10.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112865",
+  "provenance_text": "D. Alexander, New York; Rolf Loeber, Pittsburgh",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e919f9ba-6d88-4ede-8997-f0884ae49f63",
+      "party_type": "Person",
+      "full_name": "Lucas Vorsterman",
+      "cited_name": "Vorsterman, Lucas",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1595-01-01",
+      "death_date": "1675-01-01",
+      "birth_place": "Zaltbommel (Gelderland, Netherlands)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

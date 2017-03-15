@@ -1,0 +1,49 @@
+{
+  "title": "Aeneas and the Golden Bough",
+  "creation_date": "c. 1645",
+  "creation_date_earliest": "1640-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.95",
+  "id": "cmoa:things/4bff4af9-9264-4c0e-a5c5-d862f45a8ff1",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.938,
+  "item_height": 10.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112870",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b31e48fd-c98c-4435-8a26-8bdf5648c773",
+      "party_type": "Person",
+      "full_name": "Cornelis Bloemaert",
+      "cited_name": "Bloemaert, Cornelis",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1603-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/887bf483-e2cd-45c8-b085-89b5a779a31b",
+      "party_type": "Person",
+      "full_name": "Giovanni Francesco Romanelli",
+      "cited_name": "Romanelli, Giovanni Francesco",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1610-01-01",
+      "death_date": "1662-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

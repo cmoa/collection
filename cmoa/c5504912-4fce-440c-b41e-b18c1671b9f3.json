@@ -12,7 +12,7 @@
   "physical_location": "Gallery 8, Scaife Galleries",
   "item_width": 32.125,
   "item_height": 23.625,
-  "item_depth": 0.0,
+  "item_depth": 4.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009147",
   "provenance_text": "Claude Oscar Monet [1840-1926], France. Possibly M. Guillemet, by 1879 [1]. Bernheim-Jeune, Paris, France. Percy Turner, London, England. Private Collection, England; Arthur Tooth & Sons, Ltd., London, England; Sam Salz [1894-1981], Inc., New York, NY, by May 1953; purchased by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, June 1953. \n\nNotes:\n[1]. The painting was possibly exhibited in the 4th Impressionist Exhibition in 1879 as \"Etude de mer\", described in the catalogue as \"Appartient à M. Guillemet\". See \"The New Painting: Impressionism 1874-1886\", directed and coordinated by Charles S. Moffet with the assistance of Ruth Berson et al, Richard Burton SA, Publishers, Geneva, Switzerland, 1986, p. 269.",
@@ -32,14 +32,14 @@
     {
       "artist_id": "cmoa:parties/9c1016d9-7b4e-493a-9e79-1a54b384d115",
       "party_type": "Person",
-      "full_name": "Claude Oscar Monet",
-      "cited_name": "Monet, Claude O.",
+      "full_name": "Claude Monet",
+      "cited_name": "Monet, Claude",
       "role": null,
       "nationality": "French",
       "birth_date": "1840-11-14",
       "death_date": "1926-12-05",
-      "birth_place": "Paris, France",
-      "death_place": "Giverny, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Giverny (Haute-Normandie, France)"
     }
   ]
 }

@@ -10,14 +10,16 @@
   "date_acquired": "1998-12-03",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 30.0,
-  "item_height": 22.0,
+  "item_width": 29.75,
+  "item_height": 22.375,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003816",
   "provenance_text": "Mellon Bank, Pittsburgh, PA",
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/1775f8a4-e60c-4128-9970-1c8833f41c00",

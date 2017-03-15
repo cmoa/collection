@@ -1,0 +1,39 @@
+{
+  "title": "Digging Out",
+  "creation_date": "2014",
+  "creation_date_earliest": "2014-01-01",
+  "creation_date_latest": "2014-01-01",
+  "medium": "oil on canvas",
+  "accession_number": "2016.41",
+  "id": "cmoa:things/edaeb8bf-054a-453a-b0d3-742339d7a2bb",
+  "credit_line": "Gift of the Alex Katz Foundation",
+  "date_acquired": "2016-09-08",
+  "department": "Contemporary Art",
+  "physical_location": "Forum Gallery",
+  "item_width": 60.25,
+  "item_height": 48.0,
+  "item_depth": 1.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=117739",
+  "provenance_text": "Elizabeth Harris Gallery, New York, NY; Alex Katz Foundation, New York, NY; Carnegie Museum of Art, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157513&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/59dc9112-b803-40b2-935a-c281284c9644",
+      "party_type": "Person",
+      "full_name": "Richard Bosman",
+      "cited_name": "Bosman, Richard",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "Madras, India",
+      "death_place": null
+    }
+  ]
+}

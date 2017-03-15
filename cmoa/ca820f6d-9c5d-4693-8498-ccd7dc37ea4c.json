@@ -1,0 +1,39 @@
+{
+  "title": "Emerging Man, Harlem, NY",
+  "creation_date": "1952",
+  "creation_date_earliest": "1952-01-01",
+  "creation_date_latest": "1952-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2016.16",
+  "id": "cmoa:things/ca820f6d-9c5d-4693-8498-ccd7dc37ea4c",
+  "credit_line": "The William T. Hillman Fund for Photography",
+  "date_acquired": "2016-05-12",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 17.375,
+  "item_height": 10.875,
+  "item_depth": 1.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113845",
+  "provenance_text": "Parks [1912-2006].  Gordon Parks Foundation, Pleasantville, NY; Salon 94, New York, NY; purchased by Carnegie Museum of Art, Pittsburgh, PA, May 2016",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157992&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/53e0944b-ba72-4fa1-ba10-7b6c8b4600a5",
+      "party_type": "Person",
+      "full_name": "Gordon Parks",
+      "cited_name": "Parks, Gordon",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1912-11-30",
+      "death_date": "2006-03-07",
+      "birth_place": "Fort Scott, Kansas",
+      "death_place": "New York City, New York"
+    }
+  ]
+}

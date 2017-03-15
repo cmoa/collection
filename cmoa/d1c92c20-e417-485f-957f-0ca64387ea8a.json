@@ -10,14 +10,16 @@
   "date_acquired": "1996-05-02",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 2.0,
-  "item_height": 2.5,
-  "item_depth": 0.0,
+  "item_width": 2.25,
+  "item_height": 2.688,
+  "item_depth": 0.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002102",
   "provenance_text": "Mike Chikiris, Pittsburgh, PA",
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/3abad6a4-976b-4762-8f40-38e148cf2d44",

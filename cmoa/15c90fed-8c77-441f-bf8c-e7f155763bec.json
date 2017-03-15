@@ -1,0 +1,39 @@
+{
+  "title": "Teucer",
+  "creation_date": "conceived 1881, cast 1919",
+  "creation_date_earliest": "1885-01-01",
+  "creation_date_latest": "1895-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.19",
+  "id": "cmoa:things/15c90fed-8c77-441f-bf8c-e7f155763bec",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 10.25,
+  "item_height": 14.625,
+  "item_depth": 4.875,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113636",
+  "provenance_text": "Robert Bowman Gallery, London; Dr. Michael L. Nieland, Pittsburgh; Gift to Carnegie Museum of Art",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154780&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/250aabbc-994f-42ec-bc9b-26f17935991e",
+      "party_type": "Person",
+      "full_name": "Hamo Thornycroft",
+      "cited_name": "Hamo Thornycroft",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1850-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Female figure",
+  "creation_date": "c. 1764",
+  "creation_date_earliest": "1759-01-01",
+  "creation_date_latest": "1769-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.8",
+  "id": "cmoa:things/8c5e04b1-264d-4923-b6be-e7a150d4846a",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.875,
+  "item_height": 8.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112815",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a202fc52-b50a-4e91-8787-31f247dd46a4",
+      "party_type": "Person",
+      "full_name": "Francesco Bartolozzi",
+      "cited_name": "Bartolozzi, Francesco",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1727-01-01",
+      "death_date": "1815-01-01",
+      "birth_place": "Florence (Firenze province, Tuscany, Italy)",
+      "death_place": "Lisbon (Distrito de Lisboa, Portugal)"
+    },
+    {
+      "artist_id": "cmoa:parties/41dec4a4-bd92-477e-9634-4f51535c80fe",
+      "party_type": "Person",
+      "full_name": "Guercino",
+      "cited_name": "Guercino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1591-01-01",
+      "death_date": "1666-01-01",
+      "birth_place": "Cento (Ferrara province, Emilia-Romagna, Italy)",
+      "death_place": "Bologna (Bologna province, Emilia-Romagna, Italy)"
+    }
+  ]
+}

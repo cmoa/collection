@@ -1,0 +1,49 @@
+{
+  "title": "Prints in Imitation of Drawings: Landscape",
+  "creation_date": "1735",
+  "creation_date_earliest": "1735-01-01",
+  "creation_date_latest": "1735-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.134",
+  "id": "cmoa:things/81706836-d787-4a44-9b35-22d95491d6a1",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.875,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112961",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/818e8de1-7d99-46be-9c0e-d9234df30b0f",
+      "party_type": "Person",
+      "full_name": "Charles Knapton",
+      "cited_name": "Knapton, Charles",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1710-01-01",
+      "death_date": "1744-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/41dec4a4-bd92-477e-9634-4f51535c80fe",
+      "party_type": "Person",
+      "full_name": "Guercino",
+      "cited_name": "Guercino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1591-01-01",
+      "death_date": "1666-01-01",
+      "birth_place": "Cento (Ferrara province, Emilia-Romagna, Italy)",
+      "death_place": "Bologna (Bologna province, Emilia-Romagna, Italy)"
+    }
+  ]
+}

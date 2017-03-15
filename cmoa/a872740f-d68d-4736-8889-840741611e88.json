@@ -1,0 +1,49 @@
+{
+  "title": "Portrait of a Portuguese nobleman with a plan for buildings at Alcoentre",
+  "creation_date": "c.1750-1760",
+  "creation_date_earliest": "1745-01-01",
+  "creation_date_latest": "1760-01-01",
+  "medium": "engraving, proof",
+  "accession_number": "2016.4.205",
+  "id": "cmoa:things/a872740f-d68d-4736-8889-840741611e88",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.25,
+  "item_height": 16.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113033",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/42845212-bd75-41b4-b14f-35bddcdeca69",
+      "party_type": "Person",
+      "full_name": "unknown European",
+      "cited_name": "unknown European",
+      "role": "after",
+      "nationality": "European",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/45057c7a-58cc-4a54-b8e6-505faacb06cf",
+      "party_type": "Person",
+      "full_name": "Pompeo Batoni",
+      "cited_name": "Batoni, Pompeo Girolamo de",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1708-01-01",
+      "death_date": "1787-01-01",
+      "birth_place": "Lucca",
+      "death_place": "Rome"
+    }
+  ]
+}

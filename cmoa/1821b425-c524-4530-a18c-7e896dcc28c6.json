@@ -1,0 +1,49 @@
+{
+  "title": "Regents of the Arme-Kinderhuis",
+  "creation_date": "1777-1786",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "aquatint",
+  "accession_number": "2016.4.125",
+  "id": "cmoa:things/1821b425-c524-4530-a18c-7e896dcc28c6",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.625,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112893",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/2c0323d8-95dc-4891-869b-092ad4f4bfde",
+      "party_type": "Person",
+      "full_name": "Cornelis Ploos Van Amstel",
+      "cited_name": "Amstel, Cornelis Ploos Van",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1726-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/f8cdf2a7-db44-43a7-9537-26a9eb158329",
+      "party_type": "Person",
+      "full_name": "Jan de Bray",
+      "cited_name": "de Bray, Jan",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1622-01-01",
+      "death_date": "1697-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Fish-Face",
+  "creation_date": "2005",
+  "creation_date_earliest": "2005-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "monotype",
+  "accession_number": "2015.47.37",
+  "id": "cmoa:things/dcca26c7-727e-44c7-9e6b-bdcf1ef5ea4c",
+  "credit_line": "Gift of Eileen and Michael Cohen",
+  "date_acquired": "2016-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 13.875,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=110944",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159404&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73d120c4-561c-4760-b0ba-034d9407bc88",
+      "party_type": "Person",
+      "full_name": "Sophie von Hellermann",
+      "cited_name": "Sophie von Hellermann",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1975-01-01",
+      "death_date": null,
+      "birth_place": "Munich, Germany",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8d015c09-5977-4872-8482-6491286a7824",
+      "party_type": "Person",
+      "full_name": "Josh Smith",
+      "cited_name": "Josh Smith",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1976-01-01",
+      "death_date": null,
+      "birth_place": "Knoxville, Tennessee",
+      "death_place": null
+    }
+  ]
+}

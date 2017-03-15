@@ -1,17 +1,17 @@
 {
-  "title": "Brassee Sismographique",
+  "title": "Seismographic Brew (Brassée sismographique)",
   "creation_date": "1972",
   "creation_date_earliest": "1972-01-01",
   "creation_date_latest": "1972-01-01",
-  "medium": "lithograph on paper",
+  "medium": "collotype and lithograph on paper",
   "accession_number": "77.29.5",
   "id": "cmoa:things/de73c601-dd92-41f0-bd35-7aa6bfcce141",
   "credit_line": "Gift of the artist",
   "date_acquired": "1977-10-12",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 20.75,
-  "item_height": 28.75,
+  "item_width": 24.125,
+  "item_height": 33.75,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018529",
@@ -32,6 +32,18 @@
       "death_date": null,
       "birth_place": "Brussels, Belgium",
       "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/2ee58a44-fff5-4833-b913-f505a04a2826",
+      "party_type": "Person",
+      "full_name": "Christian Dotremont",
+      "cited_name": "Dotremont, Christian",
+      "role": null,
+      "nationality": "Belgian",
+      "birth_date": "1922-01-01",
+      "death_date": "1979-01-01",
+      "birth_place": "Tervuren (Vlaams-Brabant, Flanders, Belgium)",
+      "death_place": "Buizingen, Belgium"
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "title": "Catherine, Countess of Cuylenborch",
+  "creation_date": "1636",
+  "creation_date_earliest": "1636-01-01",
+  "creation_date_latest": "1636-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.87",
+  "id": "cmoa:things/6fa27d39-ac81-4f5c-aa19-dc61266ee413",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.75,
+  "item_height": 17.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112863",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3915b1e-d718-41b7-a70a-3907a3563d14",
+      "party_type": "Person",
+      "full_name": "Willem Jacobsz. Delff",
+      "cited_name": "Delff, Willem Jacobsz.",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1580-01-01",
+      "death_date": "1638-01-01",
+      "birth_place": "Delft (South Holland, Netherlands)",
+      "death_place": "Delft (South Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/d8ab2be0-e287-4904-b615-013328a3ad45",
+      "party_type": "Person",
+      "full_name": "Michiel Jansz. van Miereveld",
+      "cited_name": "Miereveld, Michiel Jansz. van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1567-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Eleazarus Swalmius",
+  "creation_date": "c.1640?",
+  "creation_date_earliest": "1637-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.91",
+  "id": "cmoa:things/69db7a1e-2496-4656-94b5-98936656f796",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.0,
+  "item_height": 12.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112876",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a83bc6c6-72f0-471a-a2e5-a59709420059",
+      "party_type": "Person",
+      "full_name": "Jonas Suyderhoef",
+      "cited_name": "Suyderhoef, Jonas",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1608-01-01",
+      "death_date": "1686-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt Harmensz. van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

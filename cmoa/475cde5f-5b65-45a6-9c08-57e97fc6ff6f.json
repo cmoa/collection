@@ -1,0 +1,57 @@
+{
+  "title": "Mobile Barbarella",
+  "creation_date": "1966",
+  "creation_date_earliest": "1966-01-01",
+  "creation_date_latest": "1966-01-01",
+  "medium": "plywood with walnut veneer, white laminate, aluminum",
+  "accession_number": "2016.1",
+  "id": "cmoa:things/475cde5f-5b65-45a6-9c08-57e97fc6ff6f",
+  "credit_line": "Women’s Committee Acquisition Fund, DuPuy Fund, and Berdan Memorial Trust Fund",
+  "date_acquired": "2016-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 43.75,
+  "item_height": 51.625,
+  "item_depth": 14.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112194",
+  "provenance_text": "  Private collection, Florence, Italy, 1966–1995; Gallery Mourmans, Maastricht, Netherlands, 1995 – 2015; Friedman Benda LLC, New York, NY, 2015–present",
+  "classification": "furniture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157794&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157795&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157796&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7a2a4a16-c292-4ede-9b9a-b67818065fe4",
+      "party_type": "Person",
+      "full_name": "Ettore Sottsass",
+      "cited_name": "Sottsass, Ettore",
+      "role": "designer",
+      "nationality": "Italian",
+      "birth_date": "1917-01-01",
+      "death_date": "2007-01-01",
+      "birth_place": "Innsbruck, Austria",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c68b4f9c-3615-4895-bbde-878be6a08522",
+      "party_type": "Organization",
+      "full_name": "Poltronova",
+      "cited_name": "Poltronova",
+      "role": "manufacturer",
+      "nationality": "Italian",
+      "birth_date": "1957-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

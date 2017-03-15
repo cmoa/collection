@@ -1,0 +1,49 @@
+{
+  "title": "Martyrdom of St Lawrence",
+  "creation_date": "1571",
+  "creation_date_earliest": "1570-12-22",
+  "creation_date_latest": "1570-12-22",
+  "medium": "engraving",
+  "accession_number": "2016.4.40",
+  "id": "cmoa:things/0cbd07cf-dbdb-4625-af18-5cbd15522530",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.0,
+  "item_height": 20.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112927",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1da63f6e-a3bc-4224-bc75-15cbfe643ca6",
+      "party_type": "Person",
+      "full_name": "Cornelis Cort",
+      "cited_name": "Cort, Cornelis",
+      "role": "after",
+      "nationality": "Netherlandish",
+      "birth_date": "1533-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e93d521c-d443-4b0c-86fe-12e7df38b03b",
+      "party_type": "Person",
+      "full_name": "Titian",
+      "cited_name": "Titian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1488-01-01",
+      "death_date": "1576-01-01",
+      "birth_place": "Pieve di Cadore, Belluno province, Veneto, Italy",
+      "death_place": "Venice"
+    }
+  ]
+}

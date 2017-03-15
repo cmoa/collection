@@ -10,9 +10,9 @@
   "date_acquired": "1992-06-04",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
-  "item_depth": 0.0,
+  "item_width": 15.375,
+  "item_height": 12.375,
+  "item_depth": 1.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1032515",
   "provenance_text": "Marian Goodman Gallery, New York, New York",
@@ -28,11 +28,23 @@
       "party_type": "Person",
       "full_name": "Lothar Baumgarten",
       "cited_name": "Baumgarten, Lothar",
-      "role": null,
+      "role": "publisher",
       "nationality": "German",
       "birth_date": "1944-01-01",
       "death_date": null,
       "birth_place": "Rheinsberg (Potsdam district, Brandenburg, Germany)",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d708926c-60b9-419b-96b7-64248f33677c",
+      "party_type": "Organization",
+      "full_name": "Museum of Contemporary Art, Los Angeles",
+      "cited_name": "Museum of Contemporary Art, Los Angeles",
+      "role": null,
+      "nationality": null,
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
       "death_place": null
     }
   ]

@@ -10,12 +10,12 @@
   "date_acquired": "1961-10-17",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 48.125,
+  "item_width": 48.0,
   "item_height": 60.0,
   "item_depth": 1.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011414",
-  "provenance_text": "Drian Galleries, London; purchased for Museum by Mrs. James H. Beal, October 1961.",
+  "provenance_text": "William Crozier [1930-2011], London, England; Drian Galleries, London, England [1]; acquired by Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, October 1961 [2].\n\nNotes:\n[1]. The painting was included (no. 77, illustrated in the catalogue) in \"The 1961 Pittsburgh International Exhibition of Contemporary Painting and Sculpture\" held at Carnegie Institute, Pittsburgh, PA, October 1961 - January 1962. It was lent by Drian Galleries.\n[2]. The painting was purchased by Carnegie Institute from the International as a gift of Mrs. James H. Beal, Pittsburgh, PA. Payment to Drian Galleries was sent on November 24, 1961; receipt was acknowledged by the gallery on November 28, 1961.",
   "classification": "paintings",
   "images": [
     {
@@ -24,15 +24,15 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/109ebc58-8e38-4c00-a4ea-93eabfab24f1",
+      "artist_id": "cmoa:parties/ae7e63cb-648b-4a0f-a5d0-e638b3900dd5",
       "party_type": "Person",
       "full_name": "William Crozier",
       "cited_name": "Crozier, William",
       "role": null,
-      "nationality": "British",
-      "birth_date": "1933-01-01",
+      "nationality": "Irish",
+      "birth_date": "1930-01-01",
       "death_date": "2011-01-01",
-      "birth_place": "Glasgow, Scotland",
+      "birth_place": "Glasgow (Scotland, United Kingdom)",
       "death_place": null
     }
   ]

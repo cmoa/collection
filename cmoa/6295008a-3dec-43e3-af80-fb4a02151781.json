@@ -1,5 +1,5 @@
 {
-  "title": "Ram ",
+  "title": "Ram",
   "creation_date": "c. 1760",
   "creation_date_earliest": "1755-01-01",
   "creation_date_latest": "1765-01-01",
@@ -10,14 +10,16 @@
   "date_acquired": "1956-12-21",
   "department": "Decorative Arts and Design",
   "physical_location": "Hall of Architecture",
-  "item_width": 8.5,
-  "item_height": 8.0,
-  "item_depth": 3.25,
+  "item_width": 9.0,
+  "item_height": 7.625,
+  "item_depth": 4.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010037",
   "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
-  "classification": "Unclassified",
-  "images": null,
+  "classification": "crèches",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/a927b95e-6e7e-4cd0-b945-b57608624d3e",

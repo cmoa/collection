@@ -1,0 +1,49 @@
+{
+  "title": "Apollo with a lyre",
+  "creation_date": "c. 1677",
+  "creation_date_earliest": "1672-01-01",
+  "creation_date_latest": "1682-01-01",
+  "medium": "engraving and etching",
+  "accession_number": "2016.4.110",
+  "id": "cmoa:things/dff09dbf-47d1-4693-b883-2e2ad3f05fce",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.313,
+  "item_height": 7.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112872",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b31e48fd-c98c-4435-8a26-8bdf5648c773",
+      "party_type": "Person",
+      "full_name": "Cornelis Bloemaert",
+      "cited_name": "Bloemaert, Cornelis",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1603-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8b3498c0-69cd-419d-8819-8a04a9f26c5d",
+      "party_type": "Person",
+      "full_name": "Pietro da Cortona",
+      "cited_name": "Cortona, Pietro da",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1596-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Cortona, Italy",
+      "death_place": "Rome, Italy"
+    }
+  ]
+}

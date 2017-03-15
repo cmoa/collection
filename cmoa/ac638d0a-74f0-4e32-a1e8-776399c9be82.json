@@ -1,0 +1,49 @@
+{
+  "title": "Landscape, house by pond",
+  "creation_date": "c.1745-1765",
+  "creation_date_earliest": "1740-01-01",
+  "creation_date_latest": "1765-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.36",
+  "id": "cmoa:things/ac638d0a-74f0-4e32-a1e8-776399c9be82",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 4.187,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113034",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5e7084b2-fbfb-4cd6-82d5-9655414bcc10",
+      "party_type": "Person",
+      "full_name": "Johann Andreas Pfeffel",
+      "cited_name": "Pfeffel, Johann Andreas",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1715-01-01",
+      "death_date": "1768-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8361276a-006c-4957-9814-65439e57b11f",
+      "party_type": "Person",
+      "full_name": "Johann Ludwig Aberli",
+      "cited_name": "Aberli. Johann Ludwig",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1723-01-01",
+      "death_date": "1786-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

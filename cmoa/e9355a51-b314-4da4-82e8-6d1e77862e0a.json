@@ -1,0 +1,49 @@
+{
+  "title": "La Vertue Chancellante (Virtue faltering)",
+  "creation_date": "1776",
+  "creation_date_earliest": "1776-01-01",
+  "creation_date_latest": "1776-01-01",
+  "medium": "engraving & etching",
+  "accession_number": "2016.4.16",
+  "id": "cmoa:things/e9355a51-b314-4da4-82e8-6d1e77862e0a",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.438,
+  "item_height": 21.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112825",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/cee0e31e-aa28-4704-85d7-c0a2056b215b",
+      "party_type": "Person",
+      "full_name": "Jean Massard",
+      "cited_name": "Massard, Jean",
+      "role": "engraver",
+      "nationality": "French",
+      "birth_date": "1740-01-01",
+      "death_date": "1822-01-01",
+      "birth_place": "Bellême (Orne, Basse-Normandie, France)",
+      "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/2ca5646d-edb9-430c-b68a-988af0a5780a",
+      "party_type": "Person",
+      "full_name": "Jean-Baptiste Greuze",
+      "cited_name": "Greuze, Jean B.",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1725-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": " Tournus (Saône-et-Loire, Burgundy region, France)",
+      "death_place": " Paris (Ville de Paris department, Île-de-France, France)"
+    }
+  ]
+}

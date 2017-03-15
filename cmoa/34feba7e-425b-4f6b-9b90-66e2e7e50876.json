@@ -1,0 +1,42 @@
+{
+  "title": "David",
+  "creation_date": "c. 1880",
+  "creation_date_earliest": "1875-01-01",
+  "creation_date_latest": "1885-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.18.15",
+  "id": "cmoa:things/34feba7e-425b-4f6b-9b90-66e2e7e50876",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.5,
+  "item_height": 36.0,
+  "item_depth": 12.0,
+  "item_diameter": 8.5,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113450",
+  "provenance_text": "M. S. Rau Antiques, New Orleans, until March 13, 2002; Dr. Michael Nieland, Pittsburgh; Gift to Carnegie Museum of Art",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154957&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154960&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f18baf56-e3f5-425b-8b06-696944af629b",
+      "party_type": "Person",
+      "full_name": "Antonin Mercié",
+      "cited_name": "Antonin Mercié",
+      "role": "artist",
+      "nationality": "French",
+      "birth_date": "1845-01-01",
+      "death_date": "1916-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

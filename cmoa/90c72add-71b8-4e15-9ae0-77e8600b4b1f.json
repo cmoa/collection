@@ -15,7 +15,7 @@
   "item_depth": 2.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017600",
-  "provenance_text": "Mme. Vv Kuhn, Brunn, Czechoslovakia; (sale, Amsterdam (Fred. Muller), 4 June 1929, no. 3); P. de Boer, 1934; Charles J. Rosenbloom, Pittsburgh, c. 1946-1974; bequest to Museum, February 1974.",
+  "provenance_text": "Mme. Vve Kuhn, Brno (Brünn), Czech Republic; sale, Frederik Muller, Amsterdam, Netherlands, June 4, 1929, no. 3. P. de Boer, Amsterdam, Netherlands, 1934 [1]. Charles J. Rosenbloom [1898-1973], Pittsburgh, PA (Lugt Suppl. 633b), by February 1946 until April 1, 1973 [1]; his bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, February 1974.\n\nNotes:\n[1]. Early provenance according to Georges Marlier's \"Pierre Brueghel Le Jeune,\" Editions Robert Finck, Bruxelles, 1969, p. 83. no. 2.\n[2]. The painting was included in the exhibition \"Paintings and Prints from the Collection of Charles J. Rosenbloom\" that was held at the museum in February-March 1946. It was illustrated in the exhibition catalogue.",
   "classification": "paintings",
   "images": [
     {
@@ -26,14 +26,14 @@
     {
       "artist_id": "cmoa:parties/b8d55268-b952-4f35-8eee-59fbcb560bd3",
       "party_type": "Person",
-      "full_name": "Pieter Brueghel The Younger",
-      "cited_name": "Brueghel The Younger, Pieter",
+      "full_name": "Pieter Brueghel II",
+      "cited_name": "Brueghel, Pieter, II",
       "role": "after",
       "nationality": "Flemish",
       "birth_date": "1564-01-01",
       "death_date": "1638-01-01",
-      "birth_place": " Brussels (Bruxelles region, Belgium)",
-      "death_place": " Antwerp (Antwerpen province, Flanders, Belgium)"
+      "birth_place": "Brussels (Bruxelles region, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
     }
   ]
 }

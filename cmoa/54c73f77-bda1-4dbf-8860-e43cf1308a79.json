@@ -10,13 +10,13 @@
   "date_acquired": "2000-02-03",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 12.0,
-  "item_depth": 0.0,
+  "item_width": 3.0,
+  "item_height": 12.125,
+  "item_depth": 2.625,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003979",
   "provenance_text": "Target Stores, Minneapolis, MN",
-  "classification": "Plastic/Synthetic",
+  "classification": "tools and equipment",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=4456&size=Medium"
@@ -38,11 +38,11 @@
     {
       "artist_id": "cmoa:parties/9a6f5f57-a411-4577-bd6e-7bb944be0fed",
       "party_type": "Organization",
-      "full_name": "Target Stores",
-      "cited_name": "Target Stores",
+      "full_name": "Target Corporation",
+      "cited_name": "Target Corporation",
       "role": null,
       "nationality": "American",
-      "birth_date": "1962-01-01",
+      "birth_date": "1902-01-01",
       "death_date": null,
       "birth_place": null,
       "death_place": null

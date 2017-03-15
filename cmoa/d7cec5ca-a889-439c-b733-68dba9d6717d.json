@@ -16,7 +16,7 @@
   "item_diameter": 6.125,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035142",
   "provenance_text": "Denis Gallion And Daniel Morris, New York, NY",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=486&size=Medium"
@@ -38,8 +38,8 @@
     {
       "artist_id": "cmoa:parties/75d98ac1-916c-46b0-9cd3-db10e53bb9fc",
       "party_type": "Organization",
-      "full_name": "J. & L. Lobmeyr",
-      "cited_name": "Lobmeyr, J. & L.",
+      "full_name": "J & L Lobmeyr",
+      "cited_name": " J & L Lobmeyr",
       "role": "manufacturer",
       "nationality": "Austrian",
       "birth_date": "1823-01-01",

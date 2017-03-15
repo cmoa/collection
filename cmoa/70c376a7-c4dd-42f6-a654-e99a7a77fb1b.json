@@ -1,0 +1,69 @@
+{
+  "title": "Shark Killer (Hadjdodaren) vase",
+  "creation_date": "1937, produced 1952",
+  "creation_date_earliest": "1937-01-01",
+  "creation_date_latest": "1950-01-01",
+  "medium": "lead glass",
+  "accession_number": "2016.46",
+  "id": "cmoa:things/70c376a7-c4dd-42f6-a654-e99a7a77fb1b",
+  "credit_line": "Gift of the Central Pennsylvania Scholarship Fund from the collection of David and Susan Werner",
+  "date_acquired": "2016-09-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 8.5,
+  "item_height": 12.5,
+  "item_depth": 8.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113790",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157812&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157813&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157814&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c66ceeb3-c0fd-4dbd-9260-b85ce12543bf",
+      "party_type": "Person",
+      "full_name": "Viktor Lindstrand",
+      "cited_name": "Lindstrand, Viktor",
+      "role": "designer",
+      "nationality": "Swedish",
+      "birth_date": "1904-01-01",
+      "death_date": "1983-01-01",
+      "birth_place": "Gothenburg, Sweden",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7c5fcf6a-102c-43a3-9981-6e8718c91756",
+      "party_type": "Person",
+      "full_name": "Ernst  Åberg",
+      "cited_name": " Åberg, Ernst",
+      "role": "engraver",
+      "nationality": "Swedish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8987cae5-7610-47ec-96f8-cb4f9fc6cceb",
+      "party_type": "Organization",
+      "full_name": "Orrefors Glassworks",
+      "cited_name": "Orrefors Glassworks",
+      "role": "manufacturer",
+      "nationality": "Swedish",
+      "birth_date": "1898-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

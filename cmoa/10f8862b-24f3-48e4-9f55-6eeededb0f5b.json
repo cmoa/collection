@@ -10,14 +10,16 @@
   "date_acquired": "1956-12-21",
   "department": "Decorative Arts and Design",
   "physical_location": "Hall of Architecture",
-  "item_width": 0.0,
+  "item_width": 0.875,
   "item_height": 1.5,
-  "item_depth": 0.0,
+  "item_depth": 0.875,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010213",
   "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
-  "classification": "Unclassified",
-  "images": null,
+  "classification": "crèches",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9eabd8c2-9339-40da-9343-22fd27820f0b",

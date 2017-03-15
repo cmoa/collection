@@ -1,0 +1,49 @@
+{
+  "title": "Figures from Hogarth's Election series",
+  "creation_date": "1787",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.153",
+  "id": "cmoa:things/809896c8-c891-47cc-bc48-2acc5684efd4",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 2.312,
+  "item_height": 4.062,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112953",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f02ece85-4515-4636-927b-9a120c39324a",
+      "party_type": "Person",
+      "full_name": "Ernst Ludwig Riepenhausen",
+      "cited_name": "Riepenhausen, Ernst Ludwig",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1762-01-01",
+      "death_date": "1840-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7f38dd27-117c-4cb7-b786-3fbc71c6be07",
+      "party_type": "Person",
+      "full_name": "William Hogarth",
+      "cited_name": "Hogarth, William",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1697-01-01",
+      "death_date": "1764-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

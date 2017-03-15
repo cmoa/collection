@@ -1,0 +1,54 @@
+{
+  "title": "Ruba Rombic whiskey glass with French crystal finish",
+  "creation_date": "1928-1932",
+  "creation_date_earliest": "1928-01-01",
+  "creation_date_latest": "1932-01-01",
+  "medium": "glass",
+  "accession_number": "2015.48",
+  "id": "cmoa:things/cd30a6b7-f64d-47c8-86ff-f76ef354887e",
+  "credit_line": "Gift of Harley N. Trice II",
+  "date_acquired": "2016-02-11",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 2.0,
+  "item_height": 2.5,
+  "item_depth": 1.938,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=110440",
+  "provenance_text": null,
+  "classification": "Glass",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148938&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=148943&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/21db405a-4c82-4fae-b26c-163e8741e539",
+      "party_type": "Person",
+      "full_name": "Reuben Haley",
+      "cited_name": "Haley, Reuben",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1872-01-01",
+      "death_date": "1933-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e598da3d-b549-454a-87ec-d4ae9f9421f7",
+      "party_type": "Organization",
+      "full_name": "Consolidated Lamp & Glass Co.",
+      "cited_name": "Consolidated Lamp & Glass Co.",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1893-01-01",
+      "death_date": "1932-01-01",
+      "birth_place": "Fostoria, Ohio",
+      "death_place": "Coraopolis, Pennsylvania"
+    }
+  ]
+}

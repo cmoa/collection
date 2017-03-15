@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 9.0,
-  "item_height": 23.5,
-  "item_depth": 6.0,
+  "item_height": 23.0,
+  "item_depth": 6.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1021871",
   "provenance_text": "Dr. Ralph Proctor, Jr., Pittsburgh, PA",
   "classification": "Wood",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/01918aff-6f1c-4a0a-b3b0-e992c4e02796",

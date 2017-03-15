@@ -1,0 +1,49 @@
+{
+  "title": "\"The Novel,\" from William Hayley's \"Triumphs of Temper\"",
+  "creation_date": "1787",
+  "creation_date_earliest": "1787-01-01",
+  "creation_date_latest": "1787-01-01",
+  "medium": "stipple",
+  "accession_number": "2016.4.152",
+  "id": "cmoa:things/97a92c01-45e3-4ec2-a9fb-c20f556bdee6",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.375,
+  "item_height": 13.563,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112947",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/8a591b2c-560b-491e-8a07-a39dfe181999",
+      "party_type": "Person",
+      "full_name": "James Parker",
+      "cited_name": "Parker, James",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1750-01-01",
+      "death_date": "1805-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db956ad9-50b4-44fb-ae32-c693fa028e51",
+      "party_type": "Person",
+      "full_name": "James Northcote",
+      "cited_name": "Northcote, James",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1746-01-01",
+      "death_date": "1831-01-01",
+      "birth_place": "Plymouth (City of Plymouth, England, United Kingdom)",
+      "death_place": "London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "title": "Illustrated Biography of Sakyamuni (Shaka go ichidaiki zue)",
+  "creation_date": "1839",
+  "creation_date_earliest": "1839-01-01",
+  "creation_date_latest": "1839-01-01",
+  "medium": "5 volumes from the set of 6 volumes",
+  "accession_number": "89.28.395.1-.5",
+  "id": "cmoa:things/5d54b5e2-6fdb-4ba3-abde-e276fbc5e305",
+  "credit_line": "Bequest of Dr. James B. Austin",
+  "date_acquired": "1989-12-07",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 10.0,
+  "item_depth": 0.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=4016",
+  "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA\nAcquired by Dr. Austin from Book Land, Glendale, CA., 1/22/1964.",
+  "classification": "books",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c15d0368-cd99-48ad-8b10-c1893567e85d",
+      "party_type": "Person",
+      "full_name": "Katsushika Hokusai",
+      "cited_name": "Katsushika Hokusai",
+      "role": "publisher",
+      "nationality": "Japanese",
+      "birth_date": "1760-01-01",
+      "death_date": "1849-01-01",
+      "birth_place": "Tokyo, Kanto, Japan",
+      "death_place": "Tokyo, Kanto, Japan"
+    },
+    {
+      "artist_id": "cmoa:parties/41ab39cd-4876-46ed-8bb4-fd490493d1fc",
+      "party_type": "Person",
+      "full_name": "Yamada Issai",
+      "cited_name": "Yamada Issai",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/71e674fa-4c36-4099-b80c-0dbf88f6e84d",
+      "party_type": "Person",
+      "full_name": "Okada Gunkyokudo (Kawachiya Mohei)",
+      "cited_name": "Okada Gunkyokudo (Kawachiya Mohei)",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

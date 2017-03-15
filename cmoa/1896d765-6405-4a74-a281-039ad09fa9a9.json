@@ -1,0 +1,49 @@
+{
+  "title": "Vegetable dish",
+  "creation_date": "1938",
+  "creation_date_earliest": "1938-01-01",
+  "creation_date_latest": "1938-01-01",
+  "medium": "silver-plated metal",
+  "accession_number": "2016.27.A-.B",
+  "id": "cmoa:things/1896d765-6405-4a74-a281-039ad09fa9a9",
+  "credit_line": "Alan G. and Jane A. Lehman Fund",
+  "date_acquired": "2016-09-08",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.5,
+  "item_height": 3.375,
+  "item_depth": 9.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=116947",
+  "provenance_text": null,
+  "classification": "containers",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c60e1093-b334-4284-883a-65afe13a5a50",
+      "party_type": "Person",
+      "full_name": "Belle Kogan",
+      "cited_name": "Belle Kogan",
+      "role": "designer",
+      "nationality": "American",
+      "birth_date": "1902-01-01",
+      "death_date": "2000-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/580be9da-6784-4007-a258-da3fa7dc492e",
+      "party_type": "Organization",
+      "full_name": "Reed & Barton",
+      "cited_name": "Reed & Barton",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1840-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

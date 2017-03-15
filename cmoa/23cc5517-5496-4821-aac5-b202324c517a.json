@@ -10,14 +10,16 @@
   "date_acquired": "2005-12-01",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 2.375,
-  "item_height": 14.0,
+  "item_width": 14.125,
+  "item_height": 2.375,
   "item_depth": 0.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16152",
   "provenance_text": null,
-  "classification": "Metals",
-  "images": null,
+  "classification": "architectural elements",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/6b89c35f-6948-43bc-ba90-43919ca61a4b",

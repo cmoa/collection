@@ -1,9 +1,9 @@
 {
-  "title": "Coppola 13 (with Dementia)",
+  "title": "Coppola 13",
   "creation_date": "1982",
   "creation_date_earliest": "1982-01-01",
   "creation_date_latest": "1982-01-01",
-  "medium": "video; color, sound; 4:38 min.",
+  "medium": "video; (color, sound); 4:38 min.",
   "accession_number": "83.79.2",
   "id": "cmoa:things/c8b8f0e7-ecbc-4eee-bf0d-bbabe73a9bcf",
   "credit_line": "Video Purchase Fund",
@@ -32,6 +32,18 @@
       "death_date": "2013-01-01",
       "birth_place": "New York City",
       "death_place": "Cincinnati, OH"
+    },
+    {
+      "artist_id": "cmoa:parties/9c57ca76-45d7-4ca5-914c-7e9b88867bdb",
+      "party_type": "Organization",
+      "full_name": "Dementia Precox",
+      "cited_name": "Dementia Precox",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1980-01-01",
+      "death_date": null,
+      "birth_place": "Dayton, OH",
+      "death_place": null
     }
   ]
 }

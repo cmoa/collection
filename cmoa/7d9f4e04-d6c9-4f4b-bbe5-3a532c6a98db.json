@@ -3,7 +3,7 @@
   "creation_date": "15th century",
   "creation_date_earliest": "1399-12-24",
   "creation_date_latest": "1498-12-23",
-  "medium": "woodcut mounted on scroll",
+  "medium": "woodblock print mounted on scroll",
   "accession_number": "89.28.644",
   "id": "cmoa:things/7d9f4e04-d6c9-4f4b-bbe5-3a532c6a98db",
   "credit_line": "Bequest of Dr. James B. Austin",
@@ -11,13 +11,15 @@
   "department": "Fine Arts",
   "physical_location": "Not on View",
   "item_width": 3.125,
-  "item_height": 396.0,
+  "item_height": 3.25,
   "item_depth": 0.0,
-  "item_diameter": 0.0,
+  "item_diameter": 1.25,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1028590",
   "provenance_text": "Bequest of Dr. James B. Austin, Pittsburgh, PA",
   "classification": "prints",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/3f8d5656-1fd7-4a8e-91ff-6e898787792f",

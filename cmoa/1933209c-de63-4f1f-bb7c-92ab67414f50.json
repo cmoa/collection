@@ -18,7 +18,9 @@
   "provenance_text": "Mr. Samuel Kootz, NYC",
   "classification": "paintings",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151928&size=Medium"
+    }
   ],
   "creator": [
     {
@@ -31,7 +33,7 @@
       "birth_date": "1919-01-01",
       "death_date": "1996-01-01",
       "birth_place": "Kobe (Hyogo prefecture, Kinki, Japan)",
-      "death_place": "Paris"
+      "death_place": "Paris (Île-de-France, France)"
     }
   ]
 }

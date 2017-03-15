@@ -1,0 +1,49 @@
+{
+  "title": "Clemens Strezo",
+  "creation_date": "1718",
+  "creation_date_earliest": "1718-01-01",
+  "creation_date_latest": "1718-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.112",
+  "id": "cmoa:things/747ab267-e4f5-431f-8041-f0a5b297a0f2",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.0,
+  "item_height": 8.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112879",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c51341f-2549-4f1c-8058-3de110ec37e1",
+      "party_type": "Person",
+      "full_name": "Jacobus Houbraken",
+      "cited_name": "Houbraken, Jacobus",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1698-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": " Dordrecht (South Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/63566415-3a78-419c-bf6c-b7800a493cb2",
+      "party_type": "Person",
+      "full_name": "Arnold Boonen",
+      "cited_name": "Boonen, Arnold",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1669-01-01",
+      "death_date": "1729-01-01",
+      "birth_place": "Dordrecht (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

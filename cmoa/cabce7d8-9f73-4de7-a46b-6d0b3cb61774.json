@@ -1,12 +1,12 @@
 {
   "title": "Portrait of Mrs. Anne Dashwood",
-  "creation_date": "c. 1767-1769",
+  "creation_date": "c. 1767",
   "creation_date_earliest": "1762-01-01",
-  "creation_date_latest": "1770-01-01",
+  "creation_date_latest": "1772-01-01",
   "medium": "oil on canvas",
   "accession_number": "61.15",
   "id": "cmoa:things/cabce7d8-9f73-4de7-a46b-6d0b3cb61774",
-  "credit_line": "Gift of Mrs. A. Cass Sunstein",
+  "credit_line": "Gift of Mr. and Mrs. Charles Dreifus, Jr. and Mr. and Mrs. A. Cass Sunstein in memory of Annette Dreifus",
   "date_acquired": "1961-09-19",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -15,25 +15,25 @@
   "item_depth": 3.25,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011380",
-  "provenance_text": "Dashwood family collection [1]; by descent to Major-General R. L. Dashwood [1837-1905] of Stanford Park, Notts, England and London, England, prabably in January 1891,but by summer 1900 [2]; Mrs. Charles (Annette Hershberg) Dreifus [1877-1961], Pittsburgh, PA, until April 10, 1961; by descent to her children, Charles Dreifus, Jr. [1908-1966] San Francisco, CA and Mrs. A. Cass  (Louise) Sunstein (1901-?), Pittsburgh, PA and Palm Beach, FL, until September 19, 1961 [3]; their gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1961.\n\nNotes:\n [1]. Probable descent in the Dashwood family: The sitter, Ann (Anne) Bateman Dashwood (see information on back of the painting), married on April 15, 1744 to Samuel Dashwood [1725-1793 or 1794]; their daughter Diana Dashwood [1748?-1812], married on July 8, 1765 to her cousin Charles Vere Dashwood [1745-?]; their son Samuel Francis Dashwood [1773-?], married Lydia Boughton Lister; their son Reverend Samuel Vere Dashwood [1803-1876], married (first) Caroline Hammond, on October 24, 1828; their son Charles Lewes Dashwood [1833-1891], who died unmarried; his brother Major General Richard Lewes Dashwood [1837-1905].\n[2]. The painting, as by Romney, was lent to \"Exhibition of a Special Selection from the Works by George Romney,\" The Grafton Galleries, Summer Exhibition 1900 by Maj.-General R. L. Dashwood. He was a great-great grandson of Ann Bateman Dashwood and younger brother of Charles Lewes Dashwood, who sold Stanford Hall in 1887 and died unmarried in January 1891.\n[3] The painting, as by Romney, apparently arrived at the museum as an intended gift in early 1961, when Mrs. Sunstein was \"dismantling\" her mother's house in Pittsburgh apparently before the latter's death in April 1961 (see curatorial file.)",
+  "provenance_text": "George Romney [1734-1802]; Dashwood family collection [1]; by descent to Major-General R. L. Dashwood [1837-1905] of Stanford Park, Nottinghamshire, England and London, England, probably in January 1891, but by summer 1900 [2]. Scott & Fowles, New York, NY, by November 14, 1926 [3]; their sale, American Art Association, New York, NY, November 19, 1926, no. 82; purchased by Lewis & Simmons, London, England. John Levy Galleries, New York, NY, 1928 [4]. Mrs. Charles (Annette Hershberg) Dreifus [1877-1961], Pittsburgh, PA, until April 10, 1961; by descent to her children, Charles Dreifus, Jr. [1908-1966], San Francisco, CA and Mrs. A. Cass  (Louise) Sunstein (1901-?), Pittsburgh, PA and Palm Beach, FL, until September 19, 1961 [5]; their gift to Department of Fine Arts, Carnegie Institute, Pittsburgh, PA, September 1961.\n\nNotes:\n [1]. Probable descent in the Dashwood family: The sitter, Ann (Anne) Bateman Dashwood (see information on back of the painting), married on April 15, 1744 to Samuel Dashwood [1725-1793 or 1794]; their daughter Diana Dashwood [1748?-1812], married on July 8, 1765 to her cousin Charles Vere Dashwood [1745-1821], Stanford Park, Nottinghamshire, England; their son Samuel Francis Dashwood [1773-1826], married Lydia Boughton Lister; their son Reverend Samuel Vere Dashwood [1803-1876], married (first) Caroline Hammond, on October 24, 1828; their son Charles Lewes Dashwood [1833-1891], who died unmarried; his brother Major General Richard Lewes Dashwood [1837-1905].\n[2]. The painting, as \"Portrait of Mrs. Anne Dashwood\" by Romney, was lent to \"Exhibition of a Special Selection from the Works by George Romney,\" The Grafton Galleries, Summer Exhibition 1900 by Maj.-General R. L. Dashwood. He was a great-great grandson of Ann Bateman Dashwood and younger brother of Charles Lewes Dashwood, who sold Stanford Hall in 1887 and died unmarried in January 1891.\n[3]. See relevant New York Times article published on November 14, 1926. It describes the  Scott & Fowles \"moving\" exhibition and sale and mentions this painting.\n[4]. For provenance information from 1900 to 1928 see also Alex Kidson \"George Romney - A Complete Catalogue of his Paintings\", published for The Paul Mellon Center for Studies in British Art by Yale University Press, New Haven and London, 2015, pages 174-175 (no. 344, illustrated.) According to an annotated copy of the 1926 American Art Association sale catalogue (Frick Art Reference Library) the painting sold at that sale for $1400 (see curatorial file.)\n[5] The painting apparently arrived at the museum as an intended gift in early 1961, when Mrs. Sunstein was \"dismantling\" her mother's house in Pittsburgh, apparently before the latter's death in April 1961 (see curatorial file.)",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=119887&size=Medium"
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159543&size=Medium"
     }
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/f7542572-aa20-480c-9d94-a13e58d865c7",
+      "artist_id": "cmoa:parties/4c762d0a-aaa4-42c1-a7fa-52d23ed3c4d5",
       "party_type": "Person",
-      "full_name": "Francis Cotes",
-      "cited_name": "Cotes, Francis",
-      "role": "attributed to",
+      "full_name": "George Romney",
+      "cited_name": "Romney, George",
+      "role": null,
       "nationality": "British",
-      "birth_date": "1726-01-01",
-      "death_date": "1770-01-01",
-      "birth_place": "London (Greater London, England, United Kingdom)",
-      "death_place": "London (Greater London, England, United Kingdom)"
+      "birth_date": "1734-01-01",
+      "death_date": "1802-01-01",
+      "birth_place": "Dalton-in-Furness, Lancs, England",
+      "death_place": "Kendal, Cumbria, England"
     }
   ]
 }

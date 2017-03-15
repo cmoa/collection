@@ -11,13 +11,15 @@
   "department": "Contemporary Art",
   "physical_location": "Not on View",
   "item_width": 33.5,
-  "item_height": 96.0,
+  "item_height": 96.125,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=79139",
   "provenance_text": "The artist, New York",
   "classification": "drawings and watercolors",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/2cc5bf0b-1297-42c2-93a1-cf2acfd9b5da",

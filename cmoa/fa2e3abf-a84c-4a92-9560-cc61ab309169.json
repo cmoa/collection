@@ -1,0 +1,49 @@
+{
+  "title": "Design for a Monumental Tomb",
+  "creation_date": "after 1625",
+  "creation_date_earliest": "1625-01-01",
+  "creation_date_latest": "1700-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.204",
+  "id": "cmoa:things/fa2e3abf-a84c-4a92-9560-cc61ab309169",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.375,
+  "item_height": 11.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113024",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/42845212-bd75-41b4-b14f-35bddcdeca69",
+      "party_type": "Person",
+      "full_name": "unknown European",
+      "cited_name": "unknown European",
+      "role": "after",
+      "nationality": "European",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/dd6d2cfb-877f-4b66-a09e-38b94ec92ad8",
+      "party_type": "Person",
+      "full_name": "Bernardino Radi",
+      "cited_name": "Radi, Bernardino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1581-01-01",
+      "death_date": "1643-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

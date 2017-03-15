@@ -10,13 +10,13 @@
   "date_acquired": "1970-05-07",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 12.875,
-  "item_height": 8.375,
-  "item_depth": 9.5,
+  "item_width": 12.75,
+  "item_height": 8.5,
+  "item_depth": 9.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1015947",
   "provenance_text": "Ailsa Mellon Bruce",
-  "classification": "Organic Materials",
+  "classification": "containers",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=3238&size=Medium"
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/7a9e2549-6201-4a3d-8222-058ac5763e98",
+      "artist_id": "cmoa:parties/119dfe94-1f6b-46d0-802d-0420119fafaf",
       "party_type": "Person",
-      "full_name": "unknown English or Portuguese",
-      "cited_name": "unknown English or Portuguese",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown English",
+      "cited_name": "unknown English",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a63db69f-6f8a-435f-bd8f-c6d9e2dfa5c7",
+      "party_type": "Person",
+      "full_name": "unknown Portuguese",
+      "cited_name": "unknown Portuguese",
+      "role": "possibly by",
+      "nationality": "Portuguese",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

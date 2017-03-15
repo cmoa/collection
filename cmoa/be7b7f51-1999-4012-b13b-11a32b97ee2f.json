@@ -1,0 +1,51 @@
+{
+  "title": "Marriage (#3) of spiritual love mediated by Christ",
+  "creation_date": "c. 1595",
+  "creation_date_earliest": "1590-01-01",
+  "creation_date_latest": "1600-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.55",
+  "id": "cmoa:things/be7b7f51-1999-4012-b13b-11a32b97ee2f",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.25,
+  "item_height": 9.063,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112850",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150815&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7ef68600-4822-43c5-a5b6-1d0a59b48180",
+      "party_type": "Person",
+      "full_name": "Jan Saenredam",
+      "cited_name": "Saenredam, Jan",
+      "role": "engraver",
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1607-01-01",
+      "birth_place": "Zaandam (North Holland, Netherlands)",
+      "death_place": " Assendelft (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/873dc401-c0f4-4d4d-b337-5f9627ae6e3e",
+      "party_type": "Person",
+      "full_name": "Hendrick Goltzius",
+      "cited_name": "Goltzius, Hendrick",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1558-01-01",
+      "death_date": "1617-01-01",
+      "birth_place": null,
+      "death_place": "Haarlem (North Holland, Netherlands)"
+    }
+  ]
+}

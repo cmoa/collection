@@ -1,0 +1,51 @@
+{
+  "title": "Augustus and the Tiburtine Sibyl",
+  "creation_date": "c. 1529-1530",
+  "creation_date_earliest": "1523-12-22",
+  "creation_date_latest": "1529-12-22",
+  "medium": "woodcut printed from two blocks",
+  "accession_number": "2016.12",
+  "id": "cmoa:things/889dbfcb-b41a-42b6-b508-dca7c070b5fa",
+  "credit_line": "Mary Louise and Henry J. Gailliot Fund for Acquisitions",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.5,
+  "item_height": 13.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113105",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154009&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3f07b7e3-da52-49d7-bfe8-0c6ebc5ca34a",
+      "party_type": "Person",
+      "full_name": "Antonio da Trento",
+      "cited_name": "Trento, Antonio da",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1495-01-01",
+      "death_date": "1535-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4bdee88b-0e02-4973-ab26-f730dd3ddddf",
+      "party_type": "Person",
+      "full_name": "Parmigianino",
+      "cited_name": "Parmigianino",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1503-01-01",
+      "death_date": "1540-01-01",
+      "birth_place": "Parma, Emilia-Romagna, Italy",
+      "death_place": "Casalmaggiore, Lombardy, Italy"
+    }
+  ]
+}

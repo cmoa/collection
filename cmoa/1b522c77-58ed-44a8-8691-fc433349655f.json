@@ -1,0 +1,39 @@
+{
+  "title": "Barefoot, Kassel (II)",
+  "creation_date": "1982",
+  "creation_date_earliest": "1982-01-01",
+  "creation_date_latest": "1982-01-01",
+  "medium": "chromogenic print",
+  "accession_number": "2015.47.27",
+  "id": "cmoa:things/1b522c77-58ed-44a8-8691-fc433349655f",
+  "credit_line": "Gift of Eileen and Michael Cohen",
+  "date_acquired": "2016-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 28.0,
+  "item_height": 41.0,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=105400",
+  "provenance_text": "Mitchell-Innes & Nash",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150769&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5a8a0377-0b32-46eb-81f8-0d8e0bdf944f",
+      "party_type": "Person",
+      "full_name": "Martha Rosler",
+      "cited_name": "Rosler, Martha",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1943-01-01",
+      "death_date": null,
+      "birth_place": "Brooklyn, New York",
+      "death_place": null
+    }
+  ]
+}

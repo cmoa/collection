@@ -3,7 +3,7 @@
   "creation_date": "1991",
   "creation_date_earliest": "1991-01-01",
   "creation_date_latest": "1991-01-01",
-  "medium": "photolithograph on newsprint with hand-torn edges . . .",
+  "medium": "photolithograph on newsprint with hand-torn edges",
   "accession_number": "1997.48.3",
   "id": "cmoa:things/dda4f037-9191-4235-ad41-88f25a3ec9c7",
   "credit_line": "Bequest of John Caldwell, Curator of Contemporary Art, 1983 - 1989",
@@ -18,7 +18,9 @@
   "provenance_text": "Estate of John S. CALDWELL, San Francisco, CA",
   "classification": "prints",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158000&size=Medium"
+    }
   ],
   "creator": [
     {

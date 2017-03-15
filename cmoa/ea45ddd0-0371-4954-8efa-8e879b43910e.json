@@ -9,13 +9,13 @@
   "credit_line": "Acquired through the generosity of the Sarah Mellon Scaife Family",
   "date_acquired": "1969-12-17",
   "department": "Fine Arts",
-  "physical_location": "Gallery 8, Scaife Galleries",
-  "item_width": 19.875,
-  "item_height": 25.75,
-  "item_depth": 0.0,
+  "physical_location": "Not on View",
+  "item_width": 19.75,
+  "item_height": 25.688,
+  "item_depth": 0.75,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012610",
-  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917], Paris, France. Henri Rouart [1833-1912], Paris, France; Ernest Rouart, his son [1874-1942], Paris, France; Mme. Julie Manet Rouart, his wife [1878-1966], Paris, France, until 1960; Clément Rouart, their son, Paris, France, in 1960; Private Collection, Paris, France; Wildenstein & Company, Inc., New York, NY, until December 1969; purchased by Museum, December 1969 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917], Paris, France; Henri Rouart [1833-1912], Paris, France; his son, Ernest Rouart [1874-1942], Paris, France; his wife, Mme. Ernest (Julie Manet) Rouart [1878-1966], Paris, France, until 1960; their son, Clément Rouart [1906-1992], Paris, France, in 1960; Private Collection, Paris, France [1]; Wildenstein & Company, Inc., New York, NY, by November 1969 until December 1969; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, December 1969.\n\nNotes:\n[1]. According to Wildenstein; see curatorial file.",
   "classification": "paintings",
   "images": [
     {
@@ -26,14 +26,14 @@
     {
       "artist_id": "cmoa:parties/23a88d6c-02e1-46e5-97a4-8246ca906f93",
       "party_type": "Person",
-      "full_name": "Hilaire-Germain-Edgar Degas",
-      "cited_name": "Degas, Hilaire-Germain-Edgar",
+      "full_name": "Edgar Degas",
+      "cited_name": "Degas, Edgar",
       "role": null,
       "nationality": "French",
       "birth_date": "1834-07-19",
       "death_date": "1917-09-27",
-      "birth_place": "Paris, France",
-      "death_place": "Paris, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Paris (Île-de-France, France)"
     }
   ]
 }

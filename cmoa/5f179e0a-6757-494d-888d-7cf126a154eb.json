@@ -1,0 +1,39 @@
+{
+  "title": "The House of Dust",
+  "creation_date": "1967/1971",
+  "creation_date_earliest": "1967-01-01",
+  "creation_date_latest": "1967-01-01",
+  "medium": "computer printout on paper",
+  "accession_number": "2016.54.1",
+  "id": "cmoa:things/5f179e0a-6757-494d-888d-7cf126a154eb",
+  "credit_line": "A. W. Mellon Acquisition Endowment Fund",
+  "date_acquired": "2016-12-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 18.125,
+  "item_height": 47.25,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114324",
+  "provenance_text": "On loan from artist",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158817&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a6e74b06-fa4b-4da9-b9ca-5e2d059f75d6",
+      "party_type": "Person",
+      "full_name": "Alison Knowles",
+      "cited_name": "Knowles, Alison",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1933-01-01",
+      "death_date": null,
+      "birth_place": "New York, NY",
+      "death_place": null
+    }
+  ]
+}

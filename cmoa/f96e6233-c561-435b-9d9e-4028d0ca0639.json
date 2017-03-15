@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018184",
-  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917]. (Sold at David Tunick, Inc. [1966-], New York, NY, by 1976); purchased by Museum, December 1976 [1]. \nNOTES:1. Updated by CGK July 2012.",
+  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917], Paris, France. David Tunick, Inc., New York, NY, by 1976; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, December 1976. \n\nUpdated by CGK July 2012.",
   "classification": "prints",
   "images": [
     {
@@ -29,14 +29,14 @@
     {
       "artist_id": "cmoa:parties/23a88d6c-02e1-46e5-97a4-8246ca906f93",
       "party_type": "Person",
-      "full_name": "Hilaire-Germain-Edgar Degas",
-      "cited_name": "Degas, Hilaire-Germain-Edgar",
+      "full_name": "Edgar Degas",
+      "cited_name": "Degas, Edgar",
       "role": null,
       "nationality": "French",
       "birth_date": "1834-07-19",
       "death_date": "1917-09-27",
-      "birth_place": "Paris, France",
-      "death_place": "Paris, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Paris (Île-de-France, France)"
     }
   ]
 }

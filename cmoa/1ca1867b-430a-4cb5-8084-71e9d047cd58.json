@@ -1,0 +1,39 @@
+{
+  "title": "Section, Fuji Kindergarten, Tokyo, Japan",
+  "creation_date": "c. 2005",
+  "creation_date_earliest": "2000-01-01",
+  "creation_date_latest": "2010-01-01",
+  "medium": "marker on trace",
+  "accession_number": "2016.20.1",
+  "id": "cmoa:things/1ca1867b-430a-4cb5-8084-71e9d047cd58",
+  "credit_line": "Gift of Tezuka Architects",
+  "date_acquired": "2016-05-12",
+  "department": "Heinz Architectural Center",
+  "physical_location": "Not on View",
+  "item_width": 32.25,
+  "item_height": 23.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114238",
+  "provenance_text": null,
+  "classification": "architectural drawings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154308&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/73263bfc-561b-4925-95ea-72f4e95cc9ed",
+      "party_type": "Organization",
+      "full_name": "Tezuka Architects",
+      "cited_name": "Tezuka Architects",
+      "role": null,
+      "nationality": "Japanese",
+      "birth_date": "1994-01-01",
+      "death_date": null,
+      "birth_place": "Tokyo, Japan",
+      "death_place": null
+    }
+  ]
+}

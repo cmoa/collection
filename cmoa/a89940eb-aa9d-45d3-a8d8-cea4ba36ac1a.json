@@ -1,0 +1,39 @@
+{
+  "title": "La Penserosa, from Milton",
+  "creation_date": "1779",
+  "creation_date_earliest": "1779-01-01",
+  "creation_date_latest": "1779-01-01",
+  "medium": "etching and aquatint",
+  "accession_number": "2016.4.35",
+  "id": "cmoa:things/a89940eb-aa9d-45d3-a8d8-cea4ba36ac1a",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.688,
+  "item_height": 12.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112842",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150813&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a25a0033-03ed-45aa-bf55-a6f085ec645c",
+      "party_type": "Person",
+      "full_name": "Angelica Kauffmann",
+      "cited_name": "Kauffmann, Angelica",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1740-01-01",
+      "death_date": "1807-01-01",
+      "birth_place": " Chur (Graubünden, Switzerland)",
+      "death_place": " Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "title": "An Italian Hill Town",
-  "creation_date": "19th century",
-  "creation_date_earliest": "1818-01-01",
-  "creation_date_latest": "1871-01-01",
+  "creation_date": "c. 1835",
+  "creation_date_earliest": "1830-01-01",
+  "creation_date_latest": "1840-01-01",
   "medium": "pen and brown ink over pencil",
   "accession_number": "75.47.1",
   "id": "cmoa:things/a149839d-3211-4fcc-9471-054359acb440",
@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017782",
-  "provenance_text": "Dr. And Mrs. Daniel Fishkoff, Colonia, NJ",
+  "provenance_text": "Claude Félix Théodore d'Aligny (called Caruelle) [1798-1871], Paris and Lyon, France. Dr. and Mrs. Daniel Fishkoff, Colonia, NJ, by June 12, 1974 [1]; their gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, December 1975.\n\nNotes:\n[1]. Daniel and Jane Fishkoff loaned the work to the Museum of Art, Carnegie Institute in June 1974; see curatorial file for original loan form and list of works.",
   "classification": "drawings and watercolors",
   "images": [
     {
@@ -26,14 +26,14 @@
     {
       "artist_id": "cmoa:parties/819b4d1d-12a8-4dc2-9b08-e6618f2c8113",
       "party_type": "Person",
-      "full_name": "Claude Félix Théodore Aligny",
-      "cited_name": "Aligny, Claude Félix Théodore",
+      "full_name": "Claude Félix Théodore Caruelle d'Aligny",
+      "cited_name": "Aligny, Claude Félix Théodore Caruelle d'",
       "role": null,
       "nationality": "French",
       "birth_date": "1798-01-01",
       "death_date": "1871-01-01",
-      "birth_place": " Nevers (Nièvre, Burgundy region, France)",
-      "death_place": " Lyon (Rhône, Rhône-Alpes, France)"
+      "birth_place": "Nevers (Nièvre, Burgundy region, France)",
+      "death_place": "Lyon (Rhône, Rhône-Alpes, France)"
     }
   ]
 }

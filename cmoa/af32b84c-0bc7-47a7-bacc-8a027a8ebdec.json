@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1004831",
-  "provenance_text": "Dupuy, Herbert",
+  "provenance_text": "Dupuy, Herbert\n\nUnder review by CGK",
   "classification": "drawings and watercolors",
   "images": [
     {
@@ -24,16 +24,16 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/1e1295b3-a6ce-4761-b552-f370f34d68ff",
+      "artist_id": "cmoa:parties/8a672bbb-043f-4a15-a771-3b801b2c1b41",
       "party_type": "Person",
-      "full_name": "School of Giovanni Battista Passeri",
-      "cited_name": "Passeri, School of Giovanni Battista",
-      "role": null,
+      "full_name": "Giovanni Battista Passeri",
+      "cited_name": "Passeri, Giovanni Battista",
+      "role": "school of",
       "nationality": "Italian",
-      "birth_date": null,
-      "death_date": null,
-      "birth_place": null,
-      "death_place": null
+      "birth_date": "1610-01-01",
+      "death_date": "1679-01-01",
+      "birth_place": "Rome (Roma province, Lazio, Italy)",
+      "death_place": "Rome (Roma province, Lazio, Italy)"
     }
   ]
 }

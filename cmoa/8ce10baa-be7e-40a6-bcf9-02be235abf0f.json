@@ -1,0 +1,49 @@
+{
+  "title": "William Hogarth",
+  "creation_date": "1795",
+  "creation_date_earliest": "1795-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.170",
+  "id": "cmoa:things/8ce10baa-be7e-40a6-bcf9-02be235abf0f",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.438,
+  "item_height": 15.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113001",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e405f0dc-ac14-479e-93fa-42b7ff733fe5",
+      "party_type": "Person",
+      "full_name": "Benjamin Smith",
+      "cited_name": "Smith, Benjamin",
+      "role": "engraver",
+      "nationality": "British",
+      "birth_date": "1775-01-01",
+      "death_date": "1833-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7f38dd27-117c-4cb7-b786-3fbc71c6be07",
+      "party_type": "Person",
+      "full_name": "William Hogarth",
+      "cited_name": "Hogarth, William",
+      "role": "after",
+      "nationality": "English",
+      "birth_date": "1697-01-01",
+      "death_date": "1764-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    }
+  ]
+}

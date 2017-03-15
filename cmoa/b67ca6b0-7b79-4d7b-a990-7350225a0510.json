@@ -28,12 +28,24 @@
       "party_type": "Person",
       "full_name": "Jean Bérain the Elder",
       "cited_name": "Bérain, Jean, the elder",
-      "role": null,
+      "role": "engraver",
       "nationality": "French",
       "birth_date": "1640-01-01",
       "death_date": "1711-01-01",
       "birth_place": "Saint-Mihiel (Meuse, Lorraine, France)",
       "death_place": "Paris (Ville de Paris department, Île-de-France, France)"
+    },
+    {
+      "artist_id": "cmoa:parties/fb58365c-4372-4563-af1f-ef512e89bcc4",
+      "party_type": "Person",
+      "full_name": "Juan Dolívar",
+      "cited_name": "Dolívar, Juan",
+      "role": null,
+      "nationality": "Spanish",
+      "birth_date": "1641-01-01",
+      "death_date": "1701-01-01",
+      "birth_place": null,
+      "death_place": null
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "title": "The Slingshot",
+  "creation_date": "1911",
+  "creation_date_earliest": "1911-01-01",
+  "creation_date_latest": "1911-01-01",
+  "medium": "bronze, on marble base",
+  "accession_number": "2016.18.17",
+  "id": "cmoa:things/40fd2eb3-c34c-40ce-8f09-4386a90a1ac6",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 7, Scaife Galleries",
+  "item_width": 8.188,
+  "item_height": 13.25,
+  "item_depth": 5.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113452",
+  "provenance_text": "Gift of the artist to the Stephen Foley (a chaser at the Parlanti Foundry); by decent to his daughter, Marie Foley, Australia; Robert Bowman Gallery, London; Dr. Michael L. Nieland.",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154771&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154773&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b883f8ae-5db7-4447-b4e3-c6b0cb55fc63",
+      "party_type": "Person",
+      "full_name": "Sir William Reid Dick",
+      "cited_name": "Sir William Reid Dick",
+      "role": null,
+      "nationality": "Scottish",
+      "birth_date": "1879-01-01",
+      "death_date": "1961-01-01",
+      "birth_place": "Glasgow, Scotland",
+      "death_place": null
+    }
+  ]
+}

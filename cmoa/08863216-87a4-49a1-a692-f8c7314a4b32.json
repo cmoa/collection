@@ -12,10 +12,10 @@
   "physical_location": "Gallery 8, Scaife Galleries",
   "item_width": 32.0,
   "item_height": 23.5,
-  "item_depth": 0.0,
+  "item_depth": 4.75,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016715",
-  "provenance_text": "Claude Oscar Monet [1840-1926], France, until 1884; purchased by Durand-Ruel, Paris, France, 1884 until 1891; sold to J. E. Chase, Boston, MA, April 20, 1891 [1]; Higginson, 1891 until April 1907 [2]; purchased by Durand-Ruel, Paris, France, April 1907; Durand-Ruel, New York, NY, by June 1936 [3]. Sam Salz, Inc., New York, NY; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, February 1973 \n \nNotes:\n[1]. Recorded as \"For Higginson\", likely Henry Lee Higginson [1834-1919], Boston, MA. J.E. Chase was probably acting as Higginson's agent.\n[2]. Received by Durand-Ruel on consignment from Higginson, April 1906; purchased by Durand Ruel, April 1907 (see correspondence with Sam Salz in curatorial file). \n[2]. Durand -Ruel Ph. A1035, NY 7395. Durand-Ruel Galleries, New York is recorded as the lender for the painting in \"The Centennial Exposition\", Dallas Museum of Fine Arts, June 6 to November 29, 1936.",
+  "provenance_text": "Claude Oscar Monet [1840-1926], France, until 1884; purchased by Durand-Ruel, Paris, France, 1884 until 1891; sold to J. E. Chase, Boston, MA, April 20, 1891 [1]; Higginson, 1891 until April 1907 [2]; purchased by Durand-Ruel, Paris, France, April 1907; Durand-Ruel, New York, NY, by June 1936 [3]; Durand-Ruel family collection, Paris, France [4]; Sam Salz [1894-1981], Inc., New York, NY, by January 1973; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, February 1973 \n \nNotes:\n[1]. Recorded as \"For Higginson\", likely Henry Lee Higginson [1834-1919], Boston, MA. J. E. Chase was probably acting as Higginson's agent.\n[2]. Received by Durand-Ruel on consignment from Higginson, April 1906; purchased by Durand Ruel, April 1907 (see correspondence with Sam Salz in curatorial file.) \n[3]. Durand-Ruel Galleries, New York is recorded as the lender for the painting in \"The Centennial Exposition\", Dallas Museum of Fine Arts, June 6 to November 29, 1936. Durand -Ruel, Paris photograph in curatorial file is inscribed on the back as follows: \"A1035 - Monet - Falaises près Dieppe - N.Y. 7395 - 60 x 81.\" Sam Salz provided further Durand-Ruel information, i.e., St. NY: 1345, 108, 3179.\n[4]. See letter from Sam Salz, dated January 8, 1973, in curatorial file.",
   "classification": "paintings",
   "images": [
     {
@@ -26,14 +26,14 @@
     {
       "artist_id": "cmoa:parties/9c1016d9-7b4e-493a-9e79-1a54b384d115",
       "party_type": "Person",
-      "full_name": "Claude Oscar Monet",
-      "cited_name": "Monet, Claude O.",
+      "full_name": "Claude Monet",
+      "cited_name": "Monet, Claude",
       "role": null,
       "nationality": "French",
       "birth_date": "1840-11-14",
       "death_date": "1926-12-05",
-      "birth_place": "Paris, France",
-      "death_place": "Giverny, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Giverny (Haute-Normandie, France)"
     }
   ]
 }

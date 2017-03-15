@@ -1,0 +1,61 @@
+{
+  "title": "[Bridge over a river, with two figures, and a dog]",
+  "creation_date": "c. 1635",
+  "creation_date_earliest": "1630-01-01",
+  "creation_date_latest": "1640-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.86",
+  "id": "cmoa:things/c7e433a4-805d-46ce-8142-732d4b71f027",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.875,
+  "item_height": 10.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112928",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/daa42064-a098-4784-8ea4-559e8e0e83d2",
+      "party_type": "Person",
+      "full_name": "Willem v. Nieulandt II",
+      "cited_name": "Nieulandt, Willem v.",
+      "role": "printmaker",
+      "nationality": "Dutch",
+      "birth_date": "1584-01-01",
+      "death_date": "1630-01-01",
+      "birth_place": "Antwerp",
+      "death_place": "Amdsterdam"
+    },
+    {
+      "artist_id": "cmoa:parties/78f92b2e-7d45-4a6b-b582-9d66d8e2dc9b",
+      "party_type": "Person",
+      "full_name": "Paul Bril",
+      "cited_name": "Bril, Paul",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1554-01-01",
+      "death_date": "1626-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/d9ebbced-0cd0-4a80-a05d-f0fb70f8f034",
+      "party_type": "Person",
+      "full_name": "Antoine Bonenfant",
+      "cited_name": "Bonenfant, Antoine",
+      "role": "publisher",
+      "nationality": "Flemish",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

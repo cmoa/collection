@@ -1,0 +1,49 @@
+{
+  "title": "Penitent Magdalene",
+  "creation_date": "1560-1575",
+  "creation_date_earliest": "1559-12-22",
+  "creation_date_latest": "1574-12-22",
+  "medium": "engraving",
+  "accession_number": "2016.4.1",
+  "id": "cmoa:things/92844066-5ca0-4972-a933-e895ca2eb8ab",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.25,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112813",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fc9ab638-b8a2-469e-a450-aa6796240dce",
+      "party_type": "Person",
+      "full_name": "Domenico Tibaldi",
+      "cited_name": "Tibaldi, Domenico",
+      "role": "attributed to",
+      "nationality": "Italian",
+      "birth_date": "1541-01-01",
+      "death_date": "1583-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e93d521c-d443-4b0c-86fe-12e7df38b03b",
+      "party_type": "Person",
+      "full_name": "Titian",
+      "cited_name": "Titian",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1488-01-01",
+      "death_date": "1576-01-01",
+      "birth_place": "Pieve di Cadore, Belluno province, Veneto, Italy",
+      "death_place": "Venice"
+    }
+  ]
+}

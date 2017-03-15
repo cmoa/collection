@@ -10,13 +10,13 @@
   "date_acquired": "1977-10-12",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 5.5,
-  "item_height": 21.0,
-  "item_depth": 5.0,
+  "item_width": 5.375,
+  "item_height": 21.25,
+  "item_depth": 4.875,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1018670",
   "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
-  "classification": "Organic Materials",
+  "classification": "sculpture",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1440&size=Medium"
@@ -24,10 +24,10 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/62296cd1-ef08-4330-aaf9-cfc416e92b35",
+      "artist_id": "cmoa:parties/42845212-bd75-41b4-b14f-35bddcdeca69",
       "party_type": "Person",
-      "full_name": "unknown Continental European",
-      "cited_name": "unknown Continental European",
+      "full_name": "unknown European",
+      "cited_name": "unknown European",
       "role": null,
       "nationality": "European",
       "birth_date": null,

@@ -1,0 +1,51 @@
+{
+  "title": "Venus disarming Cupid",
+  "creation_date": "1777",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "etching with aquatint",
+  "accession_number": "2016.4.31",
+  "id": "cmoa:things/38b920dd-9c91-4605-a56f-4f7eea3b5a2e",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112838",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150812&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/45e20e48-6a0c-4643-a559-ff817fc6f565",
+      "party_type": "Person",
+      "full_name": "Katharina Prestel",
+      "cited_name": "Prestel, Katharina",
+      "role": "printmaker",
+      "nationality": "German",
+      "birth_date": "1747-01-01",
+      "death_date": "1794-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/4bdee88b-0e02-4973-ab26-f730dd3ddddf",
+      "party_type": "Person",
+      "full_name": "Parmigianino",
+      "cited_name": "Parmigianino",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1503-01-01",
+      "death_date": "1540-01-01",
+      "birth_place": "Parma, Emilia-Romagna, Italy",
+      "death_place": "Casalmaggiore, Lombardy, Italy"
+    }
+  ]
+}

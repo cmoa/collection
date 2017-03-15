@@ -12,12 +12,15 @@
   "physical_location": "Gallery 15, Scaife Galleries",
   "item_width": 59.25,
   "item_height": 59.25,
-  "item_depth": 0.0,
+  "item_depth": 3.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1023063",
   "provenance_text": "Andre Emmerich Gallery, NYC via the Carnegie International 1982",
   "classification": "paintings",
   "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159388&size=Medium"
+    },
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10326&size=Medium"
     }

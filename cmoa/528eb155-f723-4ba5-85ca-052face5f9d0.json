@@ -19,9 +19,6 @@
   "classification": "Ceramics",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=68824&size=Medium"
-    },
-    {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=126403&size=Medium"
     },
     {
@@ -32,8 +29,8 @@
     {
       "artist_id": "cmoa:parties/70b8518e-bb7f-458e-9393-a5a4155c9f55",
       "party_type": "Person",
-      "full_name": "Jean-Baptiste Lemoyne",
-      "cited_name": "Lemoyne, Jean-Baptiste",
+      "full_name": "Jean-Baptiste Lemoyne the Younger",
+      "cited_name": "Lemoyne, Jean-Baptiste, the younger",
       "role": null,
       "nationality": "French",
       "birth_date": "1704-01-01",

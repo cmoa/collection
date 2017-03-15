@@ -10,14 +10,16 @@
   "date_acquired": "1960-02-08",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
-  "item_depth": 0.0,
+  "item_width": 15.0,
+  "item_height": 9.0,
+  "item_depth": 1.125,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011334",
   "provenance_text": "Adolph Loewi, Inc. CA, Los Angeles",
   "classification": "Textiles",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",

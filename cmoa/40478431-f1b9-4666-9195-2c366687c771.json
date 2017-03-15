@@ -1,17 +1,17 @@
 {
-  "title": "Untitled (Chrysanthemum with Morning Glory, JH - Verso, Buttercup and Leaves, JH 74)",
+  "title": "Untitled (Buttercup and Leaves, JH 74) [recto]; (Chrysanthemum with Morning Glory, JH) [verso]",
   "creation_date": "c. 1825",
   "creation_date_earliest": "1820-01-01",
   "creation_date_latest": "1830-01-01",
   "medium": "watercolor on paper",
-  "accession_number": "70.32.2575",
+  "accession_number": "70.32.2575.A-.B",
   "id": "cmoa:things/40478431-f1b9-4666-9195-2c366687c771",
   "credit_line": "Ailsa Mellon Bruce Collection",
   "date_acquired": "1970-10-08",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 8.375,
-  "item_height": 5.25,
+  "item_width": 7.875,
+  "item_height": 4.875,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014812",
@@ -31,12 +31,36 @@
       "party_type": "Person",
       "full_name": "John Hancock",
       "cited_name": "Hancock, John",
-      "role": null,
+      "role": "possibly by",
       "nationality": "English",
       "birth_date": "1757-01-01",
-      "death_date": null,
+      "death_date": "1847-01-01",
       "birth_place": "England",
-      "death_place": "East Liverpool (Ohio)"
+      "death_place": "England"
+    },
+    {
+      "artist_id": "cmoa:parties/ed25735f-6f59-4e40-9431-bbb56e5beeb4",
+      "party_type": "Person",
+      "full_name": "John Hancock the elder",
+      "cited_name": "Hancock, John",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": "1777-01-01",
+      "death_date": "1840-01-01",
+      "birth_place": "England",
+      "death_place": "England"
+    },
+    {
+      "artist_id": "cmoa:parties/39e768a9-9da2-4631-b466-6ab2bb9c4357",
+      "party_type": "Person",
+      "full_name": "John Hancock , Jr.",
+      "cited_name": "Hancock, John",
+      "role": "possibly by",
+      "nationality": "English",
+      "birth_date": "1804-01-01",
+      "death_date": "1839-01-01",
+      "birth_place": "England",
+      "death_place": "England"
     }
   ]
 }

@@ -1,0 +1,49 @@
+{
+  "title": "Minerva and Mercury: design for a medal for the Society of Arts",
+  "creation_date": "1809",
+  "creation_date_earliest": "1809-01-01",
+  "creation_date_latest": "1809-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.176",
+  "id": "cmoa:things/a866c2a4-b64c-4555-bce7-801ff246f427",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.5,
+  "item_height": 8.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112951",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9a6bada8-41dc-43db-a59b-e43310ce7dcb",
+      "party_type": "Person",
+      "full_name": "John Warner",
+      "cited_name": "Warner, John",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1782-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e0c478d6-3d34-4c14-8a1b-b1f13fff8583",
+      "party_type": "Person",
+      "full_name": "James Barry",
+      "cited_name": "Barry, James",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1741-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

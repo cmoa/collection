@@ -1,0 +1,49 @@
+{
+  "title": "The Scheldt, Texel Island",
+  "creation_date": "c.1850-1853",
+  "creation_date_earliest": "1850-01-01",
+  "creation_date_latest": "1853-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.181",
+  "id": "cmoa:things/39d22f9b-1966-4da1-a808-6c056dbb7be5",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 9.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113005",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/d67e0024-42c3-4189-a357-6e18ae4fa27e",
+      "party_type": "Person",
+      "full_name": "Robert Wallis",
+      "cited_name": "Wallis, Robert",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1794-01-01",
+      "death_date": "1878-01-01",
+      "birth_place": "London, England",
+      "death_place": "Brighton, England"
+    },
+    {
+      "artist_id": "cmoa:parties/2816cd8c-e0d1-4073-bc4e-9b838e22b60a",
+      "party_type": "Person",
+      "full_name": "Clarkson Stanfield",
+      "cited_name": "Stanfield, Clarkson",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": "1867-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

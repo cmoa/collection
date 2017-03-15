@@ -1,0 +1,49 @@
+{
+  "title": "The British navy burning the Prudent and capturing the Bienfaisant in Louisburg in 1758",
+  "creation_date": "1771",
+  "creation_date_earliest": "1771-01-01",
+  "creation_date_latest": "1771-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.139",
+  "id": "cmoa:things/5a9dc114-5aa6-4bbb-9a22-121af6ece541",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 23.875,
+  "item_height": 16.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112936",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/32374f3a-ee70-4713-a6d2-e91c8c521c2d",
+      "party_type": "Person",
+      "full_name": "Pierre- Charles Canot",
+      "cited_name": "Canot, Pierre-Charles",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1710-01-01",
+      "death_date": "1777-01-01",
+      "birth_place": "France",
+      "death_place": "England"
+    },
+    {
+      "artist_id": "cmoa:parties/2339b39b-9999-43a3-ac64-c734c874695e",
+      "party_type": "Person",
+      "full_name": "Richard Paton",
+      "cited_name": "Paton, Richard",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1717-01-01",
+      "death_date": "1791-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

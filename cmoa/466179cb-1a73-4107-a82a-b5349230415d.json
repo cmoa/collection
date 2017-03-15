@@ -12,12 +12,14 @@
   "physical_location": "Not on View",
   "item_width": 7.5,
   "item_height": 8.5,
-  "item_depth": 1.5,
+  "item_depth": 2.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=16148",
   "provenance_text": null,
-  "classification": "Metals",
-  "images": null,
+  "classification": "architectural elements",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/6b89c35f-6948-43bc-ba90-43919ca61a4b",

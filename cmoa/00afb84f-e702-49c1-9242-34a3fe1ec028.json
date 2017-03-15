@@ -28,12 +28,24 @@
       "party_type": "Person",
       "full_name": "Isaac Cruikshank",
       "cited_name": "Cruikshank, Isaac",
-      "role": null,
+      "role": "artist",
       "nationality": "English",
       "birth_date": "1764-01-01",
       "death_date": "1810-01-01",
       "birth_place": " Edinburgh (Edinburgh, Scotland, United Kingdom)",
       "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/177d67b4-7a15-4833-89fb-3ef9cdad64d1",
+      "party_type": "Person",
+      "full_name": "S. W. Fores",
+      "cited_name": "Fores, S. W.",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": "1761-01-01",
+      "death_date": "1838-01-01",
+      "birth_place": null,
+      "death_place": null
     }
   ]
 }

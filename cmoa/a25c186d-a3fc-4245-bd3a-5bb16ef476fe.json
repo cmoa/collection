@@ -1,0 +1,39 @@
+{
+  "title": "Theater Flags",
+  "creation_date": "2007",
+  "creation_date_earliest": "2007-01-01",
+  "creation_date_latest": "2007-01-01",
+  "medium": "mechanical pencil on paper",
+  "accession_number": "2015.47.6.A-.B",
+  "id": "cmoa:things/a25c186d-a3fc-4245-bd3a-5bb16ef476fe",
+  "credit_line": "Gift of Eileen and Michael Cohen",
+  "date_acquired": "2016-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 14.5,
+  "item_height": 17.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=110823",
+  "provenance_text": null,
+  "classification": "drawings and watercolors",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=153703&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9c4e78eb-f83d-403d-85ca-7cb461f286ff",
+      "party_type": "Person",
+      "full_name": "Colter Jacobsen",
+      "cited_name": "Jacobsen, Colter",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1975-01-01",
+      "death_date": null,
+      "birth_place": "Ramona, California",
+      "death_place": null
+    }
+  ]
+}

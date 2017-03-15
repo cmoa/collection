@@ -9,17 +9,20 @@
   "credit_line": "Purchased through the generosity of Mrs. Alan M. Scaife",
   "date_acquired": "1963-10-08",
   "department": "Fine Arts",
-  "physical_location": "Not on View",
+  "physical_location": "Forum Gallery",
   "item_width": 50.875,
   "item_height": 40.0,
   "item_depth": 5.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011616",
-  "provenance_text": "Pierre Bonnard [1867-1947], until 1947. Estate of Pierre Bonnard, France, 1947 until 1963 [1]; Wildenstein & Company, Inc. [1875-], New York, NY, 1963 until October 1963; purchased by Museum, October 1963. \nNOTES:1. Updated by CGK August 2012.",
+  "provenance_text": "Pierre Bonnard [1867-1947], Le Cannet, France, until January, 1947; estate of Pierre Bonnard, France, January 1947 until 1963; Wildenstein & Company, Inc., New York, NY, until October 1963; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, October 1963.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10184&size=Medium"
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159055&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159056&size=Medium"
     }
   ],
   "creator": [
@@ -32,8 +35,8 @@
       "nationality": "French",
       "birth_date": "1867-10-03",
       "death_date": "1947-01-27",
-      "birth_place": "Fontenay-aux-Roses, France",
-      "death_place": "Cannet, France"
+      "birth_place": "Fontenay-aux-Roses (Île-de-France, France)",
+      "death_place": "le Cannet (Provence-Alpes-Côte d'Azur, France)"
     }
   ]
 }

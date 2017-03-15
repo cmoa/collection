@@ -1,0 +1,49 @@
+{
+  "title": "Portrait of Jan Godaert (1617-1688)",
+  "creation_date": "1662-1667",
+  "creation_date_earliest": "1662-01-01",
+  "creation_date_latest": "1667-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.108",
+  "id": "cmoa:things/fe7741fa-0440-487e-9c97-8662c445865a",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 3.562,
+  "item_height": 5.312,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112878",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3655cf12-677a-4122-80d1-04ec0fd3fb6d",
+      "party_type": "Person",
+      "full_name": "Reinier van Persyn",
+      "cited_name": "van Persyn, Reinier",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1609-01-01",
+      "death_date": "1668-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db27b898-b7ab-49c3-bb41-8c9ceaa8ae17",
+      "party_type": "Person",
+      "full_name": "Willem Eversdyck",
+      "cited_name": "Eversdyck, Willem",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": "1671-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

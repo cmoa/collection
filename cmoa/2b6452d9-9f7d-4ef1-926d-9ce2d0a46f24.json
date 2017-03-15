@@ -6,7 +6,7 @@
   "medium": "16mm film; black and white and color, silent; 10:50 min.",
   "accession_number": "94.224.3",
   "id": "cmoa:things/2b6452d9-9f7d-4ef1-926d-9ce2d0a46f24",
-  "credit_line": "Purchase: gift of Juliet Lea Hillman Simonds Foundation",
+  "credit_line": "Purchase made possible by the Juliet Lea Hillman Simonds Foundation",
   "date_acquired": "1994-12-01",
   "department": "Film and Video",
   "physical_location": "Not on View",
@@ -17,7 +17,9 @@
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035014",
   "provenance_text": "Persistent Pictures, Inc., Stanford, CT",
   "classification": "films",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/5566b4cb-d21f-4cdb-a674-2ad0ebb26937",

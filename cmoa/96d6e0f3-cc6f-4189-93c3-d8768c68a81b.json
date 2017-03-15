@@ -1,0 +1,51 @@
+{
+  "title": "Sechszehn Tafeln zu Goethe's Farbenlehre und Siebenundzwanzig Tafeln zu Dessen Beiträge zur Optik nebst Erklärung : Als Nachtrag für die Besitzer von Goethe's sämmtlichen Werken zu allen erschienenen Ausgaben.",
+  "creation_date": "1842",
+  "creation_date_earliest": "1842-01-01",
+  "creation_date_latest": "1842-01-01",
+  "medium": "colored plates",
+  "accession_number": "2016.28",
+  "id": "cmoa:things/96d6e0f3-cc6f-4189-93c3-d8768c68a81b",
+  "credit_line": "Gift of John W. Beatty, by exchange; gift of Henry Yates Thompson, by exchange, and Frances G. Scaife Fund",
+  "date_acquired": "2016-09-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.0,
+  "item_height": 10.125,
+  "item_depth": 0.25,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114456",
+  "provenance_text": null,
+  "classification": "books",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157051&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/47b45b84-4182-43d2-8838-46dba2414aad",
+      "party_type": "Person",
+      "full_name": "Johann W. Goethe",
+      "cited_name": "Goethe, Johann W.",
+      "role": "author",
+      "nationality": "German",
+      "birth_date": "1749-01-01",
+      "death_date": "1832-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/1eb74340-0f6d-4f0d-a290-4bc4f0665c84",
+      "party_type": "Organization",
+      "full_name": "J.G. Cotta'scher Verlag",
+      "cited_name": "J.G. Cotta'scher Verlag",
+      "role": "publisher",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

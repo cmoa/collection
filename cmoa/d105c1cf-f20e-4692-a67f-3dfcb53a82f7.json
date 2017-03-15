@@ -16,7 +16,7 @@
   "item_diameter": 4.5,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1019129",
   "provenance_text": "Mrs. Paul B. Ernst, Pittsburgh, PA",
-  "classification": "Glass",
+  "classification": "containers",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=1452&size=Medium"
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/98954f2c-bb16-4c6d-9fe0-c2ad325c340e",
+      "artist_id": "cmoa:parties/8e1d1753-aeee-4975-b358-6c3a667765a0",
       "party_type": "Person",
-      "full_name": "unknown Belgian or French",
-      "cited_name": "unknown Belgian or French",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown Belgian",
+      "cited_name": "unknown Belgian",
+      "role": "possibly by",
+      "nationality": "Belgian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/64e4f047-4143-4256-8cba-557e3c6b6787",
+      "party_type": "Person",
+      "full_name": "unknown French",
+      "cited_name": "unknown French",
+      "role": "possibly by",
+      "nationality": "French",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

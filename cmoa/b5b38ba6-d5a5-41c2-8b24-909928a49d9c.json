@@ -10,13 +10,13 @@
   "date_acquired": "1970-10-08",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 11.25,
-  "item_height": 12.25,
-  "item_depth": 7.0,
+  "item_width": 11.0,
+  "item_height": 12.5,
+  "item_depth": 7.125,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1014839",
   "provenance_text": "Ailsa Mellon Bruce",
-  "classification": "Wood",
+  "classification": "furniture",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=2027&size=Medium"
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/ea7be49e-8b8f-4b9b-a663-6864d442a700",
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
       "party_type": "Person",
-      "full_name": "unknown German or Italian",
-      "cited_name": "unknown German or Italian",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": "possibly by",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
+      "party_type": "Person",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": "possibly by",
+      "nationality": "Italian",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

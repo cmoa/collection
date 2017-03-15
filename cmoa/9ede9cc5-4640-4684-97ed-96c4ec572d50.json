@@ -22,14 +22,26 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/a7308672-7432-4f7e-a197-5a320075c212",
-      "party_type": "Collaboration",
-      "full_name": "Connie Coleman and Alan Powell",
-      "cited_name": "Coleman, Connie and Powell, Alan",
+      "artist_id": "cmoa:parties/38659f2f-be11-4bd2-8382-e1bc590ecfe8",
+      "party_type": "Person",
+      "full_name": "Connie Coleman",
+      "cited_name": "Coleman, Connie",
       "role": null,
       "nationality": "American",
-      "birth_date": "1979-01-01",
-      "death_date": "1991-01-01",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/a89114bc-3978-496e-a680-4db5db7925d6",
+      "party_type": "Person",
+      "full_name": "Alan Powell",
+      "cited_name": "Powell, Alan",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1952-01-01",
+      "death_date": null,
       "birth_place": null,
       "death_place": null
     }

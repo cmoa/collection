@@ -1,0 +1,51 @@
+{
+  "title": "Group portrait of fifteen IBPOEW Elks members, including seated man wearing light colored shoes and chain collar, gathered on lawn with brick building or house in background",
+  "creation_date": "c. 1940-1950",
+  "creation_date_earliest": "1935-01-01",
+  "creation_date_latest": "1955-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "1996.69.182",
+  "id": "cmoa:things/49111e77-bdd7-435d-9d14-eb3612b24e56",
+  "credit_line": "Gift of the Estate of Charles \"Teenie\" Harris",
+  "date_acquired": "1996-10-03",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.0,
+  "item_height": 7.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1002338",
+  "provenance_text": "Pittsburgh Courier Photographic Archives, Pittsburgh, PA",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=6211&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7d245f7a-174e-4670-9533-a2ce47ac2597",
+      "party_type": "Person",
+      "full_name": "Charles Trefts",
+      "cited_name": "Trefts, Charles",
+      "role": "copyist",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c6f0eebf-b566-4532-b704-ce6ad6cb421c",
+      "party_type": "Person",
+      "full_name": "Charles \"Teenie\" Harris",
+      "cited_name": "Harris, Charles \"Teenie\"",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Pittsburgh PA",
+      "death_place": "Pittsburgh PA"
+    }
+  ]
+}

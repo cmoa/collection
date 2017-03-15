@@ -3,7 +3,7 @@
   "creation_date": "2013",
   "creation_date_earliest": "2013-01-01",
   "creation_date_latest": "2013-01-01",
-  "medium": "video; color, sound; 37:17 min.",
+  "medium": "video (color, sound); 37:17 min.",
   "accession_number": "2014.8.1.A-.B",
   "id": "cmoa:things/64b0d084-eed4-4fc3-8647-166b7f14634b",
   "credit_line": "A. W. Mellon Acquisition Endowment Fund\nCommissioned by Carnegie Museum of Art for the 2013 Carnegie International",
@@ -16,9 +16,26 @@
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=107181",
   "provenance_text": null,
-  "classification": "Video installations",
+  "classification": "video art",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125757&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=125758&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159412&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159413&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159414&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159415&size=Medium"
+    }
   ],
   "creator": [
     {

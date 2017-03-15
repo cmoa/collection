@@ -1,0 +1,39 @@
+{
+  "title": "Skier",
+  "creation_date": "2013",
+  "creation_date_earliest": "2013-01-01",
+  "creation_date_latest": "2013-01-01",
+  "medium": "acrylic and mixed media on canvas",
+  "accession_number": "2016.40",
+  "id": "cmoa:things/c93be6a5-0c2f-431a-a90d-8854d059964f",
+  "credit_line": "Gift of Dorian Grinspan",
+  "date_acquired": "2016-09-08",
+  "department": "Contemporary Art",
+  "physical_location": "Gallery 16, Scaife Galleries",
+  "item_width": 49.25,
+  "item_height": 59.625,
+  "item_depth": 1.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=117927",
+  "provenance_text": "Mernet Larsen, Tampa, FL; (Various Small Fires, Los Angeles, CA); Dorian Grinspan, New York, NY; Carnegie Museum of Art, Pittsburgh, PA",
+  "classification": "paintings",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157393&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/715cc221-10fb-4e71-a2a8-b9e3b403d25a",
+      "party_type": "Person",
+      "full_name": "Mernet Larsen",
+      "cited_name": "Larsen, Mernet",
+      "role": null,
+      "nationality": "American",
+      "birth_date": "1940-01-01",
+      "death_date": null,
+      "birth_place": "Houghton, Michigan",
+      "death_place": null
+    }
+  ]
+}

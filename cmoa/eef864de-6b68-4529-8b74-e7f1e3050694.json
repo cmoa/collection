@@ -1,0 +1,51 @@
+{
+  "title": "tile",
+  "creation_date": "c. 1930",
+  "creation_date_earliest": "1925-01-01",
+  "creation_date_latest": "1935-01-01",
+  "medium": "glazed earthenware",
+  "accession_number": "2016.11",
+  "id": "cmoa:things/eef864de-6b68-4529-8b74-e7f1e3050694",
+  "credit_line": "Edgar L. Levenson Fund",
+  "date_acquired": "2016-05-12",
+  "department": "Decorative Arts and Design",
+  "physical_location": "Not on View",
+  "item_width": 13.0,
+  "item_height": 8.5,
+  "item_depth": 0.75,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=114022",
+  "provenance_text": null,
+  "classification": null,
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=155224&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/3678de93-c8f3-41da-98bc-27b83bffc713",
+      "party_type": "Person",
+      "full_name": "Leon V. Solon",
+      "cited_name": "Leon V. Solon",
+      "role": "artist",
+      "nationality": "British",
+      "birth_date": "1872-01-01",
+      "death_date": "1957-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/942878fd-cfd2-45e2-8a22-d3c977a52d23",
+      "party_type": "Organization",
+      "full_name": "American Encaustic Tiling Company",
+      "cited_name": "American Encaustic Tiling Company",
+      "role": "manufacturer",
+      "nationality": "American",
+      "birth_date": "1875-01-01",
+      "death_date": "1935-01-01",
+      "birth_place": "Zanesville, OH",
+      "death_place": null
+    }
+  ]
+}

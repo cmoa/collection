@@ -12,12 +12,14 @@
   "physical_location": "Hall of Architecture",
   "item_width": 2.5,
   "item_height": 2.5,
-  "item_depth": 2.125,
+  "item_depth": 2.25,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010260",
   "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
-  "classification": "Unclassified",
-  "images": null,
+  "classification": "crèches",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9eabd8c2-9339-40da-9343-22fd27820f0b",

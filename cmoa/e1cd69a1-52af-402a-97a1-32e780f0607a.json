@@ -1,0 +1,61 @@
+{
+  "title": "The Wayfarers",
+  "creation_date": "1867",
+  "creation_date_earliest": "1867-01-01",
+  "creation_date_latest": "1867-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.182",
+  "id": "cmoa:things/e1cd69a1-52af-402a-97a1-32e780f0607a",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 11.375,
+  "item_height": 8.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112987",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/a3d9cce1-e098-4d87-8370-c2f07a07edc8",
+      "party_type": "Person",
+      "full_name": "Charles Cousen",
+      "cited_name": "Cousen, Charles",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": "1808-01-01",
+      "death_date": "1889-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/bda9a75f-e4f7-45cf-846d-d093c2695754",
+      "party_type": "Person",
+      "full_name": "Frederick Goodall",
+      "cited_name": "Goodall, Frederick",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1822-01-01",
+      "death_date": "1904-01-01",
+      "birth_place": "London",
+      "death_place": "London"
+    },
+    {
+      "artist_id": "cmoa:parties/0a354e1a-3659-4e06-b7a7-611b32d18f55",
+      "party_type": "Person",
+      "full_name": "Thomas Creswick",
+      "cited_name": "Creswick, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1811-01-01",
+      "death_date": "1869-01-01",
+      "birth_place": null,
+      "death_place": "London"
+    }
+  ]
+}

@@ -10,13 +10,13 @@
   "date_acquired": "1971-05-13",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 0.0,
-  "item_height": 0.0,
-  "item_depth": 0.0,
+  "item_width": 21.0,
+  "item_height": 46.0,
+  "item_depth": 18.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1016122",
   "provenance_text": "Mrs. Thomas Childs Wurts",
-  "classification": "Wood",
+  "classification": "furniture",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8743&size=Medium"
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/48f5537a-497a-470d-8d23-e715e6f9011d",
+      "artist_id": "cmoa:parties/c2753829-3d15-4e65-9011-7a791884fb18",
       "party_type": "Person",
-      "full_name": "unknown Dutch or German",
-      "cited_name": "unknown Dutch or German",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown Dutch",
+      "cited_name": "unknown Dutch",
+      "role": "possibly by",
+      "nationality": "Dutch",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/db0f3f08-4336-4301-90ba-05d50ea6e3db",
+      "party_type": "Person",
+      "full_name": "unknown German",
+      "cited_name": "unknown German",
+      "role": "possibly by",
+      "nationality": "German",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

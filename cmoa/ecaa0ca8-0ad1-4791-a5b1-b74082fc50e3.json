@@ -1,0 +1,49 @@
+{
+  "title": "The goldsmith Johann Melchior Dinglinger",
+  "creation_date": "1777",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.34.1",
+  "id": "cmoa:things/ecaa0ca8-0ad1-4791-a5b1-b74082fc50e3",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.062,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112836",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/21e6e416-7291-47b9-9fe7-5c7ff77cf42e",
+      "party_type": "Person",
+      "full_name": "Johann Heinrich Lips",
+      "cited_name": "Lips, Johann Heinrich",
+      "role": "after",
+      "nationality": "Swiss",
+      "birth_date": "1758-01-01",
+      "death_date": "1817-01-01",
+      "birth_place": "Kloten (Zürich, Switzerland)",
+      "death_place": "Zurich (Zürich, Switzerland)"
+    },
+    {
+      "artist_id": "cmoa:parties/0e69e156-005a-425a-89c3-14a9e8cf9758",
+      "party_type": "Person",
+      "full_name": "Antoine Pesne",
+      "cited_name": "Pesne, Antoine",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1683-01-01",
+      "death_date": "1757-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

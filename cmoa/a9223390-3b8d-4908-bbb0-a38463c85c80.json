@@ -1,0 +1,51 @@
+{
+  "title": "Perseus rescuing Andromeda",
+  "creation_date": "1588",
+  "creation_date_earliest": "1588-01-01",
+  "creation_date_latest": "1588-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.49",
+  "id": "cmoa:things/a9223390-3b8d-4908-bbb0-a38463c85c80",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.75,
+  "item_height": 7.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112845",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150814&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7c853756-bd8e-4bbb-ada7-b5f8199a36d8",
+      "party_type": "Person",
+      "full_name": "Jacques de Gheyn II",
+      "cited_name": "de Gheyn, Jacques II",
+      "role": "engraver",
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1629-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/999c59f1-ad97-4abc-b3c6-5451b14fd31a",
+      "party_type": "Person",
+      "full_name": "Karel van Mander I",
+      "cited_name": "Mander, Karel van, I",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1548-01-01",
+      "death_date": "1606-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

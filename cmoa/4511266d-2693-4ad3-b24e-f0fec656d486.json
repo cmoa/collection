@@ -11,13 +11,17 @@
   "department": "Contemporary Art",
   "physical_location": "Not on View",
   "item_width": 45.0,
-  "item_height": 33.5,
-  "item_depth": 0.0,
+  "item_height": 33.0,
+  "item_depth": 1.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=51963",
   "provenance_text": "The artist through D. Wigmore Fine Art, Inc., New York",
   "classification": "mixed media",
-  "images": null,
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154216&size=Medium"
+    }
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/d93b900e-de4e-497c-8183-b522c724bace",

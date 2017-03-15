@@ -1,0 +1,49 @@
+{
+  "title": "Last Interview Between Charlotte and Werter",
+  "creation_date": "1786",
+  "creation_date_earliest": "1786-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "stipple in red",
+  "accession_number": "2016.4.149",
+  "id": "cmoa:things/dff2d5d1-1857-4749-adfc-c15b3fce5957",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.0,
+  "item_height": 10.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112945",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/18461160-8943-490c-8b47-5c02653ac635",
+      "party_type": "Person",
+      "full_name": "Thomas Ryder",
+      "cited_name": "Ryder, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1746-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/28922f26-03e9-4f40-8fa0-cc9c8ed378fc",
+      "party_type": "Person",
+      "full_name": "Charles R. Ryley",
+      "cited_name": "Ryley, Charles R.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1747-01-01",
+      "death_date": "1798-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

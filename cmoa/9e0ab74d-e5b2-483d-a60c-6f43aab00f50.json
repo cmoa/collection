@@ -1,0 +1,49 @@
+{
+  "title": "Patience",
+  "creation_date": "1777",
+  "creation_date_earliest": "1777-01-01",
+  "creation_date_latest": "1777-01-01",
+  "medium": "stipple",
+  "accession_number": "2016.4.146",
+  "id": "cmoa:things/9e0ab74d-e5b2-483d-a60c-6f43aab00f50",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.125,
+  "item_height": 15.688,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112938",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/593af847-ee26-44d6-b1d1-a6ca00925af1",
+      "party_type": "Person",
+      "full_name": "William W. Ryland",
+      "cited_name": "Ryland, William W.",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1732-01-01",
+      "death_date": "1783-01-01",
+      "birth_place": "London",
+      "death_place": "London"
+    },
+    {
+      "artist_id": "cmoa:parties/a25a0033-03ed-45aa-bf55-a6f085ec645c",
+      "party_type": "Person",
+      "full_name": "Angelica Kauffmann",
+      "cited_name": "Kauffmann, Angelica",
+      "role": null,
+      "nationality": "Swiss",
+      "birth_date": "1740-01-01",
+      "death_date": "1807-01-01",
+      "birth_place": " Chur (Graubünden, Switzerland)",
+      "death_place": " Rome (Roma province, Lazio, Italy)"
+    }
+  ]
+}

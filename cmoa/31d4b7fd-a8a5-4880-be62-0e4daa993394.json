@@ -17,15 +17,29 @@
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1020855",
   "provenance_text": "Anonymous donor, until December 6, 1979; gift to Museum of Art, Carnegie Institute, Pittsburgh, PA, December 6, 1979.",
   "classification": "Textiles",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/077c51f4-c39d-41df-a207-1bfd466b6f94",
+      "artist_id": "cmoa:parties/e6a1fe12-6ac6-412e-b246-7e3a2bb5a3ef",
       "party_type": "Person",
-      "full_name": "unknown Italian or Spanish",
-      "cited_name": "unknown Italian or Spanish",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown Italian",
+      "cited_name": "unknown Italian",
+      "role": "possibly by",
+      "nationality": "Italian",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/ebc6819d-eebf-42cb-969c-60b7bd57c15a",
+      "party_type": "Person",
+      "full_name": "unknown Spanish",
+      "cited_name": "unknown Spanish",
+      "role": "possibly by",
+      "nationality": "Spanish",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

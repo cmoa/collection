@@ -1,0 +1,49 @@
+{
+  "title": "Elizabeth Villiers",
+  "creation_date": "1645-1650",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1650-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.28",
+  "id": "cmoa:things/7675de68-79bd-44a2-8ec9-27bd884323e0",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 9.875,
+  "item_height": 13.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112833",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6bb29656-17d8-406e-848c-ad093b3f8c2e",
+      "party_type": "Person",
+      "full_name": "Wenceslaus Von Prachna Hollar",
+      "cited_name": "Hollar, Wenceslaus V.",
+      "role": "after",
+      "nationality": "Bohemian",
+      "birth_date": "1607-01-01",
+      "death_date": "1677-01-01",
+      "birth_place": " Prague (Středočeský, Czech Republic)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    }
+  ]
+}

@@ -10,14 +10,16 @@
   "date_acquired": "2008-04-03",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 23.25,
+  "item_width": 23.625,
   "item_height": 29.625,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=58268",
   "provenance_text": "Alexander and Bonin, New York",
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/d0c782ba-22ef-4770-a446-a038f93144f5",

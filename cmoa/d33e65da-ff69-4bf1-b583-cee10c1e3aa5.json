@@ -1,0 +1,49 @@
+{
+  "title": "Thomas Howard, Earl of Arundel",
+  "creation_date": "1743-1744",
+  "creation_date_earliest": "1743-01-01",
+  "creation_date_latest": "1744-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.121",
+  "id": "cmoa:things/d33e65da-ff69-4bf1-b583-cee10c1e3aa5",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.75,
+  "item_height": 14.25,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112882",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1c51341f-2549-4f1c-8058-3de110ec37e1",
+      "party_type": "Person",
+      "full_name": "Jacobus Houbraken",
+      "cited_name": "Houbraken, Jacobus",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1698-01-01",
+      "death_date": "1780-01-01",
+      "birth_place": " Dordrecht (South Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

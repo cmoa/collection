@@ -1,0 +1,49 @@
+{
+  "title": "Guilielmus de Vos",
+  "creation_date": "1645",
+  "creation_date_earliest": "1645-01-01",
+  "creation_date_latest": "1645-01-01",
+  "medium": "etching and engraving",
+  "accession_number": "2016.4.94",
+  "id": "cmoa:things/d59ac6af-1c62-4799-957a-bad041f44769",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 6.125,
+  "item_height": 9.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112931",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/210e1c56-9d71-42e3-8910-f04ec39e3393",
+      "party_type": "Person",
+      "full_name": "Anthony van Dyck",
+      "cited_name": "Van Dyck, Anthony",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1599-01-01",
+      "death_date": "1641-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/b856f6f2-5693-42a5-bb56-d455e348ace9",
+      "party_type": "Person",
+      "full_name": "Schelte Adamsz. Bolswert",
+      "cited_name": "Bolswert, Schelte Adamsz.",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1581-01-01",
+      "death_date": "1659-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

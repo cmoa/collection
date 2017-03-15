@@ -1,0 +1,49 @@
+{
+  "title": "Bishop John Tillotson",
+  "creation_date": "1691-c.1695",
+  "creation_date_earliest": "1691-01-01",
+  "creation_date_latest": "1700-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.132",
+  "id": "cmoa:things/b88ea0f4-eda9-444a-8855-89d554d10b63",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 12.188,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113004",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/f570726f-8faa-4a36-8992-1d787cc90f79",
+      "party_type": "Person",
+      "full_name": "Pieter Van Der Banck",
+      "cited_name": "Banck, Pieter van der",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1649-01-01",
+      "death_date": "1697-01-01",
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "England (United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/78ec50c5-76e6-4052-8746-c3d86f2bd149",
+      "party_type": "Person",
+      "full_name": "Mary Beale",
+      "cited_name": "Beale, Mary",
+      "role": null,
+      "nationality": "English",
+      "birth_date": "1633-01-01",
+      "death_date": "1699-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -9,7 +9,7 @@
   "credit_line": "Gift of Mr. and Mrs. Ronald R. Davenport and Mr. and Mrs. Milton A. Washington",
   "date_acquired": "1984-10-04",
   "department": "Contemporary Art",
-  "physical_location": "Not on View",
+  "physical_location": "Forum Gallery",
   "item_width": 30.5,
   "item_height": 35.0,
   "item_depth": 1.625,
@@ -19,15 +19,18 @@
   "classification": "collages",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=8057&size=Medium"
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159052&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159051&size=Medium"
     }
   ],
   "creator": [
     {
       "artist_id": "cmoa:parties/5d6d3e40-b16c-41f2-9833-9b8dc4928194",
       "party_type": "Person",
-      "full_name": "Romare Howard Bearden",
-      "cited_name": "Bearden, Romare Howard",
+      "full_name": "Romare Bearden",
+      "cited_name": "Bearden, Romare",
       "role": null,
       "nationality": "American",
       "birth_date": "1911-01-01",

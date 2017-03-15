@@ -31,12 +31,24 @@
       "party_type": "Person",
       "full_name": "George Grosz",
       "cited_name": "Grosz, George",
-      "role": null,
+      "role": "publisher",
       "nationality": "German",
       "birth_date": "1893-01-01",
       "death_date": "1959-01-01",
       "birth_place": "Berlin, Germany",
       "death_place": "Berlin, Germany"
+    },
+    {
+      "artist_id": "cmoa:parties/c213ab19-56d6-42e3-8ba8-0c56774cc135",
+      "party_type": "Organization",
+      "full_name": "Malik-Verlag",
+      "cited_name": "Malik-Verlag",
+      "role": null,
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": "Berlin",
+      "death_place": null
     }
   ]
 }

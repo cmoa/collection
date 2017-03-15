@@ -1,0 +1,49 @@
+{
+  "title": "Album of 5 views",
+  "creation_date": "1808",
+  "creation_date_earliest": "1808-01-01",
+  "creation_date_latest": "1808-01-01",
+  "medium": "aquatint",
+  "accession_number": "2016.4.175",
+  "id": "cmoa:things/854d43ef-bf84-4b1b-82a7-ef729566ab84",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 10.125,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112976",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/5f0bad71-e1e0-4360-93d8-ec5a30935fc4",
+      "party_type": "Person",
+      "full_name": "John Bluck",
+      "cited_name": "Bluck, John",
+      "role": "printmaker",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1819-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/23a30746-dab6-4b9e-a6d0-574baa9ce7c1",
+      "party_type": "Person",
+      "full_name": "J. P. Thompson",
+      "cited_name": "Thompson, J. P.",
+      "role": "publisher",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

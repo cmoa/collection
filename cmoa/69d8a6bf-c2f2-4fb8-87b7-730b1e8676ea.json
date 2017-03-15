@@ -1,0 +1,49 @@
+{
+  "title": "Gattamelatta",
+  "creation_date": "c. 1790",
+  "creation_date_earliest": "1785-01-01",
+  "creation_date_latest": "1795-01-01",
+  "medium": "aquatint",
+  "accession_number": "2016.4.32",
+  "id": "cmoa:things/69d8a6bf-c2f2-4fb8-87b7-730b1e8676ea",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.312,
+  "item_height": 11.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112839",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/afeb1fe0-6054-4e4e-9253-390ba2d652d0",
+      "party_type": "Person",
+      "full_name": "Johann Gottlieb Prestel",
+      "cited_name": "Prestel, Johann Gottlieb",
+      "role": "after",
+      "nationality": "German",
+      "birth_date": "1739-01-01",
+      "death_date": "1808-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/8032efd1-9407-4368-9de4-8541c096ad39",
+      "party_type": "Person",
+      "full_name": "Andrea Mantegna",
+      "cited_name": "Mantegna, Andrea",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1430-01-01",
+      "death_date": "1506-01-01",
+      "birth_place": "Padova province (Veneto, Italy)",
+      "death_place": "Mantua (Mantova province, Lombardy, Italy)"
+    }
+  ]
+}

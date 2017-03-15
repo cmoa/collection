@@ -1,0 +1,42 @@
+{
+  "title": "San Francisco, California",
+  "creation_date": "ca. 1975",
+  "creation_date_earliest": "1970-01-01",
+  "creation_date_latest": "1980-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2016.37.3",
+  "id": "cmoa:things/1a64a911-b59e-442b-922e-276e8de5be3a",
+  "credit_line": "The William T. Hillman Fund for Photography",
+  "date_acquired": "2016-09-08",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 8.125,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=117831",
+  "provenance_text": "Barboza [b. 1944].  Keith De Lellis Gallery, New York, NY; purchased by Carnegie Museum of Art, Pittsburgh, PA, September 2016",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157859&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157858&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/996b9c9c-7613-4031-9a70-6cabaacd3b32",
+      "party_type": "Person",
+      "full_name": "Anthony Barboza",
+      "cited_name": "Barboza, Anthony",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "New Bedford, MA",
+      "death_place": null
+    }
+  ]
+}

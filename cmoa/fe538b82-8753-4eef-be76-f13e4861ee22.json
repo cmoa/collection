@@ -1,5 +1,5 @@
 {
-  "title": "Ox, Forequarters ",
+  "title": "Ox, Forequarters",
   "creation_date": "c. 1790",
   "creation_date_earliest": "1785-01-01",
   "creation_date_latest": "1795-01-01",
@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Hall of Architecture",
   "item_width": 3.5,
-  "item_height": 5.25,
-  "item_depth": 3.75,
+  "item_height": 5.0,
+  "item_depth": 2.75,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1009949",
   "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
-  "classification": "Unclassified",
-  "images": null,
+  "classification": "crèches",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/76c1313d-d6ae-4870-85a3-a03c2063b77a",

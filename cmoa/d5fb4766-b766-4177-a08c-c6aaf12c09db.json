@@ -1,5 +1,5 @@
 {
-  "title": "Medal, Reproduction",
+  "title": "Medal, Reproduction, portrait of Cardinal de la Rochefoucauld",
   "creation_date": "c. 1850",
   "creation_date_earliest": "1845-01-01",
   "creation_date_latest": "1855-01-01",
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/5c2a55cc-88f9-4761-bf4c-208084cf31df",
+      "artist_id": "cmoa:parties/03896989-0756-4eac-9894-2908dbb8a7be",
       "party_type": "Person",
-      "full_name": "unknown American or European",
-      "cited_name": "unknown American or European",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown American",
+      "cited_name": "unknown American",
+      "role": "possibly by",
+      "nationality": "American",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/42845212-bd75-41b4-b14f-35bddcdeca69",
+      "party_type": "Person",
+      "full_name": "unknown European",
+      "cited_name": "unknown European",
+      "role": "possibly by",
+      "nationality": "European",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

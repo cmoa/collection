@@ -12,14 +12,17 @@
   "physical_location": "Gallery 8, Scaife Galleries",
   "item_width": 32.5,
   "item_height": 49.0,
-  "item_depth": 0.0,
+  "item_depth": 4.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1011873",
-  "provenance_text": "Pierre Bonnard [1867-1947], France, until 1910; Galerie Bernheim-Jeune [1863-], Paris, France, by 1910; Gaston Bernheim de Villers [1870-1953], Paris, France, 1952 until 1953 [1]; Sam Salz, Inc., New York, NY; Mr. and Mrs. Adolphe A. Juviler, New York, NY and Palm Beach, FL, by 1961; (sold at Parke-Bernet Galleries, New York, NY, on October 25, 1961, no. 33, illustrated in color) [2]; Mr. Nicolas Reisini, New York, NY, until April 1965; (sold at Parke-Bernet Galleries, New York, NY, on April 14, 1965, no. 64, illustrated in color) [3]; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1965 [4]. \nNOTES:1. Also referred to as Gaston Bernheim-Jeune, or Gaston Bernheim. 2. \"Notable Modern Paintings, Drawings, and Sculpture from the Collection of Mr. and Mrs. Adolphe A. Juviler\" 3. Sale entitled \"Impressionist and Modern Paintings, Sculptures, and Drawings\". 4. Updated by CGK July 2012.",
+  "provenance_text": "Pierre Bonnard [1867-1947], France, until 1910 [1]; Galerie Bernheim-Jeune, Paris, France, by 1910 [2]; Gaston Bernheim de Villers [1870-1953], Paris, France, in 1952 [3]. Sam Salz [1894-1981], Inc., New York, NY; Mr. and Mrs. Adolphe A. Juviler, New York, NY and Palm Beach, FL, by 1961; sale, Parke-Bernet Galleries, New York, NY, October 25, 1961, no. 33 [4]. Nicolas Reisini, New York, NY, until April 1965; sale, Parke-Bernet Galleries, New York, NY, April 14, 1965, no. 64 [5]; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, May 1965. \n\nNotes:\n[1]. The artist left Paris for the South of France in 1910.\n[2]. Clishé Bernheim-Jeune 322 (see \"Bonnard\" by Jean and Henry Dauberville, no. 595.)\n[3]. Also referred to as Gaston Bernheim-Jeune, or Gaston Bernheim. \n[4]. \"Notable Modern Paintings, Drawings, and Sculpture from the Collection of Mr. and Mrs. Adolphe A. Juviler.\" The work, listed as \"La Glace Haute (or La Glace Longue),\" is illustrated in color in the catalogue.\n[5]. Sale entitled \"Impressionist and Modern Paintings, Sculptures, Drawings.\" The work, listed as \"La Glace Haute (or La Glace Longue),\" is illustrated in color in the catalogue.",
   "classification": "paintings",
   "images": [
     {
-      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=10183&size=Medium"
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157564&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157563&size=Medium"
     }
   ],
   "creator": [
@@ -32,8 +35,8 @@
       "nationality": "French",
       "birth_date": "1867-10-03",
       "death_date": "1947-01-27",
-      "birth_place": "Fontenay-aux-Roses, France",
-      "death_place": "Cannet, France"
+      "birth_place": "Fontenay-aux-Roses (Île-de-France, France)",
+      "death_place": "le Cannet (Provence-Alpes-Côte d'Azur, France)"
     }
   ]
 }

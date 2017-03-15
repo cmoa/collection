@@ -1,0 +1,49 @@
+{
+  "title": "Apollo at the Forge of Vulcan",
+  "creation_date": "1570-1580",
+  "creation_date_earliest": "1569-12-22",
+  "creation_date_latest": "1579-12-22",
+  "medium": "engraving",
+  "accession_number": "2016.4.38",
+  "id": "cmoa:things/fdec0e26-3705-48d8-bbc9-ca7d55fcd554",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.875,
+  "item_height": 7.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112925",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/fb211f3f-245a-4622-950f-16dac268f320",
+      "party_type": "Person",
+      "full_name": "Hans Collaert I",
+      "cited_name": "Collaert, Hans I",
+      "role": "after",
+      "nationality": "Flemish",
+      "birth_date": "1525-01-01",
+      "death_date": "1581-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/be680c35-fc6b-42fb-9628-eedea84932d7",
+      "party_type": "Person",
+      "full_name": "Philip Galle",
+      "cited_name": "Galle, Philip",
+      "role": null,
+      "nationality": "Flemish",
+      "birth_date": "1537-01-01",
+      "death_date": "1612-01-01",
+      "birth_place": "Haarlem (North Holland, Netherlands)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

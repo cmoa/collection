@@ -1,0 +1,61 @@
+{
+  "title": "View of Greenwich & Up the River",
+  "creation_date": "6/1/1795",
+  "creation_date_earliest": "1795-06-01",
+  "creation_date_latest": "1795-06-01",
+  "medium": "etching and aquatint in sepia",
+  "accession_number": "2016.4.164",
+  "id": "cmoa:things/42f40243-022b-42a4-8e4b-d92978770903",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 13.625,
+  "item_height": 11.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112972",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7fddd107-e4b8-4c5f-b599-91268cd57473",
+      "party_type": "Person",
+      "full_name": "Joseph Constantine Stadler",
+      "cited_name": "Stadler, Joseph Constantine",
+      "role": "printmaker",
+      "nationality": "German",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/48c81700-3c6f-45b1-aa6e-66460f2d4404",
+      "party_type": "Person",
+      "full_name": "Joseph Farrington",
+      "cited_name": "Farrington, Joseph",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1747-01-01",
+      "death_date": "1821-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c8bf90a7-a433-4a53-a4bc-29f20c1a0ae4",
+      "party_type": "Organization",
+      "full_name": "J. & J. Boydell",
+      "cited_name": "J. & J. Boydell",
+      "role": "publishers",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

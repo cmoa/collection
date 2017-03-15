@@ -1,0 +1,61 @@
+{
+  "title": "Lion and Lioness, frontispiece from Varie Leonum Icones",
+  "creation_date": "1660-1690",
+  "creation_date_earliest": "1660-01-01",
+  "creation_date_latest": "1690-01-01",
+  "medium": "etching",
+  "accession_number": "2016.4.107",
+  "id": "cmoa:things/2efa5f9b-82fd-4352-bbc9-08b87e9ce7bf",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 7.125,
+  "item_height": 5.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112867",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/9708b2d7-84c0-48de-837f-ba8a217c1861",
+      "party_type": "Person",
+      "full_name": "Abraham Blooteling",
+      "cited_name": "Blooteling, Abraham",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1640-01-01",
+      "death_date": "1690-01-01",
+      "birth_place": " Amsterdam (North Holland, Netherlands)",
+      "death_place": " Amsterdam (North Holland, Netherlands)"
+    },
+    {
+      "artist_id": "cmoa:parties/df569608-8756-41cf-b192-1f40033fdff2",
+      "party_type": "Person",
+      "full_name": "Peter Paul Rubens",
+      "cited_name": "Rubens, Peter P.",
+      "role": "publisher",
+      "nationality": "Flemish",
+      "birth_date": "1577-01-01",
+      "death_date": "1640-01-01",
+      "birth_place": "Siegen (Arnsberg district, North Rhine-Westphalia, Germany)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    },
+    {
+      "artist_id": "cmoa:parties/1c45706e-32ee-4967-81a4-d429e5f6f83f",
+      "party_type": "Person",
+      "full_name": "Nicolaes Visscher",
+      "cited_name": "Visscher, Nicolaes",
+      "role": null,
+      "nationality": "Netherlandish",
+      "birth_date": "1649-01-01",
+      "death_date": "1702-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

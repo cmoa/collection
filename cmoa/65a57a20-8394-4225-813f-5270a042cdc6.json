@@ -10,12 +10,12 @@
   "date_acquired": "1966-12-07",
   "department": "Fine Arts",
   "physical_location": "Not on View",
-  "item_width": 55.5,
-  "item_height": 42.0,
+  "item_width": 41.5,
+  "item_height": 29.0,
   "item_depth": 4.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1012261",
-  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917], until 1917; Atelier Degas, Paris, France, after 1917; (sold at Galerie Georges Petit, Paris, France, May 6, 1918 until May 8, 1918, no. 209, illustrated) [1]; purchased by Durand-Ruel and Ambroise Vollard [2]; purchased by Max Pellequer, Paris, France [3]; (Sam Salz, Inc., New York, NY, by 1966); purchased by Museum, December 1966. \nNOTES:1. This was the first sale of Atelier Degas. 2. Durand-Ruel stock no. D12731, and Ambroise Vollard stock number 1CS23, 8100 F. 3. Purchased after World War I.\n\nUpdated by CGK\nJuly 2012",
+  "provenance_text": "Hilaire-Germain-Edgar Degas [1834-1917], until 1917; his estate, Atelier Degas, Paris, France, September 1917 until May 1918; sale, Galerie Georges Petit, Paris, France, May 6, 1918 until May 8, 1918, no. 209 [1]; purchased by Durand-Ruel and Ambroise Vollard, Paris, France [2]. Max Pellequer [d. 1974], Paris, France [3]; Sam Salz [1894-1981], Inc., New York, NY, by 1966; purchased by Museum of Art, Carnegie Institute, Pittsburgh, PA, December 1966. \n\nNotes:\n[1]. This was the first sale of Atelier Degas. The work was illustrated in the catalogue.\n[2]. Durand-Ruel stock no. D12731 and Ambroise Vollard stock number 1CS23, 8100 F. \n[3]. Purchased after World War I, according to information from Sam Salz in curatorial file.",
   "classification": "drawings and watercolors",
   "images": [
     {
@@ -26,14 +26,14 @@
     {
       "artist_id": "cmoa:parties/23a88d6c-02e1-46e5-97a4-8246ca906f93",
       "party_type": "Person",
-      "full_name": "Hilaire-Germain-Edgar Degas",
-      "cited_name": "Degas, Hilaire-Germain-Edgar",
+      "full_name": "Edgar Degas",
+      "cited_name": "Degas, Edgar",
       "role": null,
       "nationality": "French",
       "birth_date": "1834-07-19",
       "death_date": "1917-09-27",
-      "birth_place": "Paris, France",
-      "death_place": "Paris, France"
+      "birth_place": "Paris (Île-de-France, France)",
+      "death_place": "Paris (Île-de-France, France)"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "title": "Still Life",
+  "creation_date": "1918",
+  "creation_date_earliest": "1918-01-01",
+  "creation_date_latest": "1918-01-01",
+  "medium": "bronze",
+  "accession_number": "2016.7",
+  "id": "cmoa:things/30655b55-8529-4315-a6ae-2a42aba9ab94",
+  "credit_line": "Edward N. Haskell Family Acquisition Fund and Leisser Art Fund",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Gallery 9, Scaife Galleries",
+  "item_width": 26.75,
+  "item_height": 21.375,
+  "item_depth": 2.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113213",
+  "provenance_text": "The Estate of the Artist",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150848&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/b94fde51-02fe-4d18-9d07-cf224dfb040e",
+      "party_type": "Person",
+      "full_name": "Jacques Lipchitz",
+      "cited_name": "Jacques Lipchitz",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1891-01-01",
+      "death_date": "1973-01-01",
+      "birth_place": "Lithuania (Europe)",
+      "death_place": "Capri (Napoli province, Campania, Italy)"
+    }
+  ]
+}

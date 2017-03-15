@@ -3,7 +3,7 @@
   "creation_date": "1987",
   "creation_date_earliest": "1987-01-01",
   "creation_date_latest": "1987-01-01",
-  "medium": "Gelatin silver print",
+  "medium": "gelatin silver print",
   "accession_number": "2007.51.39",
   "id": "cmoa:things/448acca6-abc6-4e33-8003-fa99917e1f86",
   "credit_line": "Gift of the George H. Ebbs Family",
@@ -18,7 +18,12 @@
   "provenance_text": "Acquired by Mr George Ebbs from Butterfield & Butterfield on 10/1/1989 (Source: Donor's checklist)",
   "classification": "photographs",
   "images": [
-
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151722&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=151723&size=Medium"
+    }
   ],
   "creator": [
     {
@@ -27,10 +32,10 @@
       "full_name": "Robbert Flick",
       "cited_name": "Flick, Robbert",
       "role": null,
-      "nationality": "Canadian",
+      "nationality": "American",
       "birth_date": "1939-01-01",
       "death_date": null,
-      "birth_place": "Amersfoort (Utrecht province, Netherlands)",
+      "birth_place": "Netherlands",
       "death_place": null
     }
   ]

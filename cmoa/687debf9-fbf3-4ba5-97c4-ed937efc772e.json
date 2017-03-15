@@ -1,0 +1,49 @@
+{
+  "title": "James McArdell",
+  "creation_date": "1771",
+  "creation_date_earliest": "1771-01-01",
+  "creation_date_latest": "1771-01-01",
+  "medium": "mezzotint",
+  "accession_number": "2016.4.140",
+  "id": "cmoa:things/687debf9-fbf3-4ba5-97c4-ed937efc772e",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.875,
+  "item_height": 17.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112995",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0ba15b87-03fe-4ada-bf28-ae6314207b99",
+      "party_type": "Person",
+      "full_name": "Richard Earlom",
+      "cited_name": "Earlom, Richard",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1743-01-01",
+      "death_date": "1822-01-01",
+      "birth_place": " London (Greater London, England, United Kingdom)",
+      "death_place": " London (Greater London, England, United Kingdom)"
+    },
+    {
+      "artist_id": "cmoa:parties/2b444d53-ef2a-4823-9658-2ce2e4b46bba",
+      "party_type": "Person",
+      "full_name": "James McArdell",
+      "cited_name": "McArdell, James",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1719-01-01",
+      "death_date": "1765-01-01",
+      "birth_place": "Dublin, Ireland",
+      "death_place": "London, England"
+    }
+  ]
+}

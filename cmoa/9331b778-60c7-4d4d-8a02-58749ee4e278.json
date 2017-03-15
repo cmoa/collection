@@ -1,0 +1,39 @@
+{
+  "title": "Shotputter",
+  "creation_date": "c. 1915",
+  "creation_date_earliest": "1910-01-01",
+  "creation_date_latest": "1920-01-01",
+  "medium": "bronze, on marble base",
+  "accession_number": "2016.18.18",
+  "id": "cmoa:things/9331b778-60c7-4d4d-8a02-58749ee4e278",
+  "credit_line": "Gift of Dr. Michael L. Nieland",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 8.25,
+  "item_height": 14.5,
+  "item_depth": 5.625,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=113630",
+  "provenance_text": "Kozloff-Meaders, Pittsburgh; Dr. Michael Nieland, Pittsburgh, March 18, 1988; Gift to Carnegie Museum of Art",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154760&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/98db2a7f-7ea1-4b83-9598-e3df819cf2c5",
+      "party_type": "Person",
+      "full_name": "Otto Schmidt-Hofer",
+      "cited_name": "Otto Schmidt-Hofer",
+      "role": "artist",
+      "nationality": "German",
+      "birth_date": "1873-01-01",
+      "death_date": "1925-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

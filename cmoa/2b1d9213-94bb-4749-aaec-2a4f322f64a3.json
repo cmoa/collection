@@ -1,0 +1,49 @@
+{
+  "title": "Louisa. The celebrated maid of the Hay-stack.",
+  "creation_date": "1788",
+  "creation_date_earliest": "1788-01-01",
+  "creation_date_latest": "1788-01-01",
+  "medium": "stipple engraving",
+  "accession_number": "2016.4.154",
+  "id": "cmoa:things/2b1d9213-94bb-4749-aaec-2a4f322f64a3",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 12.625,
+  "item_height": 16.625,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112948",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/555ee50a-9638-45e9-b08e-14e4a3e0ede6",
+      "party_type": "Person",
+      "full_name": "Peltro William Tomkins",
+      "cited_name": "Tomkins, Peltro William",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1760-01-01",
+      "death_date": "1840-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/3b333def-48e9-4716-996a-72fa3f68ff5a",
+      "party_type": "Person",
+      "full_name": "William Palmer",
+      "cited_name": "Palmer, William",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1763-01-01",
+      "death_date": "1790-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Holy family with Saint John the Baptist in landscape",
+  "creation_date": "1636-1666",
+  "creation_date_earliest": "1636-01-01",
+  "creation_date_latest": "1666-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.90",
+  "id": "cmoa:things/e0eee10e-a7f0-4217-9620-73105068360b",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 15.5,
+  "item_height": 9.875,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112866",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/72852232-b6ff-435e-a1bc-c57d22cd3f6d",
+      "party_type": "Person",
+      "full_name": "Hendrick van der Borcht the younger",
+      "cited_name": "Borcht, Hendrick van der, the younger",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1614-01-01",
+      "death_date": "1685-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e93d521c-d443-4b0c-86fe-12e7df38b03b",
+      "party_type": "Person",
+      "full_name": "Titian",
+      "cited_name": "Titian",
+      "role": null,
+      "nationality": "Italian",
+      "birth_date": "1488-01-01",
+      "death_date": "1576-01-01",
+      "birth_place": "Pieve di Cadore, Belluno province, Veneto, Italy",
+      "death_place": "Venice"
+    }
+  ]
+}

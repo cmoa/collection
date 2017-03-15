@@ -1,5 +1,5 @@
 {
-  "title": "House ",
+  "title": "House",
   "creation_date": "c. 1830",
   "creation_date_earliest": "1825-01-01",
   "creation_date_latest": "1835-01-01",
@@ -11,13 +11,15 @@
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
   "item_width": 4.0,
-  "item_height": 6.25,
-  "item_depth": 3.25,
+  "item_height": 6.0,
+  "item_depth": 3.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1010050",
   "provenance_text": "Mr. And Mrs. George Magee Wyckoff, Sewickley, PA",
-  "classification": "Unclassified",
-  "images": null,
+  "classification": "crèches",
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9eabd8c2-9339-40da-9343-22fd27820f0b",

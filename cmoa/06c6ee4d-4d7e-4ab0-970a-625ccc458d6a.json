@@ -1,0 +1,39 @@
+{
+  "title": "Self Portrait, NYC",
+  "creation_date": "1972",
+  "creation_date_earliest": "1972-01-01",
+  "creation_date_latest": "1972-01-01",
+  "medium": "two gelatin silver prints",
+  "accession_number": "2016.37.2",
+  "id": "cmoa:things/06c6ee4d-4d7e-4ab0-970a-625ccc458d6a",
+  "credit_line": "The William T. Hillman Fund for Photography",
+  "date_acquired": "2016-09-08",
+  "department": "Photography",
+  "physical_location": "Not on View",
+  "item_width": 5.875,
+  "item_height": 7.438,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=117826",
+  "provenance_text": "Barboza [b. 1944].  Keith De Lellis Gallery, New York, NY; purchased by Carnegie Museum of Art, Pittsburgh, PA, September 2016",
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157855&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/996b9c9c-7613-4031-9a70-6cabaacd3b32",
+      "party_type": "Person",
+      "full_name": "Anthony Barboza",
+      "cited_name": "Barboza, Anthony",
+      "role": "artist",
+      "nationality": "American",
+      "birth_date": "1944-01-01",
+      "death_date": null,
+      "birth_place": "New Bedford, MA",
+      "death_place": null
+    }
+  ]
+}

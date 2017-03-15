@@ -10,14 +10,16 @@
   "date_acquired": "2015-02-11",
   "department": "Photography",
   "physical_location": "Not on View",
-  "item_width": 49.0,
-  "item_height": 18.0,
+  "item_width": 0.0,
+  "item_height": 0.0,
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=106807",
   "provenance_text": null,
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/07139f08-c1c9-46ea-92cf-6835c72cdea7",

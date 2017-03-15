@@ -6,7 +6,7 @@
   "medium": "stipple engraving",
   "accession_number": "2014.86",
   "id": "cmoa:things/f8c080c1-0342-4195-bac2-4df7340f891e",
-  "credit_line": "Gift of Costas Karakatsanis, Barbara Blackmond and Alec Karakatsanis, in memory of Irving and Betty Sikov",
+  "credit_line": "Purchase made possible by Costas Karakatsanis, Barbara Blackmond and Alec Karakatsanis, in memory of Irving and Betty Sikov",
   "date_acquired": "2015-02-11",
   "department": "Fine Arts",
   "physical_location": "Not on View",
@@ -43,36 +43,12 @@
       "party_type": "Person",
       "full_name": "Reverend Matthew William Peters",
       "cited_name": "Peters, Reverend Matthew William",
-      "role": "publisher",
+      "role": null,
       "nationality": "British",
       "birth_date": "1742-01-01",
       "death_date": "1814-03-20",
       "birth_place": "Freshwater, Isle of Wight",
       "death_place": "Brasted Place, Kent, England"
-    },
-    {
-      "artist_id": "cmoa:parties/7066c876-a96f-4584-9719-a18bff5a16d2",
-      "party_type": "Person",
-      "full_name": "John Boydell",
-      "cited_name": "Boydell, John",
-      "role": "publisher",
-      "nationality": "British",
-      "birth_date": "1720-01-19",
-      "death_date": "1804-12-12",
-      "birth_place": "Woore, England",
-      "death_place": "London, England"
-    },
-    {
-      "artist_id": "cmoa:parties/7995bf5e-58a8-4454-b7c5-3bd707b5514a",
-      "party_type": "Person",
-      "full_name": "Josiah Boydell",
-      "cited_name": "Boydell, Josiah",
-      "role": null,
-      "nationality": "British",
-      "birth_date": "1752-01-01",
-      "death_date": "1817-01-01",
-      "birth_place": "Hawarden, Wales",
-      "death_place": "Surrey, England"
     }
   ]
 }

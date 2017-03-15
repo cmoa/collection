@@ -3,7 +3,7 @@
   "creation_date": "c.1630",
   "creation_date_earliest": "1615-01-01",
   "creation_date_latest": "1645-01-01",
-  "medium": "etching",
+  "medium": "etching, first state",
   "accession_number": "74.7.221",
   "id": "cmoa:things/f56a11e1-f6a9-42e0-ab66-03f88d4b9d1d",
   "credit_line": "Bequest of Charles J. Rosenbloom",
@@ -15,7 +15,7 @@
   "item_depth": 0.0,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1017395",
-  "provenance_text": "Bequest of Charles J. Rosenbloom, Pittsburgh, PA, 1974.",
+  "provenance_text": "Charles J. Rosenbloom [1898-1973], Pittsburgh, PA (Lugt Suppl. 633b), until April 1, 1973; his bequest to Museum of Art, Carnegie Institute, Pittsburgh, PA, February 1974.\n\nUnder review by CGK.",
   "classification": "prints",
   "images": [
     {
@@ -28,11 +28,23 @@
       "party_type": "Person",
       "full_name": "Anthony van Dyck",
       "cited_name": "Van Dyck, Anthony",
-      "role": null,
+      "role": "after",
       "nationality": "Flemish",
       "birth_date": "1599-01-01",
       "death_date": "1641-01-01",
       "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "London, England"
+    },
+    {
+      "artist_id": "cmoa:parties/0f025e69-aecd-4742-9e21-ff76f31cd486",
+      "party_type": "Person",
+      "full_name": "Hans Holbein the Younger",
+      "cited_name": "Holbein, Hans, the Younger",
+      "role": null,
+      "nationality": "German",
+      "birth_date": "1497-01-01",
+      "death_date": "1543-01-01",
+      "birth_place": "Augsburg, Germany",
       "death_place": "London, England"
     }
   ]

@@ -1,0 +1,49 @@
+{
+  "title": "Procession with pack mules, camels, and pigs, from the Palazzo Gaddi facade",
+  "creation_date": "1650-1691",
+  "creation_date_earliest": "1650-01-01",
+  "creation_date_latest": "1691-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.5",
+  "id": "cmoa:things/5ff65532-75fb-4dbd-9e8e-5c543100ac39",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 21.375,
+  "item_height": 8.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112818",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/0a90f491-4e16-4a52-b3aa-bdf5c83968d9",
+      "party_type": "Person",
+      "full_name": "Pietro Sante Bartoli",
+      "cited_name": "Bartoli, Pietro Sante",
+      "role": "engraver",
+      "nationality": "Italian",
+      "birth_date": "1615-01-01",
+      "death_date": "1700-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7ebc81a9-99e0-4cda-b2c7-6054f885752e",
+      "party_type": "Person",
+      "full_name": "Polidoro da Caravaggio",
+      "cited_name": "Polidoro da Caravaggio",
+      "role": "after",
+      "nationality": "Italian",
+      "birth_date": "1494-01-01",
+      "death_date": "1538-01-01",
+      "birth_place": "Caravaggio (Bergamo province, Lombardy, Italy)",
+      "death_place": "Messina (Messina province, Sicily, Italy)"
+    }
+  ]
+}

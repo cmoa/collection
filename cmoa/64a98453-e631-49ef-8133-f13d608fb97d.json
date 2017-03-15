@@ -1,0 +1,51 @@
+{
+  "title": "Portrait of auto mechanic Sam \"Scotty\" Scott, standing next to car with open hood",
+  "creation_date": "c. 1944, printed c. 2000",
+  "creation_date_earliest": "1939-01-01",
+  "creation_date_latest": "2005-01-01",
+  "medium": "gelatin silver print",
+  "accession_number": "2012.49.3",
+  "id": "cmoa:things/64a98453-e631-49ef-8133-f13d608fb97d",
+  "credit_line": "Gift of the children of Charles Teenie Harris: Charles A. Harris, Ira Vann Harris, Lionel L. Harris, Crystal Harris Pass, Cheryl A. Harris",
+  "date_acquired": "2012-12-13",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 0.0,
+  "item_height": 0.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=99144",
+  "provenance_text": null,
+  "classification": "photographs",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=115356&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/c6f0eebf-b566-4532-b704-ce6ad6cb421c",
+      "party_type": "Person",
+      "full_name": "Charles \"Teenie\" Harris",
+      "cited_name": "Harris, Charles \"Teenie\"",
+      "role": "photographer",
+      "nationality": "American",
+      "birth_date": "1908-01-01",
+      "death_date": "1998-01-01",
+      "birth_place": "Pittsburgh PA",
+      "death_place": "Pittsburgh PA"
+    },
+    {
+      "artist_id": "cmoa:parties/69afc0dc-f0be-4975-adf5-9641ff7f209f",
+      "party_type": "Person",
+      "full_name": "Gus Kayafas",
+      "cited_name": "Kayafas, Gus",
+      "role": "printer",
+      "nationality": "American",
+      "birth_date": "1947-01-01",
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Biennale Update",
+  "creation_date": "1995 (February)",
+  "creation_date_earliest": "1995-01-01",
+  "creation_date_latest": "1992-01-01",
+  "medium": "Printed box with 11 printed t-shirts",
+  "accession_number": "2015.47.36.A-L",
+  "id": "cmoa:things/32be548b-8981-4d1d-871a-03f7e8b66ceb",
+  "credit_line": "Gift of Eileen and Michael Cohen",
+  "date_acquired": "2016-02-11",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 17.125,
+  "item_height": 7.25,
+  "item_depth": 12.375,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=111003",
+  "provenance_text": "Sies + Hoke Galerie, Germany",
+  "classification": "installations",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/7b59035d-77fa-4dba-a877-69faf49a54e7",
+      "party_type": "Person",
+      "full_name": "Rirkrit Tiravanija",
+      "cited_name": "Tiravanija, Rirkrit",
+      "role": null,
+      "nationality": "Thai",
+      "birth_date": "1961-01-01",
+      "death_date": null,
+      "birth_place": "Buenos Aires, Argentina",
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/0712f04d-2f63-476a-91b7-51bd3da5e72e",
+      "party_type": "Person",
+      "full_name": "Philippe Parreno",
+      "cited_name": "Philippe Parreno",
+      "role": null,
+      "nationality": "French",
+      "birth_date": "1963-01-01",
+      "death_date": null,
+      "birth_place": "Oran, Algeria",
+      "death_place": null
+    }
+  ]
+}

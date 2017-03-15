@@ -11,13 +11,15 @@
   "department": "Photography",
   "physical_location": "Not on View",
   "item_width": 3.25,
-  "item_height": 4.5,
-  "item_depth": 0.0,
+  "item_height": 4.375,
+  "item_depth": 0.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1003612",
   "provenance_text": "Robert L. Babich, Glenview, Illinois",
   "classification": "photographs",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/9f1ab7bd-4861-469a-b3e6-9b80e8db02ef",

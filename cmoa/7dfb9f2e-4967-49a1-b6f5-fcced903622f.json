@@ -15,23 +15,23 @@
   "item_depth": 1.5,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=92544",
-  "provenance_text": null,
+  "provenance_text": "Charmion von Wiegand [1900-1983], New York, NY. Ruth Einstein Wilner [1909-2010], New York, NY, until January 2010 [1]; estate of Ruth E. Wilner, January 2010 until February 2011; bequest to Carnegie Museum of Art, Pittsburgh, PA, February 2011 [2].\n\nNotes:\n[1]. Ruth E. Wilner (Mrs. J. Alfred Wilner) had resided in Pittsburgh, PA prior to moving to New York City.\n[2]. The work was received at the museum in September 2010 and accessioned the following February.",
   "classification": "paintings",
   "images": [
 
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/589aceff-36d5-4f47-b198-2d454c59dfe8",
+      "artist_id": "cmoa:parties/debc0e19-78c8-4bc0-87f7-ab9853b72203",
       "party_type": "Person",
       "full_name": "Charmion von Wiegand",
       "cited_name": "von Wiegand, Charmion",
       "role": null,
       "nationality": "American",
-      "birth_date": "1900-01-01",
+      "birth_date": "1896-01-01",
       "death_date": "1983-01-01",
-      "birth_place": null,
-      "death_place": null
+      "birth_place": "Chicago, IL",
+      "death_place": "New York"
     }
   ]
 }

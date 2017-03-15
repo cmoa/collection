@@ -1,0 +1,42 @@
+{
+  "title": "Noart",
+  "creation_date": "1981",
+  "creation_date_earliest": "1981-01-01",
+  "creation_date_latest": "1981-01-01",
+  "medium": "chalk and tempera on slate with wood",
+  "accession_number": "2016.22.1",
+  "id": "cmoa:things/bdf63c29-0168-4c97-b4ab-802bca9f308c",
+  "credit_line": "The Henry L. Hillman Fund",
+  "date_acquired": "2016-09-08",
+  "department": "Contemporary Art",
+  "physical_location": "Not on View",
+  "item_width": 11.125,
+  "item_height": 8.375,
+  "item_depth": 0.5,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=117907",
+  "provenance_text": "Estate of Dimitrije Bašičević Mangelos; (Peter Freeman Gallery, New York, NY); Carnegie Museum of Art, Pittsburgh, PA",
+  "classification": "sculpture",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157524&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=157525&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/4b573495-e493-46d2-9fd8-1cb77456f4a5",
+      "party_type": "Person",
+      "full_name": "Mangelos (Dimitrije Basicevic)",
+      "cited_name": "Mangelos (Dimitrije Basicevic)",
+      "role": null,
+      "nationality": "Croatian",
+      "birth_date": "1921-01-01",
+      "death_date": "1987-01-01",
+      "birth_place": "Sid, Croatia",
+      "death_place": "Zagreb, Croatia"
+    }
+  ]
+}

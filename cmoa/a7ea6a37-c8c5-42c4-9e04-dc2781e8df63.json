@@ -1,0 +1,49 @@
+{
+  "title": "Old man with beard and long hair",
+  "creation_date": "1761",
+  "creation_date_earliest": "1761-01-01",
+  "creation_date_latest": "1761-01-01",
+  "medium": "etching and drypoint",
+  "accession_number": "2016.4.138",
+  "id": "cmoa:things/a7ea6a37-c8c5-42c4-9e04-dc2781e8df63",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.625,
+  "item_height": 6.75,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112999",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/1297a4a7-c32b-4349-b0c4-e6dbe49d0d1e",
+      "party_type": "Person",
+      "full_name": "William Baillie",
+      "cited_name": "Baillie, William",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1723-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9ad7eee6-c0a1-4b32-b23b-529938123670",
+      "party_type": "Person",
+      "full_name": "Rembrandt Harmensz. van Rijn",
+      "cited_name": "Rijn, Rembrandt Harmensz. van",
+      "role": null,
+      "nationality": "Dutch",
+      "birth_date": "1606-01-01",
+      "death_date": "1669-01-01",
+      "birth_place": "Leyden (South Holland, Netherlands)",
+      "death_place": "Amsterdam (North Holland, Netherlands)"
+    }
+  ]
+}

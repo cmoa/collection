@@ -17,7 +17,14 @@
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2063",
   "provenance_text": null,
   "classification": "architectural models",
-  "images": null,
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159933&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=159934&size=Medium"
+    }
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/b81499a2-dc1b-48d8-ac1f-dcb783b10788",

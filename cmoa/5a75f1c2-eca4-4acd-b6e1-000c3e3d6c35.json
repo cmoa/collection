@@ -1,0 +1,39 @@
+{
+  "title": "William Pitt, Earl of Chatham",
+  "creation_date": "1778",
+  "creation_date_earliest": "1778-01-01",
+  "creation_date_latest": "1778-01-01",
+  "medium": "etching and aquatint in brown ink on laid paper, first state",
+  "accession_number": "2016.10",
+  "id": "cmoa:things/5a75f1c2-eca4-4acd-b6e1-000c3e3d6c35",
+  "credit_line": "Robert S. Waters Charitable Trust Fund",
+  "date_acquired": "2016-05-12",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 14.563,
+  "item_height": 18.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112452",
+  "provenance_text": "C. G. Boerner, New York",
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=154007&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/e0c478d6-3d34-4c14-8a1b-b1f13fff8583",
+      "party_type": "Person",
+      "full_name": "James Barry",
+      "cited_name": "Barry, James",
+      "role": null,
+      "nationality": "Irish",
+      "birth_date": "1741-01-01",
+      "death_date": "1806-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "Annunciation",
+  "creation_date": "1579",
+  "creation_date_earliest": "1578-12-22",
+  "creation_date_latest": "1578-12-22",
+  "medium": "engraving",
+  "accession_number": "2016.4.42",
+  "id": "cmoa:things/e52eb0dd-0918-4ea9-bc4f-44838f1c8700",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 5.125,
+  "item_height": 7.375,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112844",
+  "provenance_text": "The Allery, Toronto $10; Rolf Loeber, Pittsburgh, PA",
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/35e899e7-01bd-4a78-98c4-34e597ea63ea",
+      "party_type": "Person",
+      "full_name": "Jan Sadeler I",
+      "cited_name": "Sadeler, Jan I",
+      "role": "engraver",
+      "nationality": "Flemish",
+      "birth_date": "1550-01-01",
+      "death_date": "1600-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/9caa4d57-fcc4-4206-a65a-717d1366f0a1",
+      "party_type": "Person",
+      "full_name": "Maarten de Vos",
+      "cited_name": "Vos, Maarten de",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1532-01-01",
+      "death_date": "1603-01-01",
+      "birth_place": "Antwerp (Antwerpen province, Flanders, Belgium)",
+      "death_place": "Antwerp (Antwerpen province, Flanders, Belgium)"
+    }
+  ]
+}

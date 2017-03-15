@@ -1,0 +1,49 @@
+{
+  "title": "The Captive",
+  "creation_date": "1786",
+  "creation_date_earliest": "1786-01-01",
+  "creation_date_latest": "1786-01-01",
+  "medium": "stipple with etching",
+  "accession_number": "2016.4.150",
+  "id": "cmoa:things/c0aa099f-fdbf-4a01-a93f-2e1c1d38b16b",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 26.625,
+  "item_height": 19.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112946",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/18461160-8943-490c-8b47-5c02653ac635",
+      "party_type": "Person",
+      "full_name": "Thomas Ryder",
+      "cited_name": "Ryder, Thomas",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": "1746-01-01",
+      "death_date": "1810-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c0325603-4f2e-4d88-a0b8-b499e6bf0bc1",
+      "party_type": "Person",
+      "full_name": "Joseph Wright of Derby",
+      "cited_name": "Wright of Derby, Joseph",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1734-01-01",
+      "death_date": "1797-01-01",
+      "birth_place": " Derby (Derbyshire, England, United Kingdom)",
+      "death_place": " Derby (Derbyshire, England, United Kingdom)"
+    }
+  ]
+}

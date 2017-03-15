@@ -1,9 +1,9 @@
 [![DOI](https://zenodo.org/badge/9060/cmoa/collection.svg)](https://zenodo.org/badge/latestdoi/9060/cmoa/collection)
 
 #Welcome to the Carnegie Museum of Art’s Collection Dataset. 
-In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on approximately 27386 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center.  
+In celebration of our 120th anniversary, Carnegie Museum of Art is making public the collections records of all of its accessioned artworks. This release contains data on approximately 28269 objects across all departments of the museum; fine arts, decorative arts, photography, contemporary art, and the Heinz Architectural Center.  
 
-Additionally, the metadata for the Teenie Harris Archive has been included.  For ease of use, they are contained within their own files, but it includes approximately 58753 records using the same structure and format.
+Additionally, the metadata for the Teenie Harris Archive has been included.  For ease of use, they are contained within their own files, but it includes approximately 59031 records using the same structure and format.
 
 In this repository, you will find the files containing all of the records, as well as a description of the data, the data structure, and some guidelines on using the data. Please take a minute to familiarize yourself with the structure and guidelines below. 
 
@@ -81,7 +81,7 @@ death_place            |  String        | Optional     | Name of place of death,
 
 
 ##Usage Guidelines 
-The dataset contains the data and metadata of approximately 27386 objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) and another approximately 58753 records from the Teenie Harris Archive in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
+The dataset contains the data and metadata of approximately 28269 objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) and another approximately 59031 records from the Teenie Harris Archive in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
 
 Please [contact us](mailto:webmaster@cmoa.org) if you have any questions. 
 

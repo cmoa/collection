@@ -10,13 +10,13 @@
   "date_acquired": "1995-01-19",
   "department": "Decorative Arts and Design",
   "physical_location": "Not on View",
-  "item_width": 1.875,
+  "item_width": 1.375,
   "item_height": 3.75,
-  "item_depth": 0.125,
+  "item_depth": 0.063,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=1035773",
   "provenance_text": "Regen-Leigh, Atlanta, GA",
-  "classification": "Organic Materials",
+  "classification": "tools and equipment",
   "images": [
     {
       "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=5063&size=Medium"
@@ -24,12 +24,24 @@
   ],
   "creator": [
     {
-      "artist_id": "cmoa:parties/d244e864-5c40-49a4-974b-d8acf706bad2",
+      "artist_id": "cmoa:parties/1cdeb0fb-59a6-41bd-b603-1217a1e88f6f",
       "party_type": "Person",
-      "full_name": "unknown Jamaican or British",
-      "cited_name": "unknown Jamaican or British",
-      "role": null,
-      "nationality": "undetermined",
+      "full_name": "unknown Jamaican",
+      "cited_name": "unknown Jamaican",
+      "role": "possibly by",
+      "nationality": "Jamaican",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/c24b3081-12ab-4188-87a7-befc9d2e6c2d",
+      "party_type": "Person",
+      "full_name": "unknown British",
+      "cited_name": "unknown British",
+      "role": "possibly by",
+      "nationality": "British",
       "birth_date": null,
       "death_date": null,
       "birth_place": null,

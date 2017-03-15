@@ -1,0 +1,49 @@
+{
+  "title": "Colisseum",
+  "creation_date": "1820",
+  "creation_date_earliest": "1820-01-01",
+  "creation_date_latest": "1820-01-01",
+  "medium": "engraving and aquatint",
+  "accession_number": "2016.4.178",
+  "id": "cmoa:things/4967e855-ed0d-49eb-8eb8-851e5be0a457",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 21.625,
+  "item_height": 16.0,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112984",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/ab31cbef-5a13-430c-bd9b-df4d0d669302",
+      "party_type": "Person",
+      "full_name": "Henry Abbott",
+      "cited_name": "Abbott, Henry",
+      "role": "after",
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": null,
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/e69a8e8b-c23a-43d8-a059-a9438088bf3c",
+      "party_type": "Person",
+      "full_name": "Daniel Havell",
+      "cited_name": "Havell, Daniel",
+      "role": null,
+      "nationality": "British",
+      "birth_date": null,
+      "death_date": "1821-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

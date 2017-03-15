@@ -1,0 +1,54 @@
+{
+  "title": "Pierre Mignard",
+  "creation_date": "1744",
+  "creation_date_earliest": "1744-01-01",
+  "creation_date_latest": "1744-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.4.14",
+  "id": "cmoa:things/1a89e6b5-bff6-4397-835c-63697a41a09f",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 20.0,
+  "item_height": 28.125,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112823",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150810&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150811&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/6ab72851-094c-4222-a43b-d105daf1d43d",
+      "party_type": "Person",
+      "full_name": "Georg Frederich Schmidt",
+      "cited_name": "Schmidt, Georg Friedrich",
+      "role": "engraver",
+      "nationality": "German",
+      "birth_date": "1712-01-01",
+      "death_date": "1775-01-01",
+      "birth_place": "Schönerlinde (Brandenburg, Germany)",
+      "death_place": " Berlin (Berlin state, Germany)"
+    },
+    {
+      "artist_id": "cmoa:parties/6e2b827d-6077-4933-bf87-f3130fe7571c",
+      "party_type": "Person",
+      "full_name": "Hyacinthe Rigaud",
+      "cited_name": "Rigaud, Hyacinthe",
+      "role": "after",
+      "nationality": "French",
+      "birth_date": "1659-01-01",
+      "death_date": "1743-01-01",
+      "birth_place": "Perpignan, France",
+      "death_place": "Paris, France"
+    }
+  ]
+}

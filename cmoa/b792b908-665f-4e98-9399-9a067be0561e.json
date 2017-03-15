@@ -1,0 +1,54 @@
+{
+  "title": "The Passion: The resurrection",
+  "creation_date": "1596-1598",
+  "creation_date_earliest": "1596-01-01",
+  "creation_date_latest": "1598-01-01",
+  "medium": "engraving",
+  "accession_number": "2016.57.13",
+  "id": "cmoa:things/b792b908-665f-4e98-9399-9a067be0561e",
+  "credit_line": "Charles J. Rosenbloom Fund and Frances G. Scaife Fund",
+  "date_acquired": "2016-12-08",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 4.125,
+  "item_height": 5.938,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=120701",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158803&size=Medium"
+    },
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=158807&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/999c59f1-ad97-4abc-b3c6-5451b14fd31a",
+      "party_type": "Person",
+      "full_name": "Karel van Mander I",
+      "cited_name": "Mander, Karel van, I",
+      "role": "after",
+      "nationality": "Dutch",
+      "birth_date": "1548-01-01",
+      "death_date": "1606-01-01",
+      "birth_place": null,
+      "death_place": null
+    },
+    {
+      "artist_id": "cmoa:parties/7c853756-bd8e-4bbb-ada7-b5f8199a36d8",
+      "party_type": "Person",
+      "full_name": "Jacques de Gheyn II",
+      "cited_name": "de Gheyn, Jacques II",
+      "role": "engraver",
+      "nationality": "Dutch",
+      "birth_date": "1565-01-01",
+      "death_date": "1629-01-01",
+      "birth_place": null,
+      "death_place": null
+    }
+  ]
+}

@@ -10,14 +10,16 @@
   "date_acquired": "2003-04-03",
   "department": "Contemporary Art",
   "physical_location": "Not on View",
-  "item_width": 4.75,
-  "item_height": 3.5,
-  "item_depth": 0.0,
+  "item_width": 9.125,
+  "item_height": 11.625,
+  "item_depth": 1.375,
   "item_diameter": 0.0,
   "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=2992",
   "provenance_text": "Daniel Reich Gallery, New York",
   "classification": "drawings and watercolors",
-  "images": null,
+  "images": [
+
+  ],
   "creator": [
     {
       "artist_id": "cmoa:parties/336d1a59-3d75-41f8-97a9-cb1236e07be7",
@@ -28,7 +30,7 @@
       "nationality": "American",
       "birth_date": "1972-01-01",
       "death_date": null,
-      "birth_place": "Anaheim (Orange county, California, United States)",
+      "birth_place": "Anaheim, California",
       "death_place": null
     }
   ]

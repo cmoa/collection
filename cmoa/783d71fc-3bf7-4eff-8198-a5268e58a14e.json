@@ -1,0 +1,39 @@
+{
+  "title": "Road by Blasted Oak",
+  "creation_date": "1813/1838",
+  "creation_date_earliest": "1813-01-01",
+  "creation_date_latest": "1838-01-01",
+  "medium": "etching on chine collé, fifth state",
+  "accession_number": "2016.4.177",
+  "id": "cmoa:things/783d71fc-3bf7-4eff-8198-a5268e58a14e",
+  "credit_line": "Gift of Rolf and Magda Loeber",
+  "date_acquired": "2016-02-11",
+  "department": "Fine Arts",
+  "physical_location": "Not on View",
+  "item_width": 17.25,
+  "item_height": 13.5,
+  "item_depth": 0.0,
+  "item_diameter": 0.0,
+  "web_url": "http://www.cmoa.org/CollectionDetail.aspx?item=112977",
+  "provenance_text": null,
+  "classification": "prints",
+  "images": [
+    {
+      "image_url": "http://www.cmoa.org/CollectionImage.aspx?irn=150825&size=Medium"
+    }
+  ],
+  "creator": [
+    {
+      "artist_id": "cmoa:parties/89d8d006-2630-45d9-b679-9cd8c4f93615",
+      "party_type": "Person",
+      "full_name": "John Bernay Crome",
+      "cited_name": "Crome, John B.",
+      "role": null,
+      "nationality": "British",
+      "birth_date": "1793-01-01",
+      "death_date": "1842-01-01",
+      "birth_place": "Norwich (Norfolk county, England, United Kingdom)",
+      "death_place": "Great Yarmouth (Norfolk county, England, United Kingdom)"
+    }
+  ]
+}
