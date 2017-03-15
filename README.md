@@ -80,13 +80,13 @@ death_place            |  String        | Optional     | Name of place of death,
 ---
 
 
-##Usage Guidelines 
+## Usage Guidelines 
 The dataset contains the data and metadata of approximately 28269 objects in the collection of [Carnegie Museum of Art](http://www.cmoa.org) and another approximately 59031 records from the Teenie Harris Archive in Pittsburgh, PA, USA. We are providing this data without restrictions for all to enjoy. We've got a few guidelines, but we've worked hard to make this dataset as open and explorable as possible. 
 
 Please [contact us](mailto:webmaster@cmoa.org) if you have any questions. 
 
 
-###Image usage
+### Image usage
 The dataset provides links to collections images on CMOA’s [collections search page](http://www.cmoa.org/collection/), but does not provide the images themselves. 
 
 __Images are not covered under the same license as the dataset.__
@@ -110,15 +110,15 @@ Thanks!
 
 Please note that we will *not* accept pull requests for the **data** in this repository.  If you have corrections, please email them to us at <mailto:webmaster@cmoa.org> and we will forward them to the appropriate department for correction and inclusion in a future release.  We will, however, review issues and pull requests for **documentation** or other non-data content here, as well as issues or suggestions of how we could improve these releases. 
 
-###Attribution
+### Attribution
 Our dataset is being offered under [CC0 1.0 Universal license](https://creativecommons.org/publicdomain/zero/1.0/). 
 
 We respectfully ask that you acknowledge CMOA as a source wherever possible, in order to preserve a link to the dataset. If this data is to be cited in a publication, please cite it using this DOI: [![DOI](https://zenodo.org/badge/9060/cmoa/collection.svg)](https://zenodo.org/badge/latestdoi/9060/cmoa/collection).  By providing acknowledgement or citation, you enable others to verify, replicate, and further explore your presentation and interpretation of our data. And it’s just nice. 
 
-###No Endorsement/Representation
+### No Endorsement/Representation
 
 Use of this dataset __does not__ grant or imply CMOA’s approval, commission, or support of your work.  CMOA retains the rights to all of its trademarks, and they are not part of the dataset. If you transform or modify to the dataset, you must clearly distinguish the resulting work as having been modified from the CMOA dataset. If you create a derivative dataset from the CMOA dataset, we ask that you consider releasing the derivative under a CC0 license, which mirrors the licensing of the CMOA dataset.
 
-###Acknowledgement
+### Acknowledgement
 The writers owe a debt to [MoMA](http://www.moma.org), [Tate](http://www.tate.org.uk/), and [Cooper Hewitt](http:www.cooperhewitt.org) for their help in shaping these guidelines, and their leadership in this area. Cheers! 
 
