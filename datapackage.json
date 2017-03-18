@@ -1,6 +1,12 @@
 {
   "name": "org.cmoa.records.collection_and_teenie_harris",
-  "license": "CC0-1.0",
+  "licenses": [
+    {
+      "name": "cc_zero",
+      "title": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+      "url": "http://creativecommons.org/publicdomain/zero/1.0/" 
+    }    
+  ],
   "title": "Collection of the Carnegie Museum of Art & the Teenie Harris Archive.",
   "homepage": "https://github.com/cmoa/collection",
   "repository": "git://github.com/cmoa/collection.git",
@@ -44,37 +50,49 @@
       {
        "name" : "title",
        "type": "string",
-       "required": true,
+       "constraints": {
+          "required": true
+        },
        "description": "The main title that identifies the object or artwork. No multiples."
       },
       {
        "name" : "creation_date",
        "type": "string",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The human readable date of creation for the object. Note that this is a string and may not be a valid date."
       },
       {
        "name" : "creation_date_earliest",
        "type": "date",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "This is the earliest date the object could have been created. May be null if no date known. May be the same as creation_date_latest, which indicates an exact date known."
       },
       {
        "name" : "creation_date_latest",
        "type": "date",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "This is the latest date the object could have been created. May be null if no date known. May be the same as creation_date_earlier, which indicates an exact date known."
       },
       {
        "name" : "medium",
        "type": "string",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "Material of which this is this object/artwork is made."
       },
       {
        "name" : "accession_number",
        "type": "string",
-       "required": true,
+       "constraints": {
+          "required": true
+        },
        "description": "This is a number assigned by the museum when it takes official ownership of an object."
       },
       {
@@ -82,143 +100,189 @@
        "type": "string",
        "format": "uuid",
        "unique": true,
-       "required": true,
+       "constraints": {
+          "required": true
+        },
        "description": "A unique string that identifies the record of the object in the collections database."
       },
       {
        "name" : "credit_line",
        "type": "string",
-       "required": true,
+       "constraints": {
+          "required": true
+        },
        "description": "Identifies and gives credit to the person, foundation, or method by which the object was acquired."
       },
       {
        "name" : "date_acquired",
        "type": "date",
-       "required": true,
+       "constraints": {
+          "required": true
+        },
        "description": "The date the object became the legal property of the museum."
       },
       {
        "name" : "department",
        "type": "string",
-       "enum": ["Contemporary Art", "Decorative Arts and Design", "Photography", "Fine Arts", "Heinz Architectural Center", "CA/DA", "Film and Video"],
-       "required": false,
+       "constraints": {
+          "required": false,
+          "enum": ["Contemporary Art", "Decorative Arts and Design", "Photography", "Fine Arts", "Heinz Architectural Center", "CA/DA", "Film and Video"]
+        },
        "description": "The department within the museum that is responsible for the item."
       },
       {
        "name" : "physical_location",
        "type": "string",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The location of the object/artwork within the museum. When an object is on view in the galleries, a specific gallery location is given. When an object is in storage, the location will only say Not on View. If an object is on loan to another institution, it will say on loan."
       },
       {
        "name" : "item_width",
        "type": "number",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The maximum width of the artwork/object in inches."
       },
       {
        "name" : "item_height",
        "type": "number",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The maximum height of the artwork/object in inches."
       },
       {
        "name" : "item_depth",
        "type": "number",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The maximum depth of the artwork/object in inches."
       },
       {
        "name" : "item_diameter",
        "type": "number",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The maximum diameter of the artwork/object in inches."
       },
       {
        "name" : "web_url",
        "type": "string",
        "format": "uri",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The URL of the collection page for this item."
       },
       {
        "name" : "provenance_text",
        "type": "string",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The ownership history of an object/artwork."
       },
       {
        "name" : "classification",
        "type": "string",
-       "required": false,
+       "constraints": {
+          "required": false
+        },
        "description": "The name of a group to which the work belongs within the museum's classification scheme, based on similar characteristics."
       },
       {
         "name": "image_url",
         "type": "string",
         "format": "uri",
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "The URL of a thumbnail image of the artwork."
       },
       {
         "name": "artist_id",
         "type": "string",
-        "required": true,
+        "constraints": {
+          "required": true
+        },
         "description": "This is a unique identifier for the artist."
       },
       {
         "name": "party_type",
         "type": "string",
-        "required": true,
-        "description": "This is the type of entity represented.",
-        "enum": ["Organization","Person"," Collaboration"]
+        "constraints": {
+          "required": true,
+          "enum": ["Organization","Person","Collaboration"]
+        },
+        "description": "This is the type of entity represented."
       },
       {
         "name": "full_name",
         "type": "string",
-        "required": true,
+        "constraints": {
+          "required": true
+        },
         "description": "The full name of the artist, creator, or creators, who made the object."
       },
       {
         "name": "cited_name",
         "type": "string",
-        "required": true,
+        "constraints": {
+          "required": true
+        },
         "description": "The name of the artist as used in a standard citation, with surname first, and forename last."
       },
       {
         "name": "role",
         "type": "string",
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "Describes a person’s involvement with this object."
       },
       {
         "name": "nationality",
         "type": "string",
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "The nationality of the artist/creator."
       },
       {
         "name": "birth_date",
         "type": "string"  ,
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "The birthdate of the artist/creator. Precision may vary based on how much is known about the artist"
       },
       {
         "name": "death_date",
         "type": "string"  ,
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "The death date of the artist/creator. Precision may vary based on how much is known about the artist"
       },
       {
         "name": "birth_place",
         "type": "string",
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "Name of place of birth, with as much specificity as possible, preference is for City, Country if known. If city is unknown, then list only country."
       },
       {
         "name": "death_place",
         "type": "string",
-        "required": false,
+        "constraints": {
+          "required": false
+        },
         "description": "Name of place of death, with as much specificity as possible, preference is for City, Country if known. If city is unknown, then list only country."
       }
       ]
